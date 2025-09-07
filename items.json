@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-07T23:25:50.154974+00:00",
-  "count": 14,
+  "updated_iso": "2025-09-07T23:38:08.995893+00:00",
+  "count": 16,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-former-eagles-see-varying-early-201623683-html",
@@ -113,6 +113,22 @@
       "source": "Bleeding Green Nation",
       "ts": 1757119268.0,
       "published_iso": "2025-09-06T00:41:08+00:00"
+    },
+    {
+      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
+      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
+      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
+      "source": "cbsnews.com",
+      "ts": 1757025600.0,
+      "published_iso": "2025-09-04T22:40:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-nfl-kickoff-game-winners-losers-042235556-html",
+      "title": "NFL Kickoff Game: Winners, Losers from Philadelphia Eagles’ 24-20 Win Over Cowboys",
+      "link": "https://sports.yahoo.com/article/nfl-kickoff-game-winners-losers-042235556.html",
+      "source": "Yahoo Sports",
+      "ts": 1757023200.0,
+      "published_iso": "2025-09-04T22:00:00+00:00"
     }
   ]
 }
