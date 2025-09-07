@@ -4,9 +4,9 @@ from urllib.parse import urlparse, urlunparse
 import requests, feedparser
 import feeds
 
-USER_AGENT = "TeamNewsCollector/1.2 (+https://github.com/)"
+USER_AGENT = "TeamNewsCollector/1.3 (+https://github.com/)"
 TIMEOUT = 12
-MAX_ITEMS = 100
+MAX_ITEMS = 120
 BOOTSTRAP_MIN = 12
 
 SESSION = requests.Session()
@@ -51,20 +51,26 @@ def ts_from_entry(entry) -> float:
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         val = getattr(entry, key, None)
         if val:
-            try: return time.mktime(val)
-            except Exception: pass
+            try:
+                return time.mktime(val)
+            except Exception:
+                pass
     return time.time()
 
 def allow_item(item) -> bool:
+    # Trusted feeds always allowed
     if item.get("trusted"):
         return True
     blob = f"{item.get('title','')} {item.get('summary','')}".lower()
-    if getattr(feeds, "TEAM_KEYWORDS", []) and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
+
+    # Light filter: must at least match "eagles" or "philadelphia eagles"
+    if "eagles" not in blob and "philadelphia" not in blob:
         return False
-    if getattr(feeds, "SPORT_TOKENS", []) and not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
-        return False
-    if any(b.lower() in blob for b in getattr(feeds, 'EXCLUDE_TOKENS', [])):
-        return False
+
+    # Optional extra filters
+    for bad in getattr(feeds, "EXCLUDE_TOKENS", []):
+        if bad.lower() in blob:
+            return False
     return True
 
 def fetch_feed(fd):
@@ -74,7 +80,7 @@ def fetch_feed(fd):
         d = feedparser.parse(url)
         for e in d.entries:
             title = normalize_title(getattr(e, "title", "") or "")
-            link = getattr(e, "link", "") or ""
+            link  = getattr(e, "link", "") or ""
             if not title or not link:
                 continue
             items.append({
@@ -93,30 +99,46 @@ def dedupe(items):
     seen, out = set(), []
     for it in items:
         k = (it["title"].lower(), it["url"])
-        if k in seen: continue
-        seen.add(k); out.append(it)
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(it)
     return out
 
 def main():
     all_items, trusted_raw = [], []
-    for fd in getattr(feeds, "FEEDS", []):
+
+    feed_list = getattr(feeds, "FEEDS", [])
+    if not feed_list:
+        print("[ERR] No FEEDS configured", file=sys.stderr)
+
+    for fd in feed_list:
         batch = fetch_feed(fd)
         all_items.extend(batch)
-        if fd.get("trusted"): trusted_raw.extend(batch)
+        if fd.get("trusted"):
+            trusted_raw.extend(batch)
 
+    # First pass
     filtered = [it for it in all_items if allow_item(it)]
     filtered = dedupe(filtered)
     filtered.sort(key=lambda x: x.get("published",""), reverse=True)
 
+    # Bootstrap: if low count, lean heavily on trusted content
     if len(filtered) < BOOTSTRAP_MIN:
         trusted_raw = dedupe(trusted_raw)
         trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
         merged, seen = [], set()
         for it in trusted_raw + filtered:
             k = (it["title"].lower(), it["url"])
-            if k in seen: continue
-            seen.add(k); merged.append(it)
+            if k in seen:
+                continue
+            seen.add(k)
+            merged.append(it)
         filtered = merged
+
+    # Absolute fallback: guarantee we publish *something*
+    if not filtered and trusted_raw:
+        filtered = trusted_raw[:BOOTSTRAP_MIN]
 
     filtered = filtered[:MAX_ITEMS]
     sources = sorted({it["source"] for it in filtered})
