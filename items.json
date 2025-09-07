@@ -1,7 +1,7 @@
 {
   "team": "Philadelphia Eagles",
   "slug": "philadelphia-eagles",
-  "updated_at": "2025-09-07T20:41:03.304662+00:00",
+  "updated_at": "2025-09-07T21:24:30.716284+00:00",
   "count": 50,
   "sources": [
     "6abc Philadelphia",
@@ -23,7 +23,6 @@
     "Inquirer.com",
     "Inside the Iggles",
     "Last Word On Sports",
-    "NBC News",
     "NBC Sports Philadelphia",
     "NBC10 Philadelphia",
     "NFL.com",
@@ -36,29 +35,61 @@
     "TWSN Sports",
     "The News Journal",
     "The US Sun",
+    "Times of India",
     "USA Today",
     "Variety",
     "Yahoo Sports",
     "Yahoo Sports — Eagles",
+    "ca.sports.yahoo.com",
     "yahoo.com"
   ],
   "items": [
     {
-      "title": "From Starkville to Gainesville, Week 2 offered its share of surprises",
-      "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal090625/college-football-week-2-highlights-top-plays-games-takeaways-2025",
-      "published": "2025-09-07T21:30:47+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Projecting the CFP top 12 after Week 2",
-      "link": "https://www.espn.com/college-football/story/_/id/46175969/projecting-college-football-playoff-top-12-week-2",
-      "published": "2025-09-07T21:30:47+00:00",
+      "title": "Early-game headlines: Fields-Wilson combo shines in opener",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "published": "2025-09-07T22:21:10+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Questions, takeaways off every NFL Week 1 game: Have the Colts found their QB? Are the Chiefs in trouble?",
       "link": "https://www.espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "2025-09-07T21:25:00+00:00",
+      "published": "2025-09-07T22:15:00+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "NFL draft risers, questions and notes from Kiper, Miller and Reid: Early concerns around top QBs?",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "published": "2025-09-07T22:11:16+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Ranking the greatest moments of USWNT, NWSL star Alex Morgan's career ahead of her jersey retirement",
+      "link": "https://www.espn.com/soccer/story/_/id/41161833/ranking-greatest-moments-uswnt-star-alex-morgan-career",
+      "published": "2025-09-07T21:40:08+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Saints' gold uniforms, Seahawks rare combo tops NFL Week 1 threads",
+      "link": "https://www.espn.com/nfl/story/_/id/46123761/nfl-2025-week-1-uniforms",
+      "published": "2025-09-07T21:35:19+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "From Starkville to Gainesville, Week 2 offered its share of surprises",
+      "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal090625/college-football-week-2-highlights-top-plays-games-takeaways-2025",
+      "published": "2025-09-07T21:34:41+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Projecting the CFP top 12 after Week 2",
+      "link": "https://www.espn.com/college-football/story/_/id/46175969/projecting-college-football-playoff-top-12-week-2",
+      "published": "2025-09-07T21:34:41+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "AP Week 2 poll reaction: What's next for each Top 25 team",
+      "link": "https://www.espn.com/college-football/story/_/id/46158946/ap-college-football-week-2-poll-reaction",
+      "published": "2025-09-07T21:34:35+00:00",
       "source": "ESPN — Eagles"
     },
     {
@@ -116,6 +147,18 @@
       "source": "ESPN — Eagles"
     },
     {
+      "title": "WATCH: Texans DB C.J. Garnder-Johnson ready to run through a wall vs. Rams",
+      "link": "https://sports.yahoo.com/article/watch-texans-db-c-j-204046883.html",
+      "published": "2025-09-07T20:40:46+00:00",
+      "source": "Yahoo Sports — Eagles"
+    },
+    {
+      "title": "Former Eagles see varying early success in Sunday's first slate of NFL games - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2ZzZHhCbWVvNHNic2JCWDF2dUFaYWE4T0RjTVNoeG5SNVgxcXd2bEJqNjFUU21LSFhwd3M0SXJiQjhiX3hCWVo2MHJmN2ttdm93YXVsX2x2alBCSEFxaG5wRnhockwwcWcwVVlJX1huSHoyTjU5VTRuRnRVZm95b0FRSU00YXdVVndranhnMHp2UTVpREZHNG5wcS1WMHNVeGYxbFVYUzZUN2l2amRod1BXdVFFSmZjTWNhQk5iS2pmOW03NmV0amp3VXVzYzFSUGc?oc=5",
+      "published": "2025-09-07T20:17:53+00:00",
+      "source": "Eagles Wire"
+    },
+    {
       "title": "Former Eagles see varying early success in Sunday's first slate of NFL games",
       "link": "https://sports.yahoo.com/article/former-eagles-see-varying-early-201623683.html",
       "published": "2025-09-07T20:16:23+00:00",
@@ -134,28 +177,16 @@
       "source": "Philadelphia Eagles"
     },
     {
-      "title": "AP Week 2 poll reaction: What's next for each Top 25 team",
-      "link": "https://www.espn.com/college-football/story/_/id/46158946/ap-college-football-week-2-poll-reaction",
-      "published": "2025-09-07T19:33:16+00:00",
-      "source": "ESPN — Eagles"
+      "title": "Tom Brady makes Jalen Carter joke after Jayden Daniels-Abdul Carter interaction",
+      "link": "https://sports.yahoo.com/article/tom-brady-makes-jalen-carter-194407114.html",
+      "published": "2025-09-07T19:44:07+00:00",
+      "source": "Yahoo Sports — Eagles"
     },
     {
       "title": "Roob's Observations: Ugly win? Eagles' opener was actually as pretty as it gets - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGxRR3dxWVZHc3BzM2ZVZnpoUDNDOGx3WklnSVJvbG1ldlVHSGlZcXNiWjVIV2FlZkNXV1hUSmZ2LVFoVUJnOVJFR0FsRlNFYV9uNWNCR2hodm1GUmRoR2Z6dVVCeldKbnkwMDdfZG9OYkp1T2tfeVJaajZmRGtrT0RYR3NKZHZyVlBGazVuSnhpM3RFS19yZm56RXJZdEFXb2JfZDFBVmJzZVpUN0doc010R3laaXNpZ3hBbXp1TVRHQdIB8AJBVV95cUxPbUpQTmlHRDMyOTh6UFBiZzRubFN3Tk9uTWhkR05EbWhRQ1AzVG03eDhnQl9xMmFBV1RCY212bWpmV1V1WFh6Nlo0WUdtNkJsZFZ2LXlPMWdpOFA0ejNtRnlOSHRseDlWcmtqOXVMLTFpRkZySVB6RmdPWXBSTUJjTXFfZ0VVX21FbHRzT0FUbEdZZ2dzaGVSTF9wc3V4cW9fdmVtcTlQQ1doS01RMzBTOS1qcjVOcS1jSGpoZWxUZXp1VFZrSmc0QXBMYVhHZ2Y5TmFRSnpKUmZfaDFlRzVnLTB0ajRlcHowY2h6SEFDN1lsVEFhc3B6SDdlRTkwR01uaFJ3NGgtVTFsOXNuQ3BQUF95dzRoeHM2c0hoXzVEWXN4S3d4M1NRZkh4SnRnUERVWUFYOEY1akNncl9UZDM5OEFQN2hCWXVuVkZQUkI5UENUMnVUUmxRWXFxVWZMNDVvWWJDOEJiNHM1S0JKaXlsRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGxRR3dxWVZHc3BzM2ZVZnpoUDNDOGx3WklnSVJvbG1ldlVHSGlZcXNiWjVIV2FlZkNXV1hUSmZ2LVFoVUJnOVJFR0FsRlNFYV9uNWNCR2hodm1GUmRoR2Z6dVVCeldKbnkwMDdfZG9OYkp1T2tfeVJaajZmRGtrT0RYR3NKZHZyVlBGazVuSnhpM3RFS19yZm56RXJZdEFXb2JfZDFBVmJzZVpUN0doc010R3laaXNpZ3hBbXp1TVRHQdIBygFBVV95cUxQNkxUVlJkMy1oYk42QW9TZEZHSFZRUzBxcEFOcFd6SDZRcnlrUzZPUjZaUUM5Qk9MMWczSDYxRDZkOEJhZUlPZjJjYTA1VXV3aTcyT1N5QWdENXh1YmdSa0tmRlA3YmdYYjVKd0dUSE9KTFpDRElPcWkxdnRtajVoanlSY19aQlJha0xFaTRQMmxlQ2VaU2RUcGhGTFJHeU9Xcm1oMlBWdmNTQl9DclQ1WkJkR1ZWd056UVRyYmIzVVFoR1JoZVJsYy1R?oc=5",
       "published": "2025-09-07T19:26:03+00:00",
       "source": "NBC Sports Philadelphia"
-    },
-    {
-      "title": "Ranking the greatest moments of USWNT, NWSL star Alex Morgan's career ahead of her jersey retirement",
-      "link": "https://www.espn.com/soccer/story/_/id/41161833/ranking-greatest-moments-uswnt-star-alex-morgan-career",
-      "published": "2025-09-07T19:00:33+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "NFL draft risers, questions and notes from Kiper, Miller and Reid: Early concerns around top QBs?",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
-      "published": "2025-09-07T18:58:16+00:00",
-      "source": "ESPN — Eagles"
     },
     {
       "title": "Odds, trends and best bets for Ravens-Bills on 'Sunday Night Football'",
@@ -167,18 +198,6 @@
       "title": "Why Florida State should have your attention",
       "link": "https://www.espn.com/espn/betting/story/_/id/46180684/college-football-betting-2025-florida-state-seminoles",
       "published": "2025-09-07T18:54:26+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Fantasy rankings for Week 1",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank25main-46028352/fantasy-football-rankings-2025-nfl-week-qb-rb-wr-te-dst",
-      "published": "2025-09-07T18:54:18+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "NFL Week 1 inactives: Who's in and who's out?",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-46069950/nfl-fantasy-football-espn-injured-inactives-watchlist-week-1-2025-september-7",
-      "published": "2025-09-07T18:54:17+00:00",
       "source": "ESPN — Eagles"
     },
     {
@@ -204,12 +223,6 @@
       "link": "https://sports.yahoo.com/article/kellen-moores-saints-draw-foul-182249326.html",
       "published": "2025-09-07T18:22:49+00:00",
       "source": "Yahoo Sports — Eagles"
-    },
-    {
-      "title": "Saints' gold uniforms, Seahawks rare combo tops NFL Week 1 threads",
-      "link": "https://www.espn.com/nfl/story/_/id/46123761/nfl-2025-week-1-uniforms",
-      "published": "2025-09-07T17:57:24+00:00",
-      "source": "ESPN — Eagles"
     },
     {
       "title": "Patriots rooting guide, open thread, and more for NFL Week 1",
@@ -330,18 +343,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejdmbEVfWUJWVGVremJCWUxYLWVDNzBwRDZKcEFLUkx2TEdsTUREQno4ZExwQ1hBeFNDdno0bTc4bWkwdlZrRWd0ajRlNWw1WkVyOTBEdkNCQV9LSVpDZDhiUVg2Q0dIXzYzUVpNLU1qQjRrTnVRTUlXTHdNOV9aNDRMWnpQVVdnWEVrTjF2VVNHaXBGVVg0andn?oc=5",
       "published": "2025-09-07T15:15:55+00:00",
       "source": "Sports Illustrated"
-    },
-    {
-      "title": "Nick Wright Has Wild Take For Eagles After Week 1 - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXlnbDg1SmRZV3JUZ3ZTZXd2b1NMMEVUY0JhN2o0cHBfT2NTcTVtOXJFZ0x1RmoxNUNFdThjMjdWU2JRWUFZWWd0OFBqUU43RHdJcDh0Rkh6R1R1ajdIcUhPWUZRYjJwNDhiNEQ5Q0s2Nmh0VXZBV1lTZWFoZ21mT3o0VUE3anVMeUR6blpBdGF3b0k?oc=5",
-      "published": "2025-09-07T15:00:00+00:00",
-      "source": "Sports Illustrated"
-    },
-    {
-      "title": "Is Packers LB Micah Parsons playing today? Injury update for former Cowboys' Week 1 game",
-      "link": "https://sports.yahoo.com/article/packers-lb-micah-parsons-playing-143318604.html",
-      "published": "2025-09-07T14:33:18+00:00",
-      "source": "Yahoo Sports — Eagles"
     }
   ]
 }
