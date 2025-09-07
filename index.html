@@ -1,122 +1,105 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
+  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Philadelphia Eagles — News</title>
-
-  <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
-  <link rel="icon" href="static/favicon.ico" />
-  <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16.png" />
-  <link rel="manifest" href="static/manifest.webmanifest?v=1" />
-  <meta name="theme-color" content="#004C54" />
-
   <link rel="stylesheet" href="static/style.css" />
-
-  <style>
-    .song-wrap { margin-left:auto; display:flex; align-items:center; gap:8px; }
-    .song-btn {
-      appearance:none; border:1px solid #d7e2e0; background:#eef3f2; color:#0b1d22;
-      padding:10px 14px; border-radius:999px; font-weight:700; cursor:pointer;
-    }
-    .song-btn.is-playing { outline:2px solid #004C54; }
-    .visually-hidden { position:absolute !important; left:-9999px !important; }
-  </style>
+  <link rel="icon" href="static/favicon.ico" />
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
+  <link rel="manifest" href="static/manifest.webmanifest" />
 </head>
 <body>
-  <header class="site-header">
-    <img src="static/logo.png" alt="Eagles logo" />
-    <div class="title-wrap">
+  <header>
+    <img src="static/logo.png" alt="Eagles logo" class="logo" />
+    <div>
       <h1>Philadelphia Eagles — News</h1>
-      <div class="sub">Live team feed • auto-updates</div>
+      <small>Live team feed • auto-updates</small>
     </div>
-
-    <div class="song-wrap">
-      <button id="songBtn" class="song-btn" type="button" aria-pressed="false" aria-describedby="songStatus">
-        Fly Eagles Fly
-      </button>
-      <span id="songStatus" class="visually-hidden">stopped</span>
-      <audio id="song" preload="none" src="static/fly-eagles-fly.mp3"></audio>
-    </div>
+    <button id="songBtn" class="pill" onclick="toggleSong()">Fly Eagles Fly</button>
   </header>
 
-  <nav id="quick-links" class="pills"></nav>
+  <audio id="fightSong" preload="none">
+    <source src="static/fly-eagles-fly.mp3" type="audio/mpeg" />
+  </audio>
 
-  <section class="controls">
-    <div class="left">
-      <label for="sourceFilter">Source:</label>
-      <select id="sourceFilter"><option value="">All sources</option></select>
+  <nav id="quick-links"></nav>
+
+  <main>
+    <div class="controls">
+      <label for="sourceSelect">Source:</label>
+      <select id="sourceSelect"><option value="all">All sources</option></select>
+      <span id="updated"></span>
     </div>
-    <div class="right"><span id="updated">Updated: —</span></div>
-  </section>
+    <div id="feed" class="feed"></div>
+  </main>
 
-  <main id="grid" class="grid"></main>
-
-  <footer class="foot">Fly Eagles Fly 🦅</footer>
+  <footer><p>Fly Eagles Fly 🦅</p></footer>
 
   <script>
-    // Song
-    const song = document.getElementById("song");
-    const songBtn = document.getElementById("songBtn");
-    const songStatus = document.getElementById("songStatus");
-    let isPlaying = false;
-    songBtn.addEventListener("click", async () => {
+    // fight song
+    const audioEl = document.getElementById('fightSong');
+    const songBtn = document.getElementById('songBtn');
+    function toggleSong() {
+      if (!audioEl) return;
+      if (audioEl.paused) {
+        audioEl.currentTime = 0;
+        audioEl.play().then(() => {
+          songBtn.classList.add('playing'); songBtn.textContent = '⏸ Pause';
+        }).catch(()=>alert('Tap again to allow audio playback.'));
+      } else {
+        audioEl.pause(); songBtn.classList.remove('playing'); songBtn.textContent = 'Fly Eagles Fly';
+      }
+    }
+    window.addEventListener('pagehide', () => { try { audioEl.pause(); } catch(e){} });
+
+    async function loadFeed() {
       try {
-        if (!isPlaying) { await song.play(); isPlaying = true; songBtn.classList.add("is-playing"); songBtn.setAttribute("aria-pressed","true"); songStatus.textContent="playing"; }
-        else { song.pause(); isPlaying = false; songBtn.classList.remove("is-playing"); songBtn.setAttribute("aria-pressed","false"); songStatus.textContent="stopped"; }
-      } catch(e){ console.error(e); }
-    });
-    song.addEventListener("ended", () => { isPlaying=false; songBtn.classList.remove("is-playing"); songBtn.setAttribute("aria-pressed","false"); songStatus.textContent="stopped"; });
-
-    // Data
-    let data=null;
-    async function load(){
-      const res = await fetch(`items.json?v=${Date.now()}`, {cache:"no-store"});
-      if(!res.ok){ console.error("items.json fetch failed", res.status); return; }
-      data = await res.json();
-      render();
+        const res = await fetch('items.json?v=' + Date.now());
+        const data = await res.json();
+        renderFeed(data);
+      } catch (e) {
+        console.error('feed error', e);
+      }
     }
+    function renderFeed(data) {
+      const feedEl = document.getElementById('feed');
+      const srcSel = document.getElementById('sourceSelect');
+      const updatedEl = document.getElementById('updated');
+      feedEl.innerHTML = '';
+      srcSel.innerHTML = '<option value="all">All sources</option>';
+      if (!data || !data.items) return;
 
-    function render(){
-      if(!data) return;
-
-      // Buttons
-      const ql=document.getElementById("quick-links"); ql.innerHTML="";
-      (data.static_links||[]).forEach(l=>{
-        const a=document.createElement("a");
-        a.href=l.url; a.target="_blank"; a.rel="noopener";
-        a.textContent=l.label; a.className="pill";
-        ql.appendChild(a);
+      (data.sources || []).forEach(src => {
+        const opt = document.createElement('option');
+        opt.value = src; opt.textContent = src; srcSel.appendChild(opt);
       });
 
-      // Sources
-      const dd=document.getElementById("sourceFilter"); const prev=dd.value;
-      dd.innerHTML='<option value="">All sources</option>';
-      (data.sources||[]).forEach(s=>{
-        const o=document.createElement("option"); o.value=s; o.textContent=s; dd.appendChild(o);
-      });
-      if(prev) dd.value=prev;
+      if (data.updated_at) {
+        updatedEl.textContent = 'Updated: ' + new Date(data.updated_at).toLocaleString();
+      }
 
-      // Updated
-      document.getElementById("updated").textContent="Updated: " + new Date(data.updated_at||Date.now()).toLocaleString();
-
-      // Cards
-      const grid=document.getElementById("grid"); grid.innerHTML="";
-      let items=data.items||[]; 
-      if(dd.value) items=items.filter(i=>i.source===dd.value);
-      items.forEach(it=>{
-        const card=document.createElement("article"); card.className="card";
-        const a=document.createElement("a"); a.href=it.url; a.target="_blank"; a.rel="noopener"; a.className="title"; a.textContent=it.title;
-        const meta=document.createElement("div"); meta.className="meta";
-        meta.textContent=(it.source||"") + " • " + new Date(it.published||Date.now()).toLocaleString();
-        card.appendChild(a); card.appendChild(meta);
-        grid.appendChild(card);
-      });
+      function paint(list) {
+        feedEl.innerHTML = '';
+        list.forEach(item => {
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <a href="${item.link}" target="_blank" rel="noopener">
+              <h3>${item.title}</h3>
+              <p class="meta">${item.source} • ${new Date(item.published).toLocaleString()}</p>
+            </a>`;
+          feedEl.appendChild(card);
+        });
+      }
+      paint(data.items);
+      srcSel.onchange = () => {
+        const val = srcSel.value;
+        paint(data.items.filter(i => val === 'all' || i.source === val));
+      };
     }
-
-    document.getElementById("sourceFilter").addEventListener("change", render);
-    load();
+    loadFeed();
+    setInterval(loadFeed, 5 * 60 * 1000);
   </script>
 </body>
 </html>
