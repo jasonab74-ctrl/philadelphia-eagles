@@ -56,7 +56,7 @@
   <footer class="foot">Fly Eagles Fly 🦅</footer>
 
   <script>
-    // Fight song
+    // Song
     const song = document.getElementById("song");
     const songBtn = document.getElementById("songBtn");
     const songStatus = document.getElementById("songStatus");
@@ -81,7 +81,7 @@
     function render(){
       if(!data) return;
 
-      // Links
+      // Buttons
       const ql=document.getElementById("quick-links"); ql.innerHTML="";
       (data.static_links||[]).forEach(l=>{
         const a=document.createElement("a");
