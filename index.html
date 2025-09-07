@@ -1,4 +1,3 @@
-<!-- index.html -->
 <!doctype html>
 <html lang="en">
 <head>
@@ -14,7 +13,19 @@
   <link rel="manifest" href="/philadelphia-eagles/static/manifest.webmanifest?v=1" />
   <meta name="theme-color" content="#004C54" />
 
+  <!-- Site styles -->
   <link rel="stylesheet" href="/philadelphia-eagles/static/style.css" />
+
+  <!-- Minimal button style (safe if your style.css is different) -->
+  <style>
+    .song-wrap { margin-left:auto; display:flex; align-items:center; gap:8px; }
+    .song-btn {
+      appearance:none; border:1px solid #d7e2e0; background:#eef3f2; color:#0b1d22;
+      padding:10px 14px; border-radius:999px; font-weight:700; cursor:pointer;
+    }
+    .song-btn.is-playing { outline:2px solid #004C54; }
+    .visually-hidden { position:absolute !important; left:-9999px !important; }
+  </style>
 </head>
 <body>
   <header class="site-header">
@@ -22,6 +33,16 @@
     <div class="title-wrap">
       <h1>Philadelphia Eagles — News</h1>
       <div class="sub">Live team feed • auto-updates</div>
+    </div>
+
+    <!-- Fight song button (label stays constant), lives on the right -->
+    <div class="song-wrap">
+      <button id="songBtn" class="song-btn" type="button" aria-pressed="false" aria-describedby="songStatus">
+        Fly Eagles Fly
+      </button>
+      <span id="songStatus" class="visually-hidden">stopped</span>
+      <!-- Hidden audio element -->
+      <audio id="song" preload="none" src="/philadelphia-eagles/static/fly-eagles-fly.mp3"></audio>
     </div>
   </header>
 
@@ -40,10 +61,61 @@
   <footer class="foot">Fly Eagles Fly 🦅</footer>
 
   <script>
-    // If your repo slug is different, change this to match
+    // If your repo slug is different, change this:
     const SLUG = "/philadelphia-eagles";
 
+    // -------- Fight song logic (no label jump) --------
+    const song = document.getElementById("song");
+    const songBtn = document.getElementById("songBtn");
+    const songStatus = document.getElementById("songStatus");
+    let isPlaying = false;
+
+    // iOS-friendly hints
+    song.setAttribute("playsinline", "");
+    song.setAttribute("webkit-playsinline", "");
+
+    // Persisted volume (optional)
+    try {
+      const v = localStorage.getItem("eagles_song_vol");
+      if (v !== null) song.volume = Math.max(0, Math.min(1, parseFloat(v)));
+    } catch (_) {}
+
+    songBtn.addEventListener("click", async () => {
+      try {
+        if (!isPlaying) {
+          await song.play();
+          isPlaying = true;
+          songBtn.classList.add("is-playing");
+          songBtn.setAttribute("aria-pressed", "true");
+          songStatus.textContent = "playing";
+        } else {
+          song.pause();
+          isPlaying = false;
+          songBtn.classList.remove("is-playing");
+          songBtn.setAttribute("aria-pressed", "false");
+          songStatus.textContent = "stopped";
+        }
+      } catch (e) {
+        console.error("Audio play error:", e);
+      }
+    });
+
+    song.addEventListener("ended", () => {
+      isPlaying = false;
+      songBtn.classList.remove("is-playing");
+      songBtn.setAttribute("aria-pressed", "false");
+      songStatus.textContent = "stopped";
+    });
+
+    // Save volume if the user changes it via system controls (some browsers)
+    song.addEventListener("volumechange", () => {
+      try { localStorage.setItem("eagles_song_vol", String(song.volume)); } catch (_) {}
+    });
+    // ---------------------------------------------------
+
+    // -------- News rendering --------
     let data = null;
+
     async function load(){
       const res = await fetch(`${SLUG}/items.json?v=${Date.now()}`, {cache: "no-store"});
       if(!res.ok){ console.error("items.json fetch failed", res.status); return; }
@@ -54,7 +126,7 @@
     function render(){
       if(!data) return;
 
-      // Buttons
+      // Buttons row
       const ql=document.getElementById("quick-links"); ql.innerHTML="";
       (data.static_links||[]).forEach(l=>{
         const a=document.createElement("a");
@@ -71,6 +143,7 @@
       });
       if(prev) dd.value=prev;
 
+      // Updated time
       document.getElementById("updated").textContent="Updated: " +
         new Date(data.updated_at||Date.now()).toLocaleString();
 
