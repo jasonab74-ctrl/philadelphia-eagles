@@ -1,81 +1,1094 @@
 {
-  "team": { "name": "Philadelphia Eagles", "slug": "philadelphia-eagles" },
-  "updated_at": "2025-09-07T06:05:00Z",
+  "team": {
+    "name": "Philadelphia Eagles",
+    "slug": "philadelphia-eagles"
+  },
+  "updated_at": "2025-09-07T14:29:50.606557+00:00",
   "static_links": [
-    { "label":"Schedule","url":"https://www.philadelphiaeagles.com/schedule/" },
-    { "label":"Roster","url":"https://www.philadelphiaeagles.com/team/players-roster/" },
-    { "label":"Depth Chart","url":"https://www.philadelphiaeagles.com/team/depth-chart/" },
-    { "label":"Injury Report","url":"https://www.philadelphiaeagles.com/team/injury-report/" },
-    { "label":"Tickets","url":"https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805961" },
-    { "label":"Team Shop","url":"https://store.philadelphiaeagles.com/" },
-    { "label":"Reddit","url":"https://www.reddit.com/r/eagles/" },
-    { "label":"Bleacher Report","url":"https://bleacherreport.com/philadelphia-eagles" },
-    { "label":"ESPN Team","url":"https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles" },
-    { "label":"Yahoo Team","url":"https://sports.yahoo.com/nfl/teams/phi/" },
-    { "label":"PFF Team Page","url":"https://www.pff.com/nfl/teams/philadelphia-eagles" },
-    { "label":"Pro-Football-Reference","url":"https://www.pro-football-reference.com/teams/phi/" },
-    { "label":"NFL Power Rankings","url":"https://www.nfl.com/news/power-rankings" },
-    { "label":"Stats","url":"https://www.nfl.com/teams/philadelphia-eagles/stats/" },
-    { "label":"Standings","url":"https://www.nfl.com/standings/league/2025/REG" }
+    {
+      "label": "Schedule",
+      "url": "https://www.philadelphiaeagles.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.philadelphiaeagles.com/team/players-roster/"
+    },
+    {
+      "label": "Depth Chart",
+      "url": "https://www.philadelphiaeagles.com/team/depth-chart/"
+    },
+    {
+      "label": "Injury Report",
+      "url": "https://www.philadelphiaeagles.com/team/injury-report/"
+    },
+    {
+      "label": "Tickets",
+      "url": "https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805961"
+    },
+    {
+      "label": "Team Shop",
+      "url": "https://store.philadelphiaeagles.com/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/eagles/"
+    },
+    {
+      "label": "Bleacher Report",
+      "url": "https://bleacherreport.com/philadelphia-eagles"
+    },
+    {
+      "label": "ESPN Team",
+      "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles"
+    },
+    {
+      "label": "Yahoo Team",
+      "url": "https://sports.yahoo.com/nfl/teams/phi/"
+    },
+    {
+      "label": "PFF Team Page",
+      "url": "https://www.pff.com/nfl/teams/philadelphia-eagles"
+    },
+    {
+      "label": "Pro-Football-Reference",
+      "url": "https://www.pro-football-reference.com/teams/phi/"
+    },
+    {
+      "label": "NFL Power Rankings",
+      "url": "https://www.nfl.com/news/power-rankings"
+    },
+    {
+      "label": "Stats",
+      "url": "https://www.nfl.com/teams/philadelphia-eagles/stats/"
+    },
+    {
+      "label": "Standings",
+      "url": "https://www.nfl.com/standings/league/2025/REG"
+    }
   ],
   "items": [
     {
-      "title": "Eagles finalize Week 1 roster; practice squad set",
-      "url": "https://www.philadelphiaeagles.com/news/roster-practice-squad-week-1",
-      "source": "philadelphiaeagles.com",
-      "summary": "Philadelphia announced its initial 53-man roster and completed the practice squad signings ahead of Week 1.",
-      "published": "2025-09-06T13:00:00Z"
+      "title": "Fantasy rankings for Week 1",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank25main-46028352/fantasy-football-rankings-2025-nfl-week-qb-rb-wr-te-dst",
+      "source": "ESPN Fantasy",
+      "summary": "Rankings for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+      "published": "2025-09-07T14:46:18+00:00",
+      "trusted": true
     },
     {
-      "title": "Jalen Hurts ready for season opener after strong camp",
-      "url": "https://www.espn.com/nfl/story/_/id/0000000/eagles-jalen-hurts-ready",
+      "title": "Week 1 inactives: Who's in and who's out?",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-46069950/nfl-fantasy-football-espn-injured-inactives-watchlist-week-1-2025-september-7",
+      "source": "ESPN Fantasy",
+      "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "published": "2025-09-07T14:43:52+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Carter awaits discipline amid sportsmanship push",
+      "url": "https://www.espn.com/nfl/story/_/id/46176234/jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship",
+      "source": "Adam Schefter",
+      "summary": "The NFL's emphasis on sportsmanship, delivered during the spring by Troy Vincent, could factor into the league's decision on discipline for Eagles star Jalen Carter.",
+      "published": "2025-09-07T14:24:28+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Experts' picks: Who will win the US Open men's title?",
+      "url": "https://www.espn.com/tennis/story/_/id/46169644/us-open-2025-mens-final-expert-picks-alcaraz-sinner",
       "source": "ESPN",
-      "summary": "Hurts enters Year 5 with a revamped supporting cast and continuity on offense.",
-      "published": "2025-09-06T11:00:00Z"
+      "summary": "Sinner and Alcaraz will face off yet again in the US Open final Sunday. Our experts weigh in on how each can win.",
+      "published": "2025-09-07T13:54:04+00:00",
+      "trusted": true
     },
     {
-      "title": "What we learned from Eagles preseason: stock up, stock down",
-      "url": "https://www.bleedinggreennation.com/2025/9/5/000000/eagles-preseason-takeaways",
+      "title": "Source: Giants have package of plays for Dart",
+      "url": "https://www.espn.com/nfl/story/_/id/46183537/source-giants-package-plays-prepared-jaxson-dart",
+      "source": "ESPN — Eagles",
+      "summary": "The Giants have a package of plays designed for Jaxson Dart in the event that the rookie quarterback plays in Sunday's season opener against the Commanders, a source confirmed to ESPN.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Melo, Howard, Moore, Bird join hoops Hall of Fame",
+      "url": "https://www.espn.com/espn/story/_/id/46180298/carmelo-anthony-dwight-howard-maya-moore-enter-hall-fame",
+      "source": "ESPN — Eagles",
+      "summary": "Carmelo Anthony, Dwight Howard, Sue Bird, Maya Moore and Sylvia Fowles were inducted into the Naismith Memorial Basketball Hall of Fame.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Sources: Lions give WR Williams $83M extension",
+      "url": "https://www.espn.com/nfl/story/_/id/46181528/lions-wr-jameson-williams-reach-3-year-deal-worth-83m",
+      "source": "Eric Woodyard",
+      "summary": "The Lions and wide receiver Jameson Williams have agreed to a three-year extension worth up to $83 million, sources confirmed to ESPN.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Belichick wins 1st at UNC, confirms Patriots ban",
+      "url": "https://www.espn.com/college-football/story/_/id/46181582/belichick-wins-first-unc-confirms-ban-patriots-scouts",
+      "source": "David Hale",
+      "summary": "Bill Belichick picked up win No. 1 at North Carolina as it beat Charlotte 20-3. He also confirmed that Patriots scouts have been banned from the Tar Heels facility, saying, \"It's obvious I'm not welcome at their facility, so they're not welcome at ours.\"",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "O's, 1 out from being no-hit, score 4 to stun L.A.",
+      "url": "https://www.espn.com/mlb/story/_/id/46180644/orioles-one-being-no-hit-score-4-runs-stun-dodgers",
+      "source": "ESPN — Eagles",
+      "summary": "Down by three and one out from being no-hit, the Orioles stormed back for four runs to defeat the Dodgers 4-3 in a frantic ninth-inning comeback.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Ducks dominate after Gundy 'pours gas on fire'",
+      "url": "https://www.espn.com/college-football/story/_/id/46180247/oregon-dominates-cowboys-gundy-pours-gasoline-fire",
+      "source": "Paolo Uggetti",
+      "summary": "After Mike Gundy poured \"gasoline on the fire\" with his jabs at Oregon's budget, the Ducks proceeded to beat Oklahoma State 69-3 on Saturday.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "'It was time': No. 3 QB Staub stars in Colorado win",
+      "url": "https://www.espn.com/college-football/story/_/id/46179790/third-string-qb-ryan-staub-seizes-chance-lifts-colorado-win",
+      "source": "Max Olson",
+      "summary": "Redshirt sophomore Ryan Staub, Colorado's No. 3 quarterback, made a strong impression on head coach Deion Sanders, throwing for two touchdowns in a 31-7 win over Delaware.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "🏈 The Playbook: Week 1 fantasy football guide",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/46086690/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-1-shadow-report-mike-clay",
+      "source": "Mike Clay",
+      "summary": "Mike Clay's Playbook now includes Shadow Reports, providing an all-encompassing look at Week 1's matchups to exploit and avoid in fantasy.",
+      "published": "2025-09-07T13:53:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles Cut Ties With Former First Round Ahead of Week 2 Battle With Chiefs",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oc01lTlFNaUlQMGZxenh5RTdFQnk1N01rWmd1dXpJVjMxTUwwQmZZd0JhbkFoVklqSFBEUFM0R0RfZnRUV1ROVlhvMGNxUGVuZlNfSFFFS1lKemVlQ1lYcTV3eTUxNUxzWW1OU0tjVElvalc1SGxfMA",
+      "source": "Heavy Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oc01lTlFNaUlQMGZxenh5RTdFQnk1N01rWmd1dXpJVjMxTUwwQmZZd0JhbkFoVklqSFBEUFM0R0RfZnRUV1ROVlhvMGNxUGVuZlNfSFFFS1lKemVlQ1lYcTV3eTUxNUxzWW1OU0tjVElvalc1SGxfMA?oc=5\" target=\"_blank\">Eagles Cut Ties With Former First Round Ahead of Week 2 Battle With Chiefs</a>  <font color=\"#6f6f6f\">Heavy Sports</font>",
+      "published": "2025-09-07T13:43:26+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Discipline Incoming For Eagles' Defensive Star?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGJzcktIYTk4ZFRNUm9hb1FhbXZKWG81U0VxdXlyd0QtYkFxTWhhN2RPdXlKc251QUxveFZTSXpsbE9IaEx1bTF3M2Jvd0MwMTdMd2RGYmRtNkhudTVmYUpjX0I0ZTRyeEQ4SVNHWl9adHhCNEJWblI4UV9BRGdIQmVMNlJaeXM0Uk14ZHVaYmtrR213WWV4cw",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGJzcktIYTk4ZFRNUm9hb1FhbXZKWG81U0VxdXlyd0QtYkFxTWhhN2RPdXlKc251QUxveFZTSXpsbE9IaEx1bTF3M2Jvd0MwMTdMd2RGYmRtNkhudTVmYUpjX0I0ZTRyeEQ4SVNHWl9adHhCNEJWblI4UV9BRGdIQmVMNlJaeXM0Uk14ZHVaYmtrR213WWV4cw?oc=5\" target=\"_blank\">Discipline Incoming For Eagles' Defensive Star?</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-07T13:40:11+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles rumors: Jalen Carter suspension still on table",
+      "url": "https://clutchpoints.com/nfl/philadelphia-eagles/eagles-rumors-jalen-carter-suspension-still-on-table",
+      "source": "ClutchPoints",
+      "summary": "The Philadelphia Eagles are awaiting word from the NFL on whether defensive tackle Jalen Carter will face further punishment after being ejected for spitting on Dallas Cowboys quarterback Dak Prescott in the league's season opener. A fine appears certain, but a suspension remains on the table as the league reviews the incident. Carter was disqualified before the first snap after an exchange with Prescott during an injury delay.",
+      "published": "2025-09-07T13:25:45+00:00",
+      "trusted": true
+    },
+    {
+      "title": "The SEC brought some unexpected surprises to Week 2 of college football",
+      "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal090625/college-football-week-2-highlights-top-plays-games-takeaways-2025",
+      "source": "David Hale",
+      "summary": "Florida and Mississippi State both produced stunning results on an otherwise relatively predictable Saturday.",
+      "published": "2025-09-07T13:12:35+00:00",
+      "trusted": true
+    },
+    {
+      "title": "U.S. loss to South Korea another misstep with World Cup prep time running out",
+      "url": "https://www.espn.com/soccer/story/_/id/46178808/usmnt-loss-south-korea-another-misstep-world-cup-prep",
+      "source": "Jeff Carlisle",
+      "summary": "You can say this for the USMNT: They're singing from the same songbook of positivity, even as they looked far from being on the same page on the field.",
+      "published": "2025-09-07T13:11:45+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Projecting the CFP top 12 after Week 2",
+      "url": "https://www.espn.com/college-football/story/_/id/46175969/projecting-college-football-playoff-top-12-week-2",
+      "source": "Heather Dinich",
+      "summary": "We assess how the committee could stack the top teams in the country after Week 2.",
+      "published": "2025-09-07T13:10:01+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Cleveland Browns fans know how to keep the faith",
+      "url": "https://www.espn.com/nfl/story/_/id/46168604/cleveland-browns-fans-dedication-nfl-season-opener-2025",
+      "source": "Dan Moore",
+      "summary": "The Dawg Pound has witnessed 30 years of futility. Will the team's bid for the burbs test the loyal fanbase?",
+      "published": "2025-09-07T13:10:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles are one fearless signing away from becoming Super Bowl favorites",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZtVDg3WFFKWDRZZjdBM05XWThnc0hJOHJPRC1tSk4yWDI3WlpXTGk5d3MxMG5QLV9MSVl0djdIUlJVZ2xpTW4teTdrc21qMWg0SVlFWTJqNXpDQ2JzRDZ2NmRmeU1JQXdOcnIzMVpEcFFHQl9TWHEtbkkxN2FUd0xnWVM2Q2VxdFNqMkIxTGxsN3FkOFJTRkpsdW9TSklx",
+      "source": "Inside the Iggles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZtVDg3WFFKWDRZZjdBM05XWThnc0hJOHJPRC1tSk4yWDI3WlpXTGk5d3MxMG5QLV9MSVl0djdIUlJVZ2xpTW4teTdrc21qMWg0SVlFWTJqNXpDQ2JzRDZ2NmRmeU1JQXdOcnIzMVpEcFFHQl9TWHEtbkkxN2FUd0xnWVM2Q2VxdFNqMkIxTGxsN3FkOFJTRkpsdW9TSklx?oc=5\" target=\"_blank\">Eagles are one fearless signing away from becoming Super Bowl favorites</a>  <font color=\"#6f6f6f\">Inside the Iggles</font>",
+      "published": "2025-09-07T13:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dallas Cowboys at Eagles game ball: Dak Prescott shines in his return",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamNmOGJ2UTM1NGdNa1V2YmxBZ2RaZHRyVk9xUk80VldtUHZwWUNFMGR3QkxGQUJhSHhOOE1zVFlsSmdFVkx3NUpYS3Y4eU9SRlh4eVFwTGZsbk5uWDNoYmcwMHZCVFctaGdISW9kcy1GMVowZXVJWWhPX2M4SnNfRXRLMTA1bWxwZzd0djhsX2I3QTBSYTN1OXFmSWlFRTc3bEpGSzgxMUNwX2ZHRlZUcTF3",
+      "source": "Blogging The Boys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQamNmOGJ2UTM1NGdNa1V2YmxBZ2RaZHRyVk9xUk80VldtUHZwWUNFMGR3QkxGQUJhSHhOOE1zVFlsSmdFVkx3NUpYS3Y4eU9SRlh4eVFwTGZsbk5uWDNoYmcwMHZCVFctaGdISW9kcy1GMVowZXVJWWhPX2M4SnNfRXRLMTA1bWxwZzd0djhsX2I3QTBSYTN1OXFmSWlFRTc3bEpGSzgxMUNwX2ZHRlZUcTF3?oc=5\" target=\"_blank\">Dallas Cowboys at Eagles game ball: Dak Prescott shines in his return</a>  <font color=\"#6f6f6f\">Blogging The Boys</font>",
+      "published": "2025-09-07T13:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Ranking the greatest moments of USWNT, NWSL star Alex Morgan's career",
+      "url": "https://www.espn.com/soccer/story/_/id/41161833/ranking-greatest-moments-uswnt-star-alex-morgan-career",
+      "source": "Jeff Kassouf",
+      "summary": "Here are 13 moments -- in honor of the number she wore for a generation -- on the field that defined Alex Morgan's decade and a half playing at the highest level.",
+      "published": "2025-09-07T12:52:36+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Jets coach Aaron Glenn says he'll have nerves in his debut, just like he did as a player",
+      "url": "https://www.espn.com/nfl/story/_/id/46160947/new-york-jets-coach-aaron-glenn-nervous-debut-steelers",
+      "source": "Rich Cimini",
+      "summary": "Glenn was nervous when he started his playing career in New York, and he said those same feelings will be there Sunday.",
+      "published": "2025-09-07T12:40:38+00:00",
+      "trusted": true
+    },
+    {
+      "title": "How will Patriots split reps at running back between Henderson, Stevenson and Gibson?",
+      "url": "https://www.espn.com/nfl/story/_/id/46171239/new-england-patriots-rb-treveyon-henderson-rhamondre-stevenson",
+      "source": "Mike Reiss",
+      "summary": "New England drafted speedy running back TreVeyon Henderson, an explosive threat, in 2025.",
+      "published": "2025-09-07T12:40:38+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Odds, trends and best bets for Ravens-Bills on 'Sunday Night Football'",
+      "url": "https://www.espn.com/espn/betting/story/_/id/45854490/nfl-week-1-odds-lines-spread-betting-picks-preview-baltimore-ravens-buffalo-bills",
+      "source": "ESPN",
+      "summary": "Betting tips and all the info you need to help navigate betting Sunday night's big Ravens-Bills matchup.",
+      "published": "2025-09-07T12:36:36+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Best bets: Will the underdogs deliver?",
+      "url": "https://www.espn.com/espn/betting/story/_/id/46096687/week-1-nfl-odds-spread-lines-props-best-bets-sunday-football-games",
+      "source": "Ben Solak and Seth Walder",
+      "summary": "What are the lines and props on both sides of the ball that offer value for Week 1?",
+      "published": "2025-09-07T12:36:36+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Transfer rumors, news: Man United's Bruno Fernandes still open to Saudi move",
+      "url": "https://www.espn.com/soccer/story/_/id/46182937/transfer-rumors-news-man-utds-bruno-fernandes-open-saudi-move",
+      "source": "ESPN",
+      "summary": "Manchester United captain Bruno Fernandes could still quit Old Trafford for the Saudi Pro League. Transfer Talk has the latest news, gossip and rumors.",
+      "published": "2025-09-07T12:11:46+00:00",
+      "trusted": true
+    },
+    {
+      "title": "10 of the top women's transfers: Yohannes, Thompson, Clinton, more",
+      "url": "https://www.espn.com/soccer/story/_/id/46163267/10-top-women-transfers-yohannes-thompson-clinton-more",
+      "source": "Yash Thakur",
+      "summary": "The women's summer transfer window broke records and had some incredible moves. What were some of the best?",
+      "published": "2025-09-07T12:11:46+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Micah Parsons Reportedly Had Eyes On Eagles, Packers",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTlSallzVy1XRDdtRm9QNXp2OGxKRzNBZzEyQTJFX3NkQWpfTFNkVDZhb3d2VkY4Nk1QWHpBb2JzZXJhM3ptSFJrTUJiWmFIeTRiN05LRGUwLWhHV2VULUNHQU9rU29hNDdiOUxSU3NiZndDSDVuVUpTZVhSX2JnRUtFODdpbUxzSnpj",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTlSallzVy1XRDdtRm9QNXp2OGxKRzNBZzEyQTJFX3NkQWpfTFNkVDZhb3d2VkY4Nk1QWHpBb2JzZXJhM3ptSFJrTUJiWmFIeTRiN05LRGUwLWhHV2VULUNHQU9rU29hNDdiOUxSU3NiZndDSDVuVUpTZVhSX2JnRUtFODdpbUxzSnpj?oc=5\" target=\"_blank\">Micah Parsons Reportedly Had Eyes On Eagles, Packers</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-07T12:00:02+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
+      "url": "https://www.bleedinggreennation.com/news/157820/eagles-news-adoree-jackson-says-he-has-room-for-improvement",
+      "source": "Brandon Lee Gowton",
+      "summary": "Let’s get to the Philadelphia Eagles links … A closer look at Eagles’ passing defense shows ‘room for improvement’ – The AthleticAdoree’ Jackson gave his performance a “C.” Letter grades fail to capture a full game’s nuances. Still, a reporter asked Jackson at the Philadelphia Eagles cornerback’s locker to grade his debut in Thursday night’s […]",
+      "published": "2025-09-07T10:00:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
+      "url": "https://sports.yahoo.com/article/eagles-news-adoree-jackson-says-100000407.html",
+      "source": "SB Nation",
+      "summary": "Philadelphia Eagles news and links for 9/7/25.",
+      "published": "2025-09-07T10:00:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNaYTBnMV9JUEFDOHBPUmM0LXFzVHRXcnF2Qjg1WW81VWdsSmZuZmRURkRyZWdhU1lkS09wV3hpc0YwVE1FVTIydjdaN1lwdHNla3AycER6aTgzMjB1TEUxUXJISHJHdllUS3BVWWZXa0tDbXk4WnpzNjBlTFNzSnVXY1dDS0p1OUQ0ZEZtNFQwZEdhWnpTUVpRSGVPOWNtbjNILWt4OFF5Y0k",
       "source": "Bleeding Green Nation",
-      "summary": "Big winners, lingering questions, and how the depth chart shook out.",
-      "published": "2025-09-05T23:30:00Z"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNaYTBnMV9JUEFDOHBPUmM0LXFzVHRXcnF2Qjg1WW81VWdsSmZuZmRURkRyZWdhU1lkS09wV3hpc0YwVE1FVTIydjdaN1lwdHNla3AycER6aTgzMjB1TEUxUXJISHJHdllUS3BVWWZXa0tDbXk4WnpzNjBlTFNzSnVXY1dDS0p1OUQ0ZEZtNFQwZEdhWnpTUVpRSGVPOWNtbjNILWt4OFF5Y0k?oc=5\" target=\"_blank\">Eagles News: Adoree’ Jackson says he has “room for improvement”</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-07T10:00:00+00:00",
+      "trusted": false
     },
     {
-      "title": "Eagles sign veteran CB to bolster secondary",
-      "url": "https://www.si.com/nfl/eagles/news/eagles-sign-veteran-cornerback",
-      "source": "SI — Eagles Today",
-      "summary": "Philadelphia adds experience at corner with a Week 1 signing.",
-      "published": "2025-09-05T20:00:00Z"
+      "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVhRMEl2SXppbmtJUm5DSjVfQ3YtNmJNSTJZSGlKUW82OFRPdVdfRFhqdVV4cldLWjVtblhPTjFRSkRpZ2l4cUhpbmhlV3dfQ01hMnYxelF2YW90UWRxZHltVkRPUmJZQ3JOaHVXT01OOElJQUhKTUFQRnNMZ1VXMnY5c0Qxdw",
+      "source": "Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVhRMEl2SXppbmtJUm5DSjVfQ3YtNmJNSTJZSGlKUW82OFRPdVdfRFhqdVV4cldLWjVtblhPTjFRSkRpZ2l4cUhpbmhlV3dfQ01hMnYxelF2YW90UWRxZHltVkRPUmJZQ3JOaHVXT01OOElJQUhKTUFQRnNMZ1VXMnY5c0Qxdw?oc=5\" target=\"_blank\">Eagles News: Adoree’ Jackson says he has “room for improvement”</a>  <font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "published": "2025-09-07T10:00:00+00:00",
+      "trusted": false
     },
     {
-      "title": "5 matchups to watch in Week 1",
-      "url": "https://theeagleswire.usatoday.com/lists/eagles-week-1-matchups-to-watch/",
-      "source": "Eagles Wire (USA Today)",
-      "summary": "Trenches, perimeter speed, and special teams headline the opening week.",
-      "published": "2025-09-05T16:00:00Z"
+      "title": "After a cruelly disappointing year, Aryna Sabalenka proves why she's No. 1",
+      "url": "https://www.espn.com/tennis/story/_/id/46177443/us-open-champion-2025-womens-final-aryna-sabalenka",
+      "source": "D'Arcy Maine",
+      "summary": "Top-ranked Sabalenka lost twice in a major final earlier in the year. But at the US Open, she finally won another Grand Slam title.",
+      "published": "2025-09-07T06:02:17+00:00",
+      "trusted": true
     },
     {
-      "title": "Practice notes: offense sharp in final tune-up",
-      "url": "https://sports.yahoo.com/eagles-practice-notes-final-tuneup-000000000.html",
+      "title": "Eagles rooting guide for NFL Week 1 games",
+      "url": "https://www.bleedinggreennation.com/news/157811/eagles-rooting-guide-for-nfl-week-1-games",
+      "source": "Brandon Lee Gowton",
+      "summary": "The first Sunday of the 2025 NFL regular season is here! With the Birds resting after beating the Dallas Cowboys on Thursday night, let’s run through a Philadelphia Eagles-focused rooting guide for all of the remaining Week 1 games. NFC EAST NEW YORK GIANTS at WASHINGTON COMMANDERS: I believe the Commanders are going to take […]",
+      "published": "2025-09-07T05:05:31+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles rooting guide for NFL Week 1 games",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm53aGxpTy1uR1NsbWpWQUIyWEh5UHo2N3IzT0cxTVZLb0YwV3ZjdVAtUmJjT0hjWmpwSHZlWm01SnJpa3BWdmE1blQyTUVUREpIemQ1bWx4bzFZcDVuRnRfNUp4NHJVN3Z5Z0pIb2ZWY2oyR1Vld2t4cUpiamJpakFKQmJXZk9iTV9Kb2FDV1ZhTGc",
+      "source": "Bleeding Green Nation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm53aGxpTy1uR1NsbWpWQUIyWEh5UHo2N3IzT0cxTVZLb0YwV3ZjdVAtUmJjT0hjWmpwSHZlWm01SnJpa3BWdmE1blQyTUVUREpIemQ1bWx4bzFZcDVuRnRfNUp4NHJVN3Z5Z0pIb2ZWY2oyR1Vld2t4cUpiamJpakFKQmJXZk9iTV9Kb2FDV1ZhTGc?oc=5\" target=\"_blank\">Eagles rooting guide for NFL Week 1 games</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-07T05:05:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles Cut Ties With Former First Round Ahead of Week 2 Battle With Chiefs",
+      "url": "https://heavy.com/sports/nfl/philadelphia-eagles/kenyon-green-waived",
+      "source": "Bing News — Philadelphia Eagles",
+      "summary": "As the Eagles prepare for their Super Bowl LIX rematch with the Chiefs in Week 2, they waived former first-round pick Kenyon Green.",
+      "published": "2025-09-07T04:43:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Why Cowboys fans are tortured by NFL Week 1 coverage map",
+      "url": "https://sports.yahoo.com/article/why-cowboys-fans-tortured-nfl-030400521.html",
+      "source": "The Sporting News",
+      "summary": "Ah, it's just the right amount of Dallas for the Fox broadcast.",
+      "published": "2025-09-07T03:04:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Tyson Foods Debuts 3 New Chicken Nugget Products Inspired by Iconic NFL Franchises",
+      "url": "https://sports.yahoo.com/article/tyson-foods-debuts-3-chicken-233000985.html",
+      "source": "People",
+      "summary": "The nuggets feature special touches that pay tribute to the Denver Broncos, Green Bay Packers and Philadelphia Eagles",
+      "published": "2025-09-06T23:30:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles Cut Former 1st-Round Pick After Week 1 Inactive",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHRoWkE4ejhRSmNmdGVMQ0JNSjdYVTY2alo3ajFuUTNkMzNEUXloOUVMTVhseGxhQklmajRDYWZac19jeURmZ0pUZGo4a01XUHpqWlJVYXpiSmxKTTZvZkNsLUNjRmN4YXhPUnhSVmJJa082SDdYMzJ1NDhSeERMQWVxNms5Z2xkVlJQYTJNOU9VYTVxaUF2T01R",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHRoWkE4ejhRSmNmdGVMQ0JNSjdYVTY2alo3ajFuUTNkMzNEUXloOUVMTVhseGxhQklmajRDYWZac19jeURmZ0pUZGo4a01XUHpqWlJVYXpiSmxKTTZvZkNsLUNjRmN4YXhPUnhSVmJJa082SDdYMzJ1NDhSeERMQWVxNms5Z2xkVlJQYTJNOU9VYTVxaUF2T01R?oc=5\" target=\"_blank\">Eagles Cut Former 1st-Round Pick After Week 1 Inactive</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T23:23:16+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles Projected As Early Option For Texas Star",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3RpajdzV3lKcTczSk9OSkl3cXdVbWJfZzVlUHh4c1dNQ2NySlo5bEh5b0xteVN0SW54SDVnVFppRV91WV9rQlUzS1JCd0h4aE5RTjNRTUF6eFJjckhIM2NsbmxJTU96YmNmRUpEX21Lamh3OG9RVV9XdGtuR1VULWJBYm5xOW8wV3VDVjQxNTRNTXZQWndid3lNNEhjUnl1djUxNVBjcnA",
+      "source": "Yardbarker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3RpajdzV3lKcTczSk9OSkl3cXdVbWJfZzVlUHh4c1dNQ2NySlo5bEh5b0xteVN0SW54SDVnVFppRV91WV9rQlUzS1JCd0h4aE5RTjNRTUF6eFJjckhIM2NsbmxJTU96YmNmRUpEX21Lamh3OG9RVV9XdGtuR1VULWJBYm5xOW8wV3VDVjQxNTRNTXZQWndid3lNNEhjUnl1djUxNVBjcnA?oc=5\" target=\"_blank\">Eagles Projected As Early Option For Texas Star</a>  <font color=\"#6f6f6f\">Yardbarker</font>",
+      "published": "2025-09-06T23:20:08+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles open up roster spot by waiving Kenyon Green",
+      "url": "https://www.bleedinggreennation.com/news/157802/eagles-open-up-roster-spot-by-waiving-kenyon-green",
+      "source": "Brandon Lee Gowton",
+      "summary": "The Philadelphia Eagles waived depth offensive guard Kenyon Green on Saturday afternoon, according to an official team announcement. The Eagles originally acquired Green in March by trading C.J. Gardner-Johnson to the Houston Texans. The 2022 first-round pick struggled to impress this offseason, leading to the Eagles waiving him on August 26. Green signed to Philly’s […]",
+      "published": "2025-09-06T22:31:16+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles open up roster spot by waiving Kenyon Green",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkt6VFRuVVk3R0ZtMmNZbnUtelhJRXdhNDcyUVF2bU1CMzVKSnhtM0FGZlpfOEJEV2RBck4ta1hPaWVMUHkwOVFDX2FRNUZieHhCZXh6eTg1ZndpYnJPcUtkbHdXSXAzVzdNdzNabjFUVGpWc0stUEJLR3c4R0hfUm5COFJQMGMwT3FiRmJ2MDVpSXd4OU5qNlFpWWQ5NkU",
+      "source": "Bleeding Green Nation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkt6VFRuVVk3R0ZtMmNZbnUtelhJRXdhNDcyUVF2bU1CMzVKSnhtM0FGZlpfOEJEV2RBck4ta1hPaWVMUHkwOVFDX2FRNUZieHhCZXh6eTg1ZndpYnJPcUtkbHdXSXAzVzdNdzNabjFUVGpWc0stUEJLR3c4R0hfUm5COFJQMGMwT3FiRmJ2MDVpSXd4OU5qNlFpWWQ5NkU?oc=5\" target=\"_blank\">Eagles open up roster spot by waiving Kenyon Green</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-06T22:31:16+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys",
+      "url": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowboys/53212f9186c4deed277595a9",
       "source": "Yahoo Sports — Eagles",
-      "summary": "Philadelphia wrapped up preparations with a crisp session at NovaCare.",
-      "published": "2025-09-05T14:30:00Z"
+      "summary": "The Philadelphia Eagles started their season with a win on Thursday night over the Dallas Cowboys. On Saturday, they cleared a roster spot as they begin preparations for Week 2 against the Kansas City Chiefs. The Eagles announced Saturday evening that they had waived offensive lineman Kenyon Green. Green is a guard.",
+      "published": "2025-09-06T22:18:54+00:00",
+      "trusted": true
     },
     {
-      "title": "Injury report: key starters upgraded",
-      "url": "https://profootballtalk.nbcsports.com/2025/09/05/eagles-injury-report-upgrades/",
-      "source": "ProFootballTalk — Eagles",
-      "summary": "Several players moved to full participants in Friday’s report.",
-      "published": "2025-09-05T13:00:00Z"
+      "title": "Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOU5kdllXU1ptWW5Xek04eXc0X1l1MC1sY1V6eW80N2ZGMVN3cXkwZkNzcngxNFpMMEhyVXdlSHh1LXpYekc0Z2s3VTdzRDBIdWRGd1ZnaEhNT1RYTVFKSzBsbW51UXBFbXJKcmRrVWotaFZjYm5ZZVV0ZGV4VlM1ZHJjMjFRUmh0MmhmVjREVGotNXVSVmxGSHZsSWpJUnlYQ0V0d3hFWkRVRFhpZGJwMUV6dGRNdW53Z2w0VDRQNFZwMXkzZGpKVFVmQXcyVzBEaXdQdkFIZDVSd3VCTXd5aU90eHZ0VkFK",
+      "source": "sportingnews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOU5kdllXU1ptWW5Xek04eXc0X1l1MC1sY1V6eW80N2ZGMVN3cXkwZkNzcngxNFpMMEhyVXdlSHh1LXpYekc0Z2s3VTdzRDBIdWRGd1ZnaEhNT1RYTVFKSzBsbW51UXBFbXJKcmRrVWotaFZjYm5ZZVV0ZGV4VlM1ZHJjMjFRUmh0MmhmVjREVGotNXVSVmxGSHZsSWpJUnlYQ0V0d3hFWkRVRFhpZGJwMUV6dGRNdW53Z2w0VDRQNFZwMXkzZGpKVFVmQXcyVzBEaXdQdkFIZDVSd3VCTXd5aU90eHZ0VkFK?oc=5\" target=\"_blank\">Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys</a>  <font color=\"#6f6f6f\">sportingnews.com</font>",
+      "published": "2025-09-06T22:18:54+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles-Cowboys: Upon Further Review...",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtMHB3amw0TXFXTWhiWVJvSnlUcHRDcVJ1ZUc2RmJRWDFNQUlqaE5fT2NpLUdhRFo2WFdYZW1Eb19BdllKeUdab0pTeEFyZm1XUHFyY00xQ0pGOWdmVklHeEhlN2g3SkRqbDdBT3ZMUXNDbEtuOERVY2dOUHZldw",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAtMHB3amw0TXFXTWhiWVJvSnlUcHRDcVJ1ZUc2RmJRWDFNQUlqaE5fT2NpLUdhRFo2WFdYZW1Eb19BdllKeUdab0pTeEFyZm1XUHFyY00xQ0pGOWdmVklHeEhlN2g3SkRqbDdBT3ZMUXNDbEtuOERVY2dOUHZldw?oc=5\" target=\"_blank\">Eagles-Cowboys: Upon Further Review...</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T20:54:57+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Just 21 players remain with their teams from 2022 Saints-Cardinals game",
+      "url": "https://sports.yahoo.com/article/just-21-players-remain-teams-205137799.html",
+      "source": "Saints Wire",
+      "summary": "Just 14 New Orleans Saints players remain on the team from the last game with the Cardinals, but Arizona has held onto even fewer than that since 2022:",
+      "published": "2025-09-06T20:51:37+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles waive struggling OL to open a roster spot: Could another big move be coming?",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0Y4VGNmQTNKYjI3OWRBVWFDQWpUWDctTF80a190a2Y2RzlTQjdFZ01aQ1VkLTM0TXBEanpVYS0tcHM3bm84N1N5ZllxYldFQVEyS1ljeEV2QzFyX2t0MEZKQU9CbEpqSFZ6NlBwTERDMS1Nd0NiaGVrOVNkQU0wUEdobkV0N1NGaVgyNVYtdlhCX2JpbjBfYXpEQVl3VDhyWWwxZ3FudGh2SHFpNFhEZ2JGdnN4N0ptYUw2UtIB0AFBVV95cUxOZXZBMGtoU2hEMlEyTWRkNFl5OFBRYnF1dFJNQ1huZnR5VzRNWENQdkRyY1JmTExFcTFsZFhaZFZ0Q0dVV1NYekNlUzJzRUhVYk9ydllIT3IxYnQ2VG5CVEh0eWhOcTR4bVJWUF9PcUhiSkpZMFV5LXc4Nl9SQy04YWhFZXRUcTY0VWxlZHdudVRZaXd2OVJ4M00zOUw2dVg4OXMzMWhLZExmWUxZY0FHendhcHprcE5MVWd1bkxqbEt1d1FoUGEtZUJULXNVY1E2",
+      "source": "NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0Y4VGNmQTNKYjI3OWRBVWFDQWpUWDctTF80a190a2Y2RzlTQjdFZ01aQ1VkLTM0TXBEanpVYS0tcHM3bm84N1N5ZllxYldFQVEyS1ljeEV2QzFyX2t0MEZKQU9CbEpqSFZ6NlBwTERDMS1Nd0NiaGVrOVNkQU0wUEdobkV0N1NGaVgyNVYtdlhCX2JpbjBfYXpEQVl3VDhyWWwxZ3FudGh2SHFpNFhEZ2JGdnN4N0ptYUw2UtIB0AFBVV95cUxOZXZBMGtoU2hEMlEyTWRkNFl5OFBRYnF1dFJNQ1huZnR5VzRNWENQdkRyY1JmTExFcTFsZFhaZFZ0Q0dVV1NYekNlUzJzRUhVYk9ydllIT3IxYnQ2VG5CVEh0eWhOcTR4bVJWUF9PcUhiSkpZMFV5LXc4Nl9SQy04YWhFZXRUcTY0VWxlZHdudVRZaXd2OVJ4M00zOUw2dVg4OXMzMWhLZExmWUxZY0FHendhcHprcE5MVWd1bkxqbEt1d1FoUGEtZUJULXNVY1E2?oc=5\" target=\"_blank\">Eagles waive struggling OL to open a roster spot: Could another big move be coming?</a>  <font color=\"#6f6f6f\">NJ.com</font>",
+      "published": "2025-09-06T20:44:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "From No. 1 to ... the Rockies, again: Ranking all 30 MLB cores",
+      "url": "https://www.espn.com/mlb/story/_/id/46158532/mlb-rankings-core-talent-locked-contracts-dodgers-mariners-mets-phillies",
+      "source": "Kiley McDaniel",
+      "summary": "Dodgers or Mariners? Mets or Phillies? We rank the clubs with the most star power under control through 2027.",
+      "published": "2025-09-06T20:14:01+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Roster move: Philadelphia Eagles waive offensive guard Kenyon Green",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0VrYTVoMmFuM2FIV3RoVWFxOGxnQ1dfU1VHRVplYVB2eU1MZGpURW1KQnJycGI0RzFNb3pFQ3F5bDNnS1ZIM01ySUJyRndVOGVRX3ZmM0g5ZDF0VnNOcGZReUNyUVYzTzZhaDdkSlRGOXhPWVlkYVRaYkk1QWtPb3pPZXJ5dm5PWHlSNHU5OVRSM1NRWXVWOVh3RTN3NVQtTFZHcDRsUTZzcGJS",
+      "source": "Eagles Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0VrYTVoMmFuM2FIV3RoVWFxOGxnQ1dfU1VHRVplYVB2eU1MZGpURW1KQnJycGI0RzFNb3pFQ3F5bDNnS1ZIM01ySUJyRndVOGVRX3ZmM0g5ZDF0VnNOcGZReUNyUVYzTzZhaDdkSlRGOXhPWVlkYVRaYkk1QWtPb3pPZXJ5dm5PWHlSNHU5OVRSM1NRWXVWOVh3RTN3NVQtTFZHcDRsUTZzcGJS?oc=5\" target=\"_blank\">Roster move: Philadelphia Eagles waive offensive guard Kenyon Green</a>  <font color=\"#6f6f6f\">Eagles Wire</font>",
+      "published": "2025-09-06T20:06:29+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles waive OL Kenyon Green",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OS0Vvc0hSTXNwZGZFUkpSY01nQjlhWjlnTi13RFpvZ3c1OWNhRlRRTGpWaFkyUEh5RWRpTVA4Q3lLMVhEcFp2TGZjdzZqbzJZMUp0R202NlBBNjFxc0FaekpXLVBUalg5YUhxY29ORGdNa2M",
+      "source": "Philadelphia Eagles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1OS0Vvc0hSTXNwZGZFUkpSY01nQjlhWjlnTi13RFpvZ3c1OWNhRlRRTGpWaFkyUEh5RWRpTVA4Q3lLMVhEcFp2TGZjdzZqbzJZMUp0R202NlBBNjFxc0FaekpXLVBUalg5YUhxY29ORGdNa2M?oc=5\" target=\"_blank\">Eagles waive OL Kenyon Green</a>  <font color=\"#6f6f6f\">Philadelphia Eagles</font>",
+      "published": "2025-09-06T20:04:03+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Jalen Carter: NFL Makes Discipline Decision for Eagles Star After Spitting Incident",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1d6MnVzc25xYUo3VXl6SmhGV2o3blMwOUozTzRsay1wWUNRcW9ubXQxWTVsV3VmSUNERktaSUR3VGxsUGh5Q0wtRGxTZnhubGItaENGY2EzbDlpQ09DTFZwTmtLbGliYWFqNkVteXJha0lWNFhJS3pVN0RXXzcxbTJweVY3Z0tLdGZFSVZXa2RyMG9lelpwTFBRU0I5U1RvV1V6ak52YjNLUGRKNlE",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1d6MnVzc25xYUo3VXl6SmhGV2o3blMwOUozTzRsay1wWUNRcW9ubXQxWTVsV3VmSUNERktaSUR3VGxsUGh5Q0wtRGxTZnhubGItaENGY2EzbDlpQ09DTFZwTmtLbGliYWFqNkVteXJha0lWNFhJS3pVN0RXXzcxbTJweVY3Z0tLdGZFSVZXa2RyMG9lelpwTFBRU0I5U1RvV1V6ak52YjNLUGRKNlE?oc=5\" target=\"_blank\">Jalen Carter: NFL Makes Discipline Decision for Eagles Star After Spitting Incident</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T19:30:18+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Play a special Philadelphia Eagles version of Connections: Sports Edition",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREM5eEQ5bVlQTDctWXpRMk9jSXBYaU0xTTRvOE03UGZoaExubU85aU00eUh2VXFyakJvVFdGaFRaZ1A1NXBRRjc1MFBnVEJjVnF5a05oUkxmWmc5STg4TDBCbVh4VU9VcnNKLTByZjFrdThPR2d0WnFyelMyV0RRTmhMWHRETWUwZmZSNk5MUFVkdk1PMUxvNG9ZNA",
+      "source": "The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQREM5eEQ5bVlQTDctWXpRMk9jSXBYaU0xTTRvOE03UGZoaExubU85aU00eUh2VXFyakJvVFdGaFRaZ1A1NXBRRjc1MFBnVEJjVnF5a05oUkxmWmc5STg4TDBCbVh4VU9VcnNKLTByZjFrdThPR2d0WnFyelMyV0RRTmhMWHRETWUwZmZSNk5MUFVkdk1PMUxvNG9ZNA?oc=5\" target=\"_blank\">Play a special Philadelphia Eagles version of Connections: Sports Edition</a>  <font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-06T19:20:34+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles Urged to Make Move With Former First Round Pick After Week 1 Struggles",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTBMem9wWk1pWmNsOGJPYi1YRTVTVTZ4TS16UHNsVENUS0h5Q05mQUdNVkc5Ti1kVVprYVZzb05tSDZUUnNjc203UHpmbGt6MC1DWDZKdWtWX1ZQWUZnbTZORkg0eW94Q0w1TVotZGRwMW9kV1MxOFltM3ZCSHlndkEwV2poRDYz",
+      "source": "Heavy Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTBMem9wWk1pWmNsOGJPYi1YRTVTVTZ4TS16UHNsVENUS0h5Q05mQUdNVkc5Ti1kVVprYVZzb05tSDZUUnNjc203UHpmbGt6MC1DWDZKdWtWX1ZQWUZnbTZORkg0eW94Q0w1TVotZGRwMW9kV1MxOFltM3ZCSHlndkEwV2poRDYz?oc=5\" target=\"_blank\">Eagles Urged to Make Move With Former First Round Pick After Week 1 Struggles</a>  <font color=\"#6f6f6f\">Heavy Sports</font>",
+      "published": "2025-09-06T19:13:45+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Key matchups, fantasy intel and predictions for Week 1's remaining 14 games",
+      "url": "https://www.espn.com/nfl/story/_/id/46139433/nfl-week-1-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "NFL Nation, Eric Moody and Seth Walder",
+      "summary": "Which teams will win, who are the X factors, and which storylines matter most?",
+      "published": "2025-09-06T19:12:09+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Last-minute Week 1 intel from NFL experts: Why the Lions could win, plus surprises and fantasy sleepers",
+      "url": "https://www.espn.com/nfl/story/_/id/46139642/2025-nfl-week-1-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
+      "source": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+      "summary": "Could Jahmyr Gibbs have a huge receiving game? Will the Bengals finally win in Week 1? Which two Jaguars should you add in your fantasy leagues?",
+      "published": "2025-09-06T19:12:08+00:00",
+      "trusted": true
+    },
+    {
+      "title": "A.J. Brown Has Short Response to Only One Target in Eagles’ Week 1 Win",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRENEbVc2OXhZTFZIR2lZMUl1RklRX21EbnpFMWZFV0lTYm9WLTE4UThtMFNlRk13TWpCVGpDN0huT3JFZVkyV3l0NEdXbEI0b0FnYmMwcUIzZFVBSGIteFQzdGhJRnk1dk1PQS14VDVydnJZM2pxRldrU1BPSERzMFpjOA",
+      "source": "Heavy Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRENEbVc2OXhZTFZIR2lZMUl1RklRX21EbnpFMWZFV0lTYm9WLTE4UThtMFNlRk13TWpCVGpDN0huT3JFZVkyV3l0NEdXbEI0b0FnYmMwcUIzZFVBSGIteFQzdGhJRnk1dk1PQS14VDVydnJZM2pxRldrU1BPSERzMFpjOA?oc=5\" target=\"_blank\">A.J. Brown Has Short Response to Only One Target in Eagles’ Week 1 Win</a>  <font color=\"#6f6f6f\">Heavy Sports</font>",
+      "published": "2025-09-06T18:20:28+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles' Jalen Carter won't face suspension for spitting at Dak Prescott",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlJmTGZta2tpUERZcFFkNUdfSmwzZF9CV1hpM1Qtend2dTd2ZnAwaHh0eWw5ZXpnaGJyY1FZb1pHUTNCRGVHUTJCLW9VT0JxWnhoU1BvWnBEVzFKbmdLVnV6cWlGVU13QjY0Zkt6cjlQZ3h3RjEtRmFsWWtiWUVnY1R3Zw",
+      "source": "Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlJmTGZta2tpUERZcFFkNUdfSmwzZF9CV1hpM1Qtend2dTd2ZnAwaHh0eWw5ZXpnaGJyY1FZb1pHUTNCRGVHUTJCLW9VT0JxWnhoU1BvWnBEVzFKbmdLVnV6cWlGVU13QjY0Zkt6cjlQZ3h3RjEtRmFsWWtiWUVnY1R3Zw?oc=5\" target=\"_blank\">Eagles' Jalen Carter won't face suspension for spitting at Dak Prescott</a>  <font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "published": "2025-09-06T17:45:53+00:00",
+      "trusted": false
+    },
+    {
+      "title": "What we learned from Chelsea's and Arsenal's openers: Blues still strong, Smith a star",
+      "url": "https://www.espn.com/soccer/story/_/id/46174598/wsl-back-learned-chelsea-arsenals-openers",
+      "source": "Emily Keogh",
+      "summary": "What we learned from Chelsea, Arsenal's opening WSL games",
+      "published": "2025-09-06T17:32:15+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Take Home Your Piece Of Eagles History With Saquon Barkley Sports Illustrated Cover",
+      "url": "https://www.si.com/nfl/eagles/news/take-home-your-piece-of-eagles-history-with-saquon-barkley-sports-illustrated-cover-pat3",
+      "source": "Philadelphia Eagles On SI",
+      "summary": "If you're a Philadelphia Eagles fan, you can still get a piece of history. Philadelphia started the season off on a high note with a win over the Dallas Cowboys. Jalen Hurts and Saquon Barkley combined for three rushing touchdowns in the Week 1 win. The victory marks their first challenge as defending Super Bowl champions.",
+      "published": "2025-09-06T17:21:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Take Home Your Piece Of Eagles History With Saquon Barkley Sports Illustrated Cover",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0lTMm13TVRsUHBKUUNXYXBVNFhKdk5sNjVZcUhKN2xuOTFjRzU5c19wWFBmSHJOcTdmeXRabXlCQXZXVHV1UG1BbTRxSW5ZQlloTEduaUxYYmpHY1AtcW9ZN2VMemhnWl9VTHFmQVN1cWZ6NkpwTXpzdXpsLUpzVWNGR3BEV3pBcTlMcTJNWEdxMUpmank4TlBtazI3ZjdFTWU2cUxxLVM2M0JEVm4ydlpmRVJFR2U5OWdMdm9YbDY",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0lTMm13TVRsUHBKUUNXYXBVNFhKdk5sNjVZcUhKN2xuOTFjRzU5c19wWFBmSHJOcTdmeXRabXlCQXZXVHV1UG1BbTRxSW5ZQlloTEduaUxYYmpHY1AtcW9ZN2VMemhnWl9VTHFmQVN1cWZ6NkpwTXpzdXpsLUpzVWNGR3BEV3pBcTlMcTJNWEdxMUpmank4TlBtazI3ZjdFTWU2cUxxLVM2M0JEVm4ydlpmRVJFR2U5OWdMdm9YbDY?oc=5\" target=\"_blank\">Take Home Your Piece Of Eagles History With Saquon Barkley Sports Illustrated Cover</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T17:21:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Denver Broncos predicted to dethrone defending champs in Super Bowl LX",
+      "url": "https://sports.yahoo.com/article/denver-broncos-predicted-dethrone-defending-171710398.html",
+      "source": "The Sporting News",
+      "summary": "The Denver Broncos are receiving tons of hype as they get ready to kick off their 2025 season, and some even think they can win it all.",
+      "published": "2025-09-06T17:17:10+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Will Fever make playoffs? Can Liberty still host? Breaking down the WNBA playoff picture",
+      "url": "https://www.espn.com/wnba/story/_/id/46162169/wnba-playoffs-2025-picture-postseason-race-berth",
+      "source": "Michael Voepel",
+      "summary": "Six teams have clinched WNBA playoff bids, but seeding and the last two berths still need to be determined.",
+      "published": "2025-09-06T16:46:37+00:00",
+      "trusted": true
+    },
+    {
+      "title": "News: Sliding Dodgers deal with injuries",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/44288339/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis",
+      "source": "ESPN Fantasy",
+      "summary": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+      "published": "2025-09-06T16:38:51+00:00",
+      "trusted": true
+    },
+    {
+      "title": "4 Dallas Cowboys who exceeded expectations in Week 1 against Eagles",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGtxSVdfRlduSktYR2lVeENiU3JvZlNjSS1BN242bVJiSGRHaGhIbUVjbWhVb2sza3BTZVljaldJUEFpYUhueGx6R0t0djVTclBDbFI5QWxWWTlJdDFzTFdaTGJlSXd3enotS3JLd3VzbEFVT2RiRWxYXzkxZnVtYXV4Rl9RU0NVeVlZX1FwX3c4RXpRV1VEa3pzLVVKWjZzaDFrNHFB",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGtxSVdfRlduSktYR2lVeENiU3JvZlNjSS1BN242bVJiSGRHaGhIbUVjbWhVb2sza3BTZVljaldJUEFpYUhueGx6R0t0djVTclBDbFI5QWxWWTlJdDFzTFdaTGJlSXd3enotS3JLd3VzbEFVT2RiRWxYXzkxZnVtYXV4Rl9RU0NVeVlZX1FwX3c4RXpRV1VEa3pzLVVKWjZzaDFrNHFB?oc=5\" target=\"_blank\">4 Dallas Cowboys who exceeded expectations in Week 1 against Eagles</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T16:33:52+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles open up roster spot by waiving offensive lineman",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFJfb3F2WkhVWDc5VU45am1OM0h3NFFDdkxuWmVCNzhJUi1RYUNpMkV6NzdJaVR1MFZHaG1IcXhsWlpjdjRXc3V4bV9lNk5RNWF6c19zXzJSMU51cjE0czRfQnBVUVlGLXpTay1GdC1mbmIwc3FQbUNZd1MxNk9LTl9Sd3Vrc3A1REFQNEpzbDM5YXBBa1JLMzI5dDRGcVFNejlTN2c2NHNPS3BTYUNUbzVSOU43dlNoaEVRUWlPTEFlbFXSAcsBQVVfeXFMTldUbGtoN09jX3c4WWRhblJ5NnQxNTUwOUxpWm1iZUhDZW4yTUhZRGIyZDFBNHpFOC13RzA5eHNLbkdWN2xCV0xDRkFLVjdYU0k0TFAzQ3JMNUpOSTF6WTczUDZlMkZSNHJZT3k1VnRQWEduM0NMalM3WE5Bb1hOb2xORXBoWFBQMWJjYnJ2cUF5SHk3RUdHUmpOZVpxY2xnYWV0VG9aN0ltSEZLNXhObVVwczk4aEVlNWc5LWdJdFJPNGhPUmxVaTM1d2c",
+      "source": "NBC Sports Philadelphia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFJfb3F2WkhVWDc5VU45am1OM0h3NFFDdkxuWmVCNzhJUi1RYUNpMkV6NzdJaVR1MFZHaG1IcXhsWlpjdjRXc3V4bV9lNk5RNWF6c19zXzJSMU51cjE0czRfQnBVUVlGLXpTay1GdC1mbmIwc3FQbUNZd1MxNk9LTl9Sd3Vrc3A1REFQNEpzbDM5YXBBa1JLMzI5dDRGcVFNejlTN2c2NHNPS3BTYUNUbzVSOU43dlNoaEVRUWlPTEFlbFXSAcsBQVVfeXFMTldUbGtoN09jX3c4WWRhblJ5NnQxNTUwOUxpWm1iZUhDZW4yTUhZRGIyZDFBNHpFOC13RzA5eHNLbkdWN2xCV0xDRkFLVjdYU0k0TFAzQ3JMNUpOSTF6WTczUDZlMkZSNHJZT3k1VnRQWEduM0NMalM3WE5Bb1hOb2xORXBoWFBQMWJjYnJ2cUF5SHk3RUdHUmpOZVpxY2xnYWV0VG9aN0ltSEZLNXhObVVwczk4aEVlNWc5LWdJdFJPNGhPUmxVaTM1d2c?oc=5\" target=\"_blank\">Eagles open up roster spot by waiving offensive lineman</a>  <font color=\"#6f6f6f\">NBC Sports Philadelphia</font>",
+      "published": "2025-09-06T16:17:40+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
+      "url": "https://www.bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
+      "source": "Brandon Lee Gowton",
+      "summary": "The Philadelphia Eagles were one of the two teams Micah Parsons had interest in being traded to before the Dallas Cowboys ultimately sent him to the Green Bay Packers, according to a report from NFL insider Dianna Russini. Bold emphasis is mine: Once Parsons realized Dallas wasn’t moving off its offer — a five-year deal […]",
+      "published": "2025-09-06T15:41:55+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGdyYUc1eDR3bkx1UGxxNU1mUE85YVVxZDlVN3ZQcFhtM2RyQ2JDdjR5NWlPZXgxRGZ5WXpKeUVjbjNaYXJ5UGhQV3daTHU2SjMzWmhRVEtoZUZyWkt1NTlINnRCSnJxMGRpbWR1M1RXWXlCN1NKWVRVbUd1OElqTVAweklRcVk2ZWt4NGlwZGhSbG1UaEdKNG1KMjNsMXk2Z2ZBb1I1TFZ5b0VXdTc4dVV0U25kMnFzay1oTw",
+      "source": "Bleeding Green Nation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGdyYUc1eDR3bkx1UGxxNU1mUE85YVVxZDlVN3ZQcFhtM2RyQ2JDdjR5NWlPZXgxRGZ5WXpKeUVjbjNaYXJ5UGhQV3daTHU2SjMzWmhRVEtoZUZyWkt1NTlINnRCSnJxMGRpbWR1M1RXWXlCN1NKWVRVbUd1OElqTVAweklRcVk2ZWt4NGlwZGhSbG1UaEdKNG1KMjNsMXk2Z2ZBb1I1TFZ5b0VXdTc4dVV0U25kMnFzay1oTw?oc=5\" target=\"_blank\">Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-06T15:41:55+00:00",
+      "trusted": false
+    },
+    {
+      "title": "How Amani Hooker's 3-year, $48.6M deal with the Titans impacts Eagles DB Reed Blankenship",
+      "url": "https://sports.yahoo.com/article/amani-hookers-3-48-6m-153107828.html",
+      "source": "Eagles Wire",
+      "summary": "We're looking at how Amani Hooker's 3-year, $48.6 million deal with the Titans impacts Eagles safety Reed Blankenship",
+      "published": "2025-09-06T15:31:07+00:00",
+      "trusted": true
+    },
+    {
+      "title": "James Madison's icy white look headlines best Week 2 college football uniforms",
+      "url": "https://www.espn.com/college-football/story/_/id/46156894/college-football-uniforms-best-week-2-2025",
+      "source": "ESPN",
+      "summary": "James Madison will look to make a statement on the road against Louisville wearing a slick all-white look.",
+      "published": "2025-09-06T15:28:32+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Travis Kelce talks engagement to Taylor Swift in Brazil",
+      "url": "https://www.espn.com/nfl/story/_/id/46157151/kansas-city-chiefs-travis-kelce-talks-taylor-swift-engagement-brazil",
+      "source": "ESPN staff",
+      "summary": "The Chiefs tight end kept things lighthearted about his relationship and engagement to the superstar singer/songwriter.",
+      "published": "2025-09-06T15:28:32+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles News: Philadelphia has two stud starting linebackers",
+      "url": "https://www.bleedinggreennation.com/news/157788/eagles-news-philadelphia-has-two-stud-starting-linebackers",
+      "source": "Brandon Lee Gowton",
+      "summary": "Let’s get to the Philadelphia Eagles links … Eagles film breakdown: LBs Zack Baun and Jihaad Campbell are big, smart, versatile, athletic freaks – PhillyVoiceThis play won’t go on Jihaad Campbell’s highlight reel, but Zack Baun is able to chase down Miles Sanders, and he’s so much faster than Sanders that he tries two punches […]",
+      "published": "2025-09-06T15:23:32+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles News: Philadelphia has two stud starting linebackers",
+      "url": "https://sports.yahoo.com/article/eagles-news-philadelphia-two-stud-152332221.html",
+      "source": "SB Nation",
+      "summary": "Philadelphia Eagles news and links for 9/6/25.",
+      "published": "2025-09-06T15:23:32+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles News: Philadelphia has two stud starting linebackers",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnYzZnZ0Tjd2eHVYeHZIbDBqQ0tTeXROOEUtRFRVeVU2U1VHak93WFZZeWpMMVlMWW5NeU01UDV6a3JhVU1FYkpsb054VUhVeC1IVU1lUmRIekwtODNqdUZpV0dRTGhWSjRCeTZMLUJ4alMxaUhJWFF1a1ZQOGtVMExJSXhyWVdGbGhRR0JNZ1B2M01tcTktTkRWYmN5eXlPQWRiNll6a25mQQ",
+      "source": "Bleeding Green Nation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnYzZnZ0Tjd2eHVYeHZIbDBqQ0tTeXROOEUtRFRVeVU2U1VHak93WFZZeWpMMVlMWW5NeU01UDV6a3JhVU1FYkpsb054VUhVeC1IVU1lUmRIekwtODNqdUZpV0dRTGhWSjRCeTZMLUJ4alMxaUhJWFF1a1ZQOGtVMExJSXhyWVdGbGhRR0JNZ1B2M01tcTktTkRWYmN5eXlPQWRiNll6a25mQQ?oc=5\" target=\"_blank\">Eagles News: Philadelphia has two stud starting linebackers</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-06T15:23:32+00:00",
+      "trusted": false
+    },
+    {
+      "title": "A rare achievement over the Cowboys in this year's inaugural Roob's Eagles Stats",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzNSU2FHSG50YU9CNXBKRXI3aU9TVWo4Nm8xX211UDdYMFFXemk4WktBOUJVS05DZXEwVXhaM3RsUUxnai0wWHNkT0swOVp3SnZYcUUxT0V6MG9LSVVnLXY5TjFtQTY1MndIY0FrNU9FNDFLRWFmX0VUelA1QVZSSGxVTW01MHFFaFhnQXJvbHBzajdKc1dyN3hhcjFIV0lUbzhBVWdqUHFpQm5sSUtFRWd6ZjIySENjQ00yOV9LaXYzbkpa0gHMAUFVX3lxTFBNLTFoQ1hja1Vod1JweVdPempRcXJBVVZ4V3FqNDFwc0J5Z0cxQVV4OVFEWjMtU0FucWtsQmNZSjBwdGw5bXlCNjFETlJPaGFxMHZuNHJ2blVSa0o3SFhDVHFHMkE1NGgtOGtOcFVrblp5WUdnanpRbHpfSm9yVHRHNHQ1d2lQYlU1WlR3THd4dWpZRW9PcV9Yamt4SnRxRVJSUFFDb3ZIUWdHRWlhTndHdzBpN0RHQ1F5MF82N2lzNVBwbk5KQXRUc1Q5UA",
+      "source": "NBC Sports Philadelphia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzNSU2FHSG50YU9CNXBKRXI3aU9TVWo4Nm8xX211UDdYMFFXemk4WktBOUJVS05DZXEwVXhaM3RsUUxnai0wWHNkT0swOVp3SnZYcUUxT0V6MG9LSVVnLXY5TjFtQTY1MndIY0FrNU9FNDFLRWFmX0VUelA1QVZSSGxVTW01MHFFaFhnQXJvbHBzajdKc1dyN3hhcjFIV0lUbzhBVWdqUHFpQm5sSUtFRWd6ZjIySENjQ00yOV9LaXYzbkpa0gHMAUFVX3lxTFBNLTFoQ1hja1Vod1JweVdPempRcXJBVVZ4V3FqNDFwc0J5Z0cxQVV4OVFEWjMtU0FucWtsQmNZSjBwdGw5bXlCNjFETlJPaGFxMHZuNHJ2blVSa0o3SFhDVHFHMkE1NGgtOGtOcFVrblp5WUdnanpRbHpfSm9yVHRHNHQ1d2lQYlU1WlR3THd4dWpZRW9PcV9Yamt4SnRxRVJSUFFDb3ZIUWdHRWlhTndHdzBpN0RHQ1F5MF82N2lzNVBwbk5KQXRUc1Q5UA?oc=5\" target=\"_blank\">A rare achievement over the Cowboys in this year's inaugural Roob's Eagles Stats</a>  <font color=\"#6f6f6f\">NBC Sports Philadelphia</font>",
+      "published": "2025-09-06T15:11:21+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles fans beg new Viking 'demand a trade' after Week 1 struggles vs. Cowboys",
+      "url": "https://thevikingage.com/philadelphia-eagles-fans-beg-isaiah-rodgers-minnesota-vikings-demand-trade",
+      "source": "The Viking Age",
+      "summary": "It might have seemed like a low-key signing at the time, but the Minnesota Vikings poached a player fans of the reigning Super Bowl champions would like back. With journeyman veterans like Stephon Gilmore and Shaq Griffin no longer in their plans, the Vikings were in the market for cornerbacks during the first wave of 2025 free agency. One of their first reported signings was a two-year deal with Isaiah Rodgers, a reserve cornerback for the Philadelphia Eagles last season who played some critical snaps in the NFC playoffs. The price tag on Rodgers was extremely reasonable — $11 million over two years with about $8 million in guarantees, per Spotrac.",
+      "published": "2025-09-06T15:00:02+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles fans beg new Viking ‘demand a trade’ after Week 1 struggles vs. Cowboys",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNocUVqOS1TRG9OUlpuQXJiWVlsazQzUU5xVFJrakh4ck1BVGJnMGVfWHBBMGJnYWJGSHpPcGhlbFkzeUN5X3FOTFdkOUx3OFRSVnNhb0Q3QlpYdUxqOUJ5cUo1bTlJcEhNbUdMUmFmYXloSS1WbWt2TGdiZUthOFN0NjVXT202RmpfaDdDZFhDU2x0akxLdFFqUTIxbWQ0",
+      "source": "The Viking Age",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNocUVqOS1TRG9OUlpuQXJiWVlsazQzUU5xVFJrakh4ck1BVGJnMGVfWHBBMGJnYWJGSHpPcGhlbFkzeUN5X3FOTFdkOUx3OFRSVnNhb0Q3QlpYdUxqOUJ5cUo1bTlJcEhNbUdMUmFmYXloSS1WbWt2TGdiZUthOFN0NjVXT202RmpfaDdDZFhDU2x0akxLdFFqUTIxbWQ0?oc=5\" target=\"_blank\">Eagles fans beg new Viking ‘demand a trade’ after Week 1 struggles vs. Cowboys</a>  <font color=\"#6f6f6f\">The Viking Age</font>",
+      "published": "2025-09-06T15:00:02+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles' Jalen Hurts Is Redefining QB Play",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeV92Q1FLSDlJUUxnb2lHZDBTRllqLWI0ZzJUTU11RndiNlBIZHNheEx1REpKOHN0eTZBUjBCN0F6QkFkYTZMMTFjYXhLZGhpMzBWSDJfY09YZHdVS1JrM3QwMEtsTTlqX2Q5MUpoN2dHTGQ5UDcxZkxQU0tTVzhfYVVUeGlkM2dlbGxSSjZtam1PZw",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeV92Q1FLSDlJUUxnb2lHZDBTRllqLWI0ZzJUTU11RndiNlBIZHNheEx1REpKOHN0eTZBUjBCN0F6QkFkYTZMMTFjYXhLZGhpMzBWSDJfY09YZHdVS1JrM3QwMEtsTTlqX2Q5MUpoN2dHTGQ5UDcxZkxQU0tTVzhfYVVUeGlkM2dlbGxSSjZtam1PZw?oc=5\" target=\"_blank\">Eagles' Jalen Hurts Is Redefining QB Play</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T14:42:40+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Jalen Hurts Postgame Locker Room Speech: Cowboys",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEo0alU1ekNpcEgtWk1lc2lZWmh2UC13V2ROZmptQ3lCenNqaHJ0dWwzMVFXUDBQTGJqYk1pQ0IxTzcwNkwzRURiZzhNSHBzMmZWS2FZVHN0YzRlcUxYZ2hTRlVoeWM4NGJPekg4RnRfOUpTQmVVV2pLQnI5ZTNxdE11eEFST2ozb3RuejNjRWduX2pyWGY5X0ljS1l0T3NTVkE",
+      "source": "Philadelphia Eagles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEo0alU1ekNpcEgtWk1lc2lZWmh2UC13V2ROZmptQ3lCenNqaHJ0dWwzMVFXUDBQTGJqYk1pQ0IxTzcwNkwzRURiZzhNSHBzMmZWS2FZVHN0YzRlcUxYZ2hTRlVoeWM4NGJPekg4RnRfOUpTQmVVV2pLQnI5ZTNxdE11eEFST2ozb3RuejNjRWduX2pyWGY5X0ljS1l0T3NTVkE?oc=5\" target=\"_blank\">Jalen Hurts Postgame Locker Room Speech: Cowboys</a>  <font color=\"#6f6f6f\">Philadelphia Eagles</font>",
+      "published": "2025-09-06T14:09:38+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles need to pull plug on ex-Giants standout before he kills their season",
+      "url": "https://sports.yahoo.com/article/eagles-pull-plug-ex-giants-100051446.html",
+      "source": "NJ.com",
+      "summary": "The Eagles should consider benching this player before things get ugly.",
+      "published": "2025-09-06T14:06:54+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles need to pull plug on ex-Giants standout before he kills their season",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0FUR19SeHVoQkE0dDNIdFgxOXhITUZwLUZuaklvT1RqZHp4TGhlMGRrNl8tci02M3lzYWxBVUU4dTF4Q0RQNEtmRldvcndxSFU5ZFRCMEVoOGt1THhHYlBJel94Rm1CWFozQmo2VEpVSUloQmQxX0J0SG16bDBpNXBMRzh0LUpfM1FqanVCWGpYV05Nd1lGOWp6cDVhSnl2Nmw5eG0ydmdubGMybkNraDZjNWfSAcgBQVVfeXFMTUczenFuZ2R2NXg3dF9kYWJ1b09FZ3hNRGlGV2tUcl9RMjRacXk0VU1MeHRYRkh5WXlaRzBTb2hONEFocDFmdWVpeElBQ0hpN0RHNWFUOEhaOVY5ekh6ZG5oMGd3TEJWU0NoU01MTzlFUXhGSXJadXAtQi1lRm0teFp2ZFJYVUZJRUFQb3FRRHd6TG9nZ24yTWRXbU5nNWRyU1FZaUtTcDBBY2NqRG1IOUFWbDJ0d0dGQ3paQi1YcXZWMEdIeDFMZ1I",
+      "source": "NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0FUR19SeHVoQkE0dDNIdFgxOXhITUZwLUZuaklvT1RqZHp4TGhlMGRrNl8tci02M3lzYWxBVUU4dTF4Q0RQNEtmRldvcndxSFU5ZFRCMEVoOGt1THhHYlBJel94Rm1CWFozQmo2VEpVSUloQmQxX0J0SG16bDBpNXBMRzh0LUpfM1FqanVCWGpYV05Nd1lGOWp6cDVhSnl2Nmw5eG0ydmdubGMybkNraDZjNWfSAcgBQVVfeXFMTUczenFuZ2R2NXg3dF9kYWJ1b09FZ3hNRGlGV2tUcl9RMjRacXk0VU1MeHRYRkh5WXlaRzBTb2hONEFocDFmdWVpeElBQ0hpN0RHNWFUOEhaOVY5ekh6ZG5oMGd3TEJWU0NoU01MTzlFUXhGSXJadXAtQi1lRm0teFp2ZFJYVUZJRUFQb3FRRHd6TG9nZ24yTWRXbU5nNWRyU1FZaUtTcDBBY2NqRG1IOUFWbDJ0d0dGQ3paQi1YcXZWMEdIeDFMZ1I?oc=5\" target=\"_blank\">Eagles need to pull plug on ex-Giants standout before he kills their season</a>  <font color=\"#6f6f6f\">NJ.com</font>",
+      "published": "2025-09-06T14:06:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Fun facts about new Eagles edge rusher Za'Darius Smith",
+      "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/09/06/fun-facts-new-eagles-edge-rusher-zadarius-smith/86012573007",
+      "source": "Eagles Wire",
+      "summary": "The Philadelphia Eagles have had their share of home runs and strikeouts. Fingers are crossed that the newly acquired Za'Darius Smith is the former. The Number 99 jersey he wore for the Detroit Lions is retired in the City of Brotherly Love. The last time we saw Smith, he appeared to have plenty of tread left on the tire.",
+      "published": "2025-09-06T14:04:17+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Adoree’ Jackson gives an honest review of his Eagles debut",
+      "url": "https://sports.yahoo.com/article/adoree-jackson-gives-honest-review-140246277.html",
+      "source": "Eagles Wire",
+      "summary": "Adoree' Jackson gives an honest and fair assessment of his first Eagles start at cornerback.",
+      "published": "2025-09-06T14:02:46+00:00",
+      "trusted": true
+    },
+    {
+      "title": "↔️ Inside the Micah Parsons trade",
+      "url": "https://www.espn.com/nfl/story/_/id/46128962/micah-parsons-trade-dallas-cowboys-green-bay-packers-2025-nfl-season",
+      "source": "Jeremy Fowler and Don Van Natta Jr.",
+      "summary": "Micah Parsons wanted to be a Dallas Cowboy \"for life.\" The disputed nature of a March meeting with Jerry Jones helped chart a course for his exit.",
+      "published": "2025-09-06T13:16:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "🤯 CFB overreactions: Belichick, Arch, more",
+      "url": "https://www.espn.com/college-football/story/_/id/46121146/college-football-week-1-overreactions-bill-belichick-arch-manning-alabama",
+      "source": "Bill Connelly",
+      "summary": "What happened to Arch Manning? And Clemson?? And Alabama??? We jump to some way-too-early conclusions.",
+      "published": "2025-09-06T13:16:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "⚾ Passan's early MLB free agency intel",
+      "url": "https://www.espn.com/mlb/story/_/id/46139027/2025-mlb-free-agency-offseason-early-intel-contracts-schwarber-tucker-imai-bregman-alonso",
+      "source": "Jeff Passan",
+      "summary": "MLB front offices are already thinking ahead to the offseason. Here are the storylines that will rule the winter.",
+      "published": "2025-09-06T13:16:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "🏀 Report: Clips skirted cap with Kawhi payment",
+      "url": "https://www.espn.com/nba/story/_/id/46146871/report-clippers-skirted-nba-salary-cap-kawhi-leonard-payment",
+      "source": "Baxter Holmes",
+      "summary": "The Clippers reportedly have been accused of circumventing the NBA's salary cap by paying $28 million to Kawhi Leonard for a \"no-show job.\"",
+      "published": "2025-09-06T13:16:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "💰 Gundy, Lanning trade barbs over Ducks' budget",
+      "url": "https://www.espn.com/college-football/story/_/id/46133353/spend-win",
+      "source": "Paolo Uggetti",
+      "summary": "Oklahoma State's Mike Gundy and Oregon's Dan Lanning traded barbs Monday after Gundy called attention to the Ducks' sizable budget.",
+      "published": "2025-09-06T13:16:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "🏀 Caitlin Clark to miss rest of Fever season",
+      "url": "https://www.espn.com/wnba/story/_/id/46160253/fever-star-caitlin-clark-ruled-rest-wnba-season",
+      "source": "Alexa Philippou",
+      "summary": "Fever star Caitlin Clark, who has been limited to 13 games because of injuries and hasn't played since July 15, will miss the remainder of the WNBA season.",
+      "published": "2025-09-06T13:16:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles' major roster flaw was completely ignored by Howie Roseman this offseason",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGEtVWI3Mks4NDZYajM3WUVpbFI4YlNtWU1MTXdnem40SHZsN25Vc1RfOGhGcENhemVGRE9DcXo2ZE4tMzRrMW5uU2xXSTYwWk9tQXEtbE9mZ1NmYXA5eXR4REkxcmNERG11Y1lBd1lHcFd5bW1YQi1NYno5b3hIcDRYUGFoWVNldmY2T3lDdjRvLXg3YlIwQTdWMTNGamYzejRkdWpQSGRNMGc",
+      "source": "Inside the Iggles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGEtVWI3Mks4NDZYajM3WUVpbFI4YlNtWU1MTXdnem40SHZsN25Vc1RfOGhGcENhemVGRE9DcXo2ZE4tMzRrMW5uU2xXSTYwWk9tQXEtbE9mZ1NmYXA5eXR4REkxcmNERG11Y1lBd1lHcFd5bW1YQi1NYno5b3hIcDRYUGFoWVNldmY2T3lDdjRvLXg3YlIwQTdWMTNGamYzejRkdWpQSGRNMGc?oc=5\" target=\"_blank\">Eagles' major roster flaw was completely ignored by Howie Roseman this offseason</a>  <font color=\"#6f6f6f\">Inside the Iggles</font>",
+      "published": "2025-09-06T13:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Next Eagles defender to land in Vic Fangio’s doghouse is painfully clear",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUld5Qi00UU1VZTBSZjRxdXpaenoyZ3VITGZpTEQ0MUVRbzVIQTlxY1NxZzNGWGRGeEVabmY2eFpWM2pzRmtvLXJhdnJoVi1IX0RsV3daeFdNR2lrVkVJNEROVGVCTDY1cWY3X3pYVUhlUFM5QXBJYWM1N2sxRnFLMkpiWFVsMFdlYVd4Z1gyRml3MU9KN1RFT1QtbWNyeXExWEE",
+      "source": "Inside the Iggles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUld5Qi00UU1VZTBSZjRxdXpaenoyZ3VITGZpTEQ0MUVRbzVIQTlxY1NxZzNGWGRGeEVabmY2eFpWM2pzRmtvLXJhdnJoVi1IX0RsV3daeFdNR2lrVkVJNEROVGVCTDY1cWY3X3pYVUhlUFM5QXBJYWM1N2sxRnFLMkpiWFVsMFdlYVd4Z1gyRml3MU9KN1RFT1QtbWNyeXExWEE?oc=5\" target=\"_blank\">Next Eagles defender to land in Vic Fangio’s doghouse is painfully clear</a>  <font color=\"#6f6f6f\">Inside the Iggles</font>",
+      "published": "2025-09-06T12:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles snap counts: The Jalen Carter ejection ripple effect",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOF81Y3hrMlYxUl9qWFNRR09mVDU1QzIyVklhNnd2aG9rbUtPM19xQjdyWlpyWkVSVVVTcmNQOXVtUnpKejFVbHpvRG9FRkwyRnVUWVd1V2ZJQVRJbkhiNjlGS1R5SklOOENoMC1VWEJROFBJcTU1R2psX296dllSY3g0Z1ZfaGRHQllKa1VGSXZtc2N6YzA0THJwa3VLNjlxX1JwNE5jTWktcWZuc25zUHhtTG5aUnF6MjFMaTh6aW9Mcnh1WGZ3RHl1U283UnBjbVVzS0lqSVFhM0tLeDVqNNIB6AFBVV95cUxOUkpIZk9pZjh0NkhxSkE5eHhqb2dCdkh0V0k3MnN6WFE2eU9KZEk0QzAtT0dubGQyVHlfbGhiQWtnZS0zSVBKWjFNY2ppMzdXX0EtUEZySXRtVkJWeHZsZE9vLUdCS2dKMGRjVzMxOTB6OU5KQ2JpMkwydFZSWDh0RHpsVGk0NnprZVhhaFFoVkJyU010Z3RpdHJYN3JyMG9HamR6UFJZQ2xwUmZObG5LSmE1SUNDS0NlR3UydzZFR2VUOTVzdjBtTlUwWTVISnhpaXBJbUU4VTMzTWZLTTZtWUk2MHUxMFV6",
+      "source": "NBC Sports Philadelphia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOF81Y3hrMlYxUl9qWFNRR09mVDU1QzIyVklhNnd2aG9rbUtPM19xQjdyWlpyWkVSVVVTcmNQOXVtUnpKejFVbHpvRG9FRkwyRnVUWVd1V2ZJQVRJbkhiNjlGS1R5SklOOENoMC1VWEJROFBJcTU1R2psX296dllSY3g0Z1ZfaGRHQllKa1VGSXZtc2N6YzA0THJwa3VLNjlxX1JwNE5jTWktcWZuc25zUHhtTG5aUnF6MjFMaTh6aW9Mcnh1WGZ3RHl1U283UnBjbVVzS0lqSVFhM0tLeDVqNNIB6AFBVV95cUxOUkpIZk9pZjh0NkhxSkE5eHhqb2dCdkh0V0k3MnN6WFE2eU9KZEk0QzAtT0dubGQyVHlfbGhiQWtnZS0zSVBKWjFNY2ppMzdXX0EtUEZySXRtVkJWeHZsZE9vLUdCS2dKMGRjVzMxOTB6OU5KQ2JpMkwydFZSWDh0RHpsVGk0NnprZVhhaFFoVkJyU010Z3RpdHJYN3JyMG9HamR6UFJZQ2xwUmZObG5LSmE1SUNDS0NlR3UydzZFR2VUOTVzdjBtTlUwWTVISnhpaXBJbUU4VTMzTWZLTTZtWUk2MHUxMFV6?oc=5\" target=\"_blank\">Eagles snap counts: The Jalen Carter ejection ripple effect</a>  <font color=\"#6f6f6f\">NBC Sports Philadelphia</font>",
+      "published": "2025-09-06T11:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Jihaad Campbell proved what the NFL already knew in Eagles debut",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0otRUVkSFY0Y1hVX3g0N29VZ1ZFSGprSGNUc2hIUWdrMkhzUUNXWGVCUmg0ZHE4S2hSeVgzZVMyOU9MUTlQcWViVU1EdFI1V0RLbkZkQkFHeU1WbFlXMFpxM1lCYnQybG1sVUJBSTQxcW5scGtTdmRhLTEwbzN2NjdrWGx5ZlpFMUpiM0dtZjlYNko4R0FR",
+      "source": "Inside the Iggles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0otRUVkSFY0Y1hVX3g0N29VZ1ZFSGprSGNUc2hIUWdrMkhzUUNXWGVCUmg0ZHE4S2hSeVgzZVMyOU9MUTlQcWViVU1EdFI1V0RLbkZkQkFHeU1WbFlXMFpxM1lCYnQybG1sVUJBSTQxcW5scGtTdmRhLTEwbzN2NjdrWGx5ZlpFMUpiM0dtZjlYNko4R0FR?oc=5\" target=\"_blank\">Jihaad Campbell proved what the NFL already knew in Eagles debut</a>  <font color=\"#6f6f6f\">Inside the Iggles</font>",
+      "published": "2025-09-06T10:00:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "What you might have missed from the Eagles’ win over Dallas",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTdVaVd2OWFGMFhOdzBOdFhkVUdPUWxkWXhGOWE3OEhraS0yY1YxaWhFQXpEbHh3NXRCemhaZWU4c1k4MkVNQUs3Ui15cE5QSXBVWk1lQmZvYVplejhFSmN0NTJ0OVBYbVl2SGFkczV3WE1aRnVZQ05yWnJDNVFPeGpDb1dHVlNDXzBpT2RCYWc5YzczXzE5bzNtLVV2UdIBygFBVV95cUxQel9ybTRYQTE2SE5TV0hZRkNtYm1YNWdGVElfR044RlNrNG9yRFlCdmYxYmxMbm9kVDhkVDYtbkFzQWJDbXBqanAzTkF3M2tLSkRqZ3VwbGpjS1VVeXVPQUpUQUpBUGx3THo0bUZUamhpaHFrcmp1bjRnU2VvU1UxWndJZXFDSzVleDEwN3BrQVlscGNqTmpCd3hZWkljMHN2N2wzOE52dGlqMG04SFM2bkFqYm13RkhkMnVzdndnNGQyMTV5b0o4d2ZR",
+      "source": "NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNcTdVaVd2OWFGMFhOdzBOdFhkVUdPUWxkWXhGOWE3OEhraS0yY1YxaWhFQXpEbHh3NXRCemhaZWU4c1k4MkVNQUs3Ui15cE5QSXBVWk1lQmZvYVplejhFSmN0NTJ0OVBYbVl2SGFkczV3WE1aRnVZQ05yWnJDNVFPeGpDb1dHVlNDXzBpT2RCYWc5YzczXzE5bzNtLVV2UdIBygFBVV95cUxQel9ybTRYQTE2SE5TV0hZRkNtYm1YNWdGVElfR044RlNrNG9yRFlCdmYxYmxMbm9kVDhkVDYtbkFzQWJDbXBqanAzTkF3M2tLSkRqZ3VwbGpjS1VVeXVPQUpUQUpBUGx3THo0bUZUamhpaHFrcmp1bjRnU2VvU1UxWndJZXFDSzVleDEwN3BrQVlscGNqTmpCd3hZWkljMHN2N2wzOE52dGlqMG04SFM2bkFqYm13RkhkMnVzdndnNGQyMTV5b0o4d2ZR?oc=5\" target=\"_blank\">What you might have missed from the Eagles’ win over Dallas</a>  <font color=\"#6f6f6f\">NJ.com</font>",
+      "published": "2025-09-06T09:30:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Do the Eagles have the best linebacker duo in the NFL?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHhNNlZud2tXLWFWTmh0cDA1eEtfSjNsZVlFaUJqQnR4TWJPVy1Qb2Y4SUdGUUk1NDNtWTJJOGZmYUlpOXpFcHJVVUZHaGJUMVRYMnNiMExQQ1JrZks1dk1MRWEzM1Y4Yml6cHF6Mi1yWlFTX2xnaVJZcTk0WTZtMFY3RWVyNkxJYWtLQ0VfT1ZjTWprOEFB0gHDAUFVX3lxTE9xTE5Cbkp6WU5wRUhaZHpUaGZ6NW5xeDNiLTdGUDZRUUhjcUhFOFJnb3hyMlpLN21vTkVHTTBOU3oyLVNPZ0JEel91MWI2bWE3U0xfVHV6NHNIMVZpaWQ5NDRWR05uRk5zUUNldVIwOVZTVDQxSDhIX1Z3cnUzUElqT18xaURlMW1tLXpqQUtUak1zcGRTaTF1UmEzS0hXbXd1RGo3VnF6WTI0bldqaXRFeEhaS2F2SWEya1hoQ0NxZXVqSQ",
+      "source": "NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHhNNlZud2tXLWFWTmh0cDA1eEtfSjNsZVlFaUJqQnR4TWJPVy1Qb2Y4SUdGUUk1NDNtWTJJOGZmYUlpOXpFcHJVVUZHaGJUMVRYMnNiMExQQ1JrZks1dk1MRWEzM1Y4Yml6cHF6Mi1yWlFTX2xnaVJZcTk0WTZtMFY3RWVyNkxJYWtLQ0VfT1ZjTWprOEFB0gHDAUFVX3lxTE9xTE5Cbkp6WU5wRUhaZHpUaGZ6NW5xeDNiLTdGUDZRUUhjcUhFOFJnb3hyMlpLN21vTkVHTTBOU3oyLVNPZ0JEel91MWI2bWE3U0xfVHV6NHNIMVZpaWQ5NDRWR05uRk5zUUNldVIwOVZTVDQxSDhIX1Z3cnUzUElqT18xaURlMW1tLXpqQUtUak1zcGRTaTF1UmEzS0hXbXd1RGo3VnF6WTI0bldqaXRFeEhaS2F2SWEya1hoQ0NxZXVqSQ?oc=5\" target=\"_blank\">Do the Eagles have the best linebacker duo in the NFL?</a>  <font color=\"#6f6f6f\">NJ.com</font>",
+      "published": "2025-09-06T09:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Ex-Detroit Lions edge rusher Za'Darius Smith signs with Philadelphia Eagles",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUm80dGhCaW14ZDg0UThQNDRjcmdxLXpESjJtMTZTbF9EOHM1bjdHY0s5bVk5eEVwVnNYTDRpS2NDVTN2X2k3S2xXTnVINkx0YnM5WlcyUWdLcUVzUWpVQTN2NlJiaEhGTkZUcG13QkdkMGo0MlNuX1BQWUtmMl9mWTBJalNORmRoTF9NLUYwNjZlZnZ2U2tIOHdoTW1DTjJvbUpjRm53ZWdaZEphaFRiVkdIUlpwaEpMQXlUV2hhbktFTjJPVmdvSFdwV0Q",
+      "source": "USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQUm80dGhCaW14ZDg0UThQNDRjcmdxLXpESjJtMTZTbF9EOHM1bjdHY0s5bVk5eEVwVnNYTDRpS2NDVTN2X2k3S2xXTnVINkx0YnM5WlcyUWdLcUVzUWpVQTN2NlJiaEhGTkZUcG13QkdkMGo0MlNuX1BQWUtmMl9mWTBJalNORmRoTF9NLUYwNjZlZnZ2U2tIOHdoTW1DTjJvbUpjRm53ZWdaZEphaFRiVkdIUlpwaEpMQXlUV2hhbktFTjJPVmdvSFdwV0Q?oc=5\" target=\"_blank\">Ex-Detroit Lions edge rusher Za'Darius Smith signs with Philadelphia Eagles</a>  <font color=\"#6f6f6f\">USA Today</font>",
+      "published": "2025-09-06T02:48:45+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Philadelphia Eagles add a 10th former Crimson Tide player to their roster",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2QzLTJ0YkxNRUJiZW5IQ3dEek1XYjh5bnZjNGxEOFlvODNYWlpxMGU4SXhHNlhBMVktbWJqZjdzc2VXalVqOFdaVE45c1VIMDd0VlRaX3hVaEFDbW9Kclg5NlZ0d2JkMEtMQ1p4ZXJCdU1EcEM5OHBUTGVtZE9GZlNSLWlzN2x5SmtKeTJ3ZjQ0WHhQaWg3ZkE2VjI0bnY1QTc5Uy12M2RMUXVqUnF2a0pB0gHGAUFVX3lxTE1OZmZWWXZXOTVXd0NUaWdYdy1kUTRtbUZCZUd0R21YSEZ2SGFsRS1LZkg3VnhqOGQydU9RcTlsSXZjWmVIaWJLX3hmRXlKZlRsekgzb3RYMS1UUGxwbGo2TmNHWWFUcTZTSVNMLWUyc0NnUlExNDRwMk9PdmRvcDVINGtaWmQ0TUw1R3NIYWs4Tm5fTFJzWk9KTmNhN3dpc2F5emF6QkltRVFwUW9TX2hFaTE0VjkxLWNWRlRldXppVExUOV9fQQ",
+      "source": "AL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2QzLTJ0YkxNRUJiZW5IQ3dEek1XYjh5bnZjNGxEOFlvODNYWlpxMGU4SXhHNlhBMVktbWJqZjdzc2VXalVqOFdaVE45c1VIMDd0VlRaX3hVaEFDbW9Kclg5NlZ0d2JkMEtMQ1p4ZXJCdU1EcEM5OHBUTGVtZE9GZlNSLWlzN2x5SmtKeTJ3ZjQ0WHhQaWg3ZkE2VjI0bnY1QTc5Uy12M2RMUXVqUnF2a0pB0gHGAUFVX3lxTE1OZmZWWXZXOTVXd0NUaWdYdy1kUTRtbUZCZUd0R21YSEZ2SGFsRS1LZkg3VnhqOGQydU9RcTlsSXZjWmVIaWJLX3hmRXlKZlRsekgzb3RYMS1UUGxwbGo2TmNHWWFUcTZTSVNMLWUyc0NnUlExNDRwMk9PdmRvcDVINGtaWmQ0TUw1R3NIYWs4Tm5fTFJzWk9KTmNhN3dpc2F5emF6QkltRVFwUW9TX2hFaTE0VjkxLWNWRlRldXppVExUOV9fQQ?oc=5\" target=\"_blank\">Philadelphia Eagles add a 10th former Crimson Tide player to their roster</a>  <font color=\"#6f6f6f\">AL.com</font>",
+      "published": "2025-09-06T02:18:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dallas Cowboys vs. Philadelphia Eagles weather delay: When NFL season opener will resume",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGFQU0ItdEw2UlZJTEtBdnR3aFJLM3BjR1NkN3BhQzlPM1VQUXh1VXB2c1llNWRhX2xxSmRYZ2ZzZ2FlQVA2eEtfTDJhcVl4bVNuZ2FNaVl4SmdVbDN1T2FmQkJ1OWFmM3FzdmFCUDd1UHlNdmdoSGNvR0U4MFh0SlhhSXMzak5INHVpWXRtZkI0bzQ0QmxUNmNmZnF2cEtMVTNvWnVady1HbFpsa1FHRUhJLU9wZ3E2WnQwTw",
+      "source": "On3",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGFQU0ItdEw2UlZJTEtBdnR3aFJLM3BjR1NkN3BhQzlPM1VQUXh1VXB2c1llNWRhX2xxSmRYZ2ZzZ2FlQVA2eEtfTDJhcVl4bVNuZ2FNaVl4SmdVbDN1T2FmQkJ1OWFmM3FzdmFCUDd1UHlNdmdoSGNvR0U4MFh0SlhhSXMzak5INHVpWXRtZkI0bzQ0QmxUNmNmZnF2cEtMVTNvWnVady1HbFpsa1FHRUhJLU9wZ3E2WnQwTw?oc=5\" target=\"_blank\">Dallas Cowboys vs. Philadelphia Eagles weather delay: When NFL season opener will resume</a>  <font color=\"#6f6f6f\">On3</font>",
+      "published": "2025-09-06T01:36:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Philadelphia Eagles sign 3-time Pro Bowler from Alabama",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2JxeklOLWRiRVQ0elBxODhIR0t4MG9uVDZfWDFFczRBYUlXZjY0QkRWdHQ0OWhHU0xua0puYWRwTlNWeC1uYk1RYWlUcU1xU1hHel8yamR2MGM5S0xnOVhSeXJheEVJcDdIdTI2TkxNYV9nTTlTRmZIbU41S3RRemVxUGQ3Zkd4enk0WVdseDNJWVdpNjBwWDZR0gGuAUFVX3lxTE5PZWFLbVE5S2wyV3J2eTJwekRaMVE0a29ROFVjcmtYRWJHckhGT3B3V2h4YjE4RnQ0OF9TODM0YkIxSzlIX0xoQnE3VWRhbEpWYUdUZlNoZFdNZDY2OHViR3FvY1ZsR2pvR2JDTWJ3V2YtZkdzbFc4cEFSbXlwdXNaX0hTeE5ublhaa3hiYWRSa1JMU0lUMjUzcHg1elpKVFVPVUVDVTBwcXB6MHhSdw",
+      "source": "AL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2JxeklOLWRiRVQ0elBxODhIR0t4MG9uVDZfWDFFczRBYUlXZjY0QkRWdHQ0OWhHU0xua0puYWRwTlNWeC1uYk1RYWlUcU1xU1hHel8yamR2MGM5S0xnOVhSeXJheEVJcDdIdTI2TkxNYV9nTTlTRmZIbU41S3RRemVxUGQ3Zkd4enk0WVdseDNJWVdpNjBwWDZR0gGuAUFVX3lxTE5PZWFLbVE5S2wyV3J2eTJwekRaMVE0a29ROFVjcmtYRWJHckhGT3B3V2h4YjE4RnQ0OF9TODM0YkIxSzlIX0xoQnE3VWRhbEpWYUdUZlNoZFdNZDY2OHViR3FvY1ZsR2pvR2JDTWJ3V2YtZkdzbFc4cEFSbXlwdXNaX0hTeE5ublhaa3hiYWRSa1JMU0lUMjUzcHg1elpKVFVPVUVDVTBwcXB6MHhSdw?oc=5\" target=\"_blank\">Philadelphia Eagles sign 3-time Pro Bowler from Alabama</a>  <font color=\"#6f6f6f\">AL.com</font>",
+      "published": "2025-09-06T01:12:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles vs. Cowboys: 14 winners, 7 losers, and 5 IDKs",
+      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/157741/eagles-vs-cowboys-14-winners-7-losers-and-5-idks",
+      "source": "Brandon Lee Gowton",
+      "summary": "Sometimes, “a win is a win” feels like a cope. In this case, though, the Philadelphia Eagles should feel legitimately happy after their Week 1 win over the Dallas Cowboys. Regardless of how they got it done, they did, and that’s what matters most this early in the season. Especially when it originally felt like […]",
+      "published": "2025-09-06T00:41:08+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles vs. Cowboys: 14 winners, 7 losers, and 5 IDKs",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbldPeERjOXFZeG1SdmQ2WXRuTDkycTJDOVNjVWdDT1o0YmVKWVB2NHM1SmxUc3U5d1NXSnB1X2RnTkt5WW9ya3JBdkFtcUhOTEJmdWkzS2RCeExzYTJjOHBLa0R3eVF6TTl0Y3RXUDNxcThxanEwMzJMcjY3akhmQ2ZLZUJzU053WHhBeXdyLTJ6YUU0VHlrOVplY2tVSE1XZUszRVA2TDVaUV9yOWhnSVQwRTZBV3RCc0dobDU1WGQxak9s",
+      "source": "Bleeding Green Nation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbldPeERjOXFZeG1SdmQ2WXRuTDkycTJDOVNjVWdDT1o0YmVKWVB2NHM1SmxUc3U5d1NXSnB1X2RnTkt5WW9ya3JBdkFtcUhOTEJmdWkzS2RCeExzYTJjOHBLa0R3eVF6TTl0Y3RXUDNxcThxanEwMzJMcjY3akhmQ2ZLZUJzU053WHhBeXdyLTJ6YUU0VHlrOVplY2tVSE1XZUszRVA2TDVaUV9yOWhnSVQwRTZBV3RCc0dobDU1WGQxak9s?oc=5\" target=\"_blank\">Eagles vs. Cowboys: 14 winners, 7 losers, and 5 IDKs</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-06T00:41:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Friday Night Football: Chiefs vs. Chargers in Brazil",
+      "url": "https://www.bleedinggreennation.com/game-day-threads/157734/friday-night-football-chiefs-vs-chargers-game-information-brazil-start-time-channel-youtube-nfl",
+      "source": "Alexis Chassen",
+      "summary": "The Philadelphia Eagles already secured their Week 1 win over the Cowboys on Thursday night, and the NFL’s opening weekend continues with a Friday night matchup between the Kansas City Chiefs and the Los Angeles Chargers in Brazil. This will be the league’s second game ever in the South American country, with the Eagles beating […]",
+      "published": "2025-09-05T23:45:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles star A.J. Brown responds to getting just 1 target in season-opening win against Cowboys",
+      "url": "https://www.foxnews.com/sports/eagles-star-aj-brown-responds-getting-just-1-target-season-opening-win-against-cowboys",
+      "source": "Fox News",
+      "summary": "NEWYou can now listen to Fox News articles! The Philadelphia Eagles came away with their first win of the 2025 season on Thursday night, but one offensive star was surprisingly quiet throughout. Veteran wide receiver A.J. Brown, the team's top pass-catching option, was virtually non-existent in the 24-20 victory for Philadelphia. The NBC broadcast brought up his lack of targets multiple times, but quarterback Jalen Hurts was using his legs and finding other receivers, including tight end Dallas Goedert, to move the ball downfield.",
+      "published": "2025-09-05T23:25:05+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Philadelphia Eagles Add Player Less Than 24 Hours After Victory Over Cowboys",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWFnczA5UmNLVkNtMlZjajhDekVCVnJsclY0XzNpSjZHZ1U2aUxVamVqNHRDWEI1YnFFSFRtbEhxNUJfazRsM2REbUVMeFp3dW4wTWU1Qk9TdlpLUklQdGF1aHU5WHo3bjZpQUhvU25ZWnlrdC1EWDNudGd1a1Z3V04wNmpPLXZFSkJnN0c2S1g4dFR2MXZiYlZYM1dPWEVPUnA5bmk5Q1BEWlB4QjZoc2Y3Y0RDYmhFWW4zNy1Mbm1UU0x0TEFnTEVFU256bnRC",
+      "source": "Athlon Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWFnczA5UmNLVkNtMlZjajhDekVCVnJsclY0XzNpSjZHZ1U2aUxVamVqNHRDWEI1YnFFSFRtbEhxNUJfazRsM2REbUVMeFp3dW4wTWU1Qk9TdlpLUklQdGF1aHU5WHo3bjZpQUhvU25ZWnlrdC1EWDNudGd1a1Z3V04wNmpPLXZFSkJnN0c2S1g4dFR2MXZiYlZYM1dPWEVPUnA5bmk5Q1BEWlB4QjZoc2Y3Y0RDYmhFWW4zNy1Mbm1UU0x0TEFnTEVFU256bnRC?oc=5\" target=\"_blank\">Philadelphia Eagles Add Player Less Than 24 Hours After Victory Over Cowboys</a>  <font color=\"#6f6f6f\">Athlon Sports</font>",
+      "published": "2025-09-05T23:16:20+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Report: Eagles FB Ben VanSumeren done for the season",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGYzQVBYX2lTUjhONnlRMjlKMFJsdGVQLWNWVVVDVHBJMDNGNEhzSUJvc1dFR0lVQzUwNGQ4ZzZ2eDRaV2dHSGYxYy1SY2t1SWZueU9UMV92dEhwQlY3bW1mQm83UzFLT0JDVlFLQlhBOU1wWUVHckVKV2czUUdWZjdVMW96OFktdG5QZGxHX1NHeU1wZjYtLdIBngFBVV95cUxQUFdmVDc0LW5rN09FY2x6TXlTZlhJYlRNQWZfZTlaWWZNaDRYSTZzX1YtMDVKMG5lNVJTT0RDZ3diYXdXVGFRVjFLQS1GOC1IQnkwc08tQlYtTkZWZXJQRUtRUWdteEFmX2hwMHludHIyUm5UM0RMOG5hbDVJYUp2Z0ZTcTh2dVltQWhabnoxa09ISXhYSXliUjc2eV82Zw",
+      "source": "PhillyVoice",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGYzQVBYX2lTUjhONnlRMjlKMFJsdGVQLWNWVVVDVHBJMDNGNEhzSUJvc1dFR0lVQzUwNGQ4ZzZ2eDRaV2dHSGYxYy1SY2t1SWZueU9UMV92dEhwQlY3bW1mQm83UzFLT0JDVlFLQlhBOU1wWUVHckVKV2czUUdWZjdVMW96OFktdG5QZGxHX1NHeU1wZjYtLdIBngFBVV95cUxQUFdmVDc0LW5rN09FY2x6TXlTZlhJYlRNQWZfZTlaWWZNaDRYSTZzX1YtMDVKMG5lNVJTT0RDZ3diYXdXVGFRVjFLQS1GOC1IQnkwc08tQlYtTkZWZXJQRUtRUWdteEFmX2hwMHludHIyUm5UM0RMOG5hbDVJYUp2Z0ZTcTh2dVltQWhabnoxa09ISXhYSXliUjc2eV82Zw?oc=5\" target=\"_blank\">Report: Eagles FB Ben VanSumeren done for the season</a>  <font color=\"#6f6f6f\">PhillyVoice</font>",
+      "published": "2025-09-05T22:48:38+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Ben VanSumeren injury: Eagles fullback out for season [UPDATE]",
+      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/157477/eagles-fb-ben-vansumeren-injury-week-1-season-opener-cowboys-nfl-news-updates",
+      "source": "Alexis Chassen",
+      "summary": "UPDATE: Eagles fullback Ben VanSumeren suffered a torn patellar tendon on Thursday night, according to a report from NFL insider Adam Schefter. His season is over. Very unfortunate news. The Eagles officially placed BVS on injured reserve to make room to sign Za’Darius Smith to the roster. ORIGINAL STORY BELOW. Things seemed to spiral out […]",
+      "published": "2025-09-05T22:09:29+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles Sign Ex-$66 Million 3-Time Pro Bowler Hours After Cowboys Game",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm8xR0NjV002UUsxV00wejVSQlgzcmpQTERXS1E4d2QzWF9JWEUwY2JuakVIeklTbHVBQ1Z6NUlaaE5lcDZsQ0pOSGNDYjJRUXdodHZrUk5kUVp6MmF1SHpscGV0MVF0WnlMcENESDBzQWJNRVZyMnpZUHhuTTYxS2JzbkdzbS1qUnlJWTFXQ1FtQQ",
+      "source": "Heavy Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm8xR0NjV002UUsxV00wejVSQlgzcmpQTERXS1E4d2QzWF9JWEUwY2JuakVIeklTbHVBQ1Z6NUlaaE5lcDZsQ0pOSGNDYjJRUXdodHZrUk5kUVp6MmF1SHpscGV0MVF0WnlMcENESDBzQWJNRVZyMnpZUHhuTTYxS2JzbkdzbS1qUnlJWTFXQ1FtQQ?oc=5\" target=\"_blank\">Eagles Sign Ex-$66 Million 3-Time Pro Bowler Hours After Cowboys Game</a>  <font color=\"#6f6f6f\">Heavy Sports</font>",
+      "published": "2025-09-05T21:04:32+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Za’Darius Smith, Eagles agree to one-year contract",
+      "url": "https://www.bleedinggreennation.com/news/157750/zadarius-smith-eagles-agree-to-one-year-contract",
+      "source": "Brandon Lee Gowton",
+      "summary": "The Philadelphia Eagles are signing free agent edge rusher Za’Darius Smith to a one-year contract, according to an official announcement by the team. NFL insider Jordan Schultz says the deal has “upside to $9 million.” Smith, who turns 33 years old on September 8, is a three-time Pro Bowler who has played for the Baltimore […]",
+      "published": "2025-09-05T20:39:08+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Howie Roseman puts Eagles edge rushers on notice with signing 3-time Pro Bowler",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjdYenRZa3FiYUtOQTVZN3ZOSHNWWnNuc0xVOTl3Vmd2ZlE2VWtleGRfcEF6cWp1TEE1UEZleWw0dW5Qc2FQeHg0QXpPY2k4ZjB1WWNjVkN4ZjJvSERXU1NPSVBDNl9LMXQ4QjZ6RXBYczlzLWRuVWRJZE5yamdoWVdIUFZqYmhCU3lFZHFxY0x1cWF6dllzSERoQkZGZ3JpQzNTSzBBZ2VDS3c",
+      "source": "Inside the Iggles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjdYenRZa3FiYUtOQTVZN3ZOSHNWWnNuc0xVOTl3Vmd2ZlE2VWtleGRfcEF6cWp1TEE1UEZleWw0dW5Qc2FQeHg0QXpPY2k4ZjB1WWNjVkN4ZjJvSERXU1NPSVBDNl9LMXQ4QjZ6RXBYczlzLWRuVWRJZE5yamdoWVdIUFZqYmhCU3lFZHFxY0x1cWF6dllzSERoQkZGZ3JpQzNTSzBBZ2VDS3c?oc=5\" target=\"_blank\">Howie Roseman puts Eagles edge rushers on notice with signing 3-time Pro Bowler</a>  <font color=\"#6f6f6f\">Inside the Iggles</font>",
+      "published": "2025-09-05T20:34:42+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles Sign 3-Time Pro Bowler, Former Packers Star",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkV0QXpraXM1cnQxWlpqcVlseDBPalRJLWZ5d3ZlYUMyT2U4SzY1WmRSY1I1ajVta3AtN0Z3ZzdiLVVSSU5ydFJySE9lSUFWa2FsaDFna2ZVN01NMGd2aGNPTzBTOTVBVEFzSElCQVFTSXI5aHBueFk2QVVxSWhSYVFSSmU2WmxhXzQ4aVdMQU9WN2M",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkV0QXpraXM1cnQxWlpqcVlseDBPalRJLWZ5d3ZlYUMyT2U4SzY1WmRSY1I1ajVta3AtN0Z3ZzdiLVVSSU5ydFJySE9lSUFWa2FsaDFna2ZVN01NMGd2aGNPTzBTOTVBVEFzSElCQVFTSXI5aHBueFk2QVVxSWhSYVFSSmU2WmxhXzQ4aVdMQU9WN2M?oc=5\" target=\"_blank\">Eagles Sign 3-Time Pro Bowler, Former Packers Star</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-05T20:31:54+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles sign veteran Za’Darius Smith, place Ben VanSumeren on Injured Reserve",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMjAwU210SUFPZ1UtUS04T0hBdFlQcWJwQXJOM1AwU3R1ekRnYzh4V2s2UjNVZUgxeG1yZFl5aUlLb0NVOTNtX2xJNThJUDk4MF9yRGlLcU9sT0Rsc1J3VEhqWWpnd1RRM2RaU3Vn",
+      "source": "Philadelphia Eagles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMjAwU210SUFPZ1UtUS04T0hBdFlQcWJwQXJOM1AwU3R1ekRnYzh4V2s2UjNVZUgxeG1yZFl5aUlLb0NVOTNtX2xJNThJUDk4MF9yRGlLcU9sT0Rsc1J3VEhqWWpnd1RRM2RaU3Vn?oc=5\" target=\"_blank\">Eagles sign veteran Za’Darius Smith, place Ben VanSumeren on Injured Reserve</a>  <font color=\"#6f6f6f\">Philadelphia Eagles</font>",
+      "published": "2025-09-05T20:18:53+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles sign veteran pass rusher Za'Darius Smith to one-year contract",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54MnFzS3g5TVo4d0d1RU53UnluWkxORDB4TXhpTy1oaTAxSnRhLXJoUjhUdlBySFZIVFpWX05PanVOc3E4NDR5S1VrQm9qN2VQbmFGUjVWRDZoQ0RsX1lXQ1Z0MWU",
+      "source": "NFL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE54MnFzS3g5TVo4d0d1RU53UnluWkxORDB4TXhpTy1oaTAxSnRhLXJoUjhUdlBySFZIVFpWX05PanVOc3E4NDR5S1VrQm9qN2VQbmFGUjVWRDZoQ0RsX1lXQ1Z0MWU?oc=5\" target=\"_blank\">Eagles sign veteran pass rusher Za'Darius Smith to one-year contract</a>  <font color=\"#6f6f6f\">NFL.com</font>",
+      "published": "2025-09-05T20:16:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "30 years later, remembering Ripken's record-setting streak",
+      "url": "https://www.espn.com/mlb/story/_/id/46158235/cal-ripken-baltimore-orioles-streak-iron-man-anniversary",
+      "source": "Tim Kurkjian",
+      "summary": "Thirty years after the epic night Cal Ripken set his Ironman streak, he and others remember the magic.",
+      "published": "2025-09-05T20:03:02+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Winners and losers of NFL opener between Eagles and Cowboys: Jalen Hurts was lightning",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM09XRk00c0syekFEc2lhNGdTdUFQeUdveUlwVVV2dVdLOEM5ZXR3TUFrb21pUXpMXzRzRmVzOUJIWXRiRjF1YU9McU5HaHpOT2tyT3VBMUxZSXpzT0FkeHRFZUh0b0xHRUVfRTFMY0kxUWRRZ3dSb1hncWt2bFFJRFZJNjVObm56UzRkdmNSSWpxTi1Dd2xqd0R1UVhDYzExX1pqYkI0ak91S0s2dHNMaThUbllzM2hCUURJRGkwSUhPUlJRN2lpRXJtU1BWTjg",
+      "source": "USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM09XRk00c0syekFEc2lhNGdTdUFQeUdveUlwVVV2dVdLOEM5ZXR3TUFrb21pUXpMXzRzRmVzOUJIWXRiRjF1YU9McU5HaHpOT2tyT3VBMUxZSXpzT0FkeHRFZUh0b0xHRUVfRTFMY0kxUWRRZ3dSb1hncWt2bFFJRFZJNjVObm56UzRkdmNSSWpxTi1Dd2xqd0R1UVhDYzExX1pqYkI0ak91S0s2dHNMaThUbllzM2hCUURJRGkwSUhPUlJRN2lpRXJtU1BWTjg?oc=5\" target=\"_blank\">Winners and losers of NFL opener between Eagles and Cowboys: Jalen Hurts was lightning</a>  <font color=\"#6f6f6f\">USA Today</font>",
+      "published": "2025-09-05T19:52:30+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles practice squad news: Javon Baker finally signs, APR is out",
+      "url": "https://www.bleedinggreennation.com/news/157733/eagles-practice-squad-news-javon-baker-finally-signs-apr-is-out",
+      "source": "Brandon Lee Gowton",
+      "summary": "The Philadelphia Eagles made some changes to their practice squad one day after their Week 1 win over the Dallas Cowboys. Here’s an overview: News of the Eagles signing Baker was first reported one week ago but it took until now for the addition to become official. Here’s what we previously wrote about him: ESPN’s […]",
+      "published": "2025-09-05T18:26:55+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Eagles practice squad news: Javon Baker finally signs, APR is out",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamhueERlYVJfanVaT0ZOb1VQOWhWMDB3dEVWTjVaVHVKRjk1cC1PSEd2NmJDRWFISks1eURneWVRRlV5a25HVURHbW5lSEVpRWoxSGpGZEt5VmVaWkF5SGd3ajBNRWw3NVNIdXpUbElDUzRmcVRsamN3c2xLeFBQTm9LcGRnYWx0VHlDOUo2YVF1cmxqa2szSnNoYlE5S0oteDNHU1dURGhCMXpSWUxBRQ",
+      "source": "Bleeding Green Nation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNamhueERlYVJfanVaT0ZOb1VQOWhWMDB3dEVWTjVaVHVKRjk1cC1PSEd2NmJDRWFISks1eURneWVRRlV5a25HVURHbW5lSEVpRWoxSGpGZEt5VmVaWkF5SGd3ajBNRWw3NVNIdXpUbElDUzRmcVRsamN3c2xLeFBQTm9LcGRnYWx0VHlDOUo2YVF1cmxqa2szSnNoYlE5S0oteDNHU1dURGhCMXpSWUxBRQ?oc=5\" target=\"_blank\">Eagles practice squad news: Javon Baker finally signs, APR is out</a>  <font color=\"#6f6f6f\">Bleeding Green Nation</font>",
+      "published": "2025-09-05T18:26:55+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Eagles sign WR Javon Baker to practice squad, release OLB Antwaun Powell-Ryland",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1pXTkpBeVZCaVpOU2locVNuWVV1aGhnTWJPUXpmU3Fidi1MTjk2ZFJQSGxHb3d4MHJDRE9NOXY0RGFjTU56WkZfMFNKdzBsUTRUOUJ3czZBUjlfc3NDaklOZ2FCZjJyYnktMkhJSDFYZklIMHYtMlFpRFdnbW9PSTRFZDRFTnZ2aE1lYTU4VE1sTHZ4QjdVZk1jdlJ2cGh0dS1IQVhjeVdWZ09pcnBrMA",
+      "source": "Philadelphia Eagles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1pXTkpBeVZCaVpOU2locVNuWVV1aGhnTWJPUXpmU3Fidi1MTjk2ZFJQSGxHb3d4MHJDRE9NOXY0RGFjTU56WkZfMFNKdzBsUTRUOUJ3czZBUjlfc3NDaklOZ2FCZjJyYnktMkhJSDFYZklIMHYtMlFpRFdnbW9PSTRFZDRFTnZ2aE1lYTU4VE1sTHZ4QjdVZk1jdlJ2cGh0dS1IQVhjeVdWZ09pcnBrMA?oc=5\" target=\"_blank\">Eagles sign WR Javon Baker to practice squad, release OLB Antwaun Powell-Ryland</a>  <font color=\"#6f6f6f\">Philadelphia Eagles</font>",
+      "published": "2025-09-05T16:58:42+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Week 1 NFL best bets, picks, predictions: Our favorite Week 1 NFL wagers",
+      "url": "https://sports.yahoo.com/nfl/betting/article/week-1-nfl-best-bets-picks-predictions-our-favorite-week-1-nfl-wagers-154701800.html",
+      "source": "Yahoo Sports",
+      "summary": "Our NFL handicappers give their best bets for Week 1 of the season.",
+      "published": "2025-09-05T15:47:01+00:00",
+      "trusted": true
+    },
+    {
+      "title": "AAA Official Review: Jihaad Campbell makes splash in NFL debut victory over Cowboys",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGR6amxtM0RDRWNaWXJvOU1rM0t6OHZEYkdUMlNVd0hjRUdpdlJ2dGdqOHJnVGhZSjZHeDZJRnZqZnlsTTAxWGZScWpwQy1nVi1xWHlEZXR4VXB3RjhVQmViVnpLbkhKQThXRnJVeUp3M2Fxd1N1M0dIMnRheXF4Q21QaVRrX05hZjhmZ0ZpOWY4SndHWXZYUmN5aF9jR2ZhWVMw",
+      "source": "Philadelphia Eagles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGR6amxtM0RDRWNaWXJvOU1rM0t6OHZEYkdUMlNVd0hjRUdpdlJ2dGdqOHJnVGhZSjZHeDZJRnZqZnlsTTAxWGZScWpwQy1nVi1xWHlEZXR4VXB3RjhVQmViVnpLbkhKQThXRnJVeUp3M2Fxd1N1M0dIMnRheXF4Q21QaVRrX05hZjhmZ0ZpOWY4SndHWXZYUmN5aF9jR2ZhWVMw?oc=5\" target=\"_blank\">AAA Official Review: Jihaad Campbell makes splash in NFL debut victory over Cowboys</a>  <font color=\"#6f6f6f\">Philadelphia Eagles</font>",
+      "published": "2025-09-05T14:48:45+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Jalen Hurts' numbers in Eagles' opener weren't dazzling, but his performance was",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTlNRUZicThqSmtJQldpUDVvT2dBRlh2UmpwWnJOc1JBS294X0w1Tm9jc3EwZUw4VlBFTlNlc0s3MWtLSDh3Z3dsdFEzY3EwMHVTMXlncUNBX3k2bU9HQ21IT3htWERoMnZqUlh6VWtZRmE5c0tyOVE1a2g3Yzlpb0VQV012ZG41UmNSQVR6UDdMSlZBSVQ3RDBYM1V3M1N0WmfSAaoBQVVfeXFMT0R1SjJTQ3FTVGpFMktVOWpHOFlkYk1xaWxaVEtrbENxbjZQZmZ5XzNDVWtmTTl5dGVCcmtCeUU4ejNEd2FNZUtCTTctdi1ndk43UE9ZM20yc0E5cm5NXy12TjBCVFd2S3pROFlaSFY2RWwyUC00YklwQ19HbVJDMUxsR3lzRTZwcGJGZGtHdkNnaGt2c2tKNHNZWnViWEpKb29wQWxxZXhNdVE",
+      "source": "NBC Sports Philadelphia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTlNRUZicThqSmtJQldpUDVvT2dBRlh2UmpwWnJOc1JBS294X0w1Tm9jc3EwZUw4VlBFTlNlc0s3MWtLSDh3Z3dsdFEzY3EwMHVTMXlncUNBX3k2bU9HQ21IT3htWERoMnZqUlh6VWtZRmE5c0tyOVE1a2g3Yzlpb0VQV012ZG41UmNSQVR6UDdMSlZBSVQ3RDBYM1V3M1N0WmfSAaoBQVVfeXFMT0R1SjJTQ3FTVGpFMktVOWpHOFlkYk1xaWxaVEtrbENxbjZQZmZ5XzNDVWtmTTl5dGVCcmtCeUU4ejNEd2FNZUtCTTctdi1ndk43UE9ZM20yc0E5cm5NXy12TjBCVFd2S3pROFlaSFY2RWwyUC00YklwQ19HbVJDMUxsR3lzRTZwcGJGZGtHdkNnaGt2c2tKNHNZWnViWEpKb29wQWxxZXhNdVE?oc=5\" target=\"_blank\">Jalen Hurts' numbers in Eagles' opener weren't dazzling, but his performance was</a>  <font color=\"#6f6f6f\">NBC Sports Philadelphia</font>",
+      "published": "2025-09-05T13:36:59+00:00",
+      "trusted": false
     }
   ],
   "sources": [
-    "philadelphiaeagles.com",
-    "ESPN",
+    "AL.com",
+    "Adam Schefter",
+    "Alexa Philippou",
+    "Alexis Chassen",
+    "Athlon Sports",
+    "Baxter Holmes",
+    "Ben Solak and Seth Walder",
+    "Bill Connelly",
+    "Bing News — Philadelphia Eagles",
     "Bleeding Green Nation",
-    "SI — Eagles Today",
-    "Eagles Wire (USA Today)",
+    "Blogging The Boys",
+    "Brandon Lee Gowton",
+    "ClutchPoints",
+    "D'Arcy Maine",
+    "Dan Moore",
+    "David Hale",
+    "ESPN",
+    "ESPN Fantasy",
+    "ESPN staff",
+    "ESPN — Eagles",
+    "Eagles Wire",
+    "Emily Keogh",
+    "Eric Woodyard",
+    "Fox News",
+    "Heather Dinich",
+    "Heavy Sports",
+    "Inside the Iggles",
+    "Jeff Carlisle",
+    "Jeff Kassouf",
+    "Jeff Passan",
+    "Jeremy Fowler and Don Van Natta Jr.",
+    "Kiley McDaniel",
+    "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+    "Max Olson",
+    "Michael Voepel",
+    "Mike Clay",
+    "Mike Reiss",
+    "NBC Sports Philadelphia",
+    "NFL Nation, Eric Moody and Seth Walder",
+    "NFL.com",
+    "NJ.com",
+    "On3",
+    "Paolo Uggetti",
+    "People",
+    "Philadelphia Eagles",
+    "Philadelphia Eagles On SI",
+    "PhillyVoice",
+    "Rich Cimini",
+    "SB Nation",
+    "Saints Wire",
+    "Sports Illustrated",
+    "The New York Times",
+    "The Sporting News",
+    "The Viking Age",
+    "Tim Kurkjian",
+    "USA Today",
+    "Yahoo Sports",
     "Yahoo Sports — Eagles",
-    "ProFootballTalk — Eagles"
+    "Yardbarker",
+    "Yash Thakur",
+    "sportingnews.com"
   ]
 }
