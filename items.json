@@ -1,7 +1,7 @@
 {
   "team": "Philadelphia Eagles",
   "slug": "philadelphia-eagles",
-  "updated_at": "2025-09-07T17:27:05.981055+00:00",
+  "updated_at": "2025-09-07T17:36:53.595615+00:00",
   "count": 50,
   "sources": [
     "6abc Philadelphia",
@@ -48,6 +48,18 @@
     "uk.sports.yahoo.com"
   ],
   "items": [
+    {
+      "title": "Bijan Robinson takes short pass from Michael Penix Jr. 50 yards for TD",
+      "link": "https://www.espn.com/nfl/story/_/id/46158632/falcons-buccaneers-nfl-week-1-highlights-touchdowns-plays",
+      "published": "2025-09-07T18:26:41+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Geno Smith throws 26-yard TD to Tre Tucker",
+      "link": "https://www.espn.com/nfl/story/_/id/46147178/raiders-patriots-nfl-week-1-highlights-touchdowns-plays",
+      "published": "2025-09-07T18:26:41+00:00",
+      "source": "ESPN — Eagles"
+    },
     {
       "title": "Carter awaits discipline amid sportsmanship push",
       "link": "https://www.espn.com/nfl/story/_/id/46176234/jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship",
@@ -163,12 +175,6 @@
       "source": "Bleeding Green Nation"
     },
     {
-      "title": "Report: Eagles made biggest trade offer for Micah Parsons - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzU3VWJGeTNEX1lBcDA0TWloWEVRU0NDTDVCZlVvSlprNm5za3J0OUwzMFRucVlmbThKQmtFZU1CTnlfS1hkTTh0TE5WaDZ2Rm1Jak5aN2ZLNHk2d1JoaTJHOGdYRmRaQV9weW1JZXRnVEtSR3ltakJZVzRUYTE5VTF6QUc3djFGcFZUSGpnWGtKaEltZnZuWVBRQ2tCWWpuODdzN0ttZw?oc=5",
-      "published": "2025-09-07T17:07:19+00:00",
-      "source": "Bleeding Green Nation"
-    },
-    {
       "title": "Jay Glazer Reveals Huge Trade Package Eagles Offered Cowboys for Micah Parsons - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTURRRXpwejNZQy03Y1FLcmV6S0JBb21DQmYwTm9LR2Rwd0JseXNub0xhaGotODBHY2Z1Z0RLZEJNbk5ZVmNJa2xJZ2RDZENhQjNGLUMtZExVMU14WDFVTFlCMHcwYktKUWNiSm5VQlF6STdIdFRHd0pFN2FKeGF3Y1NOVldWaldIcGJrMHVQX0xPZw?oc=5",
       "published": "2025-09-07T16:55:04+00:00",
@@ -202,6 +208,12 @@
       "title": "Former Alabama prep star among 17 NFL team captains from state",
       "link": "https://www.al.com/sports/2025/09/former-alabama-prep-star-among-17-nfl-team-captains-from-state.html",
       "published": "2025-09-07T16:11:15+00:00",
+      "source": "Yahoo Sports — Eagles"
+    },
+    {
+      "title": "Updated Fantasy Football Defense Rankings Week 1: Who to start, best sleepers, streamers at D/ST",
+      "link": "https://www.sportingnews.com/ca/fantasy/news/fantasy-football-defense-rankings-week-1-2025/5768e561fc816ea29a3b4c02",
+      "published": "2025-09-07T15:54:28+00:00",
       "source": "Yahoo Sports — Eagles"
     },
     {
@@ -335,18 +347,6 @@
       "link": "https://bleacherreport.com/articles/25245507-cowboys-reportedly-decided-micah-parsons-trade-request-eagles-offer-revealed",
       "published": "2025-09-07T09:38:00+00:00",
       "source": "Bing News — Philadelphia Eagles"
-    },
-    {
-      "title": "Nick Wright Has Wild Take For Eagles After Week 1",
-      "link": "https://www.msn.com/en-us/sports/nfl/nick-wright-has-wild-take-for-eagles-after-week-1/ar-AA1M3Ngo",
-      "published": "2025-09-07T08:40:00+00:00",
-      "source": "Bing News — Philadelphia Eagles"
-    },
-    {
-      "title": "Eagles rooting guide for NFL Week 1 games",
-      "link": "https://www.bleedinggreennation.com/news/157811/eagles-rooting-guide-for-nfl-week-1-games",
-      "published": "2025-09-07T05:05:31+00:00",
-      "source": "Bleeding Green Nation"
     }
   ]
 }
