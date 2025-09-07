@@ -3,17 +3,15 @@
 TEAM_NAME = "Philadelphia Eagles"
 TEAM_SLUG = "philadelphia-eagles"
 
-# Keep obvious non-Eagles sports out
+# Filter out obvious cross-sport noise
 EXCLUDE_TOKENS = [
     "Flyers", "Sixers", "76ers", "Phillies", "Union",
-    "NBA", "NHL", "MLB", "MLS", "soccer", "women", "wbb", "college"
+    "NBA", "NHL", "MLB", "MLS", "soccer", "tennis", "golf",
+    "women", "wbb", "college", "NCAA"
 ]
 
-# Feeds:
-# - Mark the reliable, team-specific ones as trusted=True (preferred in bootstrap)
-# - Add domain-scoped Google News for local outlets (trusted=False so they’re filtered)
 FEEDS = [
-    # Core, team-focused (trusted)
+    # Team-focused (trusted)
     {"name": "Bleeding Green Nation",    "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
     {"name": "Eagles Wire (USA Today)",  "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
     {"name": "ESPN — Eagles",            "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
@@ -22,7 +20,7 @@ FEEDS = [
     {"name": "ProFootballTalk — Eagles", "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
     {"name": "CBS Sports — Eagles",      "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/rss/",      "trusted": True},
 
-    # Local voices via domain-scoped Google News (filtered)
+    # Local voices (filtered via GN)
     {"name": "Philly Inquirer — Eagles (GN)",
      "url": "https://news.google.com/rss/search?q=site:inquirer.com+%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
@@ -36,7 +34,7 @@ FEEDS = [
      "url": "https://news.google.com/rss/search?q=site:crossingbroad.com+%22Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
 
-    # General aggregators (filtered)
+    # Broad aggregators (filtered)
     {"name": "\"Philadelphia Eagles\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
@@ -45,7 +43,6 @@ FEEDS = [
      "trusted": False}
 ]
 
-# Buttons shown at the top of the site
 STATIC_LINKS = [
     {"label":"Schedule","url":"https://www.philadelphiaeagles.com/schedule/"},
     {"label":"Roster","url":"https://www.philadelphiaeagles.com/team/players-roster/"},
