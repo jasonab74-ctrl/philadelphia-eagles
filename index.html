@@ -5,18 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Philadelphia Eagles — News</title>
 
-  <!-- PWA / icons -->
-  <link rel="apple-touch-icon" href="/philadelphia-eagles/static/apple-touch-icon.png" />
-  <link rel="icon" href="/philadelphia-eagles/static/favicon.ico" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/philadelphia-eagles/static/favicon-32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/philadelphia-eagles/static/favicon-16.png" />
-  <link rel="manifest" href="/philadelphia-eagles/static/manifest.webmanifest?v=1" />
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
+  <link rel="icon" href="static/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16.png" />
+  <link rel="manifest" href="static/manifest.webmanifest?v=1" />
   <meta name="theme-color" content="#004C54" />
 
-  <!-- Site styles -->
-  <link rel="stylesheet" href="/philadelphia-eagles/static/style.css" />
+  <link rel="stylesheet" href="static/style.css" />
 
-  <!-- Minimal button style (safe if your style.css is different) -->
   <style>
     .song-wrap { margin-left:auto; display:flex; align-items:center; gap:8px; }
     .song-btn {
@@ -29,20 +26,18 @@
 </head>
 <body>
   <header class="site-header">
-    <img src="/philadelphia-eagles/static/logo.png" alt="Eagles logo" />
+    <img src="static/logo.png" alt="Eagles logo" />
     <div class="title-wrap">
       <h1>Philadelphia Eagles — News</h1>
       <div class="sub">Live team feed • auto-updates</div>
     </div>
 
-    <!-- Fight song button (label stays constant), lives on the right -->
     <div class="song-wrap">
       <button id="songBtn" class="song-btn" type="button" aria-pressed="false" aria-describedby="songStatus">
         Fly Eagles Fly
       </button>
       <span id="songStatus" class="visually-hidden">stopped</span>
-      <!-- Hidden audio element -->
-      <audio id="song" preload="none" src="/philadelphia-eagles/static/fly-eagles-fly.mp3"></audio>
+      <audio id="song" preload="none" src="static/fly-eagles-fly.mp3"></audio>
     </div>
   </header>
 
@@ -61,63 +56,23 @@
   <footer class="foot">Fly Eagles Fly 🦅</footer>
 
   <script>
-    // If your repo slug is different, change this:
-    const SLUG = "/philadelphia-eagles";
-
-    // -------- Fight song logic (no label jump) --------
+    // Fight song
     const song = document.getElementById("song");
     const songBtn = document.getElementById("songBtn");
     const songStatus = document.getElementById("songStatus");
     let isPlaying = false;
-
-    // iOS-friendly hints
-    song.setAttribute("playsinline", "");
-    song.setAttribute("webkit-playsinline", "");
-
-    // Persisted volume (optional)
-    try {
-      const v = localStorage.getItem("eagles_song_vol");
-      if (v !== null) song.volume = Math.max(0, Math.min(1, parseFloat(v)));
-    } catch (_) {}
-
     songBtn.addEventListener("click", async () => {
       try {
-        if (!isPlaying) {
-          await song.play();
-          isPlaying = true;
-          songBtn.classList.add("is-playing");
-          songBtn.setAttribute("aria-pressed", "true");
-          songStatus.textContent = "playing";
-        } else {
-          song.pause();
-          isPlaying = false;
-          songBtn.classList.remove("is-playing");
-          songBtn.setAttribute("aria-pressed", "false");
-          songStatus.textContent = "stopped";
-        }
-      } catch (e) {
-        console.error("Audio play error:", e);
-      }
+        if (!isPlaying) { await song.play(); isPlaying = true; songBtn.classList.add("is-playing"); songBtn.setAttribute("aria-pressed","true"); songStatus.textContent="playing"; }
+        else { song.pause(); isPlaying = false; songBtn.classList.remove("is-playing"); songBtn.setAttribute("aria-pressed","false"); songStatus.textContent="stopped"; }
+      } catch(e){ console.error(e); }
     });
+    song.addEventListener("ended", () => { isPlaying=false; songBtn.classList.remove("is-playing"); songBtn.setAttribute("aria-pressed","false"); songStatus.textContent="stopped"; });
 
-    song.addEventListener("ended", () => {
-      isPlaying = false;
-      songBtn.classList.remove("is-playing");
-      songBtn.setAttribute("aria-pressed", "false");
-      songStatus.textContent = "stopped";
-    });
-
-    // Save volume if the user changes it via system controls (some browsers)
-    song.addEventListener("volumechange", () => {
-      try { localStorage.setItem("eagles_song_vol", String(song.volume)); } catch (_) {}
-    });
-    // ---------------------------------------------------
-
-    // -------- News rendering --------
-    let data = null;
-
+    // Data
+    let data=null;
     async function load(){
-      const res = await fetch(`${SLUG}/items.json?v=${Date.now()}`, {cache: "no-store"});
+      const res = await fetch(`items.json?v=${Date.now()}`, {cache:"no-store"});
       if(!res.ok){ console.error("items.json fetch failed", res.status); return; }
       data = await res.json();
       render();
@@ -126,7 +81,7 @@
     function render(){
       if(!data) return;
 
-      // Buttons row
+      // Links
       const ql=document.getElementById("quick-links"); ql.innerHTML="";
       (data.static_links||[]).forEach(l=>{
         const a=document.createElement("a");
@@ -135,7 +90,7 @@
         ql.appendChild(a);
       });
 
-      // Sources filter
+      // Sources
       const dd=document.getElementById("sourceFilter"); const prev=dd.value;
       dd.innerHTML='<option value="">All sources</option>';
       (data.sources||[]).forEach(s=>{
@@ -143,19 +98,16 @@
       });
       if(prev) dd.value=prev;
 
-      // Updated time
-      document.getElementById("updated").textContent="Updated: " +
-        new Date(data.updated_at||Date.now()).toLocaleString();
+      // Updated
+      document.getElementById("updated").textContent="Updated: " + new Date(data.updated_at||Date.now()).toLocaleString();
 
       // Cards
       const grid=document.getElementById("grid"); grid.innerHTML="";
       let items=data.items||[]; 
       if(dd.value) items=items.filter(i=>i.source===dd.value);
-
       items.forEach(it=>{
         const card=document.createElement("article"); card.className="card";
-        const a=document.createElement("a"); a.href=it.url; a.target="_blank"; a.rel="noopener";
-        a.className="title"; a.textContent=it.title;
+        const a=document.createElement("a"); a.href=it.url; a.target="_blank"; a.rel="noopener"; a.className="title"; a.textContent=it.title;
         const meta=document.createElement("div"); meta.className="meta";
         meta.textContent=(it.source||"") + " • " + new Date(it.published||Date.now()).toLocaleString();
         card.appendChild(a); card.appendChild(meta);
