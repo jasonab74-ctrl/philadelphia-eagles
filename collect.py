@@ -1,224 +1,274 @@
-#!/usr/bin/env python3
-# collect.py — Eagles-tuned collector
-#
-# - Prefers trusted feeds but now requires team signal (title or URL looks NFL/Eagles)
-# - Filters obvious non-team noise
-# - Dedupe by URL+title
-# - Writes items.json with sources + updated_at
-#
-# pip install feedparser requests
+# collect.py — Philadelphia Eagles collector
+# - Real outlet in item.source (parsed from title suffix; fallback: <source> tag; fallback: article domain)
+# - Removes outlet suffix from title for display
+# - Strong dedupe: canonical URL + normalized title
+# - Eagles-only filtering (stricter for Google/Bing)
+# - Tight source allowlist (keeps dropdown clean)
 
-from __future__ import annotations
-import json, re, time, hashlib, html, pathlib, sys
+import feedparser, json, re, time, html
 from datetime import datetime, timezone
-from urllib.parse import urlparse, parse_qs, urlunparse, unquote
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
+from feeds import FEEDS
 
-import feedparser  # type: ignore
+MAX_ITEMS = 50
 
-# ---- project config ----------------------------------------------------------
-try:
-    from feeds import FEEDS, TEAM_NAME, TEAM_SLUG, EXCLUDE_TOKENS
-except Exception as e:
-    print(f"[collector] ERROR importing feeds.py: {e}", file=sys.stderr)
-    raise
+# ------------------- filters (Eagles-specific) -------------------
+KEYWORDS_ANY = [
+    "philadelphia eagles", "eagles", "fly eagles fly",
+    "jalen hurts", "nick sirianni", "howie roseman",
+    "a.j. brown", "aj brown", "devonta smith", "dallas goedert",
+    "jordan mailata", "lane johnson", "haason reddick", "darius slay",
+    "lincoln financial field", "lincoln financial", "philly eagles",
+    "eagles vs", "eagles at", "vs eagles", "at eagles",
+]
+FOOTBALL_HINTS = [
+    "nfl", "football", "qb", "quarterback", "rb", "wr", "te",
+    "defense", "offense", "linebacker", "cornerback", "safety",
+    "depth chart", "injury report", "practice squad", "roster move",
+]
+EXCLUDE_ANY = [
+    "philadelphia phillies", "sixers", "76ers", "flyers", "union",
+    "eagle scouts", "high school", "alabama crimson tide", "oregon ducks",
+]
 
-# ---- knobs -------------------------------------------------------------------
-MAX_ITEMS       = 50    # <= requested hard cap
-BOOTSTRAP_MIN   = 16    # floor so the page never looks empty
-RECENT_DAYS_MAX = 14    # (kept for future use)
+AGGREGATORS = {"news.google.com", "www.bing.com", "bing.com"}
 
-# ---- helpers ----------------------------------------------------------------
-def now_iso() -> str:
-    return datetime.now(timezone.utc).isoformat()
+# Host allowlist: reputable national + trusted Philly/Eagles outlets
+ALLOWED_SOURCES = {
+    # Official
+    "philadelphiaeagles.com",
+    # Philly local / beat
+    "inquirer.com", "phillyvoice.com", "nbcsportsphiladelphia.com",
+    "6abc.com", "nbcphiladelphia.com", "cbsnews.com", "cbsnews.com/philadelphia",
+    "fox29.com", "crossingbroad.com",
+    # Regionals that regularly cover Eagles
+    "nj.com", "pennlive.com", "delcotimes.com",
+    # Major national sports
+    "espn.com", "cbssports.com", "foxsports.com", "si.com",
+    "theathletic.com", "apnews.com", "sportingnews.com",
+    "yahoo.com", "sports.yahoo.com", "bleacherreport.com", "nfl.com",
+    "profootballtalk.nbcsports.com", "pff.com",
+    # SB Nation team blog
+    "bleedinggreennation.com",
+}
 
-def to_timestamp(entry) -> float:
-    for key in ("published_parsed", "updated_parsed"):
-        ts = getattr(entry, key, None) or entry.get(key)
-        if ts:
-            try:
-                return time.mktime(ts)
-            except Exception:
-                pass
-    return time.time()
+# Pretty labels
+DOMAIN_LABELS = {
+    "philadelphiaeagles.com": "Philadelphia Eagles (Official)",
+    "inquirer.com": "Inquirer.com",
+    "phillyvoice.com": "PhillyVoice",
+    "nbcsportsphiladelphia.com": "NBC Sports Philadelphia",
+    "6abc.com": "6abc Philadelphia",
+    "nbcphiladelphia.com": "NBC10 Philadelphia",
+    "fox29.com": "FOX 29 Philadelphia",
+    "crossingbroad.com": "Crossing Broad",
+    "nj.com": "NJ.com",
+    "pennlive.com": "PennLive",
+    "delcotimes.com": "Delco Times",
+    "espn.com": "ESPN",
+    "cbssports.com": "CBS Sports",
+    "foxsports.com": "FOX Sports",
+    "si.com": "Sports Illustrated",
+    "theathletic.com": "The Athletic",
+    "apnews.com": "AP News",
+    "sportingnews.com": "Sporting News",
+    "yahoo.com": "Yahoo",
+    "sports.yahoo.com": "Yahoo Sports",
+    "bleacherreport.com": "Bleacher Report",
+    "nfl.com": "NFL.com",
+    "profootballtalk.nbcsports.com": "ProFootballTalk",
+    "pff.com": "PFF",
+    "bleedinggreennation.com": "Bleeding Green Nation",
+}
 
-def strip_tracking(u: str) -> str:
-    if not u:
-        return u
-    try:
-        parsed = urlparse(u)
-        q = parse_qs(parsed.query)
+# ------------------- helpers -------------------
+UNICODE_SPACES = re.compile(r"[\u00A0\u1680\u2000-\u200B\u202F\u205F\u3000]")
 
-        # Unwrap Google News redirects (url=)
-        if "url" in q and q["url"]:
-            candidate = unquote(q["url"][0])
-            if candidate.startswith("http://") or candidate.startswith("https://"):
-                u = candidate
-                parsed = urlparse(u)
-                q = parse_qs(parsed.query)
+def normalize_spaces(s: str) -> str:
+    s = UNICODE_SPACES.sub(" ", s)
+    s = re.sub(r"\s+", " ", s)
+    return s.strip()
 
-        drop = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id",
-                "ncid","ref","fbclid","gclid"}
-        new_q = []
-        for k, vals in q.items():
-            if k.lower() in drop:
-                continue
-            for v in vals:
-                new_q.append(f"{k}={v}")
-        query = "&".join(new_q)
-        return urlunparse((parsed.scheme, parsed.netloc, parsed.path, "", query, ""))
-    except Exception:
-        return u
+def strip_tags(s: str) -> str:
+    if not s: return ""
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html.unescape(s)
+    return normalize_spaces(s)
 
-def norm_title(t: str) -> str:
-    t = html.unescape((t or "").strip())
-    t = re.sub(r"\s+", " ", t)
-    return t
-
-def looks_like_team_title_or_source(text: str) -> bool:
-    t = (text or "").lower()
-    return ("eagles" in t) or ("philadelphia eagles" in t)
-
-def looks_like_team_url(u: str) -> bool:
+def unwrap_redirect(u: str) -> str:
+    """Unwrap Google/Bing news links to the real article when possible."""
     try:
         p = urlparse(u)
-        path = (p.path or "").lower()
-        query = (p.query or "").lower()
-        net = (p.netloc or "").lower()
-        if "eagles" in path or "philadelphia-eagles" in path:
-            return True
-        if "/nfl/" in path or net.endswith("nfl.com"):
-            return True
-        if "team=phi" in query:
-            return True
-        return False
+        q = dict(parse_qsl(p.query, keep_blank_values=True))
+        if p.netloc == "news.google.com" and "url" in q:
+            return q["url"]
+        if p.netloc in {"www.bing.com", "bing.com"}:
+            return q.get("url") or q.get("u") or u
+        return u
     except Exception:
-        return False
+        return u
 
-def is_excluded(text: str) -> bool:
-    t = (text or "")
-    for bad in EXCLUDE_TOKENS:
-        if re.search(rf"\b{re.escape(bad)}\b", t, flags=re.I):
-            return True
-    return False
-
-def extract_source(entry, feed_name: str) -> str:
-    src = ""
+def clean_url(u: str) -> str:
+    """Canonicalize final URL and drop tracking params."""
     try:
-        src = getattr(getattr(entry, "source", None), "title", "") or ""
+        u = unwrap_redirect(u)
+        p = urlparse(u)
+        q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
+             if not k.lower().startswith(("utm_", "fbclid", "gclid", "ocid"))]
+        host = (p.netloc or "").lower()
+        if host.startswith("www."): host = host[4:]
+        return urlunparse((p.scheme, host, p.path, "", urlencode(q), ""))
     except Exception:
-        src = ""
-    if not src:
-        src = feed_name or ""
-    return (src.replace(" - ", " — ").strip() or "Unknown")
+        return u
 
-def entry_to_item(entry, feed_name: str) -> dict:
-    title = norm_title(getattr(entry, "title", "") or entry.get("title", ""))
-    link  = getattr(entry, "link", "") or entry.get("link", "")
-    link  = strip_tracking(link)
-    published_ts = to_timestamp(entry)
-    published_iso = datetime.fromtimestamp(published_ts, tz=timezone.utc).isoformat()
-    source = extract_source(entry, feed_name)
-    return {
-        "title": title,
-        "link": link,
-        "published": published_iso,
-        "published_ts": published_ts,
-        "source": source
-    }
+# Accept hyphen, en dash, or em dash; spaces are normalized.
+DASH = r"[-–—]"
+OUTLET_RE = re.compile(rf"\s{DASH}\s([A-Za-z0-9&@.,'()/:+ ]+)$")
 
-def feed_is_trusted(feed_cfg: dict) -> bool:
-    return bool(feed_cfg.get("trusted"))
+def split_title_outlet(title: str):
+    """Return (clean_title, outlet or None) parsed from 'Headline – Outlet'."""
+    t = normalize_spaces(title)
+    m = OUTLET_RE.search(t)
+    if not m:
+        return t, None
+    outlet = m.group(1).strip()
+    if len(outlet) < 2:
+        return t, None
+    clean = t[:m.start()].rstrip()
+    return clean, outlet
 
-# ---- collection -------------------------------------------------------------
-def collect() -> dict:
-    items: list[dict] = []
-    seen: set[str] = set()
-    sources_set: set[str] = set()
+def outlet_from_url(u: str, default_feed_name: str) -> str:
+    try:
+        host = urlparse(u).netloc.lower()
+        if host.startswith("www."): host = host[4:]
+        if host and host not in AGGREGATORS:
+            return DOMAIN_LABELS.get(host, host)
+        return default_feed_name
+    except Exception:
+        return default_feed_name
 
-    feeds_sorted = sorted(FEEDS, key=lambda f: (not f.get("trusted"), f.get("name","").lower()))
+def entry_source_title(entry) -> str | None:
+    """Read <source> or source_detail title (Google News includes this)."""
+    try:
+        src = entry.get("source")
+        if isinstance(src, dict):
+            t = src.get("title") or src.get("href")
+            if t: return normalize_spaces(str(t))
+    except Exception:
+        pass
+    try:
+        sd = entry.get("source_detail")
+        if isinstance(sd, dict):
+            t = sd.get("title") or sd.get("href")
+            if t: return normalize_spaces(str(t))
+    except Exception:
+        pass
+    return None
 
-    for f in feeds_sorted:
-        fname = f.get("name", "").strip() or "Feed"
-        url   = f.get("url", "").strip()
-        if not url:
-            continue
+def looks_like_football(text: str) -> bool:
+    t = text.lower()
+    if "football" in t or "nfl" in t: return True
+    return any(k in t for k in FOOTBALL_HINTS)
 
-        parsed = feedparser.parse(url)
-        entries = parsed.entries or []
+def allowed(title: str, summary: str, feed_host: str) -> bool:
+    t = f"{title} {summary}".lower()
+    if any(x in t for x in EXCLUDE_ANY): return False
+    if not any(k in t for k in KEYWORDS_ANY): return False
+    if feed_host in AGGREGATORS and not looks_like_football(t): return False
+    return True
 
-        for e in entries:
-            it = entry_to_item(e, fname)
-            key = hashlib.sha1((it["link"] + " | " + it["title"].lower()).encode("utf-8")).hexdigest()
-            if key in seen:
+def ts_from_entry(e) -> float:
+    for k in ("published_parsed", "updated_parsed"):
+        v = e.get(k)
+        if v:
+            try: return time.mktime(v)
+            except Exception: pass
+    return time.time()
+
+def norm_title(t: str) -> str:
+    # normalize spaces/dashes then strip a trailing " - Outlet", then sanitize
+    t = normalize_spaces(t)
+    t = re.sub(r"[–—]", "-", t)
+    t = re.sub(rf"\s-\s[a-z0-9&@.,'()/:+ ]+$", "", t.lower())
+    t = re.sub(r"[^a-z0-9 ]+", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+def make_id(link: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", (link or "").lower()).strip("-")[:120]
+
+# ------------------- main -------------------
+def collect():
+    items = []
+    seen_links  = set()  # canonical URL dedupe
+    seen_titles = set()  # global normalized-title dedupe
+
+    for feed in FEEDS:
+        feed_name = feed["name"]
+        feed_url  = feed["url"]
+        feed_host = urlparse(feed_url).netloc.lower()
+
+        parsed = feedparser.parse(feed_url)
+        for e in parsed.entries:
+            raw_title = e.get("title") or ""
+            title = strip_tags(raw_title)
+            link  = clean_url(e.get("link") or "")
+            if not title or not link:
                 continue
 
-            # drop obvious noise by title
-            if is_excluded(it["title"]):
+            summary = strip_tags(e.get("summary") or "")
+            if not allowed(title, summary, feed_host):
                 continue
 
-            # acceptance rules
-            trusted = feed_is_trusted(f)
-            title_hit  = looks_like_team_title_or_source(it["title"])
-            source_hit = looks_like_team_title_or_source(it["source"])
-            url_hit    = looks_like_team_url(it["link"])
+            # Dedupe by canonical URL
+            if link in seen_links:
+                continue
 
-            # NEW: trusted also needs team-in-title OR NFL/team-ish URL
-            if trusted:
-                keep = title_hit or url_hit or source_hit
+            # Extract outlet from title suffix; cleaned title for display/dedupe
+            base_title, outlet_from_title = split_title_outlet(title)
+
+            # Dedupe by normalized title (after removing outlet suffix)
+            title_key = norm_title(base_title)
+            if title_key in seen_titles:
+                continue
+
+            # Prefer outlet from title; else GN <source>; else article domain
+            src_tag = entry_source_title(e)
+            if outlet_from_title:
+                source = outlet_from_title
+            elif src_tag and "google" not in src_tag.lower():
+                source = src_tag
             else:
-                keep = title_hit or source_hit
+                source = outlet_from_url(link, feed_name)
 
-            if not keep:
+            # Tighten: allowlist on final host
+            host = urlparse(link).netloc.lower()
+            if host.startswith("www."): host = host[4:]
+            if host not in ALLOWED_SOURCES:
                 continue
 
-            seen.add(key)
-            items.append(it)
-            sources_set.add(it["source"])
+            ts = ts_from_entry(e)
+            items.append({
+                "id": make_id(link),
+                "title": base_title,
+                "link": link,
+                "source": source,                # drives dropdown
+                "ts": float(ts),
+                "published_iso": datetime.fromtimestamp(ts, tz=timezone.utc).isoformat(),
+            })
 
-    # Bootstrap to ensure page looks alive
-    if len(items) < BOOTSTRAP_MIN:
-        extras: list[dict] = []
-        for f in feeds_sorted:
-            if not feed_is_trusted(f):
-                continue
-            parsed = feedparser.parse(f.get("url",""))
-            for e in parsed.entries or []:
-                it = entry_to_item(e, f.get("name","Feed"))
-                if is_excluded(it["title"]):
-                    continue
-                # still require at least a weak signal for bootstrap
-                if not (looks_like_team_title_or_source(it["title"]) or looks_like_team_url(it["link"]) or looks_like_team_title_or_source(it["source"])):
-                    continue
-                key = hashlib.sha1((it["link"] + " | " + it["title"].lower()).encode("utf-8")).hexdigest()
-                if key in seen:
-                    continue
-                seen.add(key)
-                extras.append(it)
-                sources_set.add(it["source"])
-        extras.sort(key=lambda x: x["published_ts"], reverse=True)
-        need = max(0, BOOTSTRAP_MIN - len(items))
-        if need:
-            items.extend(extras[:need])
+            seen_links.add(link)
+            seen_titles.add(title_key)
 
-    # sort newest first, trim, drop helper field
-    items.sort(key=lambda x: x["published_ts"], reverse=True)
+    items.sort(key=lambda x: x["ts"], reverse=True)
     items = items[:MAX_ITEMS]
-    for it in items:
-        it.pop("published_ts", None)
 
-    return {
-        "team": TEAM_NAME,
-        "slug": TEAM_SLUG,
-        "updated_at": now_iso(),
-        "count": len(items),
-        "sources": sorted(sources_set),
-        "items": items
-    }
-
-def main():
-    data = collect()
-    pathlib.Path("items.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[collector] wrote {data['count']} items; {len(data['sources'])} sources; updated items.json")
+    with open("items.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "updated_iso": datetime.now(tz=timezone.utc).isoformat(),
+            "count": len(items),
+            "items": items
+        }, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    main()
+    collect()
