@@ -1,151 +1,224 @@
-import re, json, time, html, sys
+#!/usr/bin/env python3
+# collect.py — generic collector with Eagles-ready defaults
+#
+# - Pulls FEEDS from feeds.py
+# - Filters to team content but "bootstraps" if volume is low
+# - Dedupe by canonical URL + normalized title
+# - Writes items.json with sources + updated_at
+#
+# Requirements: feedparser, requests
+
+from __future__ import annotations
+import json, re, time, hashlib, html, pathlib, sys
 from datetime import datetime, timezone
-from urllib.parse import urlparse, urlunparse
-import requests, feedparser
-import feeds
+from urllib.parse import urlparse, parse_qs, urlunparse, unquote
 
-USER_AGENT = "TeamNewsCollector/1.3 (+https://github.com/)"
-TIMEOUT = 12
-MAX_ITEMS = 120
-BOOTSTRAP_MIN = 12
+import feedparser  # type: ignore
 
-SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": USER_AGENT})
+# ---- project config (from feeds.py) -----------------------------------------
+try:
+    from feeds import FEEDS, TEAM_NAME, TEAM_SLUG, EXCLUDE_TOKENS
+except Exception as e:
+    print(f"[collector] ERROR importing feeds.py: {e}", file=sys.stderr)
+    raise
 
-def _http_final_url(url: str) -> str:
-    try:
-        r = SESSION.get(url, allow_redirects=True, timeout=TIMEOUT)
-        return r.url or url
-    except Exception:
-        return url
+# ---- knobs ------------------------------------------------------------------
+MAX_ITEMS       = 150   # cap for written items
+BOOTSTRAP_MIN   = 16    # ensure at least this many render on page
+RECENT_DAYS_MAX = 14    # prefer posts in the last N days
 
-def canonicalize(u: str) -> str:
-    try:
-        u = _http_final_url(u)
-        p = urlparse(u)
-        path = re.sub(r"/+$", "", (p.path or ""))
-        return urlunparse((p.scheme, p.netloc.lower(), path, "", "", ""))
-    except Exception:
-        return u
+# ---- helpers ----------------------------------------------------------------
+def now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
 
-def normalize_title(t: str) -> str:
-    t = html.unescape(t or "").strip()
-    t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
-    return re.sub(r"\s+", " ", t)
-
-def extract_source(entry, feed_name: str) -> str:
-    src = None
-    if getattr(entry, "source", None):
-        src = getattr(entry.source, "title", None) or getattr(entry.source, "href", None)
-    if not src and getattr(entry, "authors", None):
-        src = entry.authors[0].get("name")
-    if not src:
-        src = getattr(entry, "publisher", None)
-    if not src:
-        src = feed_name
-    src = (src or "Unknown").strip()
-    src = re.sub(r"^https?://(www\.)?", "", src)
-    return src[:80]
-
-def ts_from_entry(entry) -> float:
-    for key in ("published_parsed", "updated_parsed", "created_parsed"):
-        val = getattr(entry, key, None)
-        if val:
+def to_timestamp(entry) -> float:
+    # prefer published/updated parsed time; fallback to now
+    for key in ("published_parsed", "updated_parsed"):
+        ts = getattr(entry, key, None) or entry.get(key)
+        if ts:
             try:
-                return time.mktime(val)
+                return time.mktime(ts)
             except Exception:
                 pass
     return time.time()
 
-def allow_item(item) -> bool:
-    if item.get("trusted"):
-        return True
-    blob = f"{item.get('title','')} {item.get('summary','')}".lower()
-    if "eagles" not in blob and "philadelphia" not in blob and "phi" not in blob:
-        return False
-    for bad in getattr(feeds, "EXCLUDE_TOKENS", []):
-        if bad.lower() in blob:
-            return False
-    return True
-
-def fetch_feed(fd):
-    url, name, trusted = fd["url"], fd["name"], bool(fd.get("trusted", False))
-    items = []
+def strip_tracking(u: str) -> str:
+    # remove common tracking params and unwrap Google News/bing redirects
+    if not u:
+        return u
     try:
-        d = feedparser.parse(url)
-        for e in d.entries:
-            title = normalize_title(getattr(e, "title", "") or "")
-            link  = getattr(e, "link", "") or ""
-            if not title or not link:
+        # Google News often wraps as ...url=ENCODED
+        parsed = urlparse(u)
+        q = parse_qs(parsed.query)
+
+        # unwrap if there is a single 'url' param that looks like http(s)
+        if "url" in q and q["url"]:
+            candidate = unquote(q["url"][0])
+            if candidate.startswith("http://") or candidate.startswith("https://"):
+                u = candidate
+                parsed = urlparse(u)
+                q = parse_qs(parsed.query)
+
+        # rebuild without common trackers
+        drop = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id","ncid","ref","fbclid","gclid"}
+        new_q = []
+        for k, vals in q.items():
+            if k.lower() in drop:
                 continue
-            items.append({
-                "title": title,
-                "url": canonicalize(link),
-                "source": extract_source(e, name),
-                "summary": html.unescape(getattr(e, "summary", "") or "").strip(),
-                "published": datetime.fromtimestamp(ts_from_entry(e), tz=timezone.utc).isoformat(),
-                "trusted": trusted,
-            })
-    except Exception as ex:
-        print(f"[WARN] Feed error: {name} -> {ex}", file=sys.stderr)
-    return items
+            for v in vals:
+                new_q.append(f"{k}={v}")
+        query = "&".join(new_q)
+        return urlunparse((parsed.scheme, parsed.netloc, parsed.path, "", query, ""))
+    except Exception:
+        return u
 
-def dedupe(items):
-    seen, out = set(), []
-    for it in items:
-        k = (it["title"].lower(), it["url"])
-        if k in seen:
-            continue
-        seen.add(k)
-        out.append(it)
-    return out
+def norm_title(t: str) -> str:
+    t = html.unescape((t or "").strip())
+    t = re.sub(r"\s+", " ", t)
+    return t
 
-def main():
-    all_items, trusted_raw = [], []
-    feed_list = getattr(feeds, "FEEDS", [])
-    if not feed_list:
-        print("[ERR] No FEEDS configured", file=sys.stderr)
+def looks_like_team(text: str) -> bool:
+    """Loose allow-list: keep if it obviously mentions the team."""
+    t = (text or "").lower()
+    if "eagles" in t:   # team nickname is the strongest signal
+        return True
+    if "philadelphia eagles" in t:
+        return True
+    return False
 
-    for fd in feed_list:
-        batch = fetch_feed(fd)
-        all_items.extend(batch)
-        if fd.get("trusted"):
-            trusted_raw.extend(batch)
+def is_excluded(text: str) -> bool:
+    t = (text or "")
+    for bad in EXCLUDE_TOKENS:
+        if re.search(rf"\b{re.escape(bad)}\b", t, flags=re.I):
+            return True
+    return False
 
-    filtered = [it for it in all_items if allow_item(it)]
-    filtered = dedupe(filtered)
-    filtered.sort(key=lambda x: x.get("published",""), reverse=True)
+def extract_source(entry, feed_name: str) -> str:
+    # prefer entry.source.title if present (some feeds set it)
+    src = ""
+    try:
+        src = getattr(getattr(entry, "source", None), "title", "") or ""
+    except Exception:
+        src = ""
+    if not src:
+        src = feed_name or ""
+    # normalize some known patterns like "SI.com - Eagles Today" → "SI — Eagles Today"
+    src = src.replace(" - ", " — ")
+    return src.strip() or "Unknown"
 
-    if len(filtered) < BOOTSTRAP_MIN:
-        trusted_raw = dedupe(trusted_raw)
-        trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
-        merged, seen = [], set()
-        for it in trusted_raw + filtered:
-            k = (it["title"].lower(), it["url"])
-            if k in seen:
-                continue
-            seen.add(k)
-            merged.append(it)
-        filtered = merged
+def entry_to_item(entry, feed_name: str) -> dict:
+    title = norm_title(getattr(entry, "title", "") or entry.get("title", ""))
+    link  = getattr(entry, "link", "") or entry.get("link", "")
+    link  = strip_tracking(link)
+    published_ts = to_timestamp(entry)
+    published_iso = datetime.fromtimestamp(published_ts, tz=timezone.utc).isoformat()
+    source = extract_source(entry, feed_name)
 
-    if not filtered and trusted_raw:
-        filtered = trusted_raw[:BOOTSTRAP_MIN]
-
-    filtered = filtered[:MAX_ITEMS]
-    sources = sorted({it["source"] for it in filtered})
-
-    payload = {
-        "team": {"name": getattr(feeds, "TEAM_NAME", "Team"), "slug": getattr(feeds, "TEAM_SLUG", "team")},
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "static_links": getattr(feeds, "STATIC_LINKS", []),
-        "items": filtered,
-        "sources": sources
+    return {
+        "title": title,
+        "link": link,
+        "published": published_iso,
+        "published_ts": published_ts,
+        "source": source
     }
 
-    with open("items.json", "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+def feed_is_trusted(feed_cfg: dict) -> bool:
+    return bool(feed_cfg.get("trusted"))
 
-    print(f"[collector] wrote {len(filtered)} items; {len(sources)} sources; updated items.json")
+# ---- collection -------------------------------------------------------------
+def collect() -> dict:
+    items: list[dict] = []
+    seen: set[str] = set()
+    sources_set: set[str] = set()
+
+    # sort feeds so trusted run first (better for bootstrap)
+    feeds_sorted = sorted(FEEDS, key=lambda f: (not f.get("trusted"), f.get("name","").lower()))
+
+    for f in feeds_sorted:
+        fname = f.get("name", "").strip() or "Feed"
+        url   = f.get("url", "").strip()
+        if not url:
+            continue
+
+        parsed = feedparser.parse(url)
+        entries = parsed.entries or []
+
+        for e in entries:
+            item = entry_to_item(e, fname)
+
+            # basic dedupe key: canonical url + title
+            key = hashlib.sha1((item["link"] + " | " + item["title"].lower()).encode("utf-8")).hexdigest()
+            if key in seen:
+                continue
+
+            # filtering
+            title_ok = looks_like_team(item["title"])
+            src_ok   = looks_like_team(item["source"])
+            trusted  = feed_is_trusted(f)
+
+            # exclude obvious wrong-sport/noise
+            if is_excluded(item["title"]):
+                continue
+
+            # accept if trusted or clearly team
+            keep = trusted or title_ok or src_ok
+
+            # recency preference: allow older stories but score them lower
+            # (sorting by published_ts at end will already handle freshness)
+
+            if keep:
+                seen.add(key)
+                items.append(item)
+                sources_set.add(item["source"])
+
+    # Bootstrap: if volume low, relax and keep first N from trusted feeds titles regardless,
+    # because trusted sources are team-specific.
+    if len(items) < BOOTSTRAP_MIN:
+        print(f"[collector] bootstrap engaged (have {len(items)}, need {BOOTSTRAP_MIN})")
+        extras: list[dict] = []
+        for f in feeds_sorted:
+            if not feed_is_trusted(f):
+                continue
+            parsed = feedparser.parse(f.get("url",""))
+            for e in parsed.entries or []:
+                item = entry_to_item(e, f.get("name","Feed"))
+                if is_excluded(item["title"]):
+                    continue
+                key = hashlib.sha1((item["link"] + " | " + item["title"].lower()).encode("utf-8")).hexdigest()
+                if key in seen:
+                    continue
+                seen.add(key)
+                extras.append(item)
+                sources_set.add(item["source"])
+        # add until we reach floor
+        if extras:
+            # sort extras newest first and take enough to reach BOOTSTRAP_MIN
+            extras.sort(key=lambda x: x["published_ts"], reverse=True)
+            need = max(0, BOOTSTRAP_MIN - len(items))
+            items.extend(extras[:need])
+
+    # Final sort newest → oldest, trim, and drop helper field
+    items.sort(key=lambda x: x["published_ts"], reverse=True)
+    items = items[:MAX_ITEMS]
+    for it in items:
+        it.pop("published_ts", None)
+
+    out = {
+        "team": TEAM_NAME,
+        "slug": TEAM_SLUG,
+        "updated_at": now_iso(),
+        "count": len(items),
+        "sources": sorted(sources_set),
+        "items": items
+    }
+    return out
+
+# ---- main -------------------------------------------------------------------
+def main():
+    data = collect()
+    p = pathlib.Path("items.json")
+    p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"[collector] wrote {data['count']} items; {len(data['sources'])} sources; updated items.json")
 
 if __name__ == "__main__":
     main()
