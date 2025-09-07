@@ -1,71 +1,81 @@
 {
-  "team": {
-    "name": "Philadelphia Eagles",
-    "slug": "philadelphia-eagles"
-  },
-  "updated_at": "2025-09-07T13:01:41.397430+00:00",
+  "team": { "name": "Philadelphia Eagles", "slug": "philadelphia-eagles" },
+  "updated_at": "2025-09-07T06:05:00Z",
   "static_links": [
+    { "label":"Schedule","url":"https://www.philadelphiaeagles.com/schedule/" },
+    { "label":"Roster","url":"https://www.philadelphiaeagles.com/team/players-roster/" },
+    { "label":"Depth Chart","url":"https://www.philadelphiaeagles.com/team/depth-chart/" },
+    { "label":"Injury Report","url":"https://www.philadelphiaeagles.com/team/injury-report/" },
+    { "label":"Tickets","url":"https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805961" },
+    { "label":"Team Shop","url":"https://store.philadelphiaeagles.com/" },
+    { "label":"Reddit","url":"https://www.reddit.com/r/eagles/" },
+    { "label":"Bleacher Report","url":"https://bleacherreport.com/philadelphia-eagles" },
+    { "label":"ESPN Team","url":"https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles" },
+    { "label":"Yahoo Team","url":"https://sports.yahoo.com/nfl/teams/phi/" },
+    { "label":"PFF Team Page","url":"https://www.pff.com/nfl/teams/philadelphia-eagles" },
+    { "label":"Pro-Football-Reference","url":"https://www.pro-football-reference.com/teams/phi/" },
+    { "label":"NFL Power Rankings","url":"https://www.nfl.com/news/power-rankings" },
+    { "label":"Stats","url":"https://www.nfl.com/teams/philadelphia-eagles/stats/" },
+    { "label":"Standings","url":"https://www.nfl.com/standings/league/2025/REG" }
+  ],
+  "items": [
     {
-      "label": "Schedule",
-      "url": "https://www.philadelphiaeagles.com/schedule/"
+      "title": "Eagles finalize Week 1 roster; practice squad set",
+      "url": "https://www.philadelphiaeagles.com/news/roster-practice-squad-week-1",
+      "source": "philadelphiaeagles.com",
+      "summary": "Philadelphia announced its initial 53-man roster and completed the practice squad signings ahead of Week 1.",
+      "published": "2025-09-06T13:00:00Z"
     },
     {
-      "label": "Roster",
-      "url": "https://www.philadelphiaeagles.com/team/players-roster/"
+      "title": "Jalen Hurts ready for season opener after strong camp",
+      "url": "https://www.espn.com/nfl/story/_/id/0000000/eagles-jalen-hurts-ready",
+      "source": "ESPN",
+      "summary": "Hurts enters Year 5 with a revamped supporting cast and continuity on offense.",
+      "published": "2025-09-06T11:00:00Z"
     },
     {
-      "label": "Depth Chart",
-      "url": "https://www.philadelphiaeagles.com/team/depth-chart/"
+      "title": "What we learned from Eagles preseason: stock up, stock down",
+      "url": "https://www.bleedinggreennation.com/2025/9/5/000000/eagles-preseason-takeaways",
+      "source": "Bleeding Green Nation",
+      "summary": "Big winners, lingering questions, and how the depth chart shook out.",
+      "published": "2025-09-05T23:30:00Z"
     },
     {
-      "label": "Injury Report",
-      "url": "https://www.philadelphiaeagles.com/team/injury-report/"
+      "title": "Eagles sign veteran CB to bolster secondary",
+      "url": "https://www.si.com/nfl/eagles/news/eagles-sign-veteran-cornerback",
+      "source": "SI — Eagles Today",
+      "summary": "Philadelphia adds experience at corner with a Week 1 signing.",
+      "published": "2025-09-05T20:00:00Z"
     },
     {
-      "label": "Tickets",
-      "url": "https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805961"
+      "title": "5 matchups to watch in Week 1",
+      "url": "https://theeagleswire.usatoday.com/lists/eagles-week-1-matchups-to-watch/",
+      "source": "Eagles Wire (USA Today)",
+      "summary": "Trenches, perimeter speed, and special teams headline the opening week.",
+      "published": "2025-09-05T16:00:00Z"
     },
     {
-      "label": "Team Shop",
-      "url": "https://store.philadelphiaeagles.com/"
+      "title": "Practice notes: offense sharp in final tune-up",
+      "url": "https://sports.yahoo.com/eagles-practice-notes-final-tuneup-000000000.html",
+      "source": "Yahoo Sports — Eagles",
+      "summary": "Philadelphia wrapped up preparations with a crisp session at NovaCare.",
+      "published": "2025-09-05T14:30:00Z"
     },
     {
-      "label": "Reddit",
-      "url": "https://www.reddit.com/r/eagles/"
-    },
-    {
-      "label": "Bleacher Report",
-      "url": "https://bleacherreport.com/philadelphia-eagles"
-    },
-    {
-      "label": "ESPN Team",
-      "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles"
-    },
-    {
-      "label": "Yahoo Team",
-      "url": "https://sports.yahoo.com/nfl/teams/phi/"
-    },
-    {
-      "label": "PFF Team Page",
-      "url": "https://www.pff.com/nfl/teams/philadelphia-eagles"
-    },
-    {
-      "label": "Pro-Football-Reference",
-      "url": "https://www.pro-football-reference.com/teams/phi/"
-    },
-    {
-      "label": "NFL Power Rankings",
-      "url": "https://www.nfl.com/news/power-rankings"
-    },
-    {
-      "label": "Stats",
-      "url": "https://www.nfl.com/teams/philadelphia-eagles/stats/"
-    },
-    {
-      "label": "Standings",
-      "url": "https://www.nfl.com/standings/league/2025/REG"
+      "title": "Injury report: key starters upgraded",
+      "url": "https://profootballtalk.nbcsports.com/2025/09/05/eagles-injury-report-upgrades/",
+      "source": "ProFootballTalk — Eagles",
+      "summary": "Several players moved to full participants in Friday’s report.",
+      "published": "2025-09-05T13:00:00Z"
     }
   ],
-  "items": [],
-  "sources": []
+  "sources": [
+    "philadelphiaeagles.com",
+    "ESPN",
+    "Bleeding Green Nation",
+    "SI — Eagles Today",
+    "Eagles Wire (USA Today)",
+    "Yahoo Sports — Eagles",
+    "ProFootballTalk — Eagles"
+  ]
 }
