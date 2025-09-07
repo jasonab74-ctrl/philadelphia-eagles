@@ -7,16 +7,16 @@ EXCLUDE_TOKENS = [
 ]
 
 FEEDS = [
-    # Trusted team-centric outlets
-    {"name": "Bleeding Green Nation",         "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
-    {"name": "Eagles Wire (USA Today)",       "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
-    {"name": "ESPN — Eagles",                 "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
-    {"name": "Yahoo Sports — Eagles",         "url": "https://sports.yahoo.com/nfl/teams/phi/rss/",                           "trusted": True},
-    {"name": "SI — Eagles Today",             "url": "https://www.si.com/nfl/eagles/.rss",                                    "trusted": True},
-    {"name": "ProFootballTalk — Eagles",      "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
-    {"name": "CBS Sports — Eagles",           "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/rss/",      "trusted": True},
+    # Trusted Eagles outlets
+    {"name": "Bleeding Green Nation",    "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
+    {"name": "Eagles Wire (USA Today)",  "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
+    {"name": "ESPN — Eagles",            "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
+    {"name": "Yahoo Sports — Eagles",    "url": "https://sports.yahoo.com/nfl/teams/phi/rss/",                           "trusted": True},
+    {"name": "SI — Eagles Today",        "url": "https://www.si.com/nfl/eagles/.rss",                                    "trusted": True},
+    {"name": "ProFootballTalk — Eagles", "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
+    {"name": "CBS Sports — Eagles",      "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/rss/",      "trusted": True},
 
-    # Aggregators (filtered by allow_item)
+    # Aggregators
     {"name": "\"Philadelphia Eagles\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
