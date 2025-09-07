@@ -1,7 +1,7 @@
 {
   "team": "Philadelphia Eagles",
   "slug": "philadelphia-eagles",
-  "updated_at": "2025-09-07T21:24:30.716284+00:00",
+  "updated_at": "2025-09-07T21:36:14.856929+00:00",
   "count": 50,
   "sources": [
     "6abc Philadelphia",
@@ -23,6 +23,7 @@
     "Inquirer.com",
     "Inside the Iggles",
     "Last Word On Sports",
+    "NBC News",
     "NBC Sports Philadelphia",
     "NBC10 Philadelphia",
     "NFL.com",
@@ -33,19 +34,72 @@
     "Philadelphia Eagles",
     "Sports Illustrated",
     "TWSN Sports",
+    "The New York Times",
     "The News Journal",
     "The US Sun",
-    "Times of India",
     "USA Today",
     "Variety",
     "Yahoo Sports",
     "Yahoo Sports — Eagles",
-    "ca.sports.yahoo.com",
     "yahoo.com"
   ],
   "items": [
     {
-      "title": "Early-game headlines: Fields-Wilson combo shines in opener",
+      "title": "49ers' Kittle exits early with hamstring injury",
+      "link": "https://www.espn.com/nfl/story/_/id/46189846/george-kittle-exits-49ers-seahawks-hamstring-injury",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Illini, Noles crack AP top 10; USF enters at No. 18",
+      "link": "https://www.espn.com/college-football/story/_/id/46187052/illinois-florida-state-crack-top-10-ap-poll-usf-no-18",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Rory wins 2nd Irish Open title in thrilling playoff",
+      "link": "https://www.espn.com/golf/story/_/id/46187200/rory-mcilroy-wins-second-irish-open-title-thrilling-playoff",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Dončić's 42 leads Slovenia; Georgia ousts France",
+      "link": "https://www.espn.com/olympics/story/_/id/46186793/luka-doncic-scores-42-carry-slovenia-georgia-stuns-france",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Phils' Turner, NL hits leader, injures hamstring",
+      "link": "https://www.espn.com/mlb/story/_/id/46188422/phillies-trea-turner-leaves-game-hamstring-strain",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Raleigh belts No. 53; M's club 5 HRs in 18-2 rout",
+      "link": "https://www.espn.com/mlb/story/_/id/46189478/mariners-cal-raleigh-hits-mlb-leading-53rd-homer-18-2-rout",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Piastri: McLaren call to swap with Norris 'fair'",
+      "link": "https://www.espn.com/f1/story/_/id/46185735/oscar-piastri-says-mclaren-team-orders-lando-norris-was-fair",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "RB McCaffrey active to play in Niners' opener",
+      "link": "https://www.espn.com/nfl/story/_/id/46185260/49ers-christian-mccaffrey-play-vs-seahawks-source-says",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "👀 Best of NFL Week 1 arrivals and tunnel fits",
+      "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
+      "published": "2025-09-07T22:33:48+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Early-game headlines: Fields-Wilson combo shines",
       "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
       "published": "2025-09-07T22:21:10+00:00",
       "source": "ESPN — Eagles"
@@ -93,58 +147,10 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Illini, Noles crack AP top 10; USF enters at No. 18",
-      "link": "https://www.espn.com/college-football/story/_/id/46187052/illinois-florida-state-crack-top-10-ap-poll-usf-no-18",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Rory wins 2nd Irish Open title in thrilling playoff",
-      "link": "https://www.espn.com/golf/story/_/id/46187200/rory-mcilroy-wins-second-irish-open-title-thrilling-playoff",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Dončić's 42 leads Slovenia; Georgia ousts France",
-      "link": "https://www.espn.com/olympics/story/_/id/46186793/luka-doncic-scores-42-carry-slovenia-georgia-stuns-france",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Phils' Turner, NL hits leader, injures hamstring",
-      "link": "https://www.espn.com/mlb/story/_/id/46188422/phillies-trea-turner-leaves-game-hamstring-strain",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Piastri: McLaren call to swap with Norris 'fair'",
-      "link": "https://www.espn.com/f1/story/_/id/46185735/oscar-piastri-says-mclaren-team-orders-lando-norris-was-fair",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "RB McCaffrey active to play in Niners' opener",
-      "link": "https://www.espn.com/nfl/story/_/id/46185260/49ers-christian-mccaffrey-play-vs-seahawks-source-says",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Melo, Howard, Moore, Bird join hoops Hall of Fame",
-      "link": "https://www.espn.com/espn/story/_/id/46180298/carmelo-anthony-dwight-howard-maya-moore-enter-hall-fame",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Belichick wins 1st at UNC, confirms Patriots ban",
-      "link": "https://www.espn.com/college-football/story/_/id/46181582/belichick-wins-first-unc-confirms-ban-patriots-scouts",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "👀 Best of NFL Week 1 arrivals and tunnel fits",
-      "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
-      "published": "2025-09-07T21:24:41+00:00",
-      "source": "ESPN — Eagles"
+      "title": "Eagles vs. Chiefs - Live Updates - September 14, 2025 - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nY2pCZ09FWG04WWw5ZGVSX3lYV1lIQThoQU9qTVhlN3FOS1hvejJxbUlGT09QR0dRN19FVjlRbzdIZEswV0lhd2RrLXdUNFI2V01MUjJWTi1DS0Y4TUtjeE1xVU9BUQ?oc=5",
+      "published": "2025-09-07T21:25:35+00:00",
+      "source": "Inquirer.com"
     },
     {
       "title": "WATCH: Texans DB C.J. Garnder-Johnson ready to run through a wall vs. Rams",
@@ -277,12 +283,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzU3VWJGeTNEX1lBcDA0TWloWEVRU0NDTDVCZlVvSlprNm5za3J0OUwzMFRucVlmbThKQmtFZU1CTnlfS1hkTTh0TE5WaDZ2Rm1Jak5aN2ZLNHk2d1JoaTJHOGdYRmRaQV9weW1JZXRnVEtSR3ltakJZVzRUYTE5VTF6QUc3djFGcFZUSGpnWGtKaEltZnZuWVBRQ2tCWWpuODdzN0ttZw?oc=5",
       "published": "2025-09-07T17:07:19+00:00",
       "source": "Bleeding Green Nation"
-    },
-    {
-      "title": "Here is what the Eagles reportedly offered the Cowboys for Micah Parsons - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT052UUYwUHZsbFNKSm9za2FJZ2o5M093ZGVYZ2E2MV9GWnJDZmkwNXRiMWQxWk12Z08zUHhGS2NxV25rUjNzcVVXNzRBd3lrYVFfdkRXX2xUVGdqSFhsTXl2SWc3NFJiVGtfbDRfS1JiamdhNnNfZUlOMG83cHZKTGZKVmJvMmJoRXBKRDdnVEU?oc=5",
-      "published": "2025-09-07T17:00:00+00:00",
-      "source": "Yahoo Sports"
     },
     {
       "title": "Jay Glazer Reveals Huge Trade Package Eagles Offered Cowboys for Micah Parsons - Sports Illustrated",
