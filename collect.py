@@ -58,15 +58,11 @@ def ts_from_entry(entry) -> float:
     return time.time()
 
 def allow_item(item) -> bool:
-    # Trusted feeds always allowed
     if item.get("trusted"):
         return True
     blob = f"{item.get('title','')} {item.get('summary','')}".lower()
-
-    # Light inclusive filter so aggregators still get through
     if "eagles" not in blob and "philadelphia" not in blob and "phi" not in blob:
         return False
-
     for bad in getattr(feeds, "EXCLUDE_TOKENS", []):
         if bad.lower() in blob:
             return False
@@ -116,12 +112,10 @@ def main():
         if fd.get("trusted"):
             trusted_raw.extend(batch)
 
-    # First pass filtered
     filtered = [it for it in all_items if allow_item(it)]
     filtered = dedupe(filtered)
     filtered.sort(key=lambda x: x.get("published",""), reverse=True)
 
-    # Bootstrap if count is low → add trusted items until BOOTSTRAP_MIN
     if len(filtered) < BOOTSTRAP_MIN:
         trusted_raw = dedupe(trusted_raw)
         trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
@@ -134,7 +128,6 @@ def main():
             merged.append(it)
         filtered = merged
 
-    # Absolute fallback: never write an empty file
     if not filtered and trusted_raw:
         filtered = trusted_raw[:BOOTSTRAP_MIN]
 
