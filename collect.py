@@ -139,7 +139,7 @@ def main():
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "static_links": getattr(feeds, "STATIC_LINKS", []),
         "items": filtered,
-        "sources": sources,
+        "sources": sources
     }
 
     with open("items.json", "w", encoding="utf-8") as f:
