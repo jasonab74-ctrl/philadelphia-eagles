@@ -1,14 +1,16 @@
-
+# collect.py
 import re, json, time, html, sys
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse
 import requests, feedparser
 import feeds
 
-USER_AGENT = "TeamNewsCollector/1.1 (+https://github.com/)"
+# -------- Tunables --------
+USER_AGENT = "TeamNewsCollector/1.2 (+https://github.com/)"
 TIMEOUT = 12
-MAX_ITEMS = 80
-BOOTSTRAP_MIN = 1
+MAX_ITEMS = 120          # show more
+BOOTSTRAP_MIN = 12       # guarantee at least this many, using trusted feeds
+# --------------------------
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT})
@@ -31,6 +33,7 @@ def canonicalize(u: str) -> str:
 
 def normalize_title(t: str) -> str:
     t = html.unescape(t or "").strip()
+    # drop trailing " — Outlet" / " - Outlet"
     t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
     return re.sub(r"\s+", " ", t)
 
@@ -57,13 +60,22 @@ def ts_from_entry(entry) -> float:
     return time.time()
 
 def allow_item(item) -> bool:
+    """Looser but safe: allow trusted; otherwise require team or sport tokens and no excluded tokens."""
     if item.get("trusted"):
         return True
     blob = f"{item.get('title','')} {item.get('summary','')}".lower()
-    if getattr(feeds, "TEAM_KEYWORDS", []) and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
+
+    team_ok = True
+    if getattr(feeds, "TEAM_KEYWORDS", []):
+        team_ok = any(k.lower() in blob for k in feeds.TEAM_KEYWORDS)
+
+    sport_ok = True
+    if getattr(feeds, "SPORT_TOKENS", []):
+        sport_ok = any(s.lower() in blob for s in feeds.SPORT_TOKENS)
+
+    if not (team_ok and sport_ok):
         return False
-    if getattr(feeds, "SPORT_TOKENS", []) and not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
-        return False
+
     if any(b.lower() in blob for b in getattr(feeds, 'EXCLUDE_TOKENS', [])):
         return False
     return True
@@ -94,7 +106,8 @@ def dedupe(items):
     seen, out = set(), []
     for it in items:
         k = (it["title"].lower(), it["url"])
-        if k in seen: continue
+        if k in seen: 
+            continue
         seen.add(k); out.append(it)
     return out
 
@@ -103,19 +116,23 @@ def main():
     for fd in getattr(feeds, "FEEDS", []):
         batch = fetch_feed(fd)
         all_items.extend(batch)
-        if fd.get("trusted"): trusted_raw.extend(batch)
+        if fd.get("trusted"): 
+            trusted_raw.extend(batch)
 
+    # filter + dedupe
     filtered = [it for it in all_items if allow_item(it)]
     filtered = dedupe(filtered)
     filtered.sort(key=lambda x: x.get("published",""), reverse=True)
 
+    # bootstrap to guarantee content
     if len(filtered) < BOOTSTRAP_MIN:
         trusted_raw = dedupe(trusted_raw)
         trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
         merged, seen = [], set()
         for it in trusted_raw + filtered:
             k = (it["title"].lower(), it["url"])
-            if k in seen: continue
+            if k in seen: 
+                continue
             seen.add(k); merged.append(it)
         filtered = merged
 
