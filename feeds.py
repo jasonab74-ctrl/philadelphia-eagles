@@ -7,7 +7,7 @@ EXCLUDE_TOKENS = [
 ]
 
 FEEDS = [
-    # Trusted Eagles outlets
+    # Trusted Eagles outlets (guaranteed content)
     {"name": "Bleeding Green Nation",    "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
     {"name": "Eagles Wire (USA Today)",  "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
     {"name": "ESPN — Eagles",            "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
@@ -16,13 +16,13 @@ FEEDS = [
     {"name": "ProFootballTalk — Eagles", "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
     {"name": "CBS Sports — Eagles",      "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/rss/",      "trusted": True},
 
-    # Aggregators
+    # Aggregators (filtered by allow_item)
     {"name": "\"Philadelphia Eagles\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
     {"name": "Bing News — Philadelphia Eagles",
      "url": "https://www.bing.com/news/search?q=Philadelphia+Eagles&format=rss",
-     "trusted": False},
+     "trusted": False}
 ]
 
 STATIC_LINKS = [
