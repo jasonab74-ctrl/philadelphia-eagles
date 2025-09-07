@@ -1,9 +1,6 @@
-# feeds.py — Philadelphia Eagles
-
 TEAM_NAME = "Philadelphia Eagles"
 TEAM_SLUG = "philadelphia-eagles"
 
-# Keep/Drop rules for non-trusted feeds
 TEAM_KEYWORDS  = [
     "Eagles", "Philadelphia", "Philly",
     "Jalen Hurts", "Hurts", "Sirianni", "Nick Sirianni",
@@ -15,26 +12,21 @@ SPORT_TOKENS   = [
     "training camp", "preseason", "regular season", "playoffs", "Super Bowl"
 ]
 EXCLUDE_TOKENS = [
-    # Other Philly teams / noise
     "Flyers", "Sixers", "76ers", "Phillies", "Union",
     "NBA", "NHL", "MLB", "MLS",
     "women", "wbb", "soccer", "college"
 ]
 
-# Feeds
-# Mark reliable, team-specific outlets as trusted=True so they bypass filters
 FEEDS = [
-    # Official / league / major team outlets
-    {"name": "philadelphiaeagles.com",            "url": "https://www.philadelphiaeagles.com/rss/",                               "trusted": True},
-    {"name": "NFL.com — Philadelphia Eagles",     "url": "https://www.nfl.com/rss/team/phi",                                     "trusted": True},
-    {"name": "Eagles Wire (USA Today)",           "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
-    {"name": "Bleeding Green Nation",             "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
-    {"name": "ESPN — Eagles",                     "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
-    {"name": "Yahoo Sports — Eagles",             "url": "https://sports.yahoo.com/nfl/teams/phi/rss/",                           "trusted": True},
-    {"name": "SI — Eagles Today",                 "url": "https://www.si.com/nfl/eagles/.rss",                                    "trusted": True},
-    {"name": "ProFootballTalk — Eagles",          "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
+    {"name": "philadelphiaeagles.com",        "url": "https://www.philadelphiaeagles.com/rss/",                               "trusted": True},
+    {"name": "NFL.com — Philadelphia Eagles", "url": "https://www.nfl.com/rss/team/phi",                                     "trusted": True},
+    {"name": "Eagles Wire (USA Today)",       "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
+    {"name": "Bleeding Green Nation",         "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
+    {"name": "ESPN — Eagles",                 "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
+    {"name": "Yahoo Sports — Eagles",         "url": "https://sports.yahoo.com/nfl/teams/phi/rss/",                           "trusted": True},
+    {"name": "SI — Eagles Today",             "url": "https://www.si.com/nfl/eagles/.rss",                                    "trusted": True},
+    {"name": "ProFootballTalk — Eagles",      "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
 
-    # Broad aggregators (require keywords/tokens to pass)
     {"name": "\"Philadelphia Eagles\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
@@ -43,7 +35,6 @@ FEEDS = [
      "trusted": False},
 ]
 
-# Quick links (buttons row)
 STATIC_LINKS = [
     {"label":"Schedule","url":"https://www.philadelphiaeagles.com/schedule/"},
     {"label":"Roster","url":"https://www.philadelphiaeagles.com/team/players-roster/"},
