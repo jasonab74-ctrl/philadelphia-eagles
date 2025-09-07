@@ -1,12 +1,13 @@
 {
   "team": "Philadelphia Eagles",
   "slug": "philadelphia-eagles",
-  "updated_at": "2025-09-07T21:36:14.856929+00:00",
+  "updated_at": "2025-09-07T22:30:51.309505+00:00",
   "count": 50,
   "sources": [
     "6abc Philadelphia",
     "AL.com",
     "AP News",
+    "Barstool Sports",
     "Bing News — Philadelphia Eagles",
     "Bleeding Green Nation",
     "Blogging The Boys",
@@ -23,91 +24,141 @@
     "Inquirer.com",
     "Inside the Iggles",
     "Last Word On Sports",
-    "NBC News",
     "NBC Sports Philadelphia",
     "NBC10 Philadelphia",
     "NFL.com",
-    "NFLTradeRumors.co",
     "NJ.com",
     "New York Post",
+    "Newsweek",
+    "OregonLive.com",
     "PFF",
     "Philadelphia Eagles",
     "Sports Illustrated",
-    "TWSN Sports",
     "The New York Times",
-    "The News Journal",
     "The US Sun",
     "USA Today",
-    "Variety",
     "Yahoo Sports",
-    "Yahoo Sports — Eagles",
-    "yahoo.com"
+    "Yahoo Sports — Eagles"
   ],
   "items": [
     {
-      "title": "49ers' Kittle exits early with hamstring injury",
+      "title": "Ranking the greatest moments of USWNT, NWSL star Alex Morgan's career ahead of her jersey retirement",
+      "link": "https://www.espn.com/soccer/story/_/id/41161833/ranking-greatest-moments-uswnt-star-alex-morgan-career",
+      "published": "2025-09-07T23:21:41+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Questions, takeaways off every NFL Week 1 game: Have the Colts found their QB? Is the Bengals offense doing enough?",
+      "link": "https://www.espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "published": "2025-09-07T23:20:00+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Alcaraz bests Sinner to win US Open, sixth Slam",
+      "link": "https://www.espn.com/tennis/story/_/id/46190196/carlos-alcaraz-defeats-rival-jannik-sinner-us-open",
+      "published": "2025-09-07T23:18:31+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "After early TD, Kittle exits with hamstring injury",
       "link": "https://www.espn.com/nfl/story/_/id/46189846/george-kittle-exits-49ers-seahawks-hamstring-injury",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Illini, Noles crack AP top 10; USF enters at No. 18",
       "link": "https://www.espn.com/college-football/story/_/id/46187052/illinois-florida-state-crack-top-10-ap-poll-usf-no-18",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Rory wins 2nd Irish Open title in thrilling playoff",
       "link": "https://www.espn.com/golf/story/_/id/46187200/rory-mcilroy-wins-second-irish-open-title-thrilling-playoff",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Dončić's 42 leads Slovenia; Georgia ousts France",
       "link": "https://www.espn.com/olympics/story/_/id/46186793/luka-doncic-scores-42-carry-slovenia-georgia-stuns-france",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Phils' Turner, NL hits leader, injures hamstring",
       "link": "https://www.espn.com/mlb/story/_/id/46188422/phillies-trea-turner-leaves-game-hamstring-strain",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Ohtani's 2HRs bring struggling Dodgers to 'life'",
+      "link": "https://www.espn.com/mlb/story/_/id/46190264/shohei-ohtani-homers-twice-set-tone-struggling-dodgers",
+      "published": "2025-09-07T23:18:31+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Raleigh belts No. 53; M's club 5 HRs in 18-2 rout",
       "link": "https://www.espn.com/mlb/story/_/id/46189478/mariners-cal-raleigh-hits-mlb-leading-53rd-homer-18-2-rout",
-      "published": "2025-09-07T22:33:48+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Piastri: McLaren call to swap with Norris 'fair'",
-      "link": "https://www.espn.com/f1/story/_/id/46185735/oscar-piastri-says-mclaren-team-orders-lando-norris-was-fair",
-      "published": "2025-09-07T22:33:48+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "RB McCaffrey active to play in Niners' opener",
-      "link": "https://www.espn.com/nfl/story/_/id/46185260/49ers-christian-mccaffrey-play-vs-seahawks-source-says",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "👀 Best of NFL Week 1 arrivals and tunnel fits",
       "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
-      "published": "2025-09-07T22:33:48+00:00",
+      "published": "2025-09-07T23:18:31+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "True or false? What we think we know about SEC QBs, the Big 12, Oregon and more",
+      "link": "https://www.espn.com/college-football/story/_/id/46186770/true-false-week-2-college-football-season-arch-manning-oregon-clemson",
+      "published": "2025-09-07T23:17:21+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "AP Week 2 poll reaction: What's next for each Top 25 team",
+      "link": "https://www.espn.com/college-football/story/_/id/46158946/ap-college-football-week-2-poll-reaction",
+      "published": "2025-09-07T23:17:21+00:00",
       "source": "ESPN — Eagles"
     },
     {
       "title": "Early-game headlines: Fields-Wilson combo shines",
       "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "published": "2025-09-07T22:21:10+00:00",
+      "published": "2025-09-07T23:09:48+00:00",
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Questions, takeaways off every NFL Week 1 game: Have the Colts found their QB? Are the Chiefs in trouble?",
-      "link": "https://www.espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "2025-09-07T22:15:00+00:00",
+      "title": "'Nothing beats a Jet2 Holiday': Steelers' virtual jab at Jets tops Week 1 NFL trolls",
+      "link": "https://www.espn.com/nfl/story/_/id/46189810/nfl-week-1-trolls",
+      "published": "2025-09-07T22:59:39+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "U.S. loss to South Korea another misstep with World Cup prep time running out",
+      "link": "https://www.espn.com/soccer/story/_/id/46178808/usmnt-loss-south-korea-another-misstep-world-cup-prep",
+      "published": "2025-09-07T22:55:17+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Transfer rumors, news: Man City to rival Liverpool for Guéhi in January",
+      "link": "https://www.espn.com/soccer/story/_/id/46182937/transfer-rumors-news-man-city-rival-liverpool-guehi",
+      "published": "2025-09-07T22:47:58+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Will Fever make playoffs? Can Liberty still host? Breaking down the WNBA playoff picture",
+      "link": "https://www.espn.com/wnba/story/_/id/46162169/wnba-playoffs-2025-picture-postseason-race-berth",
+      "published": "2025-09-07T22:46:17+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "From Starkville to Gainesville, Week 2 offered its share of surprises",
+      "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal090625/college-football-week-2-highlights-top-plays-games-takeaways-2025",
+      "published": "2025-09-07T22:44:32+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Projecting the CFP top 12 after Week 2",
+      "link": "https://www.espn.com/college-football/story/_/id/46175969/projecting-college-football-playoff-top-12-week-2",
+      "published": "2025-09-07T22:44:32+00:00",
       "source": "ESPN — Eagles"
     },
     {
@@ -117,34 +168,10 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Ranking the greatest moments of USWNT, NWSL star Alex Morgan's career ahead of her jersey retirement",
-      "link": "https://www.espn.com/soccer/story/_/id/41161833/ranking-greatest-moments-uswnt-star-alex-morgan-career",
-      "published": "2025-09-07T21:40:08+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Saints' gold uniforms, Seahawks rare combo tops NFL Week 1 threads",
-      "link": "https://www.espn.com/nfl/story/_/id/46123761/nfl-2025-week-1-uniforms",
-      "published": "2025-09-07T21:35:19+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "From Starkville to Gainesville, Week 2 offered its share of surprises",
-      "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal090625/college-football-week-2-highlights-top-plays-games-takeaways-2025",
-      "published": "2025-09-07T21:34:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Projecting the CFP top 12 after Week 2",
-      "link": "https://www.espn.com/college-football/story/_/id/46175969/projecting-college-football-playoff-top-12-week-2",
-      "published": "2025-09-07T21:34:41+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "AP Week 2 poll reaction: What's next for each Top 25 team",
-      "link": "https://www.espn.com/college-football/story/_/id/46158946/ap-college-football-week-2-poll-reaction",
-      "published": "2025-09-07T21:34:35+00:00",
-      "source": "ESPN — Eagles"
+      "title": "NFL Insider Reveals Eagles' Jalen Carter Suspension Decision Update - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFFRb3dJZ0Nzb05DcURTUW9yb1RPM2RfTnV5Wm9Gcm9DRncxMVZiV1h3WjFOSWJ2MHRkOUk1aElzdmxqX0lpREdhTWI5RW9zUVM1NkRObEhodmlYYmZkOG04T0NwNkRQaThCNUp0MTExbFBSZWRuYnBDa2hCTk9LRWVnaV9hN1JoQXlmbEhkLUh5R1MwU095QWJMQy02blJNWFdKRUYxbkR6ekR3Zzdr?oc=5",
+      "published": "2025-09-07T21:27:13+00:00",
+      "source": "Newsweek"
     },
     {
       "title": "Eagles vs. Chiefs - Live Updates - September 14, 2025 - Inquirer.com",
@@ -157,12 +184,6 @@
       "link": "https://sports.yahoo.com/article/watch-texans-db-c-j-204046883.html",
       "published": "2025-09-07T20:40:46+00:00",
       "source": "Yahoo Sports — Eagles"
-    },
-    {
-      "title": "Former Eagles see varying early success in Sunday's first slate of NFL games - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2ZzZHhCbWVvNHNic2JCWDF2dUFaYWE4T0RjTVNoeG5SNVgxcXd2bEJqNjFUU21LSFhwd3M0SXJiQjhiX3hCWVo2MHJmN2ttdm93YXVsX2x2alBCSEFxaG5wRnhockwwcWcwVVlJX1huSHoyTjU5VTRuRnRVZm95b0FRSU00YXdVVndranhnMHp2UTVpREZHNG5wcS1WMHNVeGYxbFVYUzZUN2l2amRod1BXdVFFSmZjTWNhQk5iS2pmOW03NmV0amp3VXVzYzFSUGc?oc=5",
-      "published": "2025-09-07T20:17:53+00:00",
-      "source": "Eagles Wire"
     },
     {
       "title": "Former Eagles see varying early success in Sunday's first slate of NFL games",
@@ -207,16 +228,16 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "NFL Makes Final Call on Dak Prescott’s Role in Cowboys-Eagles Spitting Incident - Heavy Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1ZhWkNSZFExbm94bVdvUmFmb3pJQldoSW44cnF4cndWVnA1Y0JidnJlbE84UkhYQng1aXNmMEFHeTdFOFA5NzMzRW5lSGVvUUxCSGJDQURRV2NqeWhoUkJCNWtHeEFVektLLXRYcHFVWXdUdXBtYnVxU29mS2JGaUxHak1UbHdEZ3dtR2VlZw?oc=5",
-      "published": "2025-09-07T18:51:56+00:00",
-      "source": "Heavy Sports"
-    },
-    {
       "title": "Weather delays Travis Hunter's first game as Jaguars-Panthers game stops due to lightning",
       "link": "https://sports.yahoo.com/nfl/breaking-news/article/weather-delays-travis-hunters-first-game-as-jaguars-panthers-game-stops-due-to-lightning-184533715.html",
       "published": "2025-09-07T18:45:33+00:00",
       "source": "Yahoo Sports — Eagles"
+    },
+    {
+      "title": "Jerry Jones Is So Afraid Of The Eagles That He Turned Down The Biggest Offer For Micah Parsons - Barstool Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzNFSkFjY2F1bG9UVDJjTlpMVDN0OER0OG1yM2lUQTV6WlBmd2xxVUlQeXhOU2cwZWtpWVZzaTVLWUF1TjVNVHRTLWJnZmVEMmNJY3lXNHJZZTBVcy1sOXdPbHJ6Sk01cFU1NnVLSTdzSlBQZ1ZyY0wtU0w1MzB0dVgwRDhIaU5oNkhTNUw5Q0xlZDlmYi1aZDJCOC1GSGZrOExTd2p0cU8xRTNEWnpGMG9wdVc0cGpKaVBIT1FUdEdTLUp3OEpqRko1SmhjUUliMWRkZA?oc=5",
+      "published": "2025-09-07T18:45:00+00:00",
+      "source": "Barstool Sports"
     },
     {
       "title": "Cowboys turned down the ‘biggest offer’ from Eagles for Micah Parsons - New York Post",
@@ -243,28 +264,10 @@
       "source": "Yahoo Sports — Eagles"
     },
     {
-      "title": "Philadelphia Eagles Trade For Greg Newsome - TWSN Sports",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vV05EOXNMZkZPU000ZjdHWGY5SDAwSk1QTG5DcmhoWUkwSmNyTDZBUjJVdzMybmJ1S0ZNTW9DXzJvbE1CRFZMQ1dfdGNWQXdERXBmRElEbll0WTBpZXFSdllHb3htM05USElMNnBmYmJmY1NoeXZCTm5Lbw?oc=5",
-      "published": "2025-09-07T17:26:14+00:00",
-      "source": "TWSN Sports"
-    },
-    {
       "title": "Tyson Debuts 3 New NFL Team Nuggets For Football Season—Here's Where To Get Them",
       "link": "https://www.delish.com/food-news/a66003561/tyson-nfl-team-chicken-nuggets-where-to-buy/",
       "published": "2025-09-07T17:22:05+00:00",
       "source": "Yahoo Sports — Eagles"
-    },
-    {
-      "title": "Here's how badly the Eagles wanted Micah Parsons from the Cowboys - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWJnRjdGdDBVZzJxVDc3RG9RRTl0SGZiMmllNmptUUNxOVg3bzBMU2p6c2NLSGR0V3pqMzl5VHNrSEJwLUdBQlcybElPamVuZGFobUVNUnNKcmdxUlJ3aGl0aEhxeDJHWXMyZU9DOENRa0tXWmFkb05ZeEZ2YzdyT2xpNVc1UWZFMWJDSlBjNDZRRnJGMjBWeWJUSWxUUTJwdVc4S2U3NGx3dw?oc=5",
-      "published": "2025-09-07T17:16:51+00:00",
-      "source": "USA Today"
-    },
-    {
-      "title": "Eagles vs. Chiefs Super Bowl Rematch preview: Must win game for Kansas City? | FOX NFL Sunday - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdG15a2J5SXljcDRkZVV5SXFpUTdTU0ZqY0xWdzV3MjN2akZsMkZROE42MEFtYW9ZZFZLbzVvbXhLS08yNUlDLW9mYmM4eW9qcnVJSXhjQV85NVJjUEhHZHpaX29PQk5WcVdSY1ZKd3pNUjBlNXZxTXdSeHc4bjFXbXNR?oc=5",
-      "published": "2025-09-07T17:09:17+00:00",
-      "source": "yahoo.com"
     },
     {
       "title": "Eagles vs. Chiefs Super Bowl Rematch preview: Must win game for Kansas City? | FOX NFL Sunday - FOX Sports",
@@ -289,12 +292,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTURRRXpwejNZQy03Y1FLcmV6S0JBb21DQmYwTm9LR2Rwd0JseXNub0xhaGotODBHY2Z1Z0RLZEJNbk5ZVmNJa2xJZ2RDZENhQjNGLUMtZExVMU14WDFVTFlCMHcwYktKUWNiSm5VQlF6STdIdFRHd0pFN2FKeGF3Y1NOVldWaldIcGJrMHVQX0xPZw?oc=5",
       "published": "2025-09-07T16:55:04+00:00",
       "source": "Sports Illustrated"
-    },
-    {
-      "title": "NFL insider reveals what Eagles offered Cowboys for Micah Parsons - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmJPY0t1ZmpoT1FJcXA0bXVVZnVFNkN4LUU4YmoteHBzS0dKcGxHZE5HWUV0eTNQdmpEdUdQdEVQVHBwdHdIZ3I2RXU2Q09FVmlSNk1BVW42NzQ4dnlQeEJsX0VwSzUzRmxJX0xUbzd1YjB4VWRIbjNZd0lnZzY2dVcwaW1IZ1l1T3VxaFZSTDJzUnhhZmlqelFTbENJcThLd0Q2WDJaVdIBuwFBVV95cUxPRHhTYUxMbWtLdWRPY1BIdWJ3cXdWYUF5bkxEWC1aTnBqbzlyM1hlMlZKMG9WTmZUbzlnTk1jQW9VRWFGZ01NZGtxcEFoZ1NKNE9GalYzdk16a0tSR1BfaW43bUY2ZU1KR20tWlBsaUhQS001ODNacURYM19TaU9hM0lBZlBiWk9VMFR4V1U5OTQ3WGV6alFWYTRQbW9kWGY5UGpiWlVENktVV1NtSWVHd1BCcGpfOWUwck5r?oc=5",
-      "published": "2025-09-07T16:39:00+00:00",
-      "source": "NJ.com"
     },
     {
       "title": "Former Alabama prep star among 17 NFL team captains from state",
@@ -339,9 +336,9 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Eagles Have Open Roster Spot: What Will They Do? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejdmbEVfWUJWVGVremJCWUxYLWVDNzBwRDZKcEFLUkx2TEdsTUREQno4ZExwQ1hBeFNDdno0bTc4bWkwdlZrRWd0ajRlNWw1WkVyOTBEdkNCQV9LSVpDZDhiUVg2Q0dIXzYzUVpNLU1qQjRrTnVRTUlXTHdNOV9aNDRMWnpQVVdnWEVrTjF2VVNHaXBGVVg0andn?oc=5",
-      "published": "2025-09-07T15:15:55+00:00",
+      "title": "Nick Wright Has Wild Take For Eagles After Week 1 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXlnbDg1SmRZV3JUZ3ZTZXd2b1NMMEVUY0JhN2o0cHBfT2NTcTVtOXJFZ0x1RmoxNUNFdThjMjdWU2JRWUFZWWd0OFBqUU43RHdJcDh0Rkh6R1R1ajdIcUhPWUZRYjJwNDhiNEQ5Q0s2Nmh0VXZBV1lTZWFoZ21mT3o0VUE3anVMeUR6blpBdGF3b0k?oc=5",
+      "published": "2025-09-07T15:00:00+00:00",
       "source": "Sports Illustrated"
     }
   ]
