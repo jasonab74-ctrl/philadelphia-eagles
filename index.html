@@ -1,105 +1,203 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Philadelphia Eagles — News</title>
-  <link rel="stylesheet" href="static/style.css" />
-  <link rel="icon" href="static/favicon.ico" />
-  <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
-  <link rel="manifest" href="static/manifest.webmanifest" />
+  <meta charset="utf-8" />
+  <title>Team News</title>
+
+  <!-- Viewport & iOS standalone fixes -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <!-- PWA icons/manifest (safe if present, ignored if not) -->
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png">
+  <link rel="icon" href="static/favicon.ico">
+  <link rel="manifest" href="static/manifest.webmanifest">
+
+  <link rel="stylesheet" href="static/style.css?v=7">
 </head>
 <body>
-  <header>
-    <img src="static/logo.png" alt="Eagles logo" class="logo" />
-    <div>
-      <h1>Philadelphia Eagles — News</h1>
-      <small>Live team feed • auto-updates</small>
+  <header class="hero">
+    <div class="hero-left">
+      <img id="team-logo" class="logo" src="static/logo.png" alt="Team logo" loading="eager">
+      <div class="titles">
+        <h1 id="page-title">Philadelphia Eagles — News</h1>
+        <p class="subtitle">Live team feed • auto-updates</p>
+      </div>
     </div>
-    <button id="songBtn" class="pill" onclick="toggleSong()">Fly Eagles Fly</button>
+
+    <button id="songBtn" class="pill pill-play" aria-pressed="false" title="Play fight song">
+      Fly Eagles Fly
+    </button>
+    <audio id="fightSong" preload="auto" src="static/fly-eagles-fly.mp3"></audio>
   </header>
 
-  <audio id="fightSong" preload="none">
-    <source src="static/fly-eagles-fly.mp3" type="audio/mpeg" />
-  </audio>
+  <nav id="quick-links" class="links"></nav>
 
-  <nav id="quick-links"></nav>
+  <section class="toolbar">
+    <label class="lbl">Source:</label>
+    <select id="sourceSelect" class="select"></select>
 
-  <main>
-    <div class="controls">
-      <label for="sourceSelect">Source:</label>
-      <select id="sourceSelect"><option value="all">All sources</option></select>
-      <span id="updated"></span>
+    <div class="updated">
+      <span class="lbl">Updated:</span>
+      <span id="updatedAt">—</span>
     </div>
-    <div id="feed" class="feed"></div>
-  </main>
+  </section>
 
-  <footer><p>Fly Eagles Fly 🦅</p></footer>
+  <main id="items" class="cards"></main>
+
+  <template id="link-pill">
+    <a class="pill" target="_blank" rel="noopener"></a>
+  </template>
+
+  <template id="card">
+    <article class="card">
+      <a class="card-link" target="_blank" rel="noopener">
+        <h3 class="title"></h3>
+        <div class="meta">
+          <span class="source"></span>
+          <span class="dot">•</span>
+          <time class="time"></time>
+        </div>
+      </a>
+    </article>
+  </template>
+
+  <footer class="footer">Powered by GitHub Pages</footer>
 
   <script>
-    // fight song
-    const audioEl = document.getElementById('fightSong');
-    const songBtn = document.getElementById('songBtn');
-    function toggleSong() {
-      if (!audioEl) return;
-      if (audioEl.paused) {
-        audioEl.currentTime = 0;
-        audioEl.play().then(() => {
-          songBtn.classList.add('playing'); songBtn.textContent = '⏸ Pause';
-        }).catch(()=>alert('Tap again to allow audio playback.'));
-      } else {
-        audioEl.pause(); songBtn.classList.remove('playing'); songBtn.textContent = 'Fly Eagles Fly';
-      }
-    }
-    window.addEventListener('pagehide', () => { try { audioEl.pause(); } catch(e){} });
-
-    async function loadFeed() {
+    // --- Simple utilities
+    const $ = (q, el=document) => el.querySelector(q);
+    const $$ = (q, el=document) => Array.from(el.querySelectorAll(q));
+    const fmtTime = (iso) => {
       try {
-        const res = await fetch('items.json?v=' + Date.now());
-        const data = await res.json();
-        renderFeed(data);
+        const d = new Date(iso);
+        if (isNaN(d)) return "—";
+        return d.toLocaleString(undefined, {
+          year: "numeric", month: "numeric", day: "numeric",
+          hour: "numeric", minute: "2-digit", second: "2-digit"
+        });
+      } catch { return "—"; }
+    };
+
+    // --- Fight song button
+    const audio = $("#fightSong");
+    const btn = $("#songBtn");
+    btn?.addEventListener("click", () => {
+      if (!audio) return;
+      if (audio.paused) {
+        audio.currentTime = 0;
+        audio.play().catch(()=>{});
+        btn.classList.add("playing");
+        btn.setAttribute("aria-pressed", "true");
+      } else {
+        audio.pause();
+        btn.classList.remove("playing");
+        btn.setAttribute("aria-pressed", "false");
+      }
+    });
+    audio?.addEventListener("ended", () => {
+      btn.classList.remove("playing");
+      btn.setAttribute("aria-pressed", "false");
+    });
+
+    // --- Load items.json
+    const ITEMS_URL = "items.json?v=" + Date.now(); // bust cache on load
+    let ALL = { items: [], sources: [], updated_at: null };
+
+    async function load() {
+      try {
+        const r = await fetch(ITEMS_URL, { cache: "no-store" });
+        if (!r.ok) throw new Error("items.json fetch failed");
+        ALL = await r.json();
+        render();
       } catch (e) {
-        console.error('feed error', e);
+        console.warn(e);
+        $("#items").innerHTML =
+          `<p class="empty">No articles yet — the collector will populate shortly.</p>`;
       }
     }
-    function renderFeed(data) {
-      const feedEl = document.getElementById('feed');
-      const srcSel = document.getElementById('sourceSelect');
-      const updatedEl = document.getElementById('updated');
-      feedEl.innerHTML = '';
-      srcSel.innerHTML = '<option value="all">All sources</option>';
-      if (!data || !data.items) return;
 
-      (data.sources || []).forEach(src => {
-        const opt = document.createElement('option');
-        opt.value = src; opt.textContent = src; srcSel.appendChild(opt);
+    // --- Render
+    function render() {
+      // Updated timestamp
+      $("#updatedAt").textContent = ALL.updated_at ? fmtTime(ALL.updated_at) : "—";
+
+      // Fill source dropdown
+      const select = $("#sourceSelect");
+      select.innerHTML = "";
+      const optAll = document.createElement("option");
+      optAll.value = "";
+      optAll.textContent = "All sources";
+      select.appendChild(optAll);
+      (ALL.sources || []).forEach(s => {
+        const o = document.createElement("option");
+        o.value = s;
+        o.textContent = s;
+        select.appendChild(o);
       });
 
-      if (data.updated_at) {
-        updatedEl.textContent = 'Updated: ' + new Date(data.updated_at).toLocaleString();
-      }
+      // Quick links (STATIC_LINKS shipped in items.json as convenience)
+      const linksWrap = $("#quick-links");
+      linksWrap.innerHTML = "";
+      const pillTpl = $("#link-pill");
+      (ALL.links || []).forEach(({label, url}) => {
+        const a = pillTpl.content.firstElementChild.cloneNode(true);
+        a.textContent = label;
+        a.href = url;
+        linksWrap.appendChild(a);
+      });
 
-      function paint(list) {
-        feedEl.innerHTML = '';
-        list.forEach(item => {
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML = `
-            <a href="${item.link}" target="_blank" rel="noopener">
-              <h3>${item.title}</h3>
-              <p class="meta">${item.source} • ${new Date(item.published).toLocaleString()}</p>
-            </a>`;
-          feedEl.appendChild(card);
-        });
-      }
-      paint(data.items);
-      srcSel.onchange = () => {
-        const val = srcSel.value;
-        paint(data.items.filter(i => val === 'all' || i.source === val));
-      };
+      // Cards
+      drawCards();
+      select.addEventListener("change", drawCards, { once: true });
     }
-    loadFeed();
-    setInterval(loadFeed, 5 * 60 * 1000);
+
+    function drawCards() {
+      const crit = $("#sourceSelect").value;
+      const wrap = $("#items");
+      wrap.innerHTML = "";
+      const tpl = $("#card");
+
+      let list = (ALL.items || []).slice(0, 50); // cap to 50 most recent
+      if (crit) list = list.filter(x => x.source === crit);
+
+      if (!list.length) {
+        wrap.innerHTML = `<p class="empty">No matching articles.</p>`;
+        return;
+      }
+      for (const it of list) {
+        const node = tpl.content.firstElementChild.cloneNode(true);
+        const a = $(".card-link", node);
+        const h = $(".title", node);
+        const s = $(".source", node);
+        const t = $(".time", node);
+
+        a.href = it.link;
+        h.textContent = it.title;
+        s.textContent = it.source || "";
+        t.textContent = fmtTime(it.published || it.date);
+
+        wrap.appendChild(node);
+      }
+    }
+
+    // --- Client-side auto-refresh (compare items.json every 5 min)
+    const REFRESH_MS = 5 * 60 * 1000;
+    setInterval(async () => {
+      try {
+        const r = await fetch("items.json?v=" + Date.now(), { cache: "no-store" });
+        if (!r.ok) return;
+        const fresh = await r.json();
+        if ((fresh.items?.length || 0) > (ALL.items?.length || 0) ||
+            fresh.updated_at !== ALL.updated_at) {
+          ALL = fresh;
+          render();
+        }
+      } catch {}
+    }, REFRESH_MS);
+
+    load();
   </script>
 </body>
 </html>
