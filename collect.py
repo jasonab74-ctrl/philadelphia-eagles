@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-# collect.py — generic collector with Eagles-ready defaults
+# collect.py — Eagles-tuned collector
 #
-# - Pulls FEEDS from feeds.py
-# - Filters to team content but "bootstraps" if volume is low
-# - Dedupe by canonical URL + normalized title
+# - Prefers trusted feeds but now requires team signal (title or URL looks NFL/Eagles)
+# - Filters obvious non-team noise
+# - Dedupe by URL+title
 # - Writes items.json with sources + updated_at
 #
-# Requirements: feedparser, requests
+# pip install feedparser requests
 
 from __future__ import annotations
 import json, re, time, hashlib, html, pathlib, sys
@@ -15,24 +15,23 @@ from urllib.parse import urlparse, parse_qs, urlunparse, unquote
 
 import feedparser  # type: ignore
 
-# ---- project config (from feeds.py) -----------------------------------------
+# ---- project config ----------------------------------------------------------
 try:
     from feeds import FEEDS, TEAM_NAME, TEAM_SLUG, EXCLUDE_TOKENS
 except Exception as e:
     print(f"[collector] ERROR importing feeds.py: {e}", file=sys.stderr)
     raise
 
-# ---- knobs ------------------------------------------------------------------
-MAX_ITEMS       = 150   # cap for written items
-BOOTSTRAP_MIN   = 16    # ensure at least this many render on page
-RECENT_DAYS_MAX = 14    # prefer posts in the last N days
+# ---- knobs -------------------------------------------------------------------
+MAX_ITEMS       = 50    # <= requested hard cap
+BOOTSTRAP_MIN   = 16    # floor so the page never looks empty
+RECENT_DAYS_MAX = 14    # (kept for future use)
 
 # ---- helpers ----------------------------------------------------------------
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 def to_timestamp(entry) -> float:
-    # prefer published/updated parsed time; fallback to now
     for key in ("published_parsed", "updated_parsed"):
         ts = getattr(entry, key, None) or entry.get(key)
         if ts:
@@ -43,15 +42,13 @@ def to_timestamp(entry) -> float:
     return time.time()
 
 def strip_tracking(u: str) -> str:
-    # remove common tracking params and unwrap Google News/bing redirects
     if not u:
         return u
     try:
-        # Google News often wraps as ...url=ENCODED
         parsed = urlparse(u)
         q = parse_qs(parsed.query)
 
-        # unwrap if there is a single 'url' param that looks like http(s)
+        # Unwrap Google News redirects (url=)
         if "url" in q and q["url"]:
             candidate = unquote(q["url"][0])
             if candidate.startswith("http://") or candidate.startswith("https://"):
@@ -59,8 +56,8 @@ def strip_tracking(u: str) -> str:
                 parsed = urlparse(u)
                 q = parse_qs(parsed.query)
 
-        # rebuild without common trackers
-        drop = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id","ncid","ref","fbclid","gclid"}
+        drop = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id",
+                "ncid","ref","fbclid","gclid"}
         new_q = []
         for k, vals in q.items():
             if k.lower() in drop:
@@ -77,14 +74,25 @@ def norm_title(t: str) -> str:
     t = re.sub(r"\s+", " ", t)
     return t
 
-def looks_like_team(text: str) -> bool:
-    """Loose allow-list: keep if it obviously mentions the team."""
+def looks_like_team_title_or_source(text: str) -> bool:
     t = (text or "").lower()
-    if "eagles" in t:   # team nickname is the strongest signal
-        return True
-    if "philadelphia eagles" in t:
-        return True
-    return False
+    return ("eagles" in t) or ("philadelphia eagles" in t)
+
+def looks_like_team_url(u: str) -> bool:
+    try:
+        p = urlparse(u)
+        path = (p.path or "").lower()
+        query = (p.query or "").lower()
+        net = (p.netloc or "").lower()
+        if "eagles" in path or "philadelphia-eagles" in path:
+            return True
+        if "/nfl/" in path or net.endswith("nfl.com"):
+            return True
+        if "team=phi" in query:
+            return True
+        return False
+    except Exception:
+        return False
 
 def is_excluded(text: str) -> bool:
     t = (text or "")
@@ -94,7 +102,6 @@ def is_excluded(text: str) -> bool:
     return False
 
 def extract_source(entry, feed_name: str) -> str:
-    # prefer entry.source.title if present (some feeds set it)
     src = ""
     try:
         src = getattr(getattr(entry, "source", None), "title", "") or ""
@@ -102,9 +109,7 @@ def extract_source(entry, feed_name: str) -> str:
         src = ""
     if not src:
         src = feed_name or ""
-    # normalize some known patterns like "SI.com - Eagles Today" → "SI — Eagles Today"
-    src = src.replace(" - ", " — ")
-    return src.strip() or "Unknown"
+    return (src.replace(" - ", " — ").strip() or "Unknown")
 
 def entry_to_item(entry, feed_name: str) -> dict:
     title = norm_title(getattr(entry, "title", "") or entry.get("title", ""))
@@ -113,7 +118,6 @@ def entry_to_item(entry, feed_name: str) -> dict:
     published_ts = to_timestamp(entry)
     published_iso = datetime.fromtimestamp(published_ts, tz=timezone.utc).isoformat()
     source = extract_source(entry, feed_name)
-
     return {
         "title": title,
         "link": link,
@@ -131,7 +135,6 @@ def collect() -> dict:
     seen: set[str] = set()
     sources_set: set[str] = set()
 
-    # sort feeds so trusted run first (better for bootstrap)
     feeds_sorted = sorted(FEEDS, key=lambda f: (not f.get("trusted"), f.get("name","").lower()))
 
     for f in feeds_sorted:
@@ -144,66 +147,66 @@ def collect() -> dict:
         entries = parsed.entries or []
 
         for e in entries:
-            item = entry_to_item(e, fname)
-
-            # basic dedupe key: canonical url + title
-            key = hashlib.sha1((item["link"] + " | " + item["title"].lower()).encode("utf-8")).hexdigest()
+            it = entry_to_item(e, fname)
+            key = hashlib.sha1((it["link"] + " | " + it["title"].lower()).encode("utf-8")).hexdigest()
             if key in seen:
                 continue
 
-            # filtering
-            title_ok = looks_like_team(item["title"])
-            src_ok   = looks_like_team(item["source"])
-            trusted  = feed_is_trusted(f)
-
-            # exclude obvious wrong-sport/noise
-            if is_excluded(item["title"]):
+            # drop obvious noise by title
+            if is_excluded(it["title"]):
                 continue
 
-            # accept if trusted or clearly team
-            keep = trusted or title_ok or src_ok
+            # acceptance rules
+            trusted = feed_is_trusted(f)
+            title_hit  = looks_like_team_title_or_source(it["title"])
+            source_hit = looks_like_team_title_or_source(it["source"])
+            url_hit    = looks_like_team_url(it["link"])
 
-            # recency preference: allow older stories but score them lower
-            # (sorting by published_ts at end will already handle freshness)
+            # NEW: trusted also needs team-in-title OR NFL/team-ish URL
+            if trusted:
+                keep = title_hit or url_hit or source_hit
+            else:
+                keep = title_hit or source_hit
 
-            if keep:
-                seen.add(key)
-                items.append(item)
-                sources_set.add(item["source"])
+            if not keep:
+                continue
 
-    # Bootstrap: if volume low, relax and keep first N from trusted feeds titles regardless,
-    # because trusted sources are team-specific.
+            seen.add(key)
+            items.append(it)
+            sources_set.add(it["source"])
+
+    # Bootstrap to ensure page looks alive
     if len(items) < BOOTSTRAP_MIN:
-        print(f"[collector] bootstrap engaged (have {len(items)}, need {BOOTSTRAP_MIN})")
         extras: list[dict] = []
         for f in feeds_sorted:
             if not feed_is_trusted(f):
                 continue
             parsed = feedparser.parse(f.get("url",""))
             for e in parsed.entries or []:
-                item = entry_to_item(e, f.get("name","Feed"))
-                if is_excluded(item["title"]):
+                it = entry_to_item(e, f.get("name","Feed"))
+                if is_excluded(it["title"]):
                     continue
-                key = hashlib.sha1((item["link"] + " | " + item["title"].lower()).encode("utf-8")).hexdigest()
+                # still require at least a weak signal for bootstrap
+                if not (looks_like_team_title_or_source(it["title"]) or looks_like_team_url(it["link"]) or looks_like_team_title_or_source(it["source"])):
+                    continue
+                key = hashlib.sha1((it["link"] + " | " + it["title"].lower()).encode("utf-8")).hexdigest()
                 if key in seen:
                     continue
                 seen.add(key)
-                extras.append(item)
-                sources_set.add(item["source"])
-        # add until we reach floor
-        if extras:
-            # sort extras newest first and take enough to reach BOOTSTRAP_MIN
-            extras.sort(key=lambda x: x["published_ts"], reverse=True)
-            need = max(0, BOOTSTRAP_MIN - len(items))
+                extras.append(it)
+                sources_set.add(it["source"])
+        extras.sort(key=lambda x: x["published_ts"], reverse=True)
+        need = max(0, BOOTSTRAP_MIN - len(items))
+        if need:
             items.extend(extras[:need])
 
-    # Final sort newest → oldest, trim, and drop helper field
+    # sort newest first, trim, drop helper field
     items.sort(key=lambda x: x["published_ts"], reverse=True)
     items = items[:MAX_ITEMS]
     for it in items:
         it.pop("published_ts", None)
 
-    out = {
+    return {
         "team": TEAM_NAME,
         "slug": TEAM_SLUG,
         "updated_at": now_iso(),
@@ -211,13 +214,10 @@ def collect() -> dict:
         "sources": sorted(sources_set),
         "items": items
     }
-    return out
 
-# ---- main -------------------------------------------------------------------
 def main():
     data = collect()
-    p = pathlib.Path("items.json")
-    p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    pathlib.Path("items.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[collector] wrote {data['count']} items; {len(data['sources'])} sources; updated items.json")
 
 if __name__ == "__main__":
