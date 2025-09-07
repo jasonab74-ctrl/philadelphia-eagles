@@ -1,15 +1,17 @@
 {
   "team": "Philadelphia Eagles",
   "slug": "philadelphia-eagles",
-  "updated_at": "2025-09-07T18:40:50.257838+00:00",
+  "updated_at": "2025-09-07T19:20:19.471018+00:00",
   "count": 50,
   "sources": [
     "6abc Philadelphia",
     "AL.com",
     "AP News",
+    "Athlon Sports",
     "Bing News — Philadelphia Eagles",
     "Bleeding Green Nation",
     "Blogging The Boys",
+    "Bolt Beat",
     "CBS News",
     "CNN",
     "Crossing Broad",
@@ -17,33 +19,89 @@
     "ESPN",
     "ESPN — Eagles",
     "Eagles Wire",
+    "FOX Sports",
+    "Fox News",
     "Heavy Sports",
     "Hogs Haven",
     "Inquirer.com",
     "Inside the Iggles",
-    "Last Word On Sports",
+    "Milwaukee Journal Sentinel",
+    "NBC News",
     "NBC Sports Philadelphia",
     "NBC10 Philadelphia",
     "NFL.com",
-    "NFLTradeRumors.co",
     "NJ.com",
     "New York Post",
     "PFF",
     "Philadelphia Eagles",
+    "PhillyVoice",
     "Sports Illustrated",
     "TWSN Sports",
-    "The New York Times",
+    "The Morning Call",
     "The News Journal",
     "The US Sun",
     "USA Today",
     "Variety",
-    "WGAL",
     "Yahoo Sports",
     "Yahoo Sports — Eagles",
     "sportingnews.com",
     "uk.sports.yahoo.com"
   ],
   "items": [
+    {
+      "title": "Illini, Noles crack AP top 10; USF enters at No. 18",
+      "link": "https://www.espn.com/college-football/story/_/id/46187052/illinois-florida-state-crack-top-10-ap-poll-usf-no-18",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Rory wins 2nd Irish Open title in thrilling playoff",
+      "link": "https://www.espn.com/golf/story/_/id/46187200/rory-mcilroy-wins-second-irish-open-title-thrilling-playoff",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Dončić's 42 leads Slovenia; Georgia ousts France",
+      "link": "https://www.espn.com/olympics/story/_/id/46186793/luka-doncic-scores-42-carry-slovenia-georgia-stuns-france",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Piastri: McLaren call to swap with Norris 'fair'",
+      "link": "https://www.espn.com/f1/story/_/id/46185735/oscar-piastri-says-mclaren-team-orders-lando-norris-was-fair",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "RB McCaffrey active to play in Niners' opener",
+      "link": "https://www.espn.com/nfl/story/_/id/46185260/49ers-christian-mccaffrey-play-vs-seahawks-source-says",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Melo, Howard, Moore, Bird join hoops Hall of Fame",
+      "link": "https://www.espn.com/espn/story/_/id/46180298/carmelo-anthony-dwight-howard-maya-moore-enter-hall-fame",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Belichick wins 1st at UNC, confirms Patriots ban",
+      "link": "https://www.espn.com/college-football/story/_/id/46181582/belichick-wins-first-unc-confirms-ban-patriots-scouts",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Ducks dominate after Gundy 'pours gas on fire'",
+      "link": "https://www.espn.com/college-football/story/_/id/46180247/oregon-dominates-cowboys-gundy-pours-gasoline-fire",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
+    {
+      "title": "👀 Best of NFL Week 1 arrivals and tunnel fits",
+      "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
+      "published": "2025-09-07T19:41:30+00:00",
+      "source": "ESPN — Eagles"
+    },
     {
       "title": "From Starkville to Gainesville, Week 2 offered its share of surprises",
       "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal090625/college-football-week-2-highlights-top-plays-games-takeaways-2025",
@@ -57,64 +115,16 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Illini, Noles crack AP top 10; USF enters at No. 18",
-      "link": "https://www.espn.com/college-football/story/_/id/46187052/illinois-florida-state-crack-top-10-ap-poll-usf-no-18",
-      "published": "2025-09-07T19:33:26+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
       "title": "AP Week 2 poll reaction: What's next for each Top 25 team",
       "link": "https://www.espn.com/college-football/story/_/id/46158946/ap-college-football-week-2-poll-reaction",
       "published": "2025-09-07T19:33:16+00:00",
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Carter awaits discipline amid sportsmanship push",
-      "link": "https://www.espn.com/nfl/story/_/id/46176234/jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship",
-      "published": "2025-09-07T19:23:22+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Piastri: McLaren call to swap with Norris 'fair'",
-      "link": "https://www.espn.com/f1/story/_/id/46185735/oscar-piastri-says-mclaren-team-orders-lando-norris-was-fair",
-      "published": "2025-09-07T19:22:54+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "RB McCaffrey active to play in Niners' opener",
-      "link": "https://www.espn.com/nfl/story/_/id/46185260/49ers-christian-mccaffrey-play-vs-seahawks-source-says",
-      "published": "2025-09-07T19:22:30+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Dončić's 42 leads Slovenia; Georgia ousts France",
-      "link": "https://www.espn.com/olympics/story/_/id/46186793/luka-doncic-scores-42-carry-slovenia-georgia-stuns-france",
-      "published": "2025-09-07T19:22:30+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Melo, Howard, Moore, Bird join hoops Hall of Fame",
-      "link": "https://www.espn.com/espn/story/_/id/46180298/carmelo-anthony-dwight-howard-maya-moore-enter-hall-fame",
-      "published": "2025-09-07T19:22:30+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Belichick wins 1st at UNC, confirms Patriots ban",
-      "link": "https://www.espn.com/college-football/story/_/id/46181582/belichick-wins-first-unc-confirms-ban-patriots-scouts",
-      "published": "2025-09-07T19:22:30+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Ducks dominate after Gundy 'pours gas on fire'",
-      "link": "https://www.espn.com/college-football/story/_/id/46180247/oregon-dominates-cowboys-gundy-pours-gasoline-fire",
-      "published": "2025-09-07T19:22:30+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "👀 Best of NFL Week 1 arrivals and tunnel fits",
-      "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
-      "published": "2025-09-07T19:22:30+00:00",
-      "source": "ESPN — Eagles"
+      "title": "NFL Rumors: The Eagles offered a lot of draft capital for Micah Parsons - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZkZrdDFmTnF2cVRJdEdROXpWZVBudElERUtmSXh1Tm01bDV1SWFRSk1GNVd2TFZOV01lWXp2bGdMNEdXZWM3VEloYUJOUC1iSWJQOWM3dlgxN0JabHBRWVIyY2xGSWhIa2R1U3hlM2JYWWl1em9vX1VrQ2FjekFkZUZQdVlHdXVHSktTWF8tc25sekJvUy1aeHZCQ1pTcmhKNFlFc2xOZW0xS0lHN05rdENBemlYWEphRkRFS0hHQTJKRUFHSEZ4SU1xRXU4dlZMbkgwRXZMTUoxZzdDUEtFdnNFa0ZoRG1RZm1TZlhn0gGrAUFVX3lxTFB0d2VWTC1XanBpRWhDMEUtOWIybEl0QUtZS3h3TUlyOU5KOVljZzBJRTlLck9xWXNwVTRjSjJjRlBTTDhYakd0NklYeEpabHVXYjdmR3Q0UnotZDN2aXdjQWwzNVlBWjNESGJCcFczWEp3SUJVSzM2NmRnNG5maDFfazUtczQtbmVDbk9kbTV0TlAyaEpRNE9FS3ZmSDhpS3RfX2lqOFZZUnZ4WQ?oc=5",
+      "published": "2025-09-07T19:10:08+00:00",
+      "source": "PhillyVoice"
     },
     {
       "title": "Ranking the greatest moments of USWNT, NWSL star Alex Morgan's career ahead of her jersey retirement",
@@ -153,7 +163,25 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "Bucs' Baker Mayfield finds Emeka Egbuka for 30-yard touchdown pass",
+      "title": "NFL Makes Final Call on Dak Prescott’s Role in Cowboys-Eagles Spitting Incident - Heavy Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1ZhWkNSZFExbm94bVdvUmFmb3pJQldoSW44cnF4cndWVnA1Y0JidnJlbE84UkhYQng1aXNmMEFHeTdFOFA5NzMzRW5lSGVvUUxCSGJDQURRV2NqeWhoUkJCNWtHeEFVektLLXRYcHFVWXdUdXBtYnVxU29mS2JGaUxHak1UbHdEZ3dtR2VlZw?oc=5",
+      "published": "2025-09-07T18:51:56+00:00",
+      "source": "Heavy Sports"
+    },
+    {
+      "title": "Weather delays Travis Hunter's first game as Jaguars-Panthers game stops due to lightning",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/weather-delays-travis-hunters-first-game-as-jaguars-panthers-game-stops-due-to-lightning-184533715.html",
+      "published": "2025-09-07T18:45:33+00:00",
+      "source": "Yahoo Sports — Eagles"
+    },
+    {
+      "title": "Eagles vs. Rams 2025 tickets: Cheapest prices, best seats & more for Week 3 NFL game in Philadelphia - sportingnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjA1c0l3czdUWVBSV05RZXl3Tkx5aFdMeHdLVmNiLVVManBxS0hiMXI5aTZCeGJiYVZJaFFubVlyWWhzM3JxLUZjWjJ4dWJRTXV0d1BwODFrblVQVE5DcFRHbGZTOFNvd2M4UXFYZEc3UTJQaGt6MnlTMjg2MlhOd3JvXzN6TWl5ZmdQSnN1VDcwTFd1WGVFakZwV09Tb0U4UFNtbUtNWXh6WlU2RTdLaW85d2ZwbU9SSDBzSHk5TFc?oc=5",
+      "published": "2025-09-07T18:40:23+00:00",
+      "source": "sportingnews.com"
+    },
+    {
+      "title": "Bucs' Baker Mayfield hits Bucky Irving with 10-yard go-ahead TD pass",
       "link": "https://www.espn.com/nfl/story/_/id/46158632/falcons-buccaneers-nfl-week-1-highlights-touchdowns-plays",
       "published": "2025-09-07T18:40:13+00:00",
       "source": "ESPN — Eagles"
@@ -163,6 +191,12 @@
       "link": "https://www.espn.com/nfl/story/_/id/46148617/commanders-giants-nfl-week-1-highlights-touchdowns-plays",
       "published": "2025-09-07T18:40:12+00:00",
       "source": "ESPN — Eagles"
+    },
+    {
+      "title": "Cowboys turned down the ‘biggest offer’ from Eagles for Micah Parsons - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGU3VmsxQWxFaUF4OHRLcXhMYlpsX2tmSGRFQkhxZGpzaFZFUnE5bGltZ3pUZ3JwUEdVU2VOaXhxTFY4eTdIWThkZk43NDgzYU14YzFZaGM4VXVaQWt4OHJKZ0Nib2xXUFFOaTZQTG1LeEl2cEJER1UwVHlaODFFcFB6bHJpMmN4bXp5VnBkTkc5OGczRVFCMUluX0RNa0RXRUhOQlRaYjc?oc=5",
+      "published": "2025-09-07T18:25:00+00:00",
+      "source": "New York Post"
     },
     {
       "title": "Kellen Moore's Saints draw a foul on their first 'Tush Push' attempt",
@@ -201,6 +235,12 @@
       "source": "Yahoo Sports — Eagles"
     },
     {
+      "title": "Here's how badly the Eagles wanted Micah Parsons from the Cowboys - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWJnRjdGdDBVZzJxVDc3RG9RRTl0SGZiMmllNmptUUNxOVg3bzBMU2p6c2NLSGR0V3pqMzl5VHNrSEJwLUdBQlcybElPamVuZGFobUVNUnNKcmdxUlJ3aGl0aEhxeDJHWXMyZU9DOENRa0tXWmFkb05ZeEZ2YzdyT2xpNVc1UWZFMWJDSlBjNDZRRnJGMjBWeWJUSWxUUTJwdVc4S2U3NGx3dw?oc=5",
+      "published": "2025-09-07T17:16:51+00:00",
+      "source": "USA Today"
+    },
+    {
       "title": "Insider reveals mitigating factors that could impact Jalen Carter's suspension decision",
       "link": "https://sports.yahoo.com/article/insider-reveals-mitigating-factors-could-171525366.html",
       "published": "2025-09-07T17:15:25+00:00",
@@ -211,6 +251,18 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUndxQ3Y4cjUzS0hXVDcyMTkwal83UUt0UnR3QlRsNXI5MUdadkttaXhndWhsMUNzUWJpTGVyVkpTUXpyeDA0SndBVVA0RnNtaHBFUzB0Z1hMU09vOWZkdG9HMkh1NXpGTUhEaFktelZCVnEyNjhPSDdCWnpwc1RhMnBKS19GQQ?oc=5",
       "published": "2025-09-07T17:12:03+00:00",
       "source": "uk.sports.yahoo.com"
+    },
+    {
+      "title": "Eagles vs. Chiefs Super Bowl Rematch preview: Must win game for Kansas City? | FOX NFL Sunday - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLci11MjNDaDItRDRQa3JzOUpTTzdjTFpWUE9vTUZJRkJwOUE3R1J3dldjRzMyRFBqS3FqcExmMndCLWFtTHpkdjFYeDJ2cHZnR2VfcHVn?oc=5",
+      "published": "2025-09-07T17:09:17+00:00",
+      "source": "Fox News"
+    },
+    {
+      "title": "Eagles vs. Chiefs Super Bowl Rematch preview: Must win game for Kansas City? | FOX NFL Sunday - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02ZE13cjdtdVUzT25NRGF1TVBhWWtuY0xNZkotNFFZcHNpWWh6VUpNTmJ6VlVMVk85U2hMbjFEeHRLekdsOF9ORVhDczcwUlRVMXpybmFMNG4tU1lFT1NXUGpn?oc=5",
+      "published": "2025-09-07T17:09:06+00:00",
+      "source": "FOX Sports"
     },
     {
       "title": "Report: Eagles made biggest trade offer for Micah Parsons",
@@ -261,12 +313,6 @@
       "source": "ESPN — Eagles"
     },
     {
-      "title": "The Philadelphia Eagles were Reportedly on Micah Parsons’ Shortlist - Crossing Broad",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTDBKNjVVM3lLMmcxQ2M3MEFyN1IxSTVvTlBwYlU1UEF5UEVQd1JLZzA5WjQ3cVlCWWJyalgzMm1yaTAwUnk2V2s1NXNkLUo1Y1ZhSGRwTVRPSFQwb2c1ODhPUms3a0lxc043Z1BSMmNrTVhGNmRybHhBWURFN1JUSW9HTjV6WUxocVltLXZfOXBOV1BkZkY3d2Y3V2ZjMmNiSkdhTHotT3FhUk9MOVE?oc=5",
-      "published": "2025-09-07T15:52:00+00:00",
-      "source": "Crossing Broad"
-    },
-    {
       "title": "NFL Picks Against the Spread: Week 1 Games",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/157829/nfl-picks-against-the-spread-week-1-games",
       "published": "2025-09-07T15:31:26+00:00",
@@ -291,58 +337,16 @@
       "source": "Sports Illustrated"
     },
     {
+      "title": "5 plays that shaped the Cowboys’ close loss to the Eagles - Blogging The Boys",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUG8yQzg1LTlwQXZ4TXhoTzVBS2JjVVg2NHhYYl9JbjlWLTA1OUJWTEtYbHlzbnVvNXprT1lQTjJMcWtCRXFQRjFienlGVFZsczBEeFlxN0NlQWNsRnRKVlZmNWtHYjVnV0s1V2ZPT1NmTnlTZ3ZtakJ2dDVKQy1fMDQyMGdVQjJNRTZ0bjh6RXFEM2ZYSnR3UHBRVUdxUkFsaE9rQ0tRZ0htZw?oc=5",
+      "published": "2025-09-07T15:00:00+00:00",
+      "source": "Blogging The Boys"
+    },
+    {
       "title": "Nick Wright Has Wild Take For Eagles After Week 1 - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXlnbDg1SmRZV3JUZ3ZTZXd2b1NMMEVUY0JhN2o0cHBfT2NTcTVtOXJFZ0x1RmoxNUNFdThjMjdWU2JRWUFZWWd0OFBqUU43RHdJcDh0Rkh6R1R1ajdIcUhPWUZRYjJwNDhiNEQ5Q0s2Nmh0VXZBV1lTZWFoZ21mT3o0VUE3anVMeUR6blpBdGF3b0k?oc=5",
       "published": "2025-09-07T15:00:00+00:00",
       "source": "Sports Illustrated"
-    },
-    {
-      "title": "Is Packers LB Micah Parsons playing today? Injury update for former Cowboys' Week 1 game",
-      "link": "https://sports.yahoo.com/article/packers-lb-micah-parsons-playing-143318604.html",
-      "published": "2025-09-07T14:33:18+00:00",
-      "source": "Yahoo Sports — Eagles"
-    },
-    {
-      "title": "Eagles Cut Ties With Former First Round Ahead of Week 2 Battle With Chiefs - Heavy Sports",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oc01lTlFNaUlQMGZxenh5RTdFQnk1N01rWmd1dXpJVjMxTUwwQmZZd0JhbkFoVklqSFBEUFM0R0RfZnRUV1ROVlhvMGNxUGVuZlNfSFFFS1lKemVlQ1lYcTV3eTUxNUxzWW1OU0tjVElvalc1SGxfMA?oc=5",
-      "published": "2025-09-07T13:43:26+00:00",
-      "source": "Heavy Sports"
-    },
-    {
-      "title": "Discipline Incoming For Eagles' Defensive Star? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGJzcktIYTk4ZFRNUm9hb1FhbXZKWG81U0VxdXlyd0QtYkFxTWhhN2RPdXlKc251QUxveFZTSXpsbE9IaEx1bTF3M2Jvd0MwMTdMd2RGYmRtNkhudTVmYUpjX0I0ZTRyeEQ4SVNHWl9adHhCNEJWblI4UV9BRGdIQmVMNlJaeXM0Uk14ZHVaYmtrR213WWV4cw?oc=5",
-      "published": "2025-09-07T13:40:11+00:00",
-      "source": "Sports Illustrated"
-    },
-    {
-      "title": "U.S. loss to South Korea another misstep with World Cup prep time running out",
-      "link": "https://www.espn.com/soccer/story/_/id/46178808/usmnt-loss-south-korea-another-misstep-world-cup-prep",
-      "published": "2025-09-07T13:11:45+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Cleveland Browns fans know how to keep the faith",
-      "link": "https://www.espn.com/nfl/story/_/id/46168604/cleveland-browns-fans-dedication-nfl-season-opener-2025",
-      "published": "2025-09-07T13:10:00+00:00",
-      "source": "ESPN — Eagles"
-    },
-    {
-      "title": "Eagles are one fearless signing away from becoming Super Bowl favorites - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZtVDg3WFFKWDRZZjdBM05XWThnc0hJOHJPRC1tSk4yWDI3WlpXTGk5d3MxMG5QLV9MSVl0djdIUlJVZ2xpTW4teTdrc21qMWg0SVlFWTJqNXpDQ2JzRDZ2NmRmeU1JQXdOcnIzMVpEcFFHQl9TWHEtbkkxN2FUd0xnWVM2Q2VxdFNqMkIxTGxsN3FkOFJTRkpsdW9TSklx?oc=5",
-      "published": "2025-09-07T13:00:00+00:00",
-      "source": "Inside the Iggles"
-    },
-    {
-      "title": "Here is our hub for all things Cowboys/Eagles this week - Blogging The Boys",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkM0ckdla2kweDVjOVhCdHVZdE5xTXFIV1VKVkNLQ1FvQzNiZXdNOHdDMWdJcnZpRWVtNW9zU0FFdW1iX0w2aVZZemhVdXlUalk5WmdsRGVzTDZwV09NdUl6LUdLWFZXTjdDaGc4eWdwdTlCSWpKQkNBdTRsOGpndTh3SHo4bW9UUmZWbi13WDhQVmZFc0lTM0xMYWY5Z1JUQU04R1RDMnBVNmZaRjgyX0tOdHotS2xrRm8xM2FR?oc=5",
-      "published": "2025-09-07T13:00:00+00:00",
-      "source": "Blogging The Boys"
-    },
-    {
-      "title": "Transfer rumors, news: Man United's Bruno Fernandes still open to Saudi move",
-      "link": "https://www.espn.com/soccer/story/_/id/46182937/transfer-rumors-news-man-utds-bruno-fernandes-open-saudi-move",
-      "published": "2025-09-07T12:11:46+00:00",
-      "source": "ESPN — Eagles"
     }
   ]
 }
