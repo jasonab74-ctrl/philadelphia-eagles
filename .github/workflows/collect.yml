@@ -5,12 +5,18 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+# ✅ allow committing items.json
+permissions:
+  contents: write
+
 jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,13 +31,17 @@ jobs:
       - name: Run collector
         run: |
           python collect.py
+          echo "---- items.json summary ----"
           python - <<'PY'
           import json, pathlib
           p = pathlib.Path("items.json")
-          d = json.loads(p.read_text(encoding="utf-8"))
-          print("items:", len(d.get("items", [])))
-          print("sources:", len(d.get("sources", [])))
-          print("updated_at:", d.get("updated_at"))
+          if p.exists():
+            d = json.loads(p.read_text(encoding="utf-8"))
+            print("items:", len(d.get("items", [])))
+            print("sources:", len(d.get("sources", [])))
+            print("updated_at:", d.get("updated_at"))
+          else:
+            print("items.json not found")
           PY
 
       - name: Commit items.json (only if changed)
@@ -39,5 +49,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add items.json
+          # only commit when there are changes
           git diff --cached --quiet || git commit -m "Auto update items.json"
           git push
