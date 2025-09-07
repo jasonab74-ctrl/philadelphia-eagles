@@ -1,16 +1,13 @@
-# Philadelphia Eagles — feeds & links (mirrors your working Colts layout)
-
 TEAM_NAME = "Philadelphia Eagles"
 TEAM_SLUG = "philadelphia-eagles"
 
 EXCLUDE_TOKENS = [
     "Flyers", "Sixers", "76ers", "Phillies", "Union",
-    "NBA", "NHL", "MLB", "MLS",
-    "women", "wbb", "soccer", "college"
+    "NBA", "NHL", "MLB", "MLS", "women", "wbb", "soccer", "college"
 ]
 
 FEEDS = [
-    # Trusted / team-focused
+    # Trusted team-centric outlets
     {"name": "Bleeding Green Nation",         "url": "https://www.bleedinggreennation.com/rss/index.xml",                    "trusted": True},
     {"name": "Eagles Wire (USA Today)",       "url": "https://theeagleswire.usatoday.com/feed/",                              "trusted": True},
     {"name": "ESPN — Eagles",                 "url": "https://www.espn.com/espn/rss/nfl/team?team=phi",                       "trusted": True},
@@ -19,7 +16,7 @@ FEEDS = [
     {"name": "ProFootballTalk — Eagles",      "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/", "trusted": True},
     {"name": "CBS Sports — Eagles",           "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/rss/",      "trusted": True},
 
-    # Aggregators (not trusted; filtered by allow_item)
+    # Aggregators (filtered by allow_item)
     {"name": "\"Philadelphia Eagles\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
