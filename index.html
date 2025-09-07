@@ -1,0 +1,52 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Philadelphia Eagles — News</title>
+  <link rel="apple-touch-icon" href="/philadelphia-eagles/static/apple-touch-icon.png" />
+  <link rel="icon" href="/philadelphia-eagles/static/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/philadelphia-eagles/static/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/philadelphia-eagles/static/favicon-16.png" />
+  <link rel="manifest" href="/philadelphia-eagles/static/manifest.webmanifest?v=1" />
+  <meta name="theme-color" content="#004C54" />
+  <link rel="stylesheet" href="/philadelphia-eagles/static/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <img src="/philadelphia-eagles/static/logo.png" alt="Eagles logo" />
+    <h1>Philadelphia Eagles — News</h1>
+  </header>
+  <nav id="quick-links" class="pills"></nav>
+  <section class="controls">
+    <div class="left">
+      <label for="sourceFilter">Source:</label>
+      <select id="sourceFilter"><option value="">All sources</option></select>
+    </div>
+    <div class="right"><span id="updated">Updated: —</span></div>
+  </section>
+  <main id="grid" class="grid"></main>
+  <script>
+    const SLUG = "/philadelphia-eagles";
+    let data = null;
+    async function load(){
+      const res = await fetch(`${SLUG}/items.json?v=${Date.now()}`,{cache:"no-store"});
+      data = await res.json(); render();
+    }
+    function render(){
+      if(!data) return;
+      const ql=document.getElementById("quick-links"); ql.innerHTML="";
+      (data.static_links||[]).forEach(l=>{const a=document.createElement("a");a.href=l.url;a.target="_blank";a.rel="noopener";a.textContent=l.label;a.className="pill";ql.appendChild(a);});
+      const dd=document.getElementById("sourceFilter"); const prev=dd.value; dd.innerHTML='<option value="">All sources</option>';
+      (data.sources||[]).forEach(s=>{const o=document.createElement("option");o.value=s;o.textContent=s;dd.appendChild(o);}); if(prev) dd.value=prev;
+      document.getElementById("updated").textContent="Updated: " + new Date(data.updated_at||Date.now()).toLocaleString();
+      const grid=document.getElementById("grid"); grid.innerHTML="";
+      let items=data.items||[]; if(dd.value) items=items.filter(i=>i.source===dd.value);
+      items.forEach(it=>{const art=document.createElement("article");art.className="card";const a=document.createElement("a");a.href=it.url;a.target="_blank";a.rel="noopener";a.className="title";a.textContent=it.title;const m=document.createElement("div");m.className="meta";m.textContent=(it.source||"") + " • " + new Date(it.published||Date.now()).toLocaleString();art.appendChild(a);art.appendChild(m);grid.appendChild(art);});
+    }
+    document.getElementById("sourceFilter").addEventListener("change", render);
+    load();
+  </script>
+</body>
+</html>

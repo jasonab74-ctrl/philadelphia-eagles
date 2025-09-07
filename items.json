@@ -1,0 +1,71 @@
+{
+  "team": {
+    "name": "Philadelphia Eagles",
+    "slug": "philadelphia-eagles"
+  },
+  "updated_at": "2025-09-07T13:01:41.397430+00:00",
+  "static_links": [
+    {
+      "label": "Schedule",
+      "url": "https://www.philadelphiaeagles.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.philadelphiaeagles.com/team/players-roster/"
+    },
+    {
+      "label": "Depth Chart",
+      "url": "https://www.philadelphiaeagles.com/team/depth-chart/"
+    },
+    {
+      "label": "Injury Report",
+      "url": "https://www.philadelphiaeagles.com/team/injury-report/"
+    },
+    {
+      "label": "Tickets",
+      "url": "https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805961"
+    },
+    {
+      "label": "Team Shop",
+      "url": "https://store.philadelphiaeagles.com/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/eagles/"
+    },
+    {
+      "label": "Bleacher Report",
+      "url": "https://bleacherreport.com/philadelphia-eagles"
+    },
+    {
+      "label": "ESPN Team",
+      "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles"
+    },
+    {
+      "label": "Yahoo Team",
+      "url": "https://sports.yahoo.com/nfl/teams/phi/"
+    },
+    {
+      "label": "PFF Team Page",
+      "url": "https://www.pff.com/nfl/teams/philadelphia-eagles"
+    },
+    {
+      "label": "Pro-Football-Reference",
+      "url": "https://www.pro-football-reference.com/teams/phi/"
+    },
+    {
+      "label": "NFL Power Rankings",
+      "url": "https://www.nfl.com/news/power-rankings"
+    },
+    {
+      "label": "Stats",
+      "url": "https://www.nfl.com/teams/philadelphia-eagles/stats/"
+    },
+    {
+      "label": "Standings",
+      "url": "https://www.nfl.com/standings/league/2025/REG"
+    }
+  ],
+  "items": [],
+  "sources": []
+}
