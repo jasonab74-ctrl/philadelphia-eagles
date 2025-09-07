@@ -1,3 +1,5 @@
+# feeds.py — Philadelphia Eagles
+
 TEAM_NAME = "Philadelphia Eagles"
 TEAM_SLUG = "philadelphia-eagles"
 
