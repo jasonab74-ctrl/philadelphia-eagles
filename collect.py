@@ -63,11 +63,11 @@ def allow_item(item) -> bool:
         return True
     blob = f"{item.get('title','')} {item.get('summary','')}".lower()
 
-    # Light filter: must at least match "eagles" or "philadelphia eagles"
+    # Light inclusive filter for Eagles news from mixed aggregators
     if "eagles" not in blob and "philadelphia" not in blob:
         return False
 
-    # Optional extra filters
+    # Exclusions
     for bad in getattr(feeds, "EXCLUDE_TOKENS", []):
         if bad.lower() in blob:
             return False
@@ -107,7 +107,6 @@ def dedupe(items):
 
 def main():
     all_items, trusted_raw = [], []
-
     feed_list = getattr(feeds, "FEEDS", [])
     if not feed_list:
         print("[ERR] No FEEDS configured", file=sys.stderr)
