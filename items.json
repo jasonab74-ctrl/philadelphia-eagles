@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T11:40:38.530842+00:00",
+  "updated_iso": "2025-09-08T13:38:19.220407+00:00",
   "count": 21,
   "items": [
+    {
+      "id": "https-si-com-nfl-eagles-news-eagles-urged-to-cut-ties-with-9-year-nfl-veteran-pat3",
+      "title": "Eagles Urged To Cut Ties With 9-Year NFL Veteran",
+      "link": "https://si.com/nfl/eagles/news/eagles-urged-to-cut-ties-with-9-year-nfl-veteran-pat3",
+      "source": "Sports Illustrated",
+      "ts": 1757334365.0,
+      "published_iso": "2025-09-08T12:26:05+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-tyler-steen-week-1-test-095021969-html",
       "title": "Tyler Steen’s Week 1 test provides optimism for the young Eagles' future",
@@ -35,9 +43,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
@@ -123,28 +131,12 @@
       "published_iso": "2025-09-07T05:05:31+00:00"
     },
     {
-      "id": "https-si-com-nfl-eagles-news-eagles-projected-as-early-option-for-texas-star-pat3",
-      "title": "Eagles Projected As Early Option For Texas Star",
-      "link": "https://si.com/nfl/eagles/news/eagles-projected-as-early-option-for-texas-star-pat3",
-      "source": "Sports Illustrated",
-      "ts": 1757199285.0,
-      "published_iso": "2025-09-06T22:54:45+00:00"
-    },
-    {
       "id": "https-bleedinggreennation-com-news-157802-eagles-open-up-roster-spot-by-waiving-kenyon-green",
       "title": "Eagles open up roster spot by waiving Kenyon Green",
       "link": "https://bleedinggreennation.com/news/157802/eagles-open-up-roster-spot-by-waiving-kenyon-green",
       "source": "Bleeding Green Nation",
       "ts": 1757197876.0,
       "published_iso": "2025-09-06T22:31:16+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-philadelphia-eagles-news-eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowbo",
-      "title": "Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys",
-      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowboys/53212f9186c4deed277595a9",
-      "source": "Sporting News",
-      "ts": 1757197134.0,
-      "published_iso": "2025-09-06T22:18:54+00:00"
     },
     {
       "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
@@ -161,6 +153,14 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-2ni6vh84hme6wnh0",
+      "title": "Jalen Carter ejected, Do the Eagles have what it takes to repeat? | The Herd",
+      "link": "https://foxsports.com/watch/fmc-2ni6vh84hme6wnh0",
+      "source": "FOX Sports",
+      "ts": 1757068740.0,
+      "published_iso": "2025-09-05T10:39:00+00:00"
     },
     {
       "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
