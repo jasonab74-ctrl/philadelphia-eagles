@@ -1,203 +1,125 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <title>Team News</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Philadelphia Eagles — News</title>
 
-  <!-- Viewport & iOS standalone fixes -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#004c54">
 
-  <!-- PWA icons/manifest (safe if present, ignored if not) -->
-  <link rel="apple-touch-icon" href="static/apple-touch-icon.png">
-  <link rel="icon" href="static/favicon.ico">
-  <link rel="manifest" href="static/manifest.webmanifest">
-
-  <link rel="stylesheet" href="static/style.css?v=7">
+  <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
   <header class="hero">
-    <div class="hero-left">
-      <img id="team-logo" class="logo" src="static/logo.png" alt="Team logo" loading="eager">
-      <div class="titles">
-        <h1 id="page-title">Philadelphia Eagles — News</h1>
-        <p class="subtitle">Live team feed • auto-updates</p>
-      </div>
+    <div class="logo-box"><img id="teamLogo" src="static/eagles.png" alt="Eagles"></div>
+    <div class="hero-titles">
+      <h1>Philadelphia Eagles — News</h1>
+      <div class="sub">Live team feed · auto-updates</div>
     </div>
-
-    <button id="songBtn" class="pill pill-play" aria-pressed="false" title="Play fight song">
-      Fly Eagles Fly
-    </button>
-    <audio id="fightSong" preload="auto" src="static/fly-eagles-fly.mp3"></audio>
+    <a class="badge" href="/fightsong" target="_blank" rel="noopener">Fly Eagles Fly</a>
   </header>
 
-  <nav id="quick-links" class="links"></nav>
+  <div id="links" class="pill-row"></div>
 
-  <section class="toolbar">
-    <label class="lbl">Source:</label>
-    <select id="sourceSelect" class="select"></select>
-
-    <div class="updated">
-      <span class="lbl">Updated:</span>
-      <span id="updatedAt">—</span>
+  <section class="controls">
+    <div class="control">
+      <label>Source:</label>
+      <select id="sourceSelect"></select>
+    </div>
+    <div class="control right">
+      <label>Updated:</label>
+      <span id="updated">—</span>
     </div>
   </section>
 
-  <main id="items" class="cards"></main>
-
-  <template id="link-pill">
-    <a class="pill" target="_blank" rel="noopener"></a>
-  </template>
-
-  <template id="card">
-    <article class="card">
-      <a class="card-link" target="_blank" rel="noopener">
-        <h3 class="title"></h3>
-        <div class="meta">
-          <span class="source"></span>
-          <span class="dot">•</span>
-          <time class="time"></time>
-        </div>
-      </a>
-    </article>
-  </template>
-
-  <footer class="footer">Powered by GitHub Pages</footer>
+  <main id="feed"></main>
 
   <script>
-    // --- Simple utilities
-    const $ = (q, el=document) => el.querySelector(q);
-    const $$ = (q, el=document) => Array.from(el.querySelectorAll(q));
-    const fmtTime = (iso) => {
-      try {
+    const feedEl = document.getElementById('feed');
+    const updatedEl = document.getElementById('updated');
+    const sourceSelect = document.getElementById('sourceSelect');
+    const linksEl = document.getElementById('links');
+
+    function fmtLocal(iso){
+      try{
         const d = new Date(iso);
-        if (isNaN(d)) return "—";
-        return d.toLocaleString(undefined, {
-          year: "numeric", month: "numeric", day: "numeric",
-          hour: "numeric", minute: "2-digit", second: "2-digit"
-        });
-      } catch { return "—"; }
-    };
-
-    // --- Fight song button
-    const audio = $("#fightSong");
-    const btn = $("#songBtn");
-    btn?.addEventListener("click", () => {
-      if (!audio) return;
-      if (audio.paused) {
-        audio.currentTime = 0;
-        audio.play().catch(()=>{});
-        btn.classList.add("playing");
-        btn.setAttribute("aria-pressed", "true");
-      } else {
-        audio.pause();
-        btn.classList.remove("playing");
-        btn.setAttribute("aria-pressed", "false");
-      }
-    });
-    audio?.addEventListener("ended", () => {
-      btn.classList.remove("playing");
-      btn.setAttribute("aria-pressed", "false");
-    });
-
-    // --- Load items.json
-    const ITEMS_URL = "items.json?v=" + Date.now(); // bust cache on load
-    let ALL = { items: [], sources: [], updated_at: null };
-
-    async function load() {
-      try {
-        const r = await fetch(ITEMS_URL, { cache: "no-store" });
-        if (!r.ok) throw new Error("items.json fetch failed");
-        ALL = await r.json();
-        render();
-      } catch (e) {
-        console.warn(e);
-        $("#items").innerHTML =
-          `<p class="empty">No articles yet — the collector will populate shortly.</p>`;
-      }
+        return d.toLocaleString([], {year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
+      }catch(_){ return iso || ''; }
     }
 
-    // --- Render
-    function render() {
-      // Updated timestamp
-      $("#updatedAt").textContent = ALL.updated_at ? fmtTime(ALL.updated_at) : "—";
-
-      // Fill source dropdown
-      const select = $("#sourceSelect");
-      select.innerHTML = "";
-      const optAll = document.createElement("option");
-      optAll.value = "";
-      optAll.textContent = "All sources";
-      select.appendChild(optAll);
-      (ALL.sources || []).forEach(s => {
-        const o = document.createElement("option");
-        o.value = s;
-        o.textContent = s;
-        select.appendChild(o);
+    function renderLinks(links) {
+      linksEl.innerHTML = '';
+      (links || []).forEach(l => {
+        const a = document.createElement('a');
+        a.className = 'pill';
+        a.href = l.url;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = l.label;
+        linksEl.appendChild(a);
       });
+    }
 
-      // Quick links (STATIC_LINKS shipped in items.json as convenience)
-      const linksWrap = $("#quick-links");
-      linksWrap.innerHTML = "";
-      const pillTpl = $("#link-pill");
-      (ALL.links || []).forEach(({label, url}) => {
-        const a = pillTpl.content.firstElementChild.cloneNode(true);
-        a.textContent = label;
-        a.href = url;
-        linksWrap.appendChild(a);
+    function buildSourceDropdown(items) {
+      const sources = Array.from(new Set((items||[]).map(i => i.source).filter(Boolean))).sort();
+      sourceSelect.innerHTML = '';
+      const optAll = document.createElement('option');
+      optAll.value = '';
+      optAll.textContent = 'All sources';
+      sourceSelect.appendChild(optAll);
+      sources.forEach(s => {
+        const o = document.createElement('option');
+        o.value = s; o.textContent = s;
+        sourceSelect.appendChild(o);
       });
-
-      // Cards
-      drawCards();
-      select.addEventListener("change", drawCards, { once: true });
     }
 
-    function drawCards() {
-      const crit = $("#sourceSelect").value;
-      const wrap = $("#items");
-      wrap.innerHTML = "";
-      const tpl = $("#card");
-
-      let list = (ALL.items || []).slice(0, 50); // cap to 50 most recent
-      if (crit) list = list.filter(x => x.source === crit);
-
-      if (!list.length) {
-        wrap.innerHTML = `<p class="empty">No matching articles.</p>`;
-        return;
-      }
-      for (const it of list) {
-        const node = tpl.content.firstElementChild.cloneNode(true);
-        const a = $(".card-link", node);
-        const h = $(".title", node);
-        const s = $(".source", node);
-        const t = $(".time", node);
-
-        a.href = it.link;
-        h.textContent = it.title;
-        s.textContent = it.source || "";
-        t.textContent = fmtTime(it.published || it.date);
-
-        wrap.appendChild(node);
-      }
+    function renderItems(items) {
+      feedEl.innerHTML = '';
+      (items||[]).forEach(it => {
+        const card = document.createElement('article');
+        card.className = 'card';
+        const a = document.createElement('a');
+        a.href = it.link; a.target = '_blank'; a.rel = 'noopener';
+        a.className = 'title';
+        a.textContent = it.title || '(no title)';
+        const meta = document.createElement('div');
+        meta.className = 'meta';
+        meta.textContent = `${it.source || it.feed || ''} • ${fmtLocal(it.published)}`;
+        card.appendChild(a); card.appendChild(meta);
+        feedEl.appendChild(card);
+      });
     }
 
-    // --- Client-side auto-refresh (compare items.json every 5 min)
-    const REFRESH_MS = 5 * 60 * 1000;
-    setInterval(async () => {
-      try {
-        const r = await fetch("items.json?v=" + Date.now(), { cache: "no-store" });
-        if (!r.ok) return;
-        const fresh = await r.json();
-        if ((fresh.items?.length || 0) > (ALL.items?.length || 0) ||
-            fresh.updated_at !== ALL.updated_at) {
-          ALL = fresh;
-          render();
+    function applyFilter(all) {
+      const src = sourceSelect.value;
+      renderItems(src ? all.filter(i => i.source === src) : all);
+    }
+
+    async function loadAndRender(initial=false){
+      try{
+        const r = await fetch('items.json', {cache:'no-cache'});
+        const data = await r.json();
+        updatedEl.textContent = fmtLocal(data.updated || '');
+        renderLinks(data.links || []);
+        buildSourceDropdown(data.items || []);
+        renderItems(data.items || []);
+        if (initial){
+          sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
+        } else {
+          applyFilter(data.items || []);
         }
-      } catch {}
-    }, REFRESH_MS);
+      }catch(e){
+        updatedEl.textContent = 'load failed';
+      }
+    }
 
-    load();
+    loadAndRender(true);
+    setInterval(() => loadAndRender(false), 5 * 60 * 1000);
   </script>
 </body>
 </html>
