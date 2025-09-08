@@ -1,4 +1,4 @@
-# Philadelphia Eagles — feeds + quick links (verified URLs)
+# Philadelphia Eagles — feeds + quick links (verified)
 
 FEEDS = [
     {"name": "Philadelphia Eagles",        "url": "https://www.philadelphiaeagles.com/rss/news"},
@@ -6,14 +6,14 @@ FEEDS = [
     {"name": "PhillyVoice",                "url": "https://www.phillyvoice.com/rss/sports/philadelphia-eagles/"},
     {"name": "NBC Sports Philadelphia",    "url": "https://www.nbcsportsphiladelphia.com/tag/philadelphia-eagles/feed/"},
     {"name": "Bleeding Green Nation",      "url": "https://www.bleedinggreennation.com/rss/index.xml"},
-    {"name": "ESPN",                        "url": "https://www.espn.com/espn/rss/nfl/news"},
-    {"name": "Yahoo Sports",                "url": "https://sports.yahoo.com/rss/"},
-    {"name": "Sports Illustrated",          "url": "https://www.si.com/rss"},
-    {"name": "CBS Sports",                  "url": "https://www.cbssports.com/rss/headlines/"},
-    {"name": "Bleacher Report",             "url": "https://bleacherreport.com/articles/feed"},
-    {"name": "PFF",                         "url": "https://www.pff.com/nfl/teams/philadelphia-eagles/21"},
-    {"name": "NFL.com",                     "url": "https://www.nfl.com/feeds-rs/news/rss.xml"},
-    {"name": "Reddit — r/eagles",           "url": "https://www.reddit.com/r/eagles/.rss"},
+    {"name": "ESPN",                       "url": "https://www.espn.com/espn/rss/nfl/news"},
+    {"name": "Yahoo Sports",               "url": "https://sports.yahoo.com/rss/"},
+    {"name": "Sports Illustrated",         "url": "https://www.si.com/rss"},
+    {"name": "CBS Sports",                 "url": "https://www.cbssports.com/rss/headlines/"},
+    {"name": "Bleacher Report",            "url": "https://bleacherreport.com/articles/feed"},
+    {"name": "PFF",                        "url": "https://www.pff.com/nfl/teams/philadelphia-eagles/21"},
+    {"name": "NFL.com",                    "url": "https://www.nfl.com/feeds-rs/news/rss.xml"},
+    {"name": "Reddit — r/eagles",          "url": "https://www.reddit.com/r/eagles/.rss"},
 ]
 
 STATIC_LINKS = [
@@ -30,7 +30,7 @@ STATIC_LINKS = [
     {"label": "Yahoo Team",             "url": "https://sports.yahoo.com/nfl/teams/phi/"},
     {"label": "PFF Team Page",          "url": "https://www.pff.com/nfl/teams/philadelphia-eagles/21"},
     {"label": "Pro-Football-Reference", "url": "https://www.pro-football-reference.com/teams/phi/"},
-    {"label": "NFL Power Rankings",     "url": "https://www.nfl.com/news/nfl-power-rankings"},  # stable hub
+    {"label": "NFL Power Rankings",     "url": "https://www.nfl.com/news/nfl-power-rankings"},
     {"label": "Stats",                  "url": "https://www.teamrankings.com/nfl/team/philadelphia-eagles"},
     {"label": "Standings",              "url": "https://www.nfl.com/standings/league/2025/REG"}
 ]
