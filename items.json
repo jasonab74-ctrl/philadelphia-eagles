@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T08:48:55.209857+00:00",
-  "count": 17,
+  "updated_iso": "2025-09-08T09:38:24.035101+00:00",
+  "count": 19,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-eagles-rookie-report-jihaad-campbell-084729495-html",
+      "title": "Eagles rookie report: What Jihaad Campbell, Drew Mukuba did for 1st time in over 20 years",
+      "link": "https://sports.yahoo.com/article/eagles-rookie-report-jihaad-campbell-084729495.html",
+      "source": "Yahoo Sports",
+      "ts": 1757321249.0,
+      "published_iso": "2025-09-08T08:47:29+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-vacant-roster-spot-suggests-more-083335946-html",
       "title": "Vacant roster spot suggests more Eagles wizardry from Howie Roseman",
@@ -9,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1757320415.0,
       "published_iso": "2025-09-08T08:33:35+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-eagles-made-jaw-dropping-trade-080043704-html",
+      "title": "The Eagles made a jaw-dropping trade offer for Micah Parsons",
+      "link": "https://sports.yahoo.com/article/eagles-made-jaw-dropping-trade-080043704.html",
+      "source": "Yahoo Sports",
+      "ts": 1757318443.0,
+      "published_iso": "2025-09-08T08:00:43+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-cowboys-dak-prescott-reveals-eagles-055457213-html",
@@ -27,9 +43,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
