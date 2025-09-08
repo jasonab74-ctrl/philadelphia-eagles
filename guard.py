@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
-# Guard runner: keeps last-good items.json if a run would regress UI
+# Guard runner — prevents regressions by restoring last good items.json
 
-import json, os, re, shutil
+import json, re, shutil
 from pathlib import Path
 from datetime import datetime
 
 ALLOWED_SOURCES = {
     "ESPN","Yahoo Sports","Sports Illustrated","CBS Sports","SB Nation",
     "Bleacher Report","The Athletic","NFL.com","PFF","Pro-Football-Reference",
+    "NBC Sports","USA Today",
     "Philadelphia Eagles","Philadelphia Inquirer","PhillyVoice",
-    "NBC Sports Philadelphia","NBC Sports","USA Today","94WIP",
-    "Crossing Broad","Bleeding Green Nation","Reddit — r/eagles"
+    "NBC Sports Philadelphia","94WIP","Crossing Broad","Bleeding Green Nation",
+    "Reddit — r/eagles",
 }
 
 REQUIRED_BUTTONS = {
@@ -22,10 +23,11 @@ REQUIRED_BUTTONS = {
 ROOT = Path(__file__).resolve().parent
 ITEMS = ROOT/"items.json"
 BACKUP = ROOT/"items.last-good.json"
+ISO = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
 
 def now(): return datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def read_json(p): 
+def read_json(p):
     with open(p,"r",encoding="utf-8") as f: return json.load(f)
 
 def write_json(p, obj):
@@ -33,28 +35,24 @@ def write_json(p, obj):
     with open(tmp,"w",encoding="utf-8") as f: json.dump(obj,f,ensure_ascii=False,indent=2)
     tmp.replace(p)
 
-ISO = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
-
 def validate(payload):
     errs=[]
-    if not isinstance(payload,dict): return ["payload not object"]
     if not payload.get("updated") or not ISO.match(str(payload["updated"])): errs.append("bad updated")
-    links = payload.get("links") or []
-    labels = { (x.get("label") or "").strip() for x in links if isinstance(x,dict) }
-    missing = [b for b in REQUIRED_BUTTONS if b not in labels]
-    if missing: errs.append("missing buttons: "+", ".join(missing))
+    labels = { (x.get("label") or "").strip() for x in (payload.get("links") or []) if isinstance(x,dict) }
+    miss = [b for b in REQUIRED_BUTTONS if b not in labels]
+    if miss: errs.append("missing buttons: "+", ".join(miss))
     items = payload.get("items") or []
     if not items: errs.append("no items")
-    for i, it in enumerate(items[:100],1):
-        if (it.get("source") or "") not in ALLOWED_SOURCES: errs.append(f"bad source @ {i}: {it.get('source')}")
-        if not it.get("published") or not ISO.match(str(it["published"])): errs.append(f"bad published @ {i}")
+    for i,it in enumerate(items[:100],1):
+        if (it.get("source") or "") not in ALLOWED_SOURCES: errs.append(f"bad source @{i}:{it.get('source')}")
+        if not it.get("published") or not ISO.match(str(it["published"])): errs.append(f"bad published @{i}")
     return errs
 
 def run_collect():
     import importlib.util
     spec = importlib.util.spec_from_file_location("collect", str(ROOT/"collect.py"))
     mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)  # type: ignore
+    spec.loader.exec_module(mod)
     if hasattr(mod,"main"): mod.main()
 
 def main():
