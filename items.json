@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T06:52:21.007164+00:00",
-  "count": 20,
+  "updated_iso": "2025-09-08T07:30:26.898744+00:00",
+  "count": 19,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-cowboys-dak-prescott-reveals-eagles-055457213-html",
@@ -97,14 +97,6 @@
       "source": "Sporting News",
       "ts": 1757256241.0,
       "published_iso": "2025-09-07T14:44:01+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-eagles-news-nick-wright-has-wild-take-for-eagles-after-week-1-pat3",
-      "title": "Nick Wright Has Wild Take For Eagles After Week 1",
-      "link": "https://si.com/nfl/eagles/news/nick-wright-has-wild-take-for-eagles-after-week-1-pat3",
-      "source": "Sports Illustrated",
-      "ts": 1757246400.0,
-      "published_iso": "2025-09-07T12:00:00+00:00"
     },
     {
       "id": "https-bleedinggreennation-com-news-157820-eagles-news-adoree-jackson-says-he-has-room-for-improvement",
