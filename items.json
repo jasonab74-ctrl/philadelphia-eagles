@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T11:26:24.837444+00:00",
-  "count": 20,
+  "updated_iso": "2025-09-08T11:40:38.530842+00:00",
+  "count": 21,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-tyler-steen-week-1-test-095021969-html",
@@ -35,9 +35,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
@@ -161,6 +161,14 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
+    },
+    {
+      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
+      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
+      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
+      "source": "cbsnews.com",
+      "ts": 1757025600.0,
+      "published_iso": "2025-09-04T22:40:00+00:00"
     }
   ]
 }
