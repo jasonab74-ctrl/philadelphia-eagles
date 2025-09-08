@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T09:38:24.035101+00:00",
-  "count": 19,
+  "updated_iso": "2025-09-08T10:41:38.873769+00:00",
+  "count": 21,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-tyler-steen-week-1-test-095021969-html",
+      "title": "Tyler Steen’s Week 1 test provides optimism for the young Eagles' future",
+      "link": "https://sports.yahoo.com/article/tyler-steen-week-1-test-095021969.html",
+      "source": "Yahoo Sports",
+      "ts": 1757325021.0,
+      "published_iso": "2025-09-08T09:50:21+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-eagles-rookie-report-jihaad-campbell-084729495-html",
       "title": "Eagles rookie report: What Jihaad Campbell, Drew Mukuba did for 1st time in over 20 years",
@@ -153,6 +161,14 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
+    },
+    {
+      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
+      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
+      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
+      "source": "cbsnews.com",
+      "ts": 1757025600.0,
+      "published_iso": "2025-09-04T22:40:00+00:00"
     }
   ]
 }
