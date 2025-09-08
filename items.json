@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T10:41:38.873769+00:00",
-  "count": 21,
+  "updated_iso": "2025-09-08T11:26:24.837444+00:00",
+  "count": 20,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-tyler-steen-week-1-test-095021969-html",
@@ -25,22 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1757320415.0,
       "published_iso": "2025-09-08T08:33:35+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-eagles-made-jaw-dropping-trade-080043704-html",
-      "title": "The Eagles made a jaw-dropping trade offer for Micah Parsons",
-      "link": "https://sports.yahoo.com/article/eagles-made-jaw-dropping-trade-080043704.html",
-      "source": "Yahoo Sports",
-      "ts": 1757318443.0,
-      "published_iso": "2025-09-08T08:00:43+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-cowboys-dak-prescott-reveals-eagles-055457213-html",
-      "title": "Cowboys' Dak Prescott Reveals What Eagles' Jalen Carter Said Before Spitting on Him",
-      "link": "https://sports.yahoo.com/article/cowboys-dak-prescott-reveals-eagles-055457213.html",
-      "source": "Yahoo Sports",
-      "ts": 1757310897.0,
-      "published_iso": "2025-09-08T05:54:57+00:00"
     },
     {
       "id": "https-sports-yahoo-com-nfl-betting-article-week-2-nfl-betting-odds-kansas-city-chiefs-open-as-rare-home-underdog-in-supe",
@@ -99,6 +83,14 @@
       "published_iso": "2025-09-07T15:54:28+00:00"
     },
     {
+      "id": "https-crossingbroad-com-news-eagles-the-philadelphia-eagles-were-reportedly-on-micah-parsons-shortlist",
+      "title": "The Philadelphia Eagles were Reportedly on Micah Parsons' Shortlist",
+      "link": "https://crossingbroad.com/news/eagles/the-philadelphia-eagles-were-reportedly-on-micah-parsons-shortlist/",
+      "source": "Crossing Broad",
+      "ts": 1757260345.0,
+      "published_iso": "2025-09-07T15:52:25+00:00"
+    },
+    {
       "id": "https-sports-yahoo-com-article-nfl-announcer-joe-buck-releases-153025317-html",
       "title": "NFL Announcer Joe Buck Releases His Super Bowl 60 Pick",
       "link": "https://sports.yahoo.com/article/nfl-announcer-joe-buck-releases-153025317.html",
@@ -147,6 +139,14 @@
       "published_iso": "2025-09-06T22:31:16+00:00"
     },
     {
+      "id": "https-sportingnews-com-us-nfl-philadelphia-eagles-news-eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowbo",
+      "title": "Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys",
+      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowboys/53212f9186c4deed277595a9",
+      "source": "Sporting News",
+      "ts": 1757197134.0,
+      "published_iso": "2025-09-06T22:18:54+00:00"
+    },
+    {
       "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
       "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
       "link": "https://bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
@@ -161,14 +161,6 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
-    },
-    {
-      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
-      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
-      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
-      "source": "cbsnews.com",
-      "ts": 1757025600.0,
-      "published_iso": "2025-09-04T22:40:00+00:00"
     }
   ]
 }
