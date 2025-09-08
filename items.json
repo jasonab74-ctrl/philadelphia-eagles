@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T04:40:28.550395+00:00",
-  "count": 19,
+  "updated_iso": "2025-09-08T05:33:53.643961+00:00",
+  "count": 21,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-details-emerge-howie-roseman-philadelpia-013115494-html",
@@ -19,9 +19,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
@@ -153,6 +153,22 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-2ni6vh84hme6wnh0",
+      "title": "Jalen Carter ejected, Do the Eagles have what it takes to repeat? | The Herd",
+      "link": "https://foxsports.com/watch/fmc-2ni6vh84hme6wnh0",
+      "source": "FOX Sports",
+      "ts": 1757068740.0,
+      "published_iso": "2025-09-05T10:39:00+00:00"
+    },
+    {
+      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
+      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
+      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
+      "source": "cbsnews.com",
+      "ts": 1757025600.0,
+      "published_iso": "2025-09-04T22:40:00+00:00"
     }
   ]
 }
