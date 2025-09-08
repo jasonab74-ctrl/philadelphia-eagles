@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T03:56:31.591514+00:00",
-  "count": 18,
+  "updated_iso": "2025-09-08T04:40:28.550395+00:00",
+  "count": 19,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-details-emerge-howie-roseman-philadelpia-013115494-html",
+      "title": "Details emerge on Howie Roseman and Philadelpia Eagles' failed but bold trade offer with Dallas Cowboys",
+      "link": "https://sports.yahoo.com/article/details-emerge-howie-roseman-philadelpia-013115494.html",
+      "source": "Yahoo Sports",
+      "ts": 1757295075.0,
+      "published_iso": "2025-09-08T01:31:15+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-nfl-betting-article-week-2-nfl-betting-odds-kansas-city-chiefs-open-as-rare-home-underdog-in-supe",
       "title": "Week 2 NFL betting, odds: Kansas City Chiefs open as rare home underdog in Super Bowl 59 rematch",
@@ -11,9 +19,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
@@ -57,6 +65,14 @@
       "source": "Sporting News",
       "ts": 1757260468.0,
       "published_iso": "2025-09-07T15:54:28+00:00"
+    },
+    {
+      "id": "https-crossingbroad-com-news-eagles-the-philadelphia-eagles-were-reportedly-on-micah-parsons-shortlist",
+      "title": "The Philadelphia Eagles were Reportedly on Micah Parsons' Shortlist",
+      "link": "https://crossingbroad.com/news/eagles/the-philadelphia-eagles-were-reportedly-on-micah-parsons-shortlist/",
+      "source": "Crossing Broad",
+      "ts": 1757260345.0,
+      "published_iso": "2025-09-07T15:52:25+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-nfl-announcer-joe-buck-releases-153025317-html",
@@ -115,6 +131,14 @@
       "published_iso": "2025-09-06T22:31:16+00:00"
     },
     {
+      "id": "https-si-com-nfl-eagles-news-eagles-cowboys-upon-further-review-ed9",
+      "title": "Eagles-Cowboys: Upon Further Review...",
+      "link": "https://si.com/nfl/eagles/news/eagles-cowboys-upon-further-review-ed9",
+      "source": "Sports Illustrated",
+      "ts": 1757192097.0,
+      "published_iso": "2025-09-06T20:54:57+00:00"
+    },
+    {
       "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
       "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
       "link": "https://bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
@@ -129,22 +153,6 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
-    },
-    {
-      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
-      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
-      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
-      "source": "cbsnews.com",
-      "ts": 1757025600.0,
-      "published_iso": "2025-09-04T22:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-nfl-kickoff-game-winners-losers-042235556-html",
-      "title": "NFL Kickoff Game: Winners, Losers from Philadelphia Eagles’ 24-20 Win Over Cowboys",
-      "link": "https://sports.yahoo.com/article/nfl-kickoff-game-winners-losers-042235556.html",
-      "source": "Yahoo Sports",
-      "ts": 1757023200.0,
-      "published_iso": "2025-09-04T22:00:00+00:00"
     }
   ]
 }
