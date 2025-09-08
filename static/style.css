@@ -1,9 +1,11 @@
-/* Eagles — LIGHT THEME (light green background, dark text) */
+/* Philadelphia Eagles — LIGHT THEME
+   Light green background, dark text, inline audio button, logo sizing.
+*/
 
 :root{
   --primary:#004c54;   /* header green */
   --accent:#e2b007;    /* thin gold line under header */
-  --bg:#E6F4EA;        /* light green background */
+  --bg:#E6F4EA;        /* light green page background */
   --card:#FFFFFF;      /* white cards */
   --pill:#d8efe3;      /* lighter green pills */
   --text:#0e2a2f;      /* dark text for strong contrast */
@@ -26,12 +28,16 @@ body{
   border-bottom:4px solid var(--accent);
   color:#fff;
 }
+
 .logo-box{
   width:64px;height:64px;border-radius:12px;background:#fff;
   display:flex;align-items:center;justify-content:center;overflow:hidden;
   box-shadow:0 1px 4px rgba(0,0,0,.35)
 }
-.logo-box img{display:block;max-width:100%;max-height:100%}
+.logo-box img{
+  display:block;max-width:100%;max-height:100%;object-fit:contain
+}
+
 .hero-titles h1{margin:0;font-size:1.8rem;color:#fff;line-height:1.05}
 .hero-titles .sub{color:#eaf4f6;opacity:.92;font-size:.92rem}
 
@@ -66,6 +72,7 @@ body{
   padding:.45rem .6rem;border-radius:.6rem;border:1px solid #9fb5c2;
   background:#fff;color:var(--text)
 }
+.control.right{margin-left:auto}
 
 /* ----- FEED CARDS ----- */
 main{padding:6px 12px 40px}
