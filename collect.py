@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Philadelphia Eagles — collector (HARDENED, curated sources + guaranteed links/dates)
+# Philadelphia Eagles — collector (HARDENED: curated sources + strict filters)
 
 import json, time, re, hashlib
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
@@ -9,24 +9,22 @@ from feeds import FEEDS, STATIC_LINKS
 
 MAX_ITEMS = 60
 
-# 1) Exactly the 10 sources you want in the dropdown (curated, stable labels)
+# ---- Curated dropdown (10 solid sources only) ----
 CURATED_SOURCES = [
-    "Philadelphia Eagles",
-    "Philadelphia Inquirer",
-    "PhillyVoice",
+    "PhiladelphiaEagles.com",
+    "The Inquirer",
     "NBC Sports Philadelphia",
     "Bleeding Green Nation",
+    "PhillyVoice",
     "ESPN",
     "Yahoo Sports",
     "Sports Illustrated",
     "CBS Sports",
     "The Athletic",
 ]
-
-# 2) Only collect from these sources (keeps noise out)
 ALLOWED_SOURCES = set(CURATED_SOURCES)
 
-# ---------- utils ----------
+# ---------------- utils ----------------
 def now_iso():
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
 
@@ -54,22 +52,41 @@ def hid(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
 
 ALIASES = {
-    # locals
-    "philadelphiaeagles.com":"Philadelphia Eagles",
-    "inquirer.com":"Philadelphia Inquirer",
-    "phillyvoice.com":"PhillyVoice",
-    "nbcsportsphiladelphia.com":"NBC Sports Philadelphia",
+    # team / local
+    "philadelphiaeagles.com": "PhiladelphiaEagles.com",
+    "inquirer.com":           "The Inquirer",
+    "nbcsportsphiladelphia.com": "NBC Sports Philadelphia",
     "bleedinggreennation.com":"Bleeding Green Nation",
-    # national
-    "espn.com":"ESPN",
-    "sports.yahoo.com":"Yahoo Sports",
-    "si.com":"Sports Illustrated",
-    "cbssports.com":"CBS Sports",
-    "theathletic.com":"The Athletic",
+    "phillyvoice.com":        "PhillyVoice",
+    # nationals
+    "espn.com":               "ESPN",
+    "sports.yahoo.com":       "Yahoo Sports",
+    "si.com":                 "Sports Illustrated",
+    "cbssports.com":          "CBS Sports",
+    "theathletic.com":        "The Athletic",
+    # common Google AMP hosts normalize via canonical()
 }
 
-KEEP = [r"\bEagles\b", r"\bPhiladelphia\b", r"\bPhilly\b"]
-DROP = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
+# --------- content filters ----------
+# Must look like Eagles football
+KEEP = [
+    r"\bEagles?\b",
+    r"\bPhiladelphia Eagles?\b",
+    r"\bNFL\b",
+    # star names / staff (helps when headline omits team name)
+    r"\bJalen Hurts\b", r"\bA\.?J\.? Brown\b", r"\bDeVonta Smith\b",
+    r"\bDallas Goedert\b", r"\bJordan Mailata\b", r"\bDeVonta\b",
+    r"\bHowie Roseman\b", r"\bSirianni\b",
+]
+
+# Drop obvious non-football or other Philly teams
+DROP = [
+    r"\bMLB\b", r"\bNBA\b", r"\bNHL\b", r"\bMLS\b", r"\bNCAA\b",
+    r"\bPhillies\b", r"\b76ers\b", r"\bSixers\b", r"\bFlyers\b", r"\bUnion\b",
+    r"\bMets\b", r"\bYankees\b", r"\bBraves\b", r"\bBaseball\b", r"\bseries preview\b",
+    r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b",
+    r"\bcollege\b (?!football)",  # college non-NFL
+]
 
 def text_ok(title: str, summary: str) -> bool:
     t = f"{title} {summary}"
@@ -84,12 +101,12 @@ def parse_time(entry):
                 return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[key])
             except Exception:
                 pass
-    return now_iso()  # guaranteed fallback so dates always render
+    return now_iso()  # fallback so dates always render
 
 def source_label(link: str, feed_name: str) -> str:
     return ALIASES.get(_host(link), feed_name.strip())
 
-# ---------- pipeline ----------
+# ---------------- pipeline ----------------
 def fetch_all():
     items, seen = [], set()
     for f in FEEDS:
@@ -106,7 +123,7 @@ def fetch_all():
 
             src = source_label(link, fname)
             if src not in ALLOWED_SOURCES:
-                continue  # hard gate → dropdown stays clean
+                continue  # keeps dropdown clean/curated
 
             title = (e.get("title") or "").strip()
             summary = (e.get("summary") or e.get("description") or "").strip()
@@ -118,7 +135,7 @@ def fetch_all():
                 "link": link,
                 "source": src,
                 "feed": fname,
-                "published": parse_time(e),   # ISO string (always present)
+                "published": parse_time(e),
                 "summary": summary,
             })
             seen.add(key)
@@ -130,11 +147,14 @@ def write_items(items):
     payload = {
         "updated": now_iso(),
         "items": items,
-        "links": STATIC_LINKS,          # buttons ALWAYS included
-        "sources": CURATED_SOURCES,     # prebuilt list → dropdown always shows 10
+        "links": STATIC_LINKS,        # buttons always present
+        "sources": CURATED_SOURCES,   # dropdown never disappears
     }
     with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-if __name__ == "__main__":
+def main():
     write_items(fetch_all())
+
+if __name__ == "__main__":
+    main()
