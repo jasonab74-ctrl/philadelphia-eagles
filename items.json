@@ -1,166 +1,611 @@
 {
-  "updated_iso": "2025-09-08T14:41:08.155804+00:00",
-  "count": 20,
+  "updated": "2025-09-08T15:34:49+00:00",
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-everyone-seems-agree-spitting-somebody-142401363-html",
-      "title": "Everyone seems to agree: spitting on somebody else is just wrong. But it keeps happening",
-      "link": "https://sports.yahoo.com/article/everyone-seems-agree-spitting-somebody-142401363.html",
-      "source": "Yahoo Sports",
-      "ts": 1757341441.0,
-      "published_iso": "2025-09-08T14:24:01+00:00"
+      "id": "8a5e047667b6b1ac",
+      "title": "Mets vs. Phillies prediction, series preview: Can Philly wrap up NL East this week after Trea Turner injury?",
+      "link": "https://cbssports.com/mlb/news/mets-vs-phillies-prediction-series-preview-can-philly-wrap-up-nl-east-this-week-after-trea-turner-injury/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-08T15:28:16+0000",
+      "summary": "The Mets and Phillies are meeting for four games this week at Citizens Bank Park"
     },
     {
-      "id": "https-sports-yahoo-com-article-eagles-reportedly-working-veteran-slot-140735228-html",
+      "id": "3069ee4d41870830",
+      "title": "Will NFL Suspend Eagles' Jalen Carter for Spitting on Cowboys' Dak Prescott?",
+      "link": "https://mensjournal.com/sports/will-nfl-suspend-eagles-jalen-carter-for-spitting-on-cowboys-dak-prescott",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-08T15:17:53+0000",
+      "summary": "Philadelphia Eagles defensive tackle Jalen Carter stole the headlines before the first snap of Thursday night's season opener--and not in a good way. Before the first play, as players from the Eagles' defense and Dallas Cowboys offense were waiting for an injured player to be helped off the field, ..."
+    },
+    {
+      "id": "7c72347abea0beaf",
+      "title": "Why Eagles’ opener was super impressive and more in Roob’s Observations",
+      "link": "https://reddit.com/r/eagles/comments/1nbqdkl/why_eagles_opener_was_super_impressive_and_more/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T15:11:53+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbqdkl/why_eagles_opener_was_super_impressive_and_more/\"> <img alt=\"Why Eagles’ opener was super impressive and more in Roob’s Observations\" src=\"https://external-preview.redd.it/d9ug8aEFpKDnWdRpN_ofDQBojIe1OUvYAlOT_CA6pYo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e194224319a34854744f7e8ba6ab43d053f755a4\" title=\"Why Eagles’ opener was super impressive and more in Roob’s Observations\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Undergrad26\"> /u/Undergrad26 </a> <br /> <span><a href=\"https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-opener-super-impressive-more-roobs-observations/682827/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbqdkl/why_eagles_opener_was_super_impressive_and_more/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "fc0c55cc0d976725",
+      "title": "Love Hurts collection coming soon",
+      "link": "https://reddit.com/r/eagles/comments/1nbq9u4/love_hurts_collection_coming_soon/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T15:07:57+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbq9u4/love_hurts_collection_coming_soon/\"> <img alt=\"Love Hurts collection coming soon\" src=\"https://b.thumbs.redditmedia.com/-FEqrVDpjLqirWUQL8vIQDMLLBtcl-tJY1SgUI7XLhM.jpg\" title=\"Love Hurts collection coming soon\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mfnlou\"> /u/mfnlou </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1nbq9u4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbq9u4/love_hurts_collection_coming_soon/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "df6d5e4f0de97d58",
+      "title": "Trash",
+      "link": "https://reddit.com/r/eagles/comments/1nbq7s5/trash/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T15:05:46+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbq7s5/trash/\"> <img alt=\"Trash\" src=\"https://preview.redd.it/7vt8vttshynf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07b0ec0191470a3dc0fb622f67d3ede9a0ee5542\" title=\"Trash\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Arec_Barwin\"> /u/Arec_Barwin </a> <br /> <span><a href=\"https://i.redd.it/7vt8vttshynf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbq7s5/trash/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "4589a5d46b4ccfcd",
       "title": "Eagles reportedly working out veteran slot cornerback",
-      "link": "https://sports.yahoo.com/article/eagles-reportedly-working-veteran-slot-140735228.html",
-      "source": "Yahoo Sports",
-      "ts": 1757340455.0,
-      "published_iso": "2025-09-08T14:07:35+00:00"
+      "link": "https://bleedinggreennation.com/news/157891/eagles-reportedly-working-out-veteran-slot-cornerback",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-08T14:07:35+0000",
+      "summary": "The Philadelphia Eagles are working out veteran free agent cornerback Mike Hilton on Monday, according to a report from NFL insider Jordan Schultz. We previously highlighted Hilton as a potential Eagles target back on August 27. Here’s what we said at the time: I don’t think this is realistic since 1) he’ll probably end up [&#8230;]"
     },
     {
-      "id": "https-si-com-nfl-eagles-news-eagles-urged-to-cut-ties-with-9-year-nfl-veteran-pat3",
-      "title": "Eagles Urged To Cut Ties With 9-Year NFL Veteran",
-      "link": "https://si.com/nfl/eagles/news/eagles-urged-to-cut-ties-with-9-year-nfl-veteran-pat3",
-      "source": "Sports Illustrated",
-      "ts": 1757334365.0,
-      "published_iso": "2025-09-08T12:26:05+00:00"
+      "id": "03ee5fcf3a488b85",
+      "title": "STOP THE COUNT - After Week 1, Jalen Hurts ranks 2nd in the NFL in QBR",
+      "link": "https://reddit.com/r/eagles/comments/1nbok5f/stop_the_count_after_week_1_jalen_hurts_ranks_2nd/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T14:01:49+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbok5f/stop_the_count_after_week_1_jalen_hurts_ranks_2nd/\"> <img alt=\"STOP THE COUNT - After Week 1, Jalen Hurts ranks 2nd in the NFL in QBR\" src=\"https://preview.redd.it/tuy9nqi76ynf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d034f9206c54b483aad5109b2672d5b1203363b\" title=\"STOP THE COUNT - After Week 1, Jalen Hurts ranks 2nd in the NFL in QBR\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KingKD\"> /u/KingKD </a> <br /> <span><a href=\"https://i.redd.it/tuy9nqi76ynf1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbok5f/stop_the_count_after_week_1_jalen_hurts_ranks_2nd/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "id": "https-sports-yahoo-com-article-tyler-steen-week-1-test-095021969-html",
-      "title": "Tyler Steen’s Week 1 test provides optimism for the young Eagles' future",
-      "link": "https://sports.yahoo.com/article/tyler-steen-week-1-test-095021969.html",
-      "source": "Yahoo Sports",
-      "ts": 1757325021.0,
-      "published_iso": "2025-09-08T09:50:21+00:00"
+      "id": "1718d9c348e6cb40",
+      "title": "[Schultz]The #Eagles are working out former #Bengals CB Mike Hilton today.",
+      "link": "https://reddit.com/r/eagles/comments/1nbnxsz/schultzthe_eagles_are_working_out_former_bengals/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T13:36:18+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbnxsz/schultzthe_eagles_are_working_out_former_bengals/\"> <img alt=\"[Schultz]The #Eagles are working out former #Bengals CB Mike Hilton today.\" src=\"https://preview.redd.it/ykpkx47u1ynf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=467b9a440a192d87003bc0155a736670235780bb\" title=\"[Schultz]The #Eagles are working out former #Bengals CB Mike Hilton today.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bigblack3475\"> /u/bigblack3475 </a> <br /> <span><a href=\"https://i.redd.it/ykpkx47u1ynf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbnxsz/schultzthe_eagles_are_working_out_former_bengals/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "id": "https-sports-yahoo-com-article-eagles-rookie-report-jihaad-campbell-084729495-html",
-      "title": "Eagles rookie report: What Jihaad Campbell, Drew Mukuba did for 1st time in over 20 years",
-      "link": "https://sports.yahoo.com/article/eagles-rookie-report-jihaad-campbell-084729495.html",
-      "source": "Yahoo Sports",
-      "ts": 1757321249.0,
-      "published_iso": "2025-09-08T08:47:29+00:00"
+      "id": "f18048c235ba546d",
+      "title": "'No moral victories' for Cowboys in Brian Schottenheimer's head coaching debut",
+      "link": "https://espn.com/nfl/story/_/id/46185166/nfl-dallas-cowboys-brian-schottenheimer-ceedee-lamb-dak-prescott",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-08T13:01:37+0000",
+      "summary": "Dallas came up short against Philadelphia, but there were signs of promise that left Jerry Jones \"encouraged.\""
     },
     {
-      "id": "https-sports-yahoo-com-article-vacant-roster-spot-suggests-more-083335946-html",
-      "title": "Vacant roster spot suggests more Eagles wizardry from Howie Roseman",
-      "link": "https://sports.yahoo.com/article/vacant-roster-spot-suggests-more-083335946.html",
-      "source": "Yahoo Sports",
-      "ts": 1757320415.0,
-      "published_iso": "2025-09-08T08:33:35+00:00"
+      "id": "518d669ded35df9d",
+      "title": "Parking rates increased!!?",
+      "link": "https://reddit.com/r/eagles/comments/1nbmoa7/parking_rates_increased/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T12:41:51+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey! Got tickets for Nov 16th game against Lions. We haven’t been in several years- SeatGeek just sent me an offer for parking tickets but they start at like 150$ ?!? Is that the new going price for parking???? Last time we went we paid like 40-50$ for one of the lots. </p> <p>Just wanted to see… I don’t want to get scammed. Thanks so much! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Reymeeroman\"> /u/Reymeeroman </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbmoa7/parking_rates_increased/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbmoa7/parking_rates_increased/\">[comments]</a></span>"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-betting-article-week-2-nfl-betting-odds-kansas-city-chiefs-open-as-rare-home-underdog-in-supe",
-      "title": "Week 2 NFL betting, odds: Kansas City Chiefs open as rare home underdog in Super Bowl 59 rematch",
-      "link": "https://sports.yahoo.com/nfl/betting/article/week-2-nfl-betting-odds-kansas-city-chiefs-open-as-rare-home-underdog-in-super-bowl-59-rematch-012941174.html",
-      "source": "Yahoo Sports",
-      "ts": 1757294981.0,
-      "published_iso": "2025-09-08T01:29:41+00:00"
+      "id": "044fc404879538fc",
+      "title": "Meme Monday",
+      "link": "https://reddit.com/r/eagles/comments/1nbjmds/meme_monday/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T10:00:26+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>While a Meme Thread is up, standalone meme posts are permitted in the sub feed, as well. Memes are allowed from game end until the end of Monday.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EaglesMod\"> /u/EaglesMod </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbjmds/meme_monday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbjmds/meme_monday/\">[comments]</a></span>"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
-      "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
-      "source": "cbsnews.com",
-      "ts": 1757287471.0,
-      "published_iso": "2025-09-07T23:24:31+00:00"
+      "id": "c97cd266bf4bd8e7",
+      "title": "Watching the Bills, they really can’t do it like us.",
+      "link": "https://reddit.com/r/eagles/comments/1nbd459/watching_the_bills_they_really_cant_do_it_like_us/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T03:24:40+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbd459/watching_the_bills_they_really_cant_do_it_like_us/\"> <img alt=\"Watching the Bills, they really can’t do it like us.\" src=\"https://preview.redd.it/6dvcq5up0vnf1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e252e397fa5db07bea8652c0c693654e3fb5cf51\" title=\"Watching the Bills, they really can’t do it like us.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kealion\"> /u/Kealion </a> <br /> <span><a href=\"https://i.redd.it/6dvcq5up0vnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbd459/watching_the_bills_they_really_cant_do_it_like_us/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "id": "https-sports-yahoo-com-article-former-eagles-see-varying-early-201623683-html",
-      "title": "Former Eagles see varying early success in Sunday's first slate of NFL games",
-      "link": "https://sports.yahoo.com/article/former-eagles-see-varying-early-201623683.html",
-      "source": "Yahoo Sports",
-      "ts": 1757276183.0,
-      "published_iso": "2025-09-07T20:16:23+00:00"
+      "id": "cb6c6fac08c4ec7f",
+      "title": "is there anyway someone can make this into a 4k love, hurts wallpaper",
+      "link": "https://reddit.com/r/eagles/comments/1nbchw8/is_there_anyway_someone_can_make_this_into_a_4k/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T02:53:18+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbchw8/is_there_anyway_someone_can_make_this_into_a_4k/\"> <img alt=\"is there anyway someone can make this into a 4k love, hurts wallpaper\" src=\"https://preview.redd.it/u14eeey0vunf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28435d2abf03243ef5fb8550068facdd024f50ce\" title=\"is there anyway someone can make this into a 4k love, hurts wallpaper\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/feaner\"> /u/feaner </a> <br /> <span><a href=\"https://i.redd.it/u14eeey0vunf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbchw8/is_there_anyway_someone_can_make_this_into_a_4k/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "id": "https-bleedinggreennation-com-game-day-threads-157835-nfl-week-1-late-games-channel-information-start-times-game-thread",
+      "id": "57dca5ee763589c7",
+      "title": "Plenty Idea",
+      "link": "https://reddit.com/r/eagles/comments/1nbc14n/plenty_idea/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T02:30:35+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Any teams who voted against the tush push and performs it, should automatically be a turnover after performing it.</p> <p>Like the how the Bills just performed tonight’s game after whining about it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LieDry7854\"> /u/LieDry7854 </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbc14n/plenty_idea/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbc14n/plenty_idea/\">[comments]</a></span>"
+    },
+    {
+      "id": "c935b938fadfe5b4",
+      "title": "Hell yeah lil man GO BIRDS!!! 🦅",
+      "link": "https://reddit.com/r/eagles/comments/1nbailp/hell_yeah_lil_man_go_birds/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-08T01:16:25+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nbailp/hell_yeah_lil_man_go_birds/\"> <img alt=\"Hell yeah lil man GO BIRDS!!! 🦅\" src=\"https://external-preview.redd.it/ejQwbGxkc3RkdW5mMTtV_4S09ibu5q9s1bzeQ40hgvntXgKJyox916U3bJ6o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c65bf4aa9424bf5e02afbe19fdb4cff84ec938f\" title=\"Hell yeah lil man GO BIRDS!!! 🦅\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bulldawgzz\"> /u/Bulldawgzz </a> <br /> <span><a href=\"https://v.redd.it/gpe8itptdunf1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nbailp/hell_yeah_lil_man_go_birds/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "db65fab48bf2f693",
+      "title": "Week 1 takeaways so far?",
+      "link": "https://reddit.com/r/eagles/comments/1nb83x7/week_1_takeaways_so_far/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T23:23:24+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For the NFC: </p> <p>-Packers just beat the shit out of the Lions</p> <p>-Commanders look ok </p> <p>-49ers and Bucs don't scare me at all</p> <p>This week 1 felt extremely sloppy, can't tell if the defenses are that good or all the offense are shit </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Babagoosh217\"> /u/Babagoosh217 </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb83x7/week_1_takeaways_so_far/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb83x7/week_1_takeaways_so_far/\">[comments]</a></span>"
+    },
+    {
+      "id": "aa4f61ed1f777166",
+      "title": "Just a friendly neighbor supporting the local kid's lemonade stand and signing autographs",
+      "link": "https://reddit.com/r/eagles/comments/1nb6rxp/just_a_friendly_neighbor_supporting_the_local/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T22:24:44+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nb6rxp/just_a_friendly_neighbor_supporting_the_local/\"> <img alt=\"Just a friendly neighbor supporting the local kid's lemonade stand and signing autographs\" src=\"https://preview.redd.it/5unousq5jtnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c165f26303c315a07ff0d2cedab1a7ac37c703b\" title=\"Just a friendly neighbor supporting the local kid's lemonade stand and signing autographs\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Emotional-Leg66\"> /u/Emotional-Leg66 </a> <br /> <span><a href=\"https://i.redd.it/5unousq5jtnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb6rxp/just_a_friendly_neighbor_supporting_the_local/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "b2440e01ce4f2ad4",
+      "title": "The search for the lost swoop!",
+      "link": "https://reddit.com/r/eagles/comments/1nb6nzg/the_search_for_the_lost_swoop/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T22:20:08+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nb6nzg/the_search_for_the_lost_swoop/\"> <img alt=\"The search for the lost swoop!\" src=\"https://preview.redd.it/owyqz8wditnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40a583e41931884821031aecd1ff2823396ad808\" title=\"The search for the lost swoop!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi all, this is my first post on this subreddit so apologies if this has the wrong tags.</p> <p>About a year ago my dad passed away, he was a huge lifetime eagles fan and passed that on to me. When I was little he got me a plush doll of swoop. Since football season is starting up again I was looking for the doll to in a way have my dad with me during the games. But through multiple moves and college, swoop is nowhere to be found.</p> <p>Anyways, I'm looking to find a replacement swoop. Ive drawn a picture of what he looked like. He had long arms that almost reached his feet, and i want to say he was around maybe a foot and a half long. I got him some time between 2007-2012.</p> <p>I know this is a long shot, but if anybody has a picture of this specific doll or knows when it was produced that would be a great help in finding my long lost friend.</p> <p>Thank you for reading! Go Birds!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FixMyWii04\"> /u/FixMyWii04 </a> <br /> <span><a href=\"https://i.redd.it/owyqz8wditnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb6nzg/the_search_for_the_lost_swoop/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "18c6d012f9c21d4a",
+      "title": "Starter Jackets vs Pro Player",
+      "link": "https://reddit.com/r/eagles/comments/1nb6ax6/starter_jackets_vs_pro_player/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T22:04:57+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nb6ax6/starter_jackets_vs_pro_player/\"> <img alt=\"Starter Jackets vs Pro Player\" src=\"https://b.thumbs.redditmedia.com/BSU-l71iv9VbNp80sEfMi5-bADLZ7vyq5404EmZgKDM.jpg\" title=\"Starter Jackets vs Pro Player\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Back in the 90s, starter Jackets were a must have in every kids collection. It was a status symbol to a lot of kids. The alternative options such as Pro Player jackets were looked down upon. </p> <p>But fast forward to 2025. I’ve been looking to add one to the collection to wear to games during winter this upcoming season. The market is flooded with Vintage starter jackets. They bring back great memories and look good. But I simply don’t think I’ve seen a better looking jacket than this one from Pro Player in 1994. </p> <p>What do you guys think ? Do you guys still think Starter &gt; all others when it comes to vintage Eagles Jackets?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Aussie_Spur\"> /u/Aussie_Spur </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1nb6ax6\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb6ax6/starter_jackets_vs_pro_player/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "895bb0bd8c5690ba",
+      "title": "I Want Them to Beat the Bucs More Than I care about KC Next Week",
+      "link": "https://reddit.com/r/eagles/comments/1nb5e5c/i_want_them_to_beat_the_bucs_more_than_i_care/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T21:27:41+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just want to win against them this year lmao for whatever reason they've been the most annoying opponent we face. Obviously I want them to win both but losing to the Bucs is stupid. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cosdmpptjctq1\"> /u/cosdmpptjctq1 </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb5e5c/i_want_them_to_beat_the_bucs_more_than_i_care/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb5e5c/i_want_them_to_beat_the_bucs_more_than_i_care/\">[comments]</a></span>"
+    },
+    {
+      "id": "3275eec12d6e3146",
+      "title": "Following the Saints loss, the Eagles are now tied for the longest active Week One winning streak.",
+      "link": "https://reddit.com/r/eagles/comments/1nb4vno/following_the_saints_loss_the_eagles_are_now_tied/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T21:07:04+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Eagles are now tied with the Buccaneers with a five season winning streak. </p> <p>Coming in to this year, the longest active streaks were: </p> <ul> <li><p>Saints - 6 seasons (L 13 -20 vs Cardinals) </p></li> <li><p>Eagles - 4 seasons (W 24 - 20 vs Cowboys)</p></li> <li><p>Buccaneers - 4 seasons (W 23 - 20 vs Falcons)</p></li> <li><p>Dolphins - 4 seasons (L 8 - 33 vs Colts)</p></li> </ul> <p>Previous Eagles Week One results from this streak:</p> <ul> <li><p>2024 vs. Green Bay Packers W 34–29</p></li> <li><p>2023 at New England Patriots W 25–20</p></li> <li><p>2022 vs. Detroit Lions W 38–35</p></li> <li><p>2021 at Atlanta Falcons W 32–6</p></li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhiladelphiaIrish\"> /u/PhiladelphiaIrish </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb4vno/following_the_saints_loss_the_eagles_are_now_tied/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb4vno/following_the_saints_loss_the_eagles_are_now_tied/\">[comments]</a></span>"
+    },
+    {
+      "id": "f6f2a1e94383c0e4",
       "title": "NFL Week 1 Late Games",
       "link": "https://bleedinggreennation.com/game-day-threads/157835/nfl-week-1-late-games-channel-information-start-times-game-thread",
       "source": "Bleeding Green Nation",
-      "ts": 1757275440.0,
-      "published_iso": "2025-09-07T20:04:00+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-07T20:04:00+0000",
+      "summary": "Now that the Week 1 early games are over, it’s time to take a look at your late-afternoon viewing options, including the Detroit Lions on the road against the Green Bay Packers and newly acquired Micah Parsons. You can [CLICK HERE] for a full Week 1 Eagles fan rooting guide. Here’s who the BGN writers are [&#8230;]"
     },
     {
-      "id": "https-bleedinggreennation-com-news-157875-report-eagles-made-biggest-trade-offer-for-micah-parsons",
+      "id": "c4c2ff52751a2daa",
+      "title": "Spadaro: On center stage, Jalen Hurts does what he does best – win",
+      "link": "https://philadelphiaeagles.com/news/on-center-stage-jalen-hurts-does-what-he-does-best-win",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-07T20:00:15+0000",
+      "summary": "The Eagles scored touchdowns on their first three possessions and the quarterback didn’t turn the ball over in an adversity-filled victory over the rival Cowboys to kick off the season."
+    },
+    {
+      "id": "b8eefa78bea723b8",
+      "title": "Hurts to see 😔",
+      "link": "https://reddit.com/r/eagles/comments/1nb1f28/hurts_to_see/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T18:51:15+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nb1f28/hurts_to_see/\"> <img alt=\"Hurts to see 😔\" src=\"https://preview.redd.it/kfgemk94hsnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3970e53e9b29e4704341e77bdba221b657d34388\" title=\"Hurts to see 😔\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I really don’t understand why we couldn’t keep Lovato. We replaced a pro bowl long snapper who won two championships with us for a guy thats 35 (3 years older than Lovato). I really don’t think it would have been that expensive to retain a long snapper.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SaggyCrackheadBoobys\"> /u/SaggyCrackheadBoobys </a> <br /> <span><a href=\"https://i.redd.it/kfgemk94hsnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nb1f28/hurts_to_see/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "8f702dc4f1cc2f20",
+      "title": "Special Teams was killer on Thursday.",
+      "link": "https://reddit.com/r/eagles/comments/1nayur2/special_teams_was_killer_on_thursday/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T17:13:07+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nayur2/special_teams_was_killer_on_thursday/\"> <img alt=\"Special Teams was killer on Thursday.\" src=\"https://b.thumbs.redditmedia.com/wMLj40LVkJsYuEF8Q8xY5CeC6LXsLt8SZE_xy5Iexjg.jpg\" title=\"Special Teams was killer on Thursday.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Braden Mann had Turpin at his wits end with unreturnable punts in the 2nd half and Jake was not only money on his PATs and field goal but he also outplayed Aubrey in the new skill-based kickoff game. The Eagles enjoyed better starting field position for most of the night and it was a turning point IMO.</p> <p>Shout out to the rest of special teams for rallying after a tough injury and tackling/pursuing well all night.</p> <p>Note: some of you saw this posted early but it was reposted for a technical error.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Joed1015\"> /u/Joed1015 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1nayur2\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nayur2/special_teams_was_killer_on_thursday/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "54f795c7d715418c",
       "title": "Report: Eagles made biggest trade offer for Micah Parsons",
       "link": "https://bleedinggreennation.com/news/157875/report-eagles-made-biggest-trade-offer-for-micah-parsons",
       "source": "Bleeding Green Nation",
-      "ts": 1757264839.0,
-      "published_iso": "2025-09-07T17:07:19+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-07T17:07:19+0000",
+      "summary": "Earlier this week, ESPN reported that the Philadelphia Eagles made a “strong play” to trade for Micah Parsons before the Dallas Cowboys sent him to the Green Bay Packers. We now have more details about that offer via NFL insider Jay Glazer on the FOX NFL Gameday pregame show: “The team that actually threw in [&#8230;]"
     },
     {
-      "id": "https-bleedinggreennation-com-game-day-threads-157830-nfl-week-1-early-games-information-channel-game-thread",
+      "id": "7960255692fbc560",
       "title": "NFL Week 1 Early Games",
       "link": "https://bleedinggreennation.com/game-day-threads/157830/nfl-week-1-early-games-information-channel-game-thread",
       "source": "Bleeding Green Nation",
-      "ts": 1757262840.0,
-      "published_iso": "2025-09-07T16:34:00+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-07T16:34:00+0000",
+      "summary": "The first full day of games for the 2025 NFL season will get underway Sunday at 1:00 PM, with a few interesting matchups including the New York Giants against the Washington Commanders. You can CLICK HERE for a full Week 1 Eagles fan rooting guide. The Philadelphia Eagles already won their season opener against the [&#8230;]"
     },
     {
-      "id": "https-sportingnews-com-ca-fantasy-news-fantasy-football-defense-rankings-week-1-2025-5768e561fc816ea29a3b4c02",
-      "title": "Updated Fantasy Football Defense Rankings Week 1: Who to start, best sleepers, streamers at D/ST",
-      "link": "https://sportingnews.com/ca/fantasy/news/fantasy-football-defense-rankings-week-1-2025/5768e561fc816ea29a3b4c02",
-      "source": "Sporting News",
-      "ts": 1757260468.0,
-      "published_iso": "2025-09-07T15:54:28+00:00"
+      "id": "a33a3c5976acc52d",
+      "title": "[Meirov] The Eagles offered at least two 1st-round picks, a 3rd-round pick, a 5th-round pick, among other things to the Cowboys for Micah Parsons, but Dallas declined, unwilling to trade him to a divisional rival, per Jay Glazer.",
+      "link": "https://reddit.com/r/eagles/comments/1naxk13/meirov_the_eagles_offered_at_least_two_1stround/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T16:22:57+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1naxk13/meirov_the_eagles_offered_at_least_two_1stround/\"> <img alt=\"[Meirov] The Eagles offered at least two 1st-round picks, a 3rd-round pick, a 5th-round pick, among other things to the Cowboys for Micah Parsons, but Dallas declined, unwilling to trade him to a divisional rival, per Jay Glazer.\" src=\"https://preview.redd.it/huvo4xqnqrnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=460c96f9735136618986882aec0ce7a1446aa316\" title=\"[Meirov] The Eagles offered at least two 1st-round picks, a 3rd-round pick, a 5th-round pick, among other things to the Cowboys for Micah Parsons, but Dallas declined, unwilling to trade him to a divisional rival, per Jay Glazer.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/alphacheese\"> /u/alphacheese </a> <br /> <span><a href=\"https://i.redd.it/huvo4xqnqrnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1naxk13/meirov_the_eagles_offered_at_least_two_1stround/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "id": "https-crossingbroad-com-news-eagles-the-philadelphia-eagles-were-reportedly-on-micah-parsons-shortlist",
-      "title": "The Philadelphia Eagles were Reportedly on Micah Parsons' Shortlist",
-      "link": "https://crossingbroad.com/news/eagles/the-philadelphia-eagles-were-reportedly-on-micah-parsons-shortlist/",
-      "source": "Crossing Broad",
-      "ts": 1757260345.0,
-      "published_iso": "2025-09-07T15:52:25+00:00"
+      "id": "1ef33d29245a03b0",
+      "title": "GO BIRDS!",
+      "link": "https://reddit.com/r/eagles/comments/1naw0ib/go_birds/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T15:23:11+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1naw0ib/go_birds/\"> <img alt=\"GO BIRDS!\" src=\"https://preview.redd.it/zebz4vrzfrnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e28242e555af106e9d40def183dde88ccfb67fd7\" title=\"GO BIRDS!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>As seen at the Smithsonian!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bill4133\"> /u/Bill4133 </a> <br /> <span><a href=\"https://i.redd.it/zebz4vrzfrnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1naw0ib/go_birds/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "id": "https-sportingnews-com-us-nfl-philadelphia-eagles-news-eagles-legends-desean-jackson-michael-vick-college-football-coach",
-      "title": "Eagles legends DeSean Jackson, Michael Vick make college football coaching personal history",
-      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-legends-desean-jackson-michael-vick-college-football-coaching-history/f9327b14dc7e0ec0d6e9851d",
-      "source": "Sporting News",
-      "ts": 1757256241.0,
-      "published_iso": "2025-09-07T14:44:01+00:00"
+      "id": "d347b33cd2d17fca",
+      "title": "Jalen Carter: USA Today reported no suspension BUT this article seems to indicate otherwise",
+      "link": "https://reddit.com/r/eagles/comments/1navwtr/jalen_carter_usa_today_reported_no_suspension_but/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T15:19:14+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.espn.com/nfl/story/_/id/46176234/jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship\">https://www.espn.com/nfl/story/_/id/46176234/jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship</a></p> <p>As we all know, Schefty doesn’t publish anything on accident: the first paragraph of this article would seem to indicate a suspension is likely and the speech from Vincent is going to be used as their justification to break previous precedent if(when) the Eagles and NFLPA try to appeal it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Watsoma\"> /u/Watsoma </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1navwtr/jalen_carter_usa_today_reported_no_suspension_but/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1navwtr/jalen_carter_usa_today_reported_no_suspension_but/\">[comments]</a></span>"
     },
     {
-      "id": "https-bleedinggreennation-com-news-157820-eagles-news-adoree-jackson-says-he-has-room-for-improvement",
+      "id": "671612e52e771aa0",
+      "title": "Yesterday I got to see Lincoln, the bald eagle who will be flying over every Eagles home game.",
+      "link": "https://reddit.com/r/eagles/comments/1navqyo/yesterday_i_got_to_see_lincoln_the_bald_eagle_who/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T15:12:42+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1navqyo/yesterday_i_got_to_see_lincoln_the_bald_eagle_who/\"> <img alt=\"Yesterday I got to see Lincoln, the bald eagle who will be flying over every Eagles home game.\" src=\"https://b.thumbs.redditmedia.com/Zth-RZfEJ5h1phcCLy41_xfIcUF0fpJZ0lEbV-NfKYQ.jpg\" title=\"Yesterday I got to see Lincoln, the bald eagle who will be flying over every Eagles home game.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Lincoln is staying over in eastern Tennessee at the American Eagle Foundation, they drive him up to every Eagles home game and stop every 2 hours for bathroom breaks and to check on him. He had just returned from the last game and was chilling in his house when I saw him. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Traviscat\"> /u/Traviscat </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1navqyo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1navqyo/yesterday_i_got_to_see_lincoln_the_bald_eagle_who/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "24b7fb30370548b0",
+      "title": "The Eagles have beaten 28 of the 31 other teams since the start of 2020. The exceptions: Chargers, Raiders, and Seahawks. We play the former two this season.",
+      "link": "https://reddit.com/r/eagles/comments/1nauv8m/the_eagles_have_beaten_28_of_the_31_other_teams/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T14:38:09+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><table><thead> <tr> <th align=\"left\">Opp</th> <th align=\"left\">Last Win</th> </tr> </thead><tbody> <tr> <td align=\"left\">DAL</td> <td align=\"left\">09/04/25</td> </tr> <tr> <td align=\"left\">KC</td> <td align=\"left\">02/09/25</td> </tr> <tr> <td align=\"left\">WAS</td> <td align=\"left\">01/26/25</td> </tr> <tr> <td align=\"left\">LAR</td> <td align=\"left\">01/19/25</td> </tr> <tr> <td align=\"left\">GB</td> <td align=\"left\">01/12/25</td> </tr> <tr> <td align=\"left\">NYG</td> <td align=\"left\">01/05/25</td> </tr> <tr> <td align=\"left\">PIT</td> <td align=\"left\">12/15/24</td> </tr> <tr> <td align=\"left\">CAR</td> <td align=\"left\">12/08/24</td> </tr> <tr> <td align=\"left\">BAL</td> <td align=\"left\">12/01/24</td> </tr> <tr> <td align=\"left\">JAX</td> <td align=\"left\">11/03/24</td> </tr> <tr> <td align=\"left\">CIN</td> <td align=\"left\">10/27/24</td> </tr> <tr> <td align=\"left\">CLE</td> <td align=\"left\">10/13/24</td> </tr> <tr> <td align=\"left\">NO</td> <td align=\"left\">09/22/24</td> </tr> <tr> <td align=\"left\">BUF</td> <td align=\"left\">11/26/23</td> </tr> <tr> <td align=\"left\">MIA</td> <td align=\"left\">10/22/23</td> </tr> <tr> <td align=\"left\">TB</td> <td align=\"left\">09/25/23</td> </tr> <tr> <td align=\"left\">MIN</td> <td align=\"left\">09/14/23</td> </tr> <tr> <td align=\"left\">NE</td> <td align=\"left\">09/10/23</td> </tr> <tr> <td align=\"left\">SF</td> <td align=\"left\">01/29/23</td> </tr> <tr> <td align=\"left\">CHI</td> <td align=\"left\">12/18/22</td> </tr> <tr> <td align=\"left\">TEN</td> <td align=\"left\">12/04/22</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">11/20/22</td> </tr> <tr> <td align=\"left\">HOU</td> <td align=\"left\">11/03/22</td> </tr> <tr> <td align=\"left\">ARZ</td> <td align=\"left\">10/09/22</td> </tr> <tr> <td align=\"left\">DET</td> <td align=\"left\">09/11/22</td> </tr> <tr> <td align=\"left\">NYJ</td> <td align=\"left\">12/05/21</td> </tr> <tr> <td align=\"left\">DEN</td> <td align=\"left\">11/14/21</td> </tr> <tr> <td align=\"left\">ATL</td> <td align=\"left\">09/12/21</td> </tr> <tr> <td align=\"left\">LV</td> <td align=\"left\">12/25/17</td> </tr> <tr> <td align=\"left\">LAC</td> <td align=\"left\">10/01/17</td> </tr> <tr> <td align=\"left\">SEA</td> <td align=\"left\">11/02/08</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PowerHour1990\"> /u/PowerHour1990 </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1nauv8m/the_eagles_have_beaten_28_of_the_31_other_teams/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nauv8m/the_eagles_have_beaten_28_of_the_31_other_teams/\">[comments]</a></span>"
+    },
+    {
+      "id": "17ac8745c7c1f471",
+      "title": "Eagles News: Philadelphia has two stud starting linebackers",
+      "link": "https://reddit.com/r/eagles/comments/1nari1v/eagles_news_philadelphia_has_two_stud_starting/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T12:08:06+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1nari1v/eagles_news_philadelphia_has_two_stud_starting/\"> <img alt=\"Eagles News: Philadelphia has two stud starting linebackers\" src=\"https://external-preview.redd.it/ngZoV8dkKtL39YZneW9QzFpUj14diAXsQ-jgol_eibQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9938da0325ee267c7d5df3f98161f0267fef39bd\" title=\"Eagles News: Philadelphia has two stud starting linebackers\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AdSpecialist6598\"> /u/AdSpecialist6598 </a> <br /> <span><a href=\"https://www.bleedinggreennation.com/news/157788/eagles-news-philadelphia-has-two-stud-starting-linebackers\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1nari1v/eagles_news_philadelphia_has_two_stud_starting/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "f9e2a36c15e2ad74",
+      "title": "🦅",
+      "link": "https://reddit.com/r/eagles/comments/1napn0x/_/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-07T10:19:27+0000",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/eagles/comments/1napn0x/_/\"> <img alt=\"🦅\" src=\"https://external-preview.redd.it/Zzk4cWZ2eHN4cG5mMS35tRzBut5AFWymxaXyotrIM-aJ6YuvTK0fd9uwN5ta.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6f4faeb2b4edc2e4614754aaf5ceb939b556099\" title=\"🦅\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hurts ➡️ Dotson</p> <p>Ggs</p> <h1>FlyEaglesFly</h1> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Earthday44\"> /u/Earthday44 </a> <br /> <span><a href=\"https://v.redd.it/0jvk8ywsxpnf1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1napn0x/_/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "id": "4170f6098da6b694",
       "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
       "link": "https://bleedinggreennation.com/news/157820/eagles-news-adoree-jackson-says-he-has-room-for-improvement",
       "source": "Bleeding Green Nation",
-      "ts": 1757239200.0,
-      "published_iso": "2025-09-07T10:00:00+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-07T10:00:00+0000",
+      "summary": "Let’s get to the Philadelphia Eagles links &#8230; A closer look at Eagles’ passing defense shows ‘room for improvement’ &#8211; The AthleticAdoree’ Jackson gave his performance a “C.” Letter grades fail to capture a full game’s nuances. Still, a reporter asked Jackson at the Philadelphia Eagles cornerback’s locker to grade his debut in Thursday night’s [&#8230;]"
     },
     {
-      "id": "https-bleedinggreennation-com-news-157811-eagles-rooting-guide-for-nfl-week-1-games",
+      "id": "545abfc5b15a13eb",
       "title": "Eagles rooting guide for NFL Week 1 games",
       "link": "https://bleedinggreennation.com/news/157811/eagles-rooting-guide-for-nfl-week-1-games",
       "source": "Bleeding Green Nation",
-      "ts": 1757221531.0,
-      "published_iso": "2025-09-07T05:05:31+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-07T05:05:31+0000",
+      "summary": "The first Sunday of the 2025 NFL regular season is here! With the Birds resting after beating the Dallas Cowboys on Thursday night, let’s run through a Philadelphia Eagles-focused rooting guide for all of the remaining Week 1 games. NFC EAST NEW YORK GIANTS at WASHINGTON COMMANDERS: I believe the Commanders are going to take [&#8230;]"
     },
     {
-      "id": "https-bleedinggreennation-com-news-157802-eagles-open-up-roster-spot-by-waiving-kenyon-green",
+      "id": "30bf29d5986b4f31",
       "title": "Eagles open up roster spot by waiving Kenyon Green",
       "link": "https://bleedinggreennation.com/news/157802/eagles-open-up-roster-spot-by-waiving-kenyon-green",
       "source": "Bleeding Green Nation",
-      "ts": 1757197876.0,
-      "published_iso": "2025-09-06T22:31:16+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-06T22:31:16+0000",
+      "summary": "The Philadelphia Eagles waived depth offensive guard Kenyon Green on Saturday afternoon, according to an official team announcement. The Eagles originally acquired Green in March by trading C.J. Gardner-Johnson to the Houston Texans. The 2022 first-round pick struggled to impress this offseason, leading to the Eagles waiving him on August 26. Green signed to Philly’s [&#8230;]"
     },
     {
-      "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
+      "id": "bd000a82ba977ee5",
+      "title": "Eagles waive OL Kenyon Green",
+      "link": "https://philadelphiaeagles.com/news/eagles-waive-kenyon-green",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-06T20:00:06+0000",
+      "summary": "The Eagles now have an open spot on the active roster."
+    },
+    {
+      "id": "32259c34fe167339",
       "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
       "link": "https://bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
       "source": "Bleeding Green Nation",
-      "ts": 1757173315.0,
-      "published_iso": "2025-09-06T15:41:55+00:00"
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-06T15:41:55+0000",
+      "summary": "The Philadelphia Eagles were one of the two teams Micah Parsons had interest in being traded to before the Dallas Cowboys ultimately sent him to the Green Bay Packers, according to a report from NFL insider Dianna Russini. Bold emphasis is mine: Once Parsons realized Dallas wasn’t moving off its offer — a five-year deal [&#8230;]"
     },
     {
-      "id": "https-bleedinggreennation-com-news-157788-eagles-news-philadelphia-has-two-stud-starting-linebackers",
-      "title": "Eagles News: Philadelphia has two stud starting linebackers",
-      "link": "https://bleedinggreennation.com/news/157788/eagles-news-philadelphia-has-two-stud-starting-linebackers",
-      "source": "Bleeding Green Nation",
-      "ts": 1757172212.0,
-      "published_iso": "2025-09-06T15:23:32+00:00"
+      "id": "6bf4d372bb443cfe",
+      "title": "Eagles sign veteran Za'Darius Smith, place Ben VanSumeren on Injured Reserve",
+      "link": "https://philadelphiaeagles.com/news/zadarius-smith-eagles",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T20:18:00+0000",
+      "summary": "The team enhances its depth with a quality pass rusher, who was productive and dependable for the NFC’s No. 1 seed in 2024."
+    },
+    {
+      "id": "d31db6bdb046ff0a",
+      "title": "Eagles sign WR Javon Baker to practice squad, release OLB Antwaun Powell-Ryland",
+      "link": "https://philadelphiaeagles.com/news/eagles-sign-javon-baker-to-practice-squad-release-antwaun-powell-ryland",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T16:55:00+0000",
+      "summary": "The Eagles add a 2024 fourth-round pick who spent last season with the Patriots."
+    },
+    {
+      "id": "5909ef7480f978b2",
+      "title": "9th annual Eagles Autism Challenge presented by Lincoln Financial set for Saturday, May 9, 2026",
+      "link": "https://philadelphiaeagles.com/news/9th-annual-eagles-autism-challenge-presented-by-lincoln-financial-set-for-saturday-may-9-2026",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T14:00:00+0000",
+      "summary": "To celebrate the signature event’s 2026 kickoff, Five Below will match the first $75,000 in donations as part of the year’s first matching gift drive."
+    },
+    {
+      "id": "8d57206068668ab3",
+      "title": "Spadaro: 10 observations from the Eagles' win over the Cowboys",
+      "link": "https://philadelphiaeagles.com/news/spadaro-10-observations-from-the-eagles-win-over-the-cowboys",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T05:51:08+0000",
+      "summary": "Thursday night's season opener saw a lot of action early, plus a long weather delay."
+    },
+    {
+      "id": "02a4e1ec85f23306",
+      "title": "Game Recap: Eagles 24, Cowboys 20 | September 4, 2025 | NFL Regular Season Week 1",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-game-recap-september-4-2025-nfl-week-1",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T05:49:00+0000",
+      "summary": "Follow along as the Eagles open the 2025 NFL season against the Dallas Cowboys."
+    },
+    {
+      "id": "c786731a6c220ff9",
+      "title": "Cowboys vs. Eagles Inactives",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-inactives-week-1-2025",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T22:50:00+0000",
+      "summary": "See who will take the field for Cowboys vs. Eagles."
+    },
+    {
+      "id": "a80d93812274f302",
+      "title": "Eagles elevate Marcus Epps and Patrick Johnson for Cowboys game",
+      "link": "https://philadelphiaeagles.com/news/eagles-elevate-marcus-epps-and-patrick-johnson-for-cowboys-game",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T20:18:10+0000",
+      "summary": "The Eagles added two players from the practice squad for tonight’s season opener."
+    },
+    {
+      "id": "007d4325791149d4",
+      "title": "How the Eagles' Super Bowl LIX banner came together",
+      "link": "https://philadelphiaeagles.com/news/how-the-eagles-super-bowl-lix-banner-came-together",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T16:30:00+0000",
+      "summary": "The Eagles will unveil their second Super Bowl banner on Thursday night at Lincoln Financial Field."
+    },
+    {
+      "id": "d13d74ce7bd4b40d",
+      "title": "In-season daily schedule reminder (from the Wiki)",
+      "link": "https://reddit.com/r/eagles/comments/1n8ec93/inseason_daily_schedule_reminder_from_the_wiki/",
+      "source": "Reddit — r/eagles",
+      "feed": "Reddit — r/eagles",
+      "published": "2025-09-04T16:06:37+0000",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><ul> <li><p>Monday - Meme Monday - Memes are allowed from game end through the following day (typically Monday)</p></li> <li><p>Tuesday - NFL Discussion Tuesday - Talk about the rest of the games</p></li> <li><p>Wednesday - Free Talk Wednesday - Talk about whatever (just be civil)</p></li> <li><p>Thursday - Free Talk Thursday - Just like Free Talk Wednesday, but on Thursday!</p></li> <li><p>Friday - Game Preview - Stats and information for the upcoming game <strong>Game Preview series is up for grabs, if we have anyone that wants to reliably take it over. <a href=\"https://www.reddit.com/message/compose/?to=/r/eagles\">Please message the mods if interested</a></strong></p></li> <li><p>Saturday - Swag Saturday - Post pictures of your signed jerseys, new hats, pets, babies, and pictures from the stadium, as well as artwork and creations. This may be moved or skipped when games fall on Saturdays</p></li> <li><p>Sunday - Gameday - Pregame, Game, and Postgame threads will be posted</p></li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dweddpiewitt\"> /u/Dweddpiewitt </a> <br /> <span><a href=\"https://www.reddit.com/r/eagles/comments/1n8ec93/inseason_daily_schedule_reminder_from_the_wiki/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/eagles/comments/1n8ec93/inseason_daily_schedule_reminder_from_the_wiki/\">[comments]</a></span>"
+    },
+    {
+      "id": "79c5c4f18c4ec212",
+      "title": "Cowboys vs. Eagles Game Preview: 6 storylines to follow in the opener",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-game-preview-6-storylines-to-follow-in-the-opener",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T15:00:00+0000",
+      "summary": "Eagles Insider Dave Spadaro analyzes a thrilling rivalry showdown to kick off the 2025 NFL season."
+    },
+    {
+      "id": "f694ed7f98b0b0c9",
+      "title": "Eagles QB Jalen Hurts to grace iconic cereal box as a ‘Wheaties Champion'",
+      "link": "https://nbcsportsphiladelphia.com/news/eagles-qb-jalen-hurts-to-grace-iconic-cereal-box-as-a-wheaties-champion/682304/",
+      "source": "NBC Sports Philadelphia",
+      "feed": "NBC Sports Philadelphia",
+      "published": "2025-09-04T09:23:55+0000",
+      "summary": "<p>Jalen Hurts will grace the cover following a winning season for Philadelphia.</p>"
+    },
+    {
+      "id": "c7a6bfdde4f26a82",
+      "title": "An NFL player changed an author's life. He's still adjusting to overnight success",
+      "link": "https://nbcsportsphiladelphia.com/nfl/aj-brown-eagles-inner-excellence-author-overnight-success/682281/",
+      "source": "NBC Sports Philadelphia",
+      "feed": "NBC Sports Philadelphia",
+      "published": "2025-09-04T07:59:50+0000",
+      "summary": "<p>A.J. Brown of the Philadelphia Eagles watches confetti fall after winning Super Bowl LIX against the Kansas City Chiefs at Caesars Superdome on Feb. 9, 2025, in New Orleans.</p>"
+    },
+    {
+      "id": "7d3704d477a8f39a",
+      "title": "How to watch, stream, and listen | Cowboys vs. Eagles",
+      "link": "https://philadelphiaeagles.com/news/how-to-watch-dallas-cowboys-vs-philadelphia-eagles-week-1-090425",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T04:00:00+0000",
+      "summary": "See how to watch and listen to the Eagles’ season opener against the Dallas Cowboys on Thursday, September 4, at 8:20 PM."
+    },
+    {
+      "id": "ca44ef9f351de01b",
+      "title": "Cowboys vs. Eagles Injury Report",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-week-1-2025",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T19:48:00+0000",
+      "summary": "Tanner McKee is out for Thursday night. Everyone else is good to go for the Eagles."
+    },
+    {
+      "id": "3c2e6772191f9e70",
+      "title": "Eagles sign CB Eli Ricks to practice squad, release OL Hollin Pierce",
+      "link": "https://philadelphiaeagles.com/news/eagles-sign-cb-eli-ricks-to-practice-squad-release-ol-hollin-pierce",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T17:52:40+0000",
+      "summary": "The Eagles are bringing back Ricks, who spent two seasons on Philadelphia’s 53-man roster."
+    },
+    {
+      "id": "d2895a79ce096d12",
+      "title": "A look inside the premiere of America's Game: 2024 Philadelphia Eagles",
+      "link": "https://philadelphiaeagles.com/news/a-look-inside-the-premiere-of-americas-game-2024-philadelphia-eagles",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T15:30:00+0000",
+      "summary": "NFL Films Senior Producer Greg Smith provides a behind-the-scenes preview of the documentary on the Super Bowl LIX Champions."
+    },
+    {
+      "id": "963ea792c89bf38e",
+      "title": "Get to know Lincoln the bald eagle, the performative bird at Eagles games",
+      "link": "https://philadelphiaeagles.com/news/get-to-know-lincoln-the-bald-eagle",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T14:00:14+0000",
+      "summary": "The 26-year-old bald eagle starts his second season with the Eagles on Thursday night."
+    },
+    {
+      "id": "dde80430f2a36191",
+      "title": "Eagles welcome Kendra Scott as new proud partner",
+      "link": "https://philadelphiaeagles.com/news/eagles-welcome-kendra-scott-as-new-proud-partner",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T13:00:00+0000",
+      "summary": "A curated collection of the lifestyle brand’s signature jewelry line will be sold exclusively in Eagles Pro Shops as part of the new multi-year agreement."
+    },
+    {
+      "id": "5fa4b0e6f7cc4840",
+      "title": "Takeoff: Nick Foles on Jalen Hurts, 2025 Eagles and more",
+      "link": "https://nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-nick-foles-takeoff-john-clark-podcast-jalen-hurts-super-bowl/682128/",
+      "source": "NBC Sports Philadelphia",
+      "feed": "NBC Sports Philadelphia",
+      "published": "2025-09-03T11:12:30+0000",
+      "summary": ""
+    },
+    {
+      "id": "f6a3b7d56e4533ac",
+      "title": "A.J. Brown, DeVonta Smith not concerned after missing time | Cowboys vs. Eagles Daily Updates",
+      "link": "https://philadelphiaeagles.com/news/cowboys-eagles-daily-updates-week-1-2025",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T20:27:00+0000",
+      "summary": "The wide receivers were rarely on the field together at Training Camp but don't expect any rust on Thursday night."
+    },
+    {
+      "id": "7c041756f2eb1df3",
+      "title": "Eagles and TickPick transform Lincoln Financial Field Stadium Tours through expanded partnership",
+      "link": "https://philadelphiaeagles.com/news/eagles-and-tickpick-transform-lincoln-financial-field-stadium-tours",
+      "source": "Philadelphia Eagles",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T18:00:00+0000",
+      "summary": "TickPick will now serve as the presenting partner of all Eagles fan tours at Lincoln Financial Field."
+    }
+  ],
+  "links": [
+    {
+      "label": "Schedule",
+      "url": "https://www.philadelphiaeagles.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.philadelphiaeagles.com/team/players-roster/"
+    },
+    {
+      "label": "Depth Chart",
+      "url": "https://www.espn.com/nfl/team/depth/_/name/phi/philadelphia-eagles"
+    },
+    {
+      "label": "Injury Report",
+      "url": "https://www.philadelphiaeagles.com/team/injury-report/"
+    },
+    {
+      "label": "Fan Zone",
+      "url": "https://www.philadelphiaeagles.com/fans/"
+    },
+    {
+      "label": "Team Shop",
+      "url": "https://shop.philadelphiaeagles.com/"
+    },
+    {
+      "label": "Tickets",
+      "url": "https://www.philadelphiaeagles.com/tickets/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/eagles/"
+    },
+    {
+      "label": "Bleacher Report",
+      "url": "https://bleacherreport.com/philadelphia-eagles"
+    },
+    {
+      "label": "ESPN Team",
+      "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles"
+    },
+    {
+      "label": "Yahoo Team",
+      "url": "https://sports.yahoo.com/nfl/teams/phi/"
+    },
+    {
+      "label": "PFF Team Page",
+      "url": "https://www.pff.com/nfl/teams/philadelphia-eagles/21"
+    },
+    {
+      "label": "Pro-Football-Reference",
+      "url": "https://www.pro-football-reference.com/teams/phi/"
+    },
+    {
+      "label": "NFL Power Rankings",
+      "url": "https://www.nfl.com/news/nfl-power-rankings"
+    },
+    {
+      "label": "Stats",
+      "url": "https://www.teamrankings.com/nfl/team/philadelphia-eagles"
+    },
+    {
+      "label": "Standings",
+      "url": "https://www.nfl.com/standings/league/2025/REG"
     }
   ]
 }
