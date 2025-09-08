@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-08T13:38:19.220407+00:00",
-  "count": 21,
+  "updated_iso": "2025-09-08T14:41:08.155804+00:00",
+  "count": 20,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-everyone-seems-agree-spitting-somebody-142401363-html",
+      "title": "Everyone seems to agree: spitting on somebody else is just wrong. But it keeps happening",
+      "link": "https://sports.yahoo.com/article/everyone-seems-agree-spitting-somebody-142401363.html",
+      "source": "Yahoo Sports",
+      "ts": 1757341441.0,
+      "published_iso": "2025-09-08T14:24:01+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-eagles-reportedly-working-veteran-slot-140735228-html",
+      "title": "Eagles reportedly working out veteran slot cornerback",
+      "link": "https://sports.yahoo.com/article/eagles-reportedly-working-veteran-slot-140735228.html",
+      "source": "Yahoo Sports",
+      "ts": 1757340455.0,
+      "published_iso": "2025-09-08T14:07:35+00:00"
+    },
     {
       "id": "https-si-com-nfl-eagles-news-eagles-urged-to-cut-ties-with-9-year-nfl-veteran-pat3",
       "title": "Eagles Urged To Cut Ties With 9-Year NFL Veteran",
@@ -43,9 +59,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
@@ -99,14 +115,6 @@
       "published_iso": "2025-09-07T15:52:25+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-nfl-announcer-joe-buck-releases-153025317-html",
-      "title": "NFL Announcer Joe Buck Releases His Super Bowl 60 Pick",
-      "link": "https://sports.yahoo.com/article/nfl-announcer-joe-buck-releases-153025317.html",
-      "source": "Yahoo Sports",
-      "ts": 1757259025.0,
-      "published_iso": "2025-09-07T15:30:25+00:00"
-    },
-    {
       "id": "https-sportingnews-com-us-nfl-philadelphia-eagles-news-eagles-legends-desean-jackson-michael-vick-college-football-coach",
       "title": "Eagles legends DeSean Jackson, Michael Vick make college football coaching personal history",
       "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-legends-desean-jackson-michael-vick-college-football-coaching-history/f9327b14dc7e0ec0d6e9851d",
@@ -153,22 +161,6 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-2ni6vh84hme6wnh0",
-      "title": "Jalen Carter ejected, Do the Eagles have what it takes to repeat? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-2ni6vh84hme6wnh0",
-      "source": "FOX Sports",
-      "ts": 1757068740.0,
-      "published_iso": "2025-09-05T10:39:00+00:00"
-    },
-    {
-      "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
-      "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
-      "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
-      "source": "cbsnews.com",
-      "ts": 1757025600.0,
-      "published_iso": "2025-09-04T22:40:00+00:00"
     }
   ]
 }
