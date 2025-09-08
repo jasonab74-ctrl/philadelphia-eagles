@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-08T19:25:03+00:00",
+  "updated": "2025-09-08T19:38:22+00:00",
   "items": [
     {
       "id": "e5d0917f822ac089",
@@ -9,6 +9,15 @@
       "feed": "ESPN",
       "published": "2025-09-08T19:40:44+0000",
       "summary": "Odds, spreads, totals and FPI predictions for all 16 NFL games in Week 2."
+    },
+    {
+      "id": "a7b663607dff7799",
+      "title": "Fan who hit DeAndre Hopkins, Lamar Jackson during Bills game given indefinite ban from NFL stadiums",
+      "link": "https://cbssports.com/nfl/news/fan-who-hit-deandre-hopkins-lamar-jackson-during-bills-game-given-indefinite-ban-from-nfl-stadiums/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-08T19:12:20+0000",
+      "summary": "The incident took place during the third quarter of 'Sunday Night Football'"
     },
     {
       "id": "42f28277437941bf",
@@ -27,15 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-08T19:11:22+0000",
       "summary": "NFL Network analyst Maurice Jones-Drew believes that the New York Giants seriously have to consider starting rookie Jaxson Dart."
-    },
-    {
-      "id": "f88d9a11ed484ab7",
-      "title": "Former Longhorn Jahdae Barron shines in his NFL debut with Denver Broncos",
-      "link": "https://longhornswire.usatoday.com/story/sports/college/longhorns/football/2025/09/08/former-texas-football-db-jahdae-barron-has-stellar-debut-with-broncos/86044712007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T19:02:52+0000",
-      "summary": "Former Longhorns DB Jahdae Barron plays key role in the Broncos win over Titans. Denver took Texas star 20th in the 2025 NFL Draft."
     },
     {
       "id": "387210564af669e0",
