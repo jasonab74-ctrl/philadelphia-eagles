@@ -1,4 +1,4 @@
-# Philadelphia Eagles — feeds + quick links (verified)
+# Philadelphia Eagles — trusted feeds + quick links (verified)
 
 FEEDS = [
     {"name": "Philadelphia Eagles",        "url": "https://www.philadelphiaeagles.com/rss/news"},
@@ -10,10 +10,7 @@ FEEDS = [
     {"name": "Yahoo Sports",               "url": "https://sports.yahoo.com/rss/"},
     {"name": "Sports Illustrated",         "url": "https://www.si.com/rss"},
     {"name": "CBS Sports",                 "url": "https://www.cbssports.com/rss/headlines/"},
-    {"name": "Bleacher Report",            "url": "https://bleacherreport.com/articles/feed"},
-    {"name": "PFF",                        "url": "https://www.pff.com/nfl/teams/philadelphia-eagles/21"},
-    {"name": "NFL.com",                    "url": "https://www.nfl.com/feeds-rs/news/rss.xml"},
-    {"name": "Reddit — r/eagles",          "url": "https://www.reddit.com/r/eagles/.rss"},
+    {"name": "The Athletic",               "url": "https://theathletic.com/team/eagles/feed/"},
 ]
 
 STATIC_LINKS = [
