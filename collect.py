@@ -1,35 +1,32 @@
 #!/usr/bin/env python3
-# Sports App Project — collector (HARDENED, TEAM: Eagles)
-# Guarantees:
-#   - Every item has source (normalized + allow-listed)
-#   - Every item has ISO 'published' (falls back to NOW if missing)
-#   - items.json ALWAYS includes 'links' (buttons) and 'updated'
-#   - Source dropdown stays clean
+# Philadelphia Eagles — collector (HARDENED, curated sources + guaranteed links/dates)
 
 import json, time, re, hashlib
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from datetime import datetime, timezone
 import feedparser
-
 from feeds import FEEDS, STATIC_LINKS
 
 MAX_ITEMS = 60
 
-# ----- allowlist for Source menu -----
-ALLOWED_SOURCES = {
-    # national
-    "ESPN","Yahoo Sports","Sports Illustrated","CBS Sports","SB Nation",
-    "Bleacher Report","The Athletic","NFL.com","PFF","Pro-Football-Reference",
-    "NBC Sports","USA Today",
-    # locals
-    "Philadelphia Eagles","Philadelphia Inquirer","PhillyVoice",
-    "NBC Sports Philadelphia","94WIP","Crossing Broad","Bleeding Green Nation",
-    # reddit label we emit
-    "Reddit — r/eagles",
-}
+# 1) Exactly the 10 sources you want in the dropdown (curated, stable labels)
+CURATED_SOURCES = [
+    "Philadelphia Eagles",
+    "Philadelphia Inquirer",
+    "PhillyVoice",
+    "NBC Sports Philadelphia",
+    "Bleeding Green Nation",
+    "ESPN",
+    "Yahoo Sports",
+    "Sports Illustrated",
+    "CBS Sports",
+    "The Athletic",
+]
 
-# ----- utils ---------------------------------------------------------------
+# 2) Only collect from these sources (keeps noise out)
+ALLOWED_SOURCES = set(CURATED_SOURCES)
 
+# ---------- utils ----------
 def now_iso():
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
 
@@ -57,27 +54,18 @@ def hid(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
 
 ALIASES = {
-    # national
-    "espn.com":"ESPN",
-    "sports.yahoo.com":"Yahoo Sports",
-    "si.com":"Sports Illustrated",
-    "cbssports.com":"CBS Sports",
-    "sbnation.com":"SB Nation",
-    "bleacherreport.com":"Bleacher Report",
-    "theathletic.com":"The Athletic",
-    "nfl.com":"NFL.com",
-    "pff.com":"PFF",
-    "pro-football-reference.com":"Pro-Football-Reference",
-    "nbcsports.com":"NBC Sports",
-    "usatoday.com":"USA Today",
     # locals
     "philadelphiaeagles.com":"Philadelphia Eagles",
     "inquirer.com":"Philadelphia Inquirer",
     "phillyvoice.com":"PhillyVoice",
     "nbcsportsphiladelphia.com":"NBC Sports Philadelphia",
-    "audacy.com":"94WIP",
-    "crossingbroad.com":"Crossing Broad",
     "bleedinggreennation.com":"Bleeding Green Nation",
+    # national
+    "espn.com":"ESPN",
+    "sports.yahoo.com":"Yahoo Sports",
+    "si.com":"Sports Illustrated",
+    "cbssports.com":"CBS Sports",
+    "theathletic.com":"The Athletic",
 }
 
 KEEP = [r"\bEagles\b", r"\bPhiladelphia\b", r"\bPhilly\b"]
@@ -90,23 +78,18 @@ def text_ok(title: str, summary: str) -> bool:
     return True
 
 def parse_time(entry):
-    for k in ("published_parsed","updated_parsed"):
-        if entry.get(k):
+    for key in ("published_parsed","updated_parsed"):
+        if entry.get(key):
             try:
-                return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[k])
+                return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[key])
             except Exception:
                 pass
-    # ultimate fallback so UI ALWAYS has a date
-    return now_iso()
+    return now_iso()  # guaranteed fallback so dates always render
 
-def normalize_source(link: str, feed_name: str) -> str:
-    if "reddit.com/r/eagles" in link or "r/eagles" in feed_name.lower():
-        return "Reddit — r/eagles"
-    lab = ALIASES.get(_host(link), feed_name.strip())
-    return lab
+def source_label(link: str, feed_name: str) -> str:
+    return ALIASES.get(_host(link), feed_name.strip())
 
-# ----- pipeline ------------------------------------------------------------
-
+# ---------- pipeline ----------
 def fetch_all():
     items, seen = [], set()
     for f in FEEDS:
@@ -121,9 +104,9 @@ def fetch_all():
             key = hid(link)
             if key in seen: continue
 
-            src = normalize_source(link, fname)
+            src = source_label(link, fname)
             if src not in ALLOWED_SOURCES:
-                continue
+                continue  # hard gate → dropdown stays clean
 
             title = (e.get("title") or "").strip()
             summary = (e.get("summary") or e.get("description") or "").strip()
@@ -135,7 +118,7 @@ def fetch_all():
                 "link": link,
                 "source": src,
                 "feed": fname,
-                "published": parse_time(e),   # ALWAYS present
+                "published": parse_time(e),   # ISO string (always present)
                 "summary": summary,
             })
             seen.add(key)
@@ -144,12 +127,14 @@ def fetch_all():
     return items[:MAX_ITEMS]
 
 def write_items(items):
-    payload = {"updated": now_iso(), "items": items, "links": STATIC_LINKS}
-    with open("items.json","w",encoding="utf-8") as f:
+    payload = {
+        "updated": now_iso(),
+        "items": items,
+        "links": STATIC_LINKS,          # buttons ALWAYS included
+        "sources": CURATED_SOURCES,     # prebuilt list → dropdown always shows 10
+    }
+    with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-def main():
-    write_items(fetch_all())
-
 if __name__ == "__main__":
-    main()
+    write_items(fetch_all())
