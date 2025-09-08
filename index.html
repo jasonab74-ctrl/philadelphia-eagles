@@ -15,7 +15,7 @@
 </head>
 <body>
   <header class="hero">
-    <div class="logo-box"><img id="teamLogo" src="static/eagles.png" alt="Eagles"></div>
+    <div class="logo-box"><img src="static/eagles.png" alt="Eagles"></div>
     <div class="hero-titles">
       <h1>Philadelphia Eagles — News</h1>
       <div class="sub">Live team feed · auto-updates</div>
@@ -23,6 +23,7 @@
     <a class="badge" href="/fightsong" target="_blank" rel="noopener">Fly Eagles Fly</a>
   </header>
 
+  <!-- Buttons -->
   <div id="links" class="pill-row"></div>
 
   <section class="controls">
@@ -44,12 +45,12 @@
     const sourceSelect = document.getElementById('sourceSelect');
     const linksEl = document.getElementById('links');
 
-    function fmtLocal(iso){
-      try{
+    const fmtLocal = iso => {
+      try {
         const d = new Date(iso);
         return d.toLocaleString([], {year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
-      }catch(_){ return iso || ''; }
-    }
+      } catch { return iso || ''; }
+    };
 
     function renderLinks(links) {
       linksEl.innerHTML = '';
@@ -65,7 +66,8 @@
     }
 
     function buildSourceDropdown(items) {
-      const sources = Array.from(new Set((items||[]).map(i => i.source).filter(Boolean))).sort();
+      // Build from normalized 'source'; if missing, fall back to 'feed'
+      const sources = Array.from(new Set((items||[]).map(i => i.source || i.feed).filter(Boolean))).sort();
       sourceSelect.innerHTML = '';
       const optAll = document.createElement('option');
       optAll.value = '';
@@ -78,9 +80,9 @@
       });
     }
 
-    function renderItems(items) {
+    const renderItems = items => {
       feedEl.innerHTML = '';
-      (items||[]).forEach(it => {
+      (items || []).forEach(it => {
         const card = document.createElement('article');
         card.className = 'card';
         const a = document.createElement('a');
@@ -89,31 +91,30 @@
         a.textContent = it.title || '(no title)';
         const meta = document.createElement('div');
         meta.className = 'meta';
-        meta.textContent = `${it.source || it.feed || ''} • ${fmtLocal(it.published)}`;
+        const src = it.source || it.feed || '—';
+        const when = fmtLocal(it.published || it.updated || '');
+        meta.textContent = `${src} • ${when}`;
         card.appendChild(a); card.appendChild(meta);
         feedEl.appendChild(card);
       });
-    }
+    };
 
     function applyFilter(all) {
       const src = sourceSelect.value;
-      renderItems(src ? all.filter(i => i.source === src) : all);
+      const filtered = src ? all.filter(i => (i.source || i.feed) === src) : all;
+      renderItems(filtered);
     }
 
-    async function loadAndRender(initial=false){
+    async function loadAndRender(initial=false) {
       try{
-        const r = await fetch('items.json', {cache:'no-cache'});
+        const r = await fetch('items.json?ts=' + Date.now(), {cache:'no-store'});
         const data = await r.json();
         updatedEl.textContent = fmtLocal(data.updated || '');
         renderLinks(data.links || []);
         buildSourceDropdown(data.items || []);
         renderItems(data.items || []);
-        if (initial){
-          sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
-        } else {
-          applyFilter(data.items || []);
-        }
-      }catch(e){
+        if (initial) sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
+      }catch{
         updatedEl.textContent = 'load failed';
       }
     }
