@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-08T23:28:57+00:00",
+  "updated": "2025-09-08T23:41:29+00:00",
   "items": [
     {
       "id": "bd725205e6b373d3",
@@ -11,6 +11,15 @@
       "summary": "NFL stars didn't just show up to play -- they showed up in style. From Joe Burrow to Jayden Daniels, here are the best looks from the first Sunday of the season."
     },
     {
+      "id": "6ada8e6b5fa5d08a",
+      "title": "Michigan national champions JJ McCarthy, Colston Loveland set for NFL debuts on Monday Night Football",
+      "link": "https://sportingnews.com/us/ncaa-football/michigan/news/michigan-national-champions-jj-mccarthy-colston-loveland-set-nfl-debuts-monday-night-football/20e97557953f3d236f9b09be",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-08T23:29:53+0000",
+      "summary": "Vikings' JJ McCarthy and Bears' Colston Loveland were national champion teammates at Michigan, and now they'll face each other in their NFL debuts on Monday Night Football."
+    },
+    {
       "id": "41be5f9d98842b51",
       "title": "Saints cut rookie draft pick one day after their first regular season game",
       "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/09/08/saints-cut-rookie-draft-pick-fadil-diggs-nfl-roster-moves/86049871007/",
@@ -18,15 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-08T23:16:42+0000",
       "summary": "Life on the edge of an NFL roster isn't easy. The Saints waived rookie draft pick Fadil Diggs one day after their first regular season game:"
-    },
-    {
-      "id": "91e57b3a3d99ea79",
-      "title": "Bears vs. Vikings prediction, odds, time, line: 2025 NFL Week 1 Monday Night Football picks by proven computer",
-      "link": "https://cbssports.com/nfl/news/bears-vs-vikings-prediction-odds-time-line-2025-nfl-week-1-monday-night-football-picks-by-proven-computer/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-08T23:12:30+0000",
-      "summary": "The SportsLine projection model has revealed its Chicago vs. Minnesota picks for Monday Night Football in 2025 NFL Week 1"
     },
     {
       "id": "387210564af669e0",
@@ -74,15 +74,6 @@
       "summary": "Does Shai Gilgeous-Alexander believe he could've made the NFL?"
     },
     {
-      "id": "411b46d8368ed8bf",
-      "title": "NFL Inactive Report",
-      "link": "https://sports.yahoo.com/article/nfl-inactive-report-224821601.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T22:48:21+0000",
-      "summary": ""
-    },
-    {
       "id": "b3efe2771f818f8c",
       "title": "Bears vs. Vikings NFL props, best SportsLine Machine Learning Model AI predictions: Williams under 214.5 yards",
       "link": "https://cbssports.com/nfl/news/bears-vs-vikings-nfl-props-best-sportsline-machine-learning-model-ai-predictions-williams-under-214-5-yards/",
@@ -90,15 +81,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-08T22:45:32+0000",
       "summary": "NFL prop picks and SGP bets for Chicago vs. Minnesota on Monday Night Football from the SportsLine Machine Learning Model AI"
-    },
-    {
-      "id": "a8b0d0cb8aad6436",
-      "title": "'Our future home in Arlington Heights': Chicago Bears president writes letter to fans. Read it here",
-      "link": "https://pjstar.com/story/sports/nfl/2025/09/08/chicago-bears-stadium-kevin-warren-full-letter-to-fans/86049527007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T22:45:29+0000",
-      "summary": "Chicago Bears boss Kevin Warren says the team's future home will be in Arlington Heights. Read his entire letter to the NFL team's fan base."
     },
     {
       "id": "f05d6fb8b72a8adc",
@@ -540,6 +522,24 @@
       "feed": "NBC Sports Philadelphia",
       "published": "2025-09-03T11:12:30+0000",
       "summary": ""
+    },
+    {
+      "id": "f6a3b7d56e4533ac",
+      "title": "A.J. Brown, DeVonta Smith not concerned after missing time | Cowboys vs. Eagles Daily Updates",
+      "link": "https://philadelphiaeagles.com/news/cowboys-eagles-daily-updates-week-1-2025",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T20:27:00+0000",
+      "summary": "The wide receivers were rarely on the field together at Training Camp but don't expect any rust on Thursday night."
+    },
+    {
+      "id": "7c041756f2eb1df3",
+      "title": "Eagles and TickPick transform Lincoln Financial Field Stadium Tours through expanded partnership",
+      "link": "https://philadelphiaeagles.com/news/eagles-and-tickpick-transform-lincoln-financial-field-stadium-tours",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T18:00:00+0000",
+      "summary": "TickPick will now serve as the presenting partner of all Eagles fan tours at Lincoln Financial Field."
     }
   ],
   "links": [
