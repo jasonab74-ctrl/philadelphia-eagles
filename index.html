@@ -5,20 +5,20 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Philadelphia Eagles — News</title>
 
-  <!-- Favicons / PWA -->
+  <!-- Icons / manifest (relative paths so subfolder Pages works) -->
   <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png" />
   <link rel="manifest" href="manifest.webmanifest" />
   <meta name="theme-color" content="#004c54" />
 
-  <!-- Cache-busted CSS so the new light theme *actually* loads -->
+  <!-- Cache-busted CSS to ensure the light theme loads -->
   <link rel="stylesheet" href="static/style.css?v=light-2025-09-08" />
 </head>
 <body>
   <header class="hero">
     <div class="logo-box">
-      <!-- Tries eagles.png first, then falls back to logo.png automatically -->
+      <!-- Try team-specific file; fall back to generic if missing -->
       <img
         id="teamLogo"
         src="static/eagles.png"
@@ -34,20 +34,20 @@
       <div class="sub">Live team feed · auto-updates</div>
     </div>
 
-    <!-- Inline audio play/pause (no new window) -->
+    <!-- Inline audio toggle (no navigation) -->
     <button id="fightBtn" class="fight-btn" type="button" aria-label="Play Fly Eagles Fly">
       <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><path d="M8 5v14l11-7L8 5z"/></svg>
       <span class="label">Fly Eagles Fly</span>
     </button>
 
-    <!-- Hidden audio with two sources (standard + legacy name) -->
+    <!-- Hidden audio element; standard name + legacy name for safety -->
     <audio id="fightAudio" preload="auto">
       <source src="static/fight-song.mp3" type="audio/mpeg" />
       <source src="static/fly-eagles-fly.mp3" type="audio/mpeg" />
     </audio>
   </header>
 
-  <!-- Quick links (buttons) -->
+  <!-- Quick links (buttons row populated from items.json) -->
   <div id="links" class="pill-row"></div>
 
   <section class="controls">
@@ -64,7 +64,7 @@
   <main id="feed"></main>
 
   <script>
-    // ---- Fight song: inline play/pause, never opens a tab
+    // ---------- Fight song inline play/pause ----------
     const fightBtn = document.getElementById('fightBtn');
     const audio = document.getElementById('fightAudio');
     let isPlaying = false;
@@ -93,7 +93,7 @@
     audio.addEventListener('pause', () => setBtn(false));
     audio.addEventListener('play', () => setBtn(true));
 
-    // ---- Feed rendering (hardened) ----
+    // ---------- Feed rendering ----------
     const feedEl = document.getElementById('feed');
     const updatedEl = document.getElementById('updated');
     const sourceSelect = document.getElementById('sourceSelect');
