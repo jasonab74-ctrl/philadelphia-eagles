@@ -1,32 +1,34 @@
 #!/usr/bin/env python3
-# Sports App Project — collector (HARDENED + TEAM-AGNOSTIC)
-# - Always writes buttons (links), items, and updated timestamp
-# - Normalizes publisher names
-# - Enforces an allowlist for the Source dropdown
-# - Produces ISO timestamps; UI formats them to local time
+# Sports App Project — collector (HARDENED, TEAM: Eagles)
+# Guarantees:
+#   - Every item has source (normalized + allow-listed)
+#   - Every item has ISO 'published' (falls back to NOW if missing)
+#   - items.json ALWAYS includes 'links' (buttons) and 'updated'
+#   - Source dropdown stays clean
 
 import json, time, re, hashlib
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from datetime import datetime, timezone
 import feedparser
 
-from feeds import FEEDS, STATIC_LINKS  # team-specific feeds + buttons
+from feeds import FEEDS, STATIC_LINKS
 
 MAX_ITEMS = 60
 
+# ----- allowlist for Source menu -----
 ALLOWED_SOURCES = {
     # national
     "ESPN","Yahoo Sports","Sports Illustrated","CBS Sports","SB Nation",
     "Bleacher Report","The Athletic","NFL.com","PFF","Pro-Football-Reference",
     "NBC Sports","USA Today",
-    # eagles locals
+    # locals
     "Philadelphia Eagles","Philadelphia Inquirer","PhillyVoice",
     "NBC Sports Philadelphia","94WIP","Crossing Broad","Bleeding Green Nation",
-    # generic reddit labels used by our feeds
-    "Reddit — r/eagles","Reddit — r/Colts","Reddit — r/azcardinals"
+    # reddit label we emit
+    "Reddit — r/eagles",
 }
 
-# ---------------- utilities ----------------
+# ----- utils ---------------------------------------------------------------
 
 def now_iso():
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
@@ -68,7 +70,7 @@ ALIASES = {
     "pro-football-reference.com":"Pro-Football-Reference",
     "nbcsports.com":"NBC Sports",
     "usatoday.com":"USA Today",
-    # philly
+    # locals
     "philadelphiaeagles.com":"Philadelphia Eagles",
     "inquirer.com":"Philadelphia Inquirer",
     "phillyvoice.com":"PhillyVoice",
@@ -78,35 +80,32 @@ ALIASES = {
     "bleedinggreennation.com":"Bleeding Green Nation",
 }
 
-def source_label(link: str, feed_name: str) -> str:
-    L = feed_name.strip()
-    hl = _host(link)
-    # collapse reddit
-    if "reddit.com/r/eagles" in link or "r/eagles" in feed_name.lower():
-        return "Reddit — r/eagles"
-    return ALIASES.get(hl, L)
-
-KEEP_PATTERNS = [
-    r"\bEagles\b", r"\bPhiladelphia\b", r"\bPhilly\b",
-]
-DROP_PATTERNS = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
+KEEP = [r"\bEagles\b", r"\bPhiladelphia\b", r"\bPhilly\b"]
+DROP = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
 
 def text_ok(title: str, summary: str) -> bool:
     t = f"{title} {summary}"
-    if not any(re.search(p, t, re.I) for p in KEEP_PATTERNS): return False
-    if any(re.search(p, t, re.I) for p in DROP_PATTERNS): return False
+    if not any(re.search(p, t, re.I) for p in KEEP): return False
+    if any(re.search(p, t, re.I) for p in DROP): return False
     return True
 
 def parse_time(entry):
-    for key in ("published_parsed","updated_parsed"):
-        if entry.get(key):
+    for k in ("published_parsed","updated_parsed"):
+        if entry.get(k):
             try:
-                return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[key])
+                return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[k])
             except Exception:
                 pass
+    # ultimate fallback so UI ALWAYS has a date
     return now_iso()
 
-# ---------------- pipeline ----------------
+def normalize_source(link: str, feed_name: str) -> str:
+    if "reddit.com/r/eagles" in link or "r/eagles" in feed_name.lower():
+        return "Reddit — r/eagles"
+    lab = ALIASES.get(_host(link), feed_name.strip())
+    return lab
+
+# ----- pipeline ------------------------------------------------------------
 
 def fetch_all():
     items, seen = [], set()
@@ -122,7 +121,7 @@ def fetch_all():
             key = hid(link)
             if key in seen: continue
 
-            src = source_label(link, fname)
+            src = normalize_source(link, fname)
             if src not in ALLOWED_SOURCES:
                 continue
 
@@ -136,7 +135,7 @@ def fetch_all():
                 "link": link,
                 "source": src,
                 "feed": fname,
-                "published": parse_time(e),
+                "published": parse_time(e),   # ALWAYS present
                 "summary": summary,
             })
             seen.add(key)
@@ -145,13 +144,12 @@ def fetch_all():
     return items[:MAX_ITEMS]
 
 def write_items(items):
-    payload = {
-        "updated": now_iso(),
-        "items": items,
-        "links": STATIC_LINKS  # ALWAYS include buttons
-    }
-    with open("items.json", "w", encoding="utf-8") as f:
+    payload = {"updated": now_iso(), "items": items, "links": STATIC_LINKS}
+    with open("items.json","w",encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-if __name__ == "__main__":
+def main():
     write_items(fetch_all())
+
+if __name__ == "__main__":
+    main()
