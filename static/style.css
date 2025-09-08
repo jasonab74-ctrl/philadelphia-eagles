@@ -1,181 +1,32 @@
 :root{
-  --bg: #0f3a3e;          /* header teal (Eagles vibe; change per team) */
-  --bg2:#0a1a1d;          /* page background */
-  --fg: #f4f7f8;          /* text on dark */
-  --ink:#0e1517;          /* body text on light */
-  --accent:#d5a300;       /* thin underline accent */
-  --pill:#e9eef1;         /* pill background */
-  --pill-ink:#0f1a1c;     /* pill text */
-  --card:#ffffff;         /* card background */
-  --muted:#647078;        /* subtle text */
-  --ring:#cfd8dc;
+  --primary:#004c54;      /* Eagles green */
+  --bg:#0a1416;
+  --card:#0f1c20;
+  --pill:#e6eef1;
+  --text:#eef6f7;
+  --muted:#c7d6de;
 }
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text)}
+.hero{display:flex;align-items:center;gap:12px;padding:16px;border-bottom:4px solid #e2b007;background:var(--primary)}
+.logo-box{width:64px;height:64px;border-radius:12px;background:#082c30;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.logo-box img{max-width:100%;max-height:100%}
+.hero h1{margin:0;font-size:1.8rem}
+.sub{opacity:.9}
+.badge{margin-left:auto;background:#e6eef1;color:#0a1416;text-decoration:none;padding:.5rem .9rem;border-radius:999px;font-weight:700}
 
-/* Reset / typography */
-*{ box-sizing: border-box; }
-html,body{ height:100%; }
-html{ -webkit-text-size-adjust:100%; }
-body{
-  margin:0;
-  background: var(--bg2);
-  color: var(--fg);
-  font: 16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, sans-serif;
-}
+.pill-row{display:flex;flex-wrap:wrap;gap:.6rem;padding:12px}
+.pill{display:inline-block;padding:.55rem .9rem;border-radius:999px;background:var(--pill);color:#0a1416;text-decoration:none;font-weight:700}
 
-/* Hero */
-.hero{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:16px;
-  padding:16px clamp(env(safe-area-inset-left), 5vw, 32px) 20px clamp(env(safe-area-inset-left), 5vw, 32px);
-  background: linear-gradient(180deg, var(--bg) 0%, #0c2d30 100%);
-  border-bottom:4px solid var(--accent);
-}
-.hero-left{
-  display:flex;
-  align-items:center;
-  gap:14px;
-  min-width:0;
-}
-.logo{
-  width:72px;
-  height:72px;
-  border-radius:12px;
-  object-fit:contain;
-  background:#102427;
-  padding:8px;
-  border:1px solid rgba(255,255,255,.12);
-}
-.titles h1{
-  margin:0 0 4px 0;
-  font-size: clamp(22px, 4.8vw, 40px);
-  line-height:1.05;
-}
-.subtitle{
-  margin:0;
-  color:#cfe3e6;
-  font-size:14px;
-}
+.controls{display:flex;justify-content:space-between;align-items:center;padding:8px 12px}
+.controls label{font-weight:700;margin-right:.4rem}
+#sourceSelect{padding:.45rem .6rem;border-radius:.6rem;border:1px solid #9fb5c2;background:#fff;color:#0a1416}
 
-/* Fight song pill */
-.pill-play{
-  white-space:nowrap;
-  background: var(--pill);
-  color: var(--pill-ink);
-  border:1px solid var(--ring);
-  border-radius:999px;
-  padding:10px 16px;
-  font-weight:600;
-}
-.pill-play.playing{
-  outline: 2px solid #2ecc71;
-}
+main{padding:6px 12px 40px}
+.card{background:var(--card);border-radius:16px;padding:14px;margin:10px 0}
+.title{font-weight:800;text-decoration:none;color:var(--text);display:block}
+.meta{color:var(--muted);margin-top:6px;font-size:.92rem}
 
-/* Quick links */
-.links{
-  display:flex;
-  flex-wrap:wrap;
-  gap:12px;
-  padding: 12px clamp(env(safe-area-inset-left), 5vw, 32px) 8px;
-}
-.pill{
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  height:40px;
-  padding:0 16px;
-  border-radius:999px;
-  background: var(--pill);
-  color: var(--pill-ink);
-  text-decoration:none;
-  border:1px solid var(--ring);
-  font-weight:600;
-}
-
-/* Toolbar */
-.toolbar{
-  display:flex;
-  align-items:center;
-  gap:16px;
-  padding: 6px clamp(env(safe-area-inset-left), 5vw, 32px) 0;
-  flex-wrap:wrap;
-}
-.lbl{ color:#c7d1d6; font-weight:600; }
-.select{
-  appearance:none;
-  -webkit-appearance:none;
-  height:38px;
-  padding:0 36px 0 12px;
-  border-radius:10px;
-  border:1px solid var(--ring);
-  background:#f5f8fb;
-  color:#0b1416;
-}
-.updated{ margin-left:auto; display:flex; gap:8px; align-items:center; }
-.updated #updatedAt{ color:#d3dde2; }
-
-/* Cards grid */
-.cards{
-  --pad: clamp(env(safe-area-inset-left), 5vw, 32px);
-  display:grid;
-  grid-template-columns: 1fr;
-  gap:14px;
-  padding: 12px var(--pad) 48px var(--pad);
-  max-width: 1100px;
-  margin: 0 auto;
-}
-@media (min-width: 700px){
-  .cards{ grid-template-columns: 1fr 1fr; }
-}
-@media (min-width: 1024px){
-  .cards{ grid-template-columns: 1fr 1fr 1fr; }
-}
-
-.card{
-  background: var(--card);
-  color: var(--ink);
-  border-radius:16px;
-  border:1px solid #e5eaee;
-  box-shadow: 0 1px 2px rgba(0,0,0,.04);
-}
-.card-link{
-  display:block;
-  padding:16px 16px 14px;
-  color:inherit;
-  text-decoration:none;
-}
-.card .title{
-  margin:0 0 10px 0;
-  font-size: 18px;
-  line-height:1.2;
-}
-.card .meta{
-  display:flex;
-  gap:8px;
-  color: var(--muted);
-  font-size: 14px;
-}
-.card .dot{ opacity:.7; }
-
-/* Empty state */
-.empty{
-  grid-column:1 / -1;
-  background:#0f2427;
-  color:#cfe3e6;
-  border:1px dashed #1f3e42;
-  border-radius:12px;
-  padding:18px;
-}
-
-/* Footer */
-.footer{
-  padding:20px;
-  text-align:center;
-  color:#9fb1b7;
-}
-
-/* Prevent iOS standalone from zooming weirdly */
-@supports (-webkit-touch-callout: none) {
-  html, body { width:100%; }
+@media(min-width:768px){
+  main{max-width:860px;margin:0 auto}
 }
