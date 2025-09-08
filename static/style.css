@@ -1,27 +1,26 @@
-/* Eagles — light theme with green background and dark text */
+/* Eagles — LIGHT THEME (light green background, dark text) */
 
 :root{
-  --primary:#004c54;      /* Eagles green for header/button text */
-  --accent:#e2b007;       /* gold accent line */
-  --bg:#E6F4EA;           /* light green page background */
-  --card:#FFFFFF;         /* white cards for contrast */
-  --pill:#d9efe3;         /* lighter green pills */
-  --text:#0b2a2e;         /* dark text */
-  --muted:#38565b;        /* muted dark for meta */
+  --primary:#004c54;   /* header green */
+  --accent:#e2b007;    /* thin gold line under header */
+  --bg:#E6F4EA;        /* light green background */
+  --card:#FFFFFF;      /* white cards */
+  --pill:#d8efe3;      /* lighter green pills */
+  --text:#0e2a2f;      /* dark text for strong contrast */
+  --muted:#315459;     /* muted meta text */
 }
+
 *{box-sizing:border-box}
 body{
   margin:0;
-  font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   background:var(--bg);
   color:var(--text);
+  font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
 }
 
 /* ----- HEADER ----- */
 .hero{
-  display:flex;
-  align-items:center;
-  gap:14px;
+  display:flex; align-items:center; gap:14px;
   padding:16px;
   background:var(--primary);
   border-bottom:4px solid var(--accent);
@@ -30,61 +29,54 @@ body{
 .logo-box{
   width:64px;height:64px;border-radius:12px;background:#fff;
   display:flex;align-items:center;justify-content:center;overflow:hidden;
-  box-shadow:0 1px 4px rgba(0,0,0,.35);
+  box-shadow:0 1px 4px rgba(0,0,0,.35)
 }
-.logo-box img{max-width:100%;max-height:100%;display:block}
+.logo-box img{display:block;max-width:100%;max-height:100%}
 .hero-titles h1{margin:0;font-size:1.8rem;color:#fff;line-height:1.05}
-.hero-titles .sub{color:#e8f0f3;opacity:.9;font-size:.92rem}
+.hero-titles .sub{color:#eaf4f6;opacity:.92;font-size:.92rem}
 
-/* Fight song button with play icon (inline) */
+/* ---- fight button ---- */
 .fight-btn{
-  margin-left:auto;
-  display:inline-flex; align-items:center; gap:.5rem;
+  margin-left:auto; display:inline-flex; align-items:center; gap:.5rem;
   background:#ffffff; color:var(--primary);
-  text-decoration:none; padding:.6rem 1rem;
-  border-radius:999px; font-weight:800; font-size:.95rem;
-  box-shadow:0 1px 4px rgba(0,0,0,.28);
   border:1px solid rgba(0,0,0,.06);
-  cursor:pointer;
-  transition:transform .06s ease, background .2s ease, color .2s ease;
+  border-radius:999px; padding:.6rem 1rem;
+  font-weight:800; font-size:.95rem; cursor:pointer;
+  box-shadow:0 1px 4px rgba(0,0,0,.25);
+  transition:transform .06s ease, background .2s ease, color .2s ease
 }
 .fight-btn .icon{width:18px;height:18px;fill:var(--primary)}
-.fight-btn:hover{background:var(--accent);color:#0a1416}
-.fight-btn:hover .icon{fill:#0a1416}
+.fight-btn:hover{background:var(--accent);color:#0e1416}
+.fight-btn:hover .icon{fill:#0e1416}
 .fight-btn:active{transform:translateY(1px)}
-.fight-btn.playing{background:#d6ffd6;color:#0a1416}
-.fight-btn.playing .icon{fill:#0a1416}
+.fight-btn.playing{background:#c9ffd2;color:#0e1416}
+.fight-btn.playing .icon{fill:#0e1416}
 
-.player-wrap{padding:8px 12px}
-.hidden{display:none}
-
-/* ----- QUICK LINKS (buttons row) ----- */
+/* ----- QUICK LINKS ----- */
 .pill-row{display:flex;flex-wrap:wrap;gap:.6rem;padding:12px}
 .pill{
-  display:inline-block;padding:.55rem .9rem;border-radius:999px;
-  background:var(--pill);color:var(--text);text-decoration:none;font-weight:800
+  display:inline-block; padding:.55rem .9rem; border-radius:999px;
+  background:var(--pill); color:var(--text); text-decoration:none; font-weight:800
 }
 
 /* ----- CONTROLS ----- */
 .controls{display:flex;justify-content:space-between;align-items:center;padding:8px 12px}
 .controls label{font-weight:800;margin-right:.4rem}
 #sourceSelect{
-  padding:.45rem .6rem;border-radius:.6rem;border:1px solid #9fb5c2;background:#fff;color:var(--text)
+  padding:.45rem .6rem;border-radius:.6rem;border:1px solid #9fb5c2;
+  background:#fff;color:var(--text)
 }
 
 /* ----- FEED CARDS ----- */
 main{padding:6px 12px 40px}
 .card{
-  background:var(--card);
-  border-radius:16px;
-  padding:14px;
-  margin:10px 0;
-  box-shadow:0 1px 2px rgba(0,0,0,.06);
+  background:var(--card); border-radius:16px; padding:14px; margin:10px 0;
+  box-shadow:0 1px 2px rgba(0,0,0,.06)
 }
 .title{font-weight:900;text-decoration:none;color:var(--text);display:block}
 .meta{color:var(--muted);margin-top:6px;font-size:.92rem}
 
-/* Layout width on larger screens */
+/* width on larger screens */
 @media(min-width:768px){
   main{max-width:860px;margin:0 auto}
 }
