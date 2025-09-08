@@ -1,41 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Philadelphia Eagles — News</title>
 
-  <!-- icons / manifest (kept relative so GitHub Pages subfolders work) -->
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
-  <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#004c54">
+  <!-- Favicons / PWA -->
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <meta name="theme-color" content="#004c54" />
 
-  <link rel="stylesheet" href="static/style.css">
+  <!-- Cache-busted CSS so the new light theme *actually* loads -->
+  <link rel="stylesheet" href="static/style.css?v=light-2025-09-08" />
 </head>
 <body>
   <header class="hero">
     <div class="logo-box">
-      <!-- Make sure this file exists at /static/eagles.png -->
-      <img src="static/eagles.png" alt="Philadelphia Eagles logo" width="64" height="64">
+      <!-- Tries eagles.png first, then falls back to logo.png automatically -->
+      <img
+        id="teamLogo"
+        src="static/eagles.png"
+        alt="Philadelphia Eagles logo"
+        width="64"
+        height="64"
+        onerror="this.onerror=null; this.src='static/logo.png';"
+      />
     </div>
+
     <div class="hero-titles">
       <h1>Philadelphia Eagles — News</h1>
       <div class="sub">Live team feed · auto-updates</div>
     </div>
 
-    <!-- Inline play (no navigation) -->
+    <!-- Inline audio play/pause (no new window) -->
     <button id="fightBtn" class="fight-btn" type="button" aria-label="Play Fly Eagles Fly">
       <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><path d="M8 5v14l11-7L8 5z"/></svg>
       <span class="label">Fly Eagles Fly</span>
     </button>
-  </header>
 
-  <!-- fallback inline audio controls appear only if autoplay is blocked -->
-  <div id="fallbackPlayer" class="hidden player-wrap">
-    <audio id="player" src="static/fight-song.mp3" preload="auto" controls></audio>
-  </div>
+    <!-- Hidden audio with two sources (standard + legacy name) -->
+    <audio id="fightAudio" preload="auto">
+      <source src="static/fight-song.mp3" type="audio/mpeg" />
+      <source src="static/fly-eagles-fly.mp3" type="audio/mpeg" />
+    </audio>
+  </header>
 
   <!-- Quick links (buttons) -->
   <div id="links" class="pill-row"></div>
@@ -54,35 +64,46 @@
   <main id="feed"></main>
 
   <script>
-    // ---- Fight song: play inline, never open a new tab
+    // ---- Fight song: inline play/pause, never opens a tab
     const fightBtn = document.getElementById('fightBtn');
-    const fallback = document.getElementById('fallbackPlayer');
-    const audio = new Audio('static/fight-song.mp3'); // must exist
-    audio.preload = 'auto';
+    const audio = document.getElementById('fightAudio');
+    let isPlaying = false;
+
+    function setBtn(state) {
+      isPlaying = state;
+      fightBtn.classList.toggle('playing', state);
+      fightBtn.querySelector('.label').textContent = state ? 'Pause' : 'Fly Eagles Fly';
+    }
 
     fightBtn.addEventListener('click', async () => {
       try {
-        await audio.play();
-        fightBtn.classList.add('playing');
-        fightBtn.querySelector('.label').textContent = 'Playing…';
+        if (!isPlaying) {
+          await audio.play();
+          setBtn(true);
+        } else {
+          audio.pause();
+          setBtn(false);
+        }
       } catch (e) {
-        // If the browser blocks play, show inline controls as fallback
-        fallback.classList.remove('hidden');
-        document.getElementById('player').play().catch(()=>{});
+        alert('Could not play audio. Ensure static/fight-song.mp3 exists.');
       }
     });
 
-    // ---- Feed rendering (unchanged, hardened-friendly) ----
+    audio.addEventListener('ended', () => setBtn(false));
+    audio.addEventListener('pause', () => setBtn(false));
+    audio.addEventListener('play', () => setBtn(true));
+
+    // ---- Feed rendering (hardened) ----
     const feedEl = document.getElementById('feed');
     const updatedEl = document.getElementById('updated');
     const sourceSelect = document.getElementById('sourceSelect');
     const linksEl = document.getElementById('links');
 
     const fmtLocal = iso => {
-      try{
+      try {
         const d = new Date(iso);
         return d.toLocaleString([], {year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
-      }catch{ return iso || ''; }
+      } catch { return iso || ''; }
     };
 
     function renderLinks(links){
@@ -146,13 +167,13 @@
         updatedEl.textContent = (data.updated ? fmtLocal(data.updated) : '—');
         renderItems(data.items || []);
         if (initial) sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
-      }catch(e){
+      }catch{
         updatedEl.textContent = 'load failed';
       }
     }
 
     loadAndRender(true);
-    setInterval(() => loadAndRender(false), 5*60*1000);
+    setInterval(() => loadAndRender(false), 5 * 60 * 1000);
   </script>
 </body>
 </html>
