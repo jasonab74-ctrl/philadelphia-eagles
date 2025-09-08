@@ -1,89 +1,131 @@
-/* Philadelphia Eagles — LIGHT THEME
-   Light green background, dark text, inline audio button, logo sizing.
-*/
+/* ================================
+   Eagles Theme — clean + tight UI
+   Fix: logo keeps its aspect ratio
+   ================================ */
 
+/* --------- Theme Colors --------- */
 :root{
-  --primary:#004c54;   /* header green */
-  --accent:#e2b007;    /* thin gold line under header */
-  --bg:#E6F4EA;        /* light green page background */
-  --card:#FFFFFF;      /* white cards */
-  --pill:#d8efe3;      /* lighter green pills */
-  --text:#0e2a2f;      /* dark text for strong contrast */
-  --muted:#315459;     /* muted meta text */
+  --bg: #0b3a3e;          /* midnight green header */
+  --bg-2:#0e4b50;         /* header gradient end */
+  --page:#0c1a1b;         /* page background */
+  --card:#eaf4ef;         /* light card (very pale mint) */
+  --text:#0b1a1a;         /* dark text */
+  --muted:#4b6668;        /* subtle text */
+  --accent:#cfe9dd;       /* soft accent for meta bars */
+  --pill:#dbeee6;         /* pills */
+  --pill-text:#0b1a1a;
+  --btn:#e7f3ee;
+  --btn-text:#0b1a1a;
+  --divider:#0f2a2c;
+  --shadow: 0 2px 8px rgba(0,0,0,.18);
 }
 
+/* --------- Global Reset --------- */
 *{box-sizing:border-box}
+html,body{margin:0;padding:0}
 body{
-  margin:0;
-  background:var(--bg);
+  font: 16px/1.35 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;
   color:var(--text);
-  font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  background:linear-gradient(180deg,var(--page) 0%, #112527 100%);
 }
 
-/* ----- HEADER ----- */
-.hero{
+/* --------- Header --------- */
+header{
   display:flex; align-items:center; gap:14px;
-  padding:16px;
-  background:var(--primary);
-  border-bottom:4px solid var(--accent);
-  color:#fff;
+  padding:18px 16px 16px;
+  background:linear-gradient(180deg,var(--bg) 0%, var(--bg-2) 100%);
+  color:#f6fffb;
+  position:sticky; top:0; z-index:5;
+  border-bottom:1px solid rgba(255,255,255,.06);
 }
 
-.logo-box{
-  width:64px;height:64px;border-radius:12px;background:#fff;
-  display:flex;align-items:center;justify-content:center;overflow:hidden;
-  box-shadow:0 1px 4px rgba(0,0,0,.35)
-}
-.logo-box img{
-  display:block;max-width:100%;max-height:100%;object-fit:contain
+/* LOGO FIX — keep natural proportions, never stretched */
+header .logo{
+  display:block;
+  max-height:64px;          /* controls overall size */
+  height:auto;              /* <-- critical: preserve aspect ratio */
+  width:auto;               /* <-- critical: preserve aspect ratio */
+  object-fit:contain;       /* in case a height is applied by browser */
+  image-rendering:-webkit-optimize-contrast;
 }
 
-.hero-titles h1{margin:0;font-size:1.8rem;color:#fff;line-height:1.05}
-.hero-titles .sub{color:#eaf4f6;opacity:.92;font-size:.92rem}
+/* If you ever drop in a square app-icon, this keeps it round */
+header .logo.round{
+  border-radius:14px;
+  background:rgba(255,255,255,.06);
+  padding:6px;
+}
 
-/* ---- fight button ---- */
-.fight-btn{
-  margin-left:auto; display:inline-flex; align-items:center; gap:.5rem;
-  background:#ffffff; color:var(--primary);
+/* Title block */
+header .titles{flex:1 1 auto; min-width:0}
+header .brand{
+  font-weight:800; font-size:28px; letter-spacing:-.3px;
+}
+header .subtitle{
+  font-size:14px; opacity:.9
+}
+
+/* Fight song button (stable label; no jump) */
+header .actions .pill{
+  background:var(--btn); color:var(--btn-text);
+  border:none; border-radius:28px; padding:12px 18px;
+  font-weight:700; cursor:pointer; box-shadow:var(--shadow);
+}
+header .actions .pill.playing{opacity:.9}
+
+/* --------- Quick Links (pills) --------- */
+nav.links{
+  display:flex; flex-wrap:wrap; gap:14px;
+  padding:14px 16px 6px;
+  background:transparent;
+}
+.pill,a.pill{
+  display:inline-block; text-decoration:none;
+  background:var(--pill); color:var(--pill-text);
+  border-radius:26px; padding:10px 16px; font-weight:800;
   border:1px solid rgba(0,0,0,.06);
-  border-radius:999px; padding:.6rem 1rem;
-  font-weight:800; font-size:.95rem; cursor:pointer;
-  box-shadow:0 1px 4px rgba(0,0,0,.25);
-  transition:transform .06s ease, background .2s ease, color .2s ease
-}
-.fight-btn .icon{width:18px;height:18px;fill:var(--primary)}
-.fight-btn:hover{background:var(--accent);color:#0e1416}
-.fight-btn:hover .icon{fill:#0e1416}
-.fight-btn:active{transform:translateY(1px)}
-.fight-btn.playing{background:#c9ffd2;color:#0e1416}
-.fight-btn.playing .icon{fill:#0e1416}
-
-/* ----- QUICK LINKS ----- */
-.pill-row{display:flex;flex-wrap:wrap;gap:.6rem;padding:12px}
-.pill{
-  display:inline-block; padding:.55rem .9rem; border-radius:999px;
-  background:var(--pill); color:var(--text); text-decoration:none; font-weight:800
 }
 
-/* ----- CONTROLS ----- */
-.controls{display:flex;justify-content:space-between;align-items:center;padding:8px 12px}
-.controls label{font-weight:800;margin-right:.4rem}
-#sourceSelect{
-  padding:.45rem .6rem;border-radius:.6rem;border:1px solid #9fb5c2;
-  background:#fff;color:var(--text)
+/* --------- Meta / Controls --------- */
+#updated{color:#cfe9dd; font-size:13px; padding:6px 16px 0}
+.controls{
+  display:flex; align-items:center; gap:10px;
+  padding:6px 16px 10px; color:#e3fff4;
 }
-.control.right{margin-left:auto}
+select{
+  appearance:none; -webkit-appearance:none;
+  background:#173a3c; color:#e7fff7; border:1px solid #224a4d;
+  border-radius:10px; padding:8px 28px 8px 10px; font-weight:600;
+}
 
-/* ----- FEED CARDS ----- */
-main{padding:6px 12px 40px}
+/* --------- Feed Grid --------- */
+main.grid{
+  display:grid; gap:14px; padding:12px 16px 40px;
+}
+@media(min-width:720px){ main.grid{ grid-template-columns:repeat(2,1fr)}}
+@media(min-width:1040px){ main.grid{ grid-template-columns:repeat(3,1fr)}}
+
+/* Article card */
 .card{
-  background:var(--card); border-radius:16px; padding:14px; margin:10px 0;
-  box-shadow:0 1px 2px rgba(0,0,0,.06)
+  background:var(--card); border-radius:14px; box-shadow:var(--shadow);
+  border:1px solid rgba(0,0,0,.06); padding:14px 16px;
 }
-.title{font-weight:900;text-decoration:none;color:var(--text);display:block}
-.meta{color:var(--muted);margin-top:6px;font-size:.92rem}
+.card .title{
+  display:block; font-weight:900; font-size:20px; line-height:1.25;
+  color:var(--text); text-decoration:none;
+}
+.card .title:hover{ text-decoration:underline }
+.card .meta{
+  margin-top:8px; font-size:13.5px; color:#2c3d3e;
+  background:var(--accent); border-radius:10px; padding:6px 10px;
+}
 
-/* width on larger screens */
-@media(min-width:768px){
-  main{max-width:860px;margin:0 auto}
+/* Footer */
+footer{
+  display:flex; align-items:center; justify-content:space-between;
+  padding:12px 16px; color:#cdebe0; border-top:1px solid var(--divider)
 }
+footer a{ color:#d0f0e5; font-weight:700; text-decoration:underline }
+
+/* Utility: thin divider between cards (mobile) */
+hr{border:none; border-top:1px solid var(--divider); margin:8px 0}
