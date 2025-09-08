@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-07T23:38:08.995893+00:00",
-  "count": 16,
+  "updated_iso": "2025-09-08T03:17:21.672089+00:00",
+  "count": 18,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-nfl-betting-article-week-2-nfl-betting-odds-kansas-city-chiefs-open-as-rare-home-underdog-in-supe",
+      "title": "Week 2 NFL betting, odds: Kansas City Chiefs open as rare home underdog in Super Bowl 59 rematch",
+      "link": "https://sports.yahoo.com/nfl/betting/article/week-2-nfl-betting-odds-kansas-city-chiefs-open-as-rare-home-underdog-in-super-bowl-59-rematch-012941174.html",
+      "source": "Yahoo Sports",
+      "ts": 1757294981.0,
+      "published_iso": "2025-09-08T01:29:41+00:00"
+    },
+    {
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
+      "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
+      "source": "cbsnews.com",
+      "ts": 1757287471.0,
+      "published_iso": "2025-09-07T23:24:31+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-former-eagles-see-varying-early-201623683-html",
       "title": "Former Eagles see varying early success in Sunday's first slate of NFL games",
@@ -17,6 +33,14 @@
       "source": "Bleeding Green Nation",
       "ts": 1757275440.0,
       "published_iso": "2025-09-07T20:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-eagles-cowboys-game-weather-delay-023744736-html",
+      "title": "Eagles-Cowboys Game in Weather Delay. When Will It Resume?",
+      "link": "https://sports.yahoo.com/article/eagles-cowboys-game-weather-delay-023744736.html",
+      "source": "Yahoo Sports",
+      "ts": 1757274120.0,
+      "published_iso": "2025-09-07T19:42:00+00:00"
     },
     {
       "id": "https-bleedinggreennation-com-news-157875-report-eagles-made-biggest-trade-offer-for-micah-parsons",
@@ -75,6 +99,14 @@
       "published_iso": "2025-09-07T05:05:31+00:00"
     },
     {
+      "id": "https-si-com-nfl-eagles-news-eagles-projected-as-early-option-for-texas-star-pat3",
+      "title": "Eagles Projected As Early Option For Texas Star",
+      "link": "https://si.com/nfl/eagles/news/eagles-projected-as-early-option-for-texas-star-pat3",
+      "source": "Sports Illustrated",
+      "ts": 1757199285.0,
+      "published_iso": "2025-09-06T22:54:45+00:00"
+    },
+    {
       "id": "https-bleedinggreennation-com-news-157802-eagles-open-up-roster-spot-by-waiving-kenyon-green",
       "title": "Eagles open up roster spot by waiving Kenyon Green",
       "link": "https://bleedinggreennation.com/news/157802/eagles-open-up-roster-spot-by-waiving-kenyon-green",
@@ -83,12 +115,12 @@
       "published_iso": "2025-09-06T22:31:16+00:00"
     },
     {
-      "id": "https-espn-com-nfl-story-id-46176234-jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship",
-      "title": "Carter awaits discipline amid sportsmanship push",
-      "link": "https://espn.com/nfl/story/_/id/46176234/jalen-carter-awaits-discipline-amid-nfl-emphasis-sportsmanship",
-      "source": "ESPN",
-      "ts": 1757183084.0,
-      "published_iso": "2025-09-06T18:24:44+00:00"
+      "id": "https-sportingnews-com-us-nfl-philadelphia-eagles-news-eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowbo",
+      "title": "Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys",
+      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowboys/53212f9186c4deed277595a9",
+      "source": "Sporting News",
+      "ts": 1757197134.0,
+      "published_iso": "2025-09-06T22:18:54+00:00"
     },
     {
       "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
@@ -107,28 +139,12 @@
       "published_iso": "2025-09-06T15:23:32+00:00"
     },
     {
-      "id": "https-bleedinggreennation-com-philadelphia-eagles-scores-results-157741-eagles-vs-cowboys-14-winners-7-losers-and-5-idks",
-      "title": "Eagles vs. Cowboys: 14 winners, 7 losers, and 5 IDKs",
-      "link": "https://bleedinggreennation.com/philadelphia-eagles-scores-results/157741/eagles-vs-cowboys-14-winners-7-losers-and-5-idks",
-      "source": "Bleeding Green Nation",
-      "ts": 1757119268.0,
-      "published_iso": "2025-09-06T00:41:08+00:00"
-    },
-    {
       "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
       "title": "Jalen Hurts' 2 TDs power Philadelphia Eagles past Dallas Cowboys in NFL season opener",
       "link": "https://cbsnews.com/philadelphia/live-updates/eagles-vs-cowboys-game-nfl-week-1/",
       "source": "cbsnews.com",
       "ts": 1757025600.0,
       "published_iso": "2025-09-04T22:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-nfl-kickoff-game-winners-losers-042235556-html",
-      "title": "NFL Kickoff Game: Winners, Losers from Philadelphia Eagles’ 24-20 Win Over Cowboys",
-      "link": "https://sports.yahoo.com/article/nfl-kickoff-game-winners-losers-042235556.html",
-      "source": "Yahoo Sports",
-      "ts": 1757023200.0,
-      "published_iso": "2025-09-04T22:00:00+00:00"
     }
   ]
 }
