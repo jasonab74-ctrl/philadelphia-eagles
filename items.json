@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T05:33:53.643961+00:00",
-  "count": 21,
+  "updated_iso": "2025-09-08T06:52:21.007164+00:00",
+  "count": 20,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-cowboys-dak-prescott-reveals-eagles-055457213-html",
+      "title": "Cowboys' Dak Prescott Reveals What Eagles' Jalen Carter Said Before Spitting on Him",
+      "link": "https://sports.yahoo.com/article/cowboys-dak-prescott-reveals-eagles-055457213.html",
+      "source": "Yahoo Sports",
+      "ts": 1757310897.0,
+      "published_iso": "2025-09-08T05:54:57+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-details-emerge-howie-roseman-philadelpia-013115494-html",
       "title": "Details emerge on Howie Roseman and Philadelpia Eagles' failed but bold trade offer with Dallas Cowboys",
@@ -19,9 +27,9 @@
       "published_iso": "2025-09-08T01:29:41+00:00"
     },
     {
-      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-02-0623",
+      "id": "https-cbsnews-com-philadelphia-news-jalen-hurts-eagles-south-philly-sharks-intcid-cnr-01-0623",
       "title": "Jalen Hurts, Eagles give Philadelphia youth football team brand new gear",
-      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-02-0623",
+      "link": "https://cbsnews.com/philadelphia/news/jalen-hurts-eagles-south-philly-sharks/?intcid=CNR-01-0623",
       "source": "cbsnews.com",
       "ts": 1757287471.0,
       "published_iso": "2025-09-07T23:24:31+00:00"
@@ -91,12 +99,12 @@
       "published_iso": "2025-09-07T14:44:01+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-cowboys-eagles-game-ball-dak-130000276-html",
-      "title": "Cowboys at Eagles game ball: Dak Prescott shines in his return",
-      "link": "https://sports.yahoo.com/article/cowboys-eagles-game-ball-dak-130000276.html",
-      "source": "Yahoo Sports",
-      "ts": 1757250000.0,
-      "published_iso": "2025-09-07T13:00:00+00:00"
+      "id": "https-si-com-nfl-eagles-news-nick-wright-has-wild-take-for-eagles-after-week-1-pat3",
+      "title": "Nick Wright Has Wild Take For Eagles After Week 1",
+      "link": "https://si.com/nfl/eagles/news/nick-wright-has-wild-take-for-eagles-after-week-1-pat3",
+      "source": "Sports Illustrated",
+      "ts": 1757246400.0,
+      "published_iso": "2025-09-07T12:00:00+00:00"
     },
     {
       "id": "https-bleedinggreennation-com-news-157820-eagles-news-adoree-jackson-says-he-has-room-for-improvement",
@@ -131,14 +139,6 @@
       "published_iso": "2025-09-06T22:31:16+00:00"
     },
     {
-      "id": "https-si-com-nfl-eagles-news-eagles-cowboys-upon-further-review-ed9",
-      "title": "Eagles-Cowboys: Upon Further Review...",
-      "link": "https://si.com/nfl/eagles/news/eagles-cowboys-upon-further-review-ed9",
-      "source": "Sports Illustrated",
-      "ts": 1757192097.0,
-      "published_iso": "2025-09-06T20:54:57+00:00"
-    },
-    {
       "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
       "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
       "link": "https://bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
@@ -153,14 +153,6 @@
       "source": "Bleeding Green Nation",
       "ts": 1757172212.0,
       "published_iso": "2025-09-06T15:23:32+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-2ni6vh84hme6wnh0",
-      "title": "Jalen Carter ejected, Do the Eagles have what it takes to repeat? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-2ni6vh84hme6wnh0",
-      "source": "FOX Sports",
-      "ts": 1757068740.0,
-      "published_iso": "2025-09-05T10:39:00+00:00"
     },
     {
       "id": "https-cbsnews-com-philadelphia-live-updates-eagles-vs-cowboys-game-nfl-week-1",
