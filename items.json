@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-09-08T03:17:21.672089+00:00",
+  "updated_iso": "2025-09-08T03:56:31.591514+00:00",
   "count": 18,
   "items": [
     {
@@ -33,14 +33,6 @@
       "source": "Bleeding Green Nation",
       "ts": 1757275440.0,
       "published_iso": "2025-09-07T20:04:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-eagles-cowboys-game-weather-delay-023744736-html",
-      "title": "Eagles-Cowboys Game in Weather Delay. When Will It Resume?",
-      "link": "https://sports.yahoo.com/article/eagles-cowboys-game-weather-delay-023744736.html",
-      "source": "Yahoo Sports",
-      "ts": 1757274120.0,
-      "published_iso": "2025-09-07T19:42:00+00:00"
     },
     {
       "id": "https-bleedinggreennation-com-news-157875-report-eagles-made-biggest-trade-offer-for-micah-parsons",
@@ -83,6 +75,14 @@
       "published_iso": "2025-09-07T14:44:01+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-article-cowboys-eagles-game-ball-dak-130000276-html",
+      "title": "Cowboys at Eagles game ball: Dak Prescott shines in his return",
+      "link": "https://sports.yahoo.com/article/cowboys-eagles-game-ball-dak-130000276.html",
+      "source": "Yahoo Sports",
+      "ts": 1757250000.0,
+      "published_iso": "2025-09-07T13:00:00+00:00"
+    },
+    {
       "id": "https-bleedinggreennation-com-news-157820-eagles-news-adoree-jackson-says-he-has-room-for-improvement",
       "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
       "link": "https://bleedinggreennation.com/news/157820/eagles-news-adoree-jackson-says-he-has-room-for-improvement",
@@ -115,14 +115,6 @@
       "published_iso": "2025-09-06T22:31:16+00:00"
     },
     {
-      "id": "https-sportingnews-com-us-nfl-philadelphia-eagles-news-eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowbo",
-      "title": "Eagles cut ties with former 1st-round pick after season-opening win vs. Cowboys",
-      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-cut-ties-former-1st-round-pick-season-opening-win-vs-cowboys/53212f9186c4deed277595a9",
-      "source": "Sporting News",
-      "ts": 1757197134.0,
-      "published_iso": "2025-09-06T22:18:54+00:00"
-    },
-    {
       "id": "https-bleedinggreennation-com-news-157798-report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
       "title": "Report: Eagles were 1 of the 2 teams Micah Parsons wanted to be traded to",
       "link": "https://bleedinggreennation.com/news/157798/report-eagles-were-1-of-the-2-teams-micah-parsons-wanted-to-be-traded-to",
@@ -145,6 +137,14 @@
       "source": "cbsnews.com",
       "ts": 1757025600.0,
       "published_iso": "2025-09-04T22:40:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-nfl-kickoff-game-winners-losers-042235556-html",
+      "title": "NFL Kickoff Game: Winners, Losers from Philadelphia Eagles’ 24-20 Win Over Cowboys",
+      "link": "https://sports.yahoo.com/article/nfl-kickoff-game-winners-losers-042235556.html",
+      "source": "Yahoo Sports",
+      "ts": 1757023200.0,
+      "published_iso": "2025-09-04T22:00:00+00:00"
     }
   ]
 }
