@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Philadelphia Eagles — News</title>
 
+  <!-- icons / manifest -->
   <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
@@ -20,10 +21,10 @@
       <h1>Philadelphia Eagles — News</h1>
       <div class="sub">Live team feed · auto-updates</div>
     </div>
-    <a class="badge" href="/fightsong" target="_blank" rel="noopener">Fly Eagles Fly</a>
+    <a class="badge" href="static/fight-song.mp3" target="_blank" rel="noopener">Fly Eagles Fly</a>
   </header>
 
-  <!-- Buttons -->
+  <!-- Quick links (buttons) -->
   <div id="links" class="pill-row"></div>
 
   <section class="controls">
@@ -46,81 +47,83 @@
     const linksEl = document.getElementById('links');
 
     const fmtLocal = iso => {
-      try {
+      try{
         const d = new Date(iso);
         return d.toLocaleString([], {year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
-      } catch { return iso || ''; }
+      }catch{ return iso || ''; }
     };
 
-    function renderLinks(links) {
+    function renderLinks(links){
       linksEl.innerHTML = '';
-      (links || []).forEach(l => {
+      (links||[]).forEach(l=>{
         const a = document.createElement('a');
         a.className = 'pill';
-        a.href = l.url;
-        a.target = '_blank';
-        a.rel = 'noopener';
+        a.href = l.url; a.target = '_blank'; a.rel = 'noopener';
         a.textContent = l.label;
         linksEl.appendChild(a);
       });
     }
 
-    function buildSourceDropdown(items) {
-      // Build from normalized 'source'; if missing, fall back to 'feed'
-      const sources = Array.from(new Set((items||[]).map(i => i.source || i.feed).filter(Boolean))).sort();
+    function buildSourceDropdown(items, curated){
       sourceSelect.innerHTML = '';
+      // Prefer curated list from items.json.sources; fall back to sources present in items
+      const base = Array.isArray(curated) && curated.length ? curated
+                 : Array.from(new Set((items||[]).map(i => i.source || i.feed).filter(Boolean))).sort();
       const optAll = document.createElement('option');
-      optAll.value = '';
-      optAll.textContent = 'All sources';
+      optAll.value = ''; optAll.textContent = 'All sources';
       sourceSelect.appendChild(optAll);
-      sources.forEach(s => {
-        const o = document.createElement('option');
-        o.value = s; o.textContent = s;
+      base.forEach(s=>{
+        const o=document.createElement('option');
+        o.value=s; o.textContent=s;
         sourceSelect.appendChild(o);
       });
     }
 
-    const renderItems = items => {
+    function renderItems(items){
       feedEl.innerHTML = '';
-      (items || []).forEach(it => {
+      (items||[]).forEach(it=>{
         const card = document.createElement('article');
         card.className = 'card';
+
         const a = document.createElement('a');
-        a.href = it.link; a.target = '_blank'; a.rel = 'noopener';
-        a.className = 'title';
+        a.href = it.link; a.target='_blank'; a.rel='noopener';
+        a.className='title';
         a.textContent = it.title || '(no title)';
+
         const meta = document.createElement('div');
-        meta.className = 'meta';
-        const src = it.source || it.feed || '—';
-        const when = fmtLocal(it.published || it.updated || '');
-        meta.textContent = `${src} • ${when}`;
-        card.appendChild(a); card.appendChild(meta);
+        meta.className='meta';
+        meta.textContent = `${it.source || it.feed || ''} • ${fmtLocal(it.published || it.updated)}`;
+
+        card.appendChild(a);
+        card.appendChild(meta);
         feedEl.appendChild(card);
       });
-    };
-
-    function applyFilter(all) {
-      const src = sourceSelect.value;
-      const filtered = src ? all.filter(i => (i.source || i.feed) === src) : all;
-      renderItems(filtered);
     }
 
-    async function loadAndRender(initial=false) {
+    function applyFilter(all){
+      const src = sourceSelect.value;
+      const list = src ? all.filter(i => (i.source || i.feed) === src) : all;
+      renderItems(list);
+    }
+
+    async function loadAndRender(initial=false){
       try{
-        const r = await fetch('items.json?ts=' + Date.now(), {cache:'no-store'});
+        const r = await fetch('items.json?ts='+Date.now(), {cache:'no-store'});
         const data = await r.json();
-        updatedEl.textContent = fmtLocal(data.updated || '');
+        // Always render buttons and curated sources
         renderLinks(data.links || []);
-        buildSourceDropdown(data.items || []);
+        buildSourceDropdown(data.items || [], data.sources || []);
+        updatedEl.textContent = (data.updated ? fmtLocal(data.updated) : '—');
         renderItems(data.items || []);
         if (initial) sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
-      }catch{
+      }catch(e){
         updatedEl.textContent = 'load failed';
       }
     }
 
     loadAndRender(true);
-    setInterval(() => loadAndRender(false), 5 * 60 * 1000);
+    // Refresh every 5 min; UI re-renders buttons/sources/dates each time
+    setInterval(() => loadAndRender(false), 5*60*1000);
   </script>
 </body>
 </html>
