@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T14:38:53+00:00",
+  "updated": "2025-09-09T15:37:27+00:00",
   "items": [
     {
       "id": "d36f5169e190d109",
@@ -7,17 +7,152 @@
       "link": "https://espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-09T15:16:24+0000",
+      "published": "2025-09-09T16:26:19+0000",
       "summary": "In thrilling fashion Monday night, Minnesota quarterback J.J. McCarthy authored a late comeback, becoming the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut, as the Vikings outlasted the Bears."
     },
     {
       "id": "2d883ffd01c09b77",
-      "title": "Sources: Jags trade Bigsby to Eagles for picks",
+      "title": "Jaguars trade RB Bigsby to Eagles for draft picks",
       "link": "https://espn.com/nfl/story/_/id/46201708/jaguars-trade-running-back-tank-bigsby-eagles",
       "source": "ESPN",
       "feed": "ESPN",
+      "published": "2025-09-09T16:26:19+0000",
+      "summary": "The Jaguars have traded running back Tank Bigsby to the Eagles for 2026 fifth- and sixth-round picks."
+    },
+    {
+      "id": "cbc0b40ec974334a",
+      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
+      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T15:50:52+0000",
+      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
+    },
+    {
+      "id": "d3aff075121b38ae",
+      "title": "Eagles host 7 free agents for try outs, including Quez Watkins",
+      "link": "https://bleedinggreennation.com/news/158017/eagles-host-7-free-agents-for-try-outs-including-quez-watkins",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-09T15:28:57+0000",
+      "summary": "The Philadelphia Eagles hosted seven free agents for try outs on Monday, according to the NFL’s official personnel notice. The names: This news doesn’t necessarily mean any signings are imminent. The Eagles could merely be doing due diligence. The pro personnel department keeps an updated list of the top available free agents at every position [&#8230;]"
+    },
+    {
+      "id": "987c4fc70ce8c723",
+      "title": "How did former Minnesota Vikings play in Week 1 around the NFL?",
+      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/09/09/former-vikings-nfl-week-1-2025/86052078007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T15:28:08+0000",
+      "summary": "There are several former Vikings we are keeping track of so how did they do in Week 1?"
+    },
+    {
+      "id": "b28c055da8b5f36e",
+      "title": "Eagles' legendary pass rusher announces new podcast 'Unblocked' with Brandon Graham",
+      "link": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/09/09/brandon-graham-podcast-unblocked/86056920007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T15:24:51+0000",
+      "summary": "Two-time Super Bowl-winning edge rusher Brandon Graham announced his new podcast, 'Unblocked' with Brandon Graham, which will debut on Wednesday on YouTube"
+    },
+    {
+      "id": "9c0e35a5198bc375",
+      "title": "NFL Week 2 picks and score predictions: Packers top Commanders, Chiefs lose Super Bowl rematch with Eagles",
+      "link": "https://cbssports.com/nfl/news/nfl-week-2-picks-score-predictions-packers-top-commanders-chiefs-lose-super-bowl-rematch/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T15:20:05+0000",
+      "summary": "Here's your weekly dose of John Breech's NFL picks"
+    },
+    {
+      "id": "2342fd687bb4767e",
+      "title": "10 college football transfers turning heads early in the 2025 season",
+      "link": "https://cbssports.com/college-football/news/10-college-football-transfers-turning-heads-early-in-the-2025-season/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T15:19:05+0000",
+      "summary": "An early look at a top-flight QB prospect in the 2028 NFL Draft class?"
+    },
+    {
+      "id": "1ef825075a7e65ab",
+      "title": "NFL Week 2 betting power ratings: React but don't overreact as Chiefs, Lions, 49ers among those moving down",
+      "link": "https://cbssports.com/nfl/news/nfl-week-2-betting-power-ratings-react-but-dont-overreact-as-chiefs-lions-49ers-among-those-moving-down/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T15:16:48+0000",
+      "summary": "Here's how we're setting the spreads for every Week 2 matchup in the NFL pending injury concerns"
+    },
+    {
+      "id": "365538f569d65eba",
+      "title": "NFL insider provides positive update on injured 49ers WR",
+      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/09/09/49ers-jauan-jennings-injury-update/86056047007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
       "published": "2025-09-09T15:16:24+0000",
-      "summary": "The Jaguars are trading running back Tank Bigsby to the Eagles for 2026 fifth- and sixth-round picks, sources told ESPN."
+      "summary": "San Francisco 49ers wide receiver Jauan Jennings suffered an injury in Week 1, but NFL Network's Ian Rapoport provided a welcomed update on Tuesday."
+    },
+    {
+      "id": "36db52487e5ba842",
+      "title": "South Africa vs. Nigeria lineups: Confirmed starting XI, Victor Osimhen latest, match details as Bafana Bafana host Super Eagles in World Cup qualifying",
+      "link": "https://sportingnews.com/us/soccer/news/south-africa-nigeria-lineups-xi-bafana-super-eagles-world-cup/9234267aa892ed90f51aa89a",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T15:15:04+0000",
+      "summary": "South Africa host Nigeria in what could be a pivotal game in the race to qualify for the 2026 FIFA World Cup."
+    },
+    {
+      "id": "7e51674c3e5f80d2",
+      "title": "Eagles agree to acquire RB/KR Tank Bigsby from the Jaguars",
+      "link": "https://philadelphiaeagles.com/news/eagles-agree-to-acquire-tank-bigsby-from-the-jaguars",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-09T15:15:00+0000",
+      "summary": "In addition to depth in the running back room, the Eagles boost the special teams unit with the former third-round pick."
+    },
+    {
+      "id": "d225c135a9669e54",
+      "title": "3 early Week 2 NFL bets to make right now: Back the Falcons",
+      "link": "https://sports.yahoo.com/nfl/betting/article/3-early-week-2-nfl-bets-to-make-right-now-back-the-falcons-151207063.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T15:12:07+0000",
+      "summary": "Michael Fiddle reveals three early NFL Week 2 bets to make right now."
+    },
+    {
+      "id": "ed4ea8b7f89dcb84",
+      "title": "NFL's rarest play nearly happened in Week 1: Ravens almost gave up first one-point safety in league history",
+      "link": "https://cbssports.com/nfl/news/nfls-rarest-play-nearly-happened-in-week-1-ravens-almost-gave-up-first-one-point-safety-in-league-history/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T15:11:34+0000",
+      "summary": "John Harbaugh ripped his own player for being 'foolish' after almost causing a rare one-point safety"
+    },
+    {
+      "id": "b84965f65a9b2bc5",
+      "title": "Computer model reveals NFL against the spread, over/under, money-line picks for each Week 2 game",
+      "link": "https://cbssports.com/nfl/news/computer-model-reveals-nfl-against-the-spread-overunder-money-line-picks-for-each-week-2-game/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T14:59:34+0000",
+      "summary": "SportsLine's model evaluated the Week 2 NFL odds and revealed its NFL predictions, NFL score predictions and NFL betting picks for every game"
+    },
+    {
+      "id": "1d48c38cc77d0025",
+      "title": "New Cowboys DT Kenny Clark brings a 'baller' tenacity to Dallas run defense that is 'contagious'",
+      "link": "https://cbssports.com/nfl/news/new-cowboys-dt-kenny-clark-brings-a-baller-tenacity-to-dallas-run-defense-that-is-contagious/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T14:57:43+0000",
+      "summary": "Clark played a huge role in slowing down Eagles' Saquon Barkley, something the Cowboys hope becomes a staple of their defense"
+    },
+    {
+      "id": "ae4e364556c5766c",
+      "title": "Bryce Huff trade conditions revealed",
+      "link": "https://bleedinggreennation.com/news/158001/bryce-huff-trade-conditions-revealed",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-09T14:54:18+0000",
+      "summary": "When the Philadelphia Eagles traded Bryce Huff to the San Francisco 49ers, it was reported that the Birds received a “2026 conditional fifth-round pick that can turn into a fourth-round pick [with] conditions tied to Huff’s performance.” After three months, we finally have details on the conditions. This comes from BGN alumnus Jimmy Kempski: Per [&#8230;]"
     },
     {
       "id": "25521a6b8fabdb9b",
@@ -44,16 +179,7 @@
       "source": "Bleeding Green Nation",
       "feed": "Bleeding Green Nation",
       "published": "2025-09-09T14:25:43+0000",
-      "summary": "The betting odds for the Philadelphia Eagles’ Week 2 game against the Kansas City Chiefs looks familiar. Where have I seen the Birds as 1.5-point underdogs to KC before? Ah, that’s right! That was the opening line for Super Bowl LIX.* You know, before the Eagles ultimately annihilated the Chiefs by a final score of [&#8230;]"
-    },
-    {
-      "id": "82e997ab3f75753d",
-      "title": "Is Jalen Carter suspended? Latest news on Eagles star after spitting on Dak Prescott leads to ejection",
-      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/jalen-carter-suspended-latest-news-eagles-star-spitting-dak-prescott-ejection/ed048f1a2db611d1a09eeb57",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T14:21:49+0000",
-      "summary": "There's still more to come."
+      "summary": "The betting odds (via FanDuel) for the Philadelphia Eagles’ Week 2 game against the Kansas City Chiefs looks familiar. Where have I seen the Birds as 1.5-point underdogs to KC before? Ah, that’s right! That was the opening line for Super Bowl LIX.* You know, before the Eagles ultimately annihilated the Chiefs by a final [&#8230;]"
     },
     {
       "id": "32c5bf18e33fca9f",
@@ -63,51 +189,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T14:20:21+0000",
       "summary": "Fans weighed in on Week 1's top players, casting their votes for the 'Himmy' Award between Josh Allen, Aaron Rodgers, Emeka Egbuka and Daniel Jones."
-    },
-    {
-      "id": "6cfc3b5df88e4540",
-      "title": "Jerry Jones: We didn't make a counter offer after Eagles called on Micah Parsons",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-we-didnt-make-a-counter-offer-after-eagles-called-on-micah-parsons",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T14:19:28+0000",
-      "summary": "The Eagles were interested in trading for Micah Parsons, but the Cowboys weren’t going to make that move at any price."
-    },
-    {
-      "id": "1fe9dd224faa415c",
-      "title": "NFL Power Rankings Roundup 2025: How do Tennessee Titans fare heading into Week 2?",
-      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/09/09/nfl-power-rankings-roundup-titans-week-2/86054692007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T14:16:58+0000",
-      "summary": "Here's how the Tennessee Titans stack up against the rest of the NFL in a multitude of power rankings."
-    },
-    {
-      "id": "18f3c374c9846f0f",
-      "title": "NFL picks, predictions for Week 2: Green Bay Packers vs. Washington Commanders",
-      "link": "https://sportingnews.com/us/nfl/green-bay-packers/news/nfl-picks-predictions-week-2-green-bay-packers-vs-washington-commanders/4fb897c55aaca9da9300c4ec",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T14:13:34+0000",
-      "summary": "A look at some expert picks and predictions for the Week 2 game between the Washington Commanders and Green Bay Packers, both of whom started the campaign 1-0 with victories in Week 1."
-    },
-    {
-      "id": "ef863e5439368f70",
-      "title": "Commanders rise to just outside the top 5 of NFL power rankings after Week 1 win",
-      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/09/09/nfl-week-2-power-rankings-washington-commanders/86054398007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T14:12:36+0000",
-      "summary": "With a win in Week 1, how far did the Washington Commanders move up in the NFL power rankings?"
-    },
-    {
-      "id": "ddfcd668971357dc",
-      "title": "Colts jump up just a few spots in Week 2 power rankings despite dominant Week 1 win",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/09/colts-jump-week-2-power-rankings-dominant-week-1-win/86055327007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T14:09:37+0000",
-      "summary": "The Colts had dominant Week 1 win and moved up just a few spots in the Week 2 NFL power rankings."
     },
     {
       "id": "392c1eca5c52d0b3",
@@ -126,15 +207,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T14:03:47+0000",
       "summary": "The Eagles added some running back depth behind Saquon Barkley, but did they give up too much for Bigsby? We sized up the deal from both sides."
-    },
-    {
-      "id": "4edc2387795d6ed2",
-      "title": "NFL Week 2 Power Rankings: How all 32 teams stack up, plus top non-QB newcomer performances",
-      "link": "https://espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T14:03:10+0000",
-      "summary": "We're through Week 1, and NFL Power Rankings are back! We stacked the best teams and named the best non-QB newcomer for each roster."
     },
     {
       "id": "a4d1661ed1b528f6",
@@ -191,60 +263,6 @@
       "summary": "SportsLine expert R.J. White has revealed his picks for Washington vs. Green Bay in the Week 2 NFL matchup on Thursday Night Football"
     },
     {
-      "id": "9c0e35a5198bc375",
-      "title": "NFL Week 2 picks and score predictions: Packers top Commanders, Chiefs lose Super Bowl rematch with Eagles",
-      "link": "https://cbssports.com/nfl/news/nfl-week-2-picks-score-predictions-packers-top-commanders-chiefs-lose-super-bowl-rematch/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T11:36:59+0000",
-      "summary": "Here's your weekly dose of John Breech's NFL picks"
-    },
-    {
-      "id": "b0af6567f94ac91d",
-      "title": "Fantasy football today: Tank Bigsby traded to Eagles, reshaping Philadelphia's running back landscape",
-      "link": "https://cbssports.com/fantasy/football/news/fantasy-football-today-tank-bigsby-traded-to-eagles-reshaping-philadelphias-running-back-landscape/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T11:30:35+0000",
-      "summary": "With Tank Bigsby out of the equation in Jacksonville, Travis Etienne could be a league winner"
-    },
-    {
-      "id": "884977cd0789ef1d",
-      "title": "Commanders vs. Packers prediction, odds, time: 2025 NFL Week 2 Thursday Night Football picks from proven model",
-      "link": "https://cbssports.com/nfl/news/commanders-vs-packers-prediction-odds-time-2025-nfl-week-2-thursday-night-football-picks-from-proven-model/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T11:26:37+0000",
-      "summary": "The SportsLine projection model has revealed its Green Bay vs. Washington picks for the 2025 NFL Week 2 Thursday Night Football game"
-    },
-    {
-      "id": "65293adac2c87cf3",
-      "title": "2025 Week 2 NFL picks, odds, best bets from proven model: This 5-way football parlay would return nearly 25-1",
-      "link": "https://cbssports.com/nfl/news/2025-week-2-nfl-picks-odds-best-bets-from-proven-model-this-5-way-football-parlay-would-return-nearly-25-1/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T11:16:17+0000",
-      "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 2 NFL 25-1 football parlay"
-    },
-    {
-      "id": "622bc5a63658ee58",
-      "title": "Week 2 NFL odds, lines, betting picks, spreads: 2025 predictions: Model backs Cowboys, Cardinals",
-      "link": "https://cbssports.com/nfl/news/week-2-nfl-odds-lines-betting-picks-spreads-2025-predictions-model-backs-cowboys-cardinals/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T11:10:53+0000",
-      "summary": "SportsLine's advanced model has locked in its Week 2 NFL betting picks from 10,000 simulations"
-    },
-    {
-      "id": "d56e965c8bba9cee",
-      "title": "NFL Week 2 Power Rankings: Chiefs fall out of top 5 before Super Bowl rematch; Chargers, Colts make huge jumps",
-      "link": "https://cbssports.com/nfl/news/nfl-week-2-power-rankings-chiefs-fall-out-of-top-5-before-super-bowl-rematch-chargers-colts-make-huge-jumps/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T11:02:28+0000",
-      "summary": "Pete Prisco shares his Power Rankings heading into Week 2 of the 2025 season"
-    },
-    {
       "id": "de0ccb4357c598b6",
       "title": "What to know on all 32 NFL playcallers: From veterans to first-year coaches, here is what to expect in 2025",
       "link": "https://espn.com/nfl/story/_/id/46137832/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-brian-schottenheimer",
@@ -252,42 +270,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T11:00:00+0000",
       "summary": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2025."
-    },
-    {
-      "id": "1e76da719ea803d6",
-      "title": "2025 Week 2 NFL score predictions, odds, picks today: Expert reveals exact scores for every NFL game",
-      "link": "https://cbssports.com/nfl/news/2025-week-2-nfl-score-predictions-odds-picks-today-expert-reveals-exact-scores-for-every-nfl-game/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T09:07:51+0000",
-      "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 2 of the NFL schedule"
-    },
-    {
-      "id": "7a7b0fce6a890411",
-      "title": "J.J. McCarthy makes NFL history while leading the Vikings to a shocking win over the Bears",
-      "link": "https://cbssports.com/nfl/news/j-j-mccarthy-makes-nfl-history-while-leading-the-vikings-to-a-shocking-win-over-the-bears/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T05:05:26+0000",
-      "summary": "He may have started slow, but McCarthy put on a show in the fourth quarter to lead Minnesota to victory"
-    },
-    {
-      "id": "7b9faa32e0a4d2f3",
-      "title": "NFL Power Rankings Week 2, best futures bets: Ravens or Bills to win Super Bowl, Packers win NFC",
-      "link": "https://cbssports.com/betting/news/nfl-power-rankings-week-2-best-futures-bets-ravens-or-bills-to-win-super-bowl-packers-win-nfc/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T04:38:22+0000",
-      "summary": "The Inside the Lines team uses its proven NFL model to objectively rank each team's power going forward in the 2025 season and not looking backward"
-    },
-    {
-      "id": "fb8cc3450b8045b8",
-      "title": "NFL Week 1 grades: Vikings get 'B-' for comeback win over Bears; Bills earn 'B+' for wild win over Ravens",
-      "link": "https://cbssports.com/nfl/news/nfl-week-1-grades-aaron-rodgers-leads-steelers-to-wild-win-and-solid-mark-bengals-get-satisfactory-victory/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T03:46:07+0000",
-      "summary": "Here are the Week 1 grades for every team"
     },
     {
       "id": "8383b7f04205f4b8",
@@ -362,15 +344,6 @@
       "summary": "Let’s get to the Philadelphia Eagles links &#8230; Tush Push Police: Bills were adamantly for banning, ran it twice Week 1 &#8211; PhillyVoiceThe two loudest teams in favor of banning the Tush Push were the Packers, who introduced the motion to ban it, and the Bills, who actually ran a version of the play more [&#8230;]"
     },
     {
-      "id": "4589a5d46b4ccfcd",
-      "title": "Eagles reportedly working out veteran slot cornerback",
-      "link": "https://bleedinggreennation.com/news/157891/eagles-reportedly-working-out-veteran-slot-cornerback",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-08T14:07:35+0000",
-      "summary": "The Philadelphia Eagles are working out veteran free agent cornerback Mike Hilton on Monday, according to a report from NFL insider Jordan Schultz. We previously highlighted Hilton as a potential Eagles target back on August 27. Here’s what we said at the time: I don’t think this is realistic since 1) he’ll probably end up [&#8230;]"
-    },
-    {
       "id": "990c98acd6cf3be6",
       "title": "Howie Roseman pulls off another trade, acquiring Jaguars' leading rusher in 2024",
       "link": "https://nbcsportsphiladelphia.com/nfl/philadelphia-eagles/tank-bigsby-trade-jaguars-running-back-howie-roseman/683061/",
@@ -378,15 +351,6 @@
       "feed": "NBC Sports Philadelphia",
       "published": "2025-09-08T08:24:34+0000",
       "summary": "<p>NEW ORLEANS, LOUISIANA – AUGUST 17: Tank Bigsby #4 of the Jacksonville Jaguars walks off the field prior to an NFL Preseason 2025 game against the New Orleans Saints at Caesars Superdome on August 17, 2025 in New Orleans, Louisiana.(Photo by Logan Bowles/Getty Images)</p>"
-    },
-    {
-      "id": "e1d089c11145939a",
-      "title": "Sunday Night Football: Ravens vs. Bills",
-      "link": "https://bleedinggreennation.com/game-day-threads/157868/sunday-night-football-ravens-vs-bills-game-information-channel-stream-odds-nfl-week-1",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-07T23:55:00+0000",
-      "summary": "The NFL Week 1 slate of Sunday games will cap off with a Sunday Night Football matchup between the Baltimore Ravens and the Buffalo Bills. The Ravens lead the all-time series between these AFC teams, 7-4, and have won four of their five most-recent matchups. Baltimore may have the most recent regular season win, a [&#8230;]"
     },
     {
       "id": "c4c2ff52751a2daa",
@@ -540,6 +504,42 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-03T19:48:00+0000",
       "summary": "Tanner McKee is out for Thursday night. Everyone else is good to go for the Eagles."
+    },
+    {
+      "id": "3c2e6772191f9e70",
+      "title": "Eagles sign CB Eli Ricks to practice squad, release OL Hollin Pierce",
+      "link": "https://philadelphiaeagles.com/news/eagles-sign-cb-eli-ricks-to-practice-squad-release-ol-hollin-pierce",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T17:52:40+0000",
+      "summary": "The Eagles are bringing back Ricks, who spent two seasons on Philadelphia’s 53-man roster."
+    },
+    {
+      "id": "d2895a79ce096d12",
+      "title": "A look inside the premiere of America's Game: 2024 Philadelphia Eagles",
+      "link": "https://philadelphiaeagles.com/news/a-look-inside-the-premiere-of-americas-game-2024-philadelphia-eagles",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T15:30:00+0000",
+      "summary": "NFL Films Senior Producer Greg Smith provides a behind-the-scenes preview of the documentary on the Super Bowl LIX Champions."
+    },
+    {
+      "id": "963ea792c89bf38e",
+      "title": "Get to know Lincoln the bald eagle, the performative bird at Eagles games",
+      "link": "https://philadelphiaeagles.com/news/get-to-know-lincoln-the-bald-eagle",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T14:00:14+0000",
+      "summary": "The 26-year-old bald eagle starts his second season with the Eagles on Thursday night."
+    },
+    {
+      "id": "dde80430f2a36191",
+      "title": "Eagles welcome Kendra Scott as new proud partner",
+      "link": "https://philadelphiaeagles.com/news/eagles-welcome-kendra-scott-as-new-proud-partner",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T13:00:00+0000",
+      "summary": "A curated collection of the lifestyle brand’s signature jewelry line will be sold exclusively in Eagles Pro Shops as part of the new multi-year agreement."
     }
   ],
   "links": [
