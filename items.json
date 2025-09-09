@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T07:30:46+00:00",
+  "updated": "2025-09-09T07:42:54+00:00",
   "items": [
     {
       "id": "d36f5169e190d109",
@@ -63,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T06:14:36+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 1."
-    },
-    {
-      "id": "98e2a2422aa96246",
-      "title": "Tank Bigsby trade means Bengals will see plenty of Travis Etienne vs Jaguars in NFL Week 2",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/09/09/tank-bigsby-trade-means-bengals-get-travis-etienne-running-back-vs-jaguars/86052450007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T06:13:36+0000",
-      "summary": "Travis Etienne, who had the second-highest rushing total in NFL Week 1, was a teammate of Bengals receiver Tee Higgins at Clemson."
     },
     {
       "id": "7a7b0fce6a890411",
@@ -540,6 +531,15 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-03T15:30:00+0000",
       "summary": "NFL Films Senior Producer Greg Smith provides a behind-the-scenes preview of the documentary on the Super Bowl LIX Champions."
+    },
+    {
+      "id": "963ea792c89bf38e",
+      "title": "Get to know Lincoln the bald eagle, the performative bird at Eagles games",
+      "link": "https://philadelphiaeagles.com/news/get-to-know-lincoln-the-bald-eagle",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T14:00:14+0000",
+      "summary": "The 26-year-old bald eagle starts his second season with the Eagles on Thursday night."
     }
   ],
   "links": [
