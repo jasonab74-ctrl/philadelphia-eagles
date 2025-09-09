@@ -1,14 +1,122 @@
 {
-  "updated": "2025-09-09T10:41:11+00:00",
+  "updated": "2025-09-09T11:27:04+00:00",
   "items": [
     {
-      "id": "d7c594e67390eb6c",
-      "title": "New Study Reveals Which NFL Fans Drink the Most – Where Does Your Team Rank?",
-      "link": "https://sportsnaut.com/nfl/new-study-reveals-which-nfl-fans-drink-the-most-where-does-your-team-rank/",
+      "id": "4edc2387795d6ed2",
+      "title": "NFL Week 2 Power Rankings: How all 32 teams stack up, plus top non-QB newcomer performances",
+      "link": "https://espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T12:12:02+0000",
+      "summary": "We're through Week 1, and NFL Power Rankings are back! We stacked the best teams and named the best non-QB newcomer for each roster."
+    },
+    {
+      "id": "6ed79dbfce653c72",
+      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
+      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T12:10:06+0000",
+      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
+    },
+    {
+      "id": "078512e5330791fb",
+      "title": "Philadelphia Eagles' updated list of 2026 NFL draft picks after Tank Bigsby trade",
+      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/philadelphia-eagles-list-2026-nfl-draft-picks-tank-bigsby-trade/ec0fc3ca85383a784eaf83ee",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-09T10:07:27+0000",
-      "summary": "NFL fans are known for their passionate tailgating traditions, and a recent survey of over 3,000 enthusiasts reveals just how"
+      "published": "2025-09-09T11:20:39+0000",
+      "summary": "The Philadelphia Eagles traded away two 2026 NFL draft picks in order to acquire running back Tank Bigsby from the Jacksonville Jaguars. Here's what the Eagles' list of 2026 NFL draft picks looks like now."
+    },
+    {
+      "id": "65293adac2c87cf3",
+      "title": "2025 Week 2 NFL picks, odds, best bets from proven model: This 5-way football parlay would return nearly 25-1",
+      "link": "https://cbssports.com/nfl/news/2025-week-2-nfl-picks-odds-best-bets-from-proven-model-this-5-way-football-parlay-would-return-nearly-25-1/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T11:16:17+0000",
+      "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 2 NFL 25-1 football parlay"
+    },
+    {
+      "id": "00148bc617468799",
+      "title": "Cowboys physicality key as Schottenheimer praises FA, trade acquisition, 2nd-year DE & OL",
+      "link": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/09/09/cowboys-schottenheimer-quotes-physicality-williams-kneeland-clark/86048532007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:13:58+0000",
+      "summary": "Despite a Week 1 loss to the Eagles, Brian Schottenheimer praised Dallas’ toughness, spotlighting Javonte Williams, Marshawn Kneeland, and Kenny Clark."
+    },
+    {
+      "id": "43ef3567e419321d",
+      "title": "NFL picks, predictions for Week 2: Lions drop Bears to 0-2, Cowboys get first win and Patriots slip again",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-picks-predictions-week-2/0b7fa48b624d0d671c388691",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:13:40+0000",
+      "summary": "NFL expert Bill Bender makes his picks for every game in Week 2."
+    },
+    {
+      "id": "622bc5a63658ee58",
+      "title": "Week 2 NFL odds, lines, betting picks, spreads: 2025 predictions: Model backs Cowboys, Cardinals",
+      "link": "https://cbssports.com/nfl/news/week-2-nfl-odds-lines-betting-picks-spreads-2025-predictions-model-backs-cowboys-cardinals/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T11:10:53+0000",
+      "summary": "SportsLine's advanced model has locked in its Week 2 NFL betting picks from 10,000 simulations"
+    },
+    {
+      "id": "1acde303d25c7eb5",
+      "title": "NFL power rankings: Packers, Steelers, Chargers surge with Week 1 wins; Chiefs, Lions fall hard for Week 2",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-steelers-chargers-chiefs-bills/3148169da51d85fd1e17a0ff",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:06:04+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other going into Week 2 of the 2025 NFL regular season? Here's an updated look from best to worst."
+    },
+    {
+      "id": "274d819c4db521bc",
+      "title": "NFL winners, Week 1: Packers pass rush, Rams' relentless pressure shine",
+      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/09/09/nfl-winners-week-1-packers-pass-rush-rams-pressure-jets-tetairoa-mcmillan/86032740007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:02:34+0000",
+      "summary": "Green Bay fixed its biggest problem. Los Angeles plugged more young studs into a rising defense. The Jets? Actually watchable!"
+    },
+    {
+      "id": "d56e965c8bba9cee",
+      "title": "NFL Week 2 Power Rankings: Chiefs fall out of top 5 before Super Bowl rematch; Chargers, Colts make huge jumps",
+      "link": "https://cbssports.com/nfl/news/nfl-week-2-power-rankings-chiefs-fall-out-of-top-5-before-super-bowl-rematch-chargers-colts-make-huge-jumps/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T11:02:28+0000",
+      "summary": "Pete Prisco shares his Power Rankings heading into Week 2 of the 2025 season"
+    },
+    {
+      "id": "f30cb3079c17d96c",
+      "title": "Highlights of former Notre Dame stars during the NFL’s opening weekend of the 2025 season",
+      "link": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2025/09/09/notre-dame-football-nfl-week-1-2025-highlights-watts-mayer-skowronek-love-hamilton/86051422007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:02:25+0000",
+      "summary": "It was the NFL’s opening weekend, and many former Notre Dame stars made huge impacts for their teams. Here are some highlight of the action."
+    },
+    {
+      "id": "1df6b4c2bfcf23d7",
+      "title": "Philadelphia Eagles trade for RB Tank Bigsby ahead of Week 2 vs. the Kansas City Chiefs",
+      "link": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2025/09/09/philadelphia-eagles-trade-for-rb-tank-bigsby-ahead-of-week-2-vs-the-kansas-city-chiefs/86051382007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:02:19+0000",
+      "summary": "Philadelphia Eagles trade for running back Tank Bigsby ahead of Week 2 vs. the Kansas City Chiefs | @EdEastonJr"
+    },
+    {
+      "id": "de0ccb4357c598b6",
+      "title": "What to know on all 32 NFL playcallers: From veterans to first-year coaches, here is what to expect in 2025",
+      "link": "https://espn.com/nfl/story/_/id/46137832/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-brian-schottenheimer",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T11:00:00+0000",
+      "summary": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2025."
     },
     {
       "id": "1e76da719ea803d6",
@@ -18,15 +126,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-09T09:07:51+0000",
       "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 2 of the NFL schedule"
-    },
-    {
-      "id": "d56e965c8bba9cee",
-      "title": "NFL Week 2 Power Rankings: Chiefs fall out of top 5 before Super Bowl rematch; Chargers, Colts make huge jumps",
-      "link": "https://cbssports.com/nfl/news/nfl-week-2-power-rankings-chiefs-fall-out-of-top-5-before-super-bowl-rematch-chargers-colts-make-huge-jumps/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T09:00:44+0000",
-      "summary": "Pete Prisco shares his Power Rankings heading into Week 2 of the 2025 season"
     },
     {
       "id": "d36f5169e190d109",
@@ -72,15 +171,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-09T05:05:26+0000",
       "summary": "He may have started slow, but McCarthy put on a show in the fourth quarter to lead Minnesota to victory"
-    },
-    {
-      "id": "6ed79dbfce653c72",
-      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
-      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T05:03:29+0000",
-      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
     },
     {
       "id": "7b9faa32e0a4d2f3",
@@ -450,96 +540,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-04T16:30:00+0000",
       "summary": "The Eagles will unveil their second Super Bowl banner on Thursday night at Lincoln Financial Field."
-    },
-    {
-      "id": "79c5c4f18c4ec212",
-      "title": "Cowboys vs. Eagles Game Preview: 6 storylines to follow in the opener",
-      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-game-preview-6-storylines-to-follow-in-the-opener",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-04T15:00:00+0000",
-      "summary": "Eagles Insider Dave Spadaro analyzes a thrilling rivalry showdown to kick off the 2025 NFL season."
-    },
-    {
-      "id": "79cc2707eec74d67",
-      "title": "Jalen Hurts to be on the cover of Wheaties",
-      "link": "https://philadelphiaeagles.com/news/jalen-hurts-to-be-on-the-cover-of-wheaties",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-04T13:00:00+0000",
-      "summary": "The Super Bowl MVP grew up eating Wheaties, and now he will be on the cover of the box."
-    },
-    {
-      "id": "f694ed7f98b0b0c9",
-      "title": "Eagles QB Jalen Hurts to grace iconic cereal box as a ‘Wheaties Champion'",
-      "link": "https://nbcsportsphiladelphia.com/news/eagles-qb-jalen-hurts-to-grace-iconic-cereal-box-as-a-wheaties-champion/682304/",
-      "source": "NBC Sports Philadelphia",
-      "feed": "NBC Sports Philadelphia",
-      "published": "2025-09-04T09:23:55+0000",
-      "summary": "<p>Jalen Hurts will grace the cover following a winning season for Philadelphia.</p>"
-    },
-    {
-      "id": "c7a6bfdde4f26a82",
-      "title": "An NFL player changed an author's life. He's still adjusting to overnight success",
-      "link": "https://nbcsportsphiladelphia.com/nfl/aj-brown-eagles-inner-excellence-author-overnight-success/682281/",
-      "source": "NBC Sports Philadelphia",
-      "feed": "NBC Sports Philadelphia",
-      "published": "2025-09-04T07:59:50+0000",
-      "summary": "<p>A.J. Brown of the Philadelphia Eagles watches confetti fall after winning Super Bowl LIX against the Kansas City Chiefs at Caesars Superdome on Feb. 9, 2025, in New Orleans.</p>"
-    },
-    {
-      "id": "7d3704d477a8f39a",
-      "title": "How to watch, stream, and listen | Cowboys vs. Eagles",
-      "link": "https://philadelphiaeagles.com/news/how-to-watch-dallas-cowboys-vs-philadelphia-eagles-week-1-090425",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-04T04:00:00+0000",
-      "summary": "See how to watch and listen to the Eagles’ season opener against the Dallas Cowboys on Thursday, September 4, at 8:20 PM."
-    },
-    {
-      "id": "ca44ef9f351de01b",
-      "title": "Cowboys vs. Eagles Injury Report",
-      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-week-1-2025",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T19:48:00+0000",
-      "summary": "Tanner McKee is out for Thursday night. Everyone else is good to go for the Eagles."
-    },
-    {
-      "id": "3c2e6772191f9e70",
-      "title": "Eagles sign CB Eli Ricks to practice squad, release OL Hollin Pierce",
-      "link": "https://philadelphiaeagles.com/news/eagles-sign-cb-eli-ricks-to-practice-squad-release-ol-hollin-pierce",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T17:52:40+0000",
-      "summary": "The Eagles are bringing back Ricks, who spent two seasons on Philadelphia’s 53-man roster."
-    },
-    {
-      "id": "d2895a79ce096d12",
-      "title": "A look inside the premiere of America's Game: 2024 Philadelphia Eagles",
-      "link": "https://philadelphiaeagles.com/news/a-look-inside-the-premiere-of-americas-game-2024-philadelphia-eagles",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T15:30:00+0000",
-      "summary": "NFL Films Senior Producer Greg Smith provides a behind-the-scenes preview of the documentary on the Super Bowl LIX Champions."
-    },
-    {
-      "id": "963ea792c89bf38e",
-      "title": "Get to know Lincoln the bald eagle, the performative bird at Eagles games",
-      "link": "https://philadelphiaeagles.com/news/get-to-know-lincoln-the-bald-eagle",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T14:00:14+0000",
-      "summary": "The 26-year-old bald eagle starts his second season with the Eagles on Thursday night."
-    },
-    {
-      "id": "dde80430f2a36191",
-      "title": "Eagles welcome Kendra Scott as new proud partner",
-      "link": "https://philadelphiaeagles.com/news/eagles-welcome-kendra-scott-as-new-proud-partner",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T13:00:00+0000",
-      "summary": "A curated collection of the lifestyle brand’s signature jewelry line will be sold exclusively in Eagles Pro Shops as part of the new multi-year agreement."
     }
   ],
   "links": [
