@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T11:27:04+00:00",
+  "updated": "2025-09-09T11:40:57+00:00",
   "items": [
     {
       "id": "4edc2387795d6ed2",
@@ -20,6 +20,15 @@
       "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
     },
     {
+      "id": "5f3d7f1f7257ab06",
+      "title": "NFL Week 2 Power Rankings: Packers, Bills Rise as Chiefs, Broncos Drop After Week 1",
+      "link": "https://sportsnaut.com/nfl/nfl-week-2-power-rankings-2025/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:25:14+0000",
+      "summary": "The first Sunday of the 2025 NFL season delivered quite a few interesting matchups and plenty of storylines that had"
+    },
+    {
       "id": "078512e5330791fb",
       "title": "Philadelphia Eagles' updated list of 2026 NFL draft picks after Tank Bigsby trade",
       "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/philadelphia-eagles-list-2026-nfl-draft-picks-tank-bigsby-trade/ec0fc3ca85383a784eaf83ee",
@@ -27,6 +36,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-09T11:20:39+0000",
       "summary": "The Philadelphia Eagles traded away two 2026 NFL draft picks in order to acquire running back Tank Bigsby from the Jacksonville Jaguars. Here's what the Eagles' list of 2026 NFL draft picks looks like now."
+    },
+    {
+      "id": "a94a1d459da31b62",
+      "title": "Injured Eagles star could be in serious trouble for Chiefs’ game",
+      "link": "https://nj.com/eagles/2025/09/eagles-facing-nightmare-matchup-as-chiefs-star-awaits-their-vulnerable-offensive-line.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:19:38+0000",
+      "summary": "The Eagles face the Chiefs on Sunday afternoon in a Super Bowl rematch. What are the big concerns?"
     },
     {
       "id": "65293adac2c87cf3",
@@ -65,24 +83,6 @@
       "summary": "SportsLine's advanced model has locked in its Week 2 NFL betting picks from 10,000 simulations"
     },
     {
-      "id": "1acde303d25c7eb5",
-      "title": "NFL power rankings: Packers, Steelers, Chargers surge with Week 1 wins; Chiefs, Lions fall hard for Week 2",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-steelers-chargers-chiefs-bills/3148169da51d85fd1e17a0ff",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T11:06:04+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other going into Week 2 of the 2025 NFL regular season? Here's an updated look from best to worst."
-    },
-    {
-      "id": "274d819c4db521bc",
-      "title": "NFL winners, Week 1: Packers pass rush, Rams' relentless pressure shine",
-      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/09/09/nfl-winners-week-1-packers-pass-rush-rams-pressure-jets-tetairoa-mcmillan/86032740007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T11:02:34+0000",
-      "summary": "Green Bay fixed its biggest problem. Los Angeles plugged more young studs into a rising defense. The Jets? Actually watchable!"
-    },
-    {
       "id": "d56e965c8bba9cee",
       "title": "NFL Week 2 Power Rankings: Chiefs fall out of top 5 before Super Bowl rematch; Chargers, Colts make huge jumps",
       "link": "https://cbssports.com/nfl/news/nfl-week-2-power-rankings-chiefs-fall-out-of-top-5-before-super-bowl-rematch-chargers-colts-make-huge-jumps/",
@@ -90,24 +90,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-09T11:02:28+0000",
       "summary": "Pete Prisco shares his Power Rankings heading into Week 2 of the 2025 season"
-    },
-    {
-      "id": "f30cb3079c17d96c",
-      "title": "Highlights of former Notre Dame stars during the NFL’s opening weekend of the 2025 season",
-      "link": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2025/09/09/notre-dame-football-nfl-week-1-2025-highlights-watts-mayer-skowronek-love-hamilton/86051422007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T11:02:25+0000",
-      "summary": "It was the NFL’s opening weekend, and many former Notre Dame stars made huge impacts for their teams. Here are some highlight of the action."
-    },
-    {
-      "id": "1df6b4c2bfcf23d7",
-      "title": "Philadelphia Eagles trade for RB Tank Bigsby ahead of Week 2 vs. the Kansas City Chiefs",
-      "link": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2025/09/09/philadelphia-eagles-trade-for-rb-tank-bigsby-ahead-of-week-2-vs-the-kansas-city-chiefs/86051382007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T11:02:19+0000",
-      "summary": "Philadelphia Eagles trade for running back Tank Bigsby ahead of Week 2 vs. the Kansas City Chiefs | @EdEastonJr"
     },
     {
       "id": "de0ccb4357c598b6",
@@ -129,7 +111,7 @@
     },
     {
       "id": "d36f5169e190d109",
-      "title": "McCarthy delivers in debut, leads Vikings' rally",
+      "title": "McCarthy rallies Vikings in 4th quarter of debut",
       "link": "https://espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
       "source": "ESPN",
       "feed": "ESPN",
@@ -540,6 +522,24 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-04T16:30:00+0000",
       "summary": "The Eagles will unveil their second Super Bowl banner on Thursday night at Lincoln Financial Field."
+    },
+    {
+      "id": "79c5c4f18c4ec212",
+      "title": "Cowboys vs. Eagles Game Preview: 6 storylines to follow in the opener",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-game-preview-6-storylines-to-follow-in-the-opener",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T15:00:00+0000",
+      "summary": "Eagles Insider Dave Spadaro analyzes a thrilling rivalry showdown to kick off the 2025 NFL season."
+    },
+    {
+      "id": "79cc2707eec74d67",
+      "title": "Jalen Hurts to be on the cover of Wheaties",
+      "link": "https://philadelphiaeagles.com/news/jalen-hurts-to-be-on-the-cover-of-wheaties",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T13:00:00+0000",
+      "summary": "The Super Bowl MVP grew up eating Wheaties, and now he will be on the cover of the box."
     }
   ],
   "links": [
