@@ -1,6 +1,96 @@
 {
-  "updated": "2025-09-09T17:30:52+00:00",
+  "updated": "2025-09-09T18:42:43+00:00",
   "items": [
+    {
+      "id": "d36f5169e190d109",
+      "title": "McCarthy rallies Vikings in 4th quarter of debut",
+      "link": "https://espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T18:48:14+0000",
+      "summary": "In thrilling fashion Monday night, Minnesota quarterback J.J. McCarthy authored a late comeback, becoming the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut, as the Vikings outlasted the Bears."
+    },
+    {
+      "id": "db732ccf9b9f2f73",
+      "title": "Massive uptick in NFL kickoff returns in Week 1",
+      "link": "https://espn.com/nfl/story/_/id/46207142/nfl-kickoff-return-rate-increases-dramatically-week-1",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T18:48:14+0000",
+      "summary": "A modest change to the NFL's kickoff rules made a massive impact on Week 1, producing the highest single-week return rate in 15 years."
+    },
+    {
+      "id": "2d883ffd01c09b77",
+      "title": "Jaguars trade RB Bigsby to Eagles for draft picks",
+      "link": "https://espn.com/nfl/story/_/id/46201708/jaguars-trade-running-back-tank-bigsby-eagles",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T18:48:14+0000",
+      "summary": "The Jaguars have traded running back Tank Bigsby to the Eagles for 2026 fifth- and sixth-round picks."
+    },
+    {
+      "id": "a38f1bb0abc81156",
+      "title": "Denver Broncos announce plan for new stadium in historic Burnham Yard, targeting 2031 completion date",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/denver-broncos-announce-plan-for-new-stadium-in-historic-burnham-yard-targeting-2031-completion-date-183846911.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T18:38:46+0000",
+      "summary": "The Denver Broncos announced Tuesday morning that a decision has been made on the site for a new privately funded stadium in historic Burnham Yard in Denver, with a targeted completion date for the 2031 NFL season."
+    },
+    {
+      "id": "61ba4ee6881c13a9",
+      "title": "Fantasy football waiver wire: 10 players to add for NFL Week 2",
+      "link": "https://usatoday.com/story/sports/fantasy/football/2025/09/09/fantasy-football-week-2-waiver-wire-pickups/86045852007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T18:31:07+0000",
+      "summary": "The first week of the NFL season is always the most chaotic, so let's try to make sense of what we saw and improve our fantasy rosters."
+    },
+    {
+      "id": "fe4381cacf781d20",
+      "title": "Eagles Coach of the Week: Jack Muldoon, Monsignor Bonner & Archbishop Prendergast",
+      "link": "https://philadelphiaeagles.com/news/eagles-coach-of-the-week-jack-muldoon-monsignor-bonner-archbishop-prendergast",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-09T18:30:00+0000",
+      "summary": "Muldoon led his alma mater to the school's first state championship last season."
+    },
+    {
+      "id": "8692978a4a4fbbc9",
+      "title": "Week 2 Fantasy Football Kicker Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/week-2-fantasy-football-kicker-rankings-181834859.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T18:18:34+0000",
+      "summary": "Here are our fantasy football kicker rankings for Week 2 of the 2025 NFL season."
+    },
+    {
+      "id": "ceefec70272c14a1",
+      "title": "Pete Carroll says Ashton Jeanty was too hyped for his debut, &quot;He'll play way better&quot;",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-says-ashton-jeanty-was-too-hyped-for-his-debut-hell-play-way-better",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T18:17:13+0000",
+      "summary": "Raiders running back Ashton Jeanty turned in a disappointing performance in his NFL debut, carrying 19 times for 38 yards and catching two passes for two yards."
+    },
+    {
+      "id": "fd3568b2aec6b040",
+      "title": "Eagles coach delivers harsh truth about Jalen Carter’s maturity, challenges his leadership",
+      "link": "https://nj.com/eagles/2025/09/eagles-coach-delivers-harsh-truth-about-jalen-carters-maturity-challenges-his-leadership.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T18:16:41+0000",
+      "summary": "Eagles coach tells the truth about Jalen Carter."
+    },
+    {
+      "id": "6011014ae7521697",
+      "title": "Tracking former Eagles players: Week 1 recap",
+      "link": "https://bleedinggreennation.com/general/157906/tracking-former-eagles-players-week-1-recap",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-09T18:09:34+0000",
+      "summary": "The Eagles secured their Week 1 win on Thursday which meant there was plenty of time to sit back and watch former Eagles throughout the league the rest of the weekend. Here’s how some former Eagles fared in Week 1 Former Eagles take over MNF There were a lot of former Eagles on the sideline [&#8230;]"
+    },
     {
       "id": "4c220dad3c6abad2",
       "title": "Why the Eagles traded for Tank Bigsby and what Philadelphia is planning for its new RB behind Saquon Barkley",
@@ -9,15 +99,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-09T17:25:28+0000",
       "summary": "The Eagles have a long-term plan for Bigsby after landing the third-year pro in a trade with the Jaguars"
-    },
-    {
-      "id": "8e89d79e9d57e1bd",
-      "title": "Bills surge in NFL power rankings after unbelievable comeback: What experts say",
-      "link": "https://democratandchronicle.com/story/sports/football/nfl/bills/2025/09/09/buffalo-bills-surge-nfl-power-rankings-what-experts-say/86055175007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T17:22:40+0000",
-      "summary": "NFL analysts are looking at the Buffalo Bills with fresh eyes after the team's incredible comeback Sunday night against the Baltimore Ravens."
     },
     {
       "id": "b6aa1039c6bb9a88",
@@ -38,21 +119,12 @@
       "summary": "Moody had connected on 74.2% of his field goal attempts after being selected in the third round of the 2023 NFL Draft"
     },
     {
-      "id": "222c497339c10e97",
-      "title": "Vic Fangio reveals short-term plans for Eagles' obvious cornerback dilemma",
-      "link": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/09/09/eagles-cb-dilemma-met-short-term-plan-from-dc-vic-fangio/86057868007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T17:05:41+0000",
-      "summary": "Per Fangio, the plan for the Eagles at cornerback is pretty much set 'for now'."
-    },
-    {
       "id": "4f5e73087fba6dfd",
       "title": "Vic Fangio expects Adoree' Jackson to start in Week 2 | Eagles vs. Chiefs Daily Updates",
       "link": "https://philadelphiaeagles.com/news/eagles-chiefs-daily-updates-nfl-week-2",
       "source": "PhiladelphiaEagles.com",
       "feed": "Philadelphia Eagles",
-      "published": "2025-09-09T16:54:00+0000",
+      "published": "2025-09-09T16:56:00+0000",
       "summary": "Fangio also added that he would like to keep Cooper DeJean in the slot rather than move him outside."
     },
     {
@@ -63,33 +135,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T16:42:47+0000",
       "summary": "The opening week of the 2025 NFL season came with a side of one-liners, blunt assessments and heartfelt reflections. Put your knowledge to the test with our Week 1 quote quiz."
-    },
-    {
-      "id": "2d883ffd01c09b77",
-      "title": "Jaguars trade RB Bigsby to Eagles for draft picks",
-      "link": "https://espn.com/nfl/story/_/id/46201708/jaguars-trade-running-back-tank-bigsby-eagles",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T16:38:06+0000",
-      "summary": "The Jaguars have traded running back Tank Bigsby to the Eagles for 2026 fifth- and sixth-round picks."
-    },
-    {
-      "id": "d36f5169e190d109",
-      "title": "McCarthy rallies Vikings in 4th quarter of debut",
-      "link": "https://espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T16:38:05+0000",
-      "summary": "In thrilling fashion Monday night, Minnesota quarterback J.J. McCarthy authored a late comeback, becoming the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut, as the Vikings outlasted the Bears."
-    },
-    {
-      "id": "db732ccf9b9f2f73",
-      "title": "Massive uptick in NFL kickoff returns in Week 1",
-      "link": "https://espn.com/nfl/story/_/id/46207142/nfl-kickoff-return-rate-increases-dramatically-week-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T16:38:05+0000",
-      "summary": "A modest change to the NFL's kickoff rules made a massive impact on Week 1, producing the highest single-week return rate in 15 years."
     },
     {
       "id": "5f6b9f645a91934d",
@@ -261,15 +306,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-08T18:36:56+0000",
       "summary": "The Eagles added RB Montrell Johnson and OL Hollin Pierce to the practice squad and released WR Elijah Cooks."
-    },
-    {
-      "id": "8727616897f805a5",
-      "title": "Eagles News: Team that voted to ban Tush Push continues to use Tush Push",
-      "link": "https://bleedinggreennation.com/news/157898/eagles-news-team-that-voted-to-ban-tush-push-continues-to-use-tush-push",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-08T14:45:35+0000",
-      "summary": "Let’s get to the Philadelphia Eagles links &#8230; Tush Push Police: Bills were adamantly for banning, ran it twice Week 1 &#8211; PhillyVoiceThe two loudest teams in favor of banning the Tush Push were the Packers, who introduced the motion to ban it, and the Bills, who actually ran a version of the play more [&#8230;]"
     },
     {
       "id": "990c98acd6cf3be6",
@@ -504,42 +540,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-02T16:00:00+0000",
       "summary": "In light of the uncertainties with respect to SEPTA’s service, the Philadelphia Eagles are issuing fan guidance for Thursday’s home opener at Lincoln Financial Field."
-    },
-    {
-      "id": "b5e4901fbf1880e3",
-      "title": "DUDE Wipes becomes official presenting partner of the Tush Push",
-      "link": "https://philadelphiaeagles.com/news/dude-wipes-becomes-official-presenting-partner-of-the-tush-push",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T14:00:01+0000",
-      "summary": "From the bathroom to the end zone, the viral wet wipes brand has joined the Philadelphia Eagles to become the presenting partner of their signature offensive play."
-    },
-    {
-      "id": "8bc79dcd5e914d04",
-      "title": "Laurin Talese to perform 'Lift Every Voice and Sing' at Eagles' season opener",
-      "link": "https://philadelphiaeagles.com/news/laurin-talese-lift-every-voice-and-sing-cowboys-eagles-season-opener",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T11:45:00+0000",
-      "summary": "Talese will attend her first NFL game on Thursday, but she’s not a stranger to the Eagles."
-    },
-    {
-      "id": "e4d39215005ef9b9",
-      "title": "Eagles issue travel advisory for home opener amid SEPTA service cuts",
-      "link": "https://nbcsportsphiladelphia.com/news/eagles-issue-travel-advisory-for-home-opener-amid-septa-service-cuts/681973/",
-      "source": "NBC Sports Philadelphia",
-      "feed": "NBC Sports Philadelphia",
-      "published": "2025-09-02T01:58:52+0000",
-      "summary": "<p>Lincoln Financial Field sign</p>"
-    },
-    {
-      "id": "eaefd27184294c50",
-      "title": "Saquon Barkley ranked No. 1 in the NFL's Top 100 Players of 2025",
-      "link": "https://philadelphiaeagles.com/news/saquon-barkley-ranked-no-1-in-the-nfl-top-100-players-of-2025",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T00:52:02+0000",
-      "summary": "Barkley is the first Eagle to ascend to the top of the list."
     }
   ],
   "links": [
