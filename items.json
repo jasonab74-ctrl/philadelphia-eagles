@@ -1,6 +1,96 @@
 {
-  "updated": "2025-09-08T23:41:29+00:00",
+  "updated": "2025-09-09T03:12:05+00:00",
   "items": [
+    {
+      "id": "32c5bf18e33fca9f",
+      "title": "NFL Week 1's top performance? Check the fan-voted 'Himmy' Award leaderboard",
+      "link": "https://espn.com/nfl/story/_/id/46200160/himmy-awards-week-1-josh-allen-daniel-jones-aaron-rodgers-emeka-egbuka",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T02:49:20+0000",
+      "summary": "Fans weighed in on Week 1's top players, casting their votes for the 'Himmy' Award between Josh Allen, Aaron Rodgers, Emeka Egbuka and Daniel Jones."
+    },
+    {
+      "id": "f8dee1af207226f4",
+      "title": "NFL trade grades: Did the Eagles give up too much for Tank Bigsby?",
+      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T02:49:10+0000",
+      "summary": "The Eagles added some running back depth behind Saquon Barkley, but did they give up too much for Bigsby? We sized up the deal from both sides."
+    },
+    {
+      "id": "a2b8ff20816845a5",
+      "title": "How did Penn State's 2025 NFL draft picks perform in their debuts?",
+      "link": "https://sportingnews.com/us/ncaa-football/penn-state/news/how-did-penn-states-2025-nfl-draft-picks-perform-their-debuts/a9766b9d263a000bad345f98",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T02:40:56+0000",
+      "summary": "Tyler Warren and Adbul Carter shine in NFL debuts."
+    },
+    {
+      "id": "1ad86c7eb89290f3",
+      "title": "Experts grade Jaguars' Tank Bigsby trade to Eagles",
+      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/09/08/jaguars-trade-tank-bigsby-eagles-expert-grades/86051504007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T02:38:30+0000",
+      "summary": "The Jaguars traded RB Tank Bigsby to the Eagles and a few experts have handed out their trade grades."
+    },
+    {
+      "id": "f9b032da80e00bc9",
+      "title": "NFL fans notice 1 thing during J.J. McCarthy debut",
+      "link": "https://sportingnews.com/us/ncaa-football/michigan/news/nfl-fans-notice-1-thing-during-jj-mccarthy-debut/3e432f995dbf8dd7f94bd565",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T02:09:02+0000",
+      "summary": "The former Michigan quarterback is finding out that the NFL is a different beast."
+    },
+    {
+      "id": "2d883ffd01c09b77",
+      "title": "Sources: Jaguars send Bigsby to Eagles for picks",
+      "link": "https://espn.com/nfl/story/_/id/46201708/jaguars-trade-running-back-tank-bigsby-eagles",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T01:02:48+0000",
+      "summary": "The Jacksonville Jaguars are trading running back Tank Bigsby, who had five carries for 12 yards Sunday in a win over the Carolina Panthers, to the Philadelphia Eagles in exchange for 2026 fifth- and sixth-round picks, sources told ESPN's Adam Schefter."
+    },
+    {
+      "id": "aa0f5e7b2dca4fad",
+      "title": "Tank Bigsby trade grades: Jaguars get better of Eagles (barely) in trading away young RB for two draft picks",
+      "link": "https://cbssports.com/nfl/news/tank-bigsby-trade-grades-jaguars-get-better-of-eagles-barely-in-trading-away-young-rb-for-two-draft-picks/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T00:40:15+0000",
+      "summary": "Philadelphia makes yet another move"
+    },
+    {
+      "id": "8383b7f04205f4b8",
+      "title": "Tank Bigsby trade: Eagles acquire Jaguars running back",
+      "link": "https://bleedinggreennation.com/news/157928/tank-bigsby-trade-eagles-acquire-jaguars-running-back",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-09T00:17:50+0000",
+      "summary": "Howie Roseman simply can’t stop making trades. In his fifth swap since August 17, the Philadelphia Eagles general manager struck a deal with the Jacksonville Jaguars on Monday night. The terms: EAGLES RECEIVE — Tank Bigsby JAGUARS RECEIVE — 2026 fifth-round pick, 2026 sixth-round pick Update: More specifics on one of the picks via ESPN’s [&#8230;]"
+    },
+    {
+      "id": "3f5189e527fa3907",
+      "title": "Tank Bigsby traded to Eagles: Reigning Super Bowl champions add RB depth behind Saquon Barkley, per report",
+      "link": "https://cbssports.com/nfl/news/tank-bigsby-traded-to-eagles-reigning-super-bowl-champions-add-rb-depth-behind-saquon-barkley-per-report/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T00:07:04+0000",
+      "summary": "Bigsby got just five carries in the Jaguars' Week 1 win over the Panthers"
+    },
+    {
+      "id": "9c5480d878fbdb31",
+      "title": "Bears vs. Vikings prediction, odds, time, line: 2025 NFL Week 1 Monday Night Football picks by advanced model",
+      "link": "https://cbssports.com/nfl/news/bears-vs-vikings-prediction-odds-time-line-2025-nfl-week-1-monday-night-football-picks-by-advanced-model/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-08T23:49:41+0000",
+      "summary": "The SportsLine projection model has revealed its Chicago vs. Minnesota picks for Monday Night Football in 2025 NFL Week 1"
+    },
     {
       "id": "bd725205e6b373d3",
       "title": "Best of NFL Week 1 tunnel fits, featuring Caleb Williams rocking a Brian Urlacher jersey",
@@ -11,48 +101,21 @@
       "summary": "NFL stars didn't just show up to play -- they showed up in style. From Joe Burrow to Jayden Daniels, here are the best looks from the first Sunday of the season."
     },
     {
-      "id": "6ada8e6b5fa5d08a",
-      "title": "Michigan national champions JJ McCarthy, Colston Loveland set for NFL debuts on Monday Night Football",
-      "link": "https://sportingnews.com/us/ncaa-football/michigan/news/michigan-national-champions-jj-mccarthy-colston-loveland-set-nfl-debuts-monday-night-football/20e97557953f3d236f9b09be",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T23:29:53+0000",
-      "summary": "Vikings' JJ McCarthy and Bears' Colston Loveland were national champion teammates at Michigan, and now they'll face each other in their NFL debuts on Monday Night Football."
+      "id": "c086a03451cd056c",
+      "title": "Monday Night Football: Vikings vs. Bears",
+      "link": "https://bleedinggreennation.com/game-day-threads/157925/monday-night-football-vikings-vs-bears-game-information-week-1-mnf-odds-nfl",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-08T23:45:00+0000",
+      "summary": "The final game of the 2025 NFL season-opening weekend will be a Monday Night Football matchup featuring the Minnesota Vikings on the road against the Chicago Bears. The Vikings lead the all-time series between these NFC North teams, 68-57-2, and have won seven of their last eight meetings. They last faced off back in December [&#8230;]"
     },
     {
-      "id": "41be5f9d98842b51",
-      "title": "Saints cut rookie draft pick one day after their first regular season game",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/09/08/saints-cut-rookie-draft-pick-fadil-diggs-nfl-roster-moves/86049871007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T23:16:42+0000",
-      "summary": "Life on the edge of an NFL roster isn't easy. The Saints waived rookie draft pick Fadil Diggs one day after their first regular season game:"
-    },
-    {
-      "id": "387210564af669e0",
-      "title": "Game-day rituals: How eye black, meditation and Bob Marley get J.J. McCarthy ready",
-      "link": "https://espn.com/nfl/story/_/id/46185800/nfl-minnesota-vikings-jj-mccarthy-chicago-bears-monday-night-football",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-08T23:08:50+0000",
-      "summary": "Justin Jefferson said McCarthy, who makes his NFL debut Monday against Chicago, \"has the winning attitude.\""
-    },
-    {
-      "id": "672b24d8f93291dc",
-      "title": "Jalen Carter spitting incident: Eagles coach comments as NFL discipline looms",
-      "link": "https://nj.com/eagles/2025/09/jalen-carter-spitting-incident-eagles-coach-comments-as-nfl-discipline-looms.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T23:04:07+0000",
-      "summary": "Eagles star Jalen Carter is awaiting NFL discipline after spitting on Cowboys quarterback Dak Prescott."
-    },
-    {
-      "id": "6b64e7c49f401f1b",
-      "title": "Monday Night Football prediction, odds, spread, line: Vikings vs. Bears picks by NFL expert on 63-32 roll",
-      "link": "https://cbssports.com/nfl/news/monday-night-football-prediction-odds-spread-line-vikings-vs-bears-picks-by-nfl-expert-on-63-32-roll/",
+      "id": "5d309fef3281a546",
+      "title": "Monday Night Football prediction, odds, spread, line: Vikings vs. Bears picks by top expert on 63-32 roll",
+      "link": "https://cbssports.com/nfl/news/monday-night-football-prediction-odds-spread-line-vikings-vs-bears-picks-by-top-expert-on-63-32-roll/",
       "source": "CBS Sports",
       "feed": "CBS Sports",
-      "published": "2025-09-08T23:01:35+0000",
+      "published": "2025-09-08T23:43:28+0000",
       "summary": "SportsLine expert R.J. White has revealed his picks for Chicago vs. Minnesota in the Week 1 NFL matchup on Monday Night Football"
     },
     {
@@ -63,15 +126,6 @@
       "feed": "ESPN",
       "published": "2025-09-08T23:01:12+0000",
       "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
-    },
-    {
-      "id": "ae65f4cff77d22b8",
-      "title": "Does Shai Gilgeous-Alexander believe he could've made the NFL?",
-      "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2025/09/08/does-shai-gilgeous-alexander-believe-he-couldve-made-the-nfl/86049701007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T23:00:56+0000",
-      "summary": "Does Shai Gilgeous-Alexander believe he could've made the NFL?"
     },
     {
       "id": "b3efe2771f818f8c",
@@ -128,15 +182,6 @@
       "summary": "The SportsLine Projection Model has revealed its Minnesota vs. Chicago picks for the 2025 NFL Week 1 Monday Night Football contest"
     },
     {
-      "id": "bb59564e9cd91f45",
-      "title": "Bears vs. Vikings prediction: Ben Johnson era starts in Chicago; J.J. McCarthy makes NFL debut",
-      "link": "https://cbssports.com/nfl/news/bears-vs-vikings-prediction-ben-johnson-era-starts-in-chicago-j-j-mccarthy-makes-his-nfl-debut/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-08T21:39:18+0000",
-      "summary": "An NFC North battle closes out Week 1"
-    },
-    {
       "id": "616c1b73a238cbcc",
       "title": "Best betting apps, sites, NFL promos for Vikings vs. Bears: How and where to bet on Monday Night Football",
       "link": "https://cbssports.com/nfl/news/best-betting-apps-sites-nfl-promos-for-vikings-vs-bears-how-and-where-to-bet-on-monday-night-football/",
@@ -182,24 +227,6 @@
       "summary": "Sometimes a new environment can make all the difference ... sometimes not so much"
     },
     {
-      "id": "fb8cc3450b8045b8",
-      "title": "NFL Week 1 grades: Bills earn 'B+' for wild win over Ravens, Aaron Rodgers leads Steelers to solid mark",
-      "link": "https://cbssports.com/nfl/news/nfl-week-1-grades-aaron-rodgers-leads-steelers-to-wild-win-and-solid-mark-bengals-get-satisfactory-victory/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-08T19:50:13+0000",
-      "summary": "Here are the Week 1 grades for every team"
-    },
-    {
-      "id": "a7b663607dff7799",
-      "title": "Fan who hit DeAndre Hopkins, Lamar Jackson during Bills game given indefinite ban from NFL stadiums",
-      "link": "https://cbssports.com/nfl/news/fan-who-hit-deandre-hopkins-lamar-jackson-during-bills-game-given-indefinite-ban-from-nfl-stadiums/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-08T19:12:20+0000",
-      "summary": "The incident took place during the third quarter of 'Sunday Night Football'"
-    },
-    {
       "id": "680b4577941ff55d",
       "title": "Eagles sign Patrick Johnson to roster and make 3 practice squad moves",
       "link": "https://bleedinggreennation.com/news/157907/eagles-sign-patrick-johnson-to-roster-and-make-3-practice-squad-moves",
@@ -243,6 +270,15 @@
       "feed": "Bleeding Green Nation",
       "published": "2025-09-08T14:07:35+0000",
       "summary": "The Philadelphia Eagles are working out veteran free agent cornerback Mike Hilton on Monday, according to a report from NFL insider Jordan Schultz. We previously highlighted Hilton as a potential Eagles target back on August 27. Here’s what we said at the time: I don’t think this is realistic since 1) he’ll probably end up [&#8230;]"
+    },
+    {
+      "id": "990c98acd6cf3be6",
+      "title": "Howie Roseman pulls off another trade, acquiring Jaguars' leading rusher in 2024",
+      "link": "https://nbcsportsphiladelphia.com/nfl/philadelphia-eagles/tank-bigsby-trade-jaguars-running-back-howie-roseman/683061/",
+      "source": "NBC Sports Philadelphia",
+      "feed": "NBC Sports Philadelphia",
+      "published": "2025-09-08T08:24:34+0000",
+      "summary": "<p>NEW ORLEANS, LOUISIANA – AUGUST 17: Tank Bigsby #4 of the Jacksonville Jaguars walks off the field prior to an NFL Preseason 2025 game against the New Orleans Saints at Caesars Superdome on August 17, 2025 in New Orleans, Louisiana.(Photo by Logan Bowles/Getty Images)</p>"
     },
     {
       "id": "e1d089c11145939a",
@@ -306,24 +342,6 @@
       "feed": "Bleeding Green Nation",
       "published": "2025-09-07T16:34:00+0000",
       "summary": "The first full day of games for the 2025 NFL season will get underway Sunday at 1:00 PM, with a few interesting matchups including the New York Giants against the Washington Commanders. You can CLICK HERE for a full Week 1 Eagles fan rooting guide. The Philadelphia Eagles already won their season opener against the [&#8230;]"
-    },
-    {
-      "id": "f298839d65defdfd",
-      "title": "NFL Picks Against the Spread: Week 1 Games",
-      "link": "https://bleedinggreennation.com/philadelphia-eagles-odds/157829/nfl-picks-against-the-spread-week-1-games",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-07T15:31:26+0000",
-      "summary": "Before the first Sunday of the 2025 regular season kicks off, let’s have some fun by taking a look at the lines for the NFL Week 1 games. You can CLICK HERE for straight up NFL picks without regard to the spread. You can find all of the NFL betting lines via FanDuel. My overall [&#8230;]"
-    },
-    {
-      "id": "4170f6098da6b694",
-      "title": "Eagles News: Adoree’ Jackson says he has “room for improvement”",
-      "link": "https://bleedinggreennation.com/news/157820/eagles-news-adoree-jackson-says-he-has-room-for-improvement",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-07T10:00:00+0000",
-      "summary": "Let’s get to the Philadelphia Eagles links &#8230; A closer look at Eagles’ passing defense shows ‘room for improvement’ &#8211; The AthleticAdoree’ Jackson gave his performance a “C.” Letter grades fail to capture a full game’s nuances. Still, a reporter asked Jackson at the Philadelphia Eagles cornerback’s locker to grade his debut in Thursday night’s [&#8230;]"
     },
     {
       "id": "bd000a82ba977ee5",
@@ -522,24 +540,6 @@
       "feed": "NBC Sports Philadelphia",
       "published": "2025-09-03T11:12:30+0000",
       "summary": ""
-    },
-    {
-      "id": "f6a3b7d56e4533ac",
-      "title": "A.J. Brown, DeVonta Smith not concerned after missing time | Cowboys vs. Eagles Daily Updates",
-      "link": "https://philadelphiaeagles.com/news/cowboys-eagles-daily-updates-week-1-2025",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T20:27:00+0000",
-      "summary": "The wide receivers were rarely on the field together at Training Camp but don't expect any rust on Thursday night."
-    },
-    {
-      "id": "7c041756f2eb1df3",
-      "title": "Eagles and TickPick transform Lincoln Financial Field Stadium Tours through expanded partnership",
-      "link": "https://philadelphiaeagles.com/news/eagles-and-tickpick-transform-lincoln-financial-field-stadium-tours",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T18:00:00+0000",
-      "summary": "TickPick will now serve as the presenting partner of all Eagles fan tours at Lincoln Financial Field."
     }
   ],
   "links": [
