@@ -1,6 +1,24 @@
 {
-  "updated": "2025-09-09T04:39:57+00:00",
+  "updated": "2025-09-09T05:33:10+00:00",
   "items": [
+    {
+      "id": "fd7c57489d429e35",
+      "title": "Questions, takeaways off every NFL Week 1 game: Can Josh Allen overcome any obstacle? What can J.J. McCarthy do for an encore?",
+      "link": "https://espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T06:14:36+0000",
+      "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 1."
+    },
+    {
+      "id": "7a7b0fce6a890411",
+      "title": "J.J. McCarthy makes NFL history while leading the Vikings to a shocking win over the Bears",
+      "link": "https://cbssports.com/nfl/news/j-j-mccarthy-makes-nfl-history-while-leading-the-vikings-to-a-shocking-win-over-the-bears/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T05:05:26+0000",
+      "summary": "He may have started slow, but McCarthy put on a show in the fourth quarter to lead Minnesota to victory"
+    },
     {
       "id": "2d883ffd01c09b77",
       "title": "Sources: Jaguars send Bigsby to Eagles for picks",
@@ -27,6 +45,15 @@
       "feed": "ESPN",
       "published": "2025-09-09T05:03:29+0000",
       "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
+    },
+    {
+      "id": "7b9faa32e0a4d2f3",
+      "title": "NFL Power Rankings Week 2, best futures bets: Ravens or Bills to win Super Bowl, Packers win NFC",
+      "link": "https://cbssports.com/betting/news/nfl-power-rankings-week-2-best-futures-bets-ravens-or-bills-to-win-super-bowl-packers-win-nfc/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-09T04:38:22+0000",
+      "summary": "The Inside the Lines team uses its proven NFL model to objectively rank each team's power going forward in the 2025 season and not looking backward"
     },
     {
       "id": "cec24de84b8df72b",
@@ -92,87 +119,6 @@
       "summary": "Xavier Watts shined in Falcons' debut."
     },
     {
-      "id": "a46f0a9e348a1804",
-      "title": "JJ McCarthy stats today: Vikings QB stars in fourth quarter of NFL debut",
-      "link": "https://usatoday.com/story/sports/nfl/2025/09/09/jj-mccarthy-stats-today-vikings-bears/86051320007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T04:00:13+0000",
-      "summary": "J.J. McCarthy got off to a slow start in his NFL debut against the Bears, but the Vikings QB put together an elite fourth quarter to earn a win."
-    },
-    {
-      "id": "9c4faf2536439a4c",
-      "title": "J.J. McCarthy makes NFL history after complete 180 in Vikings debut",
-      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/vikings-jj-mccarthy-makes-nfl-history-complete-180-vikings-debut/ec7c1fd5436f8cbeabc00fe6",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T04:00:06+0000",
-      "summary": "Minnesota Vikings quarterback J.J. McCarthy's impressive turnaround in the Week 1 win over the Chicago Bears was historic. Here's how the second-year signal-caller made history in his NFL debut."
-    },
-    {
-      "id": "55a5955ede4827cb",
-      "title": "McCarthy sparks late rally as Vikings edge Bears in NFL opener",
-      "link": "https://sports.yahoo.com/article/mccarthy-sparks-rally-vikings-edge-035959706.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:59:59+0000",
-      "summary": "Minnesota quarterback J.J. McCarthy, making his NFL debut in his hometown, rallied the Vikings past the Chicago Bears 27-24 on Monday in the NFL season opener for both clubs.McCarthy was the first quarterback to rally from more than 10 points down in the fourth quarter and win his NFL debut since Steve Young in 1985."
-    },
-    {
-      "id": "2d8d12c415b8cf16",
-      "title": "Vikings' J.J. McCarthy just played the best debut 4th quarter in NFL history",
-      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/vikings-jj-mccarthy-played-best-debut-4th-quarter-nfl-history/d91e378a1380e00fc505c0ed",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:58:04+0000",
-      "summary": "No one has ever done this before."
-    },
-    {
-      "id": "93c804d260eef021",
-      "title": "Winners, Losers from Minnesota Vikings Stifling Chicago Bears 27-24",
-      "link": "https://sportsnaut.com/nfl/minnesota-vikings-vs-chicago-bears-recap-winners-losers/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:54:18+0000",
-      "summary": "The NFL decided to schedule a pair of NFC North divisional matchups right away in Week 1. After the Green"
-    },
-    {
-      "id": "494e17351dcc2b57",
-      "title": "Watch: Vikings' J.J. McCarthy throws his first touchdown pass in the NFL",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/09/08/j-j-mccarthy-first-touchdown-pass-bears/86051902007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:54:12+0000",
-      "summary": "It took over a year but Vikings fans finally saw J.J. McCarthy throw a touchdown pass."
-    },
-    {
-      "id": "e66cd7b7df459720",
-      "title": "NFL Power Rankings entering Week 2: Chiefs won't walk through AFC West this season",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-2-chiefs-wont-walk-through-afc-west-this-season-035319955.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:53:19+0000",
-      "summary": "The Chiefs are in an unusual position: last place of the AFC West. There will be urgency for the Chiefs in September, which is rare."
-    },
-    {
-      "id": "d21c68b003775bbb",
-      "title": "49ers’ coach Kyle Shanahan might be about to get the Mac Jones moment he always wanted",
-      "link": "https://sportingnews.com/us/nfl/san-francisco-49ers/news/49ers-coach-kyle-shanahan-mac-jones-moment-always-wanted/dbb0695c94b6e8cd25befbdd",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:50:28+0000",
-      "summary": "Ah, the NFL is a weird, goofy, always changing league."
-    },
-    {
-      "id": "edd2e1bb007be431",
-      "title": "Berks high school golf: Exeter edges Conrad Weiser as match decided by fifth-best scorer",
-      "link": "https://readingeagle.com/2025/09/08/berks-high-school-golf-twin-valley-gov-mifflin-notch-victories/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:47:00+0000",
-      "summary": "Exeter and Conrad Weiser went to golf’s version of overtime on Monday as the score was tied after the first four players, meaning the fifth best score would decide the match. The Eagles came out on top at Galen Hall over 12 holes (par 47) with a 290-291 victory. Exeter’s fifth scorer was Connor Stewart who shot 63, one stroke better than the Scouts’ fifth scorer. For the Eagles (7-5), Giulia ..."
-    },
-    {
       "id": "fb8cc3450b8045b8",
       "title": "NFL Week 1 grades: Vikings get 'B-' for comeback win over Bears; Bills earn 'B+' for wild win over Ravens",
       "link": "https://cbssports.com/nfl/news/nfl-week-1-grades-aaron-rodgers-leads-steelers-to-wild-win-and-solid-mark-bengals-get-satisfactory-victory/",
@@ -180,42 +126,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-09T03:46:07+0000",
       "summary": "Here are the Week 1 grades for every team"
-    },
-    {
-      "id": "1acde303d25c7eb5",
-      "title": "NFL power rankings: Packers, Steelers, Chargers surge with Week 1 wins; Chiefs, Lions fall hard for Week 2",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-steelers-chargers-chiefs-bills/3148169da51d85fd1e17a0ff",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:45:04+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other going into Week 2 of the 2025 NFL regular season? Here's an updated look from best to worst."
-    },
-    {
-      "id": "75b79fc3e9be4b99",
-      "title": "Houston Texans QB C.J. Stroud on Austin, faith, mentorship and this NFL season",
-      "link": "https://kxan.com/news/local/houston-texans-qb-c-j-stroud-on-austin-faith-mentorship-and-this-nfl-season/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:37:55+0000",
-      "summary": "AUSTIN (KXAN) – Houston Texans quarterback C.J. Stroud made a stop in Austin during the offseason at the C4 Nutrabolt headquarters, where he filmed a video for C4 Energy. The 23-year-old, who played college football at Ohio State and now stands as one of the NFL’s most promising young quarterbacks, said his partnership with the […]"
-    },
-    {
-      "id": "ac73ebafccc29273",
-      "title": "Ben Johnson commits first major coaching blunder in Bears' loss to Vikings",
-      "link": "https://sportingnews.com/us/nfl/chicago-bears/news/ben-johnson-commits-first-major-coaching-blunder-bears-loss-vikings/ceb617e3cded66707715211a",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:37:28+0000",
-      "summary": "Chicago Bears head coach Ben Johnson just made his first coaching blunder in the Week 1 loss to the Minnesota Vikings, which was also his NFL debut as a head coach."
-    },
-    {
-      "id": "c8548af588e63d91",
-      "title": "Born in the 4th: J.J. McCarthy leads Vikings to comeback win over Bears",
-      "link": "https://twincities.com/2025/09/08/j-j-mccarthys-nfl-debut-minnesota-vikings-chicago-bears-monday-night-football/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:36:00+0000",
-      "summary": "CHICAGO — The stage was set for young quarterback J.J. McCarthy to make the Chicago Bears pay for passing on him twice in the 2024 NFL draft. After cheering for them as a kid growing up in La Grange Park, Ill., McCarthy had a chance to beat them in front of a national television audience in primetime. It looked like any chance of that went up in flames shortly after halftime when McCarthy ..."
     },
     {
       "id": "32c5bf18e33fca9f",
@@ -360,15 +270,6 @@
       "feed": "ESPN",
       "published": "2025-09-08T21:08:19+0000",
       "summary": "Odds, spreads, totals and FPI predictions for all 16 NFL games in Week 2."
-    },
-    {
-      "id": "fd7c57489d429e35",
-      "title": "Answering the biggest questions of Week 1: What's more jarring, the Bills' comeback or Baltimore's collapse?",
-      "link": "https://espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-08T20:40:29+0000",
-      "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 1."
     },
     {
       "id": "18e6ab18d816236f",
@@ -540,6 +441,105 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-05T14:00:00+0000",
       "summary": "To celebrate the signature event’s 2026 kickoff, Five Below will match the first $75,000 in donations as part of the year’s first matching gift drive."
+    },
+    {
+      "id": "8d57206068668ab3",
+      "title": "Spadaro: 10 observations from the Eagles' win over the Cowboys",
+      "link": "https://philadelphiaeagles.com/news/spadaro-10-observations-from-the-eagles-win-over-the-cowboys",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T05:51:08+0000",
+      "summary": "Thursday night's season opener saw a lot of action early, plus a long weather delay."
+    },
+    {
+      "id": "02a4e1ec85f23306",
+      "title": "Game Recap: Eagles 24, Cowboys 20 | September 4, 2025 | NFL Regular Season Week 1",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-game-recap-september-4-2025-nfl-week-1",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-05T05:49:00+0000",
+      "summary": "Follow along as the Eagles open the 2025 NFL season against the Dallas Cowboys."
+    },
+    {
+      "id": "c786731a6c220ff9",
+      "title": "Cowboys vs. Eagles Inactives",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-inactives-week-1-2025",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T22:50:00+0000",
+      "summary": "See who will take the field for Cowboys vs. Eagles."
+    },
+    {
+      "id": "a80d93812274f302",
+      "title": "Eagles elevate Marcus Epps and Patrick Johnson for Cowboys game",
+      "link": "https://philadelphiaeagles.com/news/eagles-elevate-marcus-epps-and-patrick-johnson-for-cowboys-game",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T20:18:10+0000",
+      "summary": "The Eagles added two players from the practice squad for tonight’s season opener."
+    },
+    {
+      "id": "007d4325791149d4",
+      "title": "How the Eagles' Super Bowl LIX banner came together",
+      "link": "https://philadelphiaeagles.com/news/how-the-eagles-super-bowl-lix-banner-came-together",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T16:30:00+0000",
+      "summary": "The Eagles will unveil their second Super Bowl banner on Thursday night at Lincoln Financial Field."
+    },
+    {
+      "id": "79c5c4f18c4ec212",
+      "title": "Cowboys vs. Eagles Game Preview: 6 storylines to follow in the opener",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-game-preview-6-storylines-to-follow-in-the-opener",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T15:00:00+0000",
+      "summary": "Eagles Insider Dave Spadaro analyzes a thrilling rivalry showdown to kick off the 2025 NFL season."
+    },
+    {
+      "id": "79cc2707eec74d67",
+      "title": "Jalen Hurts to be on the cover of Wheaties",
+      "link": "https://philadelphiaeagles.com/news/jalen-hurts-to-be-on-the-cover-of-wheaties",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T13:00:00+0000",
+      "summary": "The Super Bowl MVP grew up eating Wheaties, and now he will be on the cover of the box."
+    },
+    {
+      "id": "f694ed7f98b0b0c9",
+      "title": "Eagles QB Jalen Hurts to grace iconic cereal box as a ‘Wheaties Champion'",
+      "link": "https://nbcsportsphiladelphia.com/news/eagles-qb-jalen-hurts-to-grace-iconic-cereal-box-as-a-wheaties-champion/682304/",
+      "source": "NBC Sports Philadelphia",
+      "feed": "NBC Sports Philadelphia",
+      "published": "2025-09-04T09:23:55+0000",
+      "summary": "<p>Jalen Hurts will grace the cover following a winning season for Philadelphia.</p>"
+    },
+    {
+      "id": "c7a6bfdde4f26a82",
+      "title": "An NFL player changed an author's life. He's still adjusting to overnight success",
+      "link": "https://nbcsportsphiladelphia.com/nfl/aj-brown-eagles-inner-excellence-author-overnight-success/682281/",
+      "source": "NBC Sports Philadelphia",
+      "feed": "NBC Sports Philadelphia",
+      "published": "2025-09-04T07:59:50+0000",
+      "summary": "<p>A.J. Brown of the Philadelphia Eagles watches confetti fall after winning Super Bowl LIX against the Kansas City Chiefs at Caesars Superdome on Feb. 9, 2025, in New Orleans.</p>"
+    },
+    {
+      "id": "7d3704d477a8f39a",
+      "title": "How to watch, stream, and listen | Cowboys vs. Eagles",
+      "link": "https://philadelphiaeagles.com/news/how-to-watch-dallas-cowboys-vs-philadelphia-eagles-week-1-090425",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-04T04:00:00+0000",
+      "summary": "See how to watch and listen to the Eagles’ season opener against the Dallas Cowboys on Thursday, September 4, at 8:20 PM."
+    },
+    {
+      "id": "ca44ef9f351de01b",
+      "title": "Cowboys vs. Eagles Injury Report",
+      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-week-1-2025",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-03T19:48:00+0000",
+      "summary": "Tanner McKee is out for Thursday night. Everyone else is good to go for the Eagles."
     }
   ],
   "links": [
