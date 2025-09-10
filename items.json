@@ -1,23 +1,23 @@
 {
-  "updated": "2025-09-10T11:39:04+00:00",
+  "updated": "2025-09-10T13:17:58+00:00",
   "items": [
-    {
-      "id": "b829ac0c70140282",
-      "title": "Everything we're hearing for NFL Week 2: Panic for the Dolphins? Big decision for the Giants?",
-      "link": "https://espn.com/nfl/story/_/id/46208962/nfl-week-2-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T12:26:59+0000",
-      "summary": "Our insiders dove in on the aftermath of the Dolphins' disastrous opener, both New York QB situations and some RB fantasy nuggets ahead of Week 2."
-    },
     {
       "id": "3ea2d0aa85bba43b",
       "title": "'I felt alive again': Taking a look at No. 1 pick Cam Ward's NFL debut",
       "link": "https://espn.com/nfl/story/_/id/46206539/tennessee-titans-no-1-pick-cam-ward-assessing-nfl-debut",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-10T12:09:31+0000",
+      "published": "2025-09-10T13:47:59+0000",
       "summary": "Tennessee quarterback Cam Ward's debut didn't go as planned, but there were positives to take away from it."
+    },
+    {
+      "id": "cbc0b40ec974334a",
+      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
+      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-10T13:46:58+0000",
+      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
     },
     {
       "id": "7a7e9c1780ac191b",
@@ -25,17 +25,71 @@
       "link": "https://espn.com/nfl/story/_/id/46208174/nfl-executives-pick-award-winners-2025-predicting-mvp-top-rookies-player-year-honors-comeback-stars-breakouts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-10T12:08:52+0000",
+      "published": "2025-09-10T13:45:23+0000",
       "summary": "Who will win MVP? Who will be the NFL's top rookies? Who is primed for a breakout? We asked execs and scouts for their picks."
     },
     {
-      "id": "fada8374379652bd",
-      "title": "NFL Power Rankings: Are the Washington Commanders a Top-5 team?",
-      "link": "https://hogshaven.com/373717/nfl-power-rankings-are-the-washington-commanders-a-top-5-team",
+      "id": "d8b4b16711cb40d8",
+      "title": "NFL says Carter's ejection serves as suspension",
+      "link": "https://espn.com/nfl/story/_/id/46209167/nfl-says-jalen-carter-ejection-serves-suspension-spitting",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-10T13:42:34+0000",
+      "summary": "Eagles star Jalen Carter will not miss any future games after spitting on Cowboys QB Dak Prescott."
+    },
+    {
+      "id": "e9f3d78153ef8721",
+      "title": "Week 2 NFL odds, lines, betting picks, spreads: 2025 predictions: Model likes Cowboys, Cardinals",
+      "link": "https://cbssports.com/nfl/news/week-2-nfl-odds-lines-betting-picks-spreads-2025-predictions-model-likes-cowboys-cardinals/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T13:05:20+0000",
+      "summary": "SportsLine's advanced model has locked in its Week 2 NFL betting picks from 10,000 simulations"
+    },
+    {
+      "id": "b49115934891e632",
+      "title": "NFL analyst highlights how good Thomas Booker was in Raiders debut",
+      "link": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2025/09/10/nfl-analyst-highlights-how-good-thomas-booker-was-in-raiders-debut/86072090007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-10T11:30:00+0000",
-      "summary": "Washington Commanders are 1-0"
+      "published": "2025-09-10T13:01:14+0000",
+      "summary": "Brian Baldinger puts a spotlight on how effective Las Vegas Raiders DT Thomas Booker IV was in Week 1."
+    },
+    {
+      "id": "6a2c4d584c364ff2",
+      "title": "5 points: Observations from Cowboys-Eagles; looking ahead to Giants week",
+      "link": "https://bloggingtheboys.com/dallas-cowboys-roster/180350/5-points-observations-cowboys-eagles-look-ahead-giants",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T13:00:00+0000",
+      "summary": "Optimism feels kind of high right now."
+    },
+    {
+      "id": "86f6855bf6eca68b",
+      "title": "Continuity keeps Atlanta’s offensive line coming back strong",
+      "link": "https://thefalcoholic.com/atlanta-falcons-injuries/86230/continuity-keeps-atlantas-offensive-line-coming-back-strong",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T13:00:00+0000",
+      "summary": "The Falcons offensive line overcame injuries, poor play to become one of the NFL’s best units in 2022, 2023 and 2024."
+    },
+    {
+      "id": "e7cb50e947854690",
+      "title": "Week 2 NFL QB Power Rankings: Bills' Josh Allen seizes No. 1 spot, but where does Aaron Rodgers rank now?",
+      "link": "https://cbssports.com/nfl/news/week-2-nfl-qb-power-rankings-bills-josh-allen-seizes-no-1-spot-but-where-does-aaron-rodgers-rank-now/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T12:27:24+0000",
+      "summary": "Assessing all the NFL's starting signal-callers after one week of 2025"
+    },
+    {
+      "id": "18968ee71087878e",
+      "title": "2025 Week 2 NFL score predictions, odds, picks today: Expert reveals exact scores for every game",
+      "link": "https://cbssports.com/nfl/news/2025-week-2-nfl-score-predictions-odds-picks-today-expert-reveals-exact-scores-for-every-game/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T12:01:04+0000",
+      "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 2 of the NFL schedule"
     },
     {
       "id": "55fa51658dd0f94b",
@@ -45,15 +99,6 @@
       "feed": "CBS Sports",
       "published": "2025-09-10T11:14:59+0000",
       "summary": "Making the call between two icons as Rodgers closes in on Favre's spot on the NFL's all-time TDs list"
-    },
-    {
-      "id": "12b2c039f59d332d",
-      "title": "Eagles like Tank Bigsby's &quot;natural vision and feel&quot; as a kickoff returner",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-like-tank-bigsbys-natural-vision-and-feel-as-a-kickoff-returner",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-10T11:12:10+0000",
-      "summary": "The NFL saw a dramatic increase in kickoff returns in the first week of action under this year's revised rules and that change appears to have helped convince the Eagles to trade for running back Tank Bigsby this week."
     },
     {
       "id": "68902e2616ab4ba3",
@@ -92,24 +137,6 @@
       "summary": "It's never too early to dissect how this year's draft classes are faring"
     },
     {
-      "id": "d8b4b16711cb40d8",
-      "title": "NFL says Carter's ejection serves as suspension",
-      "link": "https://espn.com/nfl/story/_/id/46209167/nfl-says-jalen-carter-ejection-serves-suspension-spitting",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T01:37:45+0000",
-      "summary": "Eagles star Jalen Carter will not miss any future games after spitting on Cowboys QB Dak Prescott."
-    },
-    {
-      "id": "db732ccf9b9f2f73",
-      "title": "Massive uptick in NFL kickoff returns in Week 1",
-      "link": "https://espn.com/nfl/story/_/id/46207142/nfl-kickoff-return-rate-increases-dramatically-week-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T01:37:45+0000",
-      "summary": "A modest change to the NFL's kickoff rules made a massive impact on Week 1, producing the highest single-week return rate in 15 years."
-    },
-    {
       "id": "0a50db31ae2837c9",
       "title": "Thursday Night Football prediction, odds, line, spread: Packers vs. Commanders picks by expert on 77-32 run",
       "link": "https://cbssports.com/nfl/news/thursday-night-football-prediction-odds-line-spread-packers-vs-commanders-picks-by-expert-on-77-32-run/",
@@ -126,24 +153,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T23:16:49+0000",
       "summary": "Odds, spreads, totals and FPI predictions for all 16 NFL games in Week 2."
-    },
-    {
-      "id": "cbc0b40ec974334a",
-      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
-      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T22:54:38+0000",
-      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
-    },
-    {
-      "id": "c3954f474dd16a51",
-      "title": "Jake Moody released: 49ers cut kicker after two misses vs. Seahawks, reportedly sign Eddy Piñeiro",
-      "link": "https://cbssports.com/nfl/news/jake-moody-released-49ers-cut-kicker-after-two-misses-vs-seahawks-reportedly-sign-eddy-pineiro/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T22:06:17+0000",
-      "summary": "Moody had connected on 74.2% of his field goal attempts after being selected in the third round of the 2023 NFL Draft"
     },
     {
       "id": "10de19335be1e626",
@@ -164,15 +173,6 @@
       "summary": "The Philadelphia Eagles officially announced three roster moves on Tuesday evening. Here’s an overview: Let’s sort through this news on a player-by-player basis. GABE HALL Hall’s departure (which was made to open up a roster spot for the Tank Bigsby trade acquisition) comes as a surprise since the 2024 undrafted rookie free agent had a [&#8230;]"
     },
     {
-      "id": "b84965f65a9b2bc5",
-      "title": "Computer model reveals NFL against the spread, over/under, money-line picks for each Week 2 game",
-      "link": "https://cbssports.com/nfl/news/computer-model-reveals-nfl-against-the-spread-overunder-money-line-picks-for-each-week-2-game/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T21:15:29+0000",
-      "summary": "SportsLine's model evaluated the Week 2 NFL odds and revealed its NFL predictions, NFL score predictions and NFL betting picks for every game"
-    },
-    {
       "id": "054d6c49f9c832ef",
       "title": "Eagles waive DL Gabe Hall, make practice squad moves",
       "link": "https://philadelphiaeagles.com/news/eagles-waive-gabe-hall-make-practice-squad-moves",
@@ -180,15 +180,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-09T21:00:55+0000",
       "summary": "The Eagles released RB Montrell Johnson from the practice squad and signed C/G Jake Majors."
-    },
-    {
-      "id": "21e258f41246b5b7",
-      "title": "Jalen Carter fined: Eagles star docked $57K for spitting on Dak Prescott, will not be suspended another game",
-      "link": "https://cbssports.com/nfl/news/jalen-carter-fined-eagles-star-docked-57k-for-spitting-on-dak-prescott-will-not-be-suspended-another-game/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-09T20:57:29+0000",
-      "summary": "Carter is eligible to play in Philadelphia's Super Bowl rematch vs. Kansas City in Week 2"
     },
     {
       "id": "36b52be3a6b67424",
@@ -243,15 +234,6 @@
       "feed": "Bleeding Green Nation",
       "published": "2025-09-09T18:09:34+0000",
       "summary": "The Eagles secured their Week 1 win on Thursday which meant there was plenty of time to sit back and watch former Eagles throughout the league the rest of the weekend. Here’s how some former Eagles fared in Week 1 Former Eagles take over MNF There were a lot of former Eagles on the sideline [&#8230;]"
-    },
-    {
-      "id": "806e2f65e9ac777e",
-      "title": "From celebrations to frustration, guess who said what in NFL Week 1",
-      "link": "https://espn.com/nfl/story/_/id/46201499/who-said-nfl-week-1-2025-best-quotes-quiz",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T16:42:47+0000",
-      "summary": "The opening week of the 2025 NFL season came with a side of one-liners, blunt assessments and heartfelt reflections. Put your knowledge to the test with our Week 1 quote quiz."
     },
     {
       "id": "d3aff075121b38ae",
@@ -540,6 +522,24 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-02T18:00:00+0000",
       "summary": "TickPick will now serve as the presenting partner of all Eagles fan tours at Lincoln Financial Field."
+    },
+    {
+      "id": "05203d11ccfae674",
+      "title": "Travel advisory for Eagles home opener on Thursday",
+      "link": "https://philadelphiaeagles.com/news/travel-advisory-for-eagles-home-opener-on-thursday",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T16:00:00+0000",
+      "summary": "In light of the uncertainties with respect to SEPTA’s service, the Philadelphia Eagles are issuing fan guidance for Thursday’s home opener at Lincoln Financial Field."
+    },
+    {
+      "id": "b5e4901fbf1880e3",
+      "title": "DUDE Wipes becomes official presenting partner of the Tush Push",
+      "link": "https://philadelphiaeagles.com/news/dude-wipes-becomes-official-presenting-partner-of-the-tush-push",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T14:00:01+0000",
+      "summary": "From the bathroom to the end zone, the viral wet wipes brand has joined the Philadelphia Eagles to become the presenting partner of their signature offensive play."
     }
   ],
   "links": [
