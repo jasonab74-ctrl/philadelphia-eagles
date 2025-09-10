@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-10T21:37:24+00:00",
+  "updated": "2025-09-10T22:32:56+00:00",
   "items": [
+    {
+      "id": "cbc0b40ec974334a",
+      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
+      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-10T23:22:40+0000",
+      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
+    },
     {
       "id": "7a7e9c1780ac191b",
       "title": "NFL execs predict the biggest award winners: Picks for MVP, best rookies, top comeback player, breakouts",
@@ -20,22 +29,94 @@
       "summary": "How the Niners offense may operate as injuries pile up, Tank Bigsby's role with Eagles, Week 1 injury triage"
     },
     {
-      "id": "83bba7e81ea5e990",
-      "title": "Fantasy Football Week 2 Start 'Em & Sit 'Em Running Back Edition",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/09/10/nfl-week-2-start-em-sit-em-fantasy-football-running-back-edition/86082725007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-10T21:24:45+0000",
-      "summary": "This weekend in the NFL will feature some running backs who should be primed to have great days for your fantasy football roster."
+      "id": "d415fb53a0743f64",
+      "title": "Eagles vs. Chiefs Injury Report",
+      "link": "https://philadelphiaeagles.com/news/eagles-vs-chiefs-injury-report-week-2-2025",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-10T22:17:33+0000",
+      "summary": "Dallas Goedert missed Wednesday's practice with a knee injury. Tap for an update on Landon Dickerson, who exited the Dallas game due to a back injury."
     },
     {
-      "id": "d12b57fe9f1081fc",
-      "title": "NFL betting, odds: How 49ers QB Brock Purdy injury news has changed the odds",
-      "link": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-how-49ers-qb-brock-purdy-injury-news-has-changed-the-odds-212256509.html",
+      "id": "35c8602cff9903ec",
+      "title": "Will Chiefs' 'best football' be enough to dethrone Eagles?",
+      "link": "https://sportingnews.com/us/nfl/kansas-city-chiefs/news/chiefs-best-football-enough-dethrone-eagles/5d8d085e826b34eafa32a924",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-10T21:22:56+0000",
-      "summary": "How did the news that 49ers QB Brock Purdy is a &quot;long shot&quot; to play in Week 2 impact the odds?"
+      "published": "2025-09-10T22:13:24+0000",
+      "summary": "Can the Kansas City Chiefs produce their best football to get their Super Bowl revenge against the Eagles?"
+    },
+    {
+      "id": "40200ce6d4490bb3",
+      "title": "NFL quarterback props cheat sheet: Back Lamar and Kyler Murray, fade Flacco in Week 2",
+      "link": "https://cbssports.com/betting/news/nfl-quarterback-props-cheat-sheet-back-lamar-and-kyler-murray-fade-flacco-in-week-2/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T22:11:55+0000",
+      "summary": "The Inside the Lines team uses its proven NFL model to identify our best player projections against the best available odds to build our best bets for quarterbacks in Week 2"
+    },
+    {
+      "id": "02eca3663a326387",
+      "title": "Eagles Injury Report: Landon Dickerson limited, Dallas Goedert and Will Shipley sit out",
+      "link": "https://bleedinggreennation.com/news/158170/eagles-injury-report-landon-dickerson-limited-dallas-goedert-and-will-shipley-sit-out",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T22:09:37+0000",
+      "summary": "The Philadelphia Eagles issued their first official injury report in advance of their Week 2 road game against the Kansas City Chiefs on Sunday afternoon. The Eagles listed three players under DID NOT PARTICIPATE: Dallas Goedert, Will Shipley, and Tanner McKee. Goedert is reportedly dealing with a knee sprain that might cause him to miss [&#8230;]"
+    },
+    {
+      "id": "8b7e7d6892ac3962",
+      "title": "Ravens' Lamar Jackson apologizes to Bills fan he shoved, implores him to 'keep your hands to yourself'",
+      "link": "https://cbssports.com/nfl/news/ravens-lamar-jackson-apologizes-to-bills-fan-he-shoved-implores-him-to-keep-your-hands-to-yourself/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T22:08:51+0000",
+      "summary": "Jackson has not been disciplined by the NFL"
+    },
+    {
+      "id": "07c53093f0a92b9a",
+      "title": "7 veterans, 3 rookies are listed on the Kansas City Chiefs' first injury report for Week 2",
+      "link": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2025/09/10/10-players-listed-kansas-city-chiefs-initial-injury-report-week-2/86077264007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T22:03:56+0000",
+      "summary": "These 10 players were listed on the Chiefs' initial injury report for Week 2 ahead of Kansas City's Super Bowl rematch against the Philadelphia Eagles"
+    },
+    {
+      "id": "a3cff14d78f55b41",
+      "title": "Computer model reveals NFL against the spread, over/under, money-line picks for every Week 2 game",
+      "link": "https://cbssports.com/nfl/news/computer-model-reveals-nfl-against-the-spread-overunder-money-line-picks-for-every-week-2-game/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T22:00:46+0000",
+      "summary": "SportsLine's model evaluated the Week 2 NFL odds and revealed its NFL predictions, NFL score predictions and NFL betting picks for every game"
+    },
+    {
+      "id": "64959baf3544d96b",
+      "title": "Bill Belichick's controversy with Robert Kraft and Patriots may fuel UNC success",
+      "link": "https://sportingnews.com/us/ncaa-football/north-carolina/news/bill-belichicks-controversy-robert-kraft-and-patriots-may-fuel-unc-success/b9bbc8ad8ae61c54ca0fcbe0",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T21:57:58+0000",
+      "summary": "The NFL coaching great needs to get back to what he knows."
+    },
+    {
+      "id": "3e7dafd9c52fe73d",
+      "title": "NFL Week 2 injury report: 49ers' Brock Purdy 'long shot to play' due to left shoulder and toe injury",
+      "link": "https://cbssports.com/nfl/news/nfl-week-2-injury-report-49ers-brock-purdy-long-shot-to-play-due-to-left-shoulder-and-toe-injury/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T21:52:55+0000",
+      "summary": "Here's a roundup of all the notable injuries in the NFL for Week 2"
+    },
+    {
+      "id": "a2c5b38bf1dddbce",
+      "title": "Spadaro: Howie Roseman remains active",
+      "link": "https://philadelphiaeagles.com/news/spadaro-howie-roseman-remains-active",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-10T21:45:26+0000",
+      "summary": "Even in the days after the season-opening win over the Cowboys, Roseman continues to cultivate the entire 70-player roster."
     },
     {
       "id": "b8b255f5eff60b9a",
@@ -56,15 +137,6 @@
       "summary": "SportsLine's advanced computer model just locked in its top Week 2 NFL survivor picks"
     },
     {
-      "id": "b085b2fd2fac6454",
-      "title": "Liam Coen weighs on in Jaguars decision to trade Tank Bigsby",
-      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/09/10/liam-coen-jaguars-decision-trade-tank-bigsby-eagles/86082650007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-10T21:17:12+0000",
-      "summary": "Liam Coen weighed in on the Jaguars decision to trade RB Tank Bigsby to the Eagles."
-    },
-    {
       "id": "2e3819bc5b9c6b61",
       "title": "2025 Week 2 NFL score predictions, odds, top picks today: Expert reveals exact scores for every game",
       "link": "https://cbssports.com/nfl/news/2025-week-2-nfl-score-predictions-odds-top-picks-today-expert-reveals-exact-scores-for-every-game/",
@@ -72,6 +144,15 @@
       "feed": "CBS Sports",
       "published": "2025-09-10T21:01:12+0000",
       "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 2 of the NFL schedule"
+    },
+    {
+      "id": "e7f81b778713a97c",
+      "title": "Eagles Film Review: Za’Darius Smith is exactly the kind of pass rusher this team needed",
+      "link": "https://bleedinggreennation.com/eagles-film-review/158174/eagles-film-review-zadarius-smith-is-exactly-the-kind-of-pass-rusher-this-team-needed",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T20:50:11+0000",
+      "summary": "The Eagles signed Za’Darius Smith to bring something different to the pass rush after Week 1. Obviously, I had to go and have a quick look at his 2024 film. This is what I found. Za’Darius Smith Power rusher: Converts speed to power and can jolt tackles back immediately with his bull rush. Versatility: Effective [&#8230;]"
     },
     {
       "id": "e7cb50e947854690",
@@ -119,13 +200,13 @@
       "summary": "Find the best NFL betting promos for Green Bay vs. Washington at sportsbooks like FanDuel, DraftKings, and bet365"
     },
     {
-      "id": "cbc0b40ec974334a",
-      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
-      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T19:10:32+0000",
-      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
+      "id": "a9722528fbffe361",
+      "title": "Dallas Goedert injury: Eagles tight end might miss Chiefs game",
+      "link": "https://bleedinggreennation.com/news/158165/dallas-goedert-injury-eagles-tight-end-might-miss-chiefs-game",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T19:02:49+0000",
+      "summary": "Death, taxes, and Dallas Goedert dealing with injury issues. The three certainties in life. The Philadelphia Eagles tight end reportedly suffered a knee sprain during the team’s Week 1 win over the Dallas Cowboys, according to a report from SportsRadio 94WIP’s Eliot Shorr-Parks. Here’s what ESP had to say on the WIP Afternoon Show with [&#8230;]"
     },
     {
       "id": "109258ed027e52f6",
@@ -135,6 +216,15 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-10T18:49:45+0000",
       "summary": "See how to watch and listen to Eagles vs. Chiefs in Week 2 on Sunday, Sept. 14, at 4:25 PM."
+    },
+    {
+      "id": "78fd08f584dc1cc7",
+      "title": "Nick Sirianni reveals how Philip Rivers helped him prepare for the Cowboys",
+      "link": "https://bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/158155/eagles-nick-sirianni-reveals-philip-rivers-helped-cowboys-jalen-hurts-confidence-chiefs-prep-nfl",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T18:45:45+0000",
+      "summary": "The Eagles are preparing to face the Chiefs in their first road game of the season, and head coach Nick Sirianni spoke to reporters on Wednesday to talk about Jalen Hurts’ confidence, preparing for Kansas City, and also revealed he heard from Philips Rivers before Week 1. He was asked many different ways about Jalen [&#8230;]"
     },
     {
       "id": "2acef0598bbd3dff",
@@ -155,13 +245,31 @@
       "summary": "NFL prop picks and SGP bets for Washington vs. Green Bay on Thursday Night Football from the SportsLine Machine Learning Model AI"
     },
     {
-      "id": "6c6a90ef15efe4b3",
-      "title": "NFL DFS picks, Thursday Night Football: Packers vs. Commanders fantasy lineups, stacks for DraftKings, FanDuel",
-      "link": "https://cbssports.com/nfl/news/nfl-dfs-picks-thursday-night-football-packers-vs-commanders-fantasy-lineups-stacks-for-draftkings-fanduel/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-10T17:19:33+0000",
-      "summary": "Jimmie Kaylor shares his top NFL DFS picks, daily fantasy optimal lineups, and NFL DFS stacks for Commanders vs. Packers on Thursday Night Football"
+      "id": "f9a572879352d3b7",
+      "title": "Eagles-Chiefs isn’t a “rematch” or a “revenge” game",
+      "link": "https://bleedinggreennation.com/eagles-game-preview/158153/eagles-chiefs-isnt-a-rematch-or-a-revenge-game",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T18:18:53+0000",
+      "summary": "For the fifth time in three seasons, the Eagles and Chiefs are getting together to play a football game. You may remember the last one. It was just seven months ago the Birds ended Kansas City’s dream of a third straight title by a 40-6 score (the real ones know), a thorough trouncing in which [&#8230;]"
+    },
+    {
+      "id": "bba881972ceac7ea",
+      "title": "Eagles make practice squad swap",
+      "link": "https://bleedinggreennation.com/news/158148/eagles-make-practice-squad-swap",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T15:53:39+0000",
+      "summary": "The Philadelphia Eagles officially announced two practice squad moves on Wednesday morning ahead of the team beginning their on-field preparation for their Week 2 game against the Kansas City Chiefs. Here’s an overview: The Eagles waived Ricks from the 90-man roster on August 26. They signed him to the practice squad on August 27. They [&#8230;]"
+    },
+    {
+      "id": "bd449404a05df9e6",
+      "title": "Eagles News: It’s not too early to bench Adoree’ Jackson",
+      "link": "https://bleedinggreennation.com/news/158138/eagles-news-its-not-too-early-to-bench-adoree-jackson",
+      "source": "Bleeding Green Nation",
+      "feed": "Bleeding Green Nation",
+      "published": "2025-09-10T15:20:31+0000",
+      "summary": "Let’s get to the Philadelphia Eagles links &#8230; 5 thoughts on Eagles defense going into Week 2 &#8211; NBCSPBut it really wouldn’t be too early to make a switch, especially because it doesn’t seem like the Eagles were in love with the idea of starting Jackson in the first place. They would have obviously preferred [&#8230;]"
     },
     {
       "id": "ce30d7ac701ecda2",
@@ -245,42 +353,6 @@
       "summary": "The Eagles released RB Montrell Johnson from the practice squad and signed C/G Jake Majors."
     },
     {
-      "id": "36b52be3a6b67424",
-      "title": "Jalen Carter fined but NOT suspended further for spitting on Dak Prescott",
-      "link": "https://bleedinggreennation.com/news/157892/jalen-carter-fined-but-not-suspended-for-spitting-on-dak-prescott",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T20:02:30+0000",
-      "summary": "The Philadelphia Eagles had to play their Week 1 game against the Dallas Cowboys without Jalen Carter, but thankfully they’ll have him back to face the Kansas City Chiefs in Week 2. The NFL announced their punishment for Carter spitting on Dak Prescott by issuing a $57,222 fine (equivalent to one game check for him) [&#8230;]"
-    },
-    {
-      "id": "2eb3317574694fff",
-      "title": "How should Eagles fans remember the Andy Reid era?",
-      "link": "https://bleedinggreennation.com/philadelphia-eagles-history/158026/how-should-eagles-fans-remember-the-andy-reid-era",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T19:47:46+0000",
-      "summary": "I came of age as an Eagles fan at the perfect time to understand the ups and downs that life brings. In the early 2000s, the Birds became just as synonymous with regular season success as they were with postseason failures. The Eagles soared to previous unseen heights for their franchise in the Super Bowl [&#8230;]"
-    },
-    {
-      "id": "4135d924e4293644",
-      "title": "Will Shipley injury: Eagles running back has fractured rib",
-      "link": "https://bleedinggreennation.com/philadelphia-eagles-injuries/158057/eagles-will-shipley-injury-news-update-fractured-rib",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T19:33:20+0000",
-      "summary": "Several Philadelphia Eagles players got injured in their Week 1 game against the Dallas Cowboys, and now we’re learning that Will Shipley’s ribs injury might be worse than initially thought. New reports Tuesday suggest Shipley has a fractured rib and he could miss time as a result. This development helps explain the Eagles trading for [&#8230;]"
-    },
-    {
-      "id": "ba987b049d7661f2",
-      "title": "Nick Sirianni highlights A.J. Brown’s mental toughness after one-target game",
-      "link": "https://bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/158037/eagles-nick-sirianni-comments-aj-brown-mental-toughness-passing-game-chiefs-preparation-nfl",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T18:37:49+0000",
-      "summary": "The Eagles were back to work after a mini-bye coming off their Thursday night home opener, and head coach Nick Sirianni spoke to reporters about some of the performances in their Week 1 win. As they prepare for the Chiefs in Week 2, he isn’t putting too much thought into facing a team that might [&#8230;]"
-    },
-    {
       "id": "fe4381cacf781d20",
       "title": "Eagles Coach of the Week: Jack Muldoon, Monsignor Bonner & Archbishop Prendergast",
       "link": "https://philadelphiaeagles.com/news/eagles-coach-of-the-week-jack-muldoon-monsignor-bonner-archbishop-prendergast",
@@ -290,24 +362,6 @@
       "summary": "Muldoon led his alma mater to the school's first state championship last season."
     },
     {
-      "id": "6011014ae7521697",
-      "title": "Tracking former Eagles players: Week 1 recap",
-      "link": "https://bleedinggreennation.com/general/157906/tracking-former-eagles-players-week-1-recap",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T18:09:34+0000",
-      "summary": "The Eagles secured their Week 1 win on Thursday which meant there was plenty of time to sit back and watch former Eagles throughout the league the rest of the weekend. Here’s how some former Eagles fared in Week 1 Former Eagles take over MNF There were a lot of former Eagles on the sideline [&#8230;]"
-    },
-    {
-      "id": "d3aff075121b38ae",
-      "title": "Eagles host 7 free agents for try outs, including Quez Watkins",
-      "link": "https://bleedinggreennation.com/news/158017/eagles-host-7-free-agents-for-try-outs-including-quez-watkins",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T15:28:57+0000",
-      "summary": "The Philadelphia Eagles hosted seven free agents for try outs on Monday, according to the NFL’s official personnel notice. The names: This news doesn’t necessarily mean any signings are imminent. The Eagles could merely be doing due diligence. The pro personnel department keeps an updated list of the top available free agents at every position [&#8230;]"
-    },
-    {
       "id": "7e51674c3e5f80d2",
       "title": "Eagles agree to acquire RB/KR Tank Bigsby from the Jaguars",
       "link": "https://philadelphiaeagles.com/news/eagles-agree-to-acquire-tank-bigsby-from-the-jaguars",
@@ -315,24 +369,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-09T15:15:00+0000",
       "summary": "In addition to depth in the running back room, the Eagles boost the special teams unit with the former third-round pick."
-    },
-    {
-      "id": "ae4e364556c5766c",
-      "title": "Bryce Huff trade conditions revealed",
-      "link": "https://bleedinggreennation.com/news/158001/bryce-huff-trade-conditions-revealed",
-      "source": "Bleeding Green Nation",
-      "feed": "Bleeding Green Nation",
-      "published": "2025-09-09T14:54:18+0000",
-      "summary": "When the Philadelphia Eagles traded Bryce Huff to the San Francisco 49ers, it was reported that the Birds received a “2026 conditional fifth-round pick that can turn into a fourth-round pick [with] conditions tied to Huff’s performance.” After three months, we finally have details on the conditions. This comes from BGN alumnus Jimmy Kempski: Per [&#8230;]"
-    },
-    {
-      "id": "f8dee1af207226f4",
-      "title": "NFL trade grades: Did the Eagles give up too much for Tank Bigsby?",
-      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T14:03:47+0000",
-      "summary": "The Eagles added some running back depth behind Saquon Barkley, but did they give up too much for Bigsby? We sized up the deal from both sides."
     },
     {
       "id": "de0ccb4357c598b6",
@@ -504,42 +540,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-04T04:00:00+0000",
       "summary": "See how to watch and listen to the Eagles’ season opener against the Dallas Cowboys on Thursday, September 4, at 8:20 PM."
-    },
-    {
-      "id": "ca44ef9f351de01b",
-      "title": "Cowboys vs. Eagles Injury Report",
-      "link": "https://philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-week-1-2025",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T19:48:00+0000",
-      "summary": "Tanner McKee is out for Thursday night. Everyone else is good to go for the Eagles."
-    },
-    {
-      "id": "3c2e6772191f9e70",
-      "title": "Eagles sign CB Eli Ricks to practice squad, release OL Hollin Pierce",
-      "link": "https://philadelphiaeagles.com/news/eagles-sign-cb-eli-ricks-to-practice-squad-release-ol-hollin-pierce",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T17:52:40+0000",
-      "summary": "The Eagles are bringing back Ricks, who spent two seasons on Philadelphia’s 53-man roster."
-    },
-    {
-      "id": "d2895a79ce096d12",
-      "title": "A look inside the premiere of America's Game: 2024 Philadelphia Eagles",
-      "link": "https://philadelphiaeagles.com/news/a-look-inside-the-premiere-of-americas-game-2024-philadelphia-eagles",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T15:30:00+0000",
-      "summary": "NFL Films Senior Producer Greg Smith provides a behind-the-scenes preview of the documentary on the Super Bowl LIX Champions."
-    },
-    {
-      "id": "963ea792c89bf38e",
-      "title": "Get to know Lincoln the bald eagle, the performative bird at Eagles games",
-      "link": "https://philadelphiaeagles.com/news/get-to-know-lincoln-the-bald-eagle",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-03T14:00:14+0000",
-      "summary": "The 26-year-old bald eagle starts his second season with the Eagles on Thursday night."
     }
   ],
   "links": [
