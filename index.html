@@ -1,179 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Philadelphia Eagles — News</title>
-
-  <!-- Icons / manifest (relative paths so subfolder Pages works) -->
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png" />
-  <link rel="manifest" href="manifest.webmanifest" />
-  <meta name="theme-color" content="#004c54" />
-
-  <!-- Cache-busted CSS to ensure the light theme loads -->
-  <link rel="stylesheet" href="static/style.css?v=light-2025-09-08" />
+  <link rel="stylesheet" href="static/style.css">
+  <meta name="theme-color" content="#004C54">
 </head>
 <body>
-  <header class="hero">
-    <div class="logo-box">
-      <!-- Try team-specific file; fall back to generic if missing -->
-      <img
-        id="teamLogo"
-        src="static/eagles.png"
-        alt="Philadelphia Eagles logo"
-        width="64"
-        height="64"
-        onerror="this.onerror=null; this.src='static/logo.png';"
-      />
-    </div>
-
-    <div class="hero-titles">
+  <header>
+    <div class="brand">
+      <img src="static/logo.png" alt="Eagles Logo" class="logo">
       <h1>Philadelphia Eagles — News</h1>
-      <div class="sub">Live team feed · auto-updates</div>
     </div>
-
-    <!-- Inline audio toggle (no navigation) -->
-    <button id="fightBtn" class="fight-btn" type="button" aria-label="Play Fly Eagles Fly">
-      <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><path d="M8 5v14l11-7L8 5z"/></svg>
+    <button id="fight-song-btn" aria-label="Play Fly Eagles Fly">
+      <span class="icon">▶</span>
       <span class="label">Fly Eagles Fly</span>
     </button>
-
-    <!-- Hidden audio element; standard name + legacy name for safety -->
-    <audio id="fightAudio" preload="auto">
-      <source src="static/fight-song.mp3" type="audio/mpeg" />
-      <source src="static/fly-eagles-fly.mp3" type="audio/mpeg" />
-    </audio>
   </header>
 
-  <!-- Quick links (buttons row populated from items.json) -->
-  <div id="links" class="pill-row"></div>
+  <nav class="quick-links" aria-label="Team links">
+    <a href="https://www.philadelphiaeagles.com/schedule/" target="_blank" rel="noopener">Schedule</a>
+    <a href="https://www.philadelphiaeagles.com/team/players-roster/" target="_blank" rel="noopener">Roster</a>
+    <a href="https://www.philadelphiaeagles.com/team/depth-chart/" target="_blank" rel="noopener">Depth Chart</a>
+    <a href="https://www.philadelphiaeagles.com/team/injury-report/" target="_blank" rel="noopener">Injury Report</a>
+    <a href="https://www.philadelphiaeagles.com/fanzone/" target="_blank" rel="noopener">Fan Zone</a>
+    <a href="https://store.philadelphiaeagles.com/" target="_blank" rel="noopener">Team Shop</a>
+    <a href="https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805956" target="_blank" rel="noopener">Tickets</a>
+    <a href="https://www.reddit.com/r/eagles/" target="_blank" rel="noopener">Reddit</a>
+    <a href="https://bleacherreport.com/philadelphia-eagles" target="_blank" rel="noopener">Bleacher Report</a>
+    <a href="https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles" target="_blank" rel="noopener">ESPN Team</a>
+    <a href="https://sports.yahoo.com/nfl/teams/phi/" target="_blank" rel="noopener">Yahoo Team</a>
+    <a href="https://www.pff.com/nfl/teams/philadelphia-eagles" target="_blank" rel="noopener">PFF Team Page</a>
+    <a href="https://www.pro-football-reference.com/teams/phi/" target="_blank" rel="noopener">Pro-Football-Reference</a>
+    <a href="https://www.nfl.com/standings/" target="_blank" rel="noopener">NFL Power Rankings</a>
+    <a href="https://www.espn.com/nfl/stats/team" target="_blank" rel="noopener">Stats</a>
+    <a href="https://www.espn.com/nfl/standings" target="_blank" rel="noopener">Standings</a>
+  </nav>
 
-  <section class="controls">
-    <div class="control">
-      <label>Source:</label>
-      <select id="sourceSelect"></select>
-    </div>
-    <div class="control right">
-      <label>Updated:</label>
-      <span id="updated">—</span>
-    </div>
-  </section>
+  <div id="controls">
+    <label for="source">Source:</label>
+    <select id="source">
+      <option value="all">All sources</option>
+    </select>
+    <span id="updated">Updated: —</span>
+  </div>
 
-  <main id="feed"></main>
+  <main id="articles" aria-live="polite">
+    <article class="article">
+      <h2><a href="#" rel="noopener">Sample Article Title</a></h2>
+      <p class="meta">espn.com • Sep 7, 2025 at 10:01 PM</p>
+    </article>
+  </main>
 
+  <audio id="fight-song" src="static/fly-eagles-fly.mp3" preload="auto"></audio>
   <script>
-    // ---------- Fight song inline play/pause ----------
-    const fightBtn = document.getElementById('fightBtn');
-    const audio = document.getElementById('fightAudio');
-    let isPlaying = false;
-
-    function setBtn(state) {
-      isPlaying = state;
-      fightBtn.classList.toggle('playing', state);
-      fightBtn.querySelector('.label').textContent = state ? 'Pause' : 'Fly Eagles Fly';
-    }
-
-    fightBtn.addEventListener('click', async () => {
+    const fightBtn = document.getElementById("fight-song-btn");
+    const fightSong = document.getElementById("fight-song");
+    fightBtn.addEventListener("click", () => {
       try {
-        if (!isPlaying) {
-          await audio.play();
-          setBtn(true);
-        } else {
-          audio.pause();
-          setBtn(false);
-        }
-      } catch (e) {
-        alert('Could not play audio. Ensure static/fight-song.mp3 exists.');
-      }
+        fightSong.currentTime = 0;
+        fightSong.play();
+      } catch(e) {}
     });
-
-    audio.addEventListener('ended', () => setBtn(false));
-    audio.addEventListener('pause', () => setBtn(false));
-    audio.addEventListener('play', () => setBtn(true));
-
-    // ---------- Feed rendering ----------
-    const feedEl = document.getElementById('feed');
-    const updatedEl = document.getElementById('updated');
-    const sourceSelect = document.getElementById('sourceSelect');
-    const linksEl = document.getElementById('links');
-
-    const fmtLocal = iso => {
-      try {
-        const d = new Date(iso);
-        return d.toLocaleString([], {year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
-      } catch { return iso || ''; }
-    };
-
-    function renderLinks(links){
-      linksEl.innerHTML = '';
-      (links||[]).forEach(l=>{
-        const a = document.createElement('a');
-        a.className = 'pill';
-        a.href = l.url; a.target = '_blank'; a.rel = 'noopener';
-        a.textContent = l.label;
-        linksEl.appendChild(a);
-      });
-    }
-
-    function buildSourceDropdown(items, curated){
-      sourceSelect.innerHTML = '';
-      const base = Array.isArray(curated) && curated.length ? curated
-                 : Array.from(new Set((items||[]).map(i => i.source || i.feed).filter(Boolean))).sort();
-      const optAll = document.createElement('option');
-      optAll.value = ''; optAll.textContent = 'All sources';
-      sourceSelect.appendChild(optAll);
-      base.forEach(s=>{
-        const o=document.createElement('option');
-        o.value=s; o.textContent=s;
-        sourceSelect.appendChild(o);
-      });
-    }
-
-    function renderItems(items){
-      feedEl.innerHTML = '';
-      (items||[]).forEach(it=>{
-        const card = document.createElement('article');
-        card.className = 'card';
-
-        const a = document.createElement('a');
-        a.href = it.link; a.target='_blank'; a.rel='noopener';
-        a.className='title';
-        a.textContent = it.title || '(no title)';
-
-        const meta = document.createElement('div');
-        meta.className='meta';
-        meta.textContent = `${it.source || it.feed || ''} • ${fmtLocal(it.published || it.updated)}`;
-
-        card.appendChild(a);
-        card.appendChild(meta);
-        feedEl.appendChild(card);
-      });
-    }
-
-    function applyFilter(all){
-      const src = sourceSelect.value;
-      const list = src ? all.filter(i => (i.source || i.feed) === src) : all;
-      renderItems(list);
-    }
-
-    async function loadAndRender(initial=false){
-      try{
-        const r = await fetch('items.json?ts='+Date.now(), {cache:'no-store'});
-        const data = await r.json();
-        renderLinks(data.links || []);
-        buildSourceDropdown(data.items || [], data.sources || []);
-        updatedEl.textContent = (data.updated ? fmtLocal(data.updated) : '—');
-        renderItems(data.items || []);
-        if (initial) sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
-      }catch{
-        updatedEl.textContent = 'load failed';
-      }
-    }
-
-    loadAndRender(true);
-    setInterval(() => loadAndRender(false), 5 * 60 * 1000);
   </script>
 </body>
 </html>
