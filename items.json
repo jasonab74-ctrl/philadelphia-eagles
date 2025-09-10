@@ -1,15 +1,6 @@
 {
-  "updated": "2025-09-10T03:48:22+00:00",
+  "updated": "2025-09-10T04:35:47+00:00",
   "items": [
-    {
-      "id": "d4df8669f544144a",
-      "title": "NFL Week 1 winners: Aaron Rodgers turns back the clock, Packers make a statement",
-      "link": "https://clutchpoints.com/nfl/nfl-stories/nfl-week-1-winners-aaron-rodgers-turns-back-clock-packers-statement",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-10T02:35:41+0000",
-      "summary": "Aaron Rodgers, Josh Allen and the Packers crushing the Lions are among the biggest winners of Week 1 in 2025."
-    },
     {
       "id": "d8b4b16711cb40d8",
       "title": "NFL says Carter's ejection serves as suspension",
@@ -540,6 +531,15 @@
       "feed": "NBC Sports Philadelphia",
       "published": "2025-09-02T01:58:52+0000",
       "summary": "<p>Lincoln Financial Field sign</p>"
+    },
+    {
+      "id": "eaefd27184294c50",
+      "title": "Saquon Barkley ranked No. 1 in the NFL's Top 100 Players of 2025",
+      "link": "https://philadelphiaeagles.com/news/saquon-barkley-ranked-no-1-in-the-nfl-top-100-players-of-2025",
+      "source": "PhiladelphiaEagles.com",
+      "feed": "Philadelphia Eagles",
+      "published": "2025-09-02T00:52:02+0000",
+      "summary": "Barkley is the first Eagle to ascend to the top of the list."
     }
   ],
   "links": [
