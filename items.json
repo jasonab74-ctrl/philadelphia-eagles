@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-10T11:24:48+00:00",
+  "updated": "2025-09-10T11:39:04+00:00",
   "items": [
+    {
+      "id": "b829ac0c70140282",
+      "title": "Everything we're hearing for NFL Week 2: Panic for the Dolphins? Big decision for the Giants?",
+      "link": "https://espn.com/nfl/story/_/id/46208962/nfl-week-2-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-10T12:26:59+0000",
+      "summary": "Our insiders dove in on the aftermath of the Dolphins' disastrous opener, both New York QB situations and some RB fantasy nuggets ahead of Week 2."
+    },
     {
       "id": "3ea2d0aa85bba43b",
       "title": "'I felt alive again': Taking a look at No. 1 pick Cam Ward's NFL debut",
@@ -20,13 +29,22 @@
       "summary": "Who will win MVP? Who will be the NFL's top rookies? Who is primed for a breakout? We asked execs and scouts for their picks."
     },
     {
-      "id": "b829ac0c70140282",
-      "title": "Everything we're hearing for NFL Week 2: Panic for the Dolphins? Big decision for the Giants?",
-      "link": "https://espn.com/nfl/story/_/id/46208962/nfl-week-2-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T12:07:45+0000",
-      "summary": "Our insiders dove in on the aftermath of the Dolphins' disastrous opener, both New York QB situations and some RB fantasy nuggets ahead of Week 2."
+      "id": "fada8374379652bd",
+      "title": "NFL Power Rankings: Are the Washington Commanders a Top-5 team?",
+      "link": "https://hogshaven.com/373717/nfl-power-rankings-are-the-washington-commanders-a-top-5-team",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T11:30:00+0000",
+      "summary": "Washington Commanders are 1-0"
+    },
+    {
+      "id": "55fa51658dd0f94b",
+      "title": "As Aaron Rodgers closes in on Brett Favre's career TD mark, has he fully surpassed his Green Bay predecessor?",
+      "link": "https://cbssports.com/nfl/news/as-aaron-rodgers-closes-in-on-brett-favres-career-td-mark-has-he-fully-surpassed-his-green-bay-predecessor/",
+      "source": "CBS Sports",
+      "feed": "CBS Sports",
+      "published": "2025-09-10T11:14:59+0000",
+      "summary": "Making the call between two icons as Rodgers closes in on Favre's spot on the NFL's all-time TDs list"
     },
     {
       "id": "12b2c039f59d332d",
@@ -522,24 +540,6 @@
       "feed": "Philadelphia Eagles",
       "published": "2025-09-02T18:00:00+0000",
       "summary": "TickPick will now serve as the presenting partner of all Eagles fan tours at Lincoln Financial Field."
-    },
-    {
-      "id": "05203d11ccfae674",
-      "title": "Travel advisory for Eagles home opener on Thursday",
-      "link": "https://philadelphiaeagles.com/news/travel-advisory-for-eagles-home-opener-on-thursday",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T16:00:00+0000",
-      "summary": "In light of the uncertainties with respect to SEPTA’s service, the Philadelphia Eagles are issuing fan guidance for Thursday’s home opener at Lincoln Financial Field."
-    },
-    {
-      "id": "b5e4901fbf1880e3",
-      "title": "DUDE Wipes becomes official presenting partner of the Tush Push",
-      "link": "https://philadelphiaeagles.com/news/dude-wipes-becomes-official-presenting-partner-of-the-tush-push",
-      "source": "PhiladelphiaEagles.com",
-      "feed": "Philadelphia Eagles",
-      "published": "2025-09-02T14:00:01+0000",
-      "summary": "From the bathroom to the end zone, the viral wet wipes brand has joined the Philadelphia Eagles to become the presenting partner of their signature offensive play."
     }
   ],
   "links": [
