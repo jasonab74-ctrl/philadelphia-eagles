@@ -1,140 +1,104 @@
-# collect.py — build items.json for the Eagles site (max 50 recent)
-# Requirements: feedparser (installed by the workflow)
+# collect.py — collect the latest Eagles articles and write items.json
+# Keeps 50 most-recent items, normalizes timestamps, and summarizes sources.
 
-from __future__ import annotations
+import json, pathlib, time, datetime, hashlib
+import feedparser
 
-import json
-import re
-import time
-from datetime import datetime, timezone
-from typing import Dict, List, Tuple
+from feeds import SOURCES
 
-import feedparser  # type: ignore
-
-from feeds import FEEDS
-
-OUT_PATH = "items.json"
+OUT_PATH = pathlib.Path("items.json")
+TEAM_NAME = "Philadelphia Eagles"
 MAX_ITEMS = 50
 
-# Basic filters to avoid non-football "Eagles" (e.g., Phillies, hockey, etc.)
-NEGATIVE_PATTERNS = [
-    r"\bPhillies?\b",
-    r"\bbaseball\b",
-    r"\bAHL\b",
-    r"\bcollege\b",
-    r"\bBoston College\b",
-    r"\bSoaring\b",  # occasional travel/lifestyle noise
-]
-NEG_RE = re.compile("|".join(NEGATIVE_PATTERNS), re.IGNORECASE)
+# Friendly UA helps a ton with some hosts
+REQUEST_HEADERS = {
+    "User-Agent": "news-bot/1.0 (+github pages collector; compatible; +https://github.com)"
+}
 
-TEAM_RE = re.compile(r"\b(Philadelphia\s+Eagles|Eagles)\b", re.IGNORECASE)
+def parse_dt(entry):
+    ts = entry.get("published_parsed") or entry.get("updated_parsed")
+    if isinstance(ts, time.struct_time):
+        # feedparser gives UTC struct_time
+        return datetime.datetime(*ts[:6], tzinfo=datetime.timezone.utc)
+    # fallbacks: try text fields
+    for key in ("published", "updated", "date"):
+        val = entry.get(key)
+        if val:
+            try:
+                # feedparser sometimes exposes parsed date under "updated_parsed" etc,
+                # if not available, leave None and we’ll fill later
+                return None
+            except Exception:
+                pass
+    return None
 
+def iso_utc(dt: datetime.datetime) -> str:
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=datetime.timezone.utc)
+    return dt.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def _to_epoch(entry) -> Tuple[int, str]:
-    """
-    Return (epoch_seconds, iso8601) for an entry.
-    Tries published, updated, or falls back to now.
-    """
-    # feedparser normalizes to published_parsed / updated_parsed when possible
-    ts = None
-    if getattr(entry, "published_parsed", None):
-        ts = entry.published_parsed
-    elif getattr(entry, "updated_parsed", None):
-        ts = entry.updated_parsed
+def clean_title(t: str) -> str:
+    return (t or "").replace("\xa0", " ").strip()
 
-    if ts:
-        epoch = int(time.mktime(ts))
-        dt = datetime.fromtimestamp(epoch, tz=timezone.utc)
-    else:
-        # fallback = now, but keeps ordering deterministic for missing dates
-        dt = datetime.now(tz=timezone.utc)
-        epoch = int(dt.timestamp())
+def collect():
+    items = []
+    for source_name, url in SOURCES:
+        try:
+            feed = feedparser.parse(url, request_headers=REQUEST_HEADERS)
+            for e in feed.entries:
+                title = clean_title(e.get("title", ""))
+                link  = e.get("link", "").strip()
+                if not title or not link:
+                    continue
+                dt = parse_dt(e)
+                # fallback: treat missing dates as epoch 0 and we’ll push them down
+                if dt is None:
+                    dt = datetime.datetime(1970, 1, 1, tzinfo=datetime.timezone.utc)
 
-    return epoch, dt.isoformat().replace("+00:00", "Z")
-
-
-def is_team_relevant(title: str, summary: str) -> bool:
-    # Keep if it clearly references the team and NOT a negative topic
-    text = f"{title} {summary or ''}"
-    if NEG_RE.search(text):
-        return False
-    return bool(TEAM_RE.search(text))
-
-
-def normalize_source(feed_title: str, default_name: str) -> str:
-    # Prefer a clean, short label
-    if not feed_title:
-        return default_name
-    # A few friendly trims
-    feed_title = feed_title.replace(" - NFL", "").strip()
-    return feed_title
-
-
-def collect() -> Dict[str, object]:
-    seen_links = set()
-    items: List[Dict[str, object]] = []
-    source_names = set()
-
-    for feed_cfg in FEEDS:
-        url = feed_cfg["url"]
-        default_name = feed_cfg["name"]
-
-        parsed = feedparser.parse(url)
-        src = normalize_source(parsed.feed.get("title", ""), default_name)
-
-        # track source even if empty today
-        source_names.add(src)
-
-        for e in parsed.entries:
-            link = e.get("link") or ""
-            title = (e.get("title") or "").strip()
-            summary = (e.get("summary") or e.get("description") or "")
-
-            if not link or not title:
-                continue
-
-            if not is_team_relevant(title, summary):
-                continue
-
-            if link in seen_links:
-                continue
-            seen_links.add(link)
-
-            epoch, iso = _to_epoch(e)
-
-            items.append(
-                {
+                items.append({
                     "title": title,
-                    "url": link,
-                    "source": src,
-                    "published": iso,          # ISO 8601 with Z (fixes “Invalid Date” in UI)
-                    "timestamp": epoch,        # numeric for sorting
-                }
-            )
+                    "link": link,
+                    "source": source_name,
+                    "published_at": iso_utc(dt),
+                })
+        except Exception:
+            # don’t let a single bad source kill the run
+            continue
 
-    # Sort newest first and cap
-    items.sort(key=lambda x: x["timestamp"], reverse=True)
-    items = items[:MAX_ITEMS]
+    # De-dup by link (normalized)
+    seen = set()
+    deduped = []
+    for it in items:
+        key = hashlib.sha1(it["link"].encode("utf-8")).hexdigest()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(it)
 
-    updated_at = datetime.now(tz=timezone.utc).isoformat().replace("+00:00", "Z")
+    # Sort newest first and keep top N
+    deduped.sort(key=lambda x: x["published_at"], reverse=True)
+    deduped = deduped[:MAX_ITEMS]
 
-    # Build a stable sources list from the items we actually kept
-    used_sources = sorted({it["source"] for it in items}) or sorted(source_names)
+    # Surface actual sources present (sorted)
+    present_sources = sorted({it["source"] for it in deduped})
 
     payload = {
-        "team": "Philadelphia Eagles",
-        "updated_at": updated_at,
-        "count": len(items),
-        "sources": used_sources,
-        "items": items,
+        "team": TEAM_NAME,
+        "updated_at": iso_utc(datetime.datetime.now(datetime.timezone.utc)),
+        "sources": present_sources,
+        "items": deduped,
     }
-    return payload
 
+    OUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 if __name__ == "__main__":
-    data = collect()
-    with open(OUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print(
-        f"Wrote {OUT_PATH}: {data['count']} items from {len(data['sources'])} sources • updated_at={data['updated_at']}"
-    )
+    collect()
+    # quick summary in logs for the GH Action
+    try:
+        d = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+        print("---- items.json summary ----")
+        print("items:", len(d.get("items", [])))
+        print("sources:", len(d.get("sources", [])))
+        print("updated_at:", d.get("updated_at"))
+    except Exception as e:
+        print("Unable to print summary:", e)
