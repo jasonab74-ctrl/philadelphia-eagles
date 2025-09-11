@@ -1,363 +1,315 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-11T14:36:41.727352Z",
-  "count": 50,
+  "updated_at": "2025-09-11T14:58:27Z",
   "sources": [
-    "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
     "Bleeding Green Nation",
-    "News",
-    "www.espn.com - TOP"
+    "CBS Sports — Eagles",
+    "ESPN — Eagles",
+    "Reddit — r/eagles",
+    "SI — Eagles Today",
+    "Yahoo Sports — Eagles",
+    "philadelphiaeagles.com"
   ],
   "items": [
     {
-      "title": "Eagles sign DT Gabe Hall to the practice squad",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-sign-gabe-hall-to-the-practice-squad",
-      "source": "News",
-      "published": "2025-09-11T13:59:02Z",
-      "timestamp": 1757599142
+      "title": "The Eagles spend money unlike any other team. Are they the new NFL model, or an anomaly?",
+      "link": "https://www.reddit.com/r/eagles/comments/1neatfj/the_eagles_spend_money_unlike_any_other_team_are/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T14:48:09Z"
     },
     {
-      "title": "NFL trade grades: Did the Eagles give up too much for Tank Bigsby?",
-      "url": "https://www.espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
-      "source": "www.espn.com - TOP",
-      "published": "2025-09-11T12:31:10Z",
-      "timestamp": 1757593870
+      "title": "Josh Jobe looking legit for SEA",
+      "link": "https://www.reddit.com/r/eagles/comments/1neaout/josh_jobe_looking_legit_for_sea/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T14:43:00Z"
     },
     {
-      "title": "Week 2 Injury Report | Chiefs vs. Eagles - Kansas City Chiefs",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51aHU3YTNMNVB2ZGlZUFotZjJwNW1VSVFsVElnYVUwOUp2Y2luQjUyaHM0clBnZDd3dEpNX0lNTnVYa1FLRnVwd0lYM2FJZ2FzYjFQOUNYR3pMdnpSazAzc0JUM1RyRHNTSGxWS0F0N3J1Y1k?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-11T05:40:32Z",
-      "timestamp": 1757569232
+      "title": "Eagles sign DT Gabe Hall to the practice squad - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2xvUEgxY3JzS3Bjcmt3MzF4eV9nUDFzNzBfeTR2NnRkM3hWeU9wVXVYWGZBaDVLRHlzMFFqNmVNOElQNWYtMUhiSzJOQmZlN0ZXaUZxa2ZBVUxpSVlTV2Z2ZXNTVmNTNnRtRV9CT0FmakQwSFJyRnBoRUREM181SjF5OWUwY05yN0xN?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-11T14:01:00Z"
+    },
+    {
+      "title": "Getting to Jefferson Station after Nov 16th 8:20 PM game?",
+      "link": "https://www.reddit.com/r/eagles/comments/1ne8yp8/getting_to_jefferson_station_after_nov_16th_820/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T13:33:58Z"
+    },
+    {
+      "title": "[Toonen To Dillon Podcast] JIHAAD CAMPBELL JOINS US | Episode 64",
+      "link": "https://www.reddit.com/r/eagles/comments/1ne8r8g/toonen_to_dillon_podcast_jihaad_campbell_joins_us/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T13:25:11Z"
+    },
+    {
+      "title": "LB Channing Tindall Finds New Team and Other Former Dolphins Player Updates - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkRvUmFSRll4d2R0THcyYjdsLVlRbU5kQVlvZDFicGRXVjFtbTVBUjJXRm1icVByUlVVb2NtUlByVHdLdHNVbHc5OWJkOWl2OGF1bWtsVldMVDhEVlF4Q3ZvTWxoWU50R1lVTlVHUm91U0pOcXFQOVplQ1ZnTHlXYWdBOFJYVndWdU90VmpCQWJQcHFlQmIzWE9hOFR3OHQ0VTdhSS1nNFFJZHYySjVGRHl4SUFBaFI2cFE?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-11T13:20:38Z"
+    },
+    {
+      "title": "Week 2 NFL parlay includes Eagles vs. Chiefs and pays +559 at BetMGM - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWhMd2FKcFRteFNuR1RYLThIVnpVZXhZbzFLQW0yT1lYcUZWVlBmbHNRRXNxQ2QtQkZOVDhISWdSQlB3RUQtakcwbjJmTzItZ2VlNFVVaUlvb2poTHBXdy1pelptM1dyR2g5VklaOGFnVm1BSTNvUUdPRE5DOThQYll0TXAzWGdHV21vaXVLLVdlVzdlODktQlBUMmkteGhobWJBZg?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-11T13:00:42Z"
+    },
+    {
+      "title": "[DiCecco] Recently waived DT Gabe Hall will join the #Eagles’ practice squad, source said.",
+      "link": "https://www.reddit.com/r/eagles/comments/1ne862c/dicecco_recently_waived_dt_gabe_hall_will_join/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T12:59:45Z"
+    },
+    {
+      "title": "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 2 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2hTWTM4RG9zQXV6UWpuaXh0ZzljaE9CV0JObjZTN3FSaTFWNDVuenR1VHEzOG1WLXB0aGFYeVRkb1hJSWRQVHpKUHNQMmpuWHJOeDRqY0RkaE9oeW94MVhQNEZZVE1YejhjNFJfSlNlQno3LUFfZkpYdjhVVWt2Q2xNdWFnS3JfWjNxQkVtUmxLZEI4NUhKRVdVLUo5d2c?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-11T12:51:56Z"
+    },
+    {
+      "title": "Week 2 NFL against the spread picks, predictions for every game: Chiefs look for revenge vs. Eagles - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYi1VOWJicU1JZG5qUDdrWFhqZENRT0FIMkdka3VlVHRsc3NJdWNZdEwtNE5RM0N3YXF0amV5T2trbVplOTd3Nm5DNnNVVFE1SWlRS2VlUl9tYjNleHkzWm5LZVdNZ09FSjNZRmlIcG8zeXFmVVRwT2N4U1VOblUzOHdqYTZxUVhQYWo4OXZsY243b1RNd2hoQUdESkZMZXZnMEd5NWR0b0NnUzRTcTA3LW14NjVENmpJdUNLbjlKSHFLXzdDdGNpZEVxV21Sb0xmYWhIdXBpVWF5RFBxdFpQY0RQT3ByQ1BZS1lqVw?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-11T12:44:08Z"
+    },
+    {
+      "title": "Eagles like Tank Bigsby's \"natural vision and feel\" as a kickoff returner",
+      "link": "https://www.reddit.com/r/eagles/comments/1ne7916/eagles_like_tank_bigsbys_natural_vision_and_feel/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T12:17:15Z"
+    },
+    {
+      "title": "Commanders vs. Packers odds, predictions: Best bets, player prop wagers for Thursday Night Football - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcGVRTnZUcTQxUENYNWJaM3ZoVVR5aW0zM1hudkJ0VW5jamlSNGFJclVNR0JQdmpCR3JTQy0yT3B6MTZydTZVNXRkakd3c1ZpdTlkdGRtLWZmMUd4QlpsUmszVm1tbU9qOFZkLXRmU2U5eFBreEVlNlVhRU1qMEdzUVpEVXhpNjhhU3lDNVBJdU9rQmdHbUtzY1QtbW5QM0NwWmdfQ1ZZX3JWQXZxNExpYldaR01iM0lzak5qR21QTFFVRnY1cmhyMjNTWDV5SGFTb2ZPTEtNV1ZqOTI2R2dxd1BmeWJiQnk4bk9v?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-11T12:15:13Z"
+    },
+    {
+      "title": "Cowboys O-lineman fined by NFL for viral but unflagged Eagles head slap",
+      "link": "https://www.reddit.com/r/eagles/comments/1ne6mg4/cowboys_olineman_fined_by_nfl_for_viral_but/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T11:46:34Z"
+    },
+    {
+      "title": "The Playbook: Lineup locks, Shadow Reports for Week 2 - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLVFnQnhiMURUX0tHdW9FeFc3TW1HWXRGUVZEYk1NU2RjUXJvZW51MUs3SkNiSEFBSEluNmV2VGs0a3JjN2pDSkF0LVNkeHlTelpNR29RVVlkSUFCeU9vUUtObi0tQzV6elNwb0dXeXUwMEZuQ1FabTgtM2NrcDNzZ054dldQWjBtSmNxTGtuYjNiSkVUb3l5bTFqeklXVGV4SWJlT0ZEbTU0LUItSE9aZ2hjN3pkRk9nNlBiSko1Nkd5LWowVkpyZDl2MWFMY2hVSHI4S0hjMjVTT0JiTl90TVY0YXRvOHZreGRBSTdncy1kSHJTWmc?oc=5",
+      "source": "ESPN — Eagles",
+      "published_at": "2025-09-11T11:18:00Z"
+    },
+    {
+      "title": "Free Talk Thursday Thread",
+      "link": "https://www.reddit.com/r/eagles/comments/1ne4r7d/free_talk_thursday_thread/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T10:01:23Z"
+    },
+    {
+      "title": "NFL Week 2 Picks From the MMQB Staff: Eagles Visit Chiefs in Super Bowl Rematch - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42bnlkQlZTT2lhOXA3OHRjS1pUbG9uaFpsQ0szWXZMUGFjanlaVm9RNUxZY3NJTTlKSUJyVzg3TnVPTGVubjhubXp6V1lzNXpZZ3NsUTBRWGVTVzhTVjJuUzZLQ1NMU1Nt?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-11T10:00:01Z"
+    },
+    {
+      "title": "'His mission is to be the best quarterback': Why fame hasn't changed Jayden Daniels - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWhCbmpiXzlaRGozc3djUDZYSHpwZC1ENTJpX1ZIUmRaZnpHMTY2TVNWN2Z0SmVEeTVad2RoaVU3dUtFUVBCNkd5VlRzNWtzUm9vbDlNZDZ2TEVZMjBqeGtxalh0Y0IzUGRXcHhSWElGQW43OWJhZ3FtdUdyRjRFQmpTSWZnZVZKdUVWd3NJcC1KMnFIRVJuSlRuVjFrR2hDOHZFeHZTdDBtQVVVdGMwNQ?oc=5",
+      "source": "ESPN — Eagles",
+      "published_at": "2025-09-11T10:00:00Z"
+    },
+    {
+      "title": "Commanders vs. Packers, Week 2 2025: How to watch, game time, odds, & more - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXJSSUxUZ3kyYW5sSGhJY3NIejFxYzlhMi1nU00yQ0xxbUM4LUViazNHbk1ZNk5xT3RhQ0l5SnY3bDZSV3Y5aEZuaDIzVlRueG5PY0FaN0lJVG50aWVIZkpabUpJSktQcTMyd2JFLWpxaFB5WWhuX1FOY3hDd2UwcUNB?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-11T10:00:00Z"
+    },
+    {
+      "title": "Why Za'Darius Smith decided to join Eagles after Week 1 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWpEV2lQMzNaWWNaMVB4Y1k1eWlqMTVsTzloTzJXTmxRSm8xczc0WERqNW1tRTNRVXNBSE00SjdUak1RZndTYjhRdFBlRXZHN21GX0ZVcVdIa2JyVDEwRTBoYTA3eE9wM0U2UUxNVy1ZVXdhN3p2UmhxTGFGSkUxdEFSazZLQQ?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-11T07:00:00Z"
+    },
+    {
+      "title": "Trey Smith injury update: Latest status report, news for KC Chiefs OL in Week 2 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVdNTnBwUVprdmlsOUVuNHhMY0xJMjhvblZIRUhtYzNoSVA1TjNaU0VBbV9QMGpiRTBtRmFVNWtScmNPMUc4ZTQxazZqbEZ3aWNWRF8tUGVvQVRvMTUxMHIxNHdhanlheVctLVFGZEVmYTh4eHRXNTdhX295TlJxQVVTRi1UZw?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-11T04:51:00Z"
+    },
+    {
+      "title": "Za'Darius Smith & Tank Bigsby on Joining the Eagles",
+      "link": "https://www.reddit.com/r/eagles/comments/1ndzm7u/zadarius_smith_tank_bigsby_on_joining_the_eagles/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T04:32:35Z"
+    },
+    {
+      "title": "Week 2 Fantasy Film Room: Here is what’s wrong with the Lions offense + 4 rookie RB sleepers to know - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakVQVmJ1YV9PSFA2RE1jdDFxbnMxaTY0WEZ0TzFYYTZFaFZYZmFZWTBkQjhPZHBKY0xLNjY4RjB2c0NYcG5VOFR5UTctRnNWdUJsZXR3YzI0ZnZpeUNJWHZGc3hOWHpSSFhTVVJ2emtGMkRpN2F0WER2V0ltaGVyQkdBTzVkZWVnZXRvZ2J4N0tnR25sek1oWFlRRmJiVTRpZGFjOFRfMFJ4WmV1ZEJWQ3dlTF9XSTFxWXMzeExXaXlGVTdmeGlqRVNmX2dRR2lLeS1COWVoUW9PVnEwNW83OUdyUWFZQnJo?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-11T04:00:00Z"
+    },
+    {
+      "title": "Za'Darius on why the Eagles: “You know, man, I had a lot of teams calling, but I just felt comfortable coming to Philly...the locker room and the great people that are here. Dom (DiSandro), one of the head guys. Man, I love Dom. Just this whole team and this culture, man\"",
+      "link": "https://www.reddit.com/r/eagles/comments/1ndxx7x/zadarius_on_why_the_eagles_you_know_man_i_had_a/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T03:01:11Z"
+    },
+    {
+      "title": "Big week (hopefully) for AJ.",
+      "link": "https://www.reddit.com/r/eagles/comments/1ndw6z1/big_week_hopefully_for_aj/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T01:33:52Z"
+    },
+    {
+      "title": "Damn you NFL films. I thought I was done crying!",
+      "link": "https://www.reddit.com/r/eagles/comments/1nducu0/damn_you_nfl_films_i_thought_i_was_done_crying/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-11T00:04:01Z"
+    },
+    {
+      "title": "Cowboys CB DaRon Bland could miss couple of weeks with right foot injury he suffered in practice: Report - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVXlGRkxjUUVzdXhheFJIRTktTmhyb3hmRlhVR0hSTC1PMnFIUC1IQ3J6S1p1QnJha2d5b1NKaFdPWWdyM2lZY25CSXlldF9Bb3BMcjl3ZEtjSjBvZl91X2FiZzZLRHllaEY3UkhFblhuNnBiZ2ZtMnVVWWtOcnEwRTNwN0pzeDhOZklRV3hSNFFkQzFmWXpkbFZ2R2RNTTN1TjhFcW1Mak9TdW8zRkdEZjE3MXNIdnc3QldlQmw4Uk5XRkVXZUhBUEJhT3VPTWRpbmtIa1l3RHFaNzZDOVdPdVRrZk1CQzZ5M3AtTnVUeTJkNEZNUnNrTWN1WnRXZw?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-10T23:21:07Z"
     },
     {
       "title": "Tank Bigsby is excited for his opportunity with the Eagles - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0htNlgxeXdPUDFIZk93YUJLVW12RHMyTDZmYm1NOE43OU1lMlo0dmJyMzdMQ2pHTXNRVzcybC1hME9qNmU2N0NKQlQtdEI0Vlp0UkdGN1dQcnA4VGxCVnlOU0MyVHFoRmh1TjBwZU5RdXBmeElHYzl3aDl2LUxNSnVyVnhyQjhoOEtJZDNrRzNXd09IV3JyZ28ta1VSYXM?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T23:05:15Z",
-      "timestamp": 1757545515
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0htNlgxeXdPUDFIZk93YUJLVW12RHMyTDZmYm1NOE43OU1lMlo0dmJyMzdMQ2pHTXNRVzcybC1hME9qNmU2N0NKQlQtdEI0Vlp0UkdGN1dQcnA4VGxCVnlOU0MyVHFoRmh1TjBwZU5RdXBmeElHYzl3aDl2LUxNSnVyVnhyQjhoOEtJZDNrRzNXd09IV3JyZ28ta1VSYXM?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T23:05:15Z"
     },
     {
-      "title": "Tank Bigsby is excited for his opportunity with the Eagles",
-      "url": "https://www.philadelphiaeagles.com/news/tank-bigsby-is-excited-for-his-opportunity-with-the-eagles",
-      "source": "News",
-      "published": "2025-09-10T23:01:34Z",
-      "timestamp": 1757545294
+      "title": "WNBA president Nneka Ogwumike addresses apparent CBA stalemate with league as playoffs, deadline approach - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeU5WODFnVnBZVF9LTzR4UmQ1akFlZXRwbXJYSTFhaWhNYkRFWW0xZkg5RzlSUENXV00zUUJkZ3JPdjMyTkxnU3R6enBVb2RCTE1DNzM3VF9NRWl3aUFpeGptR0NlZjI2bmRDOUdkM2tHSVp3WFdFVnVadGxTWGN6eFU0S3RvcGZJWGszUUE1NmdlRWJZVDdydFRROEFmbDNqVi1kenJkYkRqRWlPUmN1ODBKcENqU3BrbzRmcmt3VFZNTU5uaGEydng1YVZ6bG1OelZQdUVjZGY2em00RjVwZDFCTnVIeFhVUlp2VmVZOUg5c0pUTkxyRXNmQjlFXzRP?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-10T23:04:50Z"
     },
     {
       "title": "Za'Darius Smith: 'I'm going to be ready to go' - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkItR1E5ZW1maWlKdUF2akJpWHVKdnlBdS1BVnVBLWJxUndzMWpQci1rS3l3c29QcmZIanVmVVBIelBndy1rSGptVG9YVVJRb2tKNHp3NlZvNkh5VjhxaHpmSGlNZ0YycGFoMTk2V1J0UUdlSmt4SU45ckVIMW91WFFjWHhnVjlmOWRJ?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T23:00:15Z",
-      "timestamp": 1757545215
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkItR1E5ZW1maWlKdUF2akJpWHVKdnlBdS1BVnVBLWJxUndzMWpQci1rS3l3c29QcmZIanVmVVBIelBndy1rSGptVG9YVVJRb2tKNHp3NlZvNkh5VjhxaHpmSGlNZ0YycGFoMTk2V1J0UUdlSmt4SU45ckVIMW91WFFjWHhnVjlmOWRJ?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T23:00:15Z"
     },
     {
-      "title": "Za'Darius Smith: 'I'm going to be ready to go'",
-      "url": "https://www.philadelphiaeagles.com/news/za-darius-smith-i-m-going-to-be-ready-to-go",
-      "source": "News",
-      "published": "2025-09-10T22:58:25Z",
-      "timestamp": 1757545105
+      "title": "Philadelphia Eagles DT Jalen Carter Called Out By Jason Kelce - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1dXWHlmN0lSbGl2bDMxNXZkN1g4YTl4M3pSM1k4VlNEeHl5cWFQRzEyeWJsdzVaQXJsN3pva2lyU0JReVRHRWNlcklNZElpLVoyaGVTbjBIWGozQi1zV2I0ZjBPSWN4NkkwRGNhaVhoV2J2U1FjNHBwQ0pvR2stVE9PQlhaMXVqNUNZSlJCVVpOcHl4OFFUdWs0NDNzUmhTR3hn?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-10T23:00:01Z"
+    },
+    {
+      "title": "Eagles Locker Room Interviews: September 10, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0w0LTZLdTdKLV9PaWF2UGlaMVBKaE43RlkydlN0TDFNMHd0Z0JQMEZVbF9meVY1NU5jaWN5YWNWR3Fzc185SlprLUFDNjFxUzdfQmxjLTVzRk12cG50MVA5T0x2RUp5RnpNNWotbjRSYVZHcnBlT2hpaEw1LU1nNkJvQVgycG43SnE5cmsyNUtoZw?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T22:54:55Z"
+    },
+    {
+      "title": "Cowboys' George Pickens has quiet Week 1, but 'not really worried,' could see number called a bunch vs. Giants - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0ZhU2JtWGFVQ1hEZ2FfWWJWMFhjLVhMUVV2VWd2TjQxUkZUT0NlQnZCTWZlSnk0eVh3a3dQeXhMZWFDdXIwNFlEX2ZXbjFNU3BqRGtIYl9yaGFyeWdJY3N2aXNNcTVMUXA0X2hHNERJRmN0Vk53QUc5Y01DY3BKWk5BNGVXM0xRaUFKaW94R21udThwVXNxUzBMNWgwbC1m?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-10T22:42:19Z"
+    },
+    {
+      "title": "Pittsburgh Pirates vs. Baltimore Orioles Box Score, Summary, and Team Stats - September 10, 2025 Gametracker - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5STEZOVUpZb3JZS0VwOTlrYkg0TW1mWWd6eGhxU0ctZmZ0S2VwVG9ldjdyVzVjTHNxQnMtVEtCX2g5RmpKNGNHYzhIRGdpSGV1MU5sdjFjQjRPM1ZBdWh2alZPc09oWnUzTUlVaDZ5d2o1ZnRDVHJYRk1TSHI?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-10T22:36:54Z"
+    },
+    {
+      "title": "Patrick Mahomes Shares Takeaways From Super Bowl Loss Ahead of Eagles Rematch - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUG03dTVPQTEwdEhadWZzUjlCajN5WlI1NmM2ZS0xOEI2d01mTWp1S2hjejVZTnV5VG01WDJhc1ZnU3dUT2RDM2VZb3hGVXZFRm9ld1JwNkhQaWR1ZDRfelFHRzZBRDBKaGRtSkU2Ymlub2gwZmpDSVQ2MnlTRFFES3dfUVc1VDBBYUZERDVZNDFoT1VuMXhPY0pHbndLdw?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-10T22:35:33Z"
+    },
+    {
+      "title": "Chiefs offer worrying Xavier Worthy injury update ahead of Eagles rematch - ca.sports.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMW12NGJ6T2hwdzE3Q3VheDY4RV9maHBLVjdBWEFpSXF5d0RQZlVtSTNqUW5PQnl4QnNEc0JiMEZzYXlRcDRpeFo4aVM5U1JWQjU0R0ROck1Vb3U5NllXSkF6eGZhRkdXNkpnajZaQ1pQcDk4STF3SXdOYUp0NmxmcVYzQWZubnJjekJJ?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-10T22:31:00Z"
+    },
+    {
+      "title": "Jadeveon Clowney visits Cowboys: No immediate signing expected for former No. 1 overall pick, per report - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUxqMkFpQmFiY2plRURlQUFrZHhWQ0NpaHVxWFo3dWhSN1RMNTJ1cUdrcEg4aDNsTVVESDRNaTc3MW5xZ0YzaTN3Q25TMDlNT1JFVFJDMnJobG5nc3Q4S3ZwOGFfLXV5QzVkYVlTaEI1TWk5dVlKNmJoYTU1N1F6d2x1MXVaRE91MEVhUGt2Qk9jOWppeF9xQVhQWG12NmJxamFIR2pTR1Azc2ViZ3dfZG95ZHkwLVV0clVQMlhxcjRDN1ZXel9MY2xRVTJuZG83ZWsw?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-10T22:30:00Z"
+    },
+    {
+      "title": "[Eagles] Wednesday Injury Report #PHIvsKC",
+      "link": "https://www.reddit.com/r/eagles/comments/1nds6ak/eagles_wednesday_injury_report_phivskc/",
+      "source": "Reddit — r/eagles",
+      "published_at": "2025-09-10T22:25:09Z"
     },
     {
       "title": "Eagles vs. Chiefs Injury Report - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2JzcFpFejJlVFI3OVdQRmFkVC1iT1FZMmlHTC1wdy1HSmI4NnAxUU1vSGpHQld3UEM1emxPSExRbE12UjUwa2RPenhQODhXa3ZuZG9hTVZHa3BYWnJvMzlGQUJFbUk3ZFNPODc1Smg5eXdhX3FEcjNhanZnNjBYellqcEZ0OHAyY1E?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T22:19:54Z",
-      "timestamp": 1757542794
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2JzcFpFejJlVFI3OVdQRmFkVC1iT1FZMmlHTC1wdy1HSmI4NnAxUU1vSGpHQld3UEM1emxPSExRbE12UjUwa2RPenhQODhXa3ZuZG9hTVZHa3BYWnJvMzlGQUJFbUk3ZFNPODc1Smg5eXdhX3FEcjNhanZnNjBYellqcEZ0OHAyY1E?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T22:19:54Z"
     },
     {
-      "title": "Eagles vs. Chiefs Injury Report",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-vs-chiefs-injury-report-week-2-2025",
-      "source": "News",
-      "published": "2025-09-10T22:17:33Z",
-      "timestamp": 1757542653
+      "title": "Will Chiefs' 'best football' be enough to dethrone Eagles? - ca.sports.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWRfaFVGT0diV2I2MHJISEN0TVZrUkV0NnU0YVFPZWxxOUZZTFVjUF85WU5FdEdtazhLYmIyVUF6cWdyVnNpc1o1VGN3ek9NZ0pyaVAxN1lqYks0MTh1cDQ4TW12dFpjUjdoWGZtbjROZll5NTIzRTNWemcwWmJzRTVySjVEaWU2dW9yLQ?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-10T22:15:15Z"
     },
     {
-      "title": "Eagles Injury Report: Landon Dickerson limited, Dallas Goedert and Will Shipley sit out",
-      "url": "https://www.bleedinggreennation.com/news/158170/eagles-injury-report-landon-dickerson-limited-dallas-goedert-and-will-shipley-sit-out",
+      "title": "Drake London injury update: Falcons coach Raheem Morris expects star WR to play in Week 2 vs. Vikings - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRlNnamxGLWxfZmJCLV9FNnVmM3NRdzRYUEtuSXdqbjJrLWNPTUI1RGhPTTF1NDRFcUFtblZkMmxWcl8zU2hFMktieW52bEptb2lOWTJWbUhyc2RXZVE4N0lkWDU1ekwwSnFYeC0xR04tX3JraDN6d3NMWF9SejVMUHRHYXhfd0ZZMGsyNG10OHdJejYzOHFPb0JCMWNCZS1OdVpEbUlZMEM1UUxYUEZ3Ni01RkFwdzdINGxOeFNabTctV3YwNmlNQ2hiR2JaZXJL?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-10T21:56:51Z"
+    },
+    {
+      "title": "Spadaro: Howie Roseman remains active - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcE5ROHdsQ1dIbWs4V3p4ZzV2VW5FM2NRTG1DYmdQRXhPMl9fZUh1b2hjS0JRNGcwWlJROUowWVBaSU1TRHJ4NGhaYmkwTkdJUEF6S0ZfWU9mMExMMHBsZUlnR0JVSlBwbHY5MV8ydmFjc3ViMTF2MDRkTE5jTVNHQW9R?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T21:50:08Z"
+    },
+    {
+      "title": "Eagles, Bills Linked To Browns $12 Million 1st-Round CB - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJBbHlEZG94TVcyMFNMSl9ia1d2ZmxzRGpzRUxCZEpJSzJtVFU3OVVCcExNR240Y2M0UnlJRy10WFNqWDd1UWU1ejk5cHJ6T2hFend4cTVUUjVaaXk5WTFpU0Fwd2dPbkFiSWdEVzRBOE5MYUdFRk9DQWNXNlF6NXEwSlg0R3Z2QmNNd2hodXpBMjRacTk5Ng?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-10T21:00:02Z"
+    },
+    {
+      "title": "NFL TV Coverage Map Week 2: Full Breakdown of CBS, Fox Broadcasts - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVJjN1ZaVF9oTDFVQXdCYnJrTDVLRFpJaG91MHR0X29RbU1QeEZvMktJakxBTFMyNDhLYTB1X0pKaWFUZVlHdkR3My12UFVjeGozTnVYYWszejhmell1RjFDd2Nka3h5V1VNdzJtQlA1aXZPWjlIT0ZuODNzSWtTbTNRMTcweHEyMlkw?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-10T20:54:11Z"
+    },
+    {
+      "title": "All-Access: How the Eagles Beat the Dallas Cowboys in HEATED Game - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0pFTlhETktfVzFVNkZkU2lRWW5IZjM2al93UUs3c1ptb3l0Y3o2NV9jblZaYnNJTlJEb2VaMGhPcmVQYXRVYjFHODBiUEF6QjVyUWpGZkhQMjBWMHNLRkd4bWdld1JfOEd0T0h5N1JBdDJxemlIaGZUdHk1RDJGZXFMZW5UbnNGS3FRemhRZ0psWjB3MHlKcjJGcEgzbmNwY3c5Z2pXTlI?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T20:50:27Z"
+    },
+    {
+      "title": "Cowboys' new addition has jaw-dropping statistic that should make fans excited - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG8yVjBZLWtob0F2d3JsZ1AzTFdxLTFHUWhZaE15dG9SaVJEZFZjbFZPZ29WVTMzYlpVeXkxQ3ptT1NZN3A4UFZMSWVwcDJBWnR5VzlxR2pkeHhSdzNXbE5OMEhMLUpFamFDRVVrVjZhVno3VzF1X2c2Y19jdG50T3VMRWFXRHRpT3ZwRXVpWDJpTFVYaWNuYldjYkU3X19MeWQ2MlNLcXdGZWhQRDFYQw?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-10T20:50:25Z"
+    },
+    {
+      "title": "Inside Nick Sirianni's role meeting with Eagles players - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUpZRmFhbVRiTklEMkdGYjBEelhmeWJVcC05U3V2Nk9VazhBWDdTU3E1dnd1ZENacVdIX1dMbHZ4aXVtVEk3aEFBWms3NWVXdHUtMkl2WGQydG1pMUphTDR5TjJSZ1FtaGlBcVA4NWxVaVZJbGkxZXRYOVp2NEphMEhUdUY3X1VidWkwT0Z6dmdZYjNjX1RENg?oc=5",
+      "source": "philadelphiaeagles.com",
+      "published_at": "2025-09-10T20:50:14Z"
+    },
+    {
+      "title": "Eagles Film Review: Za’Darius Smith is exactly the kind of pass rusher this team needed - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXkxdjBSaktxeXlVVVJQamhkNzJqZ3czbTI1WVdJMlllS1MyUGpmRTFVUEpUbGo2OWlucWVHSGxTOTRiT0RIT2VmUnppOWtldk5mcnkwQkR4dXFEUHVsOU9PV3VWWWRTN2FFMWptMkRVRHZzYlU4dDc4amUxX253eEgxTHRiWV8tNHk2OTAyak0xc1pleHlsZWs5bXNOMXV6QjluTlM3ZzkzQXdWZUxWaDRSN3pRRG9QN0tBdDRfMkJLQU1lT1FOelExSFpqUTZYM3IySkVvVWlBNXF3blc2Zg?oc=5",
       "source": "Bleeding Green Nation",
-      "published": "2025-09-10T22:09:37Z",
-      "timestamp": 1757542177
+      "published_at": "2025-09-10T20:50:11Z"
     },
     {
-      "title": "Eagles Film Review: Za’Darius Smith is exactly the kind of pass rusher this team needed",
-      "url": "https://www.bleedinggreennation.com/eagles-film-review/158174/eagles-film-review-zadarius-smith-is-exactly-the-kind-of-pass-rusher-this-team-needed",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T20:50:11Z",
-      "timestamp": 1757537411
+      "title": "Multiple Kansas City Chiefs leaders have echoed the same concerning sentiment regarding Week 1 and Super Bowl losses - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemVyWXhIZFNzdTdqUkJ6Wk5Zb1VlU2RPcE9BR1phVlA4UFZIVl96cmdOVXU1THFpai1JM1hCR0hDelhMMVFWdldRLU1MTmVqUW4wZWRoaHJVdWU1TTlDRFNKdWNQU0ZjczgzUzVMN3I3OG1qTkJHVHRlYkozajBwdlpVUGdtX29Qdmdj?oc=5",
+      "source": "Yahoo Sports — Eagles",
+      "published_at": "2025-09-10T20:50:00Z"
     },
     {
-      "title": "Inside Nick Sirianni's role meeting with Eagles players",
-      "url": "https://www.philadelphiaeagles.com/news/inside-nick-sirianni-role-meeting-with-eagles-players",
-      "source": "News",
-      "published": "2025-09-10T20:30:00Z",
-      "timestamp": 1757536200
+      "title": "Bengals Safety Geno Stone Clears Up His Multiple Trips Into, Out of Blue Medical Tent Sunday in Cleveland - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbDJpeUtLWEtraGtfbzFZR01YdTJPSDUxZExVNzA3T0JMY1lzWGhlV3Z0eGpJbXo0WTNfaHVDQk9hNUVnU2poU1pReEN5QmhVWndnZVpCdGdQUzVnLWJ2eEppNDRVSnBkVjBHVHhmREJnMFVVZDJrYmxvUE1BTnpUOVBNeXhDcDlIWlFjY2lvUnFfWGJTcWE4MWhoMC1ELV9KREIxMjdIMzc0bi1UMGNaQUdIcG44azhNdFpiWmFJNXRnX1FiUWJpa0t6UTZCZGlCS0d4anV5UDJnUVJZR2U4VUFR?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-10T20:44:33Z"
     },
     {
-      "title": "Eagles at Chiefs: Betting Trend for Week 2 - Kansas City Chiefs",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hdm5naUpaWXZYTUV5M0Vhc1RXYy1PVnhuNUJ4OW1RYmltZkprREs3Wk1ZNi1sS1htaG9BcnhPbHQzYVh3dHFCbTctUE9FMUJGTGk0OXV2MXRjR0xDb09PZXptOXdoaW9wU0g0LXN1U1RRWFJLVDlOVg?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T20:16:56Z",
-      "timestamp": 1757535416
-    },
-    {
-      "title": "Dallas Goedert injury: Eagles tight end might miss Chiefs game",
-      "url": "https://www.bleedinggreennation.com/news/158165/dallas-goedert-injury-eagles-tight-end-might-miss-chiefs-game",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T19:02:49Z",
-      "timestamp": 1757530969
-    },
-    {
-      "title": "How to watch, stream and listen | Eagles vs. Chiefs - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVdlcmNEMUZ1dlNBOGZUVy01NTNYOTczM21tZ21wNVFBT1FwYXRvNGpkRjU3SnluaF81aTJmVS1WY1lPVUtCSmU0N1RINkhCQjFiRUg3MUJmdHg2ZnZDaWlxbWpqUGRhREN6cl93QkNxaFZWbExWZ3Rob1hpVjZrN2xPZmlxaFByRy1BYzNHM2RTUzIxSV8yQjdpZjdkT09iUEZKS3ZRX1JOYUJ3?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T18:57:37Z",
-      "timestamp": 1757530657
-    },
-    {
-      "title": "How to watch, stream and listen | Eagles vs. Chiefs",
-      "url": "https://www.philadelphiaeagles.com/news/how-to-watch-philadelphia-eagles-vs-kansas-city-chiefs-week-2-091425",
-      "source": "News",
-      "published": "2025-09-10T18:49:45Z",
-      "timestamp": 1757530185
-    },
-    {
-      "title": "Nick Sirianni reveals how Philip Rivers helped him prepare for the Cowboys",
-      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/158155/eagles-nick-sirianni-reveals-philip-rivers-helped-cowboys-jalen-hurts-confidence-chiefs-prep-nfl",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T18:45:45Z",
-      "timestamp": 1757529945
-    },
-    {
-      "title": "Eagles-Chiefs isn’t a “rematch” or a “revenge” game",
-      "url": "https://www.bleedinggreennation.com/eagles-game-preview/158153/eagles-chiefs-isnt-a-rematch-or-a-revenge-game",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T18:18:53Z",
-      "timestamp": 1757528333
-    },
-    {
-      "title": "Eagles make practice squad swap",
-      "url": "https://www.bleedinggreennation.com/news/158148/eagles-make-practice-squad-swap",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T15:53:39Z",
-      "timestamp": 1757519619
-    },
-    {
-      "title": "Eagles News: It’s not too early to bench Adoree’ Jackson",
-      "url": "https://www.bleedinggreennation.com/news/158138/eagles-news-its-not-too-early-to-bench-adoree-jackson",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T15:20:31Z",
-      "timestamp": 1757517631
-    },
-    {
-      "title": "Eagles sign DT Jacob Sykes to practice squad, release CB Eli Ricks - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXZQTXZWQTlqT1VDQWtkWEY1Tm54aW1EYmpZanJKUmctRkgwTXgzNXMyV2tRSDkwZ2wtUVlvdGlXc3oxSHpnSFBBQ0YzNUFId3BCcE9WYlI0QVNRYm03eWxGM1R5SjBIanU2QlVCbndtVnRTRkRka3otazlxdkVQVC1ub0dGNUl0NkkteG1TUF9PMmN6dEl6TzdMLXp3YWtS?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T14:48:45Z",
-      "timestamp": 1757515725
-    },
-    {
-      "title": "Eagles sign DT Jacob Sykes to practice squad, release CB Eli Ricks",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-sign-jacob-sykes-to-practice-squad-release-eli-ricks",
-      "source": "News",
-      "published": "2025-09-10T14:45:28Z",
-      "timestamp": 1757515528
-    },
-    {
-      "title": "Eagles vs. Chiefs: How to watch, Prediction, TV Channel, Streaming - FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ28xVjRTaE9tbW9FTmNkZnNBMmNUQmxVdmhycS1wVnRZOE02RV8ybFBnSTBrRmhRNmJzX3I5QjlmUGVVbEp0ODVpWWR4Z05JN3NwMm95VmVBZ2ZvaGtHeEpVQUo1TWF3eDQ3cGlqWFJDU29Md2RtaEJWTVhfWHRhZGtueXNKdlRGeG1aN2VhUnpXWEFIczVjeVJBZTLSAZwBQVVfeXFMT25sMm5RMzBZLVBGU0pRcWMxRG5oX1ZUbUNhNEZrWVl3YXVDVnlyUXdhYm9wVUZ2Vkx4bVVjZU9PbG9LaHZrWUVtTE1iazlOSFlmbmVxeHloYzhMVVFQVFlnSnBrUWE0dERscXIwSkw3VjNyc1I1MjZpNW1Gbk9LaEVEbHlpYXBWc01ERUZ4YUlfWVQ3MjhmOW9VUUVx?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T14:06:14Z",
-      "timestamp": 1757513174
-    },
-    {
-      "title": "Tyson Foods named official nugget of the Philadelphia Eagles - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjdEJwV3VaMVp3ckVzbF9iQnZnamdwRjhNYjMza0V4Ql9sN1dVSXJqNzJHNVJONGpDbGpZT24xeW9zN015VXI4SjYxX0JGWm1PX2tMU3BrelV4STBqbkE0b2VRMTcyNzlKWHNERENXRVZyUThSMjF1bWI1c0JOdw?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T13:57:29Z",
-      "timestamp": 1757512649
-    },
-    {
-      "title": "Tyson Foods named official nugget of the Philadelphia Eagles",
-      "url": "https://www.philadelphiaeagles.com/news/tyson-eagles-nuggets-announcement",
-      "source": "News",
-      "published": "2025-09-10T13:55:07Z",
-      "timestamp": 1757512507
-    },
-    {
-      "title": "Vic Fangio on Adoree’ Jackson starting: “Right now, yes”",
-      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/158023/eagles-vic-fangio-comments-reacts-week-1-cowboys-jalen-carter-ejection-adoree-jackson-nfl-news",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-10T13:36:01Z",
-      "timestamp": 1757511361
-    },
-    {
-      "title": "Braden Mann shines in season debut | Eagles vs. Chiefs Daily Updates - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGJrSUptWWk0MEV1VEJrWGFGVlNwczFfR2dKa1ZVQ0FpbVNNU0ptTDlUaFVfUnJZLVFkS2lfeDFNYjc0OXl1cmpzTVN0VWpYcFNCai1ZRzB0Zml1SGZYV1V2WEFKOFg2TjBtX056SU0wZ3h5UHYybkdZVjFCSTk1TzFYOHA?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-10T09:33:45Z",
-      "timestamp": 1757496825
-    },
-    {
-      "title": "Braden Mann shines in season debut | Eagles vs. Chiefs Daily Updates",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-chiefs-daily-updates-nfl-week-2",
-      "source": "News",
-      "published": "2025-09-10T09:00:00Z",
-      "timestamp": 1757494800
-    },
-    {
-      "title": "Vacant roster spot suggests more Eagles wizardry from Howie Roseman - Eagles Wire",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX0NhV1V5S2dmcFNOYW9rQUhBMlhLLVFvcUtNNXNfeUdrN1lFbERseWw5OW1DSkNfczFLWHRldTlPbHhkWTVSeFNOM29sSVM0c2J2OWg3RVFYbEVUM1FLRzUxSjRvQWxoRXUyX19ZTDZ4ZUdlMWtTWnpyaDhULTc2am1LSXljTzlNa3dhT01EaDhVWnRaZTFVaXdnNTVkaEw2UnN5OGtha3NOd2pzMVd3RlZGcjNDN3Y3V3V0SGxqMGNXVGNmMmdiWERnQ29oWHR2d2tILUVOT21SWURqYy1oN2dn?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T22:47:50Z",
-      "timestamp": 1757458070
-    },
-    {
-      "title": "Eagles Film Review: Jordan Davis among defensive standouts from Week 1",
-      "url": "https://www.bleedinggreennation.com/eagles-film-review/157888/eagles-film-review-jordan-davis-among-defensive-standouts-from-week-1",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-09T21:50:00Z",
-      "timestamp": 1757454600
-    },
-    {
-      "title": "Eagles roster news: Gabe Hall waived among 3 moves",
-      "url": "https://www.bleedinggreennation.com/news/158088/eagles-roster-news-gabe-hall-waived-among-3-moves",
-      "source": "Bleeding Green Nation",
-      "published": "2025-09-09T21:28:28Z",
-      "timestamp": 1757453308
-    },
-    {
-      "title": "Eagles agree to acquire RB/KR Tank Bigsby from the Jaguars - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDlOR1cwX256WXNBejBhckYyQ05CSkpuSG1CZVBib29oajBpZHhIU3FacVJ5NXpNSTZxMktCTm9xaWhVb1Exa244dEdQZktsc0c1OWhFeWhrUldSbUpKM29ReXhCanRnUjJmQWEtcHJYbUd3N1ppNFJ0b2JiRXlmeVVJUFdsOHU3dFJiWFBLRkdkQWc0UU5n?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T21:11:15Z",
-      "timestamp": 1757452275
-    },
-    {
-      "title": "Eagles waive DL Gabe Hall, make practice squad moves - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGZWVXowNk5SZXlMX1FQYi1sYVc1WUl5SlZRQzZtY29YTzFxc0N0MTdBR1Q5azY2OVMtQldMUkZGdW5zVXRld0dmQ0oxTEszMXE2U3JXX0Q2elVITjZuMkNXRjdqMjJSMUVDRDI5WDRWeVhvWWtpTjYyRWFJYVJhUHJxZFhnVE5oRWdBU09xZFYwZw?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T21:02:00Z",
-      "timestamp": 1757451720
-    },
-    {
-      "title": "Eagles waive DL Gabe Hall, make practice squad moves",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-waive-gabe-hall-make-practice-squad-moves",
-      "source": "News",
-      "published": "2025-09-09T21:00:55Z",
-      "timestamp": 1757451655
-    },
-    {
-      "title": "Eagles Coach of the Week: Jack Muldoon, Monsignor Bonner & Archbishop Prendergast",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-coach-of-the-week-jack-muldoon-monsignor-bonner-archbishop-prendergast",
-      "source": "News",
-      "published": "2025-09-09T18:30:00Z",
-      "timestamp": 1757442600
-    },
-    {
-      "title": "Why the Eagles traded for Tank Bigsby and what Philadelphia is planning for its new RB behind Saquon Barkley - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc05WOHU1d2dZSXpReTBWQ2VGQnozVTMwTG1nODdMUFNpd3JpSER6dW11MTQxb2ZiQmhzZUhPak1PWFpNQ3dRRFF1c2c1T09QT1FlRzgxckhrN3M5dFY2TFo0TUt5ZUxvMkFfd1FLME14YkhkRlVzLUdab2p2aW43b2lJSUdYeG5JbHlhRGxKOWhrNFV6ZmVxTXZqdW0xX1UwZjk5Qk83ZFNLZFNLbnFtSXZpNmprOG5lc1BxdTFWRldCelJBRnpsaE5FRUM5Rk9VWGdidFY3WGl6T2Vl?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T16:30:00Z",
-      "timestamp": 1757435400
-    },
-    {
-      "title": "Eagles agree to acquire RB/KR Tank Bigsby from the Jaguars",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-agree-to-acquire-tank-bigsby-from-the-jaguars",
-      "source": "News",
-      "published": "2025-09-09T15:15:00Z",
-      "timestamp": 1757430900
-    },
-    {
-      "title": "VISIT PA is Partnering with the World Champion Philadelphia Eagles to Inspire Fans to Explore Pennsylvania, The Great American Getaway - PA Department of Community & Economic Development (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMjROcmRjSnBoVlljODNqUldpNGc2WFR2VmV0UThyazFHUHZ6TlB3Tmt5czhfbWpzUUg0RVJzRmlqWHRUaFJGTF92akRUakNxbFJ5Yk9Ja1p6dGhIMkw0WW1lMXBzWTN5bE1vYUZDbnJSSmJJZmswS01lSlA5LWlRc0RaOVZzNG1Gcm4wcjdUYllDVkx2SkhKZmRIRnBOTWJ2RWppanpZVngwaWFMc3lFbGt3YWFBT2lpa2V6ZkhTS1F5Qk9HcHQxdm41MlFnZjI3aldLbXphbGd5NlVPRjJyVGV1TTg4aVRmdU02Yk1pV2pqV1ZDcHc?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T14:33:05Z",
-      "timestamp": 1757428385
-    },
-    {
-      "title": "5 thoughts on Eagles defense going into Week 2 - NBC Sports Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb3ZTbjE3aUNjUXp6cEtHb2RxZDVIQ0RVNmhOX2Z3cVRyQjNiU2VFZzd1QWN6OU9iRVFuVF8yZXFqV01YOXpmeUV0N2pUTkg5cXZXMkFsbXFzX2NHQ0xSVDNLbkdfTHdxNXdyZHdRMEo5bnZsWE1OWnZFS3dNNE5zQzVVWTZheWtHazRsN3U4dTd6akgxMXFHR3ZVYzRsaWpKMHBEYUp5VkhMcUlJeU5vX0VLVTZhS0FhUGx5S2xvT29IUDRrZ18wU21OZXpYUkJtOTNNcFB4Rmp6LTBTd1pZ0gHnAUFVX3lxTFBtYVROTUV3aGxqZ012dU1TaFVEX3B1T09DYTg1Z2w5S0xPWVE0akJzTnhLWHVtaUZQUDFwbHNLeTJXYmFsU3AxT3ZzVjF4UEhhNjFFT0tRTTgzOTdvV2txT2tFbHZOSmEtLWtoTExWRV9lZlhEOENpX3VyNGFVWHhGcTBma2JlSWVnYlM1dGdRNGQxZlFabkdSUEp5Vkx4NlhuS3lSbDU3OW9SNTM2TTJ4T0M2UHdJSng4b1RJcTdQSXZOS09NXzFZN2hERFNpMnpFRC1YSkNpaUtfem0zcVMxcnUyNTJESQ?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T11:00:00Z",
-      "timestamp": 1757415600
-    },
-    {
-      "title": "Philadelphia Eagles fan falls victim to scam trying to buy tickets to home opener - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPclREbVdReTJyTXpsZ2VvLWk5R01GcDVCRVM1czNnRkpwakx6MWlrdUN0QUJPeDN1MnZ6S2stNE9YN2puMGtsOGZ6dnc1MW5hdldmUjJUeU5sVURZM1NxWVdHQTNBcE5pdDRMNkJKWnhkeHB4TnVId0JiTHo5THNEVTRaZmJ6Ung3OGVzd012TGlQU01NanQ1aGwzYno1OF83N2x6U2RKY9IBrAFBVV95cUxQQ01welJKTnVJMEt3NC0zMVRTRVB3cWhUbHhzR3VEQ3lodmQ1OWswQkp3N1prcWNtY1ZDY1RDc01Tak91WVJEUU9DTzV6LTEtVHoxTnJxenRDYVJ1SzVSSDk0WjhqejRwZm5kVHBMLUk4SDQ1VS1HOTJZYnM4dDk0dHMtcG1xQXV2OE5IZDBxNG5DajhEUFlpSEpRM0F0bG1qSW04YWZtNWZRUjJK?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T03:37:13Z",
-      "timestamp": 1757389033
-    },
-    {
-      "title": "Our NFL trade grades: Did the Eagles give up too much for Tank Bigsby? - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGNJZFg2cEpOSmdWZ3E5MklON1NrVThSNGxyaVQ1Y1FyRXNDOWNnYTItNXpIMjRhcWdtUFlKbS1UOHdjeDF3bDFSVDJsY3hGYldDWkJYVmtsMUE5N0kwcHVSQzFZUHFwVEpRRktTa0hiZFZHdWVzQnBDQ0FRNW9FMXVhR09NaW1KYmlUNEZuTFk1Snc1UmdFLTlxVFRDcTVE?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T01:35:00Z",
-      "timestamp": 1757381700
-    },
-    {
-      "title": "Jaguars trade RB Tank Bigsby to Eagles in exchange for 2026 fifth-, sixth-round picks - NFL.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkZCQmptXzZIT1hfSTJuMVVzaVppNFpJM201WWxxUmx3SXVsS18wb2w1SjdtU3RnT0FQVWNVX1gtd09QckdsR0pTUndBOXR4LS1MbUhpb18tMGhCSE5JeVBqbVVUVXhqZmY5dGNHRTd5NDAxLVlqSGJINFRyVzZLa29fTG1BTjU2WDdvOTBtX1pOZGVHZWRZM1BrTTd4c3Y5RkRublJ6RklGQmw4?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-09T00:05:00Z",
-      "timestamp": 1757376300
-    },
-    {
-      "title": "Jaguars trade RB Bigsby to Eagles for draft picks - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFJ3czBvMGRFZmFUaC13WDNHVXpMLWNwWXVYR0NERTY4UkU2REZSblZZOG9XRlFLOUxNN3A5V3VoQ1JTUlNUZGJGcm9DMGlQVFhsZ3E2VkJ5bTFIWk83R054TnlkaVRCZGRzajdnYzc5VlVCT2RSN0oyNHdMbDdJdFJCNDB6UUJDRTdhanhiUWtoRXlj?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T23:59:00Z",
-      "timestamp": 1757375940
-    },
-    {
-      "title": "NFL Top-10 Rankings: Eagles Start Where They Left Off, With Packers, Bills Lurking - FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM242QmctbFhEa0tqbnU1MV96MUlmQUZ2dzVXWFVwUEJQZGpBMXdZZlhjNUpmYU1IcGROSkNXSWd1WUhUeDBFbE56RG8zLUNSaU1ZaFFZQ05zLXVoZmlpNXE2a3BqS0syd3J2Q29ZN3VmQUk0eDhpOFBaSUZFc3Fha3BVZEk1SUpCc3FPRmhlTkkxNEpuNVZlOWU5MDTSAZwBQVVfeXFMT0RmS3hJYjNXNmtnLWF3UWdkSVR2VUZHOXlhUFRyN0VsZ2xKaWJEUktvMmt5ODZ5SlE0RGY5NGFkbVFuX05sNjZXSHdBbVh1V1VEMHJuYldCamZtSkdiUVhORnpYZWZKTnlTaUJCdWJlQjRpVHFoYXNHa19weHBSWVlfZTVBdmZNaUlFTmgxTExTRjA4bUtQZTMtam5S?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T23:45:00Z",
-      "timestamp": 1757375100
-    },
-    {
-      "title": "Will Jalen Carter be punished for spitting by Eagles? 4 takeaways from Nick Sirianni presser - The News Journal",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUjRXRkhKeFRPTnRYZUtoWkZ0STdaODlKWEZxZks3WG82YWYza2Vpb1RTcXc5WHpONEhCQncwcE5IdUtFbHgxRVk2amlqZVNLOFYzNnRDVkZQOTlHUmwzWWhlTnA0am5ObHFoNktyYmpTZmNQYWNBZE80QWxwV1YtTmViV0c3M1M1WXdaZThVcDBnUVl1bXNxakhMeUFYMU1kWFpfTEJKM1lINklXSDQ1cTY4UjlCalVJdlVLTl9QanFtSklPX0xzWmJfbThmMXl0aUI3Z2NOdzNBRXdncTV5RzVabTBwbFJIQU1Pcmc1bWY1RUh1R1R1VFFKclNZQQ?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T21:01:29Z",
-      "timestamp": 1757365289
-    },
-    {
-      "title": "Eagles sign OLB Patrick Johnson to active roster, make multiple practice squad moves - Philadelphia Eagles",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEppZ21VUnJwZFU5ZC1GQ2R5WGV0d1Y2YnhkdXpkSV9tSlFqNEJUUmdVTllWUXdjZUoyS0pWdWVsRVZ3M29sR0FqRF8wdm85VnFYWkxWRzloNEJHYUhSSEZXUFFUOG8xTktid1NiZjRxa2lwc3dzVkpuWUpUOWpNb3hnNFpGOElPeU1sQUtGaE5wbDlpMWw4MHJDVFBUNXRaeVVCM3pfX0ZNbWtqbWhRMXBjcnBOZEFabXRn?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T18:43:59Z",
-      "timestamp": 1757357039
-    },
-    {
-      "title": "Eagles sign OLB Patrick Johnson to active roster, make multiple practice squad moves",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-sign-patrick-johnson-to-active-roster-make-multiple-practice-squad-moves",
-      "source": "News",
-      "published": "2025-09-08T18:36:56Z",
-      "timestamp": 1757356616
-    },
-    {
-      "title": "Stephen Jones on Cowboys' loss to Eagles, CeeDee Lamb, more - Dallas Cowboys",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDJjdnNhZWxlMHNGMHIxWnlPb3dLTWREcjdlMmF5ZTFmTHpLbGdxeHRGa0k1a2ZOVWpnY01ybmhHSDlqdTF4SzNFbTAtRTVrbEpNeXEtV2FFRlFNT0FuanRPRTVNTU9oQmZZcXQxSUtwYmtCUTFhWVMybFFoUWlCaHhrXzVVUk9QWDVGQzloSkJiVGlSMEE?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T18:09:59Z",
-      "timestamp": 1757354999
-    },
-    {
-      "title": "Philadelphia Eagles vs Kansas City Chiefs picks, predictions: Who wins NFL Week 2 game? - azcentral.com and The Arizona Republic",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTDUzVTRrT0VlNmpHeWo3YTZNMlkzZ0hEU2hPVHhQNlQ3T1kzcTB1azFpVGE1RUt5VDFzQXI1c0JCOWRPbHQyRTZqa0xnT1BoaFBWQWdlcVhVRlRaZGstSWJucDlDX3hCbFNtcUx4eW95NzdxbnlHVlhKM2taY0Fad05Ra1pYcllTNmxSa19xN0R2NHkwMm1Ya2FvclJ5dHh1SWktVFUtM0R3eXhKV0dhMkVUNEtrT3Q4TlFwS3gxZ1UyTUZ0ODVKMTNrUWFEWFVkZnI0ZzRB?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T17:01:54Z",
-      "timestamp": 1757350914
-    },
-    {
-      "title": "COWBOYS-EAGLES ON NBC & PEACOCK IS 2nd MOST-WATCHED NFL KICKOFF GAME - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUVPS1A0QVVsbzR0bTE0aDZUNmMyTDJaWlR2TzdwbmtNbXVzNS0zcTVDa2hWRWlGOHFnczlleDNPZ1BXR0xlZ1dTcGZBbmpvcWhnTE5zdmlFMVo4NmRxa2FaMDJoTjl4TzlKZGJWZzVwOGpVNGJhWE9sbURDRzJ5SDFaLWlvZ1hFa3NuUnZ2NVp1SWNMUUsyT19tSnBaLWUtenk5aXNka3VUcS1mME1CWGczeWFwYzg?oc=5",
-      "source": "\"\"Philadelphia Eagles\" OR Eagles when:7d\" - Google News",
-      "published": "2025-09-08T16:45:37Z",
-      "timestamp": 1757349937
+      "title": "Week 2 QB Power Rankings: Who is No. 1 after start of 2025 season? - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnJLN216c3hxRmNzVnpMNTdkTVRsb0Q2YkJmWXRacnlKbU9URFhScGVpb3JfMEhza3NFcEVWWkpvZzMzeDdkNm92MnFFbzhBZV9qZ09HUU5TM3U4dmxOVW83a2h0NzhzSzRuRnA5c1pwWTZpeVZSRjBRWkdjYjBsQlNfRmIyTncxNjg5TmNRc0RZYTVaQXVwNFJlMVU0Z3NEYkIyVUFyT2pGdG5fNk1BUkN2OElfSzJ1TWhCbzZhendOejgzN0xudkVSRDlURHpoM3c?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-10T20:41:24Z"
     }
   ]
 }
