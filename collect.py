@@ -1,160 +1,140 @@
-#!/usr/bin/env python3
-# Philadelphia Eagles — collector (HARDENED: curated sources + strict filters)
+# collect.py — build items.json for the Eagles site (max 50 recent)
+# Requirements: feedparser (installed by the workflow)
 
-import json, time, re, hashlib
-from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
+from __future__ import annotations
+
+import json
+import re
+import time
 from datetime import datetime, timezone
-import feedparser
-from feeds import FEEDS, STATIC_LINKS
+from typing import Dict, List, Tuple
 
-MAX_ITEMS = 60
+import feedparser  # type: ignore
 
-# ---- Curated dropdown (10 solid sources only) ----
-CURATED_SOURCES = [
-    "PhiladelphiaEagles.com",
-    "The Inquirer",
-    "NBC Sports Philadelphia",
-    "Bleeding Green Nation",
-    "PhillyVoice",
-    "ESPN",
-    "Yahoo Sports",
-    "Sports Illustrated",
-    "CBS Sports",
-    "The Athletic",
+from feeds import FEEDS
+
+OUT_PATH = "items.json"
+MAX_ITEMS = 50
+
+# Basic filters to avoid non-football "Eagles" (e.g., Phillies, hockey, etc.)
+NEGATIVE_PATTERNS = [
+    r"\bPhillies?\b",
+    r"\bbaseball\b",
+    r"\bAHL\b",
+    r"\bcollege\b",
+    r"\bBoston College\b",
+    r"\bSoaring\b",  # occasional travel/lifestyle noise
 ]
-ALLOWED_SOURCES = set(CURATED_SOURCES)
+NEG_RE = re.compile("|".join(NEGATIVE_PATTERNS), re.IGNORECASE)
 
-# ---------------- utils ----------------
-def now_iso():
-    return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
+TEAM_RE = re.compile(r"\b(Philadelphia\s+Eagles|Eagles)\b", re.IGNORECASE)
 
-def _host(u: str) -> str:
-    try:
-        n = urlparse(u).netloc.lower()
-        for p in ("www.","m.","amp."):
-            if n.startswith(p): n = n[len(p):]
-        return n
-    except Exception:
-        return ""
 
-def canonical(u: str) -> str:
-    try:
-        p = urlparse(u)
-        keep = {"id","story","v","p"}
-        q = parse_qs(p.query)
-        q = {k:v for k,v in q.items() if k in keep}
-        p = p._replace(query=urlencode(q, doseq=True), fragment="", netloc=_host(u))
-        return urlunparse(p)
-    except Exception:
-        return u
+def _to_epoch(entry) -> Tuple[int, str]:
+    """
+    Return (epoch_seconds, iso8601) for an entry.
+    Tries published, updated, or falls back to now.
+    """
+    # feedparser normalizes to published_parsed / updated_parsed when possible
+    ts = None
+    if getattr(entry, "published_parsed", None):
+        ts = entry.published_parsed
+    elif getattr(entry, "updated_parsed", None):
+        ts = entry.updated_parsed
 
-def hid(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
+    if ts:
+        epoch = int(time.mktime(ts))
+        dt = datetime.fromtimestamp(epoch, tz=timezone.utc)
+    else:
+        # fallback = now, but keeps ordering deterministic for missing dates
+        dt = datetime.now(tz=timezone.utc)
+        epoch = int(dt.timestamp())
 
-ALIASES = {
-    # team / local
-    "philadelphiaeagles.com": "PhiladelphiaEagles.com",
-    "inquirer.com":           "The Inquirer",
-    "nbcsportsphiladelphia.com": "NBC Sports Philadelphia",
-    "bleedinggreennation.com":"Bleeding Green Nation",
-    "phillyvoice.com":        "PhillyVoice",
-    # nationals
-    "espn.com":               "ESPN",
-    "sports.yahoo.com":       "Yahoo Sports",
-    "si.com":                 "Sports Illustrated",
-    "cbssports.com":          "CBS Sports",
-    "theathletic.com":        "The Athletic",
-    # common Google AMP hosts normalize via canonical()
-}
+    return epoch, dt.isoformat().replace("+00:00", "Z")
 
-# --------- content filters ----------
-# Must look like Eagles football
-KEEP = [
-    r"\bEagles?\b",
-    r"\bPhiladelphia Eagles?\b",
-    r"\bNFL\b",
-    # star names / staff (helps when headline omits team name)
-    r"\bJalen Hurts\b", r"\bA\.?J\.? Brown\b", r"\bDeVonta Smith\b",
-    r"\bDallas Goedert\b", r"\bJordan Mailata\b", r"\bDeVonta\b",
-    r"\bHowie Roseman\b", r"\bSirianni\b",
-]
 
-# Drop obvious non-football or other Philly teams
-DROP = [
-    r"\bMLB\b", r"\bNBA\b", r"\bNHL\b", r"\bMLS\b", r"\bNCAA\b",
-    r"\bPhillies\b", r"\b76ers\b", r"\bSixers\b", r"\bFlyers\b", r"\bUnion\b",
-    r"\bMets\b", r"\bYankees\b", r"\bBraves\b", r"\bBaseball\b", r"\bseries preview\b",
-    r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b",
-    r"\bcollege\b (?!football)",  # college non-NFL
-]
+def is_team_relevant(title: str, summary: str) -> bool:
+    # Keep if it clearly references the team and NOT a negative topic
+    text = f"{title} {summary or ''}"
+    if NEG_RE.search(text):
+        return False
+    return bool(TEAM_RE.search(text))
 
-def text_ok(title: str, summary: str) -> bool:
-    t = f"{title} {summary}"
-    if not any(re.search(p, t, re.I) for p in KEEP): return False
-    if any(re.search(p, t, re.I) for p in DROP): return False
-    return True
 
-def parse_time(entry):
-    for key in ("published_parsed","updated_parsed"):
-        if entry.get(key):
-            try:
-                return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[key])
-            except Exception:
-                pass
-    return now_iso()  # fallback so dates always render
+def normalize_source(feed_title: str, default_name: str) -> str:
+    # Prefer a clean, short label
+    if not feed_title:
+        return default_name
+    # A few friendly trims
+    feed_title = feed_title.replace(" - NFL", "").strip()
+    return feed_title
 
-def source_label(link: str, feed_name: str) -> str:
-    return ALIASES.get(_host(link), feed_name.strip())
 
-# ---------------- pipeline ----------------
-def fetch_all():
-    items, seen = [], set()
-    for f in FEEDS:
-        fname, furl = f["name"].strip(), f["url"].strip()
-        try:
-            parsed = feedparser.parse(furl)
-        except Exception:
-            continue
-        for e in parsed.entries[:120]:
-            link = canonical((e.get("link") or e.get("id") or "").strip())
-            if not link: continue
-            key = hid(link)
-            if key in seen: continue
+def collect() -> Dict[str, object]:
+    seen_links = set()
+    items: List[Dict[str, object]] = []
+    source_names = set()
 
-            src = source_label(link, fname)
-            if src not in ALLOWED_SOURCES:
-                continue  # keeps dropdown clean/curated
+    for feed_cfg in FEEDS:
+        url = feed_cfg["url"]
+        default_name = feed_cfg["name"]
 
+        parsed = feedparser.parse(url)
+        src = normalize_source(parsed.feed.get("title", ""), default_name)
+
+        # track source even if empty today
+        source_names.add(src)
+
+        for e in parsed.entries:
+            link = e.get("link") or ""
             title = (e.get("title") or "").strip()
-            summary = (e.get("summary") or e.get("description") or "").strip()
-            if not text_ok(title, summary): continue
+            summary = (e.get("summary") or e.get("description") or "")
 
-            items.append({
-                "id": key,
-                "title": title or "(untitled)",
-                "link": link,
-                "source": src,
-                "feed": fname,
-                "published": parse_time(e),
-                "summary": summary,
-            })
-            seen.add(key)
+            if not link or not title:
+                continue
 
-    items.sort(key=lambda x: x["published"], reverse=True)
-    return items[:MAX_ITEMS]
+            if not is_team_relevant(title, summary):
+                continue
 
-def write_items(items):
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+
+            epoch, iso = _to_epoch(e)
+
+            items.append(
+                {
+                    "title": title,
+                    "url": link,
+                    "source": src,
+                    "published": iso,          # ISO 8601 with Z (fixes “Invalid Date” in UI)
+                    "timestamp": epoch,        # numeric for sorting
+                }
+            )
+
+    # Sort newest first and cap
+    items.sort(key=lambda x: x["timestamp"], reverse=True)
+    items = items[:MAX_ITEMS]
+
+    updated_at = datetime.now(tz=timezone.utc).isoformat().replace("+00:00", "Z")
+
+    # Build a stable sources list from the items we actually kept
+    used_sources = sorted({it["source"] for it in items}) or sorted(source_names)
+
     payload = {
-        "updated": now_iso(),
+        "team": "Philadelphia Eagles",
+        "updated_at": updated_at,
+        "count": len(items),
+        "sources": used_sources,
         "items": items,
-        "links": STATIC_LINKS,        # buttons always present
-        "sources": CURATED_SOURCES,   # dropdown never disappears
     }
-    with open("items.json", "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+    return payload
 
-def main():
-    write_items(fetch_all())
 
 if __name__ == "__main__":
-    main()
+    data = collect()
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(
+        f"Wrote {OUT_PATH}: {data['count']} items from {len(data['sources'])} sources • updated_at={data['updated_at']}"
+    )
