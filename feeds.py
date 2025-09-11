@@ -1,59 +1,28 @@
+# feeds.py — Philadelphia Eagles sources (8–10), all RSS-friendly
+# We use Google News RSS with domain filters so everything stays Eagles-focused.
 
-# feeds.py — Philadelphia Eagles sources only
+from urllib.parse import quote
 
-FEEDS = [
+def gn(query: str) -> str:
+    base = "https://news.google.com/rss/search?q="
+    tail = "&hl=en-US&gl=US&ceid=US:en"
+    return f"{base}{quote(query)}{tail}"
+
+SOURCES = [
     # Team site
-    {
-        "name": "philadelphiaeagles.com",
-        "url": "https://www.philadelphiaeagles.com/rss/news",
-    },
-
-    # USA Today network (Eagles Wire)
-    {
-        "name": "Eagles Wire (USA Today)",
-        "url": "https://sports.yahoo.com/rss/u/collegiate-football/teams/philadelphia-eagles"  # fallback if USA Today RSS blocks;
-    },
-    {
-        "name": "Eagles Wire (USA Today)",
-        "url": "https://sports.yahoo.com/philadelphia-eagles/rss/",  # second fallback (Yahoo mirrors many EW posts)
-    },
-
-    # ESPN team feed
-    {
-        "name": "ESPN — Eagles",
-        "url": "https://www.espn.com/espn/rss/nfl/team/_/name/phi",
-    },
-
-    # Yahoo team
-    {
-        "name": "Yahoo Sports — Eagles",
-        "url": "https://sports.yahoo.com/nfl/teams/philadelphia-eagles/rss/",
-    },
-
-    # SB Nation
-    {
-        "name": "Bleeding Green Nation",
-        "url": "https://www.bleedinggreennation.com/rss/index.xml",
-    },
-
-    # Sports Illustrated
-    {
-        "name": "SI — Eagles Today",
-        "url": "https://www.si.com/rss/philadelphia-eagles.xml",
-    },
-
-    # ProFootballTalk tag
-    {
-        "name": "ProFootballTalk — Eagles",
-        "url": "https://profootballtalk.nbcsports.com/team/philadelphia-eagles/feed/",
-    },
-
-    # Google News (team-focused query; tends to surface outlets like AP, local papers, etc.)
-    {
-        "name": "Google News — Eagles",
-        "url": (
-            "https://news.google.com/rss/search?"
-            "q=%22Philadelphia%20Eagles%22%20OR%20Eagles%20when%3A7d&hl=en-US&gl=US&ceid=US:en"
-        ),
-    },
+    ("philadelphiaeagles.com", gn('site:philadelphiaeagles.com "Philadelphia Eagles"')),
+    # Major outlets — domain-scoped to keep it Eagles-related
+    ("ESPN — Eagles",                  gn("Philadelphia Eagles site:espn.com")),
+    ("Yahoo Sports — Eagles",          gn("Philadelphia Eagles site:sports.yahoo.com")),
+    ("SI — Eagles Today",              gn("Philadelphia Eagles site:si.com")),
+    ("Eagles Wire (USA Today)",        gn("site:eagleswire.usatoday.com")),
+    ("Bleeding Green Nation",          gn("site:bleedinggreennation.com")),
+    ("ProFootballTalk — Eagles",       gn("Philadelphia Eagles site:profootballtalk.nbcsports.com")),
+    ("CBS Sports — Eagles",            gn("Philadelphia Eagles site:cbssports.com")),
+    ("The Athletic — Eagles",          gn("Philadelphia Eagles site:theathletic.com")),
+    # Community
+    ("Reddit — r/eagles", "https://www.reddit.com/r/eagles/.rss"),
 ]
+
+# Trim to first 10 (safety if list grows)
+SOURCES = SOURCES[:10]
