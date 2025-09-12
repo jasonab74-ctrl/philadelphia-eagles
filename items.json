@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-12T05:33:43Z",
+  "updated_at": "2025-09-12T05:46:44Z",
   "sources": [
     "Bleeding Green Nation",
     "CBS Sports — Eagles",
@@ -17,16 +17,16 @@
       "published_at": "2025-09-12T04:21:00Z"
     },
     {
-      "title": "Adoree' Jackson looking to bounce back in Week 2 against Chiefs - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMklRZXY5aFl3Nm9kSmZTUkVoMlAxaDIzWFRNMkMzemlGbkRveE9MV1dnQ19DNFBCVUZRdHZITXNQc2RtYm8wS1Jqc1Bjcmx6OWNqU0I2ZnowNVhINk9PWnN0NC1lUWlDUTZ3WTJRWUdoLW9EMmR1S3U1cWUxSWxYWWhTRzRWRVk?oc=5",
-      "source": "Yahoo Sports — Eagles",
-      "published_at": "2025-09-12T03:48:03Z"
-    },
-    {
       "title": "Packers continue impressive start to season with complete victory over Commanders - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG16T0ZITmZMbWFxNHFocFVLX2l5aTNCa1BMbnhGSHE4X2dBZDQ3bjl3Z0JuNkdnckFoS1AxdThTVWFBZmhfN29EcS0yVkd6WWNTblVZYzFiNmkxa05xYmNJaW9yUm5rZFhUQ3htdWRINV9hRWFzY2kwOTkweHQxT1MyOFBSUHVoZ09NNkxkMVZMR0ozUlVabXk1Sm1OMmtpZFJQbGM5Vi1IZ1E?oc=5",
       "source": "ESPN — Eagles",
       "published_at": "2025-09-12T03:39:00Z"
+    },
+    {
+      "title": "Dallas Gant, Philadelphia Eagles, LB - 2025-26 Game Log - NFL - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14ZHF0TnAyRWR2akIzTTF3RHY3bEdwU3RieDdTQVhlREd0dW16ZnJEVEIyOWRMZE11cktjSmRvMFRsdXROTk0yTGtab1pGd29BT04zVmFnSTVaelFhRTVfdk44aGJvSlktZVlFNGoyM0dkWWdWU0hKVTVSOTQ?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-12T02:54:05Z"
     },
     {
       "title": "Eagles, 9/11 Day commemorate anniversary with meal-packing event - Philadelphia Eagles",
@@ -35,10 +35,22 @@
       "published_at": "2025-09-12T02:34:59Z"
     },
     {
+      "title": "Food Truck Fire Covers Stadium in Smoke During NC State-Wake Forest Game - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDBGQzZZai14cERhTkRBT3YwVnJiQUdvdW1Qd0dvU2xJcTBfLWVUMEUzV25yMExnTXRvNktkRkczYnF2UFkzQ3g4XzB2empBOUhxaWNqaTg3b0tDS1hsalptRlNEMWsyQ0t0UXh2MjR1MWhWVnhTdUFhRlJpU2dacWZsY19JSjFyRmlhcjFOdWFJUkJhXzdrNGNMTTNvT1lmeWltOEpTbmNMMUc4?oc=5",
+      "source": "SI — Eagles Today",
+      "published_at": "2025-09-12T00:50:13Z"
+    },
+    {
       "title": "Start ‘Em, Sit ‘Em: It's Jordan Mason time in Week 2! - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSNTNadXltMUNvRER4Y2NiSXBwaEJVTnBjUTkyU1RBOUt3d0hueGlaOVZaak9FQW9yR1FvTUIwaWlCM3pNY3d1VWpUanZLYWY1aF9ZbDk0MmFXc2pVdlphcXQyR2thSGluVWw1bERjeFV1eFBTZVdv?oc=5",
       "source": "Yahoo Sports — Eagles",
       "published_at": "2025-09-12T00:10:00Z"
+    },
+    {
+      "title": "New York Mets vs. Philadelphia Phillies Box Score, Summary, and Team Stats - September 11, 2025 Gametracker - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMYk9zc3VqdkdJUHk2a2laemZVYjI4T1BnOWFQMHBwVVBvQVd3RVcyV3IxVndIOU1kd2hqb0dOSnJ3VEMyRHI4QXp1MHY5SzBaMC16UFBaSGdWekFSUW9Fc1dKYlBYTkVuaXJWS210YWotWVVpc1hNZDNyXzM?oc=5",
+      "source": "CBS Sports — Eagles",
+      "published_at": "2025-09-11T23:48:50Z"
     },
     {
       "title": "Super Bowl rematch on deck as Eagles try to follow victory over Chiefs with another in Kansas City - ca.sports.yahoo.com",
@@ -297,18 +309,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLVFnQnhiMURUX0tHdW9FeFc3TW1HWXRGUVZEYk1NU2RjUXJvZW51MUs3SkNiSEFBSEluNmV2VGs0a3JjN2pDSkF0LVNkeHlTelpNR29RVVlkSUFCeU9vUUtObi0tQzV6elNwb0dXeXUwMEZuQ1FabTgtM2NrcDNzZ054dldQWjBtSmNxTGtuYjNiSkVUb3l5bTFqeklXVGV4SWJlT0ZEbTU0LUItSE9aZ2hjN3pkRk9nNlBiSko1Nkd5LWowVkpyZDl2MWFMY2hVSHI4S0hjMjVTT0JiTl90TVY0YXRvOHZreGRBSTdncy1kSHJTWmc?oc=5",
       "source": "ESPN — Eagles",
       "published_at": "2025-09-11T11:18:00Z"
-    },
-    {
-      "title": "NFL Week 2 Picks From the MMQB Staff: Eagles Visit Chiefs in Super Bowl Rematch - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42bnlkQlZTT2lhOXA3OHRjS1pUbG9uaFpsQ0szWXZMUGFjanlaVm9RNUxZY3NJTTlKSUJyVzg3TnVPTGVubjhubXp6V1lzNXpZZ3NsUTBRWGVTVzhTVjJuUzZLQ1NMU1Nt?oc=5",
-      "source": "SI — Eagles Today",
-      "published_at": "2025-09-11T10:00:01Z"
-    },
-    {
-      "title": "'His mission is to be the best quarterback': Why fame hasn't changed Jayden Daniels - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWhCbmpiXzlaRGozc3djUDZYSHpwZC1ENTJpX1ZIUmRaZnpHMTY2TVNWN2Z0SmVEeTVad2RoaVU3dUtFUVBCNkd5VlRzNWtzUm9vbDlNZDZ2TEVZMjBqeGtxalh0Y0IzUGRXcHhSWElGQW43OWJhZ3FtdUdyRjRFQmpTSWZnZVZKdUVWd3NJcC1KMnFIRVJuSlRuVjFrR2hDOHZFeHZTdDBtQVVVdGMwNQ?oc=5",
-      "source": "ESPN — Eagles",
-      "published_at": "2025-09-11T10:00:00Z"
     }
   ]
 }
