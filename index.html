@@ -4,149 +4,184 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Philadelphia Eagles — News</title>
-  <link rel="icon" href="/static/favicon.ico">
-  <link rel="apple-touch-icon" href="/static/apple-touch-icon.png">
-  <link rel="manifest" href="/static/manifest.webmanifest">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/static/style.css?v=2025-09-13-1">
-  <meta name="color-scheme" content="light dark">
+
+  <!-- IMPORTANT: relative path so it works on GitHub Pages subfolders -->
+  <link rel="stylesheet" href="static/style.css" />
+
+  <link rel="icon" href="static/favicon.ico">
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png">
+  <meta name="theme-color" content="#0b525b">
+  <meta name="description" content="Live Philadelphia Eagles news feed with auto-updates and source filter." />
 </head>
 <body>
   <header class="hero">
-    <div class="hero__left">
-      <img class="hero__logo" src="/static/logo.png" alt="Eagles logo" width="112" height="112">
+    <div class="brand">
+      <img class="logo" src="static/logo.png" alt="Eagles logo"
+           onerror="this.style.visibility='hidden'">
       <div>
-        <h1 class="hero__title">Philadelphia<br>Eagles — News</h1>
-        <p class="hero__subtitle">Live team feed • auto-updates</p>
+        <h1>Philadelphia Eagles — <span class="light">News</span></h1>
+        <p class="tagline">Live team feed • auto-updates</p>
       </div>
     </div>
 
-    <button id="songBtn" class="song">
-      <span class="song__icon" aria-hidden="true">▶</span>
-      <span class="song__label">Fly<br>Eagles<br>Fly</span>
+    <button id="songBtn" class="pill action" title="Play team song">
+      <span class="play">►</span> Fly<br/>Eagles<br/>Fly
     </button>
-    <audio id="anthem" preload="auto" src="/static/fly-eagles-fly.mp3"></audio>
+    <audio id="song" preload="none" src="static/fly-eagles-fly.mp3"></audio>
   </header>
 
   <nav class="links">
-    <a class="pill" href="https://www.philadelphiaeagles.com/schedule/">Schedule</a>
-    <a class="pill" href="https://www.philadelphiaeagles.com/team/roster/">Roster</a>
-    <a class="pill" href="https://www.espn.com/nfl/team/depth/_/name/phi">Depth Chart</a>
-    <a class="pill" href="https://www.espn.com/nfl/team/injuries/_/name/phi">Injury Report</a>
-    <a class="pill" href="https://www.philadelphiaeagles.com/fans/">Fan Zone</a>
-    <a class="pill" href="https://store.philadelphiaeagles.com/">Team Shop</a>
-    <a class="pill" href="https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805941">Tickets</a>
-    <a class="pill" href="https://www.reddit.com/r/eagles/">Reddit</a>
-    <a class="pill" href="https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles">ESPN Team</a>
-    <a class="pill" href="https://sports.yahoo.com/nfl/teams/phi/">Yahoo Team</a>
-    <a class="pill" href="https://www.pff.com/nfl/teams/philadelphia-eagles">PFF Team Page</a>
-    <a class="pill" href="https://www.pro-football-reference.com/teams/phi/">Pro-Football-Reference</a>
-    <a class="pill" href="https://www.nfl.com/news/power-rankings">NFL Power Rankings</a>
-    <a class="pill" href="https://www.espn.com/nfl/team/stats/_/name/phi">Stats</a>
-    <a class="pill" href="https://www.espn.com/nfl/standings">Standings</a>
+    <a class="pill" href="https://www.philadelphiaeagles.com/schedule/" target="_blank" rel="noopener">Schedule</a>
+    <a class="pill" href="https://www.philadelphiaeagles.com/team/" target="_blank" rel="noopener">Roster</a>
+    <a class="pill" href="https://www.espn.com/nfl/team/depth/_/name/phi" target="_blank" rel="noopener">Depth Chart</a>
+    <a class="pill" href="https://www.philadelphiaeagles.com/team/injury-report/" target="_blank" rel="noopener">Injury Report</a>
+    <a class="pill" href="https://www.philadelphiaeagles.com/fans/" target="_blank" rel="noopener">Fan Zone</a>
+    <a class="pill" href="https://shop.philadelphiaeagles.com/" target="_blank" rel="noopener">Team Shop</a>
+    <a class="pill" href="https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805949" target="_blank" rel="noopener">Tickets</a>
+    <a class="pill" href="https://www.reddit.com/r/eagles/" target="_blank" rel="noopener">Reddit</a>
+    <a class="pill" href="https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles" target="_blank" rel="noopener">ESPN Team</a>
+    <a class="pill" href="https://sports.yahoo.com/nfl/teams/phi/" target="_blank" rel="noopener">Yahoo Team</a>
+    <a class="pill" href="https://www.pff.com/nfl/teams/philadelphia-eagles" target="_blank" rel="noopener">PFF Team Page</a>
+    <a class="pill" href="https://www.pro-football-reference.com/teams/phi/" target="_blank" rel="noopener">Pro-Football-Reference</a>
+    <a class="pill" href="https://www.nfl.com/news/power-rankings" target="_blank" rel="noopener">NFL Power Rankings</a>
+    <a class="pill" href="https://www.espn.com/nfl/team/stats/_/name/phi" target="_blank" rel="noopener">Stats</a>
+    <a class="pill" href="https://www.espn.com/nfl/standings" target="_blank" rel="noopener">Standings</a>
   </nav>
 
   <section class="toolbar">
-    <div class="toolbar__group">
-      <label class="label" for="sourceSelect">Source:</label>
+    <div class="field">
+      <label for="sourceSelect">Source:</label>
       <select id="sourceSelect" class="select">
         <option value="__all__">All sources</option>
       </select>
     </div>
-    <div class="toolbar__group">
-      <span class="label">Updated:</span>
-      <time id="updatedAt" class="muted">—</time>
+    <div class="updated">
+      <span>Updated:</span> <time id="updatedAt">—</time>
     </div>
   </section>
 
-  <main id="feed" class="feed" aria-live="polite"></main>
+  <main id="feed" class="feed"></main>
 
-  <footer class="foot">
-    <small>jasonab74-ctrl.github.io</small>
+  <footer class="footer">
+    <small>Powered by GitHub Pages</small>
   </footer>
 
-<script>
-(function () {
-  const FEED_EL = document.getElementById('feed');
-  const SELECT_EL = document.getElementById('sourceSelect');
-  const UPDATED_EL = document.getElementById('updatedAt');
-  const SONG_BTN = document.getElementById('songBtn');
-  const AUDIO = document.getElementById('anthem');
+  <script>
+    // --- Audio button ---
+    const song = document.getElementById('song');
+    document.getElementById('songBtn').addEventListener('click', () => {
+      if (song.paused) { song.play(); } else { song.pause(); }
+    });
 
-  SONG_BTN.addEventListener('click', () => {
-    if (AUDIO.paused) { AUDIO.currentTime = 0; AUDIO.play(); SONG_BTN.classList.add('song--playing'); }
-    else { AUDIO.pause(); SONG_BTN.classList.remove('song--playing'); }
-  });
-  AUDIO.addEventListener('ended', () => SONG_BTN.classList.remove('song--playing'));
-
-  const fmt = (iso) => {
-    try {
-      const d = new Date(iso);
-      return d.toLocaleString(undefined, { month:'short', day:'numeric', year:'numeric', hour:'numeric', minute:'2-digit' });
-    } catch { return '—'; }
-  };
-
-  const createCard = (item) => {
-    const a = document.createElement('a');
-    a.className = 'card';
-    a.href = item.link;
-    a.target = '_blank';
-    a.rel = 'noopener noreferrer';
-
-    const h3 = document.createElement('h3');
-    h3.className = 'card__title';
-    h3.textContent = item.title;
-
-    const meta = document.createElement('p');
-    meta.className = 'card__meta';
-    meta.textContent = `${item.source} • ${fmt(item.published)}`;
-
-    a.appendChild(h3);
-    a.appendChild(meta);
-    return a;
-  };
-
-  let ALL_ITEMS = [];
-  let ALL_SOURCES = [];
-
-  function render() {
-    const src = SELECT_EL.value;
-    const items = src === '__all__' ? ALL_ITEMS : ALL_ITEMS.filter(i => i.source === src);
-    FEED_EL.innerHTML = '';
-    for (const it of items) FEED_EL.appendChild(createCard(it));
-  }
-
-  async function load() {
-    const res = await fetch('items.json?ts=' + Date.now());
-    if (!res.ok) throw new Error('items.json fetch failed');
-    const data = await res.json();
-
-    UPDATED_EL.textContent = fmt(data.updated_at || new Date().toISOString());
-
-    ALL_ITEMS = Array.isArray(data.items) ? data.items : [];
-    ALL_SOURCES = Array.isArray(data.sources) ? data.sources : [];
-
-    // (Re)build source dropdown
-    const current = SELECT_EL.value || '__all__';
-    SELECT_EL.innerHTML = '<option value="__all__">All sources</option>';
-    for (const s of ALL_SOURCES) {
-      const opt = document.createElement('option');
-      opt.value = s;
-      opt.textContent = s;
-      SELECT_EL.appendChild(opt);
+    // --- Helper: US-style date/time ---
+    function fmtDate(d) {
+      if (!d) return '';
+      const t = typeof d === 'number' ? new Date(d) : new Date(String(d));
+      if (isNaN(t.getTime())) return '';
+      return t.toLocaleString('en-US', {
+        month:'short', day:'numeric', year:'numeric',
+        hour:'numeric', minute:'2-digit'
+      });
     }
-    if ([...SELECT_EL.options].some(o => o.value === current)) SELECT_EL.value = current;
 
-    render();
-  }
+    // Pretty names for common Eagles sources
+    const PRETTY = {
+      'bleedinggreennation.com': 'Bleeding Green Nation',
+      'espn.com': 'ESPN',
+      'sports.yahoo.com': 'Yahoo Sports — Eagles',
+      'philadelphiaeagles.com': 'philadelphiaeagles.com',
+      'usatoday.com': 'Eagles Wire (USA Today)',
+      'si.com': 'SI — Eagles Today',
+      'nbcsports.com': 'ProFootballTalk — Eagles',
+      'news.google.com': 'Google News — Eagles',
+      'bing.com': 'Bing News — Eagles'
+    };
 
-  SELECT_EL.addEventListener('change', render);
+    const feedEl = document.getElementById('feed');
+    const selectEl = document.getElementById('sourceSelect');
+    const updatedEl = document.getElementById('updatedAt');
 
-  // Initial load + auto refresh every 10 minutes
-  load().catch(console.error);
-  setInterval(load, 10 * 60 * 1000);
-})();
-</script>
+    // Robustly pull hostname from a url
+    function hostOf(url) {
+      try { return new URL(url).hostname.replace(/^www\./,''); }
+      catch { return ''; }
+    }
+
+    function setUpdated(ts) {
+      const txt = fmtDate(ts);
+      updatedEl.textContent = txt || '—';
+    }
+
+    function render(items, sourceFilter='__all__') {
+      // filter and sort
+      let list = Array.isArray(items) ? items.slice(0) : [];
+      if (sourceFilter !== '__all__') {
+        list = list.filter(x => (x.source || hostOf(x.url)) === sourceFilter);
+      }
+      list.sort((a,b) => new Date(b.published||0) - new Date(a.published||0));
+      list = list.slice(0, 50);
+
+      // updated stamp
+      const latest = list[0]?.published || items[0]?.published;
+      setUpdated(latest);
+
+      // paint
+      feedEl.innerHTML = list.map(item => {
+        const title = (item.title || 'Untitled').toString();
+        const url = item.url || '#';
+        const src = item.source || hostOf(url);
+        const nice = PRETTY[src] || src;
+        const when = fmtDate(item.published);
+        return `
+          <a class="card" href="${url}" target="_blank" rel="noopener">
+            <div class="card-title">${title}</div>
+            <div class="card-meta">${nice}${when ? ' • ' + when : ''}</div>
+          </a>`;
+      }).join('') || `<div class="empty">No articles yet — the collector will populate shortly.</div>`;
+    }
+
+    function populateSources(items) {
+      // Unique sources present in items.json
+      const seen = new Set();
+      const entries = [];
+      for (const it of items) {
+        const key = (it.source || hostOf(it.url));
+        if (!key) continue;
+        if (!seen.has(key)) {
+          seen.add(key);
+          entries.push({ key, label: PRETTY[key] || key });
+        }
+      }
+      entries.sort((a,b)=> a.label.localeCompare(b.label));
+
+      // Reset select options (keep "All sources")
+      selectEl.innerHTML = `<option value="__all__">All sources</option>` +
+        entries.map(s => `<option value="${s.key}">${s.label}</option>`).join('');
+    }
+
+    // Fetch items.json with cache-buster so we always see fresh data
+    let ALL_ITEMS = [];
+    function load() {
+      fetch('items.json?ts=' + Date.now())
+        .then(r => r.json())
+        .then(json => {
+          // Defensive: accept both {items:[...]} and [...] shapes
+          ALL_ITEMS = Array.isArray(json) ? json : (json.items || []);
+          populateSources(ALL_ITEMS);
+          render(ALL_ITEMS, selectEl.value);
+        })
+        .catch(() => {
+          feedEl.innerHTML = `<div class="empty">Couldn’t load articles.</div>`;
+          setUpdated('');
+        });
+    }
+
+    // listen for source changes
+    selectEl.addEventListener('change', () => render(ALL_ITEMS, selectEl.value));
+
+    // initial load and auto-refresh every 5 minutes
+    load();
+    setInterval(load, 5 * 60 * 1000);
+  </script>
 </body>
 </html>
