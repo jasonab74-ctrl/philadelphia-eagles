@@ -1,42 +1,40 @@
-# feeds.py
-# -----------------------------
-# Curated feed list & allow-list for Philadelphia Eagles news.
-# We purposely rely on Google/Bing News team queries (broad intake),
-# but we filter to a tight set of trusted domains so the results
-# stay Eagles-specific and your source dropdown shows ~8–10 sources.
+# Feeds for team-specific collectors.
+# Keep each feed as "title", "url", and whether it's already team-specific.
+# If team_specific=False, the collector will keyword-filter for the team.
 
-GOOGLE_EAGLES = (
-    'https://news.google.com/rss/search?q=%22Philadelphia%20Eagles%22'
-    '%20OR%20Eagles%20NFL%20-team%3Aphiladelphiaeagles'
-    '&hl=en-US&gl=US&ceid=US:en'
-)
-
-BING_EAGLES = (
-    'https://www.bing.com/news/search?q=Philadelphia+Eagles&format=rss'
-)
-
-# You can add a direct team RSS here if you have one that’s reliable.
-# (Keeping this blank avoids “dead feed” outages.)
-EXTRA_FEEDS = [
-    # 'https://www.philadelphiaeagles.com/rss.xml',
+EAGLES_KEYWORDS = [
+    "Philadelphia Eagles",
+    "Eagles",
+    "PHI"
 ]
 
-FEED_URLS = [GOOGLE_EAGLES, BING_EAGLES, *EXTRA_FEEDS]
+SOURCES = {
+    "eagles": [
+        # Official / near-official
+        {"title": "philadelphiaeagles.com", "url": "https://www.philadelphiaeagles.com/rss", "team_specific": True},
 
-# Map host substrings -> nice source names (what appears in the dropdown)
-# Only items whose URL host contains one of these keys will be kept.
-ALLOW_SOURCES = {
-    'espn.com':                    'ESPN — Eagles',
-    'bleedinggreennation.com':     'Bleeding Green Nation',
-    'usatoday.com':                'Eagles Wire (USA Today)',
-    'sports.yahoo.com':            'Yahoo Sports — Eagles',
-    'nbcsports.com':               'ProFootballTalk — Eagles',  # nbcsports (PFT)
-    'nbcsportsphiladelphia.com':   'NBC Sports Philadelphia',
-    'inquirer.com':                'Philadelphia Inquirer',
-    'theathletic.com':             'The Athletic — Eagles',
-    'philadelphiaeagles.com':      'philadelphiaeagles.com',
-    'si.com':                      'SI — Eagles Today',
+        # USA Today: Eagles Wire
+        {"title": "Eagles Wire (USA Today)", "url": "https://rss.app/feeds/oO5q0kI3wR6GxZ9M.xml", "team_specific": True},
+
+        # SI FanNation — Eagles Today
+        {"title": "SI — Eagles Today", "url": "https://rss.app/feeds/Aq3p5MGfX2b3q1yK.xml", "team_specific": True},
+
+        # Bleeding Green Nation
+        {"title": "Bleeding Green Nation", "url": "https://www.bleedinggreennation.com/rss/index.xml", "team_specific": True},
+
+        # Yahoo Sports team feed
+        {"title": "Yahoo Sports — Eagles", "url": "https://sports.yahoo.com/nfl/teams/phi/rss/", "team_specific": True},
+
+        # ESPN (site-wide; filter by keywords)
+        {"title": "ESPN", "url": "https://www.espn.com/espn/rss/nfl/news", "team_specific": False, "keywords": EAGLES_KEYWORDS},
+
+        # ProFootballTalk (site-wide; filter)
+        {"title": "ProFootballTalk — Eagles", "url": "https://profootballtalk.nbcsports.com/feed/", "team_specific": False, "keywords": EAGLES_KEYWORDS},
+
+        # Google News query (already scoped)
+        {"title": "Google News — Eagles", "url": "https://news.google.com/rss/search?q=%22Philadelphia+Eagles%22&hl=en-US&gl=US&ceid=US:en", "team_specific": True},
+
+        # Bing News query (already scoped)
+        {"title": "Bing News — Eagles", "url": "https://www.bing.com/news/search?q=%22Philadelphia+Eagles%22&format=rss", "team_specific": True},
+    ]
 }
-
-# How many articles to keep
-MAX_ITEMS = 50
