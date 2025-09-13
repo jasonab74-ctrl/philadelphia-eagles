@@ -1,140 +1,152 @@
-/* Reset-ish */
-* { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
-body {
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  line-height: 1.35;
-  color: #0b2a2a;
-  background: #0d595a radial-gradient(1200px 600px at 50% -200px, #114f50 0%, #083e3f 60%, #073536 100%) no-repeat;
+/* ========== Base ========== */
+:root{
+  --brand:#0c5a5e;            /* header teal (Eagles) */
+  --brand-dark:#084348;
+  --accent:#bfe5df;           /* soft mint for chips */
+  --accent-2:#e8f3f1;
+  --text:#0f1a20;             /* dark ink */
+  --muted:#4a5a64;
+  --card-bg:#ffffff;
+  --page-bg:#f4f7f8;          /* light neutral */
+  --ring:#1b8a90;
+  --shadow: 0 6px 20px rgba(0,0,0,.08);
+  --radius:18px;
 }
 
-/* Container widths handled by sections */
-.hero {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 20px clamp(16px, 4vw, 28px);
-  color: #e6f6f6;
-  border-bottom: 4px solid rgba(255,255,255,0.08);
-}
-.hero__left { display: flex; align-items: center; gap: 16px; }
-.hero__logo {
-  width: 72px; height: 72px; border-radius: 14px;
-  background: rgba(255,255,255,0.08);
-  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.12);
-  padding: 10px; object-fit: contain;
-}
-.hero__title {
-  margin: 0 0 4px 0;
-  font-size: clamp(26px, 4.5vw, 40px);
-  line-height: 1.05;
-}
-.hero__subtitle { margin: 0; opacity: .8; font-weight: 500; }
-
-/* Fly Eagles Fly button */
-.song {
-  background: #cfe4e2;
-  color: #063233;
-  border: none;
-  border-radius: 22px;
-  padding: 10px 14px;
-  display: grid;
-  grid-template-columns: auto 1fr;
-  align-items: center;
-  gap: 12px;
-  box-shadow: 0 4px 14px rgba(0,0,0,.15), inset 0 0 0 1px rgba(6,50,51,.15);
-  cursor: pointer;
-}
-.song:hover { filter: brightness(1.03); }
-.song__icon { display: inline-block; font-weight: 700; }
-.song__label { display: inline-block; text-align: left; font-weight: 700; line-height: 1.05; }
-.song--playing .song__icon { opacity: .6; }
-
-/* quick links */
-.links {
-  display: flex; flex-wrap: wrap; gap: 14px 14px;
-  padding: 18px clamp(14px, 4vw, 28px);
-}
-.pill {
-  display: inline-block;
-  padding: 12px 18px;
-  border-radius: 999px;
-  background: #d8e8e6;
-  color: #0b2a2a;
-  text-decoration: none;
-  font-weight: 700;
-  box-shadow: inset 0 0 0 1px rgba(6,50,51,.12), 0 1px 1px rgba(0,0,0,.06);
-}
-.pill:hover { transform: translateY(-1px); }
-
-/* toolbar */
-.toolbar {
-  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
-  gap: 12px 20px;
-  padding: 10px clamp(16px, 4vw, 28px) 6px;
-  background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,0));
-  color: #eaf7f6;
-}
-.toolbar__group { display: flex; align-items: center; gap: 10px; }
-.label { font-weight: 700; }
-.select {
-  appearance: none;
-  background: #d8e8e6;
-  color: #093334;
-  border: 0;
-  border-radius: 12px;
-  padding: 10px 14px;
-  font-weight: 700;
-  box-shadow: inset 0 0 0 1px rgba(6,50,51,.15);
-}
-.muted { opacity: .9; }
-
-/* feed layout */
-.feed {
-  padding: 6px clamp(16px, 4vw, 28px) 36px;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  gap: 16px;
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font: 16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji";
+  color:var(--text);
+  background:var(--page-bg);
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
 }
 
-/* cards */
-.card {
-  display: block;
-  text-decoration: none;
-  background: #ffffff;
-  border-radius: 16px;
-  padding: 16px 18px;
-  box-shadow:
-    0 1px 0 rgba(0,0,0,.06),
-    0 8px 20px rgba(0,0,0,.15);
-  color: #0a2727;
+/* ========== Header ========== */
+.header{
+  background: linear-gradient(180deg,var(--brand) 0%, var(--brand-dark) 100%);
+  color:#fff;
+  padding:24px 18px 18px;
+  position:sticky; top:0; z-index:10;
 }
-.card:hover { transform: translateY(-1px); box-shadow: 0 1px 0 rgba(0,0,0,.06), 0 10px 22px rgba(0,0,0,.2); }
-.card__title {
-  margin: 0 0 8px 0;
-  font-size: clamp(18px, 2.7vw, 22px);
-  line-height: 1.15;
-  font-weight: 800;
-  color: #083637;
+.header .title{
+  display:flex; align-items:center; gap:14px;
 }
-.card__meta {
-  margin: 0;
-  color: #516869;
-  font-weight: 600;
+.header .logo{
+  width:56px; height:56px; border-radius:12px;
+  background:#0b3f42; display:grid; place-items:center;
+  overflow:hidden; border:1px solid rgba(255,255,255,.15);
+}
+.header .logo img{ width:100%; height:100%; object-fit:cover }
+.header h1{
+  margin:0; font-weight:800; font-size:28px; line-height:1.1;
+}
+.header .sub{
+  margin-top:6px; font-size:14px; opacity:.9;
 }
 
-/* footer */
-.foot {
-  padding: 30px 20px 50px;
-  text-align: center;
-  color: #b8d0cf;
+/* ========== Song button ========== */
+.song-btn{
+  position:absolute; right:16px; top:18px;
+  background:rgba(255,255,255,.15);
+  border:1px solid rgba(255,255,255,.35);
+  backdrop-filter: blur(6px);
+  color:#fff; padding:12px 16px; border-radius:20px;
+  font-weight:700; display:flex; gap:10px; align-items:center;
+}
+.song-btn .dot{ width:8px; height:8px; border-radius:999px; background:#fff; opacity:.9 }
+
+/* ========== Link buttons row (Schedule / Roster / …) ========== */
+.links{
+  padding:16px; display:flex; flex-wrap:wrap; gap:14px;
+  background:linear-gradient(180deg, var(--brand-dark) 0%, rgba(8,67,72,.0) 100%);
+}
+.links a{
+  text-decoration:none;
+  color:var(--text);
+  background:var(--accent);
+  padding:14px 18px;
+  border-radius:var(--radius);
+  font-weight:800;
+  display:inline-block;
+  box-shadow: var(--shadow);
+  border:1px solid rgba(0,0,0,.04);
+}
+.links a:hover{ transform:translateY(-1px); box-shadow:0 10px 22px rgba(0,0,0,.10) }
+
+/* ========== Controls (source dropdown + timestamp) ========== */
+.controls{
+  display:flex; align-items:center; justify-content:space-between;
+  gap:14px; padding:10px 16px 0;
+}
+.controls .label{ color:var(--muted); font-weight:700; margin-right:8px }
+.controls .row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap }
+select, .select{
+  appearance:none; -webkit-appearance:none;
+  background:var(--card-bg);
+  border:1px solid #dbe5e9;
+  border-radius:14px; padding:10px 14px; font-weight:700;
+  box-shadow: var(--shadow);
+}
+.updated{ color:var(--muted); font-weight:700 }
+
+/* ========== Articles list ========== */
+.list{ padding:16px; display:grid; gap:14px }
+
+.card{
+  background:var(--card-bg);
+  border-radius:16px;
+  padding:16px 18px;
+  box-shadow: var(--shadow);
+  border:1px solid #e7eef1;
+}
+.card a{
+  color:var(--text);
+  text-decoration:none;       /* no underline by default */
+  font-weight:800; font-size:19px; line-height:1.25;
+}
+.card a:hover{ text-decoration:underline }
+.meta{
+  margin-top:8px; color:var(--muted);
+  font-size:14px; font-weight:700;
+  display:flex; gap:10px; flex-wrap:wrap;
+}
+.badge{
+  background:var(--accent-2);
+  color:var(--text);
+  padding:3px 8px; border-radius:999px; border:1px solid #d8e7e4;
 }
 
-/* dark mode tweak */
-@media (prefers-color-scheme: dark) {
-  body { color: #e8f5f4; }
-  .card { background: #0f1a1a; color: #e8f5f4; box-shadow: 0 1px 0 rgba(255,255,255,.04), 0 10px 22px rgba(0,0,0,.55); }
-  .card__title { color: #e8f5f4; }
-  .card__meta { color: #a6c1bf; }
+/* ========== Footer ========== */
+.footer{ padding:22px 16px 40px; color:var(--muted); text-align:center }
+
+/* ========== Utilities ========== */
+.hidden{ display:none !important }
+
+/* ========== Small screens ========== */
+@media (max-width:420px){
+  .header{ padding:20px 14px 14px }
+  .links{ padding:14px }
+  .links a{ padding:12px 16px; font-size:15px }
+  .card a{ font-size:18px }
+}
+
+/* ========== Optional: dark-mode support (if user prefers) ========== */
+@media (prefers-color-scheme: dark){
+  :root{
+    --page-bg:#0f1215;
+    --card-bg:#151a1f;
+    --text:#eaf1f3;
+    --muted:#9fb0b9;
+    --accent:#173c3e;
+    --accent-2:#112b2d;
+    --ring:#2bb5be;
+    --shadow: 0 6px 20px rgba(0,0,0,.35);
+  }
+  .links a{ border-color:#1c2b2d }
+  .card{ border-color:#212a30 }
+  select, .select{ border-color:#25333a; background:#0f1519; color:var(--text) }
+  .song-btn{ background:rgba(0,0,0,.25); border-color:rgba(255,255,255,.25) }
 }
