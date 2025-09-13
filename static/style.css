@@ -1,152 +1,108 @@
-/* ========== Base ========== */
 :root{
-  --brand:#0c5a5e;            /* header teal (Eagles) */
-  --brand-dark:#084348;
-  --accent:#bfe5df;           /* soft mint for chips */
-  --accent-2:#e8f3f1;
-  --text:#0f1a20;             /* dark ink */
-  --muted:#4a5a64;
-  --card-bg:#ffffff;
-  --page-bg:#f4f7f8;          /* light neutral */
-  --ring:#1b8a90;
-  --shadow: 0 6px 20px rgba(0,0,0,.08);
+  --bg:#0b525b;           /* deep teal header */
+  --bg-2:#07393e;         /* body background */
+  --surface:#102a2c;      /* panels */
+  --pill:#dce8e7;         /* button/background chips */
+  --pill-text:#0f2a2a;
+  --text:#e9f1f1;
+  --muted:#b7c6c6;
+  --accent:#64d3c2;
+  --card:#122f32;
+  --card-hover:#183b3f;
+  --shadow:0 6px 18px rgba(0,0,0,.18);
   --radius:18px;
 }
 
 *{box-sizing:border-box}
-html,body{height:100%}
+html,body{margin:0;padding:0}
 body{
-  margin:0;
-  font: 16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji";
-  color:var(--text);
-  background:var(--page-bg);
-  -webkit-font-smoothing:antialiased;
-  text-rendering:optimizeLegibility;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  background: linear-gradient(180deg, var(--bg) 0 220px, var(--bg-2) 220px 100%);
+  color: var(--text);
 }
 
-/* ========== Header ========== */
-.header{
-  background: linear-gradient(180deg,var(--brand) 0%, var(--brand-dark) 100%);
-  color:#fff;
-  padding:24px 18px 18px;
-  position:sticky; top:0; z-index:10;
+/* Hero */
+.hero{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px 16px 8px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:16px;
 }
-.header .title{
-  display:flex; align-items:center; gap:14px;
+.brand{display:flex; align-items:center; gap:16px}
+.logo{
+  width:64px; height:64px; object-fit:contain;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,.25));
 }
-.header .logo{
-  width:56px; height:56px; border-radius:12px;
-  background:#0b3f42; display:grid; place-items:center;
-  overflow:hidden; border:1px solid rgba(255,255,255,.15);
-}
-.header .logo img{ width:100%; height:100%; object-fit:cover }
-.header h1{
-  margin:0; font-weight:800; font-size:28px; line-height:1.1;
-}
-.header .sub{
-  margin-top:6px; font-size:14px; opacity:.9;
-}
+h1{margin:0; font-weight:800; line-height:1.05; font-size:32px}
+.light{font-weight:700}
+.tagline{margin:6px 0 0; color:var(--muted)}
 
-/* ========== Song button ========== */
-.song-btn{
-  position:absolute; right:16px; top:18px;
-  background:rgba(255,255,255,.15);
-  border:1px solid rgba(255,255,255,.35);
-  backdrop-filter: blur(6px);
-  color:#fff; padding:12px 16px; border-radius:20px;
-  font-weight:700; display:flex; gap:10px; align-items:center;
-}
-.song-btn .dot{ width:8px; height:8px; border-radius:999px; background:#fff; opacity:.9 }
-
-/* ========== Link buttons row (Schedule / Roster / …) ========== */
-.links{
-  padding:16px; display:flex; flex-wrap:wrap; gap:14px;
-  background:linear-gradient(180deg, var(--brand-dark) 0%, rgba(8,67,72,.0) 100%);
-}
-.links a{
+.pill{
+  appearance:none; border:0; cursor:pointer;
+  background: var(--pill);
+  color: var(--pill-text);
+  padding: 14px 18px;
+  border-radius: 999px;
   text-decoration:none;
-  color:var(--text);
-  background:var(--accent);
-  padding:14px 18px;
-  border-radius:var(--radius);
-  font-weight:800;
-  display:inline-block;
-  box-shadow: var(--shadow);
-  border:1px solid rgba(0,0,0,.04);
-}
-.links a:hover{ transform:translateY(-1px); box-shadow:0 10px 22px rgba(0,0,0,.10) }
-
-/* ========== Controls (source dropdown + timestamp) ========== */
-.controls{
-  display:flex; align-items:center; justify-content:space-between;
-  gap:14px; padding:10px 16px 0;
-}
-.controls .label{ color:var(--muted); font-weight:700; margin-right:8px }
-.controls .row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap }
-select, .select{
-  appearance:none; -webkit-appearance:none;
-  background:var(--card-bg);
-  border:1px solid #dbe5e9;
-  border-radius:14px; padding:10px 14px; font-weight:700;
+  font-weight: 800;
+  display:inline-flex; align-items:center; justify-content:center;
   box-shadow: var(--shadow);
 }
-.updated{ color:var(--muted); font-weight:700 }
+.pill:hover{transform:translateY(-1px)}
+.pill:active{transform:translateY(0)}
 
-/* ========== Articles list ========== */
-.list{ padding:16px; display:grid; gap:14px }
+.action{
+  text-align:center; line-height:1.05; min-width:94px;
+}
+.action .play{margin-right:6px}
 
+/* Quick links */
+.links{
+  max-width: 980px; margin: 6px auto 10px; padding: 0 14px;
+  display:grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 14px 14px;
+}
+
+/* Toolbar */
+.toolbar{
+  max-width:980px; margin: 4px auto 10px; padding: 0 14px;
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+}
+.field{display:flex; align-items:center; gap:10px}
+.select{
+  appearance:none;
+  padding:10px 14px; border-radius:10px; border:1px solid rgba(255,255,255,.12);
+  background:#0f2f32; color:var(--text);
+}
+.updated{color:var(--muted)}
+
+/* Feed cards */
+.feed{
+  max-width: 980px; margin: 0 auto; padding: 6px 14px 24px;
+  display:grid; grid-template-columns: 1fr; gap: 12px;
+}
 .card{
-  background:var(--card-bg);
-  border-radius:16px;
-  padding:16px 18px;
+  background: var(--card);
+  display:block; padding: 16px 18px; border-radius: 16px;
+  text-decoration:none; color: var(--text);
   box-shadow: var(--shadow);
-  border:1px solid #e7eef1;
+  transition: background .15s ease;
 }
-.card a{
-  color:var(--text);
-  text-decoration:none;       /* no underline by default */
-  font-weight:800; font-size:19px; line-height:1.25;
-}
-.card a:hover{ text-decoration:underline }
-.meta{
-  margin-top:8px; color:var(--muted);
-  font-size:14px; font-weight:700;
-  display:flex; gap:10px; flex-wrap:wrap;
-}
-.badge{
-  background:var(--accent-2);
-  color:var(--text);
-  padding:3px 8px; border-radius:999px; border:1px solid #d8e7e4;
-}
+.card:hover{ background: var(--card-hover) }
+.card-title{ font-size: 20px; font-weight: 800; line-height:1.2; margin-bottom: 8px }
+.card-meta{ color: var(--muted); font-weight: 600 }
 
-/* ========== Footer ========== */
-.footer{ padding:22px 16px 40px; color:var(--muted); text-align:center }
+/* No underline anywhere (buttons and article links) */
+a{ text-decoration: none; color: inherit }
 
-/* ========== Utilities ========== */
-.hidden{ display:none !important }
+/* Footer */
+.footer{ text-align:center; color:var(--muted); padding: 22px 0 40px }
 
-/* ========== Small screens ========== */
-@media (max-width:420px){
-  .header{ padding:20px 14px 14px }
-  .links{ padding:14px }
-  .links a{ padding:12px 16px; font-size:15px }
-  .card a{ font-size:18px }
-}
-
-/* ========== Optional: dark-mode support (if user prefers) ========== */
-@media (prefers-color-scheme: dark){
-  :root{
-    --page-bg:#0f1215;
-    --card-bg:#151a1f;
-    --text:#eaf1f3;
-    --muted:#9fb0b9;
-    --accent:#173c3e;
-    --accent-2:#112b2d;
-    --ring:#2bb5be;
-    --shadow: 0 6px 20px rgba(0,0,0,.35);
-  }
-  .links a{ border-color:#1c2b2d }
-  .card{ border-color:#212a30 }
-  select, .select{ border-color:#25333a; background:#0f1519; color:var(--text) }
-  .song-btn{ background:rgba(0,0,0,.25); border-color:rgba(255,255,255,.25) }
+/* Responsive */
+@media (min-width: 700px){
+  h1{ font-size: 40px }
+  .card-title{ font-size: 22px }
 }
