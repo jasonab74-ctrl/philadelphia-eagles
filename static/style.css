@@ -1,108 +1,115 @@
-:root{
-  --bg:#0b525b;           /* deep teal header */
-  --bg-2:#07393e;         /* body background */
-  --surface:#102a2c;      /* panels */
-  --pill:#dce8e7;         /* button/background chips */
-  --pill-text:#0f2a2a;
-  --text:#e9f1f1;
-  --muted:#b7c6c6;
-  --accent:#64d3c2;
-  --card:#122f32;
-  --card-hover:#183b3f;
-  --shadow:0 6px 18px rgba(0,0,0,.18);
-  --radius:18px;
+/* ---- General Reset ---- */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #003b4d; /* deep teal Eagles color */
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-*{box-sizing:border-box}
-html,body{margin:0;padding:0}
-body{
-  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-  background: linear-gradient(180deg, var(--bg) 0 220px, var(--bg-2) 220px 100%);
-  color: var(--text);
+/* ---- Header ---- */
+header {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  background: #004c5c; /* slightly lighter teal */
 }
 
-/* Hero */
-.hero{
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 20px 16px 8px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:16px;
-}
-.brand{display:flex; align-items:center; gap:16px}
-.logo{
-  width:64px; height:64px; object-fit:contain;
-  filter: drop-shadow(0 2px 6px rgba(0,0,0,.25));
-}
-h1{margin:0; font-weight:800; line-height:1.05; font-size:32px}
-.light{font-weight:700}
-.tagline{margin:6px 0 0; color:var(--muted)}
-
-.pill{
-  appearance:none; border:0; cursor:pointer;
-  background: var(--pill);
-  color: var(--pill-text);
-  padding: 14px 18px;
-  border-radius: 999px;
-  text-decoration:none;
-  font-weight: 800;
-  display:inline-flex; align-items:center; justify-content:center;
-  box-shadow: var(--shadow);
-}
-.pill:hover{transform:translateY(-1px)}
-.pill:active{transform:translateY(0)}
-
-.action{
-  text-align:center; line-height:1.05; min-width:94px;
-}
-.action .play{margin-right:6px}
-
-/* Quick links */
-.links{
-  max-width: 980px; margin: 6px auto 10px; padding: 0 14px;
-  display:grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-  gap: 14px 14px;
+header img {
+  height: 40px;
+  margin-right: 12px;
 }
 
-/* Toolbar */
-.toolbar{
-  max-width:980px; margin: 4px auto 10px; padding: 0 14px;
-  display:flex; align-items:center; justify-content:space-between; gap:12px;
+header h1 {
+  font-size: 1.3rem;
+  margin: 0;
+  font-weight: bold;
 }
-.field{display:flex; align-items:center; gap:10px}
-.select{
-  appearance:none;
-  padding:10px 14px; border-radius:10px; border:1px solid rgba(255,255,255,.12);
-  background:#0f2f32; color:var(--text);
+
+/* ---- Fight Song Button ---- */
+.fight-button {
+  margin-left: auto;
+  background: #008eaa;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+  padding: 6px 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
 }
-.updated{color:var(--muted)}
-
-/* Feed cards */
-.feed{
-  max-width: 980px; margin: 0 auto; padding: 6px 14px 24px;
-  display:grid; grid-template-columns: 1fr; gap: 12px;
+.fight-button:hover {
+  background: #00bcd4;
 }
-.card{
-  background: var(--card);
-  display:block; padding: 16px 18px; border-radius: 16px;
-  text-decoration:none; color: var(--text);
-  box-shadow: var(--shadow);
-  transition: background .15s ease;
+
+/* ---- Static Nav Buttons ---- */
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 12px;
 }
-.card:hover{ background: var(--card-hover) }
-.card-title{ font-size: 20px; font-weight: 800; line-height:1.2; margin-bottom: 8px }
-.card-meta{ color: var(--muted); font-weight: 600 }
 
-/* No underline anywhere (buttons and article links) */
-a{ text-decoration: none; color: inherit }
+.nav-links a {
+  display: inline-block;
+  margin: 6px;
+  padding: 6px 12px;         /* smaller padding for smaller bubbles */
+  font-size: 0.85rem;        /* shrink font size */
+  background: #cfe9eb;
+  color: #003b4d;
+  border-radius: 25px;
+  font-weight: 600;
+  text-decoration: none;
+  flex: 0 0 calc(50% - 16px); /* two per row */
+  text-align: center;
+}
 
-/* Footer */
-.footer{ text-align:center; color:var(--muted); padding: 22px 0 40px }
+.nav-links a:hover {
+  background: #b2d8db;
+}
 
-/* Responsive */
-@media (min-width: 700px){
-  h1{ font-size: 40px }
-  .card-title{ font-size: 22px }
+/* ---- Dropdown + Updated Timestamp ---- */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  font-size: 0.9rem;
+}
+
+select {
+  border-radius: 10px;
+  padding: 4px 8px;
+  border: none;
+  font-size: 0.9rem;
+}
+
+/* ---- Article Cards ---- */
+.article {
+  background: #f9f9f9;
+  color: #222;
+  margin: 10px 15px;
+  padding: 14px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.article h2 {
+  font-size: 1rem;
+  margin: 0 0 6px;
+}
+
+.article h2 a {
+  text-decoration: none;
+  color: #003b4d;
+  font-weight: bold;
+}
+
+.article h2 a:hover {
+  text-decoration: underline;
+}
+
+.article .meta {
+  font-size: 0.8rem;
+  color: #555;
 }
