@@ -1,133 +1,129 @@
-# collect.py
-# ------------------------------------
-# Pulls news, filters to Philadelphia Eagles sources, writes items.json
-# Schema: { "updated_at": str, "sources": [str], "items": [{title, link, source, published}] }
-
-import json, time, pathlib, sys, urllib.parse
+import json
+import time
 from datetime import datetime, timezone
-from typing import Dict, List, Tuple
+from urllib.parse import urlparse
+
 import feedparser
+from dateutil import parser as dtparser
 
-from feeds import FEED_URLS, ALLOW_SOURCES, MAX_ITEMS
+from feeds import SOURCES
 
-ROOT = pathlib.Path(__file__).parent
-OUT = ROOT / "items.json"
+TEAM = "eagles"                 # <— this instance is for the Eagles site
+MAX_ITEMS = 50                  # cap the page to the 50 most recent team items
+KEYWORDS_FALLBACK = ["Philadelphia Eagles", "Eagles", "PHI"]  # safety net
 
-def _iso(dt: datetime) -> str:
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return dt.astimezone(timezone.utc).isoformat()
+def _norm(s: str) -> str:
+    return (s or "").strip()
 
-def _final_url_from_google_or_bing(link: str) -> str:
-    """
-    Google News/Bing sometimes wrap the publisher URL.
-    Try to unwrap ?url=… or &u=…; otherwise return original link.
-    """
+def _domain(url: str) -> str:
     try:
-        u = urllib.parse.urlparse(link)
-        qs = urllib.parse.parse_qs(u.query)
-        for key in ("url", "u"):
-            if key in qs and qs[key]:
-                return qs[key][0]
-    except Exception:
-        pass
-    return link
-
-def _host(url: str) -> str:
-    try:
-        return urllib.parse.urlparse(url).netloc.lower()
+        return urlparse(url).netloc.replace("www.", "")
     except Exception:
         return ""
 
-def _nice_source(host: str) -> Tuple[str, str]:
-    """
-    Return (matched_key, pretty_name) if host is allowed; otherwise ("","")
-    """
-    for key, pretty in ALLOW_SOURCES.items():
-        if key in host:
-            return key, pretty
-    return "", ""
+def _as_epoch(dt):
+    try:
+        return int(dt.timestamp())
+    except Exception:
+        return None
 
-def _pick_time(entry) -> datetime:
-    # Try published, then updated; fall back to "now" so we never lose items
-    for attr in ("published_parsed", "updated_parsed"):
-        val = getattr(entry, attr, None)
-        if val:
+def _pick_published(entry):
+    """
+    Try to get a timezone-aware datetime from common feedparser fields.
+    """
+    # feedparser puts parsed date into .published_parsed or .updated_parsed (time.struct_time)
+    for k in ("published_parsed", "updated_parsed"):
+        if getattr(entry, k, None):
             try:
-                return datetime.fromtimestamp(time.mktime(val), tz=timezone.utc)
+                return datetime.fromtimestamp(time.mktime(getattr(entry, k)), tz=timezone.utc)
             except Exception:
                 pass
-    return datetime.now(tz=timezone.utc)
 
-def collect() -> Dict:
+    # fallbacks: try string fields
+    for k in ("published", "updated"):
+        if getattr(entry, k, None):
+            try:
+                return dtparser.parse(getattr(entry, k)).astimezone(timezone.utc)
+            except Exception:
+                pass
+
+    return None
+
+def _passes_keywords(entry, kws):
+    text = " ".join([
+        _norm(getattr(entry, "title", "")),
+        _norm(getattr(entry, "summary", "")),
+    ]).lower()
+    for kw in (kws or []):
+        if kw.lower() in text:
+            return True
+    # Small safety for ESPN/PFT articles that put team in tags
+    for tag in getattr(entry, "tags", []) or []:
+        if any(kw.lower() in _norm(getattr(tag, "term", "")).lower() for kw in (kws or [])):
+            return True
+    return False
+
+def _load_sources():
+    srcs = SOURCES.get(TEAM, [])
+    # ensure keyword list on non-team-specific
+    for s in srcs:
+        if not s.get("team_specific"):
+            s.setdefault("keywords", KEYWORDS_FALLBACK)
+    return srcs
+
+def collect():
+    gathered = []
     seen_links = set()
-    items: List[Dict] = []
-    src_counter: Dict[str, str] = {}  # key -> pretty
+    dropdown_sources = set()
 
-    for url in FEED_URLS:
-        parsed = feedparser.parse(url)
-        for e in parsed.entries:
-            raw_link = getattr(e, "link", "") or ""
-            final_link = _final_url_from_google_or_bing(raw_link)
-            host = _host(final_link)
+    for src in _load_sources():
+        title = src["title"]
+        url = src["url"]
+        try:
+            feed = feedparser.parse(url)
+        except Exception:
+            continue
 
-            # keep only allowed sources
-            key, pretty = _nice_source(host)
-            if not key:
+        for entry in getattr(feed, "entries", []) or []:
+            link = _norm(getattr(entry, "link", ""))
+            if not link or link in seen_links:
                 continue
 
-            if final_link in seen_links:
+            if not src.get("team_specific", False):
+                if not _passes_keywords(entry, src.get("keywords")):
+                    continue
+
+            pub_dt = _pick_published(entry)
+            item = {
+                "title": _norm(getattr(entry, "title", "")),
+                "link": link,
+                "source": title if src.get("team_specific", False) else f"{title}",
+                "domain": _domain(link),
+                "published": pub_dt.isoformat() if pub_dt else None,
+                "published_ts": _as_epoch(pub_dt) if pub_dt else None,
+            }
+
+            # Very light sanity check: must have a title and link
+            if not item["title"] or not item["link"]:
                 continue
-            seen_links.add(final_link)
 
-            title = (getattr(e, "title", "") or "").strip()
-            if not title:
-                continue
+            gathered.append(item)
+            seen_links.add(link)
+            dropdown_sources.add(item["source"])
 
-            published_dt = _pick_time(e)
-
-            items.append({
-                "title": title,
-                "link": final_link,
-                "source": pretty,
-                "published": _iso(published_dt),
-            })
-            src_counter[key] = pretty
-
-    # Sort newest first and trim
-    items.sort(key=lambda x: x["published"], reverse=True)
-    items = items[:MAX_ITEMS]
-
-    # Build sources dropdown list from what actually appears
-    sources = sorted({it["source"] for it in items})
-
-    # If, for some reason, filtering left us empty, fail “softly”:
-    # keep the page alive by including a single stub explaining no items.
-    if not items:
-        items = [{
-            "title": "No Eagles articles found from the allowed sources.",
-            "link": "https://www.philadelphiaeagles.com/",
-            "source": "System",
-            "published": _iso(datetime.now(tz=timezone.utc)),
-        }]
-        sources = ["System"]
+    # sort newest first by timestamp; unknown dates sink to bottom
+    gathered.sort(key=lambda x: (x["published_ts"] or 0), reverse=True)
+    if len(gathered) > MAX_ITEMS:
+        gathered = gathered[:MAX_ITEMS]
 
     out = {
-        "updated_at": _iso(datetime.now(tz=timezone.utc)),
-        "sources": sources,
-        "items": items,
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "items": gathered,
+        "sources": sorted(dropdown_sources),
     }
-    return out
 
-def main() -> int:
-    data = collect()
-    OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    # Console summary (visible in Actions logs)
-    print("---- items.json summary ----")
-    print("items:", len(data.get("items", [])))
-    print("sources:", ", ".join(data.get("sources", [])))
-    print("updated_at:", data.get("updated_at"))
-    return 0
+    with open("items.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    sys.exit(main())
+    collect()
