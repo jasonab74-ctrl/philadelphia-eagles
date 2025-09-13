@@ -1,14 +1,413 @@
 {
-  "updated_at": "2025-09-13T14:30:38.779301+00:00",
-  "sources": [
-    "Yahoo Sports — Eagles"
-  ],
+  "updated_at": "2025-09-13T14:32:00.894628+00:00",
   "items": [
     {
+      "title": "Hill: Focus is on football, not abuse allegations",
+      "link": "https://www.espn.com/nfl/story/_/id/46236244/dolphins-hill-says-focus-football-not-abuse-allegations",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "published": "2025-09-13T14:56:51+00:00",
+      "published_ts": 1757775411
+    },
+    {
+      "title": "Not found. Sign Up to RSS.app to use this feed.",
+      "link": "https://rss.app",
+      "source": "Eagles Wire (USA Today)",
+      "domain": "rss.app",
+      "published": "2025-09-13T14:31:58+00:00",
+      "published_ts": 1757773918
+    },
+    {
+      "title": "How to Watch and Listen | Week 2: Eagles vs. Chiefs - Kansas City Chiefs",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdGVldmk4cjlVNkVKM0pWWXZJWGpzQ1dGajB4T0lfU1o2aXg5OEF3SkNEOGpzN0k1YUFwN2VfRU9vWFFrejFDS1Exa3QyMy1TMTU0aHFvdDJ6YWlGQUJacnFVSkhDUjhUeVdFRkxLeUkwZVZVTmlCSjR1SC1MZVlXSg?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T14:22:23+00:00",
+      "published_ts": 1757773343
+    },
+    {
+      "title": "Jerry Jones saw Jalen Carter ejection as \"the man upstairs evening it up\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-saw-jalen-carter-ejection-as-the-man-upstairs-evening-it-up",
+      "source": "ProFootballTalk — Eagles",
+      "domain": "nbcsports.com",
+      "published": "2025-09-13T14:19:53+00:00",
+      "published_ts": 1757773193
+    },
+    {
+      "title": "Sirianni recruited Auriemma, Saban, Staley and more to teach the Eagles how to win, again",
+      "link": "https://www.espn.com/nfl/story/_/id/46224357/philadelphia-eagles-coach-nick-sirianni-post-super-bowl-win-geno-auriemma-nick-saban-dawn-staley",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "published": "2025-09-13T13:39:54+00:00",
+      "published_ts": 1757770794
+    },
+    {
+      "title": "Eagles Need To Be 'On The Same Page Through The Chaos' Of Arrowhead - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWxxSVBOQzJqRnpWZHp5TjZKdmdDVkszeDhvUHNtTWlwODBuVmdtQW90cThCU2dTUmljRlh5aWdILXpGcWlFY2oxR3lRRmhpRVh6bGxxTHAwTG84WFFfU1BGeXdxQmUxQ2kzcnBtWDJfbFI1ei0zOVpqR2F2LUw5WTBpTHVRc1ZXRjV4eEJ1dHI3a2o1VUhtazloQWlLREwzOHBaSVRCZU93ZlJQMEJVcUstTQ?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T13:20:00+00:00",
+      "published_ts": 1757769600
+    },
+    {
+      "title": "The 1 Thing the Chiefs Are Desperately Missing - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2pWTndYd1hsZThYZHl0VmVnbDVVN1A5Mmk0N0tELTB5UGNEdjVsQ0JoMXExTTZ2Y3R3R1daVlFxcGJvbXhiaHRsSjFYc011SllwX1NaMjlBSzNsSEJLQ294Q1g3ZE1YWTlyeFFVQ0E5a2hRT3NEVWUwdW1ETDg0b3VlRm52SEZDY2pjanNSak1ITGlSajFFTmVOVkg1Q0U?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T13:00:05+00:00",
+      "published_ts": 1757768405
+    },
+    {
+      "title": "Saquon Barkley Has Warning Message Before Eagles-Chiefs - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0hybDd3eWttUURrcXFiTFpKOXAyMEcyeUVTV3ViaEZ0TmZsMy1IVjQzN1pyVjhtV1lCVEozbUJTdGFxTjJkNm5RUFNuV1RXSWJ0VG0tMW9BVjFjQXF3OTd4d0F3QVFRT1BzWXBJRGFreXFtS1hCMmxELURWM0dhOXpEcFNXZ210aDI1OGxnTjFBTl9RVXRUTUdYMA?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T12:38:27+00:00",
+      "published_ts": 1757767107
+    },
+    {
+      "title": "This Unit Will Be Put to the Test Against Eagles - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORG10c2hWQnNfTW1KNEQ2TExPdEswZEFBRGU2WEFvdGxLT0taWGpLNGJneHZvTXdLLXBfMFltY05XVi1FTjZsYWdrNXE3Y0otLWU3b01vb3NTN1Etd1dNa0NqNV9YUDdSY1o2YS0wYjluS1JxSXIzSnd0ZDNfc182d0JnOVduQXU2OTRVUlFIbHFkV3dmdDNDZG52VXVINEhaSWs4?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T12:00:04+00:00",
+      "published_ts": 1757764804
+    },
+    {
+      "title": "'It makes me want to fight harder': Mahomes' physicality a galvanizing force for Chiefs - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUhrOXhGVmVGcEpBWGZUUXdkbVktWGZsR294bmt3a2E5dlMyZWZYTFBsT2VNcXhlLTU2MXNiNzdSMjVURTFLWGczSDBybmp2NHh4TFNLZlIyeUtYTEVCeVBBYTZLUy03Y0VfZmw4S2lEMDdtMFlNYjA0ZENMZjhscG1QdGUzdkdjZWtUNHB6eDN5bERpT3V0YUpDdk4zMjF2U2RsY2EwQTZSTWhaVUp6RVpWNlp1LVdUSDRCekgxZGs?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T11:58:54+00:00",
+      "published_ts": 1757764734
+    },
+    {
+      "title": "WWE Superstar Seth Rollins Drops Chiefs-Eagles Prediction - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYm94aURSZGQtdUhVTFktWXoxUjdwYTNkNDJhTkZ5MTdEbHBJNzhfeE9ITFlfODN5U3NON2p5RHFoZ2h1a2U1MkJyNFNMVTFvUWQwcS1wVElXNEtFcm81dWtfSnpmcmFaMEc0WmtwbmEtSlVfaHZReFBXR0VUd0JZOXpWcnJ4cUlHWUppLWhDUWZIV3EzU0JqaS1B?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T11:00:04+00:00",
+      "published_ts": 1757761204
+    },
+    {
+      "title": "Eagles vs. Chiefs Final Score Prediction for NFL Week 2 (Bet on Philly to Win?) - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmdWV09jMEl0VnhkMEtXUS1WdkJYRktsd0E1SlJDcUUtWm1VX3hsamlMNURGSmhjRlZwR2ZLSndlZmNDclpXeExSbnpXOHRnZmd4WDdZMVBPWXJKdUJPRmlEMGVjQkZmQV91MXdtOHhCbDhLc2pJaDJjb3VoSHJobDU2dWRMUUhCZFRaZDNGNExZbkxaOERKcnB5LXdiVHdiTWNRZA?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T11:00:01+00:00",
+      "published_ts": 1757761201
+    },
+    {
+      "title": "Eagles notebook: How the Eagles plan to replace their fullback - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSi1RSGgzelg4WFMzd0tkNjdhQ2pGY0NqdjNSOXI2VnA3cHc1UmlhYXQ5WkRIc0tFNWZVVlJZYVNVOEFCWkt5OEJseHprQUpZS1hwemJVc0VjcGMxc2Y2bUdEM05DUUxMNWxIZzg2QjNmSVM4YUlMWXZ2TW5kMmNkaUh1OFRBeVVzdDdrQ0p3U2h0NnVMZTVoZnc2aURtd3V3U0F2WllpbVJhNzhBRjh2THpMU05YNWdlZkZCYXVDMXNENS1LV0tGczdQdjk3UG90ajdyNFU3a1lwX3N3aERGcVI5ZkVTOTBpOHfSAfIBQVVfeXFMT1VoWmI2cHl6QzlhMjNVR2luWTlxUTNyZ0RPdGtLcHNrVk9kWkhkS3ZuNE1KOTlOQUZ3ZDdVaFZ2VDVKcTViWGs5ampPNWpwYXE2dkxaSW5kX1VjZTQxTjJkUGtNNERmckJ5bHZqRDFDeE9va3doV3ZHa29YallyZWlQYWxHY2F3N1J5TjBmOFZIWURMWnlwRFpKMGtFSUtOWXk5Smc5ZWhiYWF6Q01TUWVxalYwa25vam1ROGE1c2haYnVkc0NTWXBzZFFaQmstWG5VaDZ5TVUtRHlrQkJvREhWNUQ4RVVvLW5HcGhQdkNWT2c?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T11:00:00+00:00",
+      "published_ts": 1757761200
+    },
+    {
+      "title": "Eagles Q&A: Drew Mukuba's first job as a basketball referee - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEF6azBhQjJBSUhfUW4wRy1RMDkzbERvR2NTR1VJNWx3bW1Ba01jNlo4TmpuQlM5ZVNHTU1ZUHlsMF90emYzcG1ZSWZrcmdRR1U4djNfUXNUTFUwbEx2eFl6bTBWVk9BV2RTMWNBYVNfaW1LOTZYbTNxTGhqU2VfZ3VBNGlvaUlTODh5UlVyUnBrSUx1c3A5dTZkVzAtZjdubUtXUE53a0lPVnJDbHE0Skl6TDVDTjd4c1hxdUdCY1lfYS01M2fSAc4BQVVfeXFMTmxqYVFBZkVjSkdYa2JsT0VKUTFQOUhaUjlyTmVLV05JSUNqQ29IQUxDYld3emlTS2p6SThsUEJuMkNxODhOV1NVTFQtXzFoYm9haGY0d2xqbVM2VlFqbHlvU0RxczViYjg1R3FOTHRENElZS21ieGoya2FWdzl2dkdvRmtPNXRLaVBjUzFMOVRIOTBNZXI4ajduc2MxNTVtZ3lPWUduSnIwVk5IcHhIOUJ2WVp2LTUzc0t4Y3ZWUWtJNE9kTkV1Z2xVT2JUZ2c?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T11:00:00+00:00",
+      "published_ts": 1757761200
+    },
+    {
+      "title": "When do the Kansas City Chiefs play next? See game time, odds for game against the Eagles - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQXppNGljeHI0VFd4aDA3SHl1LWwwb25uQU85S2N4MlpEcTNjQmg5QkgyMWdsakwyU28xUUQzR2JjUXNxMVdpbTNhRHN4UzUzQ2owQWRNNkU1QmN1RDM1VTc3bWxjbE5mX0tYSkVfSFNrSW9QdFhoV2lWVWVxMzNkVGtn?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T10:41:48+00:00",
+      "published_ts": 1757760108
+    },
+    {
+      "title": "3 Biggest Storylines For Chiefs-Eagles Game - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGJ2V3Y2SDM3V29nbmRNZkg3UXVrcFM1ZmFxQVZrY0JMeEJvSE50OVJmS3lMMGhLaUtnWDVySHVNVzZaWFhzdE1LT18xZWhMRzFCRUVUUkp1cTBiQlRmOEdWd0pKY3BwbWxSc1hST21wdVVxWkx0Yy1FX0dFTXR0Nl9KcDRYZDZMc2V6UVVzQTNhVUxmdmZ2SQ?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T10:04:28+00:00",
+      "published_ts": 1757757868
+    },
+    {
+      "title": "Spadaro: 6 storylines to follow in Eagles vs. Chiefs - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQnlsS1NLdDVSZmtSX2JfLU4xSFo3Rk5rQm91a3BYSEdWYW5Mbzlod0VCSWJVUHZwQlJ1YlMwbXJnZF8ycXRmbzY0RUFjbUswZV9WUFNTeVUwZjJEUE5EVkdQMWJ2UW9YYjRNOXBwTDlWaFFWcUlQZjJVSUMxLTlna2V3UXhSbEF0d19EQmVQUDl5Qy1x?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T10:03:03+00:00",
+      "published_ts": 1757757783
+    },
+    {
+      "title": "Benched Eagles veteran responds to disappointing start to season: ‘It’s out of my control’ - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaU1VU2lhQmNRTGVDbGEybWxISUVIcEdrbW1qYXFfMkxDRG5uMjA3bzZLU3hLQjhpV2tqWWdzX3YwNl9YMVN4OXdnQWJ6VENfbHMxQmxDRmdBc01wMWpPQ0lTY3VyMVFzR3R1d1djRnc5R1BlWnRmRkZVZVJieFhfeW04UER0RlFwc2NjdG1iLTFaUE5NOE85emVqRXpmR3lFM3R3M2JreDZoQ2d2cWNNRHRTUzVrX1R0THVsV2QyeS1IX3PSAdcBQVVfeXFMTlNDNFFybzdtOGdUb0hhYlFnbGRyN3VvWGZ2dFhaRS16TWlHTm43cDhMQVlSU3E4WTdINGtHeGU4RTJhdkx5bWhOVjYxTDh4R2NjX2pXYW5ZcFpvSXlGZDlLajlmZ0ZHWDExRFY2OU9QSkJDNFJva0R6cDhpZ1hvaE1sdzhMUVR4Q2NJbUk0YXZCUDJES2Y5Vmc3aWNrNnMxeXFwVm04WHNaRGVGWlVkdnAwVGdnN1FxUFpuc3RCOWtfZ21sSFc1bG5nMm4yYVh2MGxZZ19iTXc?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T10:00:00+00:00",
+      "published_ts": 1757757600
+    },
+    {
+      "title": "Eagles vs. Chiefs 2025 Prediction, Odds, Picks - Sep 14 - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVB2WnZJZWlLOUZzRk5wN05kTzFXXzU1VUlFcUhCcHVnNWNXQ21BT0tHTFkwanU2TGdoZUtzQ3g2YWYwZnptcDFicEY2R2otTHNXcUhNRGZkM2JFeEFZai0yVmpZUUR3cDYwSnQyMmpDN19XcHBHbjZneWRjNHFVQXRubFlYLUh5RUVZeE1DQm9GOVk?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T08:43:06+00:00",
+      "published_ts": 1757752986
+    },
+    {
+      "title": "Five college prospects who could interest the Eagles in the 2026 NFL Draft - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX200SjlldGktVmNPV1J4S3Ria3kwaHlMNW5RX29qM1Uxb1BtdUtSNndTeWs1S0dhNk1LS2luOElISVJMQlFsUnhNSFBLVmNNM0JiY3llZ3JaeUE4OHUzdU1WWXVoZXpZNV93elNQdTZ2YXZ2YWttWHRTZ2hNXzVVNUJDOXEzWVVxS3NjWGFkZWtwUDhmN3h0RDk3WklBbEZ1blZ3dkdLb2d4Y05rM3NKUDAxX3hrZ0VIbW5lUVdsNWFKcVdpSEdzcTF0Y1RFeGFiejdr0gHYAUFVX3lxTE5qUFJoMnhVN2xCZEdBbW9MR0Y3d21RajJSYjl0QW1wR3I2UlZkUGNSWjZaWVFNWEsyWmNpOE1zUHBLckxfbVMzX18yY1BmWWJfdmo1aDZ4TGRqNU44NmdzMzByNi1OaTV1RHVObWFiemVWbzU1SGd2eEtjTzhtbmdjbHc1RHJUOFVnaDE0M3YzLWFxbTNpM1otbEVxT01RenZtWFh4Zy0zdVgxQTBYVV9NalBtU1JjYTAyellmQUJJMklZMFRLdU9nV1NtdGlZQjQ0bzNtaFZXWg?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T07:48:15+00:00",
+      "published_ts": 1757749695
+    },
+    {
+      "title": "The Chiefs’ 3 biggest questions about the Eagles in Week 2 - Arrowhead Pride",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzRFbmQ4aVo3VFJpSEhncC1Oc3FzQ3RVZDVMaWw0ejFTcFF5MUZ6dWZJdWdYVjZ6OUIyQXFYREtWZjlXMEROQUJiWENUdWRxQmdjY0pFWDhtUkF5S1ZwdkpmRk91dkwtc3VFVGo3dFQ1RUlDeDlDOUlYcGxUdXJYNUNfdWRGNF9USjFubklpS09VT0lQZmpubzhqcmsxbzlHUzF4SU01RVZhNXpUbG1rZWRB?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T07:13:11+00:00",
+      "published_ts": 1757747591
+    },
+    {
+      "title": "‘I will make you pay for it:' Saquon Barkley looks to return to form vs. Chiefs - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmcxMWJjTzlJOUVGLTIxaWttVDRfaERuQTJhc1JhcTJOLXEzZEZEcWFzby00eGJjU2dKNk9QMTlQS1Y1NjhkdEMxUE5CTGFuMndWV1JBOXNnbXpKcGFqSDZfUmxBNm5NajBsZEg2N3N2emRIeWVzaTd6WG1FT3E0Z3pua0NMdw?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T07:00:00+00:00",
+      "published_ts": 1757746800
+    },
+    {
+      "title": "Eagles notebook: How the Eagles plan to replace their fullback - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTdDdFFIN1J4d3RmNThjOF8zRjNIYVp2QzRMNzRiZFUwM2lVMS03bVlYdXlNUXl0alpJQ09QMl9UbWI4Z3VsSjJGVEtSQzNab0RQUjZzZ2w5QlNPVl8zUlptUS1vdS1TenpZQWN3NUZSWjdpWUxWZGt1QUtNUndQOU0zNGJ0bVgycTZF?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T07:00:00+00:00",
+      "published_ts": 1757746800
+    },
+    {
+      "title": "Eagles at Chiefs predictions for Week 2 of the NFL season - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWRXT2JHbDlMWXRqTzVPSDZBalJ4THYyTkFlRTRad01RX1NhWGpsZTRJcVA2Q01LbXl0WUQyd2NzRWh2X0liaHRiaG1zVTUyU2VHQWYwdEpHWE1XaC01eWR4dTlCY3hfNnpjTjRva0N3VFA4OGo4YlQ1c2diOFEyY2tqbkZDZDQ?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T07:00:00+00:00",
+      "published_ts": 1757746800
+    },
+    {
+      "title": "Eagles-Chiefs Week 2 injury report, with analysis - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkUyUm16TVBWbXZoNXNkeFNpTWdIcDVHZGNvM2ZLcjhMeFhRcnRlSkpaZnB2YTdfR05oOTNEM0NEOTNkUzVqOXhPNFliNTE5TTV5R3JPUDQ3dEt1d0NHb0poM0g4c1g5N0ZBV0N4OUFiSVZIZlZOZGxfY0ZGRl9idVRqbEhkbXE4R0JEcGVCT3pGSlRMd1RXTkFyazJta25PX2ZkWWd4WUd4eWVvbTJuenV4cXdaQdIBuwFBVV95cUxQWjBSSlpLZ3B5X0R2QzViSThTN1oyQks4WjNadVVRal83ZHFYMXR3X0k3Qk0zVGF2OExHLU8zM2c3Si1GcFhhQm0wWnVyVGN3VmIxMUxVRXFfc19TbUl4SzhfUnBUNF9OU2J5S1RzRV84bXRSV0lTRElvTzhPdk9QZGhxVm1tMTVMZTJDbVVENmQ2UVhGa0JPQ3ZTamNzZ01ZdDBHT3c2TnRzY2NQVWpFcFRqQ00tNy0tQVow?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T05:12:47+00:00",
+      "published_ts": 1757740367
+    },
+    {
+      "title": "What we're hearing: Potential panic in Miami, plus the latest on Giants and Jets QBs",
+      "link": "https://www.espn.com/nfl/story/_/id/46208962/nfl-week-2-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "published": "2025-09-13T04:19:21+00:00",
+      "published_ts": 1757737161
+    },
+    {
+      "title": "Chiefs OC Matt Nagy Sends Bold Message to Starter: ‘It’s Got to Stop’ - Heavy Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcE1nYkk3cGpOMmN6bWZuQ1pGWS10OThxWWtHYmkzZUlDUzBkZ20ycmExZGgyVUxDT25LcHZRYjR2VmFDTWlsOHdMTXlRZC1MVWNQVFBXMjVsNHJTa1Z5ZVE5WXRlMkZlSW16ODVVUGUzYU95QlRFdjhMWTFYblNaamdxVjJ5eGhuSkE?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-13T02:14:00+00:00",
+      "published_ts": 1757729640
+    },
+    {
+      "title": "Philadelphia Eagles at Kansas City Chiefs: predictions, betting tips and odds",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68c58060fa454cc79de550b57c661c5d&url=https%3a%2f%2fwww.racingpost.com%2fsport%2fnfl-tips%2fphiladelphia-eagles-at-kansas-city-chiefs-predictions-betting-tips-and-odds-ad9B12X4m5Df%2f&c=178650429989973663&mkt=en-us",
+      "source": "Bing News — Eagles",
+      "domain": "bing.com",
+      "published": "2025-09-13T02:11:00+00:00",
+      "published_ts": 1757729460
+    },
+    {
       "title": "Kansas City Chiefs expert answers 3 looming questions for Philadelphia Eagles fans ahead of highly anticipated Super Bowl rematch",
-      "link": "https://sports.yahoo.com/article/kansas-city-chiefs-expert-answers-172757394.html",
-      "source": "Yahoo Sports — Eagles",
-      "published": "2025-09-13T00:22:00+00:00"
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68c58060fa454cc79de550b57c661c5d&url=https%3a%2f%2fsports.yahoo.com%2farticle%2fkansas-city-chiefs-expert-answers-172757394.html&c=15802886749148684033&mkt=en-us",
+      "source": "Bing News — Eagles",
+      "domain": "bing.com",
+      "published": "2025-09-13T00:22:00+00:00",
+      "published_ts": 1757722920
+    },
+    {
+      "title": "Jadeveon Clowney Signs With The Philadelphia Eagles - TWSN Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeENmaUxsY1ZCQV90T21HZkxGZDR4SF9NQ1pVNVFjdVVKU1M2VXBjeVhsWUE2akNRWkpfUHg3M3o3bmVlZXotVlkxejhtLWV1cmRQX29FOTZwaW5DdUhIaDlQZUc4MjgzdmVORTJkWm04TExkUWNKQmpYWE5MMHprc3pB?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T23:38:00+00:00",
+      "published_ts": 1757720280
+    },
+    {
+      "title": "Kansas City Chiefs vs. Philadelphia Eagles: How to Watch 2025 Super Bowl Rematch Online - Billboard",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGg3QVNzM1NGelBrSmw4MGR3bWJjVVlGMjB1VjlJdzlId2ZXdW9IcThuTGtjTHFoQlg1R2locUROYUM4c1hWUTBaNTdwc1k1c2NIZ0dZQVNaaFBDbXlNcXZpWVd4aEs2aTlDUkhHNGZ4dlJPWm9ENVA2R255QkxyYlJSX04tVXRqaE9CczMtNmpicnFWcXJERE9xNEg5ZWJTQlhBcjdxdndGUk55RndGWEFtVnoyd2drUXN6czlR?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T23:05:34+00:00",
+      "published_ts": 1757718334
+    },
+    {
+      "title": "Eagles rule out TE Dallas Goedert for Super Bowl rematch versus Chiefs - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDZuaXJ5WXo1b09qTGU4UFVfLTNNZlZCLTJpYldqYWFyOF91ZzVHRW9pLXEtRVBscktmaWVmblVpSUdqaWFiSkFVTDIwelF5VW1QcEJhVzdTbjd1Y0VnbkFGRTlkdE9YUEtKWVptVzRoS0xpenAzYmtpZ1lXT0psY1FQREMyMHJtSFJNcDZ6eXBIdw?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T22:43:33+00:00",
+      "published_ts": 1757717013
+    },
+    {
+      "title": "Dallas Goedert Injury: Eagles Give Disappointing Update for TE Ahead of Super Bowl Rematch - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlUycF9iRXBpNWdsamJITTZFR3d0aEJJODR4RDdNUjJ5VlhMRUJDMXRmT2JHSGRyUGtNSU9FVVRESXpOelBzVFhsZVQ1TXJwbmpDUzZwOEhacDNTa0VqMVRGXzY1T0FkNzNOZmlZM3J1TC1neGtmcXVoN2lBMTJVei11Wm5FamJpZjJBbnk1SDJrVGxyX2dieFBpVUdVUHd6TThwZnpfcVM?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T21:33:10+00:00",
+      "published_ts": 1757712790
+    },
+    {
+      "title": "Fox Sports brings Super Bowl-level setup to Chiefs-Eagles. See inside - Kansas City Star",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yRTdoSUEtMTIyd29mOXRRZm1vaTg2WHhITlFtT2VLYWs2aDJSWVFIRVhvSlc1ZzNPNWpFSnplRW9xQ3pKSmdDN0VXQVdQY1NtOEFUeUFZUGhyYTJ1QW1XaElCVDNMNlJtd1E40gFrQVVfeXFMT3p6dVlZZlBJdmV1MmI2dnlZZG9XYjhZTExVcWdKZVZQWlM1aXFMQ1BBdHRNT2xwdWF6Rm5PTDlqYmxzSE9sV1N6MExIcEliUXB1ZWR2Y1Z5Qi1lUkR2bi1Ya1Nma2ZudU5GTm8?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T21:29:06+00:00",
+      "published_ts": 1757712546
+    },
+    {
+      "title": "Tyreek Hill: My focus is on football, not outside noise",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-my-focus-is-on-football-not-outside-noise",
+      "source": "ProFootballTalk — Eagles",
+      "domain": "nbcsports.com",
+      "published": "2025-09-12T21:11:42+00:00",
+      "published_ts": 1757711502
+    },
+    {
+      "title": "Eagles' biggest flaw entering Week 2 Chiefs showdown is painfully obvious - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5Fb193NUVheVdPcFFWcTZ0RFVRU3ZPRDBoOHVZaE1sSnFfaDZpVlZpZWdHUTg2Z2FucTk0X0hTSDhXaHpUeFRuS0NQakoxQ3g0cm5MR2QzTVRqRHc0WWNnODFZVlZhVUVGVGFvTHh2TW1OZkotOHpMcXB6Q3ZEWkVtdVEySFJyVnZTRzE1ZjV0NXFQY0JuZXNGQ21VTGNwRWc?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T21:00:03+00:00",
+      "published_ts": 1757710803
+    },
+    {
+      "title": "Eagles lose key offensive weapon for Super Bowl rematch vs. Chiefs - Yardbarker",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1c0dHB4RXNDS3ltTGRrbzFhZi1CQ0JPRFZVZFJMVXFMWGl6bFdyZTJOZUU3VlFDWmRxcWtxYVUxcWx1Z0RCendNM3RwczJGdUVnd1gxdWxSS0ZvNFRvQV81amgxbW83dldnaElRVkd1aU1DU2d0a3h2UVM3Wmo3OEVRUXdRSnBkSHRxckZoOUNlTU5pMExXMnoxMTNwaFA4YVpVa0NNbThEMmFlUFpVc09JbmNJLU5OZG1aa0phbnE?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T20:24:29+00:00",
+      "published_ts": 1757708669
+    },
+    {
+      "title": "Where to watch Eagles vs. Chiefs: TV channel, live stream, pick, odds, spread, prediction - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHppakpzRzBuX21CeHRGTXBQeFRtVVFrM3dRZnNGQnpQeHlFLVJ5OVgzWGF6MG9Hck1ES05sRjloRW1sbWJvMlZJNHYzQTlIUGxBRnVnRmhKZXRsZ3B4WU05RjJqWlRZdlVjSS11NEpmM19fUmpqZlU4SFl3X3hvUUpTb1hOYXdIS1hzUDl4MFVRNTZ5d0oycnEwQy1KWkMzMEZocUgxNk9lY3VzTmI5eDlnN1pwSG1Da1E?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T20:20:00+00:00",
+      "published_ts": 1757708400
+    },
+    {
+      "title": "Eagles vs. Chiefs Injury Report - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2JzcFpFejJlVFI3OVdQRmFkVC1iT1FZMmlHTC1wdy1HSmI4NnAxUU1vSGpHQld3UEM1emxPSExRbE12UjUwa2RPenhQODhXa3ZuZG9hTVZHa3BYWnJvMzlGQUJFbUk3ZFNPODc1Smg5eXdhX3FEcjNhanZnNjBYellqcEZ0OHAyY1E?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T20:15:00+00:00",
+      "published_ts": 1757708100
+    },
+    {
+      "title": "Eagles suffer major blow after star gets ruled out for Chiefs game - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW1rWjl1SENzUkQ0aHByLWxoM3FFNGpOSV9nLUtRTkQ0bV9qbjI4VHpTS09xZWdhaEFMMEtKcy1ZX1FCck5jUVkydS1kUlF6WUNnNWZCM1BUcUtzQmwtaENCcWxiY0xZdmhmYnlFMVFGZnA1ZTN2UlZIWGVBTXpVMDlqYmNNRDE2VUVxTEtJdWs1ZG9CNkwzZ3BwYXlNRkxDZzI3MC1PX2nSAbwBQVVfeXFMTzNuVVRfOVozeWIyc0oyOEROQVBhdWlScHJKYkhObFVSVjhUcmxZWGpTVHdpOWVUVG00WDBKdHZrQzVSTW5rZ0hHXzBNdWVVS1duLURXWDVjMko2SkN6dUFGWDF4cWZxLUxzMWh0S0xnbjhkcVR4V0lJQ05yWVdvN0xYUWFZMElmVXloUjYzeXM4a1VteDdSSkZCWU5mcVgzVl9rZjliSFZSaXM0Y3ZpZVpGeG8xbEhMYjBZejg?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T20:10:00+00:00",
+      "published_ts": 1757707800
+    },
+    {
+      "title": "Jaylen Waddle off injury report, set to play vs. Patriots",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylen-waddle-off-injury-report-set-to-play-vs-patriots",
+      "source": "ProFootballTalk — Eagles",
+      "domain": "nbcsports.com",
+      "published": "2025-09-12T20:06:29+00:00",
+      "published_ts": 1757707589
+    },
+    {
+      "title": "Vegas gives Chiefs bulletin board material they didn't need for Super Bowl LIX rematch - Arrowhead Addict",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHl0THh3X0pMWHM5bEFYQzZvbGpOUWVqdy1VUlhMQ04zYkdMSUlGTWxTZWp5bVlwd3NUWHZXTXBaVUgzMG1ZQkFxc09iWEhYbHlaQ3FRNEo3dU4xU2dpSUUxWENCR3dYREZZbWY0VTZ6RUV6bXdTYk5saGNNak9iVGNOZVQtdGYwRXhNRHpTdlJtQzEzVDNUbUMtVlpWZFMxSDIzQXdyLVNBdUVHM0xEaktCNkRzc0V1NWc1eDU2R3E2dVg1R2c?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T20:00:00+00:00",
+      "published_ts": 1757707200
+    },
+    {
+      "title": "Dallas Goedert out for Eagles, Tanner McKee is questionable - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmRseEphc1JlaldsSzRKbVZzVlZGZS1MbHFMTkkwWjdjQnQtNnBnQlQ2STZ0MWhPV2JLVFNTZ2pJNnlKN3ZVYTZ4cHZ3dFdwUmg5akZwQ0NPdHJRMTBjbDRhUXVnNEVuSldxbUdleExFSzl0WVBJY3Q5WXNLUERQTGI4SXFzVnZOblZWSTJ5MW5LaDZRVk9jZG5tOEJfMk0xZlBWTjdJU0syQ05PVlhGQWdwU3VFYmRTX0F2Mg?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T19:58:12+00:00",
+      "published_ts": 1757707092
+    },
+    {
+      "title": "Dallas Goedert out for Eagles, Tanner McKee is questionable",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-out-for-eagles-tanner-mckee-is-questionable",
+      "source": "ProFootballTalk — Eagles",
+      "domain": "nbcsports.com",
+      "published": "2025-09-12T19:56:05+00:00",
+      "published_ts": 1757706965
+    },
+    {
+      "title": "Eagles vs. Chiefs: How to watch pregame, postgame coverage of Super Bowl rematch - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0hVOXFlWkM3eVVQVTBIaThJazVRZ0FqTkVyNGs5YmlHQ0ViUjNmZEFjak9fcmVyeTJDcmVYLUQ2d2ZDcW1tV2FtaVJFRTFCM0ZubzZZSy1XLWFRLVRzMHUyVm5HaFhOWWxNWGZlTmw0MV9JelNmcFA4bFJUNUdkZjEtdk14dlYwZFRFd21VQ2VYUFFVT2NnZVhJTldSZDFVYU1jOXpsYU13cWRnWUZpVUc3b2dITXdmOF9jR3U1R3ItWURPM0s40gHyAUFVX3lxTE9uREFud3Y5eTdBXy14V1pDaHZ5dGdWcldHZjRRWm1rV01xUnZZTS1tTUZZNnVCNXkxTjU0YjVZRFJIWk5xTDlPMXBULVNDX2dhY05EdVg3aWd1TV9TUzY4ejdCMEVEdEdsUVFwdmdIRlo5cFBLZDc3akxubjFLRDZKMmVHM2RxT3JHRE51Z3hiVjZTY05iYmtaWWdkZW5YVHVnX1JiUWhaTzljMElxRGRkRUxRa00wVldSN1RMTUZoMDhnTE8xXy1teXJOVXBaNHNmSlRNQ3hMMzR4ZkFZRUljMDdXRjhNQ3JaM09sSG1UcWRn?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T19:54:34+00:00",
+      "published_ts": 1757706874
+    },
+    {
+      "title": "Jerry Jones says Eagles’ Jalen Carter ejection ‘evened up’ Micah Parsons-less Cowboys - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0huZzhUMlBGcVJjRWpGaEg2YVUyZFcyb2ZpS2FPUy1CVlNSTUtfX0FOZ0N2NzBzVjZycnAzQ2R6TWZNVWVvNllIRHlKeFl1Nm0xMDRjQlFBUnNVdXlUUXh6WmpwN1hFWWs0YTlXVXZGUS0ycTBIMGV5ZFJWMjVFU3ZQYkJQenZ1eEdvWG9Sa0E1bEJHdDEtcw?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T19:54:26+00:00",
+      "published_ts": 1757706866
+    },
+    {
+      "title": "Eagles-Chiefs Final Injury Report: Dallas Goedert among players ruled out",
+      "link": "https://www.bleedinggreennation.com/news/158311/eagles-chiefs-final-injury-report-dallas-goedert-among-players-ruled-out",
+      "source": "Bleeding Green Nation",
+      "domain": "bleedinggreennation.com",
+      "published": "2025-09-12T19:54:12+00:00",
+      "published_ts": 1757706852
+    },
+    {
+      "title": "Eagles-Chiefs Final Injury Report: Dallas Goedert among players ruled out - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUU3bk9wck9YU0FZcEFPMFlUWGRxVEVwUGtqamdva2ZmZ1V4NXFXdFpLS0R0WjVrcmJVN1ZZWWQyeDM4NS1zZGtENDlINXZPeEdkc2Vad1N1S2NYdWRSNzdjZDRyWDRSX2wwejZ1RE1FdFBPbHJ0eTNrVEJsUEUtZUE3cUJHclBXMmRxOWJROWJ1MHFZXzItNVE5Tmh4cVRRNEZYRm5mdEYzSThoUlZiV3Q0Sld3a0pVMjRYcg?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T19:54:12+00:00",
+      "published_ts": 1757706852
+    },
+    {
+      "title": "Kansas City Chiefs vs Philadelphia Eagles Preview, Predictions, and Betting Odds - NFL 2025-26 Season Week 2 - The Playoffs",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1VWQjY2Z2NUZU9Oc2RzLUZlRGRBenVxTERHY3VWaFlickVSMFlRT2xaMW9hOGxCOTVnUG5uOE82SXE4QW96czltZEdwNVFNa0VxWVUzWWRPY2VtbmpIVnNmVi1GN2hfWExEM2RzQ1NMWVBhRWF5U21aXzBoaE9kempUNlpLVmszNkYwdGpYQ3UzNmVCelJTY0V6Wm91WVR1bnBHVThVNWNwWkhjNHhJ?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T19:54:00+00:00",
+      "published_ts": 1757706840
+    },
+    {
+      "title": "Saquon Barkley Succinctly Explains Eagles’ Offensive Philosophy for 2025 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFE1U2JVX0JsWUh6R2NjWUdPWkFXRENLYTdwQWNGWm94UTE4WmgzZE01UUduQzkyUVJsQXhnTEZ6bThSQVVxVW1CTjZDWU90ZDEyYVpHTmo3R2IxNTBLY2pXSFd3SmVIN0pHVlNwaGU2UVJudkNBUE16amtMYVBxMGxGdnJneVFLLXRhZVJ6X0VfMDRM?oc=5",
+      "source": "Google News — Eagles",
+      "domain": "news.google.com",
+      "published": "2025-09-12T19:19:06+00:00",
+      "published_ts": 1757704746
     }
+  ],
+  "sources": [
+    "Bing News — Eagles",
+    "Bleeding Green Nation",
+    "ESPN",
+    "Eagles Wire (USA Today)",
+    "Google News — Eagles",
+    "ProFootballTalk — Eagles"
   ]
 }
