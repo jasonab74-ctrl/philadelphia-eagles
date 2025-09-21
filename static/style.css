@@ -1,115 +1,24 @@
-/* ---- General Reset ---- */
-body {
-  margin: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background: #003b4d; /* deep teal Eagles color */
-  color: #ffffff;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* ---- Header ---- */
-header {
-  display: flex;
-  align-items: center;
-  padding: 10px 15px;
-  background: #004c5c; /* slightly lighter teal */
-}
-
-header img {
-  height: 40px;
-  margin-right: 12px;
-}
-
-header h1 {
-  font-size: 1.3rem;
-  margin: 0;
-  font-weight: bold;
-}
-
-/* ---- Fight Song Button ---- */
-.fight-button {
-  margin-left: auto;
-  background: #008eaa;
-  color: white;
-  font-weight: bold;
-  border: none;
-  border-radius: 50px;
-  padding: 6px 16px;
-  cursor: pointer;
-  transition: background 0.3s ease;
-}
-.fight-button:hover {
-  background: #00bcd4;
-}
-
-/* ---- Static Nav Buttons ---- */
-.nav-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 12px;
-}
-
-.nav-links a {
-  display: inline-block;
-  margin: 6px;
-  padding: 6px 12px;         /* smaller padding for smaller bubbles */
-  font-size: 0.85rem;        /* shrink font size */
-  background: #cfe9eb;
-  color: #003b4d;
-  border-radius: 25px;
-  font-weight: 600;
-  text-decoration: none;
-  flex: 0 0 calc(50% - 16px); /* two per row */
-  text-align: center;
-}
-
-.nav-links a:hover {
-  background: #b2d8db;
-}
-
-/* ---- Dropdown + Updated Timestamp ---- */
-.controls {
-  display: flex;
-  justify-content: space-between;
-  padding: 10px 15px;
-  font-size: 0.9rem;
-}
-
-select {
-  border-radius: 10px;
-  padding: 4px 8px;
-  border: none;
-  font-size: 0.9rem;
-}
-
-/* ---- Article Cards ---- */
-.article {
-  background: #f9f9f9;
-  color: #222;
-  margin: 10px 15px;
-  padding: 14px;
-  border-radius: 12px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
-
-.article h2 {
-  font-size: 1rem;
-  margin: 0 0 6px;
-}
-
-.article h2 a {
-  text-decoration: none;
-  color: #003b4d;
-  font-weight: bold;
-}
-
-.article h2 a:hover {
-  text-decoration: underline;
-}
-
-.article .meta {
-  font-size: 0.8rem;
-  color: #555;
-}
+:root{ --midnight-green:#004C54; --silver:#A5ACAF; --white:#fff; --link:#00a160; --bg:#042f34; }
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--white);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Inter,Roboto,Helvetica,Arial,sans-serif}
+a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
+.hero{display:flex;align-items:center;justify-content:space-between;padding:18px 16px;background:linear-gradient(180deg,var(--midnight-green),#043a40);border-bottom:1px solid rgba(255,255,255,.08);position:sticky;top:0;z-index:5}
+.hero__left{display:flex;gap:12px;align-items:center}
+.logo{width:56px;height:56px;object-fit:contain;filter:drop-shadow(0 2px 4px rgba(0,0,0,.35))}
+h1{margin:0;font-size:28px}.brk{display:none}.sub{margin:6px 0 0;color:#cfe6e0;font-size:14px}
+.hero__right .fight{background:var(--silver);color:#112}
+.pills{display:flex;flex-wrap:wrap;gap:8px;padding:12px 12px 0}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:8px 12px;border-radius:999px;background:#0f525a;color:#e9fffb;border:1px solid rgba(255,255,255,.08);font-weight:600;font-size:14px}
+.pill.small{padding:6px 10px;font-size:12px}
+.controls{display:flex;align-items:center;justify-content:space-between;padding:12px}
+.select-wrap{display:flex;align-items:center;gap:8px}
+select{appearance:none;padding:8px 12px;border-radius:10px;border:1px solid #0e444a;background:#0b3c41;color:#var(--white)}
+.updated{color:#bfe0dc;font-size:13px}
+.banner{background:#006d75;color:#fff;padding:10px 12px;display:flex;gap:10px;align-items:center;justify-content:center}
+.hidden{display:none}
+.feed{display:grid;gap:10px;padding:12px}
+.card{background:#09363b;border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:12px}
+.card .title{display:block;font-weight:700;font-size:16px;color:#d2fff7}
+.card .meta{margin-top:6px;color:#a6d2cd;font-size:13px;display:flex;gap:6px;align-items:center}
+.fight{cursor:pointer;border:0;padding:10px 12px;border-radius:999px;font-weight:800}
+@media(max-width:560px){.brk{display:inline}h1{font-size:22px}.logo{width:48px;height:48px}}
