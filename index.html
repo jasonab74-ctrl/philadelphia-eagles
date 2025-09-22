@@ -20,7 +20,9 @@
     </div>
     <div class="hero__right">
       <button id="fightBtn" class="fight pill">▶ Fly Eagles Fly</button>
-      <audio id="fightAudio"><source src="static/fight-song.mp3" type="audio/mpeg"></audio>
+      <audio id="fightAudio">
+        <source src="static/fight-song.mp3" type="audio/mpeg">
+      </audio>
     </div>
   </header>
 
@@ -41,18 +43,94 @@
   <main id="feed" class="feed"></main>
 
   <script>
-  const staticLinks=[["Schedule","https://www.philadelphiaeagles.com/schedule/"],["Roster","https://www.philadelphiaeagles.com/team/players-roster/"],["Depth Chart","https://www.ourlads.com/nfldepthcharts/depthchart/PHI"],["Injury Report","https://www.philadelphiaeagles.com/team/injury-report/"],["Fan Zone","https://www.philadelphiaeagles.com/fans/"],["Team Shop","https://store.philadelphiaeagles.com/"],["Tickets","https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805999"],["Reddit","https://www.reddit.com/r/eagles/"],["ESPN Team","https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles"],["Yahoo Team","https://sports.yahoo.com/nfl/teams/philadelphia/"],["PFF Team Page","https://www.pff.com/nfl/teams/philadelphia-eagles"],["Pro-Football-Reference","https://www.pro-football-reference.com/teams/phi/"],["NFL Power Rankings","https://www.nfl.com/news/power-rankings"],["Stats","https://www.nfl.com/teams/philadelphia-eagles/stats"],["Standings","https://www.nfl.com/standings/league/2025/REG"]];
-  const quick=document.getElementById('quick'); staticLinks.forEach(([l,u])=>{const a=document.createElement('a');a.className='pill';a.href=u;a.target='_blank';a.rel='noopener';a.textContent=l;quick.appendChild(a);});
+  const staticLinks=[
+    ["Schedule","https://www.philadelphiaeagles.com/schedule/"],
+    ["Roster","https://www.philadelphiaeagles.com/team/players-roster/"],
+    ["Depth Chart","https://www.ourlads.com/nfldepthcharts/depthchart/PHI"],
+    ["Injury Report","https://www.philadelphiaeagles.com/team/injury-report/"],
+    ["Fan Zone","https://www.philadelphiaeagles.com/fans/"],
+    ["Team Shop","https://store.philadelphiaeagles.com/"],
+    ["Tickets","https://www.ticketmaster.com/philadelphia-eagles-tickets/artist/805999"],
+    ["Reddit","https://www.reddit.com/r/eagles/"],
+    ["ESPN Team","https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles"],
+    ["Yahoo Team","https://sports.yahoo.com/nfl/teams/philadelphia/"],
+    ["PFF Team Page","https://www.pff.com/nfl/teams/philadelphia-eagles"],
+    ["Pro-Football-Reference","https://www.pro-football-reference.com/teams/phi/"],
+    ["NFL Power Rankings","https://www.nfl.com/news/power-rankings"],
+    ["Stats","https://www.nfl.com/teams/philadelphia-eagles/stats"],
+    ["Standings","https://www.nfl.com/standings/league/2025/REG"]
+  ];
+  const quick=document.getElementById('quick');
+  staticLinks.forEach(([l,u])=>{
+    const a=document.createElement('a');
+    a.className='pill'; a.href=u; a.target='_blank'; a.rel='noopener'; a.textContent=l;
+    quick.appendChild(a);
+  });
 
   function fmt(x){return new Date(x).toLocaleString();}
   function fromUnix(s){return new Date(parseInt(s,10)*1000).toLocaleString();}
 
-  const feedEl=document.getElementById('feed'); const sel=document.getElementById('sourceSel'); let cache={items:[],sources:[],updated_at:null};
+  const feedEl=document.getElementById('feed');
+  const sel=document.getElementById('sourceSel');
+  let cache={items:[],sources:[],updated_at:null};
 
-  function render(){feedEl.innerHTML='';const f=sel.value;for(const it of cache.items){if(f&&it.source!==f)continue;const art=document.createElement('article');art.className='card';art.innerHTML=`<a class="title" href="${it.link}" target="_blank">${it.title}</a><div class="meta"><span class="src">${it.source}</span><span>•</span><time>${fromUnix(it.published)}</time></div>`;feedEl.appendChild(art);}}
-  async function load(){const r=await fetch('items.json',{cache:'no-store'});if(!r.ok)return;const js=await r.json();const had=cache.items.length;cache=js;document.getElementById('updatedAt').textContent=fmt(js.updated_at);sel.innerHTML='<option value=\"\">All sources</option>';for(const s of js.sources){const o=document.createElement('option');o.value=s;o.textContent=s;sel.appendChild(o);}render();if(had&&js.items.length>had){document.getElementById('banner').classList.remove('hidden');}}
-  sel.addEventListener('change', render); document.getElementById('reloadBtn').addEventListener('click', ()=>location.reload()); document.getElementById('fightBtn').addEventListener('click', ()=>{const a=document.getElementById('fightAudio'); a.currentTime=0; a.play();});
-  load(); setInterval(load, 5*60*1000);
+  function render(){
+    feedEl.innerHTML='';
+    const f=sel.value;
+    for(const it of cache.items){
+      if(f && it.source!==f) continue;
+      const art=document.createElement('article');
+      art.className='card';
+      art.innerHTML=`<a class="title" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+                     <div class="meta"><span class="src">${it.source}</span><span>•</span>
+                     <time>${fromUnix(it.published)}</time></div>`;
+      feedEl.appendChild(art);
+    }
+  }
+
+  async function load(){
+    const r=await fetch('items.json',{cache:'no-store'});
+    if(!r.ok) return;
+    const js=await r.json();
+    const had=cache.items.length;
+    cache=js;
+    document.getElementById('updatedAt').textContent=fmt(js.updated_at);
+    sel.innerHTML='<option value=\"\">All sources</option>';
+    for(const s of js.sources){
+      const o=document.createElement('option');
+      o.value=s; o.textContent=s; sel.appendChild(o);
+    }
+    render();
+    if(had && js.items.length>had){
+      document.getElementById('banner').classList.remove('hidden');
+    }
+  }
+
+  sel.addEventListener('change', render);
+  document.getElementById('reloadBtn').addEventListener('click', ()=>location.reload());
+
+  // Fight song toggle play/pause
+  const fightBtn = document.getElementById('fightBtn');
+  const fightAudio = document.getElementById('fightAudio');
+
+  fightBtn.addEventListener('click', () => {
+    if (fightAudio.paused) {
+      fightAudio.play();
+      fightBtn.textContent = "⏸ Pause Song";
+    } else {
+      fightAudio.pause();
+      fightAudio.currentTime = 0;
+      fightBtn.textContent = "▶ Fly Eagles Fly";
+    }
+  });
+
+  // Reset button label when song ends
+  fightAudio.addEventListener('ended', () => {
+    fightBtn.textContent = "▶ Fly Eagles Fly";
+  });
+
+  load();
+  setInterval(load, 5*60*1000);
   </script>
 </body>
 </html>
