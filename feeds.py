@@ -19,7 +19,7 @@ STATIC_LINKS = [
     ("Yahoo Team","https://sports.yahoo.com/nfl/teams/philadelphia/"),
     ("PFF Team Page","https://www.pff.com/nfl/teams/philadelphia-eagles"),
     ("Pro-Football-Reference","https://www.pro-football-reference.com/teams/phi/"),
-    ("NFL Power Rankings","https://www.nfl.com/news/power-rankings"),
+    ("NFL Power Rankings","https://www.nfl.com/news/nfl-power-rankings"),
     ("Stats","https://www.nfl.com/teams/philadelphia-eagles/stats"),
     ("Standings","https://www.nfl.com/standings/league/2025/REG"),
 ]
