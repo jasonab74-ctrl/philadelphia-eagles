@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-23T14:44:05.423583+00:00",
+  "updated_at": "2025-09-23T15:22:22.550744+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Eagles rookie report card from the Rams game",
-      "link": "https://www.bleedinggreennation.com/general/159335/eagles-rookie-report-card-from-the-rams-game",
-      "source": "Bleeding Green Nation",
-      "published": 1758637955
-    },
     {
       "title": "Eagles change travel plans due to the extreme heat expected in Tampa",
       "link": "https://www.bleedinggreennation.com/news/159325/eagles-change-travel-plans-due-to-the-extreme-heat-expected-in-tampa",
@@ -115,6 +109,18 @@
       "published": 1758512915
     },
     {
+      "title": "Jalen Hurts and A.J. Brown say the Eagles need to stop playing so conservative",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/159210/eagles-offense-jalen-hurts-aj-brown-comments-conservative-aggressive-playcalling-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1758509904
+    },
+    {
+      "title": "Eagles fans thrilled after comeback win - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgwUm1xMzYyRDduMEt3bFQtTkFCM0Q0bU55UEVaYUtJWUt2N0h3eUo4YWREbXN6UHltdXNhWldJejR3NHhYcHBoa2phXzNBaU9xbXg1eE5IYzA4YlRJU0pWdFdIS29TMUQtY3MyOS1xMkRSalN6bG5BeHBqcHRQdUVfR1d0Vng5dXowT3JlZFLSAZYBQVVfeXFMT0xjakVGem03bXI1OWY1M3Fydi1hTFB0aDNtczJXd0FySWxfQ2V2bDFIT0o3elp3VlprRGVuRFJVekVxYXQ0ZFc2dmF3NVEzbzY5OUFrU0RzUWJsSDk2YWlMWUxiMEFYQ1Y0YTFER0lYNFNFcTUyZnN2a3Vzd2JRcnI4bFMyTlVBTmJQekZPenlMTnFEdWJB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758507975
+    },
+    {
       "title": "Davis' block, TD preserve Eagles' win at buzzer - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlZHeUNHNHYwdzl3Vkpxc3BUTC03Q214MVZvYVBMQ0FrdzcwLWpRNHJhU2ZQZk9mT05zT2NzS1RXbEJYYzU0SWVOTl9VdnVmQkVaOWwwQXVNNFF0d1Fyc0dHTm1oNGQ5VUFCS0hEeWlYdF9kX1pGRlJha2dPaExnNWtUeFRJU1EwbzJrNEhlRTNVaTVhN3BqQQ?oc=5",
       "source": "Google News — Eagles",
@@ -211,10 +217,22 @@
       "published": 1758489750
     },
     {
+      "title": "Los Angeles Rams vs. Philadelphia Eagles: Listen to the Live Radio Broadcast – NFL Week 3 - SiriusXM",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uYWdnNjkxV0REMjF2SWNvTnJhaFZINVVsR01CUy1kN29od3phWmlNVEVkTTRBWjlxbnZwa0l0R2dETWE1WDE5X2hxVVBiMjZDLUt6UzdDSzQteTB4UWNJ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758489352
+    },
+    {
       "title": "2025 NFL Bad Beats: Eagles Miraculously Cover with Expired-Time TD - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFhvZkdZNmhxVXFLMG5DazExd2JxTjBwa09leDJOZ1VXY1hyd29Ud3htU2U5VkVUc0tIY2UtbGhyaVQ3ZWRQdkR2bzBMOTJ1eUtiWVZjamYzRlY1bW0zRkpqQ0Zvd3hOT1JScTIxckR0LTFrQ1lZUnRaYlM0alJaMzlhU2tabUh4TGJDZldNUHA1NFIwNUoyd0Jyd0xnQjDSAZ8BQVVfeXFMT2Z0UENnQ19wZF9TQVV1N3QxR0RkbkVUUkdHcXdTY0FQdS1DT3BMOUhsY2V0NDRJTWxRdENqb19pR1ROTkx6NlpsRnZpdE9XV0NzRDl2X3k3RHFOSmswemJoTVllcS1tTk40dDh4eWY0c1NoZTBEWkFYZjUtOUF0akU2MUYtVnNQcHo4N2YxX3lhNkJzWWRpVnNuM0dhMnRr?oc=5",
       "source": "Google News — Eagles",
       "published": 1758488483
+    },
+    {
+      "title": "Roob's Instant Observations after Eagles' biggest comeback ever at the Linc - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEE1Q2h4QUJBdE9RQUk4cHdvODA0Yy15Z1ZqejRVRGx1enZ2MVdRS1ZoYnhycmtRR1RITVJiTmNRWVNna2EybHc4WnVCczFDcUFnZmtnVzhQMEhhc21URFluUDB3RkhoN0FpbDZJWV9vXzNRY3Axay1fT0l3MlVFcWx3ZEd0S1R0N0cydmVabjRPeElfYTczV2tTSDN2bk1WZnFoNl83cEhFTE9CQnFfcmp0eDVNTmRocUJtdk5SWEJLcnZ6eTBCYWx4R1lncW_SAdcBQVVfeXFMTUdyOWhXd2FmOHRud1MzakU1alE3MHpZOFZkX2pGRHhEOVVLV0RzZll6VUM1UGVZUEF5RWFkbUVKWmtmR0ZGYmdDb0Y4bWk1VVpjRENrZTBVcldseEEwV2toLUJnYjREMlRobWo5RjFsMWY0b1hMaFluWkpaZlV0V2laczFzVmlQeFZjX2s5V1c3VlRGdllMM2wtY0pnV0RNSHFDLS1JX3AtcWpkdEJzb2xPTmVWMkxfd0hfbGZqTWk0MkhSN2pqcWhSUUltSmlBUmFlYlk5d28?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758486652
     },
     {
       "title": "Eagles Appear to False Start Again on Tush Push Before Jalen Hurts Touchdown - FOX Sports",
@@ -301,12 +319,6 @@
       "published": 1758314903
     },
     {
-      "title": "Nick Sirianni Press Conference: September 19, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnpOMEl1X3hpTnRCQmRJcWhodnA2MFBPdzFtVm1vQXNpM3FQVmpsbXY1aEMxSVRFeEZIeDBYNjNuNVZ6R3ZHSzlTM1BlRDNGLVh4NUZyUjNjQTYwREpDWV9qT3ZRb3JoQnVwakx3YUFLaXVYNEJjMHZkamRGOWhCaVF0OWxoNFIwZHdEWDNvQVR4dVE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758299253
-    },
-    {
       "title": "Eagles vs. Rams: How to watch pregame, postgame coverage on NBC10 - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1B6dUtNbjBXb2ZzRVZqTS1Da0dzai1oSjZ4d3NLSlhJMDNWUVhZNTJ1bHRqS2xvWkxMa01CTXVyTzVqczc3RkIzTkRYY051UTJTV1Y2MUNyZ191WlI1UVd1bWlXN0U3T0ppNlgxTHBTZmh2ODVGS0paV1BtN2wyS25oSEJnNlUySkhnUnVnNEJGa2tyWVNvLXBZczlQeEktWV8xWDl6ZUhhazY1Z0JRa2x2MGpuaTJ2bnZ0TE5GcHMwLUFNcjlfM3pRZGZSVFFpbHlidFlR0gHeAUFVX3lxTE16bHhVY0FJTWIwS2hXR1REemtnMkhuUWVBR01LYXZxQkwxODFCYWdrM3JVeDBOWnJ1cFFmTV8xbUZhUXZlYXpUY3ZMY2tlamEwSEVwRDJIZ3ItMlJKdXpJWnY1bW4xYXJod2dfc2VzUkhveVgxZTVzNEo0dXhxenhCMU50SEd2djd2aHhFbV9nOER5UkFIS2k1bUFtX25IcU1rbEVld0kzamVYODZiUElLS0tvbm1pdDBxd0xxc0tocVdBZmtYSExReFB3c25lWUtldldpSGJQNVhidERQdw?oc=5",
       "source": "Google News — Eagles",
@@ -335,12 +347,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXo4NUpEZkRZWmRHNGpYbGFRSDFUaUhGU2U1Zl82N3NHVnR4eHAwTGlGUWpGOVlYOVIxV09fNlhaU3diQkVWYlE3OE1Gd3pkOXVPbENtcThGOEpVQkYxMnhreHR3Z19qZ2xzSUpjejN2MDl3c2hxdnBudDdRNnM5OG9jUFAtV3VscEl0NFNSeUtoZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758232042
-    },
-    {
-      "title": "Jalen Hurts Mic'd Up in INTENSE Win vs. Kansas City Chiefs - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalM2RVREOEd1Y3V4UkVOU3V3RHkwRXROZHhGekUzYVpBZWVQTEZHMG55Z193bmZfcXZjX1FVT3A0dFcyR1ZSRFdVUWJiSEtfRFJYM2Z5WExrSFF6YkVQSWR1elhVeEc1UFVPYzJWaUxvcE5wVW93cTlUUXFqNTF3TDN0YjM1bzVGaHlrR2s4cVFqODdJMkhaY19zUlhqQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758224541
     },
     {
       "title": "Spadaro: Once again, the kids are alright - Philadelphia Eagles",
