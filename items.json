@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-24T19:17:30.130506+00:00",
+  "updated_at": "2025-09-24T19:38:53.047849+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Nick Sirianni was asked about the Eagles’ interest in a C.J. Gardner-Johnson reunion",
+      "link": "https://www.bleedinggreennation.com/news/159473/nick-sirianni-was-asked-about-the-eagles-interest-in-a-c-j-gardner-johnson-reunion",
+      "source": "Bleeding Green Nation",
+      "published": 1758740755
+    },
     {
       "title": "Eagles roster news: Nolan Smith to injured reserve among 9 moves",
       "link": "https://www.bleedinggreennation.com/news/159483/eagles-roster-news-nolan-smith-to-injured-reserve-among-9-moves",
@@ -89,12 +95,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHBBWXNoOFdJTndFZ1dFSFFjWW5DY2wwRTg2VHoteGhaUWRWSV9JWW96R1NEVFFNb3pIdnBPdk1WcWVmNUhrMzZ2YUJkWVp2cWhndmZIT0loTG5rNFlWSWxKQlk1Q3h4ZC03UFBjNWxnWThHUkIxUGFmZHpWWGZIQnlzdXh3LWJONEMwZWRCMEtNa25UY2s4TExoU3o0MnpHdkNJSlRoSnJmM2NMT003MnJZcmE?oc=5",
       "source": "Google News — Eagles",
       "published": 1758643479
-    },
-    {
-      "title": "Eagles News: Philadelphia’s coaching staff should listen to A.J. Brown and Jalen Hurts",
-      "link": "https://www.bleedinggreennation.com/news/159339/eagles-news-philadelphias-coaching-staff-should-listen-to-a-j-brown-and-jalen-hurts",
-      "source": "Bleeding Green Nation",
-      "published": 1758640688
     },
     {
       "title": "Eagles claim WR Xavier Gipson, waive OL Kenyon Green - Philadelphia Eagles",
@@ -373,6 +373,12 @@
       "published": 1758212267
     },
     {
+      "title": "Business of Football: Eagles Taking Advantages Other Teams Choose Not To - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblpiWjNUelpRRVc4Nk1FX0JrRUdiOUhCeVNuOE9jTmVUbGdWVHdnU25RYUltVnlDUlJxMUx2cHFLXzIwYmJkZ0pqX2x3Ymx0NkNCM1oxZ3pKSWRYV29aaU44bnNJNXFGVUJGcDZDTUpYSXpkajhkbzh3Z19SOGlEdTU3eXBEeXJ0WDJHanp1Nk0yRDN5blE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758189600
+    },
+    {
       "title": "Eagles sign G Kenyon Green to 53-man roster - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGxsczhmcmo4OHREWGQ4OENPOW9HU2s1NHhxdE1kUnRHcmRuS3poNHJYQnZRMTZVdno2d2Uxai1mVDFzLVFENk5iclBkb3RxX3NoYVBqRzRtU1k2WWpwUXpUUDhXUHNHOVktdnRrWEFybTdBN1pGLVBHMUFuZVBmUS1uUDJYRVkw?oc=5",
       "source": "Google News — Eagles",
@@ -399,12 +405,6 @@
     {
       "title": "How farming and family forged Eagles center Cam Jurgens - ESPN",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenRUT1dhenZqWUFsNnpRMFRBMFV1UXBnNE5rOWRGWW5iOVRsVVdkYklwUV9RcC1zel9CMkhtTVlzRTRGT1BqeXo2U2JFSmNuQkRuNXdEbVlueEhLUHFlT2tvdFVtWENKV0k4MXZ1dHF0ZVN6V2tGZGtvaUxuVDJ1SnhqX3JrOGFIa1pKdHhWRmlSNlBsa0w5R0hmTWM0Wm05anJ2WGtMcnZiUjFCUEhZ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758020400
-    },
-    {
-      "title": "Some remarkable turnover stats and chasing an NFL record in Roob's Eagles Stats - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUY5Y2VxOG00Z1pDbDg4MTdEblRHbnM3eXZ4bzI4cWZJRV9hYjJiekdHZEg0cmVBaTdHYVBSV0puZ2x3UVVNWUhpejE0WUdEYUE4SjdKcXVZY0ZWSGt6ay1KdENjZlpPNFpFWUZ2bWpNSHVIQzFqNS1wYVJDVHNiUjhmY3NMNEdvd2pQQUZHbUpvVUViVkZWNmE3NURRcHl0cHk3S2RvaVNycm5rdUlEUzVuZmpBYkRtMk04ejNVS2RBcHMtS0huTjA2Ylo3Qm9CeUpMbGFXdkZWcGY3LUFGenl1RdIB6wFBVV95cUxOOWo3NlVEbm9yT1FLeWtWdGs5VHd5LW9VR2plbHJwNmh0Z3RHQ3VKLWpZeFdRU3R5aW44ekpndDlhRmRWVGQxWDdKY2lBZ1hxXzB4X2VnOFU2WXZVdEFOYVA1OTJ4N2dVN1lZTGtQNl9tMWgyUl85c19FdHZVSUZncC1YcmdHeTdiWUdJVEJUc0YzYUloeWNwR0dTWnJObEhvaGhwVDdrN1JrVnBTTlhvZHNtd0ltekRqbTJjVmRIT0RUaHVVTENxYnRuQXNwTWRzd21NRVd3R0J4NENZdXYweUkxZld0SVBRdzRj?oc=5",
       "source": "Google News — Eagles",
       "published": 1758020400
     },
