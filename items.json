@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-24T19:38:53.047849+00:00",
+  "updated_at": "2025-09-24T20:23:36.176031+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles roster news: Nolan Smith to injured reserve among 9 moves",
+      "link": "https://www.bleedinggreennation.com/news/159483/eagles-roster-news-nolan-smith-to-injured-reserve-among-9-moves",
+      "source": "Bleeding Green Nation",
+      "published": 1758742775
+    },
     {
       "title": "Nick Sirianni was asked about the Eagles’ interest in a C.J. Gardner-Johnson reunion",
       "link": "https://www.bleedinggreennation.com/news/159473/nick-sirianni-was-asked-about-the-eagles-interest-in-a-c-j-gardner-johnson-reunion",
@@ -13,16 +19,22 @@
       "published": 1758740755
     },
     {
-      "title": "Eagles roster news: Nolan Smith to injured reserve among 9 moves",
-      "link": "https://www.bleedinggreennation.com/news/159483/eagles-roster-news-nolan-smith-to-injured-reserve-among-9-moves",
-      "source": "Bleeding Green Nation",
-      "published": 1758739151
+      "title": "Sources: OLB Smith out through Eagles' Nov. bye - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JhWGdiUU9adDF6ZHJDYzhVeUVmRlVFYXZ5elc1aDBqRm5xRmpyZFotcjhUYW9pcklveHB0Wm81NnVyY1hQcS1Mc2ZZb0psUHh3cnU3SWVXakFobGNFR3BET2llQTRpQ2xRSDc0RzlVZ3hEYWI5MGdOT2ZsaUluaklveDYyeU0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758738420
     },
     {
       "title": "Eagles place CB Jakorian Bennett, WR Darius Cooper, and OLB Nolan Smith on Injured Reserve, add three players to active roster - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTGM0VF9FYkNVSHFCME5HelVJcEhVbk13TXJzLWxibmtOay1TQ1d3SnhoS1F0aC03RFhqX0RrekZpOERnRkpMYkdQazVfUEd6N2NZQzFDbUVDcXdoWXhXbGw5MGMtYU5nNVpMN0VBdEl2aWhZRVVNRVc5Wkd4a1BXbEZlNTR3WjZaUlpGUUd5cl80azEwVHg1TUZmcFNrc0gtMlZMQXpuVThEd2doSzB0SHlsdWZReWRHbzFUUkpIWTVLbFR2VVpMSElqOVo1Y2tvS0ZjcURUaTcxdUZkY3g5eFZQcE1rUXV5VVFNWENnT3MwZVJTbnc2QVN5ZlFzcURMWF8yVjE4YndJVzZHWnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1758737622
+    },
+    {
+      "title": "Eagles Could Look To Acquire Cornerback, Per ESPN - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTF1SlJOUXFhSEJvMHhmbkNjd2ZIQ2g5dHVvVGxxTUNjb0NIcElHVXYxemE0alZvUTB0ZkJ0X3NEcU16NFpMMlhoc3p2WERkUmk0RFI0bXpuTzd5MTc4c2tpa29oSThFYXVhbzUwT0xIQVV0ZDVvWDFpZFNGX1d3dUZNVFI5c0JCSTgtUjNTcjJwZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758737593
     },
     {
       "title": "What’s the best Eagles throwback jersey to wear?",
@@ -85,12 +97,6 @@
       "published": 1758646734
     },
     {
-      "title": "Mike Evans injury: Buccaneers to be without top WR against Eagles",
-      "link": "https://www.bleedinggreennation.com/news/159351/eagles-buccaneers-week-4-injury-news-mike-evans-quinyon-mitchell-update-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1758646616
-    },
-    {
       "title": "NFL Power Rankings Week 4: Packers upset by Browns, Eagles on the move past Rams - Atlanta Falcons",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHBBWXNoOFdJTndFZ1dFSFFjWW5DY2wwRTg2VHoteGhaUWRWSV9JWW96R1NEVFFNb3pIdnBPdk1WcWVmNUhrMzZ2YUJkWVp2cWhndmZIT0loTG5rNFlWSWxKQlk1Q3h4ZC03UFBjNWxnWThHUkIxUGFmZHpWWGZIQnlzdXh3LWJONEMwZWRCMEtNa25UY2s4TExoU3o0MnpHdkNJSlRoSnJmM2NMT003MnJZcmE?oc=5",
       "source": "Google News — Eagles",
@@ -127,12 +133,6 @@
       "published": 1758544537
     },
     {
-      "title": "Eagles fans thrilled after comeback win - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgwUm1xMzYyRDduMEt3bFQtTkFCM0Q0bU55UEVaYUtJWUt2N0h3eUo4YWREbXN6UHltdXNhWldJejR3NHhYcHBoa2phXzNBaU9xbXg1eE5IYzA4YlRJU0pWdFdIS29TMUQtY3MyOS1xMkRSalN6bG5BeHBqcHRQdUVfR1d0Vng5dXowT3JlZFLSAZYBQVVfeXFMT0xjakVGem03bXI1OWY1M3Fydi1hTFB0aDNtczJXd0FySWxfQ2V2bDFIT0o3elp3VlprRGVuRFJVekVxYXQ0ZFc2dmF3NVEzbzY5OUFrU0RzUWJsSDk2YWlMWUxiMEFYQ1Y0YTFER0lYNFNFcTUyZnN2a3Vzd2JRcnI4bFMyTlVBTmJQekZPenlMTnFEdWJB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758507975
-    },
-    {
       "title": "Jordan Davis punctuates Eagles’ defensive dominance with game-winning FG block - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUJBRTRoRjIwLUR6bG9OR2MxNElJMmhPaFZpbFNmV0JtUWZ5eUotWERHOVdRZnlFdXVtOXp5Ykktd2Jwb0lsRGk4WDREckFVcVdsSGhOU29xZi1FUlZSTm9PZUMtM3MwcW9kOHZucktER2ZnTFc2eDRmSV8wVzBOdHNUOG1DSFdaaU94akFmZFljNlk?oc=5",
       "source": "Google News — Eagles",
@@ -155,12 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejNqNHhzdXpBeHF6R2ctaUREeDIzSFo2Y3lOcFBQZkpHNWZvd3JHWjNGVG1oMEJFY3YxWmVTdEZoUEdhNUhhTEtucXFpNTZQVVJEMWJFUEczeTRqcWhKdUNJdmhnaXE2MTI2MjJvMTFrYzJfN0d4ckVrR2NEREhLTDltc0QtZjVSTmJFVWNGVFg?oc=5",
       "source": "Google News — Eagles",
       "published": 1758496679
-    },
-    {
-      "title": "Jordan Davis seals thrilling win for Eagles with walk-off blocked field goal vs. Rams - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHRnQ1RKWEc3UU5Qa2dsLWp1NTViOHlyRUVGMDEzdnRycHdZVzhoMmJHalNUaTkxN0VUZXVCUk5fbHpZTER6NVRjTUhHbXFPQko1NHc2OW5pTDhyQWRhR3pkMnFaRkhJamRFNHVxMDBTY3NhTFRpWm5GYUtVb2xLaFY2Rkh5SFZ2NHh3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758496140
     },
     {
       "title": "The Eagles' offense was struggling. Then they remembered they had A.J. Brown - NBC News",
@@ -205,10 +199,10 @@
       "published": 1758491536
     },
     {
-      "title": "Los Angeles Rams vs. Philadelphia Eagles Game Highlights - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54RUZsZVdoT3NfUXBZWF9EWEU3eVhIV0psR3hyQ2xUQ0R3MjFlaE80eFlobmxKVEk5VE5QSVhnZnVaeXFZVjhzWUdGR3h1OEdHQzY5MHRzS3o?oc=5",
+      "title": "Sean McVay & Matthew Stafford recap their Week 3 matchup against the Eagles - Rams",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTRhXy1fQ0gtZkJvcWlRUGxFVmREX0VOamg4WXBjSDd0YTZZSWQ5Sm45TzB2aVFOSGhROUY5bjVTb1FHamhGWDl1MTY4ZkZNMUUtWXhZV3NwWi1zODRQd244R3g1SkphNF9yMlFyWnF1c1dQQkc5QkdZUWJRQXdkaEl2bkRlSzJQZFRCdHhLbGNQVkZ6?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758490925
+      "published": 1758491036
     },
     {
       "title": "Rams vs. Eagles Inactives - Philadelphia Eagles",
@@ -235,22 +229,16 @@
       "published": 1758489750
     },
     {
-      "title": "Los Angeles Rams vs. Philadelphia Eagles: Listen to the Live Radio Broadcast – NFL Week 3 - SiriusXM",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uYWdnNjkxV0REMjF2SWNvTnJhaFZINVVsR01CUy1kN29od3phWmlNVEVkTTRBWjlxbnZwa0l0R2dETWE1WDE5X2hxVVBiMjZDLUt6UzdDSzQteTB4UWNJ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758489352
-    },
-    {
       "title": "2025 NFL Bad Beats: Eagles Miraculously Cover with Expired-Time TD - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFhvZkdZNmhxVXFLMG5DazExd2JxTjBwa09leDJOZ1VXY1hyd29Ud3htU2U5VkVUc0tIY2UtbGhyaVQ3ZWRQdkR2bzBMOTJ1eUtiWVZjamYzRlY1bW0zRkpqQ0Zvd3hOT1JScTIxckR0LTFrQ1lZUnRaYlM0alJaMzlhU2tabUh4TGJDZldNUHA1NFIwNUoyd0Jyd0xnQjDSAZ8BQVVfeXFMT2Z0UENnQ19wZF9TQVV1N3QxR0RkbkVUUkdHcXdTY0FQdS1DT3BMOUhsY2V0NDRJTWxRdENqb19pR1ROTkx6NlpsRnZpdE9XV0NzRDl2X3k3RHFOSmswemJoTVllcS1tTk40dDh4eWY0c1NoZTBEWkFYZjUtOUF0akU2MUYtVnNQcHo4N2YxX3lhNkJzWWRpVnNuM0dhMnRr?oc=5",
       "source": "Google News — Eagles",
       "published": 1758488483
     },
     {
-      "title": "Roob's Instant Observations after Eagles' biggest comeback ever at the Linc - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEE1Q2h4QUJBdE9RQUk4cHdvODA0Yy15Z1ZqejRVRGx1enZ2MVdRS1ZoYnhycmtRR1RITVJiTmNRWVNna2EybHc4WnVCczFDcUFnZmtnVzhQMEhhc21URFluUDB3RkhoN0FpbDZJWV9vXzNRY3Axay1fT0l3MlVFcWx3ZEd0S1R0N0cydmVabjRPeElfYTczV2tTSDN2bk1WZnFoNl83cEhFTE9CQnFfcmp0eDVNTmRocUJtdk5SWEJLcnZ6eTBCYWx4R1lncW_SAdcBQVVfeXFMTUdyOWhXd2FmOHRud1MzakU1alE3MHpZOFZkX2pGRHhEOVVLV0RzZll6VUM1UGVZUEF5RWFkbUVKWmtmR0ZGYmdDb0Y4bWk1VVpjRENrZTBVcldseEEwV2toLUJnYjREMlRobWo5RjFsMWY0b1hMaFluWkpaZlV0V2laczFzVmlQeFZjX2s5V1c3VlRGdllMM2wtY0pnV0RNSHFDLS1JX3AtcWpkdEJzb2xPTmVWMkxfd0hfbGZqTWk0MkhSN2pqcWhSUUltSmlBUmFlYlk5d28?oc=5",
+      "title": "HIGHLIGHTS: Rams WR Davante Adams with a 44-yard touchdown catch from QB Matthew Stafford against the Eagles - Rams",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejZPSkN1eU5NMHk2ckFnYzFuT1I3eGdTakRsYkM2SEduZzAtaXY4OWdiWjlBMjBxOWsydW4yXzNvaTNheUZiXzI4bFFZOWVPUmh0UFRqbFE4VmFLV1NGX1Y2WHBCQy1XU0RNY2V6YzB0UzhwWE1vcnMwNldJOGV1eXpGaUxWbzJ1ZnlzcG04cFhGSXZRaVE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758486652
+      "published": 1758477540
     },
     {
       "title": "Recap: Game of the year? Eagles erase 19-point deficit to take down Rams - NBC Sports Philadelphia",
@@ -313,12 +301,6 @@
       "published": 1758332813
     },
     {
-      "title": "Rams vs. Eagles: Built to brawl | Game Trailer - Rams",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTRVTHFQYnR4NkNheUxHMEowYU1xaU50SnlXYnAzT3FHYlV6Rm16cWViSUpmWmRaeWtlYXRYTWFuUEJOZ3VETkhmV3d3T0lqdHUxeERIUExfdU9MbEFJbWlOUGRCaS1VcUt1WlF0em9tWHB0b2pwMXZVUGRybk9kd3VXU09JWk54QmZVSFpsNlI3Q0Q1SHpaQm5ZNGlUNU9FWXFGbC1Vci1PTGQ5OWFsYW5kaXd2ejduZjl2SndyODI1c0JtUlFMWktockxvSmZIZVE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758319846
-    },
-    {
       "title": "Spadaro: Game Preview vs. Rams - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjB5enhQejJidWUzc1h0UXpFbFY3djNCaE5ZcC1aUFhmVlFKdTB3U1hqUkRtSEFQT0lSTWtnNzlkcjd6VjEteHp0ejNncU9NeFdyR291bmJ0c0xwdWlFZUw1VzljTWR4M2toT3Zid2JwcmZlc3YteUFTaXpucVAxa3p5M0xjYWI3NUJfT3ZxRkRnNmJxUV8xbUgyNElWeURPZkdtQmdabG5pSlIx?oc=5",
       "source": "Google News — Eagles",
@@ -335,6 +317,12 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd20wZWNCTTloRnNWVnV1WllqUW4wbk1kX041UjBUVlNlYnhuZWxEeUhUUFJmZGJWWTVUNGRzWG9URHhUMnJ0cUdGbjNUNXZQa09ISXBxaDloQmgwU0lGbzJQM3lFVU4tajF0QkM3bmJ2U011WkMtUXNaanJWOHdXNVZ1b2M0TFRMRVZabGpoeGREd1d6SDl3R2hnVF9zem9YS3I1TWVRQUxVSE1BR3E0R3NzMzFyRnM3RmJIS0pyaEVXYndu?oc=5",
       "source": "Google News — Eagles",
       "published": 1758314903
+    },
+    {
+      "title": "Nick Sirianni Press Conference: September 19, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnpOMEl1X3hpTnRCQmRJcWhodnA2MFBPdzFtVm1vQXNpM3FQVmpsbXY1aEMxSVRFeEZIeDBYNjNuNVZ6R3ZHSzlTM1BlRDNGLVh4NUZyUjNjQTYwREpDWV9qT3ZRb3JoQnVwakx3YUFLaXVYNEJjMHZkamRGOWhCaVF0OWxoNFIwZHdEWDNvQVR4dVE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758299253
     },
     {
       "title": "Eagles vs. Rams: How to watch pregame, postgame coverage on NBC10 - NBC10 Philadelphia",
@@ -365,6 +353,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXo4NUpEZkRZWmRHNGpYbGFRSDFUaUhGU2U1Zl82N3NHVnR4eHAwTGlGUWpGOVlYOVIxV09fNlhaU3diQkVWYlE3OE1Gd3pkOXVPbENtcThGOEpVQkYxMnhreHR3Z19qZ2xzSUpjejN2MDl3c2hxdnBudDdRNnM5OG9jUFAtV3VscEl0NFNSeUtoZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758232042
+    },
+    {
+      "title": "Jalen Hurts Mic'd Up in INTENSE Win vs. Kansas City Chiefs - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalM2RVREOEd1Y3V4UkVOU3V3RHkwRXROZHhGekUzYVpBZWVQTEZHMG55Z193bmZfcXZjX1FVT3A0dFcyR1ZSRFdVUWJiSEtfRFJYM2Z5WExrSFF6YkVQSWR1elhVeEc1UFVPYzJWaUxvcE5wVW93cTlUUXFqNTF3TDN0YjM1bzVGaHlrR2s4cVFqODdJMkhaY19zUlhqQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758224541
     },
     {
       "title": "Spadaro: Once again, the kids are alright - Philadelphia Eagles",
