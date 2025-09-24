@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-24T22:19:31.891818+00:00",
+  "updated_at": "2025-09-24T22:38:02.376432+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles vs. Buccaneers Injury Report - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ3ZhM2RCaHpWam9OVjUyckUzS1Z5NjZZNjVZZ2ZDU2g5a0hJQ2NLdW1ic3VLQ3VIc25rVTRiS0FDcEtUZ1pvX3V1S3JSalVyZ25BUjI5Y19kRTBJTHhrYlNORm83cnVHVVdLQUNGeDF2eHd4UE1TT3k1c0V0WnpHT2k0T2lXTzBaQ1VZTVFCQVVXaE9H?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758752278
+    },
     {
       "title": "Eagles-Rams Film Review: The defense is still a work in progress",
       "link": "https://www.bleedinggreennation.com/eagles-film-review/159406/eagles-rams-film-review-the-defense-is-still-a-work-in-progress",
@@ -145,6 +151,12 @@
       "published": 1758544537
     },
     {
+      "title": "Eagles fans thrilled after comeback win - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgwUm1xMzYyRDduMEt3bFQtTkFCM0Q0bU55UEVaYUtJWUt2N0h3eUo4YWREbXN6UHltdXNhWldJejR3NHhYcHBoa2phXzNBaU9xbXg1eE5IYzA4YlRJU0pWdFdIS29TMUQtY3MyOS1xMkRSalN6bG5BeHBqcHRQdUVfR1d0Vng5dXowT3JlZFLSAZYBQVVfeXFMT0xjakVGem03bXI1OWY1M3Fydi1hTFB0aDNtczJXd0FySWxfQ2V2bDFIT0o3elp3VlprRGVuRFJVekVxYXQ0ZFc2dmF3NVEzbzY5OUFrU0RzUWJsSDk2YWlMWUxiMEFYQ1Y0YTFER0lYNFNFcTUyZnN2a3Vzd2JRcnI4bFMyTlVBTmJQekZPenlMTnFEdWJB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758507975
+    },
+    {
       "title": "Jordan Davis punctuates Eagles’ defensive dominance with game-winning FG block - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUJBRTRoRjIwLUR6bG9OR2MxNElJMmhPaFZpbFNmV0JtUWZ5eUotWERHOVdRZnlFdXVtOXp5Ykktd2Jwb0lsRGk4WDREckFVcVdsSGhOU29xZi1FUlZSTm9PZUMtM3MwcW9kOHZucktER2ZnTFc2eDRmSV8wVzBOdHNUOG1DSFdaaU94akFmZFljNlk?oc=5",
       "source": "Google News — Eagles",
@@ -209,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThBNm5ib0NTRC1WYWhPUzdkM3dPZ0dJUFF6RktiMWNQbFFXVTFMZ1BFN0ZURHJsMEVSZmNOSFhDc2pEVXBiYTJQQTV4bDROY21pZ0tIZVQyNXcxek9KR1V6dTlUcFJZMnJqaW9nWmZ6N2ZCdGp2NzhWTHhrSndZeG5TUGF5bFFOdDlUZk9kM3VWU2vSAVZBVV95cUxQd0lWbmNlcXFoZXJSaER6RElCUmFlamx2djVQZFlKY1o2Rjk3UjJHNjBYZEhPTGp6VkNtRmlsZGdxOGRsVnJTM2V0VHlyalFzRGRDOFVzdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758491536
-    },
-    {
-      "title": "Sean McVay & Matthew Stafford recap their Week 3 matchup against the Eagles - Rams",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTRhXy1fQ0gtZkJvcWlRUGxFVmREX0VOamg4WXBjSDd0YTZZSWQ5Sm45TzB2aVFOSGhROUY5bjVTb1FHamhGWDl1MTY4ZkZNMUUtWXhZV3NwWi1zODRQd244R3g1SkphNF9yMlFyWnF1c1dQQkc5QkdZUWJRQXdkaEl2bkRlSzJQZFRCdHhLbGNQVkZ6?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758491036
     },
     {
       "title": "Los Angeles Rams vs. Philadelphia Eagles Game Highlights - ESPN",
@@ -365,12 +371,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXo4NUpEZkRZWmRHNGpYbGFRSDFUaUhGU2U1Zl82N3NHVnR4eHAwTGlGUWpGOVlYOVIxV09fNlhaU3diQkVWYlE3OE1Gd3pkOXVPbENtcThGOEpVQkYxMnhreHR3Z19qZ2xzSUpjejN2MDl3c2hxdnBudDdRNnM5OG9jUFAtV3VscEl0NFNSeUtoZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758232042
-    },
-    {
-      "title": "Jalen Hurts Mic'd Up in INTENSE Win vs. Kansas City Chiefs - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalM2RVREOEd1Y3V4UkVOU3V3RHkwRXROZHhGekUzYVpBZWVQTEZHMG55Z193bmZfcXZjX1FVT3A0dFcyR1ZSRFdVUWJiSEtfRFJYM2Z5WExrSFF6YkVQSWR1elhVeEc1UFVPYzJWaUxvcE5wVW93cTlUUXFqNTF3TDN0YjM1bzVGaHlrR2s4cVFqODdJMkhaY19zUlhqQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758224541
     },
     {
       "title": "Spadaro: Once again, the kids are alright - Philadelphia Eagles",
