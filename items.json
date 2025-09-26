@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-26T04:25:35.734954+00:00",
+  "updated_at": "2025-09-26T04:43:01.896056+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Opponent Film Room: Scouting the Tampa Bay Buccaneers’ offense",
+      "link": "https://www.bleedinggreennation.com/eagles-game-preview/159602/eagles-opponent-film-room-scouting-the-tampa-bay-buccaneers-offense",
+      "source": "Bleeding Green Nation",
+      "published": 1758861265
+    },
     {
       "title": "Buccaneers QB Baker Mayfield questions Eagles' plan to beat the Tampa heat: 'I don't think that helps them' - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPelp4cFJZU242UVhXVm93Z1FmX0thSWVVUGFPbmRORldUMTZuc1gyTVh3Tjg0N0RjNjhueURweFhzVU45ZU1lUldXOGJ3aWE4eUMtWWttaC1kVlIxMlVkZzlYN19aelRPdWpSanhfSHpYSnkyQmVBNjliRnZfMkhLUDByMkxRbU1KUjhObEdMMXRSWkRacnhCQ0lyNDhQeDZsdngyeHFiQWdKcVhvZ0pUNUJiUV9OSGpkdTZ0NDNKdkdyUTJZb0hnLUVKeUl1ZGRTQkQ4Yw?oc=5",
@@ -241,16 +247,16 @@
       "published": 1758492446
     },
     {
+      "title": "Eagles' returning a blocked field goal as time expired had major gambling consequences - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThBNm5ib0NTRC1WYWhPUzdkM3dPZ0dJUFF6RktiMWNQbFFXVTFMZ1BFN0ZURHJsMEVSZmNOSFhDc2pEVXBiYTJQQTV4bDROY21pZ0tIZVQyNXcxek9KR1V6dTlUcFJZMnJqaW9nWmZ6N2ZCdGp2NzhWTHhrSndZeG5TUGF5bFFOdDlUZk9kM3VWU2vSAVZBVV95cUxQd0lWbmNlcXFoZXJSaER6RElCUmFlamx2djVQZFlKY1o2Rjk3UjJHNjBYZEhPTGp6VkNtRmlsZGdxOGRsVnJTM2V0VHlyalFzRGRDOFVzdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758491536
+    },
+    {
       "title": "Game Highlights: Eagles 33, Rams 26 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjhGeXVlcmxKLVBYeGRxemE5MDVXRGlURDV0alRZbThiaHk0U01Ic1JLOXhDT01Rc2xCNEtRSjNjTDF1UDI1Vjl4WXF2MkdUQ1pDcTdzUDg5Z1pwblN2SS05S2IxSlZOUkRnTkdUODE5WDkzVDBxdkVTY3JQbnd2eWtzVXFhNXZDb1hkMWhDQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1758490077
-    },
-    {
-      "title": "Jordan Davis seals Eagles' 33-26 thrilling win over Rams with Philly's 2nd blocked FG of 4th quarter - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0F2T2VzSnZoaUtaQUY3MnVWTmlkWGRtclVIM2otb3paaEFYUEU4OG1tNzBON3VHX25oYnJXeE5TWmppUFl6MzNSTHpCRFRTWndoUGNnY2xoN0NkZEhabUY3Wnlrd1hLZU1oS1VBWDZLX0YzdUhEbUVvMHRMSW5tLUxQSlNVYTdJVlNNaUtRZGxUQUhwcGlPN2p4dlZ6ZnN6YkwxRHRoOVh0bTJVdjkybEhUQ0N0VHRo0gG-AUFVX3lxTE9lOXRpcnl1bDhwR2hDWnlqVE0tTXdMZ0VsWFcxampreGdoTHZHOWluTk1XSWhhM21WTVF2bk1lUnNROThqd05qRG81eHVhaXhoQzlsLTZkQXhQNnp1OEYwanB4ZE1TX2laMm1ScXlZTE45dmxTRm5VclRIUmg3emRXRUIwQW5QMFVXLUdEb21iNXZFUkZmS2ZmSTZ6Wmdnc0hKWWNfWFozMFZ6TzJ2bVdpS0pGS1lWTlNPYUlScHc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758489773
     },
     {
       "title": "Game Recap: Rams fall to Eagles 33-26 - Rams",
@@ -263,12 +269,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFhvZkdZNmhxVXFLMG5DazExd2JxTjBwa09leDJOZ1VXY1hyd29Ud3htU2U5VkVUc0tIY2UtbGhyaVQ3ZWRQdkR2bzBMOTJ1eUtiWVZjamYzRlY1bW0zRkpqQ0Zvd3hOT1JScTIxckR0LTFrQ1lZUnRaYlM0alJaMzlhU2tabUh4TGJDZldNUHA1NFIwNUoyd0Jyd0xnQjDSAZ8BQVVfeXFMT2Z0UENnQ19wZF9TQVV1N3QxR0RkbkVUUkdHcXdTY0FQdS1DT3BMOUhsY2V0NDRJTWxRdENqb19pR1ROTkx6NlpsRnZpdE9XV0NzRDl2X3k3RHFOSmswemJoTVllcS1tTk40dDh4eWY0c1NoZTBEWkFYZjUtOUF0akU2MUYtVnNQcHo4N2YxX3lhNkJzWWRpVnNuM0dhMnRr?oc=5",
       "source": "Google News — Eagles",
       "published": 1758488483
-    },
-    {
-      "title": "Roob's Instant Observations after Eagles' biggest comeback ever at the Linc - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEE1Q2h4QUJBdE9RQUk4cHdvODA0Yy15Z1ZqejRVRGx1enZ2MVdRS1ZoYnhycmtRR1RITVJiTmNRWVNna2EybHc4WnVCczFDcUFnZmtnVzhQMEhhc21URFluUDB3RkhoN0FpbDZJWV9vXzNRY3Axay1fT0l3MlVFcWx3ZEd0S1R0N0cydmVabjRPeElfYTczV2tTSDN2bk1WZnFoNl83cEhFTE9CQnFfcmp0eDVNTmRocUJtdk5SWEJLcnZ6eTBCYWx4R1lncW_SAdcBQVVfeXFMTUdyOWhXd2FmOHRud1MzakU1alE3MHpZOFZkX2pGRHhEOVVLV0RzZll6VUM1UGVZUEF5RWFkbUVKWmtmR0ZGYmdDb0Y4bWk1VVpjRENrZTBVcldseEEwV2toLUJnYjREMlRobWo5RjFsMWY0b1hMaFluWkpaZlV0V2laczFzVmlQeFZjX2s5V1c3VlRGdllMM2wtY0pnV0RNSHFDLS1JX3AtcWpkdEJzb2xPTmVWMkxfd0hfbGZqTWk0MkhSN2pqcWhSUUltSmlBUmFlYlk5d28?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758486652
     },
     {
       "title": "Rams vs. Eagles Inactives - Philadelphia Eagles",
@@ -307,6 +307,12 @@
       "published": 1758398604
     },
     {
+      "title": "Eagles News: “The idiots who want to ban the tush push keep changing their reasoning” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUYyczY5eUNPSDI5VzVMVHItUlczY3F2REZsbjhwMVV0Y3J2N1BjNzNGTUE1YXcxWVhqLUV2czNOb1BFQTRUU3BjZ1BnSWlCZ0JVNkFiTWpSNHRDdzR2QVhCVllWQzRrNDR1R0RhTTVMMDdBVS1GbWE4RjlXdldGSkhZVE9GcGVZNEw4cmVQdk5kQ3c2Y1FIVEg2ZFVQRnJrYjlldU8zckx4S09hSG1odFZpSU5PT2hZNEhhNlRyVW0yVFZESUV5TEh3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758388975
+    },
+    {
       "title": "Roob's Random Observations: Appreciating the greatest age in Eagles history - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0JkSnR3RFBaSEtRck4tNkhRTlNaTTRydXRENzRkTmV0UEN0TlN2RFlxYTl4Nk5tS1d2alhtOE9PdlZvT2ZsdVp1cDhPZUcwdEdOcWxERjJXek1fN2syZEhKTUxqR1c0aHJWa25WOXRxTHRYNGtiSUo3ZDVkUHNJX3d0NjhxOXF0bFBVTmZnRV9td2JWM1FjZTY5eExDMGZMa25jSkplRjl3SnZfWjRlNy1zWVE1RnZPSVHSAcIBQVVfeXFMUHkwblB5dkdTcDJUbF9weF9UaDRjODRLQ0NMTTQ3MVFyQWZHaWVTRUVOUmw0WDlhQmloNmFWZXM5dV8zV3N6UTVGemRVQ0U2RTNmOGMwVUN3ZVNxd2tuQnhMa3lZZmFXYThGQ2dxdXRaRmlWVzZVMXZYWWYyak9DZ09xSEZKVWFPekU3d2J3TG5DLXAwT2dLek5MOGxKbkx3Q3IxaVFNamVab0R1WFQ5b2JYTWxteWNzMjFLLVpvZkdxVEE?oc=5",
       "source": "Google News — Eagles",
@@ -341,6 +347,12 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd20wZWNCTTloRnNWVnV1WllqUW4wbk1kX041UjBUVlNlYnhuZWxEeUhUUFJmZGJWWTVUNGRzWG9URHhUMnJ0cUdGbjNUNXZQa09ISXBxaDloQmgwU0lGbzJQM3lFVU4tajF0QkM3bmJ2U011WkMtUXNaanJWOHdXNVZ1b2M0TFRMRVZabGpoeGREd1d6SDl3R2hnVF9zem9YS3I1TWVRQUxVSE1BR3E0R3NzMzFyRnM3RmJIS0pyaEVXYndu?oc=5",
       "source": "Google News — Eagles",
       "published": 1758314903
+    },
+    {
+      "title": "Nick Sirianni Press Conference: September 19, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnpOMEl1X3hpTnRCQmRJcWhodnA2MFBPdzFtVm1vQXNpM3FQVmpsbXY1aEMxSVRFeEZIeDBYNjNuNVZ6R3ZHSzlTM1BlRDNGLVh4NUZyUjNjQTYwREpDWV9qT3ZRb3JoQnVwakx3YUFLaXVYNEJjMHZkamRGOWhCaVF0OWxoNFIwZHdEWDNvQVR4dVE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758299253
     },
     {
       "title": "Eagles vs. Rams: How to watch pregame, postgame coverage on NBC10 - NBC10 Philadelphia",
@@ -413,12 +425,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3lXS043TUwxV2VKTW5VcEJVbmg2cFI5UFJELUk1eFdaY2I5SjQxbUN5Zy1jRWVLOEYwRndFUzR6NDRnMkFTdy1vdldDLXgzZl9CbVZUM3JfZzlsV3YtZ0xDQ1B5R29ZVWZwbnNSTVc1UVZPNmlrLUFEM0duUUlsOXFJdURCakRmSGlITFg0WWtvM3hDYk9UNDJiV2RSNnFNUHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1757919600
-    },
-    {
-      "title": "Highlight: Andrew Mukuba's blitz results in combo sack of Patrick Mahomes alongside Za'Darius Smith - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2I3OUZiNUt2ck5RS2M0SDlEVHRhX2RoQWh6d1VkdzVHd2pESTdzV0dwY2hTOGRfX1lWdHRfc0w5ekd5VDVFNUZkei11VlJDOWtQUTB3bE8wTmo3dmxZcjF6cHlhMFFJOE5Sb1FOZTQtNFN0QkdoRzF4TWdMYjRsbHhpMTZvdzNkZTRvX0hSUGo0cTBWMG9EVENOQ3I1V09Zd3ZSelV6azFBX2RNWkhJVnIxMk9tcEtzb1Z4TnRfYlpRb054b0c5Ni1ZOUwxa2ViT1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1757833200
     },
     {
       "title": "The Eagles spend money unlike any other team. Are they the new NFL model, or an anomaly? - The Athletic - The New York Times",
