@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-29T10:23:59.585544+00:00",
+  "updated_at": "2025-09-29T10:44:49.713095+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -11,6 +11,18 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2lqWHBIRENlaUNmWHZWV3U5bXk5VGpaU0dBUkJnRHVxUmVaTHVWNkZVbFFBU0N6MnlkMDRfVkl6VXgxOHJrVjBGZGNHOXF5amU1dlNheWNXM1FZZzBuaHNrYS1jdUc0bDB3Rmp5cVRLRjhRN245ZE5uZmgyVHN6Qy1xN3FlbnZiYlhyNlpVTFFJMVBteldCMktGUXRZNW8?oc=5",
       "source": "Google News — Eagles",
       "published": 1759118519
+    },
+    {
+      "title": "A.J. Brown posted some cryptic tweets after the Eagles’ win over the Bucs",
+      "link": "https://www.bleedinggreennation.com/news/159938/a-j-brown-posted-some-cryptic-tweets-after-the-eagles-win-over-the-bucs",
+      "source": "Bleeding Green Nation",
+      "published": 1759112626
+    },
+    {
+      "title": "Eagles vs. Buccaneers: The good, the bad, and the ugly",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/159915/eagles-vs-buccaneers-the-good-the-bad-and-the-ugly",
+      "source": "Bleeding Green Nation",
+      "published": 1759109165
     },
     {
       "title": "Highlight: Eagles FAKE the Tush Push and Saquon Barkley walks into end zone - Philadelphia Eagles",
@@ -91,6 +103,12 @@
       "published": 1759091241
     },
     {
+      "title": "Eagles tush push: Philadelphia runs fake on controversial play to score a touchdown - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT28tT0k2ZkV3eTlqZGJxaC1tdS1LS3JTU1hFVDl6aGRoZFgzRTFKSGRzaDRMOXZod0tBSTFkR3h3VFliZTdvR3FnbUNJLVFvQVV4bmhmSWl1Mmw1WW5LSC1JclZpTDUxUEZZZFhNNzctbnpTVVFjcWJhY0xOUnFqb3MtZ1V3dWU1NWk5TlRJUllTTU14M2JXUGZ5THNUdEFvY2FPVkJvM2ZoQkwyOXJtZ0J0dUpkVU8xem5kODhfRXBBZGNMczczXzk1Q3VHelk?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759091199
+    },
+    {
       "title": "Baker Mayfield Reflects on Game vs. Eagles | Press Conference - Tampa Bay Buccaneers",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUMyenloWC1XazQzSTRhU1Bsci1vM2JzNW1ESHpJblplWEJLdEI0VGFueDZMajVBT0NjREtKbWRGT01IdElrbkJPMzdVYjJ1ckg0R2JPdE1ITlBMMFNabVp1SjQxQXp4ODg3YkxXZUJ0ZUFrOHRFRHYycE50Si1ZZk1JSllGcmF2VFJTVC1Ybk0zZw?oc=5",
       "source": "Google News — Eagles",
@@ -133,28 +151,10 @@
       "published": 1759085738
     },
     {
-      "title": "Eagles lose another DE to a triceps injury",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/159409/eagles-injury-news-updates-ogbo-okoronkwo-tricpes-defense-edge-rush-depth",
-      "source": "Bleeding Green Nation",
-      "published": 1759084396
-    },
-    {
-      "title": "Eagles vs. Bucs: Second quarter score updates",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/159758/eagles-vs-bucs-second-quarter-score-updates-week-4-game-thread-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759084336
-    },
-    {
       "title": "Highlight: Jalen Hurts underhands the 2-yard TD pass to Dallas Goedert - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUR5dHNwN3dqeEYwQU1CVUV0UVNFOW90Z3JNTG5VeXhoZmUxcnZpLUNreUliM1AxMlBZQlY3NTJOYXIwNFI2V1I4LU9JcFFIZ2t3RklzNlN3ZkxSeHQ4dmxoT1J3a3ljWkY4bWlkT05BeGEzODRaRk96YjJXLUpPdEtBQXBhOGZORDZLWTFmeVhBTU5qNURBNDZIWTU3TkU0a05rZ2FTNVFvdmRtejdv?oc=5",
       "source": "Google News — Eagles",
       "published": 1759081119
-    },
-    {
-      "title": "Eagles vs. Bucs: First quarter score updates",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/159722/eagles-vs-bucs-first-quarter-score-updates-week-4-game-thread-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759080302
     },
     {
       "title": "Eagles 31-25 Buccaneers (Sep 28, 2025) Box Score - ESPN",
@@ -275,12 +275,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWZta19OcUtWSkdvMGp6TUd3VmJhUHFJRjM2NGx0WnVIdWdaeTJLb29tVm9LXzFIUlF6V280b00wakNOYTF3dmw4RmMyVlU2S2x6d2lFZnZ4S05fWEFfOWhXUkprTGo5Q1NPSmJ4b3gtTWxJZXVuN2MxZ1A0alN6Um1seVBaYUhyNUo4aXZnbHFuUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1758752578
-    },
-    {
-      "title": "The Philadelphia Eagles could again look to trade for a cornerback - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeXFjQlk5cjU2blRNckpIVlBYWDJTWWF4UFhSdlViaUttcU1mUDJJTXJuVGYyUDhYcU4tM0ZodWpMM1FhZVhiX0tBazdTTDJrM2U4RmM5Q2R2dktaZzRoZGVfaC1CdUI0Um9URGM3WU9jVTRYRFZTRGswdjVIcDkwaDFVQkdUUFN4LS1TV0RFOEQyMTdzRTYtdFMtNF9UNjM3RzQ2bDFWTzJnM0NfM1l5cllwdjRBVk9lQzdwOXhYUFBIZF9iTlgzeFYxMjlfY01zN2V0Rg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758748165
     },
     {
       "title": "Sources: OLB Smith out through Eagles' Nov. bye - ESPN",
