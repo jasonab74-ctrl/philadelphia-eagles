@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-29T15:41:21.498798+00:00",
+  "updated_at": "2025-09-29T16:21:50.878585+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles lose another DE to a triceps injury",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/159409/eagles-injury-news-updates-ogbo-okoronkwo-tricpes-defense-edge-rush-depth",
+      "source": "Bleeding Green Nation",
+      "published": 1759160403
+    },
     {
       "title": "Is Eagles' DB Reed Blankenship playing himself out of a lucrative contract extension? - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmFfaEg1QzNqTlkwQmZsTnNTMVUyWk14d1pMVXpBdzhlczRmaUpkdnJtQjFWRTZhZDhxZFh2RExLck50V05RTXdaVThRcW5WdEltWUFZbGphSkNhQWlFaGtJb1JuSmpVT3Nobk9KWElHNzV2RUZDbVFpVXh6My1PdV94RWNMOS1DS3BlTGRmS1hLV0FxTFNXaC14OUVrNjU2SzdBYW1rTHQ2VER1OFRmZUFSSWUwbkQ3ZFJhNjRmeXMxY2NHSEhJYlBZb01vejkwVGwtVEVR?oc=5",
@@ -41,12 +47,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/159868/eagles-jalen-carter-joins-long-list-injured-week-4-update-news-buccaneers-game-nfl",
       "source": "Bleeding Green Nation",
       "published": 1759105480
-    },
-    {
-      "title": "Eagles 31-25 Buccaneers (Sep 28, 2025) Game Recap - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRmdkdjJGbW9TRzhSNmkweHkxeVdDajZhQVFFZS1xXzFoWDRVOUFJRi1vdTFVOFJ2aEJHZkpoQjVkOHhzTjJJdmdDckpWUUxzWlFrSHgxbjhwdWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759097250
     },
     {
       "title": "Eagles Hold Off Bucs' Big-Play Comeback in Battle of Unbeatens - Tampa Bay Buccaneers",
@@ -103,12 +103,6 @@
       "published": 1759088945
     },
     {
-      "title": "Eagles vs. Bucs: Third quarter score updates",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/159786/eagles-vs-bucs-third-quarter-score-updates-week-4-game-thread-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759087703
-    },
-    {
       "title": "Kameron Johnson Returns a Punt 46-Yards | Eagles vs. Bucs Highlights - Tampa Bay Buccaneers",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkZTV1ZSc0kzWklCSHVZdUZ6MnpDTVJ6T1VfUEZNclJySlJmR2NfUzNXUmJfVmFwZGVyN0I5dFR4TE4tNHNheXdrVVNHUUdEZUI5NU1RRV9wWVpGc1U4VDh2SHdGeDFYUG9BRVBncVE4ZGFET1VsZWo4WnRfdUFIS0hDVnM4OVJLU1RJX3dDazQ1MkxNbnN5UlhiYXYyZw?oc=5",
       "source": "Google News — Eagles",
@@ -163,6 +157,12 @@
       "published": 1759060801
     },
     {
+      "title": "Eagles Survive Late Comeback Attempt, Defeat East Texas A&M - North Carolina Central University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWd1cjFOa284YjA1ckE2MkZlQnpWM3BYV3lkTEdvTUlnOVJETmFnYlRVQlNZWjhuUlZTVll4VmZ3a2FZUXJ5OGVsblJDZFo0QU8wTFZqQ014NUI0ckhLOTlhS2dZR0ZsVHZ6amMtTXZTVHI3ZlpNQzk4YkN4Y1UtNnZtNEU3TTBWMVFaSzgtaW5kTzY3ck43QldHNXhJM2R6TkFab1Fsa1V1N1Zvenl2NktvOA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759030484
+    },
+    {
       "title": "As Eagles prepare for Tampa heat, do Florida teams really have a competitive advantage? - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ3hMR25td0t5VDVRQ2h2UllpOUtfNS1FOHpEcDFXSEVRYWpobk5jWDA5NVgyajJRLV8yVHQ2TkQ1M3UzVXU3LVdTeXNQMEJ2MkJqUmpuWHl3bTNxMEQ5Q2ZCNl9UU29BS2NZc25VbnFiWW11Tng0M3VlYzZIX1dTR0xJRDFuWmJmNEVHUVRtdGF0YkU5SkdWbHRWZTZTWnM?oc=5",
       "source": "Google News — Eagles",
@@ -179,6 +179,12 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDRNU1V2b3dvUko5ZEJvVXBCRnByX0pwX1ZISGZPdGc0V1lXc3U0M0lLamZDYXU4WEJMaDhRaDQwWlBvVmJYM1hUNmpiTDh6ejJQWTEzVTB4Tk9jWUVBNmpCbnRaay1Wc0xaYzBiQ0NrTDdveDFJemN0WmVmcHMxU2RrZWRaWFpFWExWOEZDTVpuQXFUUDhOeVl4S21sb3lwQVhvRmhaS1FlUGhwX0FpQmtMcWV6ektOUXlBdEpWRS0xbEFEVDlfU2Jn0gHSAUFVX3lxTFBDamI5bjRNS2ZmMnpGX283eHFyTWJTUXZoX0xhdi1VM2dGMV9IM1hLWTFKNENRMEZkMEN6b1BjSGc4RmtQR2RNRDlDN0Rvc0JfWU0taHNHYWxSSXFoenpKRXVmRlVKc1k0NVNxU0gyRmFfWUhUOEY3TUtNNW5tbG9sa2p2Z052QlBPLWdVUG5vVDUwQk1lNVRTanpWNS00cHhKTnpNUDNYWFlmd3pMSVU2T0xLSVptSXlEa05WRHdCT05NWjJyYjlEb2NEMUJhQ0x3dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758919403
+    },
+    {
+      "title": "Eagles-Bucs Injury Report Sept.26: Izien and Evans Ruled Out, Four Questionable - Tampa Bay Buccaneers",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUlCeU5pdXNobHpLaFVVV3Q3TVRVNlNXcXpPcXAwVk5oQnZBU0ZiejhNOER4WU5PMG9hb3hIQ0lLLXdNaFJTd19KSmNBNFpDN1NLMjdqVUpLTmpTS1Z6R3RLbU1HWVo1UTNqbjNTVWtHaWdNOUNERnlfQ2FYUjZ6XzllbDlYU2MwYkhr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758916993
     },
     {
       "title": "Week Four Expert Picks: Eagles vs. Buccaneers - Tampa Bay Buccaneers",
@@ -247,10 +253,10 @@
       "published": 1758810579
     },
     {
-      "title": "The Philadelphia Eagles could again look to trade for a cornerback - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeXFjQlk5cjU2blRNckpIVlBYWDJTWWF4UFhSdlViaUttcU1mUDJJTXJuVGYyUDhYcU4tM0ZodWpMM1FhZVhiX0tBazdTTDJrM2U4RmM5Q2R2dktaZzRoZGVfaC1CdUI0Um9URGM3WU9jVTRYRFZTRGswdjVIcDkwaDFVQkdUUFN4LS1TV0RFOEQyMTdzRTYtdFMtNF9UNjM3RzQ2bDFWTzJnM0NfM1l5cllwdjRBVk9lQzdwOXhYUFBIZF9iTlgzeFYxMjlfY01zN2V0Rg?oc=5",
+      "title": "Eagles Locker Room Interviews: September 24, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWZta19OcUtWSkdvMGp6TUd3VmJhUHFJRjM2NGx0WnVIdWdaeTJLb29tVm9LXzFIUlF6V280b00wakNOYTF3dmw4RmMyVlU2S2x6d2lFZnZ4S05fWEFfOWhXUkprTGo5Q1NPSmJ4b3gtTWxJZXVuN2MxZ1A0alN6Um1seVBaYUhyNUo4aXZnbHFuUQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758748165
+      "published": 1758752578
     },
     {
       "title": "Sources: OLB Smith out through Eagles' Nov. bye - ESPN",
@@ -295,12 +301,6 @@
       "published": 1758664242
     },
     {
-      "title": "Malcolm Jenkins saw Eagles' walk-off win from a different perspective - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDVvOWhOdTlQM0ppbjBwUkNrRFZncVowYnJJa0dFODJVdXFTNnBtc0w1aUJOdm9SX3Q2cDRHTEo1WDNudHgtbW1zZHNNVjlNVURZRHYySTNuWXB3WkpvTDBZblcyZE9ndzVXN1hsZEdWMTc4ajVVM1pVSGpJUHNlNzBEMFdVUVN5bTBVeTdPeHN3dzNqTlJIS2pldWFCdEFkaTBQdVpoaV8zMHFU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758661732
-    },
-    {
       "title": "NFL Power Rankings Week 4: Packers upset by Browns, Eagles on the move past Rams - Atlanta Falcons",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHBBWXNoOFdJTndFZ1dFSFFjWW5DY2wwRTg2VHoteGhaUWRWSV9JWW96R1NEVFFNb3pIdnBPdk1WcWVmNUhrMzZ2YUJkWVp2cWhndmZIT0loTG5rNFlWSWxKQlk1Q3h4ZC03UFBjNWxnWThHUkIxUGFmZHpWWGZIQnlzdXh3LWJONEMwZWRCMEtNa25UY2s4TExoU3o0MnpHdkNJSlRoSnJmM2NMT003MnJZcmE?oc=5",
       "source": "Google News — Eagles",
@@ -319,26 +319,26 @@
       "published": 1758574077
     },
     {
-      "title": "Biggest takeaways from Eagles' Week 3 comeback win vs. Rams - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTVCX01XYVVKaXlxekxIYVl0ZFBOdlRhTUJHOGhsTzNBcXpGOTNoaktpaXpTZUJDbmJMVU1QTlBTTG84TjlNNmhrb3dhaUtSSGtwOXJvVHNuQTlzd2V2dHdYakQ1dm5xcTJvSFdiYXJ2VlZIbGVDcEdLWTVSaHFHWm5uXy1EbHREcHpETFRCWE1ueElYTFNzajdDSWtvRW8?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758559099
-    },
-    {
       "title": "AAA Official Review: A.J. Brown sparks second half explosion for Eagles - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmpKRXFnNkZzMkp5VWswWlVqMnJvOWVvY1IwYXd4Z1RkZXFzWS1YTXFrMVJqYnp4Y3hpQzZoVGJsRmFTWkJpNFhXeGdfZ0pmdEYyelFrWlJtMHEzSkNTS0hmV1J4M0YtbWN2OTJyNkNGaVVPdEYwN20ydXBsOUZLS3FaRnJmSnZOZUg2Y2N3WU9CY3JGUFFlNnVNeU9nLXlvNm1zSkEtQWlxXzlzRHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1758550120
     },
     {
-      "title": "Eagles fans thrilled after comeback win - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgwUm1xMzYyRDduMEt3bFQtTkFCM0Q0bU55UEVaYUtJWUt2N0h3eUo4YWREbXN6UHltdXNhWldJejR3NHhYcHBoa2phXzNBaU9xbXg1eE5IYzA4YlRJU0pWdFdIS29TMUQtY3MyOS1xMkRSalN6bG5BeHBqcHRQdUVfR1d0Vng5dXowT3JlZFLSAZYBQVVfeXFMT0xjakVGem03bXI1OWY1M3Fydi1hTFB0aDNtczJXd0FySWxfQ2V2bDFIT0o3elp3VlprRGVuRFJVekVxYXQ0ZFc2dmF3NVEzbzY5OUFrU0RzUWJsSDk2YWlMWUxiMEFYQ1Y0YTFER0lYNFNFcTUyZnN2a3Vzd2JRcnI4bFMyTlVBTmJQekZPenlMTnFEdWJB?oc=5",
+      "title": "Fred Johnson provides spark to ignite Eagles' miraculous comeback - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWFVfbUVpelczSE9YVmhGc2FYalZESXpueF9UNkpNRTJUMVd6YVphV1lNNFRvcHFneUVmSldHaUJzZzNZSEZxQXhEa0xlSVVuT0dEaC04Y000YXl5MVFVZlM1RGFPUlNBaFFyWlV2Z2ZmbUFTcm52X3JfSHk1XzhWbV9URjNiVXlFSnVqVi1DZlJIcHRrOVlnWHZ0TXNOdTcyX3UtLTVmdklJWDNCX3FQcUxJS2ZwcW5VRnFQaEg0ajlzWk5WbW5KQkhjYWYyX1FJMW0yYXpn0gHeAUFVX3lxTE01dU12Qjc2SGRWd0l4b1JqX21HWjFYZTNYc2hfc0JwTEQ3LVljMFAxWFNnOFVocnFuU2hMOGFqMlk2MFA4UGdOR3ZfbzBIMjhRZ2E5SW5kQlFVWkNKRVVscHU2MUNLaENfcGlibGhQYjZqbzhFdURwOVYxSUkzeXJHUHJiamFCOVh1dmF0eWU2N193Y0JFLV81OTE4OEVjZGdFcEFJNlZvcF9tS0xoMUtUUGtreUNlb3pybjFYRE43MEJtMmFpcGJ4MERJVXFDR05KSzhFak84TXZkb2ZVdw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758507975
+      "published": 1758538800
     },
     {
       "title": "Highlight: Jordan Davis stonewalls Rams on fourth down - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUphcXZpVkVOdms1VXBDUmpvbTlfcXEtNXpxX0NxUGQySmVCS25hSnRtZFBZcW5abHVUdHBHVFlsb1BOaFRFcExEY2dFM254SXlreTRISU12YmpQRlBXZ2hMMHZlREtXeFdWNmNhZFVnX2ZDZGxEcXBMRTRlM0loSHV5YmlycGwzRW1UVGVnX05LVkRvNFN0d3N3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758505483
+    },
+    {
+      "title": "Highlight: A.J. Brown catches a 9-yard TD vs. Rams - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWQ5d1RCdFVRbVlhTGdMZlNOWlhJNHZGeUR2blJxMExySDdrVkFNanB1bHlwaE9STlRCZW5acVFmRzRJbWlXak9PSDBUOEhPclRnS29wUVNhUk1VX0pvOEJKcnBCSjRRRUVOeHFqRXZOTGxzRXhUUU9NSU5vZ0Q1dDRYRnNfblJldWhxOWNrU0JLQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1758505483
     },
@@ -353,12 +353,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejNqNHhzdXpBeHF6R2ctaUREeDIzSFo2Y3lOcFBQZkpHNWZvd3JHWjNGVG1oMEJFY3YxWmVTdEZoUEdhNUhhTEtucXFpNTZQVVJEMWJFUEczeTRqcWhKdUNJdmhnaXE2MTI2MjJvMTFrYzJfN0d4ckVrR2NEREhLTDltc0QtZjVSTmJFVWNGVFg?oc=5",
       "source": "Google News — Eagles",
       "published": 1758496679
-    },
-    {
-      "title": "The Eagles' offense was struggling. Then they remembered they had A.J. Brown - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3R3UjVHODN2X3RORjlEUEZBa1U5Vzc5RlJyRkloM0k5Q2xrOV9QcU1lWmhRT0ljYjJXYW5TWkhIcll6dTRJblRzOEJzczRURWRmd01KZ1NMb0JFMUh0bDdnYy1nZE9ILXhtbGs5LUR2Vm9qamUtRWZZVmhZdGhueXdPWlTSAVZBVV95cUxOeUR6SDh3SVhRWVo0djhKYW5rZmd2SHFGaVJxRktuWER5QTB5ZjFGcTVGZUtEcEVCcXFuNjhaQzdZZVhSYWE3aGtIbEliQ1Z5YWNpQmVpQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758496065
     },
     {
       "title": "Spadaro's Instant Analysis: 5 takeaways from a remarkable win over the Rams - Philadelphia Eagles",
@@ -379,12 +373,6 @@
       "published": 1758491775
     },
     {
-      "title": "Eagles' returning a blocked field goal as time expired had major gambling consequences - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThBNm5ib0NTRC1WYWhPUzdkM3dPZ0dJUFF6RktiMWNQbFFXVTFMZ1BFN0ZURHJsMEVSZmNOSFhDc2pEVXBiYTJQQTV4bDROY21pZ0tIZVQyNXcxek9KR1V6dTlUcFJZMnJqaW9nWmZ6N2ZCdGp2NzhWTHhrSndZeG5TUGF5bFFOdDlUZk9kM3VWU2vSAVZBVV95cUxQd0lWbmNlcXFoZXJSaER6RElCUmFlamx2djVQZFlKY1o2Rjk3UjJHNjBYZEhPTGp6VkNtRmlsZGdxOGRsVnJTM2V0VHlyalFzRGRDOFVzdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758491536
-    },
-    {
       "title": "Sean McVay & Matthew Stafford recap their Week 3 matchup against the Eagles - Rams",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTRhXy1fQ0gtZkJvcWlRUGxFVmREX0VOamg4WXBjSDd0YTZZSWQ5Sm45TzB2aVFOSGhROUY5bjVTb1FHamhGWDl1MTY4ZkZNMUUtWXhZV3NwWi1zODRQd244R3g1SkphNF9yMlFyWnF1c1dQQkc5QkdZUWJRQXdkaEl2bkRlSzJQZFRCdHhLbGNQVkZ6?oc=5",
       "source": "Google News — Eagles",
@@ -401,18 +389,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjhGeXVlcmxKLVBYeGRxemE5MDVXRGlURDV0alRZbThiaHk0U01Ic1JLOXhDT01Rc2xCNEtRSjNjTDF1UDI1Vjl4WXF2MkdUQ1pDcTdzUDg5Z1pwblN2SS05S2IxSlZOUkRnTkdUODE5WDkzVDBxdkVTY3JQbnd2eWtzVXFhNXZDb1hkMWhDQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1758490077
-    },
-    {
-      "title": "Highlight: Jalen Carter blocks Joshua Karty's FG kick - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkhNZzN4Zm95VVZyRXRfa3FFcUpvQTQyOER3N1U1ZEJ5ZmhsUC1oVmZMUklEOVYxSkJjTEVOVDBDcVg5VG9DOEFfQU1TOF9IZEplMGxVZzdOeWhDenNORGFhRzVORTlVSGZYMm8zLWxCZXVra3hfcWdHM0VFMmoxOE1ucE81bVVETi1GZURNM0xLVkFNRmJjLQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758484729
-    },
-    {
-      "title": "Eagles Appear to False Start Again on Tush Push Before Jalen Hurts Touchdown - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWprOWwxYUFieFh5a0FTSnB4dVFLV2gzRjNOT3ZUQkIzeEpYdU5SRkhfSW52LXZSeFNjelRMaWJzUkt4LTFjc1h2bVhfVHU5M0s5c2lBdi1tWlc3cEV3c0o1bVZubHloeGI4Wjh3N0dHa1duVGNCT1pmcmlFX1N1SFBJVkw4dENoYVpiUVY1X09kT2FjYjJYLXJFZ1ZBUjNkUXVxaHVVa0FPcGhP0gGsAUFVX3lxTFBvS1l3V0RhUThILW1sMTdUTnEyS1pDb0d5RWhxbU9Qc2lyV05jSVpidWhKbV9JSlJOdUwwdEQyQ3hGMDctOWl2c25TdkZZbkFlQ0RIUGk2bVZiT2M3M09DZTlkUXo3c1JULWFTSjhnZGJRVDNmMzZISDB0WW51b1Z2OS1pNkhaV1lkaXhLZ1pyRDZTcmtwV3pQNEpoZUN0a1ZQZkFQRElHT3JjYVI?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758477324
     },
     {
       "title": "What channel is Eagles vs Rams game on TV today? Start time, NFL schedule, streaming - The Courier-Journal",
@@ -439,6 +415,12 @@
       "published": 1758438000
     },
     {
+      "title": "The Eagles' offense was struggling. Then they remembered they had A.J. Brown - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3R3UjVHODN2X3RORjlEUEZBa1U5Vzc5RlJyRkloM0k5Q2xrOV9QcU1lWmhRT0ljYjJXYW5TWkhIcll6dTRJblRzOEJzczRURWRmd01KZ1NMb0JFMUh0bDdnYy1nZE9ILXhtbGs5LUR2Vm9qamUtRWZZVmhZdGhueXdPWlTSAVZBVV95cUxOeUR6SDh3SVhRWVo0djhKYW5rZmd2SHFGaVJxRktuWER5QTB5ZjFGcTVGZUtEcEVCcXFuNjhaQzdZZVhSYWE3aGtIbEliQ1Z5YWNpQmVpQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758438000
+    },
+    {
       "title": "Davis' block, TD preserve Eagles' win at buzzer - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlZHeUNHNHYwdzl3Vkpxc3BUTC03Q214MVZvYVBMQ0FrdzcwLWpRNHJhU2ZQZk9mT05zT2NzS1RXbEJYYzU0SWVOTl9VdnVmQkVaOWwwQXVNNFF0d1Fyc0dHTm1oNGQ5VUFCS0hEeWlYdF9kX1pGRlJha2dPaExnNWtUeFRJU1EwbzJrNEhlRTNVaTVhN3BqQQ?oc=5",
       "source": "Google News — Eagles",
@@ -457,8 +439,20 @@
       "published": 1758438000
     },
     {
+      "title": "Eagles' returning a blocked field goal as time expired had major gambling consequences - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThBNm5ib0NTRC1WYWhPUzdkM3dPZ0dJUFF6RktiMWNQbFFXVTFMZ1BFN0ZURHJsMEVSZmNOSFhDc2pEVXBiYTJQQTV4bDROY21pZ0tIZVQyNXcxek9KR1V6dTlUcFJZMnJqaW9nWmZ6N2ZCdGp2NzhWTHhrSndZeG5TUGF5bFFOdDlUZk9kM3VWU2vSAVZBVV95cUxQd0lWbmNlcXFoZXJSaER6RElCUmFlamx2djVQZFlKY1o2Rjk3UjJHNjBYZEhPTGp6VkNtRmlsZGdxOGRsVnJTM2V0VHlyalFzRGRDOFVzdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758438000
+    },
+    {
       "title": "Eagles’ blocked field goal leads to all-time bad beat for Rams bettors - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2U0ZzdLNlJBeElTeWJGblJ5Skp2MXRjR21NWlZMS1JEaDYyU3JVOXNpZmRBaE5MZWtpeGQwREJjd0J0NjFJYVpsdkVMZENldmNKZDRIOHFGRGUyaWhyRXZvQW15emt3NXltT0V2Xy13WmZDdkdXVXR6QVloQ29IUUt1TEU3M0F3UDhlRGpQWXFSTzh3VWd4QWZiVGtta2FpNlE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758438000
+    },
+    {
+      "title": "Eagles Appear to False Start Again on Tush Push Before Jalen Hurts Touchdown - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWprOWwxYUFieFh5a0FTSnB4dVFLV2gzRjNOT3ZUQkIzeEpYdU5SRkhfSW52LXZSeFNjelRMaWJzUkt4LTFjc1h2bVhfVHU5M0s5c2lBdi1tWlc3cEV3c0o1bVZubHloeGI4Wjh3N0dHa1duVGNCT1pmcmlFX1N1SFBJVkw4dENoYVpiUVY1X09kT2FjYjJYLXJFZ1ZBUjNkUXVxaHVVa0FPcGhP0gGsAUFVX3lxTFBvS1l3V0RhUThILW1sMTdUTnEyS1pDb0d5RWhxbU9Qc2lyV05jSVpidWhKbV9JSlJOdUwwdEQyQ3hGMDctOWl2c25TdkZZbkFlQ0RIUGk2bVZiT2M3M09DZTlkUXo3c1JULWFTSjhnZGJRVDNmMzZISDB0WW51b1Z2OS1pNkhaV1lkaXhLZ1pyRDZTcmtwV3pQNEpoZUN0a1ZQZkFQRElHT3JjYVI?oc=5",
       "source": "Google News — Eagles",
       "published": 1758438000
     },
@@ -489,6 +483,12 @@
     {
       "title": "Eagles' Signature, Controversial Tush Push ‘Is Done,’ Jason Kelce Predicts - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObURVY1hLN2Nfa2dWN2hab0FkUjNpM1lPRC1CSTRPMGtlZUYyTkVTN3hLeE1EUFc1MVlEU2hHakpOaDRqV01sd25yUmtsZl8tSTZvMUpmazVCcWpYMzlrMDFEWGRDdEVhaUxyNEV4bmltbHZ3NEt5UXhXTmZJWVJPcFA5enBId1pwQ0FNYVVXTzhYRmJlSExIRkdId0l6SU04V25mZFRvNnVGV2PSAasBQVVfeXFMT1RhTHRra1RlZjk4OXhYcG1LSXZSSDFWYjdZRDBRLS1xV0JFZ0JRNk9kdFRFUEdNSUZsRzlQNjB3ajNSM3ZTUFRFYXNNOGpNQXhZWUhGc2lwVFVueW9vV3FUbXR4Sy1ha19CTXI0bHVnQ1hNMDN2cjc3aXNaclU5M1BzUi1teXZxd0pBYmQ2LWVUSnFmaDBvOE5LdEwtWEpzZm90Y2wzeGJ2UkdF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758351600
+    },
+    {
+      "title": "Former Eagles running back Wendell Smallwood sentenced to prison for COVID fraud scheme - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTB3OUUxaXotaER1bUZ4clEyak9XRmF6MTlxd1l1OGFKYzdnODI2NFM0SDE0cDQyT1lYeXBVdWh5SXdNU19TWFI4QUkxTVM1UXc0QmJJN3VXVGIta2hVR045WHpYaXI0emNGNUlCTlJyOEgyUzFnazVlMkxOUDhBcjlQR1ZDLU5xWGFpNDZPaGdBcjlyQmZoWklReUxaUDVoYmJnelhjMUZTcHdnYWl3TXpR0gG3AUFVX3lxTFBBdU0ya0plbWtaRzhZbFpZZWc4QV9VVFVjaVdRUklDOEFOblotWmtNN2ZqN1NfUVc0NEJwekExZVd0SUVBa2JuYVB2WGN6RzExX0xLeUpHbGFiQkcwbWIyOHl0TnB1NVNNS3Vnc3Jqdk92TmE5eWhkdEhkQWtiZFhYal92c2FEQUhnUEFKaUc0WmxndkxCWWdOa1hOTzc1a3UwR294bnY4WENjMkVGeDN2TFZYcHBuOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1758351600
     },
