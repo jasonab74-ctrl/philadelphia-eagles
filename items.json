@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-30T15:20:31.394932+00:00",
+  "updated_at": "2025-09-30T15:40:39.470973+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Nick Sirianni addresses A.J. Brown’s cryptic tweets",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/159980/eagles-nick-sirianni-addresses-aj-brown-cryptic-tweet-passing-game-issues-comments-reactions-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1759239321
+    },
     {
       "title": "Monday Night Football doubleheader: Week 4",
       "link": "https://www.bleedinggreennation.com/general/159972/monday-night-football-doubleheader-week-4-game-information-jets-dolphins-bengals-broncos-thread-nfl",
@@ -169,12 +175,6 @@
       "published": 1759096018
     },
     {
-      "title": "NFL Week 4 Late Games",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/159781/nfl-week-4-late-games",
-      "source": "Bleeding Green Nation",
-      "published": 1759094138
-    },
-    {
       "title": "Spadaro: 6 storylines to follow in Eagles at Buccaneers - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDlxRDNBaHlUOXlaajZwY2hOYzZXUnVRaTJyemVzNXIyLTVmeU5HaGZEdF9hVEptbzE2NTZ5ODhkcUZ3SHItMURlZEVaN0dmb2xiZ3lwSzk5ZVZOVXNtR1g0eGtIQXlFQ3Q1OTI1aWhGbzVMSXFCY1NxWE9qdE1RNXZlRFFlbDdFNFJTNUx6YjZoTVk?oc=5",
       "source": "Google News — Eagles",
@@ -191,6 +191,12 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT28tT0k2ZkV3eTlqZGJxaC1tdS1LS3JTU1hFVDl6aGRoZFgzRTFKSGRzaDRMOXZod0tBSTFkR3h3VFliZTdvR3FnbUNJLVFvQVV4bmhmSWl1Mmw1WW5LSC1JclZpTDUxUEZZZFhNNzctbnpTVVFjcWJhY0xOUnFqb3MtZ1V3dWU1NWk5TlRJUllTTU14M2JXUGZ5THNUdEFvY2FPVkJvM2ZoQkwyOXJtZ0J0dUpkVU8xem5kODhfRXBBZGNMczczXzk1Q3VHelk?oc=5",
       "source": "Google News — Eagles",
       "published": 1759091199
+    },
+    {
+      "title": "Eagles DE Exits Game After Suffering Apparent Injury - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalc1YkRFV2xQZVZGWXhRZUVZWXRIRUpScTlMRVZmalpjRzJjcHUwRFQ2b1h0cmNvSkFMYlNhMlRTczA1YlVJTDYwQkVHMUI1dWxIbGZvOUpFMHIzcW42YnVJbGJXWlUxMmRGaFEwUDA4b2c2emhlN2JJYWV1MHQ2cFdHbGRlVkdUX3JRSmpOQ2RUOUpzbXVF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759083572
     },
     {
       "title": "Highlight: Jalen Hurts underhands the 2-yard TD pass to Dallas Goedert - Philadelphia Eagles",
@@ -295,6 +301,12 @@
       "published": 1758835862
     },
     {
+      "title": "Eagles-Buccaneers Injury Report Sept.25: Godwin Jr., Evans and Hall Among Non-Participants - Tampa Bay Buccaneers",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRml6SC1Bbzl3Q2ZTU3g5M1JKdTZWdWFwcGY1TmcxWXI5YTIzTlVSSjdvV0VZMVNoMEtoTGw3NUp1VmNTU1FtQVcxaGg1ZDJSaDN3aFU4WEFyRFpjcm9YbUhIdGxleTNzMjMxdy1EQXJpaVV2Yk1Lcm4tWFVhd1d5S0VGQURDcFVTVU53?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758835620
+    },
+    {
       "title": "Cooper DeJean explains how injuries will impact secondary | Eagles vs. Buccaneers Daily Updates - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW04VVdsTkRGSzN2cy1UVk5RTmtfaGZ1bFFSUXMtbTgtdHZEUnZRQmFnTkgtamRGX1dkWmo1NXU2S2tIRHN2WU90V1dnS25WMTQ1eUdXdk1INnI1RW5acGlHMkxwaUNTTWNUdkZnczdxNElZTi1oazZiVllQR3llQlcwQzVtM0tsV0E?oc=5",
       "source": "Google News — Eagles",
@@ -341,12 +353,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTGM0VF9FYkNVSHFCME5HelVJcEhVbk13TXJzLWxibmtOay1TQ1d3SnhoS1F0aC03RFhqX0RrekZpOERnRkpMYkdQazVfUEd6N2NZQzFDbUVDcXdoWXhXbGw5MGMtYU5nNVpMN0VBdEl2aWhZRVVNRVc5Wkd4a1BXbEZlNTR3WjZaUlpGUUd5cl80azEwVHg1TUZmcFNrc0gtMlZMQXpuVThEd2doSzB0SHlsdWZReWRHbzFUUkpIWTVLbFR2VVpMSElqOVo1Y2tvS0ZjcURUaTcxdUZkY3g5eFZQcE1rUXV5VVFNWENnT3MwZVJTbnc2QVN5ZlFzcURMWF8yVjE4YndJVzZHWnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1758737639
-    },
-    {
-      "title": "Jordan Davis named NFC Special Teams Player of the Week - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUFDd1JkNWVDSjdMU2pDclJZa0daUEM5VHNMTHNEMDRNbHRUczBObF9hZjNKdXhIVnJHY2JjdVQ5NjlFYnJ5VEhNNGMwVGVialJRczBMZVBRZmk5SFdUeWRpUmVmY2pycXRVTmlWY1R1N1FQWlU4OEotb2RELU1QZHhXcl9mY01rWGlrdDR3M1c4NUszWFNGS2o1MA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758730151
     },
     {
       "title": "Eagles-Buccaneers: Top Storylines & Key Matchups in Week Four - Tampa Bay Buccaneers",
@@ -507,12 +513,6 @@
     {
       "title": "Roob's Random Observations: Appreciating the greatest age in Eagles history - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0JkSnR3RFBaSEtRck4tNkhRTlNaTTRydXRENzRkTmV0UEN0TlN2RFlxYTl4Nk5tS1d2alhtOE9PdlZvT2ZsdVp1cDhPZUcwdEdOcWxERjJXek1fN2syZEhKTUxqR1c0aHJWa25WOXRxTHRYNGtiSUo3ZDVkUHNJX3d0NjhxOXF0bFBVTmZnRV9td2JWM1FjZTY5eExDMGZMa25jSkplRjl3SnZfWjRlNy1zWVE1RnZPSVHSAcIBQVVfeXFMUHkwblB5dkdTcDJUbF9weF9UaDRjODRLQ0NMTTQ3MVFyQWZHaWVTRUVOUmw0WDlhQmloNmFWZXM5dV8zV3N6UTVGemRVQ0U2RTNmOGMwVUN3ZVNxd2tuQnhMa3lZZmFXYThGQ2dxdXRaRmlWVzZVMXZYWWYyak9DZ09xSEZKVWFPekU3d2J3TG5DLXAwT2dLek5MOGxKbkx3Q3IxaVFNamVab0R1WFQ5b2JYTWxteWNzMjFLLVpvZkdxVEE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758351600
-    },
-    {
-      "title": "Mosley, Defense Lead Eagles to Resounding Win over NCAT - North Carolina Central University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWpxdF80YThlWjVjdHd4eFZtcUZNTFVSUVBXSFFOSzRlcUhUMHROMWVocnpFMGdHalBOV18yd1R5UXM0dzBKWmZ0U1hMREVrd214UDZ3TndJVXYwWjF2S3BsOWlxN29iYTVWWmMyblFhV1hMSTZ3ZUlxLWNabFY1RGFzbk1ieWNFdHAyTnlXR0dEb3FrdThLamp1aGtVdGJDLXRoS3M4WEkweHBTdHNr?oc=5",
       "source": "Google News — Eagles",
       "published": 1758351600
     },
