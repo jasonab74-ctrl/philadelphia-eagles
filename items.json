@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-30T14:42:26.623911+00:00",
+  "updated_at": "2025-09-30T15:20:31.394932+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Nick Sirianni addresses A.J. Brown’s cryptic tweets",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/159980/eagles-nick-sirianni-addresses-aj-brown-cryptic-tweet-passing-game-issues-comments-reactions-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759239321
-    },
     {
       "title": "Monday Night Football doubleheader: Week 4",
       "link": "https://www.bleedinggreennation.com/general/159972/monday-night-football-doubleheader-week-4-game-information-jets-dolphins-bengals-broncos-thread-nfl",
@@ -35,6 +29,12 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzFPMEpMUDNESUgzRk9ydDRKMjM3ZEl2MXJzQW90VVFuWEJXVzh0S1lxYzd5WjVHUGkzZGtvU0ZLekxlanFiLTR5SmtiXzRZVDZEdUhfZW5Pc3hrUjRvU2lTbGdRc29JM3hCQU9FaThSTmowSW1KYmZEUnk1TlktU1lsV2prWEp5UHhiN0dxdi1uejNNaW9YaWR6cktHNUx4X0JIR3Jn?oc=5",
       "source": "Google News — Eagles",
       "published": 1759180637
+    },
+    {
+      "title": "Takeaways from Buccaneers-Eagles | Week Four - Tampa Bay Buccaneers",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OTnNnTmd5bFRuSHRZeVV4TzRrWmh0Y001UUd2VDU0VWJEandqU0RSdFdxdmVNVks0ME9nTG9HVUpJQ1pHU3VtVWFwUXhjam81SWpIQno3NVhMTnNyclE5TkIwc1N5TFZfWXVvRHB3WW9LSmhxTGc0c1drQmRPSE0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759175797
     },
     {
       "title": "Denver Broncos vs Philadelphia Eagles picks, predictions for who wins NFL Week 5 game - The Arizona Republic",
@@ -139,12 +139,6 @@
       "published": 1759099275
     },
     {
-      "title": "Spadaro: 11 observations as the Eagles improve to 4-0 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlJQRFpYZktRVmpSb01JSnJfNTNrSUtsc0JGQmw4c2ZHd1lMYUhMcW1CWDByOVdaSV85VWxGUWJfa2J5eWpjSkpDMlBpQTlRXzlTXzlMNndvdUxzUld0OHhtcW5ydmhBcklMWWFiSzNxZ2ZYYVY5cV9CMDBpa1lOclZudXJkZFFBTEU0dk9hS3dLM24tUGln?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759097064
-    },
-    {
       "title": "Eagles Locker Room Interviews: September 28, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTHg3Y0djaHdrcUdTaXJ1dF9vZmd1czhpNndxRmZMTWlaNFlDSHA5MzJpanVSN1FsZjU2OFdld1k5ZHhjbndlYjJpYXJ1MzdrVVlIb2w4TTVGbGNjcUJlaUxqb2ZqN3RjUFFIaGZhTnE4VlgtS2NjenZVaXloYXNGOXpJdmlkYzFrX04ybzVuamtkQQ?oc=5",
       "source": "Google News — Eagles",
@@ -175,10 +169,10 @@
       "published": 1759096018
     },
     {
-      "title": "Eagles vs. Bucs Full Game Highlights | Tampa Bay Falls 31-25 - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDg2MkdCaTB4dlRwNzY4WDlTRHA3WUhKUGRIdGszZHZEVlpPRjdrWk84QmxWN2hISGd0a3UtcTVmOG5YQVBPQlgxY1lSSk9SOGhhRnE3OWV2dFdpTGllTDBqRW1wczRlRVVlaFYzNXAyZ1FGMFY2bDFFU0xUQjJ6emUwS1A0bnhUNHdjNVlLZDNYN2c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759092461
+      "title": "NFL Week 4 Late Games",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/159781/nfl-week-4-late-games",
+      "source": "Bleeding Green Nation",
+      "published": 1759094138
     },
     {
       "title": "Spadaro: 6 storylines to follow in Eagles at Buccaneers - Philadelphia Eagles",
@@ -199,16 +193,16 @@
       "published": 1759091199
     },
     {
-      "title": "Baker Mayfield Reflects on Game vs. Eagles | Press Conference - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUMyenloWC1XazQzSTRhU1Bsci1vM2JzNW1ESHpJblplWEJLdEI0VGFueDZMajVBT0NjREtKbWRGT01IdElrbkJPMzdVYjJ1ckg0R2JPdE1ITlBMMFNabVp1SjQxQXp4ODg3YkxXZUJ0ZUFrOHRFRHYycE50Si1ZZk1JSllGcmF2VFJTVC1Ybk0zZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759089900
-    },
-    {
       "title": "Highlight: Jalen Hurts underhands the 2-yard TD pass to Dallas Goedert - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUR5dHNwN3dqeEYwQU1CVUV0UVNFOW90Z3JNTG5VeXhoZmUxcnZpLUNreUliM1AxMlBZQlY3NTJOYXIwNFI2V1I4LU9JcFFIZ2t3RklzNlN3ZkxSeHQ4dmxoT1J3a3ljWkY4bWlkT05BeGEzODRaRk96YjJXLUpPdEtBQXBhOGZORDZLWTFmeVhBTU5qNURBNDZIWTU3TkU0a05rZ2FTNVFvdmRtejdv?oc=5",
       "source": "Google News — Eagles",
       "published": 1759081119
+    },
+    {
+      "title": "What channel is Buccaneers vs Eagles game on TV today? Start time, NFL schedule, streaming - The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb0R4VmNTdTAtUWdDU2VfMEVVS210TDVuWUJhcWVxN0x3YVdlRTRuczl0V3hWYm55bUw2UWpCTjVDeE5nOXhuMVB5QmtfOWZXam1hdm5KV1Z2SWp3bDdpcWtUdmlwUk90eHM2cFQxZzd2S1Y5cVB2ZlZOZ2ZUblJ3anZLNnJydW1iRjdPZEdWSUVYaTI2eEtqVEQ1UU9sWVVndzBFaFc0Wmp0QjBteHJLUGxJR1VDVW43RThPNzI1anpBMzM4cUZrVG1OdFV2YkxDUzg5SlVKQWpPM0hWT0JKVVFWTG5iWTFqMEVYMzFGNkdiODZ6R0U4cEstSDZVRW9fQzVr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759078800
     },
     {
       "title": "Eagles 31-25 Buccaneers (Sep 28, 2025) Box Score - ESPN",
@@ -233,6 +227,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbG9QMGxRR3FXTGFQY1RWazE5eDRpcVRoR0pZRkcxMzBOeC1fc2czNGZBY0FVb0tJbG5NTGV0UTJxQTRqeWo5RmpxNk5GQUlUQnZVTkUzSkFZeGg0XzFDeWc5TTdMRWpEeXNmRmt4aUx4Y0RCdDhaTllJYjd0VXJzX0dzZXVDdHNGOV9BQ183dUg0Y00?oc=5",
       "source": "Google News — Eagles",
       "published": 1759073526
+    },
+    {
+      "title": "Where to watch Eagles vs. Buccaneers: Prediction, pick, odds, spread, TV, live stream for Week 4 showdown - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMWNpd1JsMUpOSHhCZUV2LUYwejl3Mk02R0dLb3pZMmJQR3hWMjJhZmpNOFhHOU5oV0dWLVJxaGVaZjBSS1gxcE5YZmIxclBNdkdRNVFTc0VNZHNwY0dRS0M4X0F1WTNkU2NNcWlEOU5DaTFFSFBQVGVqckdXWWNFcnRMelBIWTd6ZzUwc1hVaGxIdGt6Wm9oTXZJSkVzaHdqalA5ODEwUlhfUUhOUFlvZ2ttVXlkeDdFc3dJcDlrWlR5ZmhJNElBbFNHNTVJX0tITzhuZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759071654
     },
     {
       "title": "As Eagles prepare for Tampa heat, do Florida teams really have a competitive advantage? - The Athletic - The New York Times",
@@ -341,6 +341,12 @@
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTGM0VF9FYkNVSHFCME5HelVJcEhVbk13TXJzLWxibmtOay1TQ1d3SnhoS1F0aC03RFhqX0RrekZpOERnRkpMYkdQazVfUEd6N2NZQzFDbUVDcXdoWXhXbGw5MGMtYU5nNVpMN0VBdEl2aWhZRVVNRVc5Wkd4a1BXbEZlNTR3WjZaUlpGUUd5cl80azEwVHg1TUZmcFNrc0gtMlZMQXpuVThEd2doSzB0SHlsdWZReWRHbzFUUkpIWTVLbFR2VVpMSElqOVo1Y2tvS0ZjcURUaTcxdUZkY3g5eFZQcE1rUXV5VVFNWENnT3MwZVJTbnc2QVN5ZlFzcURMWF8yVjE4YndJVzZHWnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1758737639
+    },
+    {
+      "title": "Jordan Davis named NFC Special Teams Player of the Week - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUFDd1JkNWVDSjdMU2pDclJZa0daUEM5VHNMTHNEMDRNbHRUczBObF9hZjNKdXhIVnJHY2JjdVQ5NjlFYnJ5VEhNNGMwVGVialJRczBMZVBRZmk5SFdUeWRpUmVmY2pycXRVTmlWY1R1N1FQWlU4OEotb2RELU1QZHhXcl9mY01rWGlrdDR3M1c4NUszWFNGS2o1MA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758730151
     },
     {
       "title": "Eagles-Buccaneers: Top Storylines & Key Matchups in Week Four - Tampa Bay Buccaneers",
@@ -463,12 +469,6 @@
       "published": 1758438000
     },
     {
-      "title": "2025 NFL Bad Beats: Eagles Miraculously Cover with Expired-Time TD - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFhvZkdZNmhxVXFLMG5DazExd2JxTjBwa09leDJOZ1VXY1hyd29Ud3htU2U5VkVUc0tIY2UtbGhyaVQ3ZWRQdkR2bzBMOTJ1eUtiWVZjamYzRlY1bW0zRkpqQ0Zvd3hOT1JScTIxckR0LTFrQ1lZUnRaYlM0alJaMzlhU2tabUh4TGJDZldNUHA1NFIwNUoyd0Jyd0xnQjDSAZ8BQVVfeXFMT2Z0UENnQ19wZF9TQVV1N3QxR0RkbkVUUkdHcXdTY0FQdS1DT3BMOUhsY2V0NDRJTWxRdENqb19pR1ROTkx6NlpsRnZpdE9XV0NzRDl2X3k3RHFOSmswemJoTVllcS1tTk40dDh4eWY0c1NoZTBEWkFYZjUtOUF0akU2MUYtVnNQcHo4N2YxX3lhNkJzWWRpVnNuM0dhMnRr?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758438000
-    },
-    {
       "title": "Eagles’ blocked field goal leads to all-time bad beat for Rams bettors - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2U0ZzdLNlJBeElTeWJGblJ5Skp2MXRjR21NWlZMS1JEaDYyU3JVOXNpZmRBaE5MZWtpeGQwREJjd0J0NjFJYVpsdkVMZENldmNKZDRIOHFGRGUyaWhyRXZvQW15emt3NXltT0V2Xy13WmZDdkdXVXR6QVloQ29IUUt1TEU3M0F3UDhlRGpQWXFSTzh3VWd4QWZiVGtta2FpNlE?oc=5",
       "source": "Google News — Eagles",
@@ -511,16 +511,16 @@
       "published": 1758351600
     },
     {
-      "title": "Eagles' Signature, Controversial Tush Push ‘Is Done,’ Jason Kelce Predicts - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObURVY1hLN2Nfa2dWN2hab0FkUjNpM1lPRC1CSTRPMGtlZUYyTkVTN3hLeE1EUFc1MVlEU2hHakpOaDRqV01sd25yUmtsZl8tSTZvMUpmazVCcWpYMzlrMDFEWGRDdEVhaUxyNEV4bmltbHZ3NEt5UXhXTmZJWVJPcFA5enBId1pwQ0FNYVVXTzhYRmJlSExIRkdId0l6SU04V25mZFRvNnVGV2PSAasBQVVfeXFMT1RhTHRra1RlZjk4OXhYcG1LSXZSSDFWYjdZRDBRLS1xV0JFZ0JRNk9kdFRFUEdNSUZsRzlQNjB3ajNSM3ZTUFRFYXNNOGpNQXhZWUhGc2lwVFVueW9vV3FUbXR4Sy1ha19CTXI0bHVnQ1hNMDN2cjc3aXNaclU5M1BzUi1teXZxd0pBYmQ2LWVUSnFmaDBvOE5LdEwtWEpzZm90Y2wzeGJ2UkdF?oc=5",
+      "title": "Mosley, Defense Lead Eagles to Resounding Win over NCAT - North Carolina Central University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWpxdF80YThlWjVjdHd4eFZtcUZNTFVSUVBXSFFOSzRlcUhUMHROMWVocnpFMGdHalBOV18yd1R5UXM0dzBKWmZ0U1hMREVrd214UDZ3TndJVXYwWjF2S3BsOWlxN29iYTVWWmMyblFhV1hMSTZ3ZUlxLWNabFY1RGFzbk1ieWNFdHAyTnlXR0dEb3FrdThLamp1aGtVdGJDLXRoS3M4WEkweHBTdHNr?oc=5",
       "source": "Google News — Eagles",
       "published": 1758351600
     },
     {
-      "title": "Spadaro: Once again, the kids are alright - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFlkSGlXdGtlaUFKUTN0cklXVWdFX01NQ212cmJXbFRBaHZsemNnSkxreDl1dnNoblZTbjEzaEtDLXhIRnZuLXVrS2ZCX1Z4Z0hpc3A3RV9ndVBuZXUyd09rSlZodkdoWDIyVDYwUUlQd0VHb2NzeExIUTc3NXdONlh5dVh1Zw?oc=5",
+      "title": "Eagles' Signature, Controversial Tush Push ‘Is Done,’ Jason Kelce Predicts - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObURVY1hLN2Nfa2dWN2hab0FkUjNpM1lPRC1CSTRPMGtlZUYyTkVTN3hLeE1EUFc1MVlEU2hHakpOaDRqV01sd25yUmtsZl8tSTZvMUpmazVCcWpYMzlrMDFEWGRDdEVhaUxyNEV4bmltbHZ3NEt5UXhXTmZJWVJPcFA5enBId1pwQ0FNYVVXTzhYRmJlSExIRkdId0l6SU04V25mZFRvNnVGV2PSAasBQVVfeXFMT1RhTHRra1RlZjk4OXhYcG1LSXZSSDFWYjdZRDBRLS1xV0JFZ0JRNk9kdFRFUEdNSUZsRzlQNjB3ajNSM3ZTUFRFYXNNOGpNQXhZWUhGc2lwVFVueW9vV3FUbXR4Sy1ha19CTXI0bHVnQ1hNMDN2cjc3aXNaclU5M1BzUi1teXZxd0pBYmQ2LWVUSnFmaDBvOE5LdEwtWEpzZm90Y2wzeGJ2UkdF?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758178800
+      "published": 1758351600
     },
     {
       "title": "Eagles LT: Tush push chatter makes 'blood boil' - ESPN",
