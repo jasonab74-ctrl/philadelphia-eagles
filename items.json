@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-09-30T08:30:35.067984+00:00",
+  "updated_at": "2025-09-30T09:23:08.093337+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Monday Night Football doubleheader: Week 4",
-      "link": "https://www.bleedinggreennation.com/general/159972/monday-night-football-doubleheader-week-4-game-information-jets-dolphins-bengals-broncos-thread-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759190299
-    },
     {
       "title": "Eagles' Nick Sirianni responds to A.J. Brown's cryptic post: 'I question nothing about his desire to be here' - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUVqUGhKOTA2MWUtNjgtLVFsZktEdHJZZXNUWndEMnRKQnhuVjl6cDMwVUhkQWJ6djNQeE9yWU50dDhsczhiWFdSelJqbUl5VHZtNUdlS3ZQVGh0SjBIbEhPenN0ck9FbmRXRGRUalNUbExWRmF6ZWR5LTIxaFp0WlZ5S1VVdGdSOG1OXzBmZWtkWml5ZmN0X2RLeEVveHRScGlOd2RrZlRQc3pfZlJWVDBzeUk4ei1TQ3lDME9ZMk1tN3dPTzlkdXl0SHV5dVBONUt2Nlp3?oc=5",
@@ -35,12 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSGxFQkJUNWIyVXBmSDQyR1FMSHJ4XzJFbXoweFQtZVJrQ2VaTXl3b0x5NGZ1MGtlRzdad3lIaW1xTGY5WUljd2JKaXNBcmpMSDVnOXJiV21JeHRwMGh4UXRTLWlHYW9JVTNXS19UNmtfUUhpaEVwNm9fQzcwei02bndFZEJ0Z3QtSkZTUl9fQ0pZTEthUFo4c2FUX2RhZEdMY2Z6THJjaVZSVGRFSDQtV2s4aC1sSmpXSnF6MWwxLVNJc0dRQ29IRXZSWmRuZ2ky?oc=5",
       "source": "Google News — Eagles",
       "published": 1759174585
-    },
-    {
-      "title": "Eagles News: “They need to find a way to play 60 minutes and they haven’t come close to doing that yet”",
-      "link": "https://www.bleedinggreennation.com/news/159968/eagles-news-they-need-to-find-a-way-to-play-60-minutes-and-they-havent-come-close-to-doing-that-yet",
-      "source": "Bleeding Green Nation",
-      "published": 1759167093
     },
     {
       "title": "Seriously, what is going on with this Eagles offense?",
@@ -187,6 +175,12 @@
       "published": 1759093800
     },
     {
+      "title": "Eagles-Buccaneers final score: Philly survives Tampa Bay comeback attempt",
+      "link": "https://www.bleedinggreennation.com/news/159766/eagles-vs-buccaneers-live-score-updates-highlights-injury-news",
+      "source": "Bleeding Green Nation",
+      "published": 1759091640
+    },
+    {
       "title": "Spadaro: 6 storylines to follow in Eagles at Buccaneers - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDlxRDNBaHlUOXlaajZwY2hOYzZXUnVRaTJyemVzNXIyLTVmeU5HaGZEdF9hVEptbzE2NTZ5ODhkcUZ3SHItMURlZEVaN0dmb2xiZ3lwSzk5ZVZOVXNtR1g0eGtIQXlFQ3Q1OTI1aWhGbzVMSXFCY1NxWE9qdE1RNXZlRFFlbDdFNFJTNUx6YjZoTVk?oc=5",
       "source": "Google News — Eagles",
@@ -209,6 +203,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUMyenloWC1XazQzSTRhU1Bsci1vM2JzNW1ESHpJblplWEJLdEI0VGFueDZMajVBT0NjREtKbWRGT01IdElrbkJPMzdVYjJ1ckg0R2JPdE1ITlBMMFNabVp1SjQxQXp4ODg3YkxXZUJ0ZUFrOHRFRHYycE50Si1ZZk1JSllGcmF2VFJTVC1Ybk0zZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1759089900
+    },
+    {
+      "title": "Two Eagles offensive line starters injured against Bucs",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/159838/eagles-ane-johnson-tyler-steen-injury-news-updates-buccaneers-game-weel-4-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1759089235
     },
     {
       "title": "Chase McLaughlin Kicks 65-Yard Field Goal | Eagles vs. Bucs Highlights - Tampa Bay Buccaneers",
@@ -271,12 +271,6 @@
       "published": 1758919403
     },
     {
-      "title": "Eagles Locker Room Interviews: September 26, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGJEM05EcVZONk05N1ZhS21tTkstOWFtZWdpcFFMNl9DWjFIODlxd1NlX2lfSE9DVVRvRkZjLV9QSko1RVM5UzRsUkhBRE96cmxHSHBLdTBrclZxa0JHQm9kUjYzMWJGU19OMVdYM2hJZmY0OTN2WTd2d0VyUEhiQ0pLVGJqQmlzbW4zS3JONWIzQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758914765
-    },
-    {
       "title": "Week Four Expert Picks: Eagles vs. Buccaneers - Tampa Bay Buccaneers",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2JpRmtyRWtnUXI1RVBKOHc0SWtPVE93eWpBT3ZCa0ZqbWhRTmJBa0ZDYVlTRU0zR3ktUkh6bEx6NVIwc2dja0dzQTBlWWJkME95THNqbG9CVk5SZS1oMVZxbEdrT25RU1M1eU1mXzJYLUhKcEVYNk5ndFFwN01sVnFFYWxzdVk?oc=5",
       "source": "Google News — Eagles",
@@ -293,6 +287,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR292Q2MtMjVqb09OUi1EZFIwSjVsVDJkWlM3NTA4VHhKZnczU1lKZ3IwWG5NWHNNYU9mR3pvRzZkU25MOU9yVkl2WVc5b0d4OVBmQTFsU19XVU44MUp1dUxsaHU5bWd4UUNXWGdkSG5PT2FONVFNZk5QM1FJcTdTTDZHY3h5OW1ZcWlENTQtdkZMODlMOTlvbUItSGFBdkV1VkxMeE9WNE1HQ1ZiT2VWUTlBazFrSFl4NHEyd29OcWs0N085a0dPU0lfRC01NERxSlNyV1FPb0gzRFNCdzFpbXZB0gHqAUFVX3lxTE5RZXEzVS1LbkpYdjhZVFdnVW83QklVaTJuRU90M0NwaXp1V3c5N3RYVWNvTEk4VGVUSGxkck40WXlybVZsUnI5VG9MYy1yb2wzV3BiWG03WU03RmV5N2hUNEJFUE9rcVItRGNmVWNCRVgyR21BMHdodEZXMHVZX19mTGxVWElHdjY5WUZScGdiM25RWmFaV04wNXltcy1pS19RZk9aNS1LMm1INjBZeWllbUdGdHhrTjRRZXduYkR6OVdZY1puOEtkMU5HdEduNW4zRnR2RVNqMHRjRFZoeURKNklyNEJzd2FYdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758848229
+    },
+    {
+      "title": "Buccaneers QB Baker Mayfield questions Eagles' plan to beat the Tampa heat: 'I don't think that helps them' - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPelp4cFJZU242UVhXVm93Z1FmX0thSWVVUGFPbmRORldUMTZuc1gyTVh3Tjg0N0RjNjhueURweFhzVU45ZU1lUldXOGJ3aWE4eUMtWWttaC1kVlIxMlVkZzlYN19aelRPdWpSanhfSHpYSnkyQmVBNjliRnZfMkhLUDByMkxRbU1KUjhObEdMMXRSWkRacnhCQ0lyNDhQeDZsdngyeHFiQWdKcVhvZ0pUNUJiUV9OSGpkdTZ0NDNKdkdyUTJZb0hnLUVKeUl1ZGRTQkQ4Yw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758843945
     },
     {
       "title": "Eagles Locker Room Interviews: September 25, 2025 - Philadelphia Eagles",
@@ -317,6 +317,12 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW04VVdsTkRGSzN2cy1UVk5RTmtfaGZ1bFFSUXMtbTgtdHZEUnZRQmFnTkgtamRGX1dkWmo1NXU2S2tIRHN2WU90V1dnS25WMTQ1eUdXdk1INnI1RW5acGlHMkxwaUNTTWNUdkZnczdxNElZTi1oazZiVllQR3llQlcwQzVtM0tsV0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1758819507
+    },
+    {
+      "title": "5 Bucs to Watch Against the Eagles in Week Four - Tampa Bay Buccaneers",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ085T0RGVldZUUF1MlJCc3NSd0hwWlBLeGJaX1I1NDBJc3lwb3RHQUN3ZWgyamN5VDQxQl8xMG9RQmpMbFhXajh1UDF3MjFPTTRiMzk0SGE2WGtVQkpSVTlaaDVabldQWDM2V2N5Q19WXzhTd2N4U3pzTDVoUzU5ZGYtYw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758818303
     },
     {
       "title": "Which Eagles were nominated for the Pro Football Hall of Fame Class of 2026? - Philadelphia Eagles",
@@ -355,10 +361,10 @@
       "published": 1758723548
     },
     {
-      "title": "Eagles OC Kevin Patullo: We always want to be in 'attack mode' - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUF3TGItZl9Fa0JZR1R2TlNPVjZqdkdnTTVvb2ZfU2tFQWs0SkFYYTNhUHE1VlNFWVdrYXRNczl1OXNQVTBnZjJRbElSa1drb08zOHBtb25selBzQm52bHVvZkdla2VYcU9TWkVPQnZ6bmhmZU1LMFVDSU1CSFVGZDdNd2tUV1BHTXVqcw?oc=5",
+      "title": "Philadelphia Eagles at Tampa Bay Buccaneers: Predictions, picks and odds for NFL Week 4 game - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWhDWFRDLXNhUzc4Ymk1WVRzNGNnOUJuSFJKSDVxbXYzaUFzTHRSbzRJTkQ0eUE2dGFEZHJWYkpSN01wZkNSem85d1JiTVZHUGU5eTNyUE9MTk5lTDlFb1JnWlJlS2lEb29HcFlnWEZNQXZjT1lBSTNicEhoeTc1UjBjUzhjOGlrY2txOHRVaUxhZ1gtaDlUek4wMlk5ckxfTzRlM0czMFBnRy1IMnIyZ2RvZ0YxVFNW?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758711060
+      "published": 1758708402
     },
     {
       "title": "Philadelphia Eagles Odds: Week 4 Spread, Futures, Props, & More - Legal Sports Report",
@@ -433,20 +439,8 @@
       "published": 1758438000
     },
     {
-      "title": "How to watch, stream, and listen | Rams vs. Eagles - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV01qcUV3U0trTU1LUlZzR2xxQWtpaU5vVE5IRy1Ya2U2UDdycjNEaHRNeUxKdVBoVmRQQ1BVMEllUEIzN25RV0dYZ3hfaG9JMzhJVFdTTnA5RHdhMUJCYms0Y3RoV2VWTFhaRTF3R3pXWktNak5pUHRpRDJheFdPMS1iMGlUSXplMW1FQW5TT1hfVVEydG5TdUVDV2FpTlpOSmp1TGlfWXNYUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758438000
-    },
-    {
       "title": "Spadaro's Instant Analysis: 5 takeaways from a remarkable win over the Rams - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjFDT3B3NVlLcTJkeG1CUWpZQjNjRTE5andla0V6R0Jvdl9MSEZBcXhhRTFHQTg2M3cxNWRENTQwTy1Sb1BDcFhXejJRQVVRWHhoeGZNTzVRX3E4SmFkUGlVRjAzYllxX21TSF9OaU1mUDNELVZ2MWJnYWdFOC0zeTNuOGlxOWpiay1ubGRIN1FIcnZudmZZZUEtZXpRc2NVMVMtRC1xT1YydkJkdDZyUUhn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758438000
-    },
-    {
-      "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Week 3 - Rams",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXdhUnlTME95VktEcjFBNEF4YWNwaEhLRDB1VjJYcVBvS05oMjZkVVFhUlVFd29LUHBqbXZiY1oyNEdDSXpTOHREN1o1MS1tZVhITVh4X2U5WkJjYS14bzBXdHIzNDUzRWVmbzBpOVB2N0Q0QjlxSVF5djVpS3ZMM3lxbW1WV0hWS2FJNk5zeUFiaV9MUkViek5IazVvdW03RFA3QXNvUE5admd5T01QbUNnWHF6VlViZGxv?oc=5",
       "source": "Google News — Eagles",
       "published": 1758438000
     },
@@ -477,6 +471,18 @@
     {
       "title": "2025 NFL Bad Beats: Eagles Miraculously Cover with Expired-Time TD - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFhvZkdZNmhxVXFLMG5DazExd2JxTjBwa09leDJOZ1VXY1hyd29Ud3htU2U5VkVUc0tIY2UtbGhyaVQ3ZWRQdkR2bzBMOTJ1eUtiWVZjamYzRlY1bW0zRkpqQ0Zvd3hOT1JScTIxckR0LTFrQ1lZUnRaYlM0alJaMzlhU2tabUh4TGJDZldNUHA1NFIwNUoyd0Jyd0xnQjDSAZ8BQVVfeXFMT2Z0UENnQ19wZF9TQVV1N3QxR0RkbkVUUkdHcXdTY0FQdS1DT3BMOUhsY2V0NDRJTWxRdENqb19pR1ROTkx6NlpsRnZpdE9XV0NzRDl2X3k3RHFOSmswemJoTVllcS1tTk40dDh4eWY0c1NoZTBEWkFYZjUtOUF0akU2MUYtVnNQcHo4N2YxX3lhNkJzWWRpVnNuM0dhMnRr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758438000
+    },
+    {
+      "title": "Eagles' returning a blocked field goal as time expired had major gambling consequences - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThBNm5ib0NTRC1WYWhPUzdkM3dPZ0dJUFF6RktiMWNQbFFXVTFMZ1BFN0ZURHJsMEVSZmNOSFhDc2pEVXBiYTJQQTV4bDROY21pZ0tIZVQyNXcxek9KR1V6dTlUcFJZMnJqaW9nWmZ6N2ZCdGp2NzhWTHhrSndZeG5TUGF5bFFOdDlUZk9kM3VWU2vSAVZBVV95cUxQd0lWbmNlcXFoZXJSaER6RElCUmFlamx2djVQZFlKY1o2Rjk3UjJHNjBYZEhPTGp6VkNtRmlsZGdxOGRsVnJTM2V0VHlyalFzRGRDOFVzdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758438000
+    },
+    {
+      "title": "Eagles’ blocked field goal leads to all-time bad beat for Rams bettors - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2U0ZzdLNlJBeElTeWJGblJ5Skp2MXRjR21NWlZMS1JEaDYyU3JVOXNpZmRBaE5MZWtpeGQwREJjd0J0NjFJYVpsdkVMZENldmNKZDRIOHFGRGUyaWhyRXZvQW15emt3NXltT0V2Xy13WmZDdkdXVXR6QVloQ29IUUt1TEU3M0F3UDhlRGpQWXFSTzh3VWd4QWZiVGtta2FpNlE?oc=5",
       "source": "Google News — Eagles",
       "published": 1758438000
     },
@@ -515,12 +521,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObURVY1hLN2Nfa2dWN2hab0FkUjNpM1lPRC1CSTRPMGtlZUYyTkVTN3hLeE1EUFc1MVlEU2hHakpOaDRqV01sd25yUmtsZl8tSTZvMUpmazVCcWpYMzlrMDFEWGRDdEVhaUxyNEV4bmltbHZ3NEt5UXhXTmZJWVJPcFA5enBId1pwQ0FNYVVXTzhYRmJlSExIRkdId0l6SU04V25mZFRvNnVGV2PSAasBQVVfeXFMT1RhTHRra1RlZjk4OXhYcG1LSXZSSDFWYjdZRDBRLS1xV0JFZ0JRNk9kdFRFUEdNSUZsRzlQNjB3ajNSM3ZTUFRFYXNNOGpNQXhZWUhGc2lwVFVueW9vV3FUbXR4Sy1ha19CTXI0bHVnQ1hNMDN2cjc3aXNaclU5M1BzUi1teXZxd0pBYmQ2LWVUSnFmaDBvOE5LdEwtWEpzZm90Y2wzeGJ2UkdF?oc=5",
       "source": "Google News — Eagles",
       "published": 1758351600
-    },
-    {
-      "title": "Rams vs. Eagles Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnl1aTYtSDgxcDd2SHJVTWxrSXR4ZTBoUUJ4azV6Z3A2c0cwSlBWcGRSQ2lRWGNqOExTOWZTOEFtUjdGcmkzT3J3bEJZcnhNZE03VVJ0S3VjNGF0QklVZUR2TWxaekthQnlUUFlmemtUd3pkWnFSU2drQzhNOWtVMGUwbDdrbUU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758265200
     },
     {
       "title": "Spadaro: Once again, the kids are alright - Philadelphia Eagles",
