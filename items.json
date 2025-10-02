@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-02T14:20:34.750808+00:00",
+  "updated_at": "2025-10-02T14:42:29.096943+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Injury Report: Dallas Goedert misses practice",
+      "link": "https://www.bleedinggreennation.com/news/160141/eagles-injury-report-dallas-goedert-misses-practice",
+      "source": "Bleeding Green Nation",
+      "published": 1759415474
+    },
     {
       "title": "Cal Adomitis, Jake Elliott share something in common | Broncos vs. Eagles Daily Updates - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2tQOWV6TFFjR0lMc0ZialYwSFJKN0gybHNuMGV3bHF1Qk1QZ1poeXVoY2I4M0lGc0tuOTZjeFkwS0dnMEpkOHBXY0JEc0tsRnJrVXJoRkhrQzZzTmRGOFpEUXJPM2FHbHlQTFV2RzNycWN1alZ5Z21oTk9Ed0hMUndHc3Bzdw?oc=5",
@@ -22,7 +28,7 @@
       "title": "Quinyon Mitchell earns NFC Defensive Player of the Week honors - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTFLZHRGZTFsZWhPSXEwVjR2X0x1SjdLZjcyQnFaUTJ1TVFvVkRDdURoWnpubjRtclZ1Q09WdTNOdHJmV09GV1ZKaVI0cGJRSUx1eGR2WllObDBjTXYwOEFOZ3NOMW1OSU1xa09INkRWVnR6U2dMMlA4cGJSZnNzamk2VFRic3pRZHhWM1RuSzN1cUpRZkpEdW5EbEg0bXdUU1E?oc=5",
       "source": "Google News — Eagles",
-      "published": 1759358279
+      "published": 1759358283
     },
     {
       "title": "Broncos vs. Eagles Injury Report - Philadelphia Eagles",
@@ -91,12 +97,6 @@
       "published": 1759282798
     },
     {
-      "title": "Eagles and Lane Johnson are both silent about his most recent injury - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUk53SWIxQWZkT2w2VlNRSmh4UURqaE52R3RfYmtZVDJZdFpNajdoWmpnRmhPSk1fY20tSmZta1Z2dDVVQVpMdjZjM1FyX3VGbG43TFczS3luX2dJSnI3bXU4OTlZR0ZQNnloeGsxTk9kNlpzc0hLR2pyZi10LUFFSFlhSkF5X28zTlh4Zy1Ib1k2NHdvR1FnNEJocTBPbWNiLWFJMGhHUXFndUMtaV9PdExpbUl0VHBHUkZfSGFKNlhMR09qNlRr?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759277877
-    },
-    {
       "title": "Eagles ST coordinator explains new rules for kicking balls",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/160041/eaglesmichael-clay-special-teams-coordinator-explains-new-rules-for-kicking-balls-nfl",
       "source": "Bleeding Green Nation",
@@ -119,12 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkFTMWEtMzhTMGJ6MGlYTG94UXZja2xMeXVKNGdFWGpKZERYcDNYLWNYZUpWTXVtbk1qMzBNVzk0ODRVd3dIU0tyTThIMGgtUTJodTVOYXNnS2dEVzlYbEpwS3BkWTFiSHpRaEVHUVI4M3QyYmVYNlR1TXRNbXlvdXYxMkU5Z2ZJTXYyQWV2UWUtNC0tT3lDTU9sUUNXSzBhR1ppUWE0c2toNkdPUzlCamtJMEZDQ3dobjh6bHNR?oc=5",
       "source": "Google News — Eagles",
       "published": 1759267841
-    },
-    {
-      "title": "Eagles surprisingly have a new long snapper [UPDATE]",
-      "link": "https://www.bleedinggreennation.com/news/160060/eagles-surprisingly-have-a-new-long-snapper",
-      "source": "Bleeding Green Nation",
-      "published": 1759266783
     },
     {
       "title": "Eagles Trade Bust Signing With Ravens' Practice Squad - Sports Illustrated",
@@ -179,6 +173,12 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OTnNnTmd5bFRuSHRZeVV4TzRrWmh0Y001UUd2VDU0VWJEandqU0RSdFdxdmVNVks0ME9nTG9HVUpJQ1pHU3VtVWFwUXhjam81SWpIQno3NVhMTnNyclE5TkIwc1N5TFZfWXVvRHB3WW9LSmhxTGc0c1drQmRPSE0?oc=5",
       "source": "Google News — Eagles",
       "published": 1759175796
+    },
+    {
+      "title": "Denver Broncos vs Philadelphia Eagles picks, predictions for who wins NFL Week 5 game - The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSGxFQkJUNWIyVXBmSDQyR1FMSHJ4XzJFbXoweFQtZVJrQ2VaTXl3b0x5NGZ1MGtlRzdad3lIaW1xTGY5WUljd2JKaXNBcmpMSDVnOXJiV21JeHRwMGh4UXRTLWlHYW9JVTNXS19UNmtfUUhpaEVwNm9fQzcwei02bndFZEJ0Z3QtSkZTUl9fQ0pZTEthUFo4c2FUX2RhZEdMY2Z6THJjaVZSVGRFSDQtV2s4aC1sSmpXSnF6MWwxLVNJc0dRQ29IRXZSWmRuZ2ky?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759174510
     },
     {
       "title": "Eagles snap counts: The 1st game without Nolan Smith - NBC Sports Philadelphia",
@@ -463,12 +463,6 @@
       "published": 1758643479
     },
     {
-      "title": "Eagles' A.J. Brown makes plea to Nick Sirianni to switch things up on offense after big comeback win - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDdFMkFIOFVxMXEtRDdWZWNFVDZtM1pRNFhzRFZpaFV6Y3IySFRaZk5DeVJiNWw1VjRPX0cxTHU4VWRjQXNuc3BwbnRrdGxEM2kyaS1ZNEUyS19pb1ZLN2NyN2N6Q2YyaWphaURiTWZKSmNadTktX3lMbVh1ZUZaYzRpdGc1RFhvZW0zcUZrc2tjVUVMVGJyTDB3a3ZNeTBKUFctN2hFNlpYeHhOeFVtdU9HdmxnQjVicldJOWgwcnYwNWk3QUdv?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758524400
-    },
-    {
       "title": "Game Highlights: Eagles 33, Rams 26 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjhGeXVlcmxKLVBYeGRxemE5MDVXRGlURDV0alRZbThiaHk0U01Ic1JLOXhDT01Rc2xCNEtRSjNjTDF1UDI1Vjl4WXF2MkdUQ1pDcTdzUDg5Z1pwblN2SS05S2IxSlZOUkRnTkdUODE5WDkzVDBxdkVTY3JQbnd2eWtzVXFhNXZDb1hkMWhDQQ?oc=5",
       "source": "Google News — Eagles",
@@ -537,6 +531,12 @@
     {
       "title": "Eagles celebrate Latino Heritage Month - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlJ1bDN5V0NyM3NxemJNcVk5Wk8wZmhyTzd0bjQ4WDJDTUtCc1JhbDBWT3FLRW90UElxMEhjV2NlNVVKZ2RrZWtaUllEYWtyT0NrLUlCYmswM1BLaHJfUkt4OTFsd0xNV1BxTjVjbkxxLTFxODNDbzMyWXZaU3VOUndDa28?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1758351600
+    },
+    {
+      "title": "Eagles News: “The idiots who want to ban the tush push keep changing their reasoning” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUYyczY5eUNPSDI5VzVMVHItUlczY3F2REZsbjhwMVV0Y3J2N1BjNzNGTUE1YXcxWVhqLUV2czNOb1BFQTRUU3BjZ1BnSWlCZ0JVNkFiTWpSNHRDdzR2QVhCVllWQzRrNDR1R0RhTTVMMDdBVS1GbWE4RjlXdldGSkhZVE9GcGVZNEw4cmVQdk5kQ3c2Y1FIVEg2ZFVQRnJrYjlldU8zckx4S09hSG1odFZpSU5PT2hZNEhhNlRyVW0yVFZESUV5TEh3?oc=5",
       "source": "Google News — Eagles",
       "published": 1758351600
     },
