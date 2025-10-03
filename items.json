@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-03T13:43:31.808450+00:00",
+  "updated_at": "2025-10-03T14:19:27.129979+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Regression from Philadelphia’s offensive line",
+      "link": "https://www.bleedinggreennation.com/news/160209/eagles-news-regression-from-philadelphias-offensive-line",
+      "source": "Bleeding Green Nation",
+      "published": 1759498449
+    },
     {
       "title": "How to watch, stream, and listen | Broncos vs. Eagles - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU0ybTRDOF9VMk1UZGNrbzhGbEtMaGZ0STZzS29HU0V5MkgwdDBhX2lvVHhCQWFWeHVkX2tfNVJtZWJGMnRoQ1dtWHhsMVlramx5bElZZXVndUZYRGM2YkhMUHZTVUZTdGUyYzNGMWRXWjE4QU1GbHhRUUpFb1ptWVo2NUJhLTRhNl9LUjhoclVRblJvS0RzcHhaUV94a2hkOTRXYWdRMkdDQQ?oc=5",
@@ -17,12 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUV0dHp5d1N1Wk1DQ3kzVFR0eXhlcFVWTHlQdHNvOGtUTnYxejh4b3Vpd2tWZEt2UkxqR0sxWU9Ea1ZyYlB4Z0g0VnFtbkFPNHQzWWxoX2hyS3h6RXQ2UzRaaWtWNGs4LXJ4RjB1OFluQmF6bm5KeWxlNTNsYlBHUkFyQzJ4emNONDNyd1N4ZmlQSjdOWFFjMm9B?oc=5",
       "source": "Google News — Eagles",
       "published": 1759467150
-    },
-    {
-      "title": "Eagles Announce Lane Johnson Update For Week 5 - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE1LWUE3Q2Zqd3V1TEt0cGh6ZFlkZ1VBdTZYZWhoUGxhSlBvaEJ0RllPR09fcFE4TmVKYlBUMWxDWWk4R1JPQnl5MG1WRmpQcFpRSHpUdGFrc1BESmc3bjl2bmxwcDFlMmQzLXd6THEzdV9kZWhPcUtuS0o0VTNhVlNxbTUtLTFsalBHWTl2OA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759453698
     },
     {
       "title": "Eagles Injury Report: Dallas Goedert upgraded to limited participation",
@@ -85,12 +85,6 @@
       "published": 1759372650
     },
     {
-      "title": "A.J. Brown takes accountability, calls Philly his home",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/160131/eagles-aj-brown-comments-responds-takes-accountability-calls-philly-his-home-drama-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759370210
-    },
-    {
       "title": "A.J. Brown let 'frustrations boil over' in cryptic post after Eagles' win over Buccaneers - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlN2RklyTHZhcENRZGtRYnNxeVZ0WGU2TWl5dWlCRXJBWHBvaUNGdjVOZVdvVnVGbUxKMnhDOWVJN2FEank0V1N4MFgyb0NwbmlIUUFNUUV5V3BobElOTlM1cXZ4Wko2anhicmRJS0J1OFRtVzZkdjc5VVZSNTBpdWhGMDk1bXItMGYyM0dkb3REV3hEd1hCcHhjYkx2MlVLTlpKQzg1SnBsSHJva19Z?oc=5",
       "source": "Google News — Eagles",
@@ -151,6 +145,12 @@
       "published": 1759270603
     },
     {
+      "title": "Eagles place LS Charley Hughlett, OLB Ogbo Okoronkwo on Injured Reserve - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkFTMWEtMzhTMGJ6MGlYTG94UXZja2xMeXVKNGdFWGpKZERYcDNYLWNYZUpWTXVtbk1qMzBNVzk0ODRVd3dIU0tyTThIMGgtUTJodTVOYXNnS2dEVzlYbEpwS3BkWTFiSHpRaEVHUVI4M3QyYmVYNlR1TXRNbXlvdXYxMkU5Z2ZJTXYyQWV2UWUtNC0tT3lDTU9sUUNXSzBhR1ppUWE0c2toNkdPUzlCamtJMEZDQ3dobjh6bHNR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759267841
+    },
+    {
       "title": "Eagles Trade Bust Signing With Ravens' Practice Squad - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1VjVDlGaXJscnY0b1ExbERzb2N5WUs0VE5mVC1fTGdVUlpkT0xxaWhYZ21MWTZvNUV1LU9aUHQxOUFYNGgyS1BDUjdqazY5TEpob293cUJBM0xVanIwRDZfRk5SLXR4QnZSQkd0WHN4Xy1SWHFZRHc0dDV0dDRKWFlYaDFodGltWldFUWMzdmZ1OEFJZGtN?oc=5",
       "source": "Google News — Eagles",
@@ -203,6 +203,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSGxFQkJUNWIyVXBmSDQyR1FMSHJ4XzJFbXoweFQtZVJrQ2VaTXl3b0x5NGZ1MGtlRzdad3lIaW1xTGY5WUljd2JKaXNBcmpMSDVnOXJiV21JeHRwMGh4UXRTLWlHYW9JVTNXS19UNmtfUUhpaEVwNm9fQzcwei02bndFZEJ0Z3QtSkZTUl9fQ0pZTEthUFo4c2FUX2RhZEdMY2Z6THJjaVZSVGRFSDQtV2s4aC1sSmpXSnF6MWwxLVNJc0dRQ29IRXZSWmRuZ2ky?oc=5",
       "source": "Google News — Eagles",
       "published": 1759174510
+    },
+    {
+      "title": "Eagles' volatile offense — which seems to have A.J. Brown grumbling — prompts concerns even amid 4-0 start - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQUdNMEZqVDhrS3BTQzJMU0xLanB4WTRhLXV5RGVVYzhqZUpsQllVaXdMWkZRSkNDMVF6czE2MEZXU1k2c0ZWXzh3M1lFWXdyRm9tRFk0aHFLemI3LWN5MkVLLTRfM1lJM085OGxCSjBjQ1lFVzlQZGlzczVFRnFMUkVWVUkxekpNbnpoSGZIYXNkVFB4ZUg0TUxNaHVjeU9Gd0tDLVcxaVdsSVpOdHFPdEpFdk11QlJrNDE2SVNpcmZTcExFYy1KckNTbFFadEpraEtPQnN5c29YdTYxVkxfa3dvcWpWM19k?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759171283
     },
     {
       "title": "Eagles snap counts: The 1st game without Nolan Smith - NBC Sports Philadelphia",
@@ -383,12 +389,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDRNU1V2b3dvUko5ZEJvVXBCRnByX0pwX1ZISGZPdGc0V1lXc3U0M0lLamZDYXU4WEJMaDhRaDQwWlBvVmJYM1hUNmpiTDh6ejJQWTEzVTB4Tk9jWUVBNmpCbnRaay1Wc0xaYzBiQ0NrTDdveDFJemN0WmVmcHMxU2RrZWRaWFpFWExWOEZDTVpuQXFUUDhOeVl4S21sb3lwQVhvRmhaS1FlUGhwX0FpQmtMcWV6ektOUXlBdEpWRS0xbEFEVDlfU2Jn0gHSAUFVX3lxTFBDamI5bjRNS2ZmMnpGX283eHFyTWJTUXZoX0xhdi1VM2dGMV9IM1hLWTFKNENRMEZkMEN6b1BjSGc4RmtQR2RNRDlDN0Rvc0JfWU0taHNHYWxSSXFoenpKRXVmRlVKc1k0NVNxU0gyRmFfWUhUOEY3TUtNNW5tbG9sa2p2Z052QlBPLWdVUG5vVDUwQk1lNVRTanpWNS00cHhKTnpNUDNYWFlmd3pMSVU2T0xLSVptSXlEa05WRHdCT05NWjJyYjlEb2NEMUJhQ0x3dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1758919403
-    },
-    {
-      "title": "Eagles-Bucs Injury Report Sept.26: Izien and Evans Ruled Out, Four Questionable - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUlCeU5pdXNobHpLaFVVV3Q3TVRVNlNXcXpPcXAwVk5oQnZBU0ZiejhNOER4WU5PMG9hb3hIQ0lLLXdNaFJTd19KSmNBNFpDN1NLMjdqVUpLTmpTS1Z6R3RLbU1HWVo1UTNqbjNTVWtHaWdNOUNERnlfQ2FYUjZ6XzllbDlYU2MwYkhr?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758916993
     },
     {
       "title": "Eagles Locker Room Interviews: September 26, 2025 - Philadelphia Eagles",
