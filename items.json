@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-06T16:26:42.043850+00:00",
+  "updated_at": "2025-10-06T16:47:01.756209+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: “This team doesn&#8217;t have a successful offensive identity right now”",
+      "link": "https://www.bleedinggreennation.com/news/160519/eagles-news-this-team-doesnt-have-a-successful-offensive-identity-right-now",
+      "source": "Bleeding Green Nation",
+      "published": 1759763460
+    },
     {
       "title": "Nick Sirianni talks Eagles’ offensive struggles in loss to Broncos",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/160496/eagles-nick-sirianni-post-game-comments-reaction-offense-struggles-week-5-nfl",
@@ -29,12 +35,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDlmSUo1TVhsblJraVFYcHd3bVBaQnJBOHh1bUJiSmpLMXFwbkVOdGduUGVwTWVIdzJrWHRFVHdGQUo2eWItektucHVOaGo5dmR0UVhXYjlEbGkxaWFBUDM4dG45U3E1U0YzVm02XzJ0M2lfRzNLZG1nTG9xNTVJWGtZVlZmSWc3TnN5T2RfS3psUWxFcEVCelM4cGFNUGpGRjJaWFhDNzAybmdmUUpua1Z6VEtxN3Qw?oc=5",
       "source": "Google News — Eagles",
       "published": 1759707679
-    },
-    {
-      "title": "Loss to Broncos shows Eagles can't or won't run Saquon Barkley. That's a big problem - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUdRWDh3QmFwVmt2LXBfNmVEX3lxZEs4cTVyWnlCVmZGNGtUTFFRbUFsUHhBS05XdWFVQmVYSWc2RGphMlRTU3N3dWpTLWdXaFN0RDd0YzdIbElhMlFGU1ZTTlRDVkhfczE5YzJjd3o3OEhMOERXMENXdUZSSm1jWWJxckVmZTZ4SnBWWXl4YXE0N1FldTdXWXZtMGdtdzVUTXl1bUR2WVBBaTNCbjdYQm8yczB5ZDA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759705158
     },
     {
       "title": "4 takeaways from Eagles' Week 5 dud after blowing big lead vs. Broncos - The News Journal",
@@ -67,16 +67,16 @@
       "published": 1759701774
     },
     {
+      "title": "Eagles grades by position after crushing loss to Broncos - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaE1qMWowR19mLUdUeTBXRnFzRXJ6dnE1U0YxcXFBNkVqMjVjVHVIMjZDZ29LSUhwRzREYzQ0c3AtSUtCOUxMQlUtdUVUeHN4T3V0cnczSU5UNG14bGFSdkhvaWtCS3IzUHNuNnVNRlpIRDVSM2F1SXJESDdES2t4azVoQ2gxLTVqYV9Hdy1yYjd6aERCRGdsd3BCLUlCT3JKa29nbUtYM3Z5MURObXNBRUtUQktMWWtRbTJMSXJyb1RMUGdL0gHMAUFVX3lxTE9HSUhSZDJCeGl1TEdvTE0yMzZvRkJhV2EyTFY3aEdQMkxHXzBnRlRtbWpHcVI5Z0VqLXJyelI3VTVmeHVvQTFOcVpFWk9vNUwwWGxtbVdhUUtDR0kwa3ZPVDZZU05EajBBXzdkaW8zQ3ZQWDA5WEIzWkplMnhaOFpHYWRTTENtWmJyM1pQcnQzeW9WMHVveGlhb09CU01TUUpVX25KdDlLcTN4RmFYbnM4UktCMGVIamxkbFdZdkRyZHh0UWlkeUlUb19fdA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759700543
+    },
+    {
       "title": "NFL Week 5 Late Games",
       "link": "https://www.bleedinggreennation.com/game-day-threads/160412/nfl-week-5-late-game-information-tv-channel-map-thread",
       "source": "Bleeding Green Nation",
       "published": 1759699179
-    },
-    {
-      "title": "Denver Broncos vs. Philadelphia Eagles: Listen to the Live Radio Broadcast – NFL Week 5 - SiriusXM",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IdG94WlE2eHVpQW5RMWh5TzB3MDRVQ0J4c2Zsc3VUSlZXUHFfeVBfTk9rQWhHV01uaXNhay01elFhV1BueHFYSG54dDBCVW9Vd1o4c01MWFVFZlF3Z0RoR0otZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759698252
     },
     {
       "title": "Full-game highlights: Broncos 21, Eagles 17 | Week 5 - Denver Broncos",
@@ -100,7 +100,7 @@
       "title": "Denver Broncos at Philadelphia Eagles | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnBndXdzcGh4SGZGZElzT2hCNnVhWm91MURuME85bTlXVTEzVzRSSU9fYWJFai1tMmdUMHZjMlJETldfUXR6WjlJUGNJLWphVDNVV21EcXpSdXpZM2dUTUptR2VuTHRHdDEwUnRrQmFKeER5VDdSVTVJU3FxdlpUVThNcw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1759696048
+      "published": 1759696049
     },
     {
       "title": "TE Evan Engram scores an 11-yard fourth-quarter touchdown | Broncos at Eagles - Denver Broncos",
@@ -169,12 +169,6 @@
       "published": 1759686772
     },
     {
-      "title": "Eagles vs. Broncos: First quarter score updates",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/160356/eagles-vs-broncos-first-quarter-score-updates-game-thread-week-5-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1759685817
-    },
-    {
       "title": "What channel is Eagles vs Broncos game on TV today? Start time, NFL schedule, how to watch, stream - The Courier-Journal",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmY2MWNEU2V1LW13R3hBbzZLLWJQS2RPY2xxa2xBd3RqQW90Q1RkRVN5M044dW9QMEpGQ3FfR1kxQjNKQjAtbXhzek1IN3MzdmI0QjBncWNmYmlkZF82cElDZlU4QXo0NjN0SWxtbjJVNmlyQnhjbUgya1RBLVAtVFZSanRxVmZXSGlucHNQWWZhWWNaeDJ2QWRXZ1JoUmxwMndhQml3RkJMWkwzMDlrak9oMGFyOG1kR1JZQnQ4cFNMa3pZNTdKYTV4azk3OGhTSHEwSWNCWndWWkZ6OEpRNGFyeU82N0Fsejh0WDlnNmUwQWl4aHFjVld4UU5qOUU?oc=5",
       "source": "Google News — Eagles",
@@ -191,12 +185,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmtlS056N0lvUzZPTHFaWThySV9lRGJDdXcyVU04RW9SNUd2ZzZmNlVjdDg3akFOUG9TdVRtZ29uM3pVb25CeXg0UDF6azUzNjIyNl9ZUEJqZ1hTa05uMXNIQUhqMjhQWGRpNVhEamtHNFdOZndYX21tYXczWWlrcllsUlRTOU1DdmlETW9n?oc=5",
       "source": "Google News — Eagles",
       "published": 1759678372
-    },
-    {
-      "title": "Broncos announce inactives for Week 5 game vs. Eagles - Denver Broncos",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONl9MNWhaeG9JY0VNenBuSjV2UncyQVBzSjJpa2xjeGtEMGNCZFRON2lYWVJMOGVyMS14T0E3ZVZ6Mms2b0ZYbV9tZzNpOGJSYVpGdXVuTk1zVEVwZG50eHNkbnFSVGVNOU5qVDUxeDR6ZFlYMWU2a0dJMF9nN0h4anNZbTN5X2x2aGNMRTlaXzI?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759678279
     },
     {
       "title": "So far, the Philadelphia Eagles' toughest opponent could be themselves - NBC News",
@@ -221,6 +209,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0x6Q1doYU1KNEFQQUh6UjYzMGZJRGFIYWlBTlhSODVvRTJtd2p3VDN1dnV5MVlnMFFTbnd6VFRlbzlLQ1FRaW9vWGxlTWJvNDhwRmxhbUFXQ2ZiVjlBUE1GYzFUZE9Wd0hYdExPbk9iajJFcXVMWS1WRThKUFNpLVlqZ0hyc2tsM2l3ODlyaWE0N005anRzN1N1clpNcjVKUGFYUlV4clYzdlhZTjZ5Qw?oc=5",
       "source": "Google News — Eagles",
       "published": 1759604642
+    },
+    {
+      "title": "Will the Eagles remain undefeated? Model locks in Eagles vs. Broncos picks - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2k0eU4zRDlkRGF4WWpaTWNaUlp6NS13WmNLSkQyRzlLdHFnb1FKaTFFUU9CSEtxVXF4bGFjUHFlTm9Oa0ZSRG5HZUVVTTFzZWVaV1o2djQyTWpRazljOVB6dnI4ZEtvMV93UmkydGFGTWV5QU9rRUpkcC1SS2xQdUJyOXVsVDVpQ3VEamFFNzVmSzBlakhlMWZMdmw4MzJHOG04bXhOZkRYLVdWdVNSNXlDbGtZYkNHSFphajdWcXg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759598235
     },
     {
       "title": "Spadaro: 6 storylines to follow in Broncos vs. Eagles - Philadelphia Eagles",
@@ -337,6 +331,12 @@
       "published": 1759354117
     },
     {
+      "title": "Eagles' A.J. Brown Says Post Wasn't Directed at Jalen Hurts or Coaches, 'Love it Here' - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEUyYWloYThpbHdoMVJ3b3JJY09zaFFkQzNYNEt1SEtITzdqNkFXTHJFSGRoMV8yUW16WmQ0VlY4YURKUGpzQWtRY0ZMVVdKVzBlcHgtMVEzZ2tVVmZxNzNaSGJDWWJIN253SURUNGY2NVp1cWxNYjhsYmNSMDNlSzJicUZKNWFPeDhaSEpNVnFDbGtmRm13T1NVemZ6WnhabllVTDZYN0NMUld0eXh0TWFzajdSeWN1QUEyMlJn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759351835
+    },
+    {
       "title": "Eagles open Nakobe Dean's practice window, sign Antwaun Powell-Ryland to the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUdzN3oxektkZ3VXbjh3TXc2R1lSZVFGeWh0WXhNRzlMaHZDSXNHZkNYRVlpanBVbk8xVkNtTHpEd3FLcHRubXVoNE9BcVlYcmx6dFRpNEl2TkcyeGpsblNDUDhnc0d0RjFuOG1MeDlLY2hiZEpmSjJFaXNSLUkzTVBkMTlyZw?oc=5",
       "source": "Google News — Eagles",
@@ -439,12 +439,6 @@
       "published": 1759087947
     },
     {
-      "title": "What channel is Buccaneers vs Eagles game on TV today? Start time, NFL schedule, streaming - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb0R4VmNTdTAtUWdDU2VfMEVVS210TDVuWUJhcWVxN0x3YVdlRTRuczl0V3hWYm55bUw2UWpCTjVDeE5nOXhuMVB5QmtfOWZXam1hdm5KV1Z2SWp3bDdpcWtUdmlwUk90eHM2cFQxZzd2S1Y5cVB2ZlZOZ2ZUblJ3anZLNnJydW1iRjdPZEdWSUVYaTI2eEtqVEQ1UU9sWVVndzBFaFc0Wmp0QjBteHJLUGxJR1VDVW43RThPNzI1anpBMzM4cUZrVG1OdFV2YkxDUzg5SlVKQWpPM0hWT0JKVVFWTG5iWTFqMEVYMzFGNkdiODZ6R0U4cEstSDZVRW9fQzVr?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759078800
-    },
-    {
       "title": "Eagles 31-25 Buccaneers (Sep 28, 2025) Box Score - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSlJpZndGbld1MVBkNEh0eDFkamYtX3pSSlQyVnNfd0pveDg0Tm9kYzZ1NXhmRnYtOUtGM3lfTDJnekhfMlFHWGtZLTlQUkZMT2V5WHlscnYydllMQW1BcVdn?oc=5",
       "source": "Google News — Eagles",
@@ -489,6 +483,12 @@
     {
       "title": "Highlight: Zack Baun's strip-sack forces Buccaneers into FG attempt - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUo2dk9OdGQ2anJocHIxaUp1RHk3U3h0NHJfaEcxU2hHcm9FSUpoVnRSYVFla25iZjU4emxXT1FHekxJXzdvbjVKeHNxUGFSeHNmSmNFMFFxVzZ6S1hkeUN3TUtEY1dCMFROMGZ6M2tQbmJpcVBmNXZ2amxDTjZNOHFyNDhtbUJiMWdPT1ZNVXNiTTdiRTgya0Z3T2ZHRGpKTUJKNGJIcFpfVjQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759042800
+    },
+    {
+      "title": "What channel is Buccaneers vs Eagles game on TV today? Start time, NFL schedule, streaming - The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb0R4VmNTdTAtUWdDU2VfMEVVS210TDVuWUJhcWVxN0x3YVdlRTRuczl0V3hWYm55bUw2UWpCTjVDeE5nOXhuMVB5QmtfOWZXam1hdm5KV1Z2SWp3bDdpcWtUdmlwUk90eHM2cFQxZzd2S1Y5cVB2ZlZOZ2ZUblJ3anZLNnJydW1iRjdPZEdWSUVYaTI2eEtqVEQ1UU9sWVVndzBFaFc0Wmp0QjBteHJLUGxJR1VDVW43RThPNzI1anpBMzM4cUZrVG1OdFV2YkxDUzg5SlVKQWpPM0hWT0JKVVFWTG5iWTFqMEVYMzFGNkdiODZ6R0U4cEstSDZVRW9fQzVr?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
