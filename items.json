@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-08T18:32:17.334525+00:00",
+  "updated_at": "2025-10-08T19:17:04.349462+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles at Giants Final Injury Report: Jalen Carter questionable",
+      "link": "https://www.bleedinggreennation.com/news/160686/eagles-at-giants-final-injury-report-jalen-carter-questionable",
+      "source": "Bleeding Green Nation",
+      "published": 1759948044
+    },
     {
       "title": "Eagles-Giants Game Preview: 5 questions and answers with the Week 6 enemy",
       "link": "https://www.bleedinggreennation.com/eagles-game-preview/160688/eagles-giants-game-preview-5-questions-and-answers-with-the-week-6-enemy",
@@ -31,6 +37,18 @@
       "published": 1759940174
     },
     {
+      "title": "Eagles Next 'Breakout Star' Already Emerging Before Their Eyes - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnNVWkFubm5yNDBfcV9rMEN4bTJwVjlobVZtNDhrUk9UeHBlcGhCYnBKUzNQZDY1NkQyVHdjWF8wMmdLdm5CYWR5c0FSQ0wtbl9SZ0QxbjZMSWdXcldBRXlLYWhRRENDMXE1S1hnVUs2U3N0WW9rVzZsMEtfN1FtVG1Bb1NwT2VzVnp2Y0hjdFl0VmNvTVFvZ3oyRncyNi1nR3JJ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759936521
+    },
+    {
+      "title": "Eagles stars downplay meeting amid recent woes - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjBMaENyOWxvZTlvbWJlQ2lKMWY3VUs0bUxXV1NWR2d4Q1BRWkFuODRSU2N1S1pqX09Dbk15VmtvMnZaZ1FoSHFoM2pmN3dsa0ZsUWRpQXJ3VWJLeTNqdkZoUjY5YVRiNUpmZGp2cGZDdXFiU0V0aVhNdk10eTZDb3JCUnBHeV9UamJUSXhuYVhVRXZROTVRU0NJU29Cdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759930500
+    },
+    {
       "title": "Eagles Injury Report: Saquon Barkley upgraded to limited",
       "link": "https://www.bleedinggreennation.com/news/160665/eagles-injury-report-saquon-barkley-upgraded-to-limited",
       "source": "Bleeding Green Nation",
@@ -41,12 +59,6 @@
       "link": "https://www.bleedinggreennation.com/eagles-film-review/160630/eagles-broncos-film-review-one-of-the-more-frustrating-defensive-performances-of-the-season",
       "source": "Bleeding Green Nation",
       "published": 1759880441
-    },
-    {
-      "title": "Eagles Locker Room Interviews: October 7, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOU13YUJYR3JVWVl4TmtkaHdSRjhicTliY1BZcy1CdWVlMUxuazN3TDE0Sk00Y2VmSjZ4dkhwVUFfOGU2MFVTZVdMRFJ2aExtVkFaTi1tZVBtcG0wOGZJV0tIZmRfYU9MaGFKTnlBeFFJV2RXNTFSYW9PdHBpNndtdURqYzQ5UjVKaFJ4TUFn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759876373
     },
     {
       "title": "C.J. Gardner-Johnson signs with Ravens practice squad",
@@ -65,12 +77,6 @@
       "link": "https://www.bleedinggreennation.com/news/160577/should-the-eagles-trade-for-mark-andrews-tight-end-depth-concerns-nfl",
       "source": "Bleeding Green Nation",
       "published": 1759859655
-    },
-    {
-      "title": "The Eagles have the same problem in a different year",
-      "link": "https://www.bleedinggreennation.com/general/160579/the-eagles-have-the-same-problem-in-a-different-year",
-      "source": "Bleeding Green Nation",
-      "published": 1759854026
     },
     {
       "title": "Broncos at Eagles: The No Bull Review - Mile High Report",
@@ -109,28 +115,16 @@
       "published": 1759754700
     },
     {
+      "title": "The Stunning Collapse That’s Exposed the Cracks in the Philadelphia Eagles - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxONW1GOGJyTzlUSDBicnpFSXVBMmY2WDBKN0J2NXY0SzZIOWZ6SDNsekwzbnhUbXFNWS12a3hldUJCUGZRN0hMYWJTZTJ6dE1VTF82U1VyZGlmclhXRzljYmN0dGlNN0diZlZxVTR3dk9BNzBIVFNIWlJaUGV3bVN2bkZGdzV2Y0otWldUNU05dTFVbmhVMVJDbEhhZk1RcGZIa2dGYmxfYXRUb1JIV05LVmNzZVpyWUxPWXhBcW5mMDBSQUFrTk1uM202UFAyRUw0VTA4clktSFl6UTdlNmJRTU9hUWt2aHJMVmZnZFlTRFVrVWtLS1hlN2tTbF8xMkRmVk9BYVEwalA0SjgyNlpIbVNGeERYbXN3eXJsbFR2c3YyZFVJOTNhT3RXb1pPSjNTZFNfamRXQmgzU2RWcGIzMWhNSk9YdktoVlprSWREYzMySzExNURoYVl5OWQ1UEhRVHZqTGdBR3Vfa2pwMml4a3p5YTZZZlJCSFRWX3UxLTJZRTZnY2RyZ3FKZzF4VkRPaW1QeDEzWk9YUUZmeVpGcA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759748400
+    },
+    {
       "title": "The Eagles’ offensive issues finally cost them a game. What’s the deal? - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkdPNExsaF9GaWRsa0NXRnh4UU5Hb3ZhVDQ2Y0pGdWoyQTRwQm5OTXVEdHZBTUoxVTd0c2lZa3l1Ry10U2IwVzNzRFFvWnNYRVZPNFBlTXlQQlNpVmVVOWxJa09OZV91Z3A4V3c2djhLTEdvWGVoLUFlWkZ0a2cxNVdQSTZlV056YlRFSmR1aVQxV1EzN0N1VjBB?oc=5",
       "source": "Google News — Eagles",
       "published": 1759744875
-    },
-    {
-      "title": "Browns 22-13 Eagles (Aug 16, 2025) Final Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVzJVZ3c5X2szRGdaWDAwcGZQeXNQZzh0bXR4LWF0M2xxS2N5OFhoSWVUUVR5STJpV2tjQUJTQ0x4SnR1RmtYRndic0dVcG5ZWko4M3VqZjFhOTdXbnE0b2l4N19iWjhJTEk3dWpvdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759734000
-    },
-    {
-      "title": "Dolphins 48-10 Eagles (Aug 27, 2022) Final Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LbjlUZ0xzMjZtS3FMRUFtTzJtWWNKRFVlZjBDc1dfYVFuaHRxeEU5LTJRcFF3clJNS3B0dkZGbHdIMlJUY0dPR0RCOS1IbjdBNkdLXzhteTNCSk5paW5NT1dRMGNJSEhQRWlyTFNOTVFyQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759734000
-    },
-    {
-      "title": "Eagles 34-27 Bengals (Aug 7, 2025) Final Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GT2lROWdEdzV1TjVmeEo4Q3Y0clJwQk11dHNsVUdTMTZVd3E3Y1FfWDFaMGhuMHdhTmtpd3BrT29pY2dFUDgxcEVSR2dlZ3NBeXlyWFVQaE9iZnZ1VE02VUtnQXUyV1Ewck9JS1BjN0Q?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759734000
     },
     {
       "title": "Browns 22-13 Eagles (Aug 16, 2025) Box Score - ESPN",
@@ -139,10 +133,28 @@
       "published": 1759734000
     },
     {
+      "title": "NFL week five results: Broncos beat Eagles and Patriots stun Bills - BBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5falBocGVMVTQ0cGxiREU3Y1Jya2FjMktpbS1ia1Y1aVNLdlJzd0E4MTg5ZHQ5YlhvcXZ3elEtWjlCOTRaOHp0N3NVRVNfNTNDc2VsTlp0eWxaRUlyQmFadUNWSFBpZ29aYnhmTWF6TjlybGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759729456
+    },
+    {
       "title": "Inside the penalties — and non-calls — that contributed to the Eagles’ first loss of the season - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdm5ta0NJWFB1MmNIUkx3bm1KdWZWV2l6UWF2dzg0elFzSTNzRFV1VFp1OGFJMkV1dDVNQnoxUE5EOG9Wb21UZTVZNFFJQmtpZlNEaXc2anFFT1dBZDlxXzlHdTllWjZPWGdOVUtZUmhqQWZDVldpQ2FKdnZsaGRJUkQ5MVY1UVhyYkE?oc=5",
       "source": "Google News — Eagles",
       "published": 1759713909
+    },
+    {
+      "title": "OLB Nik Bonitto, Broncos' pass rush deliver a defensive statement in Week 5 win over Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUZLV1NldXI2Vmk5QzNyUm4tdmM4QktVaG1fSnFBQWs5TjVfV3pSTVZNeXNmeXRlS1FLdkV1QTUwWU5OWWg2WW1FVWxsa05EcmdlS1RKNkttQkJGb1hlZ1Ffamp5MjFlU2o2OEtTZ0M5Rm44TW9fMG05Yy1lU2kybUtnVk5pTjdRWUo5TzlQSWZxRG94Y0IxRXpTODIwb3FRTmVnUm1CcEVtY2ZMcmFqREJHT3N4UnRpVUZtSGJJMWQ5Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759710079
+    },
+    {
+      "title": "QB Bo Nix on beating Eagles in Week 5: 'It proves we can go on the road and beat these tough teams' - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdktXN2gtY3hza0o4ZkthTzRRSDFaSFh3MkU5NV9ja3JMQ3h3V2xZOUV4YWZqQUswdURUUWkxTFpRekk2Y011U0NQR29pcGhxRC1VYWJwYlR0SmxBQWk3RlBoTDVPS0N2VWY3ZF80ZFd5NUxpckZWakdxN1FkdVlBWWt2VzZTb3JGQlhMa09DY3owbDFLR1FVQ0JsZmNLbUtmOTVlX0c1Q3BOTVdwYWdwOHNVdFdYTHhIUTNHUGxPVzlXYS1sbzNCUGRyV1I?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759707991
     },
     {
       "title": "Cover 4: Broncos knock Eagles from unbeaten ranks with wild fourth-quarter comeback - Denver Broncos",
@@ -151,10 +163,22 @@
       "published": 1759707679
     },
     {
+      "title": "Referee explains controversial calls from Eagles' loss to Broncos - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV1RvWXFUbmc2T3ZGS2NaOGV1d29YTkpxcWs2SFIxQV8yY2w1VWVVaWRsT3huMThmTmJramVlZmctbG4tWnhrRHVzb1puX3Npc2F6XzNHV1gxUDBtc1J0Q1EzdkJfamw2QWtSd0NXajBUQ2puYmhmT2tUZE9GSV9WQmg1Q1MzeFNyQ1d3RnpHRExYQ1ZMVnJfSDNhLVBlU1pjWEVOb3g4aEFiQXpzcmk3S2UwY2hTNkN5VHJsTVl4UWFWZjg1QVlUcDdUUjNBQ0VNc2w1cXh1Qi1QQmYxQzFESTBhZWllLWpE0gHwAUFVX3lxTFBSQjd0bi1RY0JEME5jQUhGTFNkbFFMZGltY3dfc3A0UVhoZGpLdkZwQTREbHdJWkxraXM4LWROc1FFV3lORGlqSVRGWkJqblBhTnNtVTh3T2FERDFyNElBVVdxSFpZUUdVcUo1bW0zX2hpWEcyT1dBcm5NUE1PdVpKbi1WdmV4Y18zOEdNUFhEb0pZUC05NGlTZFBMQm85cWpIcGdRTzc2YTFNOG5Jd1ZhLUlTdVNCZS1qbC15RjdHOU5aX3FoTEk1Yy1BX2gxU09wNURNOGZKVy05NDVjSEp2S3BkMnBWTHVPRWNqVlE4bQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759707136
+    },
+    {
       "title": "DeVonta Smith: Eagles pass game not on 'same page' in 1st loss - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjlRUnBJemM2dFJDcHFnSnBmd050R250NmdMZVdJREt4eEVnODZuMWlfU2lzVjZ0UVFHQjU3dFBRVnMweWpyM0wxSWZQLWFvUk5vQWphS2ZlZkVCUU4xeDNUeWZPai0tZGVtZjJaMnhrYzhrY0p3cWJsNTBrMVpLSEhEOXQ0SDFiZWRESkRMZDlrbjRIOGRVYnFFVl9oYU0?oc=5",
       "source": "Google News — Eagles",
       "published": 1759705740
+    },
+    {
+      "title": "4 takeaways from Eagles' Week 5 dud after blowing big lead vs. Broncos - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmowQVVhOFI2TDJmTElSUVpZNWFhS3dvWHBsVHVNQVplamhfX0pEZG5xSW54RWdVVEl0c1VOYnFpZ1BsZW1vV1dRd0FUaTUtREJGYU9YUW0xYzA1TlMtMEdHOEhLSXNMbHhPT25QVXhEMFoxOTNONzhiSGFsem9oMXlNZVY1WE9mS004RU9xeXRoa2UtVDdpbmRrbGJ4ZXBhYjNudDBxZWsyVEsxcUFwRUxBLXA3YTBlTnkwWE1oMVE3QzZ1b0Jj?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759704750
     },
     {
       "title": "Spadaro: 7 observations from Broncos vs. Eagles - Philadelphia Eagles",
@@ -163,10 +187,10 @@
       "published": 1759704472
     },
     {
-      "title": "Broncos complete spectacular comeback in 21-17 statement win over Eagles | Analysis - Denver Broncos",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclNHRGJ1dmo2QUw4aUk5YlA4NlBJRWFuc0wyMkJIZzhtMmRhalB5SmM2OHhGLWg5a2ZfTTVVclRSWUo1aml0b2IzeE5KVzNMMlhKSXVob1VKYTZCR2JWUXRiWjQyQUljZkVudWRzbXliSzNJLWNUcS13VVdoY29SSVR1UlRfNzNMdEdLZldBakg4b0dWS0RzQ2Y3UmhGa3FubDBYTUZzVjNiZTg3TS1udUpPUnBkSUl1?oc=5",
+      "title": "Nick Sirianni Press Conference: October 5, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlBXSU5FaVJjRHVBdkJFdkxkZFZiU3FiaGFzM0FOZW1hMDlkbDNiVUlvMWFFLUo4UkRWek1ycGxodFZnS2k1cG81Tk1DVE4zZDdmdlNlZWIxZHY4dHpIVnR1ME1vZ0RacVZIRFprakJjZEJVX2lWYkNvTlZ1ODl6S0xPbmdVVVJqQm9rRVFHdw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1759703791
+      "published": 1759701939
     },
     {
       "title": "Eagles Locker Room Interviews: October 5, 2025 - Philadelphia Eagles",
@@ -187,10 +211,10 @@
       "published": 1759697480
     },
     {
-      "title": "Denver Broncos at Philadelphia Eagles | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnBndXdzcGh4SGZGZElzT2hCNnVhWm91MURuME85bTlXVTEzVzRSSU9fYWJFai1tMmdUMHZjMlJETldfUXR6WjlJUGNJLWphVDNVV21EcXpSdXpZM2dUTUptR2VuTHRHdDEwUnRrQmFKeER5VDdSVTVJU3FxdlpUVThNcw?oc=5",
+      "title": "TE Evan Engram scores an 11-yard fourth-quarter touchdown | Broncos at Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY04tV2hFZFR3Mkc0bElNSkpBVjNVa2Y0N1hfMldGMkkzV1hiSkVUQnRSZFJhclg3Rk5QbjlPTFBVZFI3NGNLRXo3aGxENXJmMlk4OEhqRngxVldWcGpwRnMwYUhyZzZtcTNTOUptLUtJT0FUVXgtLXZ5VHFudmdRR1VHOFk3LThESDNmNVdyMjMtc2FqUVpSeXVHb0FOQnY0ZkRtenZuMk1uZEh2LUtQYQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1759696049
+      "published": 1759695691
     },
     {
       "title": "Game Recap: Broncos 21, Eagles 17 | Week 5 - Philadelphia Eagles",
@@ -199,16 +223,46 @@
       "published": 1759693950
     },
     {
+      "title": "QB Bo Nix scrambles for a 14-yard gain | Broncos at Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmtoM0xkUi1rVzY1NVNlU3k4d0ZsM0xLSEhxZEluN2Z6R3lXWGF0V1BZRGEzUVlJMHBPb0huWnp4UUhqRHo1WnZLQkkxbnZHSldXSTdJaHY5dmx5eUJyN1g4TDJpX2J0cXVIOVc2c195bVlMQ3NfOFpqWmxBWTFIRFExdkpsZ21UdG10QllQZlRwd1BJdmo0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759691791
+    },
+    {
+      "title": "Highlight: Za'Darius Smith's first solo sack as an Eagle comes vs. Bo Nix - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOanBlOFI1TUNaZlhJZVZ4MzMxVkxqZmFwQlNENjZFQ3R3Z1M0RWc5aVYwODIwYUxHMnI1X1FWX1Zab1dRbDFuaFNkU2hmTUdlYmpBYk5aUXlfWm83MkQ4eXRpUzczX2Y1TDZlcWt5TnFWM0Jyb05tVWJ2czBrdGtNMXYyVFQtUGJYUGFwX0ltc1NwWlFkQUJIN0JjSThuanppOGlhM2R3V25KTkRmeTcxOTVB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759687974
+    },
+    {
+      "title": "Highlight: Dallas Goedert catches 2-yard TD pass vs. Broncos - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2VNdmNDSWo0OGdINWU5dVlCQVAtZUxYMDEwRkxTU1VlaF9JVmwzaGVCUy1XZTExVTZyTFE0ZjVWWTBnLUxhREREQ1pselFoQlc5bzNnalBqX0Q4TktheGlMREtlYUk0cFh5YkNPLVprZHB6a0ZETm52ZmxjVklNSC12cXhLRW5oOXcxM1o4ZGY4ZDJCaTMxUDFNWk4zclkz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759687673
+    },
+    {
       "title": "Highlight: Saquon Barkley's 17-yard rush is his longest of 2025 (so far) - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHF3Nzh2bzZRMmJYSXZDd2RRS0FVRXZsdTk2Rm5uX1NQMjR1VHF5RGJtckxXMGNXTFhHZzFlZ013TndXcHdpcXo3Q1dFSFF4XzRsWFBHMmxmek5TVXctOC05V2pseEQ1by1VajVHU2IweS00WUkyY28ySmpYanhmcUpGWkVLS0Z2OU9wN2JEVTdKUzZvVTF2THp6ekdOUklQTjZxbGRjYjJWczdN?oc=5",
       "source": "Google News — Eagles",
       "published": 1759687074
     },
     {
+      "title": "QB Bo Nix hits WR Troy Franklin down the sidelines for a 20-yard gain | Broncos at Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjFIMzl3LXJJYnV3bHNNVUhfQ19aY3FTbmtZYWpHZC03YjliUTVuZVdqWE1sZUFON2dNZnVEdTdrb1dDdW0yQWVXS1Y3b0dVUUh0b3RhZ1NpaE5QVktwdG1leEJHeERyUnF6WlB3ZkgtMFNCWV9MQk1YNXlNRkRHaXo1aGVCS3NXb3B3bl84X2RnVEdycDFFSmVyWUNNN0dXaXByVW5WdFlMV0psQ01jdGRCWDlQUFhqUnVVWW1WRk8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759686991
+    },
+    {
       "title": "Highlight: Jake Elliott's 31-yard FG ties Broncos-Eagles at 3-3 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEF6RzRiVVk3dGhrNi0zSjVhbGdfSi1YdGloNVlHSnFXX0I4OUMwV2ZzVGFuZjNrb2JyVGhpT1l1UGdBTm9lakR0dmtmNHFEZGJud1dUc2NkWlNOdFVTLUpRV1JLNTY5SGJxSFFHeFNEZG9VTW9HNm1KNzhvdFprbzFVaVhvdUlrc1BCay1JaUJ6Snk0NUF5djhiMjVNT0N1SWpn?oc=5",
       "source": "Google News — Eagles",
       "published": 1759686772
+    },
+    {
+      "title": "What channel is Eagles vs Broncos game on TV today? Start time, NFL schedule, how to watch, stream - The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmY2MWNEU2V1LW13R3hBbzZLLWJQS2RPY2xxa2xBd3RqQW90Q1RkRVN5M044dW9QMEpGQ3FfR1kxQjNKQjAtbXhzek1IN3MzdmI0QjBncWNmYmlkZF82cElDZlU4QXo0NjN0SWxtbjJVNmlyQnhjbUgya1RBLVAtVFZSanRxVmZXSGlucHNQWWZhWWNaeDJ2QWRXZ1JoUmxwMndhQml3RkJMWkwzMDlrak9oMGFyOG1kR1JZQnQ4cFNMa3pZNTdKYTV4azk3OGhTSHEwSWNCWndWWkZ6OEpRNGFyeU82N0Fsejh0WDlnNmUwQWl4aHFjVld4UU5qOUU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759683600
     },
     {
       "title": "Broncos vs. Eagles Inactives - Philadelphia Eagles",
@@ -221,6 +275,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONl9MNWhaeG9JY0VNenBuSjV2UncyQVBzSjJpa2xjeGtEMGNCZFRON2lYWVJMOGVyMS14T0E3ZVZ6Mms2b0ZYbV9tZzNpOGJSYVpGdXVuTk1zVEVwZG50eHNkbnFSVGVNOU5qVDUxeDR6ZFlYMWU2a0dJMF9nN0h4anNZbTN5X2x2aGNMRTlaXzI?oc=5",
       "source": "Google News — Eagles",
       "published": 1759678279
+    },
+    {
+      "title": "Will the Eagles remain undefeated? Model locks in Eagles vs. Broncos picks - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcW1rblNxejlnR2F4VVJXWGVvM3d6YVBBWkZhYUx5WVdaV0ZiWGFkN0VSdWlrZDBxMkM4TVcxTks3ZWxGeFc3Y2pwZjRrV1lTbjBMbzd4SGdkNWQ2VHdzbUR5MkhEeWJhOFB6eXJXNGVpOWtfNXhYV2lFZUFpM0hieXFoUUstdldCb1hGS29ObGI1bmRBeU0wbjdCTVc5emd2bU9hZ092cklxaG16Z2tpcnU1bXN3UUlMU1J4bFlMYTQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759674028
     },
     {
       "title": "So far, the Philadelphia Eagles' toughest opponent could be themselves - NBC News",
@@ -239,6 +299,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU0ybTRDOF9VMk1UZGNrbzhGbEtMaGZ0STZzS29HU0V5MkgwdDBhX2lvVHhCQWFWeHVkX2tfNVJtZWJGMnRoQ1dtWHhsMVlramx5bElZZXVndUZYRGM2YkhMUHZTVUZTdGUyYzNGMWRXWjE4QU1GbHhRUUpFb1ptWVo2NUJhLTRhNl9LUjhoclVRblJvS0RzcHhaUV94a2hkOTRXYWdRMkdDQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1759647600
+    },
+    {
+      "title": "Broncos to wear Summit White jerseys, Midnight Navy pants and socks vs. Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0x6Q1doYU1KNEFQQUh6UjYzMGZJRGFIYWlBTlhSODVvRTJtd2p3VDN1dnV5MVlnMFFTbnd6VFRlbzlLQ1FRaW9vWGxlTWJvNDhwRmxhbUFXQ2ZiVjlBUE1GYzFUZE9Wd0hYdExPbk9iajJFcXVMWS1WRThKUFNpLVlqZ0hyc2tsM2l3ODlyaWE0N005anRzN1N1clpNcjVKUGFYUlV4clYzdlhZTjZ5Qw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759604642
     },
     {
       "title": "Spadaro: 6 storylines to follow in Broncos vs. Eagles - Philadelphia Eagles",
@@ -265,16 +331,16 @@
       "published": 1759561200
     },
     {
+      "title": "Game Preview: Broncos look to earn statement win in showdown with defending champion Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2w0ZHVnbUxpcDlaSDhpMndtUGZZN3J2d2JBWGN3NHVoajVFa0RZVkVyWVlYLWhaZnZmZ214TlVGUl9vY1dnT0pvT1doMDBONnNvUnA1RXFHZlVPSjl5cXNHbDl0VjdVNEVkYUpDUGVKZ1VVNjNDeHZKVFF5eDItbDdIQWtHdGlvcl9RNkNYdUVmeFkzTV9PNnFmbFIwSWQxYzRZNjNIWW1kRndGRjBsRTJyNkVBUFBvbGFfbWI1UENCak0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759547342
+    },
+    {
       "title": "Eagles, Fanatics give unforgettable experience to four Make-A-Wish kids - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3pxcG5KZk0tblJqUFJ2d3ZsRXd4RjlXaktadFZtNzhlcFg4X3lMLVlnS3dDd3hMNXgzcVM5U0dpOVZMZFJkeWluYzdEZzJZc3FLUlZGS29sV2wzTDJpbWs0NklkdEdZTGNpODVqaEI1Y0FQVi1qeTV0dEpUV2U3UXkwY3JUVTZy?oc=5",
       "source": "Google News — Eagles",
       "published": 1759526943
-    },
-    {
-      "title": "Eagles sign OLB Antwaun Powell-Ryland and CB Eli Ricks to the practice squad - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVhsang2ckJPaWlZeEhLYmV0cVFtRmpzN3IxMlFCUDktSHFfS1NKNkZxWHF3QWpqcFBqMm9Od2RocUJQRTR1Tk5udVdSTS01aGViRHVORHBYMmt1YUNIaURObWtpWG9tNmNiaWYyVm1WWlB3djV5WWhYUFBydk9ETWVkTmRIbTlQS2tEek5ZRkxfcDMxbkRzakQ0THZVRkU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759504442
     },
     {
       "title": "Eagles film review: Why A.J. Brown has been underused and the offense is sputtering - The Athletic - The New York Times",
@@ -293,6 +359,12 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUV0dHp5d1N1Wk1DQ3kzVFR0eXhlcFVWTHlQdHNvOGtUTnYxejh4b3Vpd2tWZEt2UkxqR0sxWU9Ea1ZyYlB4Z0g0VnFtbkFPNHQzWWxoX2hyS3h6RXQ2UzRaaWtWNGs4LXJ4RjB1OFluQmF6bm5KeWxlNTNsYlBHUkFyQzJ4emNONDNyd1N4ZmlQSjdOWFFjMm9B?oc=5",
       "source": "Google News — Eagles",
       "published": 1759467150
+    },
+    {
+      "title": "SEPTA offers weekend express trains to Sports Complex for Phillies, Eagles games - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXVlNm1NSmZSdkVDVWF1aXhGNnduRG5UY21NNXZkdldHS0YwMGVzZk9ycTZzakljdkdlak1yU1lfQ0RGYWNCMDYxeVBZaDlZQ0JXamE0MmVvb3BnbE1QLTlKVkl0QzNFRkdVUlVtRm9xUk00TEU3QmYyeTg5UVBtdnhsNk5vQnpsTjVXM0tUOXZFZHNwdnRhb2Jia3JmR1ZRbURycWh2c1JVNnVScm5MY0lpTjB1SUtzRFQxX1JrU1_SAcgBQVVfeXFMTUFaLTM3ZVZGWlJEWW1IbkRYSHFCVkRGV0J5dHBvdkhYMzFoTzBGX3BIZjdVemFGWEFUWTZtZHVxU2I1SFlKZURXb0RnVnlZbE8tVFQ2a0phM1RaMzRyNVkxakdrc3NnaUU2bUZJT3d5LVpyZ0hHckRrZjM3c0wxNUloT2RDUjNBT095MmtfWjd0dm5jcDhjcDFSS0V3bzRZa0ktQjFNM3l1YlZkR0pFSnF4VGNvWVFVYmVDNUVmNVBZby14ZEpLRlM?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759451055
     },
     {
       "title": "Eagles sign DE K.J. Henry, DT Jacob Sykes to the practice squad - Philadelphia Eagles",
@@ -337,18 +409,6 @@
       "published": 1759354075
     },
     {
-      "title": "Eagles open Nakobe Dean's practice window, sign Antwaun Powell-Ryland to the practice squad - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUdzN3oxektkZ3VXbjh3TXc2R1lSZVFGeWh0WXhNRzlMaHZDSXNHZkNYRVlpanBVbk8xVkNtTHpEd3FLcHRubXVoNE9BcVlYcmx6dFRpNEl2TkcyeGpsblNDUDhnc0d0RjFuOG1MeDlLY2hiZEpmSjJFaXNSLUkzTVBkMTlyZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759329100
-    },
-    {
-      "title": "Spadaro: Eagles utilize savvy roster management to key 4-0 start - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzFPMEpMUDNESUgzRk9ydDRKMjM3ZEl2MXJzQW90VVFuWEJXVzh0S1lxYzd5WjVHUGkzZGtvU0ZLekxlanFiLTR5SmtiXzRZVDZEdUhfZW5Pc3hrUjRvU2lTbGdRc29JM3hCQU9FaThSTmowSW1KYmZEUnk1TlktU1lsV2prWEp5UHhiN0dxdi1uejNNaW9YaWR6cktHNUx4X0JIR3Jn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759129200
-    },
-    {
       "title": "Takeaways from Buccaneers-Eagles | Week Four - Tampa Bay Buccaneers",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OTnNnTmd5bFRuSHRZeVV4TzRrWmh0Y001UUd2VDU0VWJEandqU0RSdFdxdmVNVks0ME9nTG9HVUpJQ1pHU3VtVWFwUXhjam81SWpIQno3NVhMTnNyclE5TkIwc1N5TFZfWXVvRHB3WW9LSmhxTGc0c1drQmRPSE0?oc=5",
       "source": "Google News — Eagles",
@@ -361,26 +421,20 @@
       "published": 1759129200
     },
     {
-      "title": "How Eagles' defense came through in the clutch against Buccaneers - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXdzNU1RWngxbjdIZEdrV1Z0QVhyRV9MXy1ib20yWExncTFCUGxBNkFKZEZ5N0ZMVjNxZDE4anFjLXg4dHgxV0RCU1lkS0JSTUI3M3AzSE5CM1p0U2VfWjBfa0sxbmc0Y1JpcGUwWlFHanF2b3Q4UTk3cHREODZqTWhYbHkzZHdnUGhHZFE4Z0dvNnFmVlNCVGZOT2xPYUVVMC1LNkpQNnN4bDZZcmtoNHFfYnNqOW9BNURYNGJWTEI2MzA0bFpEU0ptRWNaT1Z5dWh5ddIB3AFBVV95cUxNRFRiYWlzVEhyU3owckVyRXZZcXlqN1VEMk40bVB5QmNnRmp5OW9JektRLXkxWDFzdHpmMmZVZDQ0RDFWOGx4bF9SQmE0S3ZBMHNOUEx1eXhmX1NheFA5ZjVTaFcyOFpZcjc3cFczaktvVmRqOUdYUzJ2NGpEc0RGcmZobDNSanNWVHY3SHk0cnI0U1NzLXhLMm9FWVFtQlVEVnNpaTlMZk1kZFZ2eVJlSW8yTG9NUmJicHpoUmdzVXROMjNEaHZ3RDc0c0hidVpxUnhjcVRBa0l5SlBE?oc=5",
+      "title": "Nick Sirianni addresses A.J. Brown's cryptic tweet and frustration - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkMyQmVHeU1acTBJWGJiRjJJU2ZWR0hrOWpXQzZpZlExc2ZhUUtlMk9JVFZ3UFlrRDNFeW5UNnZLOFpfbEt0VTY5aUZDZUhNR0RCZUVJWDNDczd0bXNoSWFRUkZQcHVfei02WEFLeHNXNDNnUHNmakwzdlNsNnd6WFBRR1U3RFE2bTQzVmJ2OTZHejdzZ0ZrNi1na3NYRXFPd2ZDSTdHSjEtZjM0NjFuSDFEMERFMG1wV3c0WEx6RW1Cc2JGSVlGdnpzNTdTb3kwSE05OWtKd013THdBdVHSAeYBQVVfeXFMT0dWT3RyUUlpSVFFTzBfdlBJZFJPM3pLYnd6MkhXdVJ3bVNzTHVDTnIxcEtNeUFJRHdaRWtqU0NQX0g1WFpzSmV1bEw1NWFZQUw5Y0w3ZldOcUV3MmdQUXdGQjU2d0x0Y29ib2FTYXJya1dhNTNyVVY1VUVGTkVqOHFUR2wtYXIzbkViVkU0bERIQWNuVmN5Y2hhUmwwMDNiZm10Q3RNTGNGS1EtZHlvSExHOTg5VlpqWXlNa3FoOVpieWZyRUNmTExrVlFvWEZ1emlsajRRcnlPUVJoX01obkZSODVOdFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1759129200
     },
     {
-      "title": "How to watch, stream, and listen | Eagles vs. Buccaneers - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTIybm9QUlhSMDY5MUs0MWpsYUdJS0c2V1g2anpVSVFiVVhiTE5uR3V0a3g0dThKSktxZGcyUUEyeEZQRFZHVDJlLVhIcXJzZUM2SU5BN2REWE5mUHI1Q2N1Wjc5d1BOREppRGxSUGs4Qm9EWDhJMU8xYlViYmV5aEhpdUFaY3h3NHZOVl9xTVJ3c3VzczZPTFlIdTJ1YnBSaV93czZXdnlhXzFSakhsNkVNSHQ?oc=5",
+      "title": "Eagles wasting $3.6 million on veteran safety while rookie shines through - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHhSSGJ5MDNlOEdtaGN5S2g4VE9SaW5lRl9DUU8tbG5BWnU1aFl3dklYMzJ0LVhzaEw4QmtvSVJpNGZyUFZfMVlEQXdGX21jUGl6NGZQSGptUkFIVzVQTDJZcEVEdVdxNEk5Q2U0SmRHMEdNWGU4ZkdNZTN6Mi1EMm54QzZ0WGVRdHVsMHdheVhDbC1DRmhmWU91dGtJVG9jS2c?oc=5",
       "source": "Google News — Eagles",
-      "published": 1759042800
+      "published": 1759060801
     },
     {
       "title": "Eagles 31-25 Buccaneers (Sep 28, 2025) Box Score - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSlJpZndGbld1MVBkNEh0eDFkamYtX3pSSlQyVnNfd0pveDg0Tm9kYzZ1NXhmRnYtOUtGM3lfTDJnekhfMlFHWGtZLTlQUkZMT2V5WHlscnYydllMQW1BcVdn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759042800
-    },
-    {
-      "title": "Spadaro: 6 storylines to follow in Eagles at Buccaneers - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDlxRDNBaHlUOXlaajZwY2hOYzZXUnVRaTJyemVzNXIyLTVmeU5HaGZEdF9hVEptbzE2NTZ5ODhkcUZ3SHItMURlZEVaN0dmb2xiZ3lwSzk5ZVZOVXNtR1g0eGtIQXlFQ3Q1OTI1aWhGbzVMSXFCY1NxWE9qdE1RNXZlRFFlbDdFNFJTNUx6YjZoTVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
@@ -397,26 +451,8 @@
       "published": 1759042800
     },
     {
-      "title": "Game Recap: Eagles 31, Buccaneers 25 | Week 4 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQampPcmRldktKbzJfLXlBbmlyZU5CaXBtNlJfM1ktdk9NNjBodk1XaWFOU2ZVb29VYW1KXzBBdXdDSkRZN2F0UXEzb0hCQVZmOFBaMld6YnBLV0czS0FWMVFKVXF0TWpUbTZteDZtY3R0Y3Z1R0Q3Q1BhN2xteTZmX1drUkFrb3hUeTFBUlYwR0NlQjhWamE4YTBsTTNOd20tdHc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759042800
-    },
-    {
-      "title": "Eagles at Buccaneers Inactives - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWFaYzNsTGVVZXFSdVBoeV9SRTRxVnJVWWZqSUQtaFBIRFhUZTN5SzJQM0t4RXVSY1NiYkhrTWtEVDJPdFRrVEh0QWtMREJuQnVjNkVHVHhyRGZqTGd1eV9IdlZENUZIVWhJZGc2NGFHQ0Y1cG5EdnplRy1HblRpNnV1bGg5dEh4V3Yta19JZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759042800
-    },
-    {
       "title": "Highlight: Eagles FAKE the Tush Push and Saquon Barkley walks into end zone - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2tnWnlVRFpVMkVWckxhQS1pYzR1NXdYRVBVamFlZmJVT1BlSWJaRUhTY2VnaHEzQzVsM1hPNGZTSXdZbG9PNFZXS1l6UkV3QVFDdzIwNG9OR0RpaTMtRW1FMEpYclo3WGlHOXQ0SHQ3LWowMmNjUnVQSmc1ZlJNeE9BNHZtNGxKU2lvbF9lT0FFUTF6eXNjMkl2dGZsX0tBeUhtVEl6Z2VxSHA5WGZ4WEN4YXhNZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759042800
-    },
-    {
-      "title": "Spadaro: 11 observations as the Eagles improve to 4-0 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlJQRFpYZktRVmpSb01JSnJfNTNrSUtsc0JGQmw4c2ZHd1lMYUhMcW1CWDByOVdaSV85VWxGUWJfa2J5eWpjSkpDMlBpQTlRXzlTXzlMNndvdUxzUld0OHhtcW5ydmhBcklMWWFiSzNxZ2ZYYVY5cV9CMDBpa1lOclZudXJkZFFBTEU0dk9hS3dLM24tUGln?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
@@ -439,70 +475,46 @@
       "published": 1759042800
     },
     {
-      "title": "Eagles vs. Bucs Game Blog | Week 4 2025 - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55RWgzdjFRbUN5aHJ0bXhzbFdDX1VrWW1DTXktdHRjTVlQdmFaei1QQ1AxVEtWalJfb0JBdTNpeVpMcHZfT0FjdURzcHRNM1ByQThKNjBsV1hLZkRCcHl5bXhkbVlXMUlSejF6Uk5sZHFIWVlVRW5N?oc=5",
+      "title": "Eagles-Bucs Inactives | Baker Mayfield Will Start for Tampa Bay - Tampa Bay Buccaneers",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbG9QMGxRR3FXTGFQY1RWazE5eDRpcVRoR0pZRkcxMzBOeC1fc2czNGZBY0FVb0tJbG5NTGV0UTJxQTRqeWo5RmpxNk5GQUlUQnZVTkUzSkFZeGg0XzFDeWc5TTdMRWpEeXNmRmt4aUx4Y0RCdDhaTllJYjd0VXJzX0dzZXVDdHNGOV9BQ183dUg0Y00?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
     {
-      "title": "How to Watch: Eagles at Buccaneers | Week 4 2025 - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUpQcnZEMW9XUGZXazZmRUU4ZThnZlJ1SkNZU3lybkw1aFhjcmd2MEJwNURaUkM5M3hjempuSmRNeUhYWEZDbHNZTk1uOXhybkJIM0xoNG0zVjdxMkE2NzNxSlhOTTV5U21BcEl1MVdXaURzbTJiSnJDSUU0RnlBN1hyZw?oc=5",
+      "title": "Highlight: Sydney Brown returns blocked punt 35 yards for TD vs. Buccaneers - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3lFVG00dlNMVzZacjlJWHRfOGIxVHdKT1hXem1JLVdSc3hjTF9nbmdRUW9tVXlONjlhNjdUOEQwOU8zcWNjdkxwNEdZRTNpSnNkUG5HeVMyLXhlaFdTbGVndnFYQjhLaHA1SG5rcU5SLWs2eEFmZkpxMUJNMjZEYjhwelRmSkczUHVWOFpuX1lXdUtZMkRKZ2NjbWc0RDRzMHVBY1BJT2w0VWVHRHZYa2hURmE?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
     {
-      "title": "Eagles vs. Bucs Full Game Highlights | Tampa Bay Falls 31-25 - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDg2MkdCaTB4dlRwNzY4WDlTRHA3WUhKUGRIdGszZHZEVlpPRjdrWk84QmxWN2hISGd0a3UtcTVmOG5YQVBPQlgxY1lSSk9SOGhhRnE3OWV2dFdpTGllTDBqRW1wczRlRVVlaFYzNXAyZ1FGMFY2bDFFU0xUQjJ6emUwS1A0bnhUNHdjNVlLZDNYN2c?oc=5",
+      "title": "Highlight: Jalyx Hunt forces the fumble vs. Buccaneers - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2lqWHBIRENlaUNmWHZWV3U5bXk5VGpaU0dBUkJnRHVxUmVaTHVWNkZVbFFBU0N6MnlkMDRfVkl6VXgxOHJrVjBGZGNHOXF5amU1dlNheWNXM1FZZzBuaHNrYS1jdUc0bDB3Rmp5cVRLRjhRN245ZE5uZmgyVHN6Qy1xN3FlbnZiYlhyNlpVTFFJMVBteldCMktGUXRZNW8?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
     {
-      "title": "Eagles vs. Buccaneers Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ3ZhM2RCaHpWam9OVjUyckUzS1Z5NjZZNjVZZ2ZDU2g5a0hJQ2NLdW1ic3VLQ3VIc25rVTRiS0FDcEtUZ1pvX3V1S3JSalVyZ25BUjI5Y19kRTBJTHhrYlNORm83cnVHVVdLQUNGeDF2eHd4UE1TT3k1c0V0WnpHT2k0T2lXTzBaQ1VZTVFCQVVXaE9H?oc=5",
+      "title": "Highlight: Jalen Hurts with a 5-yard TD pass to Dallas Goedert vs. Buccaneers - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnVfWnJUYWptMDNDMlRTaVU0YzBtVXJaSTBzQ3ZqcFQ0Y043Z3hDcnZqbzV2cVFTQUJha1BhYzNkVXE2eHFQaW96UkEyNzF4TFluLTVfaHlGMGRiWVNFdVR5eXRqd0dZc3pxSmVrVGlvQmtmdElsMm5tcWk1SFFmR3ozcjZXaDg3R1IydlZuV25ySkZ3Uk41UzFTVVlTdE9lbFptYkxUTWdMY3lTVjh4RWdxTUw4c28?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758870000
+      "published": 1759042800
     },
     {
-      "title": "Eagles Locker Room Interviews: September 26, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGJEM05EcVZONk05N1ZhS21tTkstOWFtZWdpcFFMNl9DWjFIODlxd1NlX2lfSE9DVVRvRkZjLV9QSko1RVM5UzRsUkhBRE96cmxHSHBLdTBrclZxa0JHQm9kUjYzMWJGU19OMVdYM2hJZmY0OTN2WTd2d0VyUEhiQ0pLVGJqQmlzbW4zS3JONWIzQQ?oc=5",
+      "title": "Nick Sirianni Postgame Locker Room Speech: Buccaneers - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTVwMU1rWllzcHZrSVZyb1FuMUdqS1F1cU9sbW9QZFYxQ3RRMVJWWldxZ2pfazBraThkMHpVbFRwTlM3UTVJelBhWlV0OWM5YjI4eTQtUXk5cDdYYnM2b3FuY3p0WVJLeU9fLWpVeHFINFNXRS1wSGp6ZDEwcm9OWVpaSWk3M3NGZXFSVW9ELTZ4al9feHBhdGFQNmZ6SHFCQ2M0bHQzUnA?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758870000
+      "published": 1759042800
     },
     {
-      "title": "2025 Game Preview: Eagles-Buccaneers, Week 4 - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tYTdfcEpOOTl0UndGanJqeG9yWUxodTRoRm9kRmRhWjFRRExPdl9TNEQyMWlSOGVRNzZYVFp5YXVCemR3aWtDTUFFMHZlZlZiODZIV2RJUVQ0RGpqMUFaRG1VVTFzSDRNamlubmJrY0ljWEo0TFhGVF9VcFRtN0E?oc=5",
+      "title": "Bucs' Mayfield, Godwin, Wirfs active vs. Eagles - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGtpTUdDVV9pT3dVVWFKSjlHMFFIbzdGc0g1RmZvbHVjalVsQnJ3U2c4YzNPS3ZNRlhKRmZzaGYzSlRXU2x6RUVfQmg2NUJMZmt2Yldwb2ZuRlQ3Uml5M3V0d0h3UXZqc3JIZmVtbkVpNXdEM2FCMEhtaEdJUEwxakNwdHdURkZoUHE1N1pPMDN4MXBweEVFMA?oc=5",
       "source": "Google News — Eagles",
-      "published": 1758870000
-    },
-    {
-      "title": "Can the Bucs Run on Philly? | Eagles-Bucs Tale of the Tape - Tampa Bay Buccaneers",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkprMy1QNlF5WVJSd3Z2NDlCdUx5ODRFVGZ6TGRFMGVVMjRNYnpnTE9sNWplekVXUnlXTHZCeWJ4Y2MzQndwUTl5MDhSakl1Ylg3ZGpwdTlDRTQ3Y0NhbnltZTIteGc0aGhHVEJQT3JXU0pkLVNPYktZRGM2YUtfN1RubkRWUUU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758870000
+      "published": 1758956400
     },
     {
       "title": "Week Four Expert Picks: Eagles vs. Buccaneers - Tampa Bay Buccaneers",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2JpRmtyRWtnUXI1RVBKOHc0SWtPVE93eWpBT3ZCa0ZqbWhRTmJBa0ZDYVlTRU0zR3ktUkh6bEx6NVIwc2dja0dzQTBlWWJkME95THNqbG9CVk5SZS1oMVZxbEdrT25RU1M1eU1mXzJYLUhKcEVYNk5ndFFwN01sVnFFYWxzdVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1758870000
-    },
-    {
-      "title": "Eagles Locker Room Interviews: September 25, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjBYZUpQT3BCLWNZMFhaNnRSTUE0SlJFUXZqRktpY25HeEtFQWlLY19OTVVYQVZsaU5QNi12NndvZ0ZETWtodGVZRVdfMy1OSVF1cEtEeXRCMEFINDJpSUplbnhxZ3FpWFZYcngyMUhfdGY5YXprZVFKWVFsYkdMZ3p4bVpYcndkdE4wcHZFTElWUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758783600
-    },
-    {
-      "title": "Tampadelphia: Where Eagles fans find salvation in Tampa Bay - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDMzNFVUNXJMOFpQVWdTTGRqTjllYTBSSnRaXzVaMGRkWE5WaUFzSFBST0pXbWoyUkw5eWJNcXJfckxOaWNPZG5kVVpaTnRBY01uSVRKWUpRaFRwZEZBMlI0SXJiUU5HMW5MSWNvcUxJOGY1QkpoWmpsUE5HYzRGVFJCbndWclg3ZktGbWRDN0ZaV3ZWYkxuUVpuRHdmWEU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758783600
-    },
-    {
-      "title": "Cooper DeJean explains how injuries will impact secondary | Eagles vs. Buccaneers Daily Updates - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW04VVdsTkRGSzN2cy1UVk5RTmtfaGZ1bFFSUXMtbTgtdHZEUnZRQmFnTkgtamRGX1dkWmo1NXU2S2tIRHN2WU90V1dnS25WMTQ1eUdXdk1INnI1RW5acGlHMkxwaUNTTWNUdkZnczdxNElZTi1oazZiVllQR3llQlcwQzVtM0tsV0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1758783600
     }
   ]
 }
