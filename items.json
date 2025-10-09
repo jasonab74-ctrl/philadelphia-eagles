@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-09T21:38:41.767533+00:00",
+  "updated_at": "2025-10-09T22:19:12.036654+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -17,6 +17,12 @@
       "link": "https://www.bleedinggreennation.com/eagles-film-review/160710/eagles-opponent-film-room-scouting-the-new-york-giants-defense",
       "source": "Bleeding Green Nation",
       "published": 1760037138
+    },
+    {
+      "title": "Eagles’ Nick Sirianni on Jalen Hurts, Saquon Barkley, A.J. Brown meeting: ‘Love that’ - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUZOankzU3pCQjdJSlJrWm5ZTjkzdzJqQjBick8tbEZkLWhvOU1LWDNiekx2Mm5KbS1kV0g3YVlSRlNyckZlcm1adnA5eGlGdU05ZFFPU2dDZzNRVGNUc0Y3QTdNQW13WndIOVJ4THlTOXVodGFJbnZITzBLWjJpSFk5NElEa0d4bU5lLVhPME96ZzlQR015cWN0dXktNmhFSHRCdXFBMGZSYVFCdTBuLUU2cDdJRksz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760036940
     },
     {
       "title": "Eagles Reacts Survey Week 6",
@@ -175,12 +181,6 @@
       "published": 1759713909
     },
     {
-      "title": "QB Bo Nix on beating Eagles in Week 5: 'It proves we can go on the road and beat these tough teams' - Denver Broncos",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdktXN2gtY3hza0o4ZkthTzRRSDFaSFh3MkU5NV9ja3JMQ3h3V2xZOUV4YWZqQUswdURUUWkxTFpRekk2Y011U0NQR29pcGhxRC1VYWJwYlR0SmxBQWk3RlBoTDVPS0N2VWY3ZF80ZFd5NUxpckZWakdxN1FkdVlBWWt2VzZTb3JGQlhMa09DY3owbDFLR1FVQ0JsZmNLbUtmOTVlX0c1Q3BOTVdwYWdwOHNVdFdYTHhIUTNHUGxPVzlXYS1sbzNCUGRyV1I?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759707991
-    },
-    {
       "title": "Cover 4: Broncos knock Eagles from unbeaten ranks with wild fourth-quarter comeback - Denver Broncos",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDlmSUo1TVhsblJraVFYcHd3bVBaQnJBOHh1bUJiSmpLMXFwbkVOdGduUGVwTWVIdzJrWHRFVHdGQUo2eWItektucHVOaGo5dmR0UVhXYjlEbGkxaWFBUDM4dG45U3E1U0YzVm02XzJ0M2lfRzNLZG1nTG9xNTVJWGtZVlZmSWc3TnN5T2RfS3psUWxFcEVCelM4cGFNUGpGRjJaWFhDNzAybmdmUUpua1Z6VEtxN3Qw?oc=5",
       "source": "Google News — Eagles",
@@ -289,6 +289,18 @@
       "published": 1759647600
     },
     {
+      "title": "Eagles' Cooper DeJean fined for his AI step-over against the Bucs - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUl2YUlXS0tOQ09YSUEyejJFZ2x3MFVkV0ZvVEN0N1hlOEF5eWV6a0h5aTg2cVZaVThFV1JWYllhUzczWm1JaGNUaFF3OGcyanpiT3IwVXhqcDVkVllmc25CcXZIMTVEb21TcjNkUGlVMjR6ZDlOYlVLeWw5Qk5veEVaa01nZzBJeU9lczNYOFJGN0lpVEF6SHZoaGFNQXRxUW5XenlZMmNLR1E4eWF3blpVeUNOY0psYmNMMdIBxAFBVV95cUxPX29NUkVGQWliZkxZSmFJekZDUEVBeGg1aVdBWUExNXJLT2l4NDhtdjJlX25rZnlSazV1c091RVNicGxGOHBpbnM2NktkNWZrdEFKUEJNM3NId002ZTFRdmROSEhzRFFzbWZ6LWNZeUFQREY0RVRzWnNadFFIaWRlRFAyYm9iLVM3bUNTb2dnVTNvN25JRS1qVXptUXRyUE5rT3dBUS1hSmJCdTFxTzZoZTM4OGM4dC1RYVV6d2p5MXhLdTlP?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759608852
+    },
+    {
+      "title": "Broncos to wear Summit White jerseys, Midnight Navy pants and socks vs. Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0x6Q1doYU1KNEFQQUh6UjYzMGZJRGFIYWlBTlhSODVvRTJtd2p3VDN1dnV5MVlnMFFTbnd6VFRlbzlLQ1FRaW9vWGxlTWJvNDhwRmxhbUFXQ2ZiVjlBUE1GYzFUZE9Wd0hYdExPbk9iajJFcXVMWS1WRThKUFNpLVlqZ0hyc2tsM2l3ODlyaWE0N005anRzN1N1clpNcjVKUGFYUlV4clYzdlhZTjZ5Qw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759604642
+    },
+    {
       "title": "Spadaro: 6 storylines to follow in Broncos vs. Eagles - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rWS1mXzllS0ZjVVBFZ1p5YkRhZlBLUVNOTVI4T3NBYmpEN0dJdmtxM1ZZQnRIVmhYeU5VUVVxVWxKY05xeGtQSXpQNS1oU0lLaFk4UDNXQkxLakN2bDhMYmhnT1VnUk0zbHZRVGVNSUFCbEFJZmxYQzdJMlQtX0U?oc=5",
       "source": "Google News — Eagles",
@@ -317,12 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2w0ZHVnbUxpcDlaSDhpMndtUGZZN3J2d2JBWGN3NHVoajVFa0RZVkVyWVlYLWhaZnZmZ214TlVGUl9vY1dnT0pvT1doMDBONnNvUnA1RXFHZlVPSjl5cXNHbDl0VjdVNEVkYUpDUGVKZ1VVNjNDeHZKVFF5eDItbDdIQWtHdGlvcl9RNkNYdUVmeFkzTV9PNnFmbFIwSWQxYzRZNjNIWW1kRndGRjBsRTJyNkVBUFBvbGFfbWI1UENCak0?oc=5",
       "source": "Google News — Eagles",
       "published": 1759547342
-    },
-    {
-      "title": "Eagles, Fanatics give unforgettable experience to four Make-A-Wish kids - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3pxcG5KZk0tblJqUFJ2d3ZsRXd4RjlXaktadFZtNzhlcFg4X3lMLVlnS3dDd3hMNXgzcVM5U0dpOVZMZFJkeWluYzdEZzJZc3FLUlZGS29sV2wzTDJpbWs0NklkdEdZTGNpODVqaEI1Y0FQVi1qeTV0dEpUV2U3UXkwY3JUVTZy?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759526943
     },
     {
       "title": "Eagles film review: Why A.J. Brown has been underused and the offense is sputtering - The Athletic - The New York Times",
@@ -397,12 +403,6 @@
       "published": 1759042800
     },
     {
-      "title": "Highlight: Jalen Hurts underhands the 2-yard TD pass to Dallas Goedert - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUR5dHNwN3dqeEYwQU1CVUV0UVNFOW90Z3JNTG5VeXhoZmUxcnZpLUNreUliM1AxMlBZQlY3NTJOYXIwNFI2V1I4LU9JcFFIZ2t3RklzNlN3ZkxSeHQ4dmxoT1J3a3ljWkY4bWlkT05BeGEzODRaRk96YjJXLUpPdEtBQXBhOGZORDZLWTFmeVhBTU5qNURBNDZIWTU3TkU0a05rZ2FTNVFvdmRtejdv?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759042800
-    },
-    {
       "title": "Game Highlights: Eagles 31, Buccaneers 25 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWFKQUJtay1UQUpTOWYzYjYxNTEyV0hHM0tjTTJ1Sm01bUtGNjFzMk02ZjB4SUVpcUtHVWlXSXRsOENwaVNwTDlSWm9oQlZIUmRVZFUwZEhOcThaSFBuVWk4d2VOODRHcHlSRExlMnR4OVF6TFN0cWh6dFdYVXRuMGcxLU8zYjNHYjU3UThKeWZIMHhtZGJ3?oc=5",
       "source": "Google News — Eagles",
@@ -435,12 +435,6 @@
     {
       "title": "Eagles-Bucs Inactives | Baker Mayfield Will Start for Tampa Bay - Tampa Bay Buccaneers",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbG9QMGxRR3FXTGFQY1RWazE5eDRpcVRoR0pZRkcxMzBOeC1fc2czNGZBY0FVb0tJbG5NTGV0UTJxQTRqeWo5RmpxNk5GQUlUQnZVTkUzSkFZeGg0XzFDeWc5TTdMRWpEeXNmRmt4aUx4Y0RCdDhaTllJYjd0VXJzX0dzZXVDdHNGOV9BQ183dUg0Y00?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759042800
-    },
-    {
-      "title": "Highlight: Jalen Hurts with a 5-yard TD pass to Dallas Goedert vs. Buccaneers - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnVfWnJUYWptMDNDMlRTaVU0YzBtVXJaSTBzQ3ZqcFQ0Y043Z3hDcnZqbzV2cVFTQUJha1BhYzNkVXE2eHFQaW96UkEyNzF4TFluLTVfaHlGMGRiWVNFdVR5eXRqd0dZc3pxSmVrVGlvQmtmdElsMm5tcWk1SFFmR3ozcjZXaDg3R1IydlZuV25ySkZ3Uk41UzFTVVlTdE9lbFptYkxUTWdMY3lTVjh4RWdxTUw4c28?oc=5",
       "source": "Google News — Eagles",
       "published": 1759042800
     },
