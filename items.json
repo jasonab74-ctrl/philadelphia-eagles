@@ -1,16 +1,28 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-11T14:37:28.259242+00:00",
+  "updated_at": "2025-10-11T15:18:17.904133+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles News: Philadelphia’s embarrassing loss to the Giants “is on [Nick Sirianni] more than anybody”",
+      "link": "https://www.bleedinggreennation.com/news/160969/eagles-news-philadelphias-embarrassing-loss-to-the-giants-is-on-nick-sirianni-more-than-anybody",
+      "source": "Bleeding Green Nation",
+      "published": 1760193263
+    },
+    {
       "title": "A.J. Brown: “Just to clear this up…”",
       "link": "https://www.bleedinggreennation.com/news/160960/eagles-aj-brown-clear-things-up-jalen-hurts-saquon-barkley-conversation-comments-nfl-news-drama",
       "source": "Bleeding Green Nation",
       "published": 1760132081
+    },
+    {
+      "title": "What is wrong with the Eagles offense? Answers from Saquon Barkley, A.J. Brown offer peek into dysfunction - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdk5DUHJET3FGYl9aNWxWY0xTM2NfR1NfSUZwblh5d09waFRnZzJGclFsR1BORkxtV1FsNy1MeGFRWnBpNFJFTXJmMHdxVzF2S2N2a01CRWtabGNoZFFFWmlYZ0hvNF9OMGpzazdibEFIbzdjRnJTaTVXLWg1UGhYWkFVMmdsaWlDOHdPcDNMbXNaR1VBSUI2aHN1dGtqRVBpaGRVOEhhTjFaeVNNM0o2cG9jeFBrNzJaakNWdjVYcW93eHFWN1ZvZVpzRGhJZ29s?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760116680
     },
     {
       "title": "Eagles’ A.J. Brown: ‘I don’t recall’ meeting with Jalen Hurts and Saquon Barkley - The Athletic - The New York Times",
@@ -83,12 +95,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/160886/quinyon-mitchell-injury-eagles-cb-suffers-hamstring-injury-giants-metlife-stadium-turf-nfl",
       "source": "Bleeding Green Nation",
       "published": 1760061256
-    },
-    {
-      "title": "Eagles vs. Giants: Second quarter score updates",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/160856/eagles-vs-giants-second-quarter-score-updates",
-      "source": "Bleeding Green Nation",
-      "published": 1760059635
     },
     {
       "title": "Highlight: Jalen Hurts' Tush Push TD gives Eagles lead in second quarter - Philadelphia Eagles",
@@ -235,12 +241,6 @@
       "published": 1759697480
     },
     {
-      "title": "4 takeaways from Eagles' Week 5 dud after blowing big lead vs. Broncos - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmowQVVhOFI2TDJmTElSUVpZNWFhS3dvWHBsVHVNQVplamhfX0pEZG5xSW54RWdVVEl0c1VOYnFpZ1BsZW1vV1dRd0FUaTUtREJGYU9YUW0xYzA1TlMtMEdHOEhLSXNMbHhPT25QVXhEMFoxOTNONzhiSGFsem9oMXlNZVY1WE9mS004RU9xeXRoa2UtVDdpbmRrbGJ4ZXBhYjNudDBxZWsyVEsxcUFwRUxBLXA3YTBlTnkwWE1oMVE3QzZ1b0Jj?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759695926
-    },
-    {
       "title": "Game Recap: Broncos 21, Eagles 17 | Week 5 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpDUnlpUDVpR2Z3VmZmOGJPcG9oS1ZULXBQcEZFY2ZZMzdnaDZkekQzd3BOTXRNUmhtc01TVE9GRmV0ODc3NENMRWRWUEVzNXRWdEp0eE9hMzNMNjRUbW5lbFByeWtWUjhjQmY3UThkM2hZQ0hNNTFpbUlqeDlqaGtYT29PV2lxTEdLNVpEYTJMZjVBTEp0RFp3?oc=5",
       "source": "Google News — Eagles",
@@ -257,6 +257,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONl9MNWhaeG9JY0VNenBuSjV2UncyQVBzSjJpa2xjeGtEMGNCZFRON2lYWVJMOGVyMS14T0E3ZVZ6Mms2b0ZYbV9tZzNpOGJSYVpGdXVuTk1zVEVwZG50eHNkbnFSVGVNOU5qVDUxeDR6ZFlYMWU2a0dJMF9nN0h4anNZbTN5X2x2aGNMRTlaXzI?oc=5",
       "source": "Google News — Eagles",
       "published": 1759678279
+    },
+    {
+      "title": "Will the Eagles remain undefeated? Model locks in Eagles vs. Broncos picks - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcW1rblNxejlnR2F4VVJXWGVvM3d6YVBBWkZhYUx5WVdaV0ZiWGFkN0VSdWlrZDBxMkM4TVcxTks3ZWxGeFc3Y2pwZjRrV1lTbjBMbzd4SGdkNWQ2VHdzbUR5MkhEeWJhOFB6eXJXNGVpOWtfNXhYV2lFZUFpM0hieXFoUUstdldCb1hGS29ObGI1bmRBeU0wbjdCTVc5emd2bU9hZ092cklxaG16Z2tpcnU1bXN3UUlMU1J4bFlMYTQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759674028
     },
     {
       "title": "So far, the Philadelphia Eagles' toughest opponent could be themselves - NBC News",
