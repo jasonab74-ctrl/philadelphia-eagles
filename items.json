@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-13T14:22:41.017338+00:00",
+  "updated_at": "2025-10-13T14:44:04.983920+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -11,12 +11,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHF2ejFybklxamZXT3dMN3V0MDBpbDlpMjZXNTBWMVEwQW1FNlRGYWZ4WXN1TnlRbW16bFgwYThSTXdBamJUSjdCZXd3RlpNWjUwS1BkZGs0aGJGWXFiNEZOOXZfWFItZlREVXFmeURSdG9uXy16OEFmaFpKWlVtVFhaUFRtblNFSi0zbktGT2pqOURlZ0NjUjJCbWhrcUhtci00?oc=5",
       "source": "Google News — Eagles",
       "published": 1760357656
-    },
-    {
-      "title": "What I’m hearing on Bill Belichick’s future, Eagles fallout and trade deadline rumblings - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXVNZFdzejUwYUFxQ1VfNDRWbWhlRk9xQ1ZUQ0RUTi0tc0FLYXg1RlNVaEZIcEhlcUN0YUZzT2pFNFdOaW5hcHVnSUEwaDZmMjE1NndfNHJyRm9GZmF5ZkZPWTlHVFpBcjk1Rks2cVh6VlY4OF9qQ0Vrbk1Eam0zMFFHVnR3cVEtOUhIWUhFdGlDc3dpNVNxWk16MnU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760321520
     },
     {
       "title": "NFL Week 6 Late Games",
@@ -53,6 +47,12 @@
       "link": "https://www.bleedinggreennation.com/news/160969/eagles-news-philadelphias-embarrassing-loss-to-the-giants-is-on-nick-sirianni-more-than-anybody",
       "source": "Bleeding Green Nation",
       "published": 1760193263
+    },
+    {
+      "title": "What I’m hearing on Bill Belichick’s future, Eagles fallout and trade deadline rumblings - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXVNZFdzejUwYUFxQ1VfNDRWbWhlRk9xQ1ZUQ0RUTi0tc0FLYXg1RlNVaEZIcEhlcUN0YUZzT2pFNFdOaW5hcHVnSUEwaDZmMjE1NndfNHJyRm9GZmF5ZkZPWTlHVFpBcjk1Rks2cVh6VlY4OF9qQ0Vrbk1Eam0zMFFHVnR3cVEtOUhIWUhFdGlDc3dpNVNxWk16MnU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760191740
     },
     {
       "title": "A.J. Brown: “Just to clear this up…”",
@@ -127,12 +127,6 @@
       "published": 1760057629
     },
     {
-      "title": "The defending Super Bowl champion Eagles are 4-1 — and in trouble - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmItcGtXanVBcjkxTEpMbGZFYkdZZFZlZTYtakUtUWdIVDJTRVp0SW84emJncVhNcDB1QTA4a2c2ZndHSWNxZWZ5VTlwcndUU2tWaDdhellzdWNQdm9uQjN6enZTQU4wVjJzYWM2Y2pHYThJbWdtSHF0Ymk1dVE5a1FmdThYZjA5RGEtdTNLRlFqWDBfalRyN1YwZWc0WXfSAVZBVV95cUxNU3VqVURLTXV6QURBdmNnVEFzVFE1YjU0aVkyWEJTV01DaEpzTzZkX2VwZUhLRTdDUE1YMzUyUkdaZzNNcEROYkpKN2M3Y2hqS0RkYnhlZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760026491
-    },
-    {
       "title": "Eagles News: Offensive struggles aren’t just about Kevin Patullo - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMFIwb0d6ZU5kd2w1TXg2eXEzbjM1WWplWWNLUUdxb3pmS1RpMnJzM0doRGhqNDNycWp6eDlsbEhVenNGclBveUlWdTRCemt1ZGxEdmpDalZmdlhtWmpoOUdzVHB6Vi1CTDNVZFY0RFd3LVYzZ1RGdEhjU2RNYVFVNV9Lb1BUSXA3RnB5Q3dyNHRGOTRlcFN4YUltSm5GcHkta1IyWFpmR3c3NlBEQms0?oc=5",
       "source": "Google News — Eagles",
@@ -143,6 +137,12 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEhXMUl6b2VaLXIwanE0WjhYRXRHc0dxX3Item1UX2pJOUh4NlY2Z0lfWWtvMkRibU1ESWw1RlpGdWFwVTNMWmcwd3laQ0hvakZsNXJKeUE4OFBqTV9FZHpqNHRLN2dqTnpCVUVDUC00SzZCTU5EVnZKRFMzekpTeVNKZzZLSjg3ZzZnWHVFLXN0UVBmVjJRSHAzeHhwNTJkaHd2djV2Q0dTQmRydTZhcG9pMUR0SnM2WDhlcWNJbFVNNlpMc1ZzWFY5bEpBV090RFd0Qkt6VdIB3wFBVV95cUxQTTZ0dGJsQ2FiMFRkcUdRaklZZ3VrZFpwRUdwMVJEYXB6aEVYdEpaTnFLTzhkeEtuWWtaTHVrVUxnR3F6eXB3NEtGS3ZJekF3bEJ1dVVIREtGVjRXblBRUEdmZHZoR0VIcnRwRlJNNWNqTTUtQ1FsVTVwallDakV1ME0wdGFWWVJLU3NFYVhVa04xUzhqQ0tHQnplOUtxaGNnenBiNTlwTXlkVThLbGg2NFRZNmY0VzVDWkNOQnB1X3dNVEdSWTRCcVMzQjNvS2czSjZPdElKRGhlak9PczVr?oc=5",
       "source": "Google News — Eagles",
       "published": 1760007600
+    },
+    {
+      "title": "Dickerson (ankle) out for Eagles' injured O-line - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkRQa1lQVWtRZXp6LU92MzZ1SnBqRkRJV1N5R28zTG11OWFrMHlBSjhobXZWVHY0dV9JeDN3RlNiUmhiMUI0QlktOWxKN09valBXemFVSXpjYW5zdlBfNVpuRzVEY3ZqejFpNzNCaVFKcjJhTzczaHFDRkl1SGxkOHVaTE5sYXNnMEZ0Zy1kSU5USnJ1bHYxQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759951380
     },
     {
       "title": "Eagles Locker Room Interviews: October 7, 2025 - Philadelphia Eagles",
@@ -167,6 +167,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EVlNoamZXUmg5Q0hFNXBzd1BpajJkTkNKQTNZUmVPUHVLOWd0LXd0cmZ0aTdnZVFtRHNUeVRobFl6QkJJYzJnR01aTUp4WGQxQU40dVE1bVNjakpTbGJJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1759864515
+    },
+    {
+      "title": "Eagles Urged To Swing Shocking Trade For Polarizing Rookie QB - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOE5pbDJGVlRTZkl0V2dpcEpPSjNZOWd4UTR1OXhjcEdRN2FKYUplV2xPUjBOX2M5SzlzY1hUX0NpRmxneUZOQm96S29OTnlEdWdCRVRRMldzVWlScktXVWYxOGpNdGpVcEdaSl9XeVI0Qk9RZXdKQ1MtcEVvWWF3LW5zc1pxUjY5d1NfNGFuc196WUxoYktHNExheFZiRkd0VE1WTQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759852802
     },
     {
       "title": "A few positives alongside the misery in this week's Roob's Eagles Stats - NBC Sports Philadelphia",
