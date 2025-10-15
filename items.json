@@ -1,16 +1,28 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-15T19:38:34.446938+00:00",
+  "updated_at": "2025-10-15T20:24:59.067410+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles sign two former draft picks to practice squad",
+      "link": "https://www.bleedinggreennation.com/news/161165/eagles-sign-two-former-draft-picks-to-practice-squad",
+      "source": "Bleeding Green Nation",
+      "published": 1760557346
+    },
+    {
+      "title": "Eagles announce two roster moves ahead of the Week 7 matchup vs. the Vikings - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX295ZThpSUJHVHMxenhJMTAtRWN6eHJjX2FyY04xRGtrZGlsMjdSUVdkUG02YzR1ZEZ0VTh0MmxfSFVtazRLWGl2eWlwcTY1QWdRMFhMZE1GTlNQdEwweXdOUFAydTMwLUVJU2tSdGExTGtTNUNSQ3pyNElpcDhCZ3JlTWc1QXFpVE9PRDhXWDgwWjZ3dG9JSXRuOG1Ob3ppNWtCeXYydmZuQzdrNXF1R1R1Umttdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760555591
+    },
+    {
       "title": "Eagles sign TE Jaheim Bell and DE Titus Leo to the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUgzMThGUzQtYUN2dThYUUJWMGxKM3hTVFQzQjVPYW51Nm4wR2RGd2NyTUs1U2lGeEk3ajlkczZMU0hpWlEzU1d2Zkc5YlpkVjJ5MTVxZGRZemRHdEJEb3VGV211S2VfOS02eHZydDlCaVVKbDMwMzRzRURFdG9mWDgwclJheVpUWHZkcDhUMWhTTVpEMTM3eVVaLU8ycDQx?oc=5",
       "source": "Google News — Eagles",
-      "published": 1760554063
+      "published": 1760554042
     },
     {
       "title": "Eagles enter Minnesota as road favorites against Vikings",
@@ -41,12 +53,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGgtdDJla1hUMm04Y1ZFUXJUMkJBYnVzYm1YRkpLaUswWU9oZlNMMENObEY4VUNCYjVKSHBaVHc2dVdjQ2FheHJHXzJLWjEwQ1EtZzBTY1NDUnU5ZlF6dVZXY254a21SRGVocUFxbDJDeUZsXzZocWlURi1WZklmM1g4Uk9Yb0xUU1hvWFpIZ0xETnRsdkZEOHF5a05BcHZxZEZPbnZwdFN1enltX0xOeVBmRGlOYTBFUm15cEFYWUVpWWYtb2JCY0dXckVHMDd3MUl5ZFNtRm9iNW9FYnM4?oc=5",
       "source": "Google News — Eagles",
       "published": 1760542220
-    },
-    {
-      "title": "NFL buzz for Week 7: What we're hearing on the Eagles' offense, 49ers' injuries, Titans' coaching change - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1BQUk1UdFpXTmdkazVncHdHd2tJM2hwRkczZzFPR3ZMa1M5UFhYd0tsdjk3N0tXQVYtUWx0TGdTa2tuMk9Qb3JXT0t0RlVTRXNCMWxENV82U2hPSmlJdndjWUxaQ1R4SnNuYXA3UElMT2g2bzd2WkpkUTlKZzVjcVRyV2pMdlFSUWowTmJTaHp1WFVWa1hqa19iRk43UWxQZVdaX0U3TmNPTm9tTkE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760523600
     },
     {
       "title": "Eagles coaches throw support behind Jalyx Hunt",
@@ -101,12 +107,6 @@
       "link": "https://www.bleedinggreennation.com/news/161075/eagles-news-bradley-chubb-among-potential-trade-targets",
       "source": "Bleeding Green Nation",
       "published": 1760454705
-    },
-    {
-      "title": "Why do the Eagles get so little benefit of the doubt?",
-      "link": "https://www.bleedinggreennation.com/news/161070/why-do-the-eagles-get-so-little-benefit-of-the-doubt",
-      "source": "Bleeding Green Nation",
-      "published": 1760452530
     },
     {
       "title": "Philadelphia Eagles: Somebody inside Super Bowl champions is creating 'havoc', says Ndamukong Suh - Sky Sports",
@@ -290,7 +290,7 @@
     },
     {
       "title": "The Stunning Collapse That’s Exposed the Cracks in the Philadelphia Eagles - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPTXpyWHBSN3ppeUpOTmlfTXE2WjBnUjFhaENpdlBINHRKVFJNUm1WZ0NDY0ItSEp2U3Q5VVZaa1Z0Nkh4LXI3V2s5djdYWEJpVFVBQkc4emN5U1BxdG5vRGhTRTMzN2hTX1lIdkZDSnhRSTVuWXo1cFRJejBGbmMyMG5CLVJ5RUNqa1lobW9DTU1GdWFKcmRVbDNrSGpEaUFaUURxalowaFRrTF83bEc3R3QweW42RHhnQng2V2Q4eTVJdEo1S1VuZjJnVmhyVmstclRGS1ZZWnlaUHFBWXMyT2dOUWRLS2tQVE5MNGVBX3MzMEIzTmN3RVRRQUNoMVNOYUdUN0FhNW5UWFlfUlNuUVhPaGUwNVk2elE5TnpmajAtRzNPV29YODJLX194SzRKeHVTbncybXh5Unp2VmJVNzNJU3Zkd3VNVjB0cGYwUXhBOG55ZWRrNU80U0VfcXRPUjQ4dzRwT0h4SmphWjJJZUduTVgxTGVmWU9JZzNJc1RxOUlWR3F5VC1MVktfYWlzeFJhRmRidWJVMXljR0hFYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOcHV0eWlGTkxjWnJUNTYtcEhWdXQ4QkhKNmxnZnNaZDB1cWZXdnN5Z0VNNnFaSjE1dTk5ZUFhcVgxQ0t0Q3hxSkRpdEJhSGlDYnMxaS1nZjJqUk5qakxoWmQtUEhQeGpfaWZyMjZPNHllSm1VLTBWZkFCZUJEWlBDeEhMR2l6czJmYm8zS0lYOFdfWklFdHVyR2hjREdwZGx4X004RzVJV2F5LUdtdUc5aUNvNGl4blQ0REM5UjdhLWMxRnVYYVFYVUVHLUZrZUJyZW8wall0X3dOUHFSSE4wdDc1Vlh2YzNCcXdnT2hqTjY3TnFRaXlRSHB6QkVFbzVZdnJKWkpWdGZFdWJaQzVoWGlYaTVJN3R0VWwyTllBelFYOWNlelpCSnpka0hsVTRwbWRHQ1lCWDJnd2MzOU5UWnRnU3dNOGF6ZWJVdjg3d1Z4YVdpaW8yS3NLQlBocjFOczJfQS1sbmVyRDZXSGJNblBSODJMLUZmVzgzQUw3T3pwTVR1V2hhc1pfTkNOSnVPZ0FLUk4yWnNSam9ENE5IRw?oc=5",
       "source": "Google News — Eagles",
       "published": 1759734000
     },
@@ -387,6 +387,12 @@
     {
       "title": "Crucial Catch: Cheering on the Front Line - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1B2VDF3a1RudDZYS3pOa1BOOHd5WlBDTGw2V3M4Y1UwcVF5cF9oNUJrWWZ1akUwMTF0eUVyVDhvVG1pMlNYcHcyZFZiVWVTekhSVTJ1NlFYOHNfc3JMTmhyTzY1b1U3emN2UXJOU0hkdGhka2RIWkd2MXJwTVBXekFHOWlBc0xudF8wVzB0czYtRTJfUmtqMjAxdzhwUE01Q2J4YWR3eVdMcXc4N3hB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759561200
+    },
+    {
+      "title": "Broncos to wear Summit White jerseys, Midnight Navy pants and socks vs. Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0x6Q1doYU1KNEFQQUh6UjYzMGZJRGFIYWlBTlhSODVvRTJtd2p3VDN1dnV5MVlnMFFTbnd6VFRlbzlLQ1FRaW9vWGxlTWJvNDhwRmxhbUFXQ2ZiVjlBUE1GYzFUZE9Wd0hYdExPbk9iajJFcXVMWS1WRThKUFNpLVlqZ0hyc2tsM2l3ODlyaWE0N005anRzN1N1clpNcjVKUGFYUlV4clYzdlhZTjZ5Qw?oc=5",
       "source": "Google News — Eagles",
       "published": 1759561200
     },
