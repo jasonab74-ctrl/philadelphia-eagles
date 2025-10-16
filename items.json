@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-16T09:24:35.964617+00:00",
+  "updated_at": "2025-10-16T09:43:10.654753+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -43,12 +43,6 @@
       "published": 1760557346
     },
     {
-      "title": "Eagles announce two roster moves ahead of the Week 7 matchup vs. the Vikings - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX295ZThpSUJHVHMxenhJMTAtRWN6eHJjX2FyY04xRGtrZGlsMjdSUVdkUG02YzR1ZEZ0VTh0MmxfSFVtazRLWGl2eWlwcTY1QWdRMFhMZE1GTlNQdEwweXdOUFAydTMwLUVJU2tSdGExTGtTNUNSQ3pyNElpcDhCZ3JlTWc1QXFpVE9PRDhXWDgwWjZ3dG9JSXRuOG1Ob3ppNWtCeXYydmZuQzdrNXF1R1R1Umttdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760555591
-    },
-    {
       "title": "Eagles sign TE Jaheim Bell and DE Titus Leo to the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUgzMThGUzQtYUN2dThYUUJWMGxKM3hTVFQzQjVPYW51Nm4wR2RGd2NyTUs1U2lGeEk3ajlkczZMU0hpWlEzU1d2Zkc5YlpkVjJ5MTVxZGRZemRHdEJEb3VGV211S2VfOS02eHZydDlCaVVKbDMwMzRzRURFdG9mWDgwclJheVpUWHZkcDhUMWhTTVpEMTM3eVVaLU8ycDQx?oc=5",
       "source": "Google News — Eagles",
@@ -89,6 +83,12 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGgtdDJla1hUMm04Y1ZFUXJUMkJBYnVzYm1YRkpLaUswWU9oZlNMMENObEY4VUNCYjVKSHBaVHc2dVdjQ2FheHJHXzJLWjEwQ1EtZzBTY1NDUnU5ZlF6dVZXY254a21SRGVocUFxbDJDeUZsXzZocWlURi1WZklmM1g4Uk9Yb0xUU1hvWFpIZ0xETnRsdkZEOHF5a05BcHZxZEZPbnZwdFN1enltX0xOeVBmRGlOYTBFUm15cEFYWUVpWWYtb2JCY0dXckVHMDd3MUl5ZFNtRm9iNW9FYnM4?oc=5",
       "source": "Google News — Eagles",
       "published": 1760542220
+    },
+    {
+      "title": "Eagles Player Reportedly Compared Team's Current Struggles to 2023 Collapse - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbktuQVlpcU9xRlI4bkc5eXlpTkY3RnhWMjc0V2lESTlQMXJKb0lxTGx3Zk9pT1AySm1vcEstMi1SbGNRVFNBTVNPamRTQUUwX2lnOHp5TWhKLVdDN2V2YmNQdWo3X0FCaHVpX2tVQ2l1UkF4SEViMHdTRFZMQ1MxSEFZOTBGRHpkMEVST1NhWFc1VTBqZFVYaWRCaGtmU21Sa0d5MDJ5VXBlZWdBcmljTVJQcVh6QkE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760534325
     },
     {
       "title": "Eagles mailbag: Howie Roseman’s trade targets, Kevin Patullo’s future, playoff possibilities - The Athletic - The New York Times",
@@ -139,6 +139,12 @@
       "published": 1760390923
     },
     {
+      "title": "The one word that's killing the Eagles' offense. What it means for OC Kevin Patullo - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd21GdFFURzNncmRTNWZMelVOT0JFWUhnelp4UGVrWjZCdnlWWXRrdTdzZFdVbU96MEdSSHhmMWZBWXVsT0tfNE03WUdoNmdaQU9sa2hYQnB5TjRjZUdvT0JyU3UtUTV1aEtMd2Uzd3ZEMHN4NWxGY1JoV3ZfWGJ0ZUJnLW1yNm1Ic09FZFR3TVRwSTdUcVAtekVZelpnWUdLMklWYXN3UGplNV9seFpCc0s4NklVVmJuN0puVElOY0Z5T3F0bEJ2eldzR0I4WlRDYlJsTU1TMURHV0xTdFQzRGZ2NzZxeHZvdXVSc05Icw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760390713
+    },
+    {
       "title": "Eagles sign CB Tariq Castro-Fields to practice squad, release CB Eli Ricks - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0N5aVdVWHJoV1dxVXAzdjk2blE4VGk0YmR1SHlBNm1nQW9jMlUzallIVG5nR0dadEJnc0xuNkFTUTZUM05nOWIzU1pSRFFmeDdCSnhmVmVqQnNYNnFlZzN3YkYtbUJ4dmMyVVI5UEs4Y3lINUVXdWlma3R4QXc2R2NzaFJYTG5ZbjNEbXl6a0N6UmQ3VGRWaklYOUJqdnVuWTdqdzQ3dEo3cnc3MS12TlYwSQ?oc=5",
       "source": "Google News — Eagles",
@@ -179,6 +185,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWtVczE3bWlHMjZpSjVPdlJMOVZLeGRGeEdYMUpfdnR2UE5uNnNBTS1rbnEzZm1rTjhyT2VfWVF4QnQ5azlKd1JSejNoWWt1Y1VMZm9yLXBqajBpdlYzZkRrSFNJMFpGTUN3V3Q5NXBKbURpem9mRF9UMFo0b1M0aXFxV25jRm1vV0d3djFjekhYZzZ4U1JSeXZJNA?oc=5",
       "source": "Google News — Eagles",
       "published": 1760351331
+    },
+    {
+      "title": "Who are the Eagles' 10 biggest disappointments this year? - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnN2RF81UU5laGxYVk1qVXhxd1hhYzVPSUZ0LWVsY1VXWUE1N3Y4V0tyLTEyUEt4VmRoSV9BZXh3MlhwZ3lWQWFVMG5vbl9nVU91M3RSMHV4MDhXLTRWWW1CXzkydWxEWHBCbk9yVHc4Qk4zeGdaN0FqRDQzelRNM3F4Zy1qN3hEcU4zcGJfQmxkNG03LUllanNvQWh6Ri1yNWlNaVJFM3BIcUxZbzhOU1gtZzg0MHZFblBETkpicl82Y242RzNOaDI2aF9qb3FuZDRNVWFKdEttQdIB4gFBVV95cUxNaHJlSTFXR1VGYmZKb2ZmWXg0b01wMUtwWDhmRU0xMVIxbkVtMS10Z3BPNkIxN2s3SVRTeUlLWWpDMVdmZTZPZEtHeV9uQUxEdjJfdUpwVi1SVzNYNUt1MVlnQnFhYk1iY3hmRnZER3NWRk1icUJMT29VZUlqbnM0SW1MM0lHUTQ2LTFCdjlRVGZvcTY3OVlOYmg2UUV0REdyd044ZUdLanluaE9HaWhkaVB3RGh0UF9KaVlFNkdmbm9Ka3hHUllyMXF6MEp3MkFnSUh2OWd1d3g5RlVyQV9VeW53?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760348142
     },
     {
       "title": "Could the Eagles’ future offensive coordinator be hiding in plain sight? - Philly Sports Network",
@@ -277,12 +289,6 @@
       "published": 1759734000
     },
     {
-      "title": "The Stunning Collapse That’s Exposed the Cracks in the Philadelphia Eagles - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQbXk5VlhRcDRyczMtVDRQWjRQSmVyMWhBbkthcVRzR01ZVXNyN1hLalZZTktYN05qY0lmcDZuejhoUUktSFpST0NKcW1vZnp1WHN1d2tMNzRldFhHQjZneWtNVGJGRVNwWHpDNjBuaDZJd2RFek94bzZHTmpXQzlqUGZ4Ui1BS1pqZFFKbTJaNC02b0ZRaC1qR2o4U205MFJ5MlRpSDJkRGlBVERHZm5tYXN0Q0IzZHYwTVdNSkJQSTY1TE94d1l3NjF5Uy1qSk5USTFBNUt2UjZqanVlNDAxTlNaWTM2bnp0aVVTak9IUG1YOUNiMUFOdnZvTzdkVUxETXh4cnMzdjhmTjFpTXRGR0Y1YU1tcTFPeTA2eDBPcXV3VHU4TnpqcWIwR2dkbHRPZEZqNlpxUGVZWEZBNmpVcWFCZ0d0Skd1VVlzWWZ1ejg1U0RFR1FTeHhOSUlmS2F0d3VZV3NvakxRWkdrbFF3NTZtWE9TQXNtQ1AyWnc0QXluengtR1o2N3pJYnJOQXQ1c0g2SFV3dXlTemgzS0RwNw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759734000
-    },
-    {
       "title": "Eagles passed and failed in Week 5 loss to Broncos, as running game ground to a halt by design - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2tZSHRudXVlblNJOXpqdms1MEl3cW13a0o3ZXJkRDA2eURPMjNwVmk1bl9UcjJheHctVHItemlkNzhTZmJ0a3NDb0JkSkJERmY0Ri1YUWk4anFxTDZ5SGJvY3NoV2xHOWM3ZXA1OXFMZ29pRDhuMFpEaFdJMEhtbWRXTUcycUFiQ19ydGtyQWhpZlFCY3dJY3JQYzloQ3A0YTkxSnNYSFlLc0tyZ2N6RDhCYTM2UXhFbG9UWHJuZ0oxWVAzUUV6Qg?oc=5",
       "source": "Google News — Eagles",
@@ -357,12 +363,6 @@
     {
       "title": "Broncos announce inactives for Week 5 game vs. Eagles - Denver Broncos",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONl9MNWhaeG9JY0VNenBuSjV2UncyQVBzSjJpa2xjeGtEMGNCZFRON2lYWVJMOGVyMS14T0E3ZVZ6Mms2b0ZYbV9tZzNpOGJSYVpGdXVuTk1zVEVwZG50eHNkbnFSVGVNOU5qVDUxeDR6ZFlYMWU2a0dJMF9nN0h4anNZbTN5X2x2aGNMRTlaXzI?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759647600
-    },
-    {
-      "title": "Eagles grades by position after crushing loss to Broncos - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaE1qMWowR19mLUdUeTBXRnFzRXJ6dnE1U0YxcXFBNkVqMjVjVHVIMjZDZ29LSUhwRzREYzQ0c3AtSUtCOUxMQlUtdUVUeHN4T3V0cnczSU5UNG14bGFSdkhvaWtCS3IzUHNuNnVNRlpIRDVSM2F1SXJESDdES2t4azVoQ2gxLTVqYV9Hdy1yYjd6aERCRGdsd3BCLUlCT3JKa29nbUtYM3Z5MURObXNBRUtUQktMWWtRbTJMSXJyb1RMUGdL0gHMAUFVX3lxTE9HSUhSZDJCeGl1TEdvTE0yMzZvRkJhV2EyTFY3aEdQMkxHXzBnRlRtbWpHcVI5Z0VqLXJyelI3VTVmeHVvQTFOcVpFWk9vNUwwWGxtbVdhUUtDR0kwa3ZPVDZZU05EajBBXzdkaW8zQ3ZQWDA5WEIzWkplMnhaOFpHYWRTTENtWmJyM1pQcnQzeW9WMHVveGlhb09CU01TUUpVX25KdDlLcTN4RmFYbnM4UktCMGVIamxkbFdZdkRyZHh0UWlkeUlUb19fdA?oc=5",
       "source": "Google News — Eagles",
       "published": 1759647600
     },
