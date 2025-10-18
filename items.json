@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-18T19:38:16.005777+00:00",
+  "updated_at": "2025-10-18T20:21:27.373192+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -59,6 +59,12 @@
       "link": "https://www.bleedinggreennation.com/news/161333/carson-wentz-officially-starting-for-vikings-against-eagles",
       "source": "Bleeding Green Nation",
       "published": 1760729876
+    },
+    {
+      "title": "Carson Wentz to start again for Vikings vs. Eagles; J.J. McCarthy (ankle) questionable - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzdyazJhajJlRFpiNFV4cFVyTlp6b1J6ZlFSX2hISUFSblVOVTYzZUtVUjNRWUxlcVNobGwtWG50SmN5dUNTcHFvbTJKWHlablR4Y1BmdVhLRXJNNlVJWDAyRGFMam5fdThGZ3ZtSEdKeTg4b09RWXJvWV8wMlZUakpWRUFRNnZoV2tXMGtNMlpVVnFhN0lBMzUzcURkb1FldWhxNFFFM3A?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760728740
     },
     {
       "title": "Eagles Opponent Film Room: Scouting the Minnesota Vikings’ offense",
@@ -145,12 +151,6 @@
       "published": 1760602229
     },
     {
-      "title": "What channel is Eagles vs Vikings on? Time, TV schedule to watch NFL Week 7 game - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPak11RE0wVnhmZ1Vkalo0eDcxeWtES3NFZWdIeXVyQVZ2azVVODV5VXdPMnByakU2Z1otMmZpdVZzZVN4UG91aUxMVmRBME1pNktjQk9INmg3aU4yNGNacWhIZWxlaENMZzhmX2RFR1oyd2pzVkFxSC1HS0RPMUduT1RZZ1pEaXlrWHdqRmp1UTlHMFJfUk5kUVFsM2NxeDdqRHFCUkJrbjBSaE1rTGlTZ1diR0tnTlVSMjZLSkRoTExVeWxwemg1WkVEZ0JGWWFVMGw0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760601886
-    },
-    {
       "title": "\"Back to the basics\" | Eagles Locker Room Interviews: October 15, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUtxdFZHTEZGUlBrX2NQUDlPMUtYWlFiV2VFX2hhZE8wTlJBVVJBdlczMF92U0RRQU4xWFRQdWRTMENxVmNxejJBNG84NklkYVI1RUNZRVZ5RzVkbDNnSEY2X0U2YnhiY3BUeC1tOE9NX0kwRTQ0VndkNHRnOTR0TUN3cFh6RDBMNktzbW53bw?oc=5",
       "source": "Google News — Eagles",
@@ -223,12 +223,6 @@
       "published": 1760488386
     },
     {
-      "title": "Eagles Wanted Free Agent Cornerback To Return, And He'd Look Good Right Now - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObk95cjlsU1FVX3FzdE5DTk0zcWVTd2RMM1RTTHZYUXpkUE9uYUxHX1ZiOG82ejJpbDZhLXVKSFlDVFF3QzFiV01HNGNacEM0WEd5OVFZXzNNSUxxQ3NaM2ZyaTllZTVUVGRXenRrQTdFSGNuM0JzTjZ1bExTQlJGV3J6MmpwWnBFSHVXRUpTOHpzZXF0ZEp0X3hnb1F3ZEpkWnZkVXprX1dhS2tzVjl0bXZiTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760481372
-    },
-    {
       "title": "Eagles release WR Javon Baker, RB Audric Estime from the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVBVOEtZWnNiclhzY0xDZGJPWDdlTnBfeGtaTXl0bG1xQXMzc1I0bG8xWXQ0cHJiZGltTnpQeGNtRTI0aERjYzhubnRDVWkwX0gtczlCRUlNRG5IemZEQ25VUUN1T254T0FmaS05U1hnaG5xc09VQTJkRDhSUHdpVkFBd2NlRmlfcl9JZXJ3OTRDakN4SG1hZzZPcVVVMlkzbm5TejBZdw?oc=5",
       "source": "Google News — Eagles",
@@ -245,12 +239,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbV9PMk8wOWVaaXVPcy00MVZxdVNOT0dlamRjSjBKdTltclotR3ByejFnQ1BjcGZGTElCcFhhMEpYZ1RUZWxwOTVDYkhtWHlhQURlcnJwLTNKNGZrMkJ1VFpBUDNDUnVHMkMyRnlUTHBQM3VoVnE1c0l4NlhGeXlUQ29CUmVaZ0RHTldJTlMxSlRzMGxTVER0M05jS1BscC1vRk5FRm4xRzV5U2V3Y3dKQS04T2l5X2hzSWZrRUdzMG5TdjDSAdcBQVVfeXFMTTRIVEdJR2hudjVSQ2Z4UG54akd0ODJqX3JOeHU5eWlfV1EyRmVIdzlLYWpWZnJCa3dkcDZOWlRZUmZGWk1wbFVsWEZ1QU9ydk42eWNCR2oyNWdrQkVZS2hjUUh1SjZnRFFCaXE3WE5JaTVGeEE0Uzl6Ni03RnlXdXRUN25tMWdPem1nbHlsdHZQcG5OVWphM1loOW5PZnJrZndyLUlycGYzdHBEYlRKbk85WlZ3ZW5LN3Znbkw4RnowLVoyLUlOWFg5VklJckN1bkZFbG1PQW8?oc=5",
       "source": "Google News — Eagles",
       "published": 1760460660
-    },
-    {
-      "title": "A.J. Brown to Steelers or Patriots? Three trade ideas for star WR if Eagles can't resolve lingering tension - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnRvVFFaRUhqOUdxQTd5UU1mMWtoWEEwOUtlbmtBcFhIX1lCTFFuTEFEUUgtbHMtRDJjSFNRbnJUOHZvMjFRc1hxemlRQ0QxT2QwM0NYZHZnWkxmVTk0QTJHWkxNM3JkaHlNNlRqR0hPVllSd0ZlSFNkTXNRTGx6TmJlTzVaU1A4ckUzd0xoUmhEVW5KSzZsYzI5ZUVud1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760391358
     },
     {
       "title": "Za’Darius Smith announces his retirement from the NFL - Philadelphia Eagles",
@@ -317,6 +305,12 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHF2ejFybklxamZXT3dMN3V0MDBpbDlpMjZXNTBWMVEwQW1FNlRGYWZ4WXN1TnlRbW16bFgwYThSTXdBamJUSjdCZXd3RlpNWjUwS1BkZGs0aGJGWXFiNEZOOXZfWFItZlREVXFmeURSdG9uXy16OEFmaFpKWlVtVFhaUFRtblNFSi0zbktGT2pqOURlZ0NjUjJCbWhrcUhtci00?oc=5",
       "source": "Google News — Eagles",
       "published": 1760214558
+    },
+    {
+      "title": "Philadelphia Eagles Fan In The Middle Of Getting Arrested Hilariously Tells Reporter He’s A Fan Of His Work - whiskeyriff.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGk0Tl9BUi0ybTVBNVJTazgwMTc3QTZWQkFMNmgyS3BxTndsb3cxZ3pxandYUXBpVmxFZE1HeWY5dTBEeXNNTVMwTjg1UVQwTUF0R2c0WUhMeXpua1F2VUdPYzBHdEIxbFBZR0xhbkJFTnl3S3BWUWNlTkYxWXhHcU11ejlUdVFNWXVrMEo3VEZsNGZIb2ZaQUNrZDBEWGxHMWpNdFhHQ29FRVZ1ZERJeUNMRkhCaGU2NEVmajh6RHRjTUwtWXR2Y2V1M2FtZWhfYVN5a3RSa01CMDJkenlB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760198105
     },
     {
       "title": "Eagles snap counts: Splitting up Jalen Carter's snaps vs. Giants - NBC Sports Philadelphia",
@@ -423,6 +417,12 @@
     {
       "title": "Cover 4: Broncos knock Eagles from unbeaten ranks with wild fourth-quarter comeback - Denver Broncos",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDlmSUo1TVhsblJraVFYcHd3bVBaQnJBOHh1bUJiSmpLMXFwbkVOdGduUGVwTWVIdzJrWHRFVHdGQUo2eWItektucHVOaGo5dmR0UVhXYjlEbGkxaWFBUDM4dG45U3E1U0YzVm02XzJ0M2lfRzNLZG1nTG9xNTVJWGtZVlZmSWc3TnN5T2RfS3psUWxFcEVCelM4cGFNUGpGRjJaWFhDNzAybmdmUUpua1Z6VEtxN3Qw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1759647600
+    },
+    {
+      "title": "Broncos announce inactives for Week 5 game vs. Eagles - Denver Broncos",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONl9MNWhaeG9JY0VNenBuSjV2UncyQVBzSjJpa2xjeGtEMGNCZFRON2lYWVJMOGVyMS14T0E3ZVZ6Mms2b0ZYbV9tZzNpOGJSYVpGdXVuTk1zVEVwZG50eHNkbnFSVGVNOU5qVDUxeDR6ZFlYMWU2a0dJMF9nN0h4anNZbTN5X2x2aGNMRTlaXzI?oc=5",
       "source": "Google News — Eagles",
       "published": 1759647600
     },
