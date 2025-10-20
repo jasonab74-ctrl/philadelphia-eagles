@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-20T08:30:00.796780+00:00",
+  "updated_at": "2025-10-20T08:50:25.750275+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/161593/eagles-vs-vikings-11-winners-4-losers-and-7-idks",
+      "source": "Bleeding Green Nation",
+      "published": 1760949609
+    },
     {
       "title": "How to watch, stream and listen | Eagles at Vikings - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2lQREpqNDd4Z0xoOUNTdFdlUWRVMUZMLVZXb056ZXdSQkNRNnZPYUhIZEc4blNETTJJa2g4WkVsVWo4TlRZcWpRMEZXc0xTVHAxNGJLVjNZNnpUNndfdThlNnRBdnptbG0wUnVHamxVNUhkdWVoWTZyV2luV2YtZElkbUNpcVE3QnphQUJpQ0VYV1NNa2tv?oc=5",
@@ -139,12 +145,6 @@
       "published": 1760900732
     },
     {
-      "title": "Cam Jurgens injury: Eagles starting center ruled OUT against Vikings",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/161464/cam-jurgens-injury-eagles-starting-center-sidelined-against-vikings-brett-toth-ol-depth",
-      "source": "Bleeding Green Nation",
-      "published": 1760900710
-    },
-    {
       "title": "Eagles 28-22 Vikings (Oct 19, 2025) Box Score - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZ3FYa3JlN21yNU1QWkNycldlQ3dUaUpPZ3RNeHg4MEgwMkxHVmcxWWxUTmdzMVFQTGVzN0F2MGxQZjM5eUo0ckVBbE0tTUF4MVI2bE4tbDltTHg1ZVRJdHFR?oc=5",
       "source": "Google News — Eagles",
@@ -193,7 +193,7 @@
       "published": 1760817749
     },
     {
-      "title": "Eagles Come Up Short Against UConn - Boston College Athletics",
+      "title": "Eagles Come Up Short Against UConn - Boston College Eagles",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0VfM0NCRE1fcTUxdGxPS090b3ZjbjY2RkgwbnRObDI0S3JSNjZHNzl0b3RNc09PWDI5a2MyY001WXg2UzM5MFN1dXRIajFIeDhmd0FLSnJ1aXJmMURDY0U4LXZ1THBHZEl5dWZmaG9yVDRDUnRCbmJFS01BWGpEVWV3d2ZYdTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1760817673
@@ -271,6 +271,12 @@
       "published": 1760653456
     },
     {
+      "title": "Eagles Locker Room Interviews: October 16, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWG9aSHB0MmRMWFBuVTFZeTl2eFNiNnlFRHVDeVNQWXJNQURBN1pEZ1l6ZGhwcXFtV0xMOHdDcFM4Mm9ISXlXTjcyWm93d3RmNXNyVmFBeTBMbXZmNlNmdDU5Uk1vNUtGay04Mkd6ZXItV3lFUnJld19KNTIxRGhhVnNYVU5iNkY5WFI3NGxXSQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760651541
+    },
+    {
       "title": "Eagles make a change to get winning formula back on track: Will this philosophical shift produce wins? - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2U0ZkN1SWtxR2syNjlwTmJjSHNSR0dHVlZubkFDQ2M3YlBELTlaVkNTWGcyNjg2eV80M1Y3Y3ZPN2tzb0VoYU5qVVdMSlk3OFFQSUJISWZmUUkybk5ySldqa3Z5a01GQ3NyZGdHV0dvaGhiMnRER2dsdm1kY2NKVGkzUFk5TlJBaEtXWERPeFMzX1pjb2RmYg?oc=5",
       "source": "Google News — Eagles",
@@ -292,7 +298,7 @@
       "title": "\"Back to the basics\" | Eagles Locker Room Interviews: October 15, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUtxdFZHTEZGUlBrX2NQUDlPMUtYWlFiV2VFX2hhZE8wTlJBVVJBdlczMF92U0RRQU4xWFRQdWRTMENxVmNxejJBNG84NklkYVI1RUNZRVZ5RzVkbDNnSEY2X0U2YnhiY3BUeC1tOE9NX0kwRTQ0VndkNHRnOTR0TUN3cFh6RDBMNktzbW53bw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1760568441
+      "published": 1760568489
     },
     {
       "title": "Eagles sign TE Jaheim Bell and DE Titus Leo to the practice squad - Philadelphia Eagles",
@@ -323,12 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJ0RTgyY0ZMWlpNM0hELTFmaVRxazR2aF9aMTlNS1UtS3ZsbjVxb0lHNU02aEJsaVhKWERiWjVlYWZDNFd3OXU3NnpTbUhHVmZhZXpHWlVLZE9PbFhWeVZ6RjFGMEk5aXVNLUtfNzBmQlQ0S3RjRGVMWThoYlVFcXU5NldEdjVqOTRCejlzNmhWSHV0?oc=5",
       "source": "Google News — Eagles",
       "published": 1760488386
-    },
-    {
-      "title": "Eagles Wanted Free Agent Cornerback To Return, And He'd Look Good Right Now - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObk95cjlsU1FVX3FzdE5DTk0zcWVTd2RMM1RTTHZYUXpkUE9uYUxHX1ZiOG82ejJpbDZhLXVKSFlDVFF3QzFiV01HNGNacEM0WEd5OVFZXzNNSUxxQ3NaM2ZyaTllZTVUVGRXenRrQTdFSGNuM0JzTjZ1bExTQlJGV3J6MmpwWnBFSHVXRUpTOHpzZXF0ZEp0X3hnb1F3ZEpkWnZkVXprX1dhS2tzVjl0bXZiTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760477624
     },
     {
       "title": "Eagles release WR Javon Baker, RB Audric Estime from the practice squad - Philadelphia Eagles",
@@ -399,12 +399,6 @@
     {
       "title": "Eagles RT Johnson calls for 'less predictable' attack - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTQ5VjFqM3NQN1lDNnlDSGVXSXFKbWNGZ3VmM2ZpQTdaeFljZXVrWkxLZkFuaFM0cXl3RU9MdEVobS1KaFRpZ011NHZTSkxUVVVUT0tNdmhzU3VyN3JwOGowM0tDVFRORVZiWTE1VEZRNWRPMC1xeEs3Nzhlb2UxdkxhYThqRUtKY0ZpYUwzakNwbF9MT1pPcGxB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760079600
-    },
-    {
-      "title": "Eagles Locker Room Interviews: October 9, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejFiSVJ5TzFDWmhxLUY4Z0txTTlReWVvZEdKZU9qZ2Z6dXpaNDNBdzNqNFR0N2FHZXhGUndjQkh0MXY2Vi16aFZOOElwc2xmd3Y1WEdLSm0zSFpySUxObG4zV1F6akNPVDN5T1Q3SVVRVThXWWU4dmdJdnNVdmpzMFRuekJ3UG0wMGtLUU13?oc=5",
       "source": "Google News — Eagles",
       "published": 1760079600
     },
