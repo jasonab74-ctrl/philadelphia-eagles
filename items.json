@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-21T14:43:23.731028+00:00",
+  "updated_at": "2025-10-21T15:22:20.163496+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Brandon Graham explains why he’s returning to the Eagles and when he might be ready to play",
+      "link": "https://www.bleedinggreennation.com/news/161674/brandon-graham-explains-why-hes-returning-to-the-eagles-and-when-he-might-be-ready-to-play",
+      "source": "Bleeding Green Nation",
+      "published": 1761059056
+    },
+    {
+      "title": "Eagles’ Brandon Graham Explains Why He’s Unretiring in 2025 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBac2g1VmNNS3ZpYmNrMTl2Z1BCTldLdV9lS3h0RFVPcEJiZU5HRk05czJnaGYzejcwUFRPZmc4Y0hWdGVyZ05sX2VmcmVrUV8xWjdYbWd2MTFTWjJqRGEtTkFCNU82RzViV2VoanlJMFF2M2gtYUtNZXByOA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761055512
+    },
     {
       "title": "Eagles legend Brandon Graham coming out of retirement to boost Philly's struggling pass rush - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVAwd1gtd3o1T1VJdktNbEVfcVd3SnEwa1ZwYXIxUjFpNkFDeHBxQ2ZwSTVkU1dtMmVhc1hnUlBwcmhpdGlpY2loVF9NN20xNGtNeUpFbmlKTVNIUGR2TFdxMzBoZ3FOX1RGVUlFXzJyYXlPM1hTUWVvTWQwcmR4ZWFIYTRyb0h3elVrcEVZUnpWSGg3M2k4VFViejUxVUpINmJ4c1VVUjB1S3hBb3dfRy1MTEpfaVRtaWd2STA1dzZDSDNZVEE?oc=5",
@@ -37,10 +49,10 @@
       "published": 1761005498
     },
     {
-      "title": "Two-time Super Bowl champion Brandon Graham ending retirement, signing with Eagles - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckVWbzZRTG9RZHlaTENxdDlpWXhHMHpsN0JZeVZfWEUyMFBkM2pwV3g2TjNvNk9lX3lHOVVoY2s4TnpFQkd1NXd6Q0JmTkRGUHJYRWs3RFFhbGNTOGk0RkNxYmp3Ml80T3dOUTN6YW1SVThFdnhnMkNMcDBFZkJENTBjYWVMSUZzU2Q0MUYtaklUWXpoVjBUZGh3aUc1bjBlNmNnczNPUzNpZw?oc=5",
+      "title": "Brandon Graham coming out of retirement to rejoin Philadelphia Eagles, reports say - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1FpTWhTeFdFYnBxVGxLU25vandSYlQyUUF1ZWZQZF9jeHhOLTdSMm10Mm5ZWVh5d2NjVlNrcmhVb1pKa2VNUWNxclduZmdINm92LVFLTHVNckcyZGdOR0g2TXczNWhOS1R4aU5xWTNzbWxjbm1rRW00eUdsLTUtUGhsYVU5ZkxTOHl2OV9YTUs?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761005040
+      "published": 1761005340
     },
     {
       "title": "Monday Night Football doubleheader: Week 7",
@@ -79,12 +91,6 @@
       "published": 1760960391
     },
     {
-      "title": "Eagles vs Vikings predictions. Our expert picks on if Carson Wentz can beat former team - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHN5YXNlbmtBVktkb0pHWkJ6U2N2Q3FlNGRUdlh2WHJTYl9PMVgxbVRFS3NGUDU1UVJTVWFBX1U3dTJmb2hBOHBPSGlkVU12dHViU1V5bzRvS2tQUGRCVDZHc2d0NG1fdEFDREN5S0xmWDhVNEFIeFJjS1RzQzAwWEo0MkZNajJ5LUljTmp2UFAtQjA0TGU5cEJFaWN1cTlwUVE2dTMyanpzeGwxRS1SSGl5dHJFSFNKZWVUZm9ubDdqdGR3aThyLXBEbURraHM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760957872
-    },
-    {
       "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/161593/eagles-vs-vikings-11-winners-4-losers-and-7-idks",
       "source": "Bleeding Green Nation",
@@ -119,12 +125,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/161576/eagles-open-as-touchdown-favorites-in-rematch-against-giants",
       "source": "Bleeding Green Nation",
       "published": 1760925804
-    },
-    {
-      "title": "Eagles vs. Vikings: The good, the bad, and the ugly",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/161578/eagles-vs-vikings-the-good-the-bad-and-the-ugly",
-      "source": "Bleeding Green Nation",
-      "published": 1760922022
     },
     {
       "title": "Hurts uncovers his 'swag,' helps Eagles stop skid - ESPN",
@@ -181,34 +181,16 @@
       "published": 1760908986
     },
     {
-      "title": "Philadelphia Eagles vs. Minnesota Vikings highlights | Week 7 - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKWm1qamM0XzgtZlZyNjMzYl9EeW9IcGd2QjU4NVJJcUxwam9nOHZ2VzdHNVQ4bjZkQlZwaDhvUXhSTFZmYTJ6ejhNSzh3LWg0NFpMM21zbWl0cllwWmgxdUphelJxdWRtejgxNWNsMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760908986
-    },
-    {
       "title": "Spadaro: 10 observations from a historic victory over the Vikings - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkk5bWx6bUFmMUgyT2xYZTZVVndhSFlsMThydEpxeF8yY1RjaExJaktlTk9aZ0FuOEFpek43aV9qajJDNGk5OV9CYVhla0NoNEliSGs5T2JpSVJUZ2VfMEJGZWR6bm9MV2NFZDVaUUJWZHB2XzZHREszVE9yTTBrWGRkRHNiUzFRb0o4UldIV2ZUVkJSRTZPQnViMGptV3I0LWgtV1RVOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1760908344
     },
     {
-      "title": "Highlight: Jalen Hurts connects with A.J. Brown for second TD of the day - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVVUaVdsTkJOWXh2aklkY1oxa2RVVDBWc3NNNFQwUHN5WVlfR2tNZkRGUUI5cFllVFpucXpEM01jLWtBT1ZmZFRlVlAwQVdDa09JcW5Ud2tTbHctX29QZW95NzFCcG5GY2xtSm84MC1zOW13UGxiYmtEWTJpNEdQc3kyUjE1Vm9hakNid0ptelU2ZjUxYndiQmZmYUdXQ2dIM3dZT0ltVzZFYlNuZVBPS1VmeG04b0pFSnZV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760906582
-    },
-    {
       "title": "Eagles grades by position after win over Vikings - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2Mxdi10RWVzVmo2cWx4MXhMLW5vb2hHU1V4cnQ0ZmFGZ3FzdEZNaDBFbkxqY1ktdS1SeFdaVGRNbG9XeXBrbXBDS0Z5UEhmeE5JWWpWLWM0bUltYjZORHp2NTVEaFlvajN0aUNjS1RIWHF3WERnSlJkN2FNalNMcjRXOFhYSVpkSldadHVZUmZoSi11M0RsalhNOWJRaV9fOTJQOTFtazQ3TFpTUE9ZaC1ObFNJb0tYdlHSAcIBQVVfeXFMT0FGNEtNS05SZUFITEF0blBzNlppN0kzZDFTWTlNLTJraUx0Y1JoQ2ViazJZTm1nMjRBUURCNlVIS2E1VDBtRFVDWFI1OU00SFNna05CbDYwM0ZLejNFQm1waXlfcHdwemxFNUVZdG03Ry1UWWtBdDlybTBLLW9DckJMUzBMN3ByR1hiMWMyam9zUTczbXExVmFQQ0cxOVIwYWxRVFV0eHBDS1ZQZXlRMmVPVk5aaktRRl9faDB4WER3MFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1760903225
-    },
-    {
-      "title": "Eagles vs. Vikings highlights: Jalen Hurts, Philly win thrilling NFL Week 7 game - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUhMSlVRWnVkRFBqSzNodmdqVHMtUW1SVWZ1aThWRWVoR0FaOGItOEc2VFRvSlo1b2h2S0VRc3NURWZFV0NmN0s2YnpEcE82UERpdUc4VEJveHVSMjF3Y0E3Z1ZRUC1QV216c0QyanVkaUZyWU01MXItaF9kMVc2Yjg3WEV4LVZkcDRRYlJXSmQ2WGhDZloycS14U3ZVTEhpdFBETGRGaHlCUGlycDdwT3hB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760900732
     },
     {
       "title": "What channel is Vikings vs Eagles NFL game today on TV? Start time, schedule, how to watch, stream - The Courier-Journal",
@@ -239,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURsYnBwTDl4b2FDempZWXQwbUd0Y0E1V0VWX1U4R0pzTWcxa3ItTkxaUDBMaS01djNyU3k4U29yeDB0MDB1OWpseXFsRHB5aVpYWlJVOW42VlhBU2JiNWZES1IwSWtyV2hXd0U4ZnEyY2ZOekdRdkd6TFNjdTVzQmFYUHlnSHRtbE9qejhtSkVMZlY5SVhCYUdsVDYwa00?oc=5",
       "source": "Google News — Eagles",
       "published": 1760887800
-    },
-    {
-      "title": "Broncos 21-17 Eagles (Oct 5, 2025) Box Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90bWdvTzZHREtHVG9BckZoSTdpcmNjRlA0YzlkNTJnLWJwV2tzTDU5R3Bhb1VQWWJSb1RaMnFMTnJUNDc3RUtEWHN1Z0RpNTNVdTJCZFc1WVdwYkw4OHRpc1pn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
     },
     {
       "title": "Eagles elevate TE E.J. Jenkins for Sunday's game at Vikings - Philadelphia Eagles",
@@ -313,6 +289,12 @@
       "published": 1760717138
     },
     {
+      "title": "Xavier Gipson explains refreshing mindset as he waits for chance with Eagles - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVlrVVhrYWlLcFVXSTE1Nk8tQVY2U2F5SXVhTW1zQlFHa1NnSEdlaGpCQ1FveEs0UG83MjgyZnM3cnRCTlZQUW4zOU52amtEZWkzb1VkQVlWNDcwVlFoLWplaVFlZmxaeldHVTJDc3dzWWkzeDNWcnpfdW9QLVdJdDJrbEsxdENwMktCWEZRaHVIR0hrV3NRMGpwVzMteVd1SlNVejZmcGoxRFZRLUhFUU9rTGtVc3BD0gHAAUFVX3lxTE9DRHNnRDRkTjJDSGk3TVhtUkpkZUxsbEUycTkzOW1TYi1tMmhLQklJbHl5em5pU1UzWEEycDNuQTJNTUZ6SWIwdWFHM1RtVVJHNHN1cGt0TVgtXzVKRFhsTHNUcGpQYUxMLTNxR0p3aEkzTktBMmNlbUFTZ2YwWVMyY1ZuYzlpZjRtcEo5Vy14aWhTTEJxang3R0RGU2taeF9HdUlNQlpWdGFnREd3RENtd0RNbzhGeTNycXM1dC1hWg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760698800
+    },
+    {
       "title": "Carson Wentz will start at QB for Vikings | Eagles at Vikings Daily Updates - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFNrdXRENEllRVNxdXB6UU9tbjRpVHJGa0J6U0s3WlQtNEh4TkhuOV9JbXI1Ul9FNHZ2UjNJSVJsS0ZkZ2RPaTE5SjZ4RzhGekNRQUdUNXlibmFrVjFkS1VlRW5lZ2FiRmpIQVpnZUJXSEdvOHZXd2swSExZVVFpaC1SMDRVeld5Qkh2TmJDb2g?oc=5",
       "source": "Google News — Eagles",
@@ -325,10 +307,22 @@
       "published": 1760653456
     },
     {
+      "title": "Eagles make a change to get winning formula back on track: Will this philosophical shift produce wins? - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2U0ZkN1SWtxR2syNjlwTmJjSHNSR0dHVlZubkFDQ2M3YlBELTlaVkNTWGcyNjg2eV80M1Y3Y3ZPN2tzb0VoYU5qVVdMSlk3OFFQSUJISWZmUUkybk5ySldqa3Z5a01GQ3NyZGdHV0dvaGhiMnRER2dsdm1kY2NKVGkzUFk5TlJBaEtXWERPeFMzX1pjb2RmYg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760630220
+    },
+    {
       "title": "What's Wrong With the Eagles? So Much That They Can't Agree on Exactly What - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcThOazBOc3Flc2VFWURrQUhURmRCbVE2T09qeGlFd21aUEhVLUNrNVBxU1NKUGlDcG9odmRicnUyRkVIUDJWdUlza0M3ZzJsRnhEdGJvbU44eFZIZi1YSEpMYUYtTzJEZUZGN1I4VS1VVWx3YkVtUkI5aElVXzJMZ3pTMGZfRmIxeTZBRXY1dHpnYkJaS3Rj0gGXAUFVX3lxTE1sSHc2NDZUNzVjT3FEUEZHRmk1dUdyMU1yNG5fNGZseFJsWUQ3c0JBSTU1SUs1VjY5TFpwM2NJMTVfbmNjbW9rUlRlLXc0Uk1MbjBFU3BRQVpTb3RrblVlVUhMX2Jhc2VHOGR1MGFYcGE2clVfT25wQ0doSGtFemttcjh4dXVlTEZSVFpYTG9LVzR4QXV1dk0?oc=5",
       "source": "Google News — Eagles",
       "published": 1760625041
+    },
+    {
+      "title": "Eagles vs Vikings predictions. Our expert picks on if Carson Wentz can beat ex-team - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVGhyNGRnNldkZnBXN0RQV2pBOXhqMGd2NFhjU1VQS091dEU1SEJmcFpXODRLblRxM2liY01aZmdEaGFtd1psMm5qZE5CRHBzZ3cxNktDWHdDRXowUkxsTVRuUWJnLWRHRWk1Z1o5eEZlUGxtcHUtbFk2cjlVaGM5VmZLR1ZabE5jTFI4ckpBX0kwNW1CUE5xXzZvVkJqOURhQl93UkhENjd3UkJPUWVscHNOM3V4dXNya21DdWFhRXl4WTQxMXF0ODFkdU1JdzZVeUQxZkMxdnVBQVV3elNvLXViZ3Y4Zmo3cW9OSXVBTTV4Z054YWplUGdjQjZTdWZTWkdPMm0yNFc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760602229
     },
     {
       "title": "\"Back to the basics\" | Eagles Locker Room Interviews: October 15, 2025 - Philadelphia Eagles",
@@ -415,12 +409,6 @@
       "published": 1760338800
     },
     {
-      "title": "Za’Darius Smith announces his retirement from the NFL - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVlEU2ZxWVhac0hkT0dMMXBoMlZfNGdnLW1Ia1BoX2JZOW8ta1JLT2FLVU1lQ3lOU1dUVzcxcFNIR1NHaVRETWxjRUtKYkhkZEh1Yl9FYTdKUnhTMFZsekRIR09mdDRtc19PTmlEOU1IUHBzdjhtb1cyQlZXQjRZS1ZTeEhKZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760338800
-    },
-    {
       "title": "Eight Eagles Thoughts: Lane Johnson’s comments, deserved scrutiny for Kevin Patullo, and more - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWtVczE3bWlHMjZpSjVPdlJMOVZLeGRGeEdYMUpfdnR2UE5uNnNBTS1rbnEzZm1rTjhyT2VfWVF4QnQ5azlKd1JSejNoWWt1Y1VMZm9yLXBqajBpdlYzZkRrSFNJMFpGTUN3V3Q5NXBKbURpem9mRF9UMFo0b1M0aXFxV25jRm1vV0d3djFjekhYZzZ4U1JSeXZJNA?oc=5",
       "source": "Google News — Eagles",
@@ -447,6 +435,12 @@
     {
       "title": "Will the Eagles run the ball more? And will it work if they do? - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFFsM3dPX2U2NWFSZF9uVzZ4emtHVTZKTThXTllBT3RrX0hGSzZac0NweVl2SjBGYkRqRFJ4aVdqTXhEUzFsR0NIZURMRVdXUkFEZ3dpSVJsVGFpd3RuemFPdVczMzFQTXV5TjNzb1ZEVGxwZ1dyZU5lSmwyVEFrbWxYTmtpTTQtdVV6bGJzbnI0cVJ2R1RCcTM4dm1GTGg5V0FZ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760079600
+    },
+    {
+      "title": "Eagles’ Nick Sirianni on Jalen Hurts, Saquon Barkley, A.J. Brown meeting: ‘Love that’ - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUZOankzU3pCQjdJSlJrWm5ZTjkzdzJqQjBick8tbEZkLWhvOU1LWDNiekx2Mm5KbS1kV0g3YVlSRlNyckZlcm1adnA5eGlGdU05ZFFPU2dDZzNRVGNUc0Y3QTdNQW13WndIOVJ4THlTOXVodGFJbnZITzBLWjJpSFk5NElEa0d4bU5lLVhPME96ZzlQR015cWN0dXktNmhFSHRCdXFBMGZSYVFCdTBuLUU2cDdJRksz?oc=5",
       "source": "Google News — Eagles",
       "published": 1760079600
     },
