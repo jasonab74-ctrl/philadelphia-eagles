@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-21T22:40:14.862497+00:00",
+  "updated_at": "2025-10-21T23:21:25.597710+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Vikings Film Review: A resilient defensive performance",
+      "link": "https://www.bleedinggreennation.com/eagles-film-review/161723/eagles-vikings-film-review-a-resilient-defensive-performance",
+      "source": "Bleeding Green Nation",
+      "published": 1761086576
+    },
     {
       "title": "Vic Fangio reacts to Brandon Graham returning to the Eagles",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/161685/vic-fangio-reacts-to-brandon-graham-returning-to-the-eagles",
@@ -127,12 +133,6 @@
       "published": 1760954333
     },
     {
-      "title": "Eagles-Vikings snap counts: Brett Toth fills in for injured Cam Jurgens",
-      "link": "https://www.bleedinggreennation.com/news/161614/eagles-vikings-snap-counts-brett-toth-fills-in-for-injured-cam-jurgens",
-      "source": "Bleeding Green Nation",
-      "published": 1760954298
-    },
-    {
       "title": "How to watch, stream and listen | Eagles at Vikings - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2lQREpqNDd4Z0xoOUNTdFdlUWRVMUZMLVZXb056ZXdSQkNRNnZPYUhIZEc4blNETTJJa2g4WkVsVWo4TlRZcWpRMEZXc0xTVHAxNGJLVjNZNnpUNndfdThlNnRBdnptbG0wUnVHamxVNUhkdWVoWTZyV2luV2YtZElkbUNpcVE3QnphQUJpQ0VYV1NNa2tv?oc=5",
       "source": "Google News — Eagles",
@@ -181,6 +181,12 @@
       "published": 1760913450
     },
     {
+      "title": "Highlights: Jalen Hurts' best plays from 3-TD game vs. Vikings Week 7 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDl3SFRmTDhTZXpubmk1WEpOUnNPaTluNm5FNXF1R2tCSC1SSjUwVVZ4dHUxSUlJeDlmdXREc0JMWWVnMk1FYzdpdDI5T3Ewd2hRakgyVFVhaEJBUnlJWmYtb1hqZlE0VE5Edl9naGJhTlFzekxFZUJwRlhUMjdVSTQ4RzBmSEU1RHJ4R0pjTk03MjN3UFhDeEltSWdjbktTV25uTWJwaHlZLTg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760911655
+    },
+    {
       "title": "Game Highlights: Eagles 28, Vikings 22 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXQwM3JnVDZ3VDBXckt0S3dydWZVQWxJck94d2ZNamN6d2JLREt0VHlza19rdHlZZjRVMVd1WEFUWTdFRVgxNzBwMl9OMTRsUk5tRTltcjlkemZmbk9UV3NGRDY5d2thd0JwR3dHUXhZcXpBUjlQQUpVbWxhT2hoV0hmWUNJVHNqQzhiWUR6NFRyZWM?oc=5",
       "source": "Google News — Eagles",
@@ -217,16 +223,16 @@
       "published": 1760894555
     },
     {
-      "title": "Eagles 28-22 Vikings (Oct 19, 2025) Box Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZ3FYa3JlN21yNU1QWkNycldlQ3dUaUpPZ3RNeHg4MEgwMkxHVmcxWWxUTmdzMVFQTGVzN0F2MGxQZjM5eUo0ckVBbE0tTUF4MVI2bE4tbDltTHg1ZVRJdHFR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760893417
-    },
-    {
       "title": "What channel is Vikings vs Eagles NFL game today on TV? Start time, schedule, how to watch, stream - The Courier-Journal",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQakpSRjBlZGN2OTVnRFFjc1BENnowQlFGSGdUU256aGN0bHRCYzZob0FjU0I0UzdaLXFGbUlwWmNfSVc0RmdDeXZWSWRiMjlHenI0YlpTdmNsTlk3cjFlWTQ4M3llR0JlbmM3c183c3JzcGVpaWlKWElOeXQtZmZZT1haLW43YUp2c3VtdDVMOFl6enNUYmFqUktXR0NUSE1JNURNSW1FbWpUa2tFRS0wUDdBclZnSURiYm90N3RES1pGSjdZdHIzTTg4bndtR0p4bHNKbjdxSGRkTUk4a181OUNNNDh4SVN5dkZJampndkZNVmRYYXNyUVYtU2ZxbHBOcEVr?oc=5",
       "source": "Google News — Eagles",
       "published": 1760893200
+    },
+    {
+      "title": "Eagles 28-22 Vikings (Oct 19, 2025) Box Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZ3FYa3JlN21yNU1QWkNycldlQ3dUaUpPZ3RNeHg4MEgwMkxHVmcxWWxUTmdzMVFQTGVzN0F2MGxQZjM5eUo0ckVBbE0tTUF4MVI2bE4tbDltTHg1ZVRJdHFR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760893098
     },
     {
       "title": "Eagles legend Brandon Graham considering coming out of retirement to boost Philly's struggling pass rush - CBS Sports",
@@ -257,6 +263,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURsYnBwTDl4b2FDempZWXQwbUd0Y0E1V0VWX1U4R0pzTWcxa3ItTkxaUDBMaS01djNyU3k4U29yeDB0MDB1OWpseXFsRHB5aVpYWlJVOW42VlhBU2JiNWZES1IwSWtyV2hXd0U4ZnEyY2ZOekdRdkd6TFNjdTVzQmFYUHlnSHRtbE9qejhtSkVMZlY5SVhCYUdsVDYwa00?oc=5",
       "source": "Google News — Eagles",
       "published": 1760887800
+    },
+    {
+      "title": "Eagles 28-22 Vikings (Oct 19, 2025) Final Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qMThJYVZDRkFzTDZ2TUFSX2J5YTE3Y25lM0NSM1dkNW9qbE5Bd1NrYUJFdnZydnBsRUN1SkZGLXpPcTMyTS1Rck56RTh5akdMT1loaGM3TFhncng4ZGFxSkhGek5OODlmMG0xLWZHUFE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760857200
     },
     {
       "title": "Vikings' Cashman off IR, likely to start vs. Eagles - ESPN",
@@ -301,12 +313,6 @@
       "published": 1760734889
     },
     {
-      "title": "Kevin O’Connell: Carson Wentz to Start for Vikings Against Eagles - Minnesota Vikings",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXoyOExybXNkeU43QjU5MFNOcHV6RXRxcEVkUU1BWTlteWN4bzZISGNpaU1xUjV1dFB3NnFLYnA0NVh5QURYUGxPRXVQck1ybng2cmphWUdFQTZSeVd4NHo5MVEtaGxRZHRUMWNxNVZ6TTNtZlcySW1XZjdvYWxXNGZSV1RKN0xTMEhjX0xTOWZXZXB2V3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760734889
-    },
-    {
       "title": "2025 Vikings vs. Eagles Week 7 Game Preview - Minnesota Vikings",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Ynd4VUVpMWtkREtJWHdHZnFrcWpmcXU2T2JkQVhpcVJvSDhCaFNaa3pZZHpZTnpsWGJyd0FXT2RMakNCdXRLbW0temVvTHVya3VRLTZ6bk9BR09nY3YyMTdNcmhCVGFBQThDZg?oc=5",
       "source": "Google News — Eagles",
@@ -343,6 +349,12 @@
       "published": 1760698800
     },
     {
+      "title": "Eagles Locker Room Interviews: October 16, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWG9aSHB0MmRMWFBuVTFZeTl2eFNiNnlFRHVDeVNQWXJNQURBN1pEZ1l6ZGhwcXFtV0xMOHdDcFM4Mm9ISXlXTjcyWm93d3RmNXNyVmFBeTBMbXZmNlNmdDU5Uk1vNUtGay04Mkd6ZXItV3lFUnJld19KNTIxRGhhVnNYVU5iNkY5WFI3NGxXSQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760651541
+    },
+    {
       "title": "What's Wrong With the Eagles? So Much That They Can't Agree on Exactly What - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcThOazBOc3Flc2VFWURrQUhURmRCbVE2T09qeGlFd21aUEhVLUNrNVBxU1NKUGlDcG9odmRicnUyRkVIUDJWdUlza0M3ZzJsRnhEdGJvbU44eFZIZi1YSEpMYUYtTzJEZUZGN1I4VS1VVWx3YkVtUkI5aElVXzJMZ3pTMGZfRmIxeTZBRXY1dHpnYkJaS3Rj0gGXAUFVX3lxTE1sSHc2NDZUNzVjT3FEUEZHRmk1dUdyMU1yNG5fNGZseFJsWUQ3c0JBSTU1SUs1VjY5TFpwM2NJMTVfbmNjbW9rUlRlLXc0Uk1MbjBFU3BRQVpTb3RrblVlVUhMX2Jhc2VHOGR1MGFYcGE2clVfT25wQ0doSGtFemttcjh4dXVlTEZSVFpYTG9LVzR4QXV1dk0?oc=5",
       "source": "Google News — Eagles",
@@ -365,12 +377,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUtxdFZHTEZGUlBrX2NQUDlPMUtYWlFiV2VFX2hhZE8wTlJBVVJBdlczMF92U0RRQU4xWFRQdWRTMENxVmNxejJBNG84NklkYVI1RUNZRVZ5RzVkbDNnSEY2X0U2YnhiY3BUeC1tOE9NX0kwRTQ0VndkNHRnOTR0TUN3cFh6RDBMNktzbW53bw?oc=5",
       "source": "Google News — Eagles",
       "published": 1760568489
-    },
-    {
-      "title": "Eagles get good injury news as All-Pro announces his return - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0dob0ktZGs4OXJEZWhXUXZfUE5PUjFObFladjYzYVpfWUUwSWktS0FiMGJQS3V5cGtRUElTRHF6M2Uwd29pQXFrZnV2OURQTzNiUDJXOFhiNF9wejNZZ3hfb3RRZTZBa3NGdmRxeVNfUFZQOU9NOVowbkUtUFQ3T2M5Wm1JMVpRYzY3Y3VORldRMk5lWHpvMzN1NGE0YVdWYjBPZkNpX0NDaHJsbFFaNmE3S3pVSFHSAcsBQVVfeXFMTVozU0pqaDl1VkZqak53SUJzbjMzVDQwNHJueDBoMVVzcUtEMV9kSlhmU1RHNWN3WDRWT29iU2tkNk4tUU40VGZ6V0F1MWhxQ080bndOVFFMQl9YdGxkRW5yczRhRDhoMGRjZ1UzYmZGOW4tbjJiR2dmZkt5ZmI5ZnczR0VaV1lHYnBFMTFRNV9kSy1YemJsS0x3aTF6Znlvb04yOEdrYjhXUHg3U0NBUm1oMy13TEZmRWV4WkZjTGJSYk1uTXZoUjJweTg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760567040
     },
     {
       "title": "Eagles sign TE Jaheim Bell and DE Titus Leo to the practice squad - Philadelphia Eagles",
@@ -427,12 +433,6 @@
       "published": 1760476181
     },
     {
-      "title": "Could an Eagles legend come out of retirement to solve major concern? - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbV9PMk8wOWVaaXVPcy00MVZxdVNOT0dlamRjSjBKdTltclotR3ByejFnQ1BjcGZGTElCcFhhMEpYZ1RUZWxwOTVDYkhtWHlhQURlcnJwLTNKNGZrMkJ1VFpBUDNDUnVHMkMyRnlUTHBQM3VoVnE1c0l4NlhGeXlUQ29CUmVaZ0RHTldJTlMxSlRzMGxTVER0M05jS1BscC1vRk5FRm4xRzV5U2V3Y3dKQS04T2l5X2hzSWZrRUdzMG5TdjDSAdcBQVVfeXFMTTRIVEdJR2hudjVSQ2Z4UG54akd0ODJqX3JOeHU5eWlfV1EyRmVIdzlLYWpWZnJCa3dkcDZOWlRZUmZGWk1wbFVsWEZ1QU9ydk42eWNCR2oyNWdrQkVZS2hjUUh1SjZnRFFCaXE3WE5JaTVGeEE0Uzl6Ni03RnlXdXRUN25tMWdPem1nbHlsdHZQcG5OVWphM1loOW5PZnJrZndyLUlycGYzdHBEYlRKbk85WlZ3ZW5LN3Znbkw4RnowLVoyLUlOWFg5VklJckN1bkZFbG1PQW8?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760460660
-    },
-    {
       "title": "Spadaro: How did the Eagles attack the mini-bye weekend? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWhaSzVkcS1XZEJrSEcyYkdjT09XN0w0dVF0SHFYMWZOMC1OcFZSaWlpQWhRWGxmZnBJV05Rcy1GeWN5am5nTXBUZWhlSWN0Z2ZxcTlDZEdzQy1DZUV6WVEtM1dZN1RtRFNFbzdnYzhRa2RfQkpUeDNfRFZlbnpPMjF4a25uX1F2Tm5xNS01MzF2dnMyUGlNYzBR?oc=5",
       "source": "Google News — Eagles",
@@ -473,12 +473,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFFsM3dPX2U2NWFSZF9uVzZ4emtHVTZKTThXTllBT3RrX0hGSzZac0NweVl2SjBGYkRqRFJ4aVdqTXhEUzFsR0NIZURMRVdXUkFEZ3dpSVJsVGFpd3RuemFPdVczMzFQTXV5TjNzb1ZEVGxwZ1dyZU5lSmwyVEFrbWxYTmtpTTQtdVV6bGJzbnI0cVJ2R1RCcTM4dm1GTGg5V0FZ?oc=5",
       "source": "Google News — Eagles",
       "published": 1760079600
-    },
-    {
-      "title": "Dickerson (ankle) out for Eagles' injured O-line - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkRQa1lQVWtRZXp6LU92MzZ1SnBqRkRJV1N5R28zTG11OWFrMHlBSjhobXZWVHY0dV9JeDN3RlNiUmhiMUI0QlktOWxKN09valBXemFVSXpjYW5zdlBfNVpuRzVEY3ZqejFpNzNCaVFKcjJhTzczaHFDRkl1SGxkOHVaTE5sYXNnMEZ0Zy1kSU5USnJ1bHYxQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1759906800
     }
   ]
 }
