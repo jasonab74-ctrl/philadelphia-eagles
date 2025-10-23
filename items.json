@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-23T04:43:59.251151+00:00",
+  "updated_at": "2025-10-23T05:21:23.262614+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -175,12 +175,6 @@
       "published": 1760965172
     },
     {
-      "title": "A.J. Dillon is at the center of a fascinating Eagles Week 7 roster subplot - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOazRvVVgyT2pSaGZtZS1VSFhGUVlYVUhTLU1KSGxEVEstZHRiRlBUU3VlZ19ZMUZieGdIUkM0WWVmaFk3UTFzX3lMRVVqYVRtVXVLdENEdW1yRFlmeHMtTFNOWkNhLVhuX0pfYXJKd2pZSkFWYnhYU21oNVdwbnB5WHRRMFJORW10ZzhONUNkZ0I1X2ZOYkF5OHFWMHllenBlTng1ZDFJTzFlak40OXV4TXZMSmJvQXloa0s0Z0p6Q1NxRU9Qam8wY244dWNlZ29yUmx0WHdZR2Q?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760960391
-    },
-    {
       "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenZDYlJLN2pvUmJscm02Z1RyTnFFNzVLVTRKRllQaTZKTGVYNmtqaFVWLUdUWWgwdVUyS2JXTmRvaW81S3BnbU82cnp2OVBKR2lTeTZ5cXVxcHNNX0Y4SWM3TkJWUzFpc0I3ZW9TdzBES1RVYWtnMHA0RFh0enJ6NTBsN1V0RFptcHlzanliZkp1LTNFYnpRYzhLNTJ2cTVURG5Gd3hmRGxRZG02TWUtT0packF1ZGhQSXljd3BaYy1VZ2ps?oc=5",
       "source": "Google News — Eagles",
@@ -233,6 +227,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkk5bWx6bUFmMUgyT2xYZTZVVndhSFlsMThydEpxeF8yY1RjaExJaktlTk9aZ0FuOEFpek43aV9qajJDNGk5OV9CYVhla0NoNEliSGs5T2JpSVJUZ2VfMEJGZWR6bm9MV2NFZDVaUUJWZHB2XzZHREszVE9yTTBrWGRkRHNiUzFRb0o4UldIV2ZUVkJSRTZPQnViMGptV3I0LWgtV1RVOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1760908344
+    },
+    {
+      "title": "Eagles O-line, D-line injuries in Cam Jurgens, Azeez Ojulari vs Vikings. Will they return? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOFJaeDJZelZvdHlGRUx4UWFUUUlNb1VORVp2UjgxWEtfRUV2djdEajBvZjlxU2tsNUVzZHZBTDVtbVBmN05FTC1ab29GUC03MGZ4Q1Q3VjNpbEN4eUFNU0RrRm51azZ0dzJSSUJ2UnBYRmpQOU5kb21ZR3k4QnNycUxxNTZUWUJHWkxXVmpQcUpCOUFkd0tkeFZJdFFLLXItb0MwRktRLUo5RE4tSEdLSmp5ejE4UEdRcU54N0wwTGFYRjkxNGRSUDFtT2o2ODlWdkgyOHpKR19WelJ1SWlmTlFDcDkzSnpRNUNaR3d3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760904225
     },
     {
       "title": "Eagles grades by position after win over Vikings - NBC Sports Philadelphia",
@@ -417,6 +417,12 @@
     {
       "title": "Eagles RT Johnson calls for 'less predictable' attack - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTQ5VjFqM3NQN1lDNnlDSGVXSXFKbWNGZ3VmM2ZpQTdaeFljZXVrWkxLZkFuaFM0cXl3RU9MdEVobS1KaFRpZ011NHZTSkxUVVVUT0tNdmhzU3VyN3JwOGowM0tDVFRORVZiWTE1VEZRNWRPMC1xeEs3Nzhlb2UxdkxhYThqRUtKY0ZpYUwzakNwbF9MT1pPcGxB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760079600
+    },
+    {
+      "title": "What is wrong with Eagles offense? Saquon Barkley, A.J. Brown speak after loss - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdk5DUHJET3FGYl9aNWxWY0xTM2NfR1NfSUZwblh5d09waFRnZzJGclFsR1BORkxtV1FsNy1MeGFRWnBpNFJFTXJmMHdxVzF2S2N2a01CRWtabGNoZFFFWmlYZ0hvNF9OMGpzazdibEFIbzdjRnJTaTVXLWg1UGhYWkFVMmdsaWlDOHdPcDNMbXNaR1VBSUI2aHN1dGtqRVBpaGRVOEhhTjFaeVNNM0o2cG9jeFBrNzJaakNWdjVYcW93eHFWN1ZvZVpzRGhJZ29s?oc=5",
       "source": "Google News — Eagles",
       "published": 1760079600
     },
