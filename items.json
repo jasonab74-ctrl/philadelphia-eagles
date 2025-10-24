@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-24T01:39:41.002204+00:00",
+  "updated_at": "2025-10-24T03:02:16.280305+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Opponent Film Review: Jaxson Dart",
+      "link": "https://www.bleedinggreennation.com/eagles-film-review/161840/eagles-opponent-film-review-jaxson-dart",
+      "source": "Bleeding Green Nation",
+      "published": 1761273024
+    },
     {
       "title": "Thursday Night Football: Chargers vs. Vikings",
       "link": "https://www.bleedinggreennation.com/game-day-threads/161855/thursday-night-football-chargers-vs-vikings",
@@ -49,6 +55,12 @@
       "published": 1761240970
     },
     {
+      "title": "Saquon Barkley says it's about wins, not stats | Giants vs. Eagles Daily Updates - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk9oaW9CaXpTN0RZZFBzcUtzMkpnS3NIdmFVRFFjNkJXTjBkUTNYby1sOTYxLXBlYjl5djJYUWw0RTY3N2NOcU9rbDdIOEtUdXV3Zl92bk80RzQ0ajNRb0JORFZfb3A5SklBZEY4cFFDTmZkZnBhWGczZ2xSUVptQkN4Y0FHQXlLYW1naVlOZnF3amM0TktfakRUNWh3M01oVlJjQlNrTQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761240679
+    },
+    {
       "title": "Philadelphia Eagles fan survey, NFL Week 8: How confident are you?",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/161726/philadelphia-eagles-fan-survey-nfl-week-8-confidence",
       "source": "Bleeding Green Nation",
@@ -65,18 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMRjl4NmlHNnFmTHc2WjJTNlNGS2htRjVONTF3ZFFvMDlTUU5SaFZsQWluRVlXMHQwSmF5N2hYckpuRjk0NFZ6djBlMHAzUmFKa2V0QkZ0UTB4QndNYzNJbHRmMVAtUXZzUmM3UEpQdlFhVURqSkZDcmJUemZNLTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761232888
-    },
-    {
-      "title": "Eagles Linked to Trade For Two Defenders That Could Bolster Weakest Unit - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTViWHB4aFdTVFhDX0tUZWxpYVVOcmJLRWNsY1hfblMzT0cyR0ROcWFBSndXVjBmZllxc0tNeFBUZ1NyUTFYQ3B3bjA1QTAwd2hTMFhuZ3hFU01pa2pkYWQ1WkZMZWIxQWVFamV3SndoNVNiQU9xeUZqWi03Y3QzcVh3eTdMU1VGVjdXSXd0TXZqdnFyS0RlczVneWxRcDhNdTJhU0dKbWdHVjBmY2ZKQ0FKX0VQSGhM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761229980
-    },
-    {
-      "title": "Philadelphia Eagles’ Top Trade Deadline Priority Revealed - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk82NW5od1UxMTdjeGQzbHJGaktCWkFOMnNjT056SW45RDRaZHZ2Yk01MHJRcUtGX09YOHFaTmR3SkFxc0xGVTVqR0cwUXh4cHVvRzZWUHpoeFRGaUEwWEtRMTZjTWxydlBSeUNKNnN0N1NrU2VObUFXeWlyVjIxNU5BU0JjTEYzb1NzaFk4cWoyS3NUYlU3MUpTZ29UMVJVSmtB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761190500
     },
     {
       "title": "Brandon Graham details his decision to return to the Eagles - Philadelphia Eagles",
@@ -109,10 +109,10 @@
       "published": 1761159840
     },
     {
-      "title": "Eagles-Bears Black Friday game will be available globally",
-      "link": "https://www.bleedinggreennation.com/news/161768/eagles-bears-black-friday-game-available-globally-prime-video-news-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1761159659
+      "title": "Two-Time Pro Bowler 'Really Wanted' To Join Eagles - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXdidDY3RF8tQVlWOWY0RzB0TzFfemxWajd6Z0dxOFBvUDNPT3I2T0FSZ2lhUXpnSGpDd01fVUNlUXVuVTlTLTVGZXBrREhUT1gyZEF2LS05Z1VPUHQ1LXZoZUpsVTBtazgyTVRWYTc0a0tmTWNpWm1VSGdvZkdwQ0x1UGtXVnp4cUpMX3ZUci1iQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761159601
     },
     {
       "title": "Eagles open CB Jakorian Bennett's practice window, sign G Sua Opeta to practice squad - Philadelphia Eagles",
@@ -124,13 +124,19 @@
       "title": "Saquon Barkley says blame him for the Eagles' lackluster running attack - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGI1WlktMnZqNVRsNEtaelB1eGN5SFIxUzhCM0lhcThWX2dhVks0LV9SUVRPUk5NSDY4c3ZXSEhVLUVZd0FsS1VRUlRqT2EtX1VTOWlBQzBVZzAxeFhqQk1VOUtPeG9TRHloUkFqbVdTNXRjc0ZVUWVsVWRwd3MyNkVzOW5iNno1UV9UdER6ZW9RaWdsS0N3YXZxVkhxMEpfVi1JcTU4VXdKS190VW5SN0VR0gG6AUFVX3lxTFBGekNWdXM5WU5HMGZkWmM0VjNwbEZrMzlZNS1NaHZ4TlpCOTRleVlLMTluTFJ1TXVCYWRCbjRrdkFqVFl4QWd3Y19tOC1DRzFZZzhNbEZ3emVHbHlNaENQanpoRXhENFJ1dHNjMk9GVzN3dkFuRzh5Rk9qdzN1ME1JVThHRWdIWVE1LTJUSHUzdzRZcVA0RHJ1Tm1WTElrOG0teFN6OHZRMU4tNXlpbXM3QVdlWnlZWEVxQQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761143158
+      "published": 1761143704
     },
     {
       "title": "Eagles release TE Jaheim Bell from the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEdBSWl4eHhLbVdmTUVQZ0RWT1IzYmN3SXlzekFMblhXN0lxYlpIOG5OSGZjajlGM2JLNkpaRFI3T3Y3OGFlc2tIQ2k5NTBNVDBwdzhibktIODdaS1RSWFJFTER0cDVyZEVVcl9fenVZSHhRbmhSamhwZnl0cVR2N1RWU0ljdm04ei1hTUJWTUxMNjJJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761081116
+    },
+    {
+      "title": "Brandon Graham explains why he’s returning to the Eagles and when he might be ready to play - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0hnMXhXMjA0X0FlS0Q1Z3BmZTFLZ1NnUnd0Y25LakFPTjJVMUF5OU1Id1c0VWRQZ3ZveU5qVDdfX2EtSnhVdmU3QnBJdmtITnlPVnpnRDFtbnlPR2RaZVdlakRSVThiamM5Z2FrUnBJRGJWV0JXNXhQU1g1eGFqWVplSW5WcHlHVzRZVDA0MUJienVFNWE1MXFHd0FET19SdDVQaEFmcDMzREtjVzBZWExlNE5VcmR2dDloQ3hXRmpLU0pJOGNtcnZmcnRRdG9ZWjBwWA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761059056
     },
     {
       "title": "Spadaro: Brandon Graham's return infuses a jolt of energy into first-place Eagles team - Philadelphia Eagles",
@@ -145,7 +151,7 @@
       "published": 1761005580
     },
     {
-      "title": "Jalen Hurts reminds Saquon Barkley that the Eagles family supports him - Eagles Wire",
+      "title": "Jalen Hurts reassures Saquon Barkley that the Eagles family is behind him - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdThOSk5SY18yMEM4NW1fRDJoSnpaczMzZnYteEVFSW1NNkpFcmtBYWR3bDFoQnhqWENaajhFdi01Tm1EcUtMbHQ1WXM2ak5BNTB0bTVyNXZ6ZkxTOENid0E5SEQteUllR2JZeTFzM2tJV0U2Nk1OaVppMXZmMjg4dkI4ZXFWVnhBZHF0Q2s2YzBhckZ6ZWxPNnlpME1vSExEVWZWOUdBeWdEb3VSMHV3bHM0RjhvaXpLNmJUR3VuVUFyNldDUWZndEJqYVlJVExkZEdyNkttb0hidEpIb3VGQzlMdlZQWGdXRXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1760988440
@@ -157,16 +163,16 @@
       "published": 1760965172
     },
     {
+      "title": "Eagles ready to welcome back Brandon Graham if he unretires - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXk0U0lPYXpZa2Q1QVBQbGhkS3p3d053MmFBZW9ubXFFdGIwSUFXR0VwUzRBdmVxYnpMZnNqZUhuelpHdmlUUnFmV3J4T3R0TVUyRjBQOHJiamw1S1I4UFVDUy1Bbk9JVFRFWjlNZ2F3LXlLdGhmMXRsakJMWTFyS0wtZEZ1RjJRa2lVUWk4QlFHOVBYWmxYbUkwc0JwSnR5Q05rcnpfREpOT3lxcW9OdGxVODhRSTh1dTg1b1h3X0Y1SEQ1R2fSAc4BQVVfeXFMT24xT29ScUxIbjE3Y2pVeWNiaGZSVmQ0VmVvQ3BEcmRtOFQwT1NHdTNSaENzX1U1a2RfSjk2YndtM1RCZXRSRDBMeGxfWkdESEpjWk04MVVaX3RfSld5cUlXbHJlVy03dFZfUzZ2bS1HTUQzYWJmSlpDWm04UURhZ1FKb3o0cFJtYXdfTzM3N2VFSXJ5ZkdrbTZlSmNJSkZOdVF2eTVUdVh0UDhfeHNVT0RreENYUzc4cTF6WEpXcVh3ZlRnOGtJejAyNWJmWnc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760958000
+    },
+    {
       "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenZDYlJLN2pvUmJscm02Z1RyTnFFNzVLVTRKRllQaTZKTGVYNmtqaFVWLUdUWWgwdVUyS2JXTmRvaW81S3BnbU82cnp2OVBKR2lTeTZ5cXVxcHNNX0Y4SWM3TkJWUzFpc0I3ZW9TdzBES1RVYWtnMHA0RFh0enJ6NTBsN1V0RFptcHlzanliZkp1LTNFYnpRYzhLNTJ2cTVURG5Gd3hmRGxRZG02TWUtT0packF1ZGhQSXljd3BaYy1VZ2ps?oc=5",
       "source": "Google News — Eagles",
       "published": 1760954333
-    },
-    {
-      "title": "Hurts uncovers his 'swag,' helps Eagles stop skid - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXRJTlMyTk5Zby14cUg2TU5GdDZYcW1ld1lMZlFPRlBXdU5neHE5STg4OUdSR2N5S0dWRElsb3VqNGZwZEF0NDB2c3JYVEpZaE80M29sWDgyTHJfUWVUdkJkZWljdDlyeXpfN0ZXS3VreGxiRHRLcnZISHg1M1ZaNEhVTXA5R2lGQTNMbGk2VE8wZzhoeEkwNTB2MC1FSmdrUmVF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760917620
     },
     {
       "title": "Vikings vs. Eagles Game Observations: Red Zone Woes & Big Plays Spoil Week 7 Return - Minnesota Vikings",
@@ -233,6 +239,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVVUaVdsTkJOWXh2aklkY1oxa2RVVDBWc3NNNFQwUHN5WVlfR2tNZkRGUUI5cFllVFpucXpEM01jLWtBT1ZmZFRlVlAwQVdDa09JcW5Ud2tTbHctX29QZW95NzFCcG5GY2xtSm84MC1zOW13UGxiYmtEWTJpNEdQc3kyUjE1Vm9hakNid0ptelU2ZjUxYndiQmZmYUdXQ2dIM3dZT0ltVzZFYlNuZVBPS1VmeG04b0pFSnZV?oc=5",
       "source": "Google News — Eagles",
       "published": 1760906582
+    },
+    {
+      "title": "Eagles O-line, D-line injuries in Cam Jurgens, Azeez Ojulari vs Vikings. Will they return? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOFJaeDJZelZvdHlGRUx4UWFUUUlNb1VORVp2UjgxWEtfRUV2djdEajBvZjlxU2tsNUVzZHZBTDVtbVBmN05FTC1ab29GUC03MGZ4Q1Q3VjNpbEN4eUFNU0RrRm51azZ0dzJSSUJ2UnBYRmpQOU5kb21ZR3k4QnNycUxxNTZUWUJHWkxXVmpQcUpCOUFkd0tkeFZJdFFLLXItb0MwRktRLUo5RE4tSEdLSmp5ejE4UEdRcU54N0wwTGFYRjkxNGRSUDFtT2o2ODlWdkgyOHpKR19WelJ1SWlmTlFDcDkzSnpRNUNaR3d3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760904225
     },
     {
       "title": "Eagles grades by position after win over Vikings - NBC Sports Philadelphia",
@@ -325,10 +337,10 @@
       "published": 1760731045
     },
     {
-      "title": "Vikings to start Wentz vs. Eagles; McCarthy QB3 - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzFjME9rMWRnNC1PaTVRUUJORWtjOVJ4RWYwRldIX3MxeTFicGVfQWdEU2poejZMamdlMGNCcm9FejYwOWFDRWpDaWREWWxaSVExQkFCa2JyNnVZMGswcWdiLTgzN3dYWWQyZUhZbnlZbzhtd3RJVmljTWtxR1RzMS1yUDdZd05JaUkzLWY2OWlha1BHaDNBYXJyMWcxaGdMTXc?oc=5",
+      "title": "How to Watch, Listen to & Stream Vikings vs. Eagles in 2025 Week 7 Game - Minnesota Vikings",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0za0hKN1E4cTNMVzZuT3ZmRmdVX1VjVHpuZ2s3ZXBBTWpkb1RmSEhya1BMbWdYSjNLaTJ2OXRxbkhZck9pZGZVVjFGUFJ1UU5BcUNUSmE0dUIzbmdoMFY3SHRZbk52VGpqQnIwQ0dVZlBlRFVNRlE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1760730000
+      "published": 1760726595
     },
     {
       "title": "Eagles injury update: Quinyon Mitchell good to go; 2 questionable - NBC Sports Philadelphia",
@@ -379,12 +391,6 @@
       "published": 1760602229
     },
     {
-      "title": "Eagles Player Reportedly Compared Team's Current Struggles to 2023 Collapse - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbktuQVlpcU9xRlI4bkc5eXlpTkY3RnhWMjc0V2lESTlQMXJKb0lxTGx3Zk9pT1AySm1vcEstMi1SbGNRVFNBTVNPamRTQUUwX2lnOHp5TWhKLVdDN2V2YmNQdWo3X0FCaHVpX2tVQ2l1UkF4SEViMHdTRFZMQ1MxSEFZOTBGRHpkMEVST1NhWFc1VTBqZFVYaWRCaGtmU21Sa0d5MDJ5VXBlZWdBcmljTVJQcVh6QkE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760534325
-    },
-    {
       "title": "Eagles sign TE Jaheim Bell and DE Titus Leo to the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUgzMThGUzQtYUN2dThYUUJWMGxKM3hTVFQzQjVPYW51Nm4wR2RGd2NyTUs1U2lGeEk3ajlkczZMU0hpWlEzU1d2Zkc5YlpkVjJ5MTVxZGRZemRHdEJEb3VGV211S2VfOS02eHZydDlCaVVKbDMwMzRzRURFdG9mWDgwclJheVpUWHZkcDhUMWhTTVpEMTM3eVVaLU8ycDQx?oc=5",
       "source": "Google News — Eagles",
@@ -403,8 +409,8 @@
       "published": 1760511600
     },
     {
-      "title": "Eagles 'Lurking' With Trade Deadline Approaching - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU21FbXhTdnNsRkJRbWJlY0hxeDJLWXRGZ3BEY3JmaHkzVnVyTTBUUEFXVXlocWozRW8wRTFROWMwWnphQVFRTEpub0hDUEhXTFdQN1hJRFVVOWpWWGQtWndPUFNXTTBrb0RLSklqYVd4SmhvRTE4N09vN2xRR0VFUlphVVJoR2NLcDRKN1dtcw?oc=5",
+      "title": "Eagles trade deadline: An initial look at potential trade partners and players of interest - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkloZ000QkVmY2pxMVc4UnZicTVhVGF4Z3JNbExDcXBwS1l2aVZiUHU5emNCYlhiOEdhc0NfVHJPVEdNU2EtN0V0Y0pnUG50Vnk5ckw0a0dYWGVFQnFHbjFKMEVNN0ZuYmdyZGppU3dDZHJmR3pHVmFyOEctOVZHTWp4bzRxd0hqQVVaRVpoWklrZ1FTZU54WDEzaVdXVC1Rdk1OWTRDNWRkUkxidEHSAbMBQVVfeXFMT01pa3ZMWVYxRXpvNnI3ZEJBT0pfYWRPdnJmLThDN05GLXVKUnRLalJwMnJGY1B0WjkwM1F1cGpqMkJpaVpnMGx5TGFvMUxBOGxjeXNDYjdvalhNRHJmNktFS2RtRExrOERrak9KNFZsSGFjcTJQQ0E2WmhTalBJWXNhc0xoSTdXVkMzTEg4U2stMy1yRzE1REJCczJBUGliQkJQWS03cEdNMUhNcG1nV3h1blE?oc=5",
       "source": "Google News — Eagles",
       "published": 1760511600
     },
@@ -427,12 +433,6 @@
       "published": 1760425200
     },
     {
-      "title": "Eagles Cut WR Before Ever Playing A Snap In Philly - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJ0RTgyY0ZMWlpNM0hELTFmaVRxazR2aF9aMTlNS1UtS3ZsbjVxb0lHNU02aEJsaVhKWERiWjVlYWZDNFd3OXU3NnpTbUhHVmZhZXpHWlVLZE9PbFhWeVZ6RjFGMEk5aXVNLUtfNzBmQlQ0S3RjRGVMWThoYlVFcXU5NldEdjVqOTRCejlzNmhWSHV0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760425200
-    },
-    {
       "title": "Za’Darius Smith announces his retirement from the NFL - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVlEU2ZxWVhac0hkT0dMMXBoMlZfNGdnLW1Ia1BoX2JZOW8ta1JLT2FLVU1lQ3lOU1dUVzcxcFNIR1NHaVRETWxjRUtKYkhkZEh1Yl9FYTdKUnhTMFZsekRIR09mdDRtc19PTmlEOU1IUHBzdjhtb1cyQlZXQjRZS1ZTeEhKZw?oc=5",
       "source": "Google News — Eagles",
@@ -441,12 +441,6 @@
     {
       "title": "Spadaro: How did the Eagles attack the mini-bye weekend? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWhaSzVkcS1XZEJrSEcyYkdjT09XN0w0dVF0SHFYMWZOMC1OcFZSaWlpQWhRWGxmZnBJV05Rcy1GeWN5am5nTXBUZWhlSWN0Z2ZxcTlDZEdzQy1DZUV6WVEtM1dZN1RtRFNFbzdnYzhRa2RfQkpUeDNfRFZlbnpPMjF4a25uX1F2Tm5xNS01MzF2dnMyUGlNYzBR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760338800
-    },
-    {
-      "title": "Eagles sign CB Tariq Castro-Fields to practice squad, release CB Eli Ricks - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0N5aVdVWHJoV1dxVXAzdjk2blE4VGk0YmR1SHlBNm1nQW9jMlUzallIVG5nR0dadEJnc0xuNkFTUTZUM05nOWIzU1pSRFFmeDdCSnhmVmVqQnNYNnFlZzN3YkYtbUJ4dmMyVVI5UEs4Y3lINUVXdWlma3R4QXc2R2NzaFJYTG5ZbjNEbXl6a0N6UmQ3VGRWaklYOUJqdnVuWTdqdzQ3dEo3cnc3MS12TlYwSQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1760338800
     },
@@ -463,8 +457,8 @@
       "published": 1760338800
     },
     {
-      "title": "Nick Sirianni Press Conference: October 13, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXRpUWxkVnFaal8wcW56a2lVUVB4dlYzeHctaW4wcWtWanI3UUlwUXM5QWFGUEdzZDFkcnQzZGkzcnZSUnQtU1l0Qk9yblVJQkdfYnVpUGRQeFJFSVpBWEJKQzNrRF9sdW0tMG0yQnp2NnZCSEpWNW5qNk9WOUxMZThSSVF5NmctdUZwNzhiMTQ?oc=5",
+      "title": "Philadelphia Eagles’ Za'Darius Smith announces shock retirement after 11 NFL seasons - FOX 29 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmplSDR4andUYjNzT2FTM2hOLXIydVdtODFqX1BINFVmd3lhLWlTYmlfMm9xZjZUR1ZwTlJwSWxBekYxa1ZheXVSc0MxaHI2cTdrZk5OMFV3UXNsVGJYMHBjMVkzbkh0aHQxUmx3XzJRUV9DWjZpWG9DN2xjQ1Jydl8wN3FLZnVwbVVkMzdHcldwRmxraldnU1dPSGJ4ZnVidHBpeGVRdVdSeUR5TDlyd9IBtgFBVV95cUxONldTazAtb29QRkNfcWdTd3RUZ2NDT3pQclFPdXhGMno5WS1Na1h6anZfUFpWQ2hlOF82Z21sZkZFQ0J4QTJIdXBuVUYzdkZ0OExZSEJJMWdKWjBhNExVREI1YlVndzh0V1p0cjVvWmlvU01aa3k3WUh5S2N3WlJpRGFfbFprTGVUaVBKRjRGUENLeEY0NS1kZE85a1BwQlQ5dHIyOE5zc0lPSWJJUnFpeG1tVXg2Zw?oc=5",
       "source": "Google News — Eagles",
       "published": 1760338800
     },
