@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-24T15:42:15.788070+00:00",
+  "updated_at": "2025-10-24T16:27:57.715807+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "What’s the better Eagles color: Midnight Green or Kelly Green?",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-history/161878/whats-the-better-eagles-color-midnight-green-or-kelly-green",
+      "source": "Bleeding Green Nation",
+      "published": 1761319600
+    },
     {
       "title": "Eagles News: Saquon Barkley believes Philadelphia’s run game is “close” to getting back on track",
       "link": "https://www.bleedinggreennation.com/news/161877/eagles-news-saquon-barkley-believes-philadelphias-run-game-is-close-to-getting-back-on-track",
@@ -47,12 +53,6 @@
       "link": "https://www.bleedinggreennation.com/news/161832/eagles-open-practice-window-for-darius-cooper",
       "source": "Bleeding Green Nation",
       "published": 1761250539
-    },
-    {
-      "title": "Eagles Should Turn To Rookie To Make His First NFL Start - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlJROGdPTmlPX0x3MkwzY1YzMXFnckIwbUZyVXNBdWtyd2hfWk9scmJGQzVWbm5zamlaWTB0eGx1QzJsSWNmazFuLWU2WGhVSHE1QUpaX3B3QzNPN3d6aVlzc0xiUi0zaGV6TWM4djJtcEZuQURYVndtQ29yM2UxS0hiUHN1cTV4bzZoSW4yMElmZUJNR203TndCTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761249136
     },
     {
       "title": "Eagles could target these 6 DEs, CBs at 2025 NFL trade deadline, even with Brandon Graham - The News Journal",
@@ -121,34 +121,16 @@
       "published": 1761176499
     },
     {
-      "title": "Eagles Injury Report: A.J. Brown misses practice due to hamstring",
-      "link": "https://www.bleedinggreennation.com/news/161794/eagles-injury-report-a-j-brown-misses-practice-due-to-hamstring",
-      "source": "Bleeding Green Nation",
-      "published": 1761172596
-    },
-    {
       "title": "Graham back for chance of lifetime with Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUJDUk1kYUx6MjFGeEc5QldaV2d3RkxqUGw1UlV5eXdhVkl5UWVxX2VKUEl1ekphQlo0QVlQaUtfMVphZXRKQ1pnTDZIZ2V6X0pVTW5acmhydFpwZHl1LUVFTVd2dG4tbF9DeTNSWUcyVlJyUUFySldQVHJqNXMydDhILUdEdVF0ek9henhvcENjUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761172080
     },
     {
-      "title": "Two-Time Pro Bowler 'Really Wanted' To Join Eagles - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXdidDY3RF8tQVlWOWY0RzB0TzFfemxWajd6Z0dxOFBvUDNPT3I2T0FSZ2lhUXpnSGpDd01fVUNlUXVuVTlTLTVGZXBrREhUT1gyZEF2LS05Z1VPUHQ1LXZoZUpsVTBtazgyTVRWYTc0a0tmTWNpWm1VSGdvZkdwQ0x1UGtXVnp4cUpMX3ZUci1iQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761159601
-    },
-    {
       "title": "Eagles Are Getting Much-Needed Boost At Cornerback - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEJzNlJEb1NlWWgyU1cyRjNSUFY5ZHhGeHZZdzV6RFZwUHVZbW9FYmZhRGhoa2hIbldYb1FDNU5EcjMxMHJXQTl6cTFxMERla1AxUlFxYkFDZlQyT3VCR2M3M0NjMG1YaWNwM01kYm4tbU5paTFHZUxjaERJUjlKSDdLamhLZ015RENQTkM0a3lMUGF0?oc=5",
       "source": "Google News — Eagles",
       "published": 1761152138
-    },
-    {
-      "title": "Philadelphia Eagles sign Sua Opeta - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ29nS1RFd1U3QVJ1eHp6Z0YzYUZrNU9zYzZfdlVIY1ZsUVZYQk1fSlhXS1ljcldCUklhaWVidTRsSmlWMVdfMUZjNW5pLVhBX0xDY2J6NThKcElFa3FOdFQwRjNRaWd5MUJuT3ZtUGNCNUp2OElLRlBFa01acXRjTXBnaVR6cFJ2MVlTckNkSUc0NjA3ZUZjeTU1cG1nYUt0WEhoTXZiRTlUY2h0QzRiZUtiQXBMZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761149222
     },
     {
       "title": "Eagles open CB Jakorian Bennett's practice window, sign G Sua Opeta to practice squad - Philadelphia Eagles",
@@ -229,6 +211,12 @@
       "published": 1760965172
     },
     {
+      "title": "Eagles ready to welcome back Brandon Graham if he unretires - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXk0U0lPYXpZa2Q1QVBQbGhkS3p3d053MmFBZW9ubXFFdGIwSUFXR0VwUzRBdmVxYnpMZnNqZUhuelpHdmlUUnFmV3J4T3R0TVUyRjBQOHJiamw1S1I4UFVDUy1Bbk9JVFRFWjlNZ2F3LXlLdGhmMXRsakJMWTFyS0wtZEZ1RjJRa2lVUWk4QlFHOVBYWmxYbUkwc0JwSnR5Q05rcnpfREpOT3lxcW9OdGxVODhRSTh1dTg1b1h3X0Y1SEQ1R2fSAc4BQVVfeXFMT24xT29ScUxIbjE3Y2pVeWNiaGZSVmQ0VmVvQ3BEcmRtOFQwT1NHdTNSaENzX1U1a2RfSjk2YndtM1RCZXRSRDBMeGxfWkdESEpjWk04MVVaX3RfSld5cUlXbHJlVy03dFZfUzZ2bS1HTUQzYWJmSlpDWm04UURhZ1FKb3o0cFJtYXdfTzM3N2VFSXJ5ZkdrbTZlSmNJSkZOdVF2eTVUdVh0UDhfeHNVT0RreENYUzc4cTF6WEpXcVh3ZlRnOGtJejAyNWJmWnc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760958000
+    },
+    {
       "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenZDYlJLN2pvUmJscm02Z1RyTnFFNzVLVTRKRllQaTZKTGVYNmtqaFVWLUdUWWgwdVUyS2JXTmRvaW81S3BnbU82cnp2OVBKR2lTeTZ5cXVxcHNNX0Y4SWM3TkJWUzFpc0I3ZW9TdzBES1RVYWtnMHA0RFh0enJ6NTBsN1V0RFptcHlzanliZkp1LTNFYnpRYzhLNTJ2cTVURG5Gd3hmRGxRZG02TWUtT0packF1ZGhQSXljd3BaYy1VZ2ps?oc=5",
       "source": "Google News — Eagles",
@@ -295,6 +283,12 @@
       "published": 1760908344
     },
     {
+      "title": "Eagles O-line, D-line injuries in Cam Jurgens, Azeez Ojulari vs Vikings. Will they return? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOFJaeDJZelZvdHlGRUx4UWFUUUlNb1VORVp2UjgxWEtfRUV2djdEajBvZjlxU2tsNUVzZHZBTDVtbVBmN05FTC1ab29GUC03MGZ4Q1Q3VjNpbEN4eUFNU0RrRm51azZ0dzJSSUJ2UnBYRmpQOU5kb21ZR3k4QnNycUxxNTZUWUJHWkxXVmpQcUpCOUFkd0tkeFZJdFFLLXItb0MwRktRLUo5RE4tSEdLSmp5ejE4UEdRcU54N0wwTGFYRjkxNGRSUDFtT2o2ODlWdkgyOHpKR19WelJ1SWlmTlFDcDkzSnpRNUNaR3d3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760904225
+    },
+    {
       "title": "Eagles grades by position after win over Vikings - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2Mxdi10RWVzVmo2cWx4MXhMLW5vb2hHU1V4cnQ0ZmFGZ3FzdEZNaDBFbkxqY1ktdS1SeFdaVGRNbG9XeXBrbXBDS0Z5UEhmeE5JWWpWLWM0bUltYjZORHp2NTVEaFlvajN0aUNjS1RIWHF3WERnSlJkN2FNalNMcjRXOFhYSVpkSldadHVZUmZoSi11M0RsalhNOWJRaV9fOTJQOTFtazQ3TFpTUE9ZaC1ObFNJb0tYdlHSAcIBQVVfeXFMT0FGNEtNS05SZUFITEF0blBzNlppN0kzZDFTWTlNLTJraUx0Y1JoQ2ViazJZTm1nMjRBUURCNlVIS2E1VDBtRFVDWFI1OU00SFNna05CbDYwM0ZLejNFQm1waXlfcHdwemxFNUVZdG03Ry1UWWtBdDlybTBLLW9DckJMUzBMN3ByR1hiMWMyam9zUTczbXExVmFQQ0cxOVIwYWxRVFV0eHBDS1ZQZXlRMmVPVk5aaktRRl9faDB4WER3MFE?oc=5",
       "source": "Google News — Eagles",
@@ -317,6 +311,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZ3FYa3JlN21yNU1QWkNycldlQ3dUaUpPZ3RNeHg4MEgwMkxHVmcxWWxUTmdzMVFQTGVzN0F2MGxQZjM5eUo0ckVBbE0tTUF4MVI2bE4tbDltTHg1ZVRJdHFR?oc=5",
       "source": "Google News — Eagles",
       "published": 1760893098
+    },
+    {
+      "title": "Eagles legend Brandon Graham considering coming out of retirement to boost Philly's struggling pass rush - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFRZYmNBYWxNOXpiZ3Q5QnFja3dFMWZsNFQ4dEN6LWdMNEtVY2NCRTI1M1B5RWJKaDFsX1ZFSm9RS3owdVhUZGR3aF9xQ1JkbTdCaEVDbEFUVmhWTWZ5dUJwRjViM3QwWUxnUlNfQTh6M3VPSkFJM3AtRnpQS1BCTmdKUVZaRzV2MUtNN1FnRWVKazFhZ01ESFVPeW1BWlVhTmhPZERUZmJtMmRFNFBhVTJFbnZ2R1NhSlM2R3VpZUZrNnFkelhJXzZKckk1d1BoQnFDUk9R?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760890496
     },
     {
       "title": "Vikings vs. Eagles Inactives for Week 7 of 2025 Season - Minnesota Vikings",
@@ -445,12 +445,6 @@
       "published": 1760425200
     },
     {
-      "title": "NFL Week 5 Recap: Eagles Offensive Identity Crisis - Sharp Football Analysis",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTR2aHh6NExEMFRiM2ExYXFPTlFJTU1wczJKdVczb3BTSXRLcGtIcVdLNGY2SGRHRWNKTHRsYkdSLWo2MXN0VXhYX2VhNDRqd2lmMkxrRDh2WHQ2NEE2UTV4N3dwOC1Ud0o3Sk1PUVlEdEUwdU81bGJ1d1VFVmt5ZDVQdjhjeFhTTkExZUxEbkhqcXpyUnVCc0xTNHk3UdIBowFBVV95cUxQcGVfTWN0WFJNbEp0eWYwNjJxSXhQTVU5R2pfTHRHbWVaMHJWRFRzY3VwSkpJTDBXaWZyMFNYTmtVZkszVkNOZmJ0am1vb0phN1JrUC1ENGpPdVBjQklFZHJsVlh5dFAtZVVQZkNEblZUdTBHQ2ZIX1FjVGRWZ3QzSXhjZ2JndHdmdUFuaVp5Z1R2em5IWU5tUlJDV01SaEFiZnQw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760425200
-    },
-    {
       "title": "Spadaro: How did the Eagles attack the mini-bye weekend? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWhaSzVkcS1XZEJrSEcyYkdjT09XN0w0dVF0SHFYMWZOMC1OcFZSaWlpQWhRWGxmZnBJV05Rcy1GeWN5am5nTXBUZWhlSWN0Z2ZxcTlDZEdzQy1DZUV6WVEtM1dZN1RtRFNFbzdnYzhRa2RfQkpUeDNfRFZlbnpPMjF4a25uX1F2Tm5xNS01MzF2dnMyUGlNYzBR?oc=5",
       "source": "Google News — Eagles",
@@ -475,10 +469,10 @@
       "published": 1760338800
     },
     {
-      "title": "Philadelphia Eagles Fan In The Middle Of Getting Arrested Hilariously Tells Reporter He’s A Fan Of His Work - whiskeyriff.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGk0Tl9BUi0ybTVBNVJTazgwMTc3QTZWQkFMNmgyS3BxTndsb3cxZ3pxandYUXBpVmxFZE1HeWY5dTBEeXNNTVMwTjg1UVQwTUF0R2c0WUhMeXpua1F2VUdPYzBHdEIxbFBZR0xhbkJFTnl3S3BWUWNlTkYxWXhHcU11ejlUdVFNWXVrMEo3VEZsNGZIb2ZaQUNrZDBEWGxHMWpNdFhHQ29FRVZ1ZERJeUNMRkhCaGU2NEVmajh6RHRjTUwtWXR2Y2V1M2FtZWhfYVN5a3RSa01CMDJkenlB?oc=5",
+      "title": "Eagles pass rusher Za'Darius Smith announces retirement midway through 11th NFL season - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEotMFpDdUo0Umw4b2s2ZUFCUV9XVkVNYUlPTlZjVERnY1hHVHNqLWxiUXB5RWJkN3VTV1dzaTB4ZUt2RmhBVmdtVE1XWk5HWHlORGJ2Y3pvZkFTVVVkRjdwZkJKRWlFSFowTHZPaEhhdkl2TWFTdWZnYW9oQTV1NFJSQXFmSkE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1760166000
+      "published": 1760338800
     }
   ]
 }
