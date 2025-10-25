@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-25T16:24:38.644371+00:00",
+  "updated_at": "2025-10-25T16:43:54.735874+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Ranking the biggest Eagles villains of the 21st century",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-history/161886/ranking-the-biggest-eagles-villains-of-the-21st-century",
+      "source": "Bleeding Green Nation",
+      "published": 1761410040
+    },
     {
       "title": "Eagles News: Jeffrey Lurie responds to questions about A.J. Brown",
       "link": "https://www.bleedinggreennation.com/news/161942/eagles-news-jeffrey-lurie-responds-to-questions-about-a-j-brown",
@@ -101,12 +107,6 @@
       "link": "https://www.bleedinggreennation.com/eagles-film-review/161840/eagles-opponent-film-review-jaxson-dart",
       "source": "Bleeding Green Nation",
       "published": 1761273024
-    },
-    {
-      "title": "Thursday Night Football: Chargers vs. Vikings",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/161855/thursday-night-football-chargers-vs-vikings",
-      "source": "Bleeding Green Nation",
-      "published": 1761264018
     },
     {
       "title": "Go Ahead Eagles 2-1 Aston Villa (Oct 23, 2025) Game Analysis - ESPN",
@@ -337,6 +337,12 @@
       "published": 1760893200
     },
     {
+      "title": "Eagles 28-22 Vikings (Oct 19, 2025) Box Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZ3FYa3JlN21yNU1QWkNycldlQ3dUaUpPZ3RNeHg4MEgwMkxHVmcxWWxUTmdzMVFQTGVzN0F2MGxQZjM5eUo0ckVBbE0tTUF4MVI2bE4tbDltTHg1ZVRJdHFR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760893098
+    },
+    {
       "title": "Vikings vs. Eagles Inactives for Week 7 of 2025 Season - Minnesota Vikings",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxX01EaEtHR19iQnlJa1I3X2Vpb01UN3pYRmJFWkZ2ZjRIT1BLZ0U1V3hndlhWYlVpa1Qyc0lnVTZRSEpjYXBubDhyNWYySGF3N1hJVzdibDZNNW5SVFlyaURHMEhjZ0xH?oc=5",
       "source": "Google News — Eagles",
@@ -453,12 +459,6 @@
     {
       "title": "A.J. Brown trade rumors: Could Steelers, Patriots target Eagles star? - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnRvVFFaRUhqOUdxQTd5UU1mMWtoWEEwOUtlbmtBcFhIX1lCTFFuTEFEUUgtbHMtRDJjSFNRbnJUOHZvMjFRc1hxemlRQ0QxT2QwM0NYZHZnWkxmVTk0QTJHWkxNM3JkaHlNNlRqR0hPVllSd0ZlSFNkTXNRTGx6TmJlTzVaU1A4ckUzd0xoUmhEVW5KSzZsYzI5ZUVud1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760338800
-    },
-    {
-      "title": "Eagles pass rusher Za'Darius Smith announces retirement midway through 11th NFL season - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEotMFpDdUo0Umw4b2s2ZUFCUV9XVkVNYUlPTlZjVERnY1hHVHNqLWxiUXB5RWJkN3VTV1dzaTB4ZUt2RmhBVmdtVE1XWk5HWHlORGJ2Y3pvZkFTVVVkRjdwZkJKRWlFSFowTHZPaEhhdkl2TWFTdWZnYW9oQTV1NFJSQXFmSkE?oc=5",
       "source": "Google News — Eagles",
       "published": 1760338800
     }
