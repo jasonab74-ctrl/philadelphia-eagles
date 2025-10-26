@@ -1,11 +1,29 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-26T16:44:27.662047+00:00",
+  "updated_at": "2025-10-26T17:17:32.072604+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles vs. Giants: First quarter score updates",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/161991/eagles-vs-giants-first-quarter-score-updates-game-thread-nfc-east-week-8-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1761498766
+    },
+    {
+      "title": "A.J. Brown isn’t expected to be sidelined for long",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/162006/eagles-aj-brown-injury-news-update-hamstring-bye-week-return-expectation-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1761497301
+    },
+    {
+      "title": "Eagles-Giants: Live score updates, highlights, injury news",
+      "link": "https://www.bleedinggreennation.com/news/162000/eagles-giants-live-score-updates-highlights-injury-news",
+      "source": "Bleeding Green Nation",
+      "published": 1761497080
+    },
     {
       "title": "Eagles-Giants inactives",
       "link": "https://www.bleedinggreennation.com/news/161971/eagles-giants-inactives",
@@ -61,12 +79,6 @@
       "published": 1761410040
     },
     {
-      "title": "Eagles News: Jeffrey Lurie responds to questions about A.J. Brown",
-      "link": "https://www.bleedinggreennation.com/news/161942/eagles-news-jeffrey-lurie-responds-to-questions-about-a-j-brown",
-      "source": "Bleeding Green Nation",
-      "published": 1761403245
-    },
-    {
       "title": "Giants vs. Eagles Daily Updates: DeVonta Smith thinks the Eagles pass game can help open up the run - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk9oaW9CaXpTN0RZZFBzcUtzMkpnS3NIdmFVRFFjNkJXTjBkUTNYby1sOTYxLXBlYjl5djJYUWw0RTY3N2NOcU9rbDdIOEtUdXV3Zl92bk80RzQ0ajNRb0JORFZfb3A5SklBZEY4cFFDTmZkZnBhWGczZ2xSUVptQkN4Y0FHQXlLYW1naVlOZnF3amM0TktfakRUNWh3M01oVlJjQlNrTQ?oc=5",
       "source": "Google News — Eagles",
@@ -79,22 +91,10 @@
       "published": 1761390000
     },
     {
-      "title": "Eagles rooting guide for NFL Week 8 games",
-      "link": "https://www.bleedinggreennation.com/eagles-game-preview/161945/eagles-rooting-guide-for-nfl-week-8-games",
-      "source": "Bleeding Green Nation",
-      "published": 1761369978
-    },
-    {
       "title": "Eagles Linked to Trade for 2 Star LBs Before NFL Deadline - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaS1mSDVQM1VHUEttSUY2cG9MNW9za3FxLVA4M1RmTGZvMkpNNzJnZE5zOHhCWHk4YXgyRVJsOEcwaWZaLW1POXZfOEhmdlA2a0JweWZUdEItQjRoX1J1OUM2WmNKZHZ2cXVKWUdsd3ZQOVF3YnlVbkpRX1c4eDlxS19hSEJmS0l1dlFEaVZPZFRCaG9VeWFiUDJIMW0xQ3ZDZVpONw?oc=5",
       "source": "Google News — Eagles",
       "published": 1761347520
-    },
-    {
-      "title": "Eagles-Giants Final Injury Report: A.J. Brown and Brandon Graham among 6 players ruled OUT",
-      "link": "https://www.bleedinggreennation.com/news/161915/eagles-giants-final-injury-report-a-j-brown-and-brandon-graham-among-6-players-ruled-out",
-      "source": "Bleeding Green Nation",
-      "published": 1761336584
     },
     {
       "title": "A.J. Brown sidelined again during Thursday's practice | Giants vs. Eagles Injury Report - Philadelphia Eagles",
@@ -369,12 +369,6 @@
     {
       "title": "2025 Vikings vs. Eagles Week 7 Game Preview - Minnesota Vikings",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Ynd4VUVpMWtkREtJWHdHZnFrcWpmcXU2T2JkQVhpcVJvSDhCaFNaa3pZZHpZTnpsWGJyd0FXT2RMakNCdXRLbW0temVvTHVya3VRLTZ6bk9BR09nY3YyMTdNcmhCVGFBQThDZg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760684400
-    },
-    {
-      "title": "Vikings to start Wentz vs. Eagles; McCarthy QB3 - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzFjME9rMWRnNC1PaTVRUUJORWtjOVJ4RWYwRldIX3MxeTFicGVfQWdEU2poejZMamdlMGNCcm9FejYwOWFDRWpDaWREWWxaSVExQkFCa2JyNnVZMGswcWdiLTgzN3dYWWQyZUhZbnlZbzhtd3RJVmljTWtxR1RzMS1yUDdZd05JaUkzLWY2OWlha1BHaDNBYXJyMWcxaGdMTXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1760684400
     },
