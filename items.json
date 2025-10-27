@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-27T09:27:18.709612+00:00",
+  "updated_at": "2025-10-27T09:45:47.239783+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -241,6 +241,12 @@
       "published": 1760929902
     },
     {
+      "title": "Vikings vs. Eagles Game Observations: Red Zone Woes & Big Plays Spoil Week 7 Return - Minnesota Vikings",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNel93NlgwclZhdHo4VHNsUm1QSEdjOHg5cmxHeVdHM0R5cllIbFQ2NXVGQ3FPX1RpZVpWLXBaTVBDQUVWRWh6akVkUk9jczM5cmFEcVF6SVliTzZuSjVPMFFGTC05cS1fOWJjeG1PMWM5STVlS2x4SVRlV285eGpDZmNPZjhhNm5QOVVxMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760916913
+    },
+    {
       "title": "Game Recap: Eagles 28, Vikings 22 | Week 7 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUNLVGtSbV9HR0d3bG0tXzBrS3lvbXczSDZldEpaczRhZjl0bGptWVVZN1Q3SUtiR3d0aHh6RmhuUFItekJCQmE3QUwzYmVPRkhXakpqaDRtMUdObFVLVWpnNUYzR3g2bkNKS084TU1MdUxZcHZLckpNTmc3SkJJLUdvaS1TUGMyNk9LUEtRQUxNb292c205RmpJSQ?oc=5",
       "source": "Google News — Eagles",
@@ -259,10 +265,28 @@
       "published": 1760908344
     },
     {
+      "title": "Highlight: Jalen Hurts connects with A.J. Brown for second TD of the day - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVVUaVdsTkJOWXh2aklkY1oxa2RVVDBWc3NNNFQwUHN5WVlfR2tNZkRGUUI5cFllVFpucXpEM01jLWtBT1ZmZFRlVlAwQVdDa09JcW5Ud2tTbHctX29QZW95NzFCcG5GY2xtSm84MC1zOW13UGxiYmtEWTJpNEdQc3kyUjE1Vm9hakNid0ptelU2ZjUxYndiQmZmYUdXQ2dIM3dZT0ltVzZFYlNuZVBPS1VmeG04b0pFSnZV?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760906582
+    },
+    {
+      "title": "Highlight: Jalen Hurts, A.J. Brown connect to keep drive alive - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVl9zRUxWcmh4V3RJTkNSOUVMdHhKWTRjQ01ZVUdrVGNQUWxocFlIdzFYbldzczUydnlRRDJsZ0FkUVpNQ2JfNzVDWXkwbGNVUm1WYVVvQlllamV6TkJ3OF9lZHRMWTRaZTB4eGh5NUFmSGhwWm81X2V1Q2t4cUE1YW82bW85TV85dG94d2QyWGFubEdoWE8zMEhGdjF2QnM4WWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760902955
+    },
+    {
       "title": "Highlight: Andrew Mukuba intercepts the Carson Wentz pass - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmFVNTBiQTZ3aERra1NGb05TamFXZC02UTBXUFQ2bmNNZGtXZGRHZHVYSFpwM0dzRXk0NnNjQW13UjJvclVWNmpKXzdVZUpILTdhWi1GWlpvMlhFVGdBUmdrR0pUM3NLOXNPYWM5MkxrazhpeWxuRERVX0RrRVhQdXR4WVdjazAyRVFsek9UZmdrT2k4SGNIaEJZT0t1dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1760896944
+    },
+    {
+      "title": "Brandon Graham has talked with Eagles about coming out of retirement, rejoining team - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURsYnBwTDl4b2FDempZWXQwbUd0Y0E1V0VWX1U4R0pzTWcxa3ItTkxaUDBMaS01djNyU3k4U29yeDB0MDB1OWpseXFsRHB5aVpYWlJVOW42VlhBU2JiNWZES1IwSWtyV2hXd0U4ZnEyY2ZOekdRdkd6TFNjdTVzQmFYUHlnSHRtbE9qejhtSkVMZlY5SVhCYUdsVDYwa00?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760887800
     },
     {
       "title": "How to watch, stream and listen | Eagles at Vikings - Philadelphia Eagles",
@@ -273,12 +297,6 @@
     {
       "title": "Eagles at Vikings Inactives - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHc5cXBCaEZXOEZmNkIyMURuN2FnUENqZFBCaVYtY2g1bmkyVG0zdVhYYVhqLUxpSGxSNGpCMXFZRWR2Nno1SE9OZkNvbUw2c0U3YlFaNUZNUWFxQ1ZiUUZJOERDN0IySzdaOWw1WEtVTzRRTjdQYW5FV0lOakh1WGVhek12ZFYwNXVkdWxR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
-    },
-    {
-      "title": "Brandon Graham has talked with Eagles about coming out of retirement, rejoining team - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURsYnBwTDl4b2FDempZWXQwbUd0Y0E1V0VWX1U4R0pzTWcxa3ItTkxaUDBMaS01djNyU3k4U29yeDB0MDB1OWpseXFsRHB5aVpYWlJVOW42VlhBU2JiNWZES1IwSWtyV2hXd0U4ZnEyY2ZOekdRdkd6TFNjdTVzQmFYUHlnSHRtbE9qejhtSkVMZlY5SVhCYUdsVDYwa00?oc=5",
       "source": "Google News — Eagles",
       "published": 1760857200
     },
@@ -331,20 +349,8 @@
       "published": 1760684400
     },
     {
-      "title": "Carson Wentz will start at QB for Vikings | Eagles at Vikings Daily Updates - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFNrdXRENEllRVNxdXB6UU9tbjRpVHJGa0J6U0s3WlQtNEh4TkhuOV9JbXI1Ul9FNHZ2UjNJSVJsS0ZkZ2RPaTE5SjZ4RzhGekNRQUdUNXlibmFrVjFkS1VlRW5lZ2FiRmpIQVpnZUJXSEdvOHZXd2swSExZVVFpaC1SMDRVeld5Qkh2TmJDb2g?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760684400
-    },
-    {
       "title": "NFL Expert Picks: Forecasting Vikings vs. Eagles in Week 7 - Minnesota Vikings",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NOEdwZFJ6cTExS3FxcjNzZDVlSG9HMWFQYUp0MVR2aG5hTXBBU0dodDl5V1Z5d1JjbzRETjgzNXB0VHFlN2twYUExOURrV0FScWVfYU5rTkJDVlpVdXlzYTR3RldMN19tUmczeHoxVzUxQnF6UEg4VE1CQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760598000
-    },
-    {
-      "title": "Week 7 NFL against-the-spread picks, predictions for every game: Eagles try to rebound vs. Vikings - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTm55T202bmlDWjV6UHBxLXhwZDAxQmV4WTNUbXgzSzRqRldtSjdWUzVLd3RvczdlQzVaUm5QME5tMWdDTi1BNlU2MVNBSm82bGFGdU5BYU84TnEtSmdSLXBsRkx0ckpLS1Zxb21YYTVZNUVZbEVGbTRZaUY4akJqcnZyRVpVTU1NeUtCV3k5V0NaLTJiWTlOMFFOTzRwVTBWMGY1N3pQT2VzRV83OHZvRlV6MXBtcm1zcXJFMG5oRU9US045aF82TzdPTFdWTXFOcl9jeE1BbTZjbVd0dmNTYQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1760598000
     },
