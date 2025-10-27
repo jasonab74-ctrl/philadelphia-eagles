@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-27T06:36:24.217832+00:00",
+  "updated_at": "2025-10-27T07:21:23.636728+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -241,18 +241,6 @@
       "published": 1760992781
     },
     {
-      "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenZDYlJLN2pvUmJscm02Z1RyTnFFNzVLVTRKRllQaTZKTGVYNmtqaFVWLUdUWWgwdVUyS2JXTmRvaW81S3BnbU82cnp2OVBKR2lTeTZ5cXVxcHNNX0Y4SWM3TkJWUzFpc0I3ZW9TdzBES1RVYWtnMHA0RFh0enJ6NTBsN1V0RFptcHlzanliZkp1LTNFYnpRYzhLNTJ2cTVURG5Gd3hmRGxRZG02TWUtT0packF1ZGhQSXljd3BaYy1VZ2ps?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760954333
-    },
-    {
-      "title": "Highlight: Cooper DeJean breaks up a would-be TD catch by Justin Jefferson - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYk9yQTNZM01kVXhvd3RxanRMYlRMWE5LeW9rU3V0ZXMwbURoeklmU0lwaXNqMEF2cjl3ckljQlZPdkhBVTM5NERnRkxfZGx5d0FrRXNmQk5YWUNGY1lKdFJtLWg2aXhlQVlUSHpiV0dPbjlSTTdsQ0tvMm1RRExCSE5OeVdEZUxEM2o0V0licVZwRFllLVFGaHRuUnNhMDJSbUItcFRKMDZSU21uUF9BOGJPSVo?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760929902
-    },
-    {
       "title": "Nick Sirianni Postgame Locker Room Speech: Vikings - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDdkOFVJV1ZhYVVTeUNQdkc5VDBoTXZueU13T3Q5cEs4ZEFYVE9YblMtVEk4UDFCQi1Ybi1DWjdHRFZ1c3J0QmNRUlBCSjNfeUFJa0VYVlBUdzZhWlZYNWtTdEdqVDE4VW4xX2dKTTFvN3VyR3FkMms0OUU5SjlOS05wV242bkY3OHZfbGprbWhqd2FHZTdncjFJb3JMZDV5bk5UYg?oc=5",
       "source": "Google News — Eagles",
@@ -265,10 +253,22 @@
       "published": 1760913450
     },
     {
+      "title": "Jalen Hurts, DeVonta Smith post historic showings in win over Vikings - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2VBcTZZN3pvMXRJNnkyMzJRQ2Rvc2pNUjZCaFRzNXVxOHptZzZnZzNxdDdxbS1JZkFXMG5HbnlRUGRnYUFYdF94b09XWDFpU09KU3Iyd2NZZWtQRzRhNmFxMTl0eVpkR05mdU5nTFpsR2tDVzVvSGhySjVhY1c5Uk5RQXFHam96cTRsdEpjUmUtSGRxTy1YUHZpWXZtc2F1cHpqc1I5dGZZeHFu?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760913450
+    },
+    {
       "title": "Eagles 28-22 Vikings (Oct 19, 2025) Game Recap - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UamZWVWs1dm5HbTQ5R1FQZEp1RnZUVlF0Q0dyX25nc1F1UzFOdjctTTczQ25LQ2MyYWRhellXVGZ6SkRQOUtQRXotX2stdkxZSVJ6a3B0OWdrOEU?oc=5",
       "source": "Google News — Eagles",
       "published": 1760913000
+    },
+    {
+      "title": "Nick Sirianni Press Conference: October 19, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEFhMnFCNTBuUEdIT3lnZUNDRHYxWlM3NncyUTVGc2hfQU9mZEZsT19wSFFGYUN4MWdhUU9rYTBMN0ZmRU1qbEp4Wjd3cGpaR0pZbjc2bnY2QTZSMDI1R2llQjQyQ2dDSjFsQ2UtRlRPZDZFQ21qSXk5Nkd5ZmU5VEFhek1hcVB3eUx1VURmUTQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760908896
     },
     {
       "title": "Spadaro: 10 observations from a historic victory over the Vikings - Philadelphia Eagles",
@@ -287,6 +287,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUNBdFpVRWp3X0dTM2dfcTB4WS1nU2ZwRVNnNnlsQ1M4bU02SXRHOHlUTnUtYjVXN2NXamZENTVwMlBWYXBjS0pOdUpFVXlibG4tQ1MyR29Vb0hTQ3RHRmVhRUFuaW12YkxwbzVxb3gtMEo2TnlwMUtvQzZod0ZxWE9jSWdLZmxNVzlwYjc5U0dtR3ZvRWNGY3U0ejYyTGtZ?oc=5",
       "source": "Google News — Eagles",
       "published": 1760902650
+    },
+    {
+      "title": "Highlight: Cooper DeJean breaks up a would-be TD catch by Justin Jefferson - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYk9yQTNZM01kVXhvd3RxanRMYlRMWE5LeW9rU3V0ZXMwbURoeklmU0lwaXNqMEF2cjl3ckljQlZPdkhBVTM5NERnRkxfZGx5d0FrRXNmQk5YWUNGY1lKdFJtLWg2aXhlQVlUSHpiV0dPbjlSTTdsQ0tvMm1RRExCSE5OeVdEZUxEM2o0V0licVZwRFllLVFGaHRuUnNhMDJSbUItcFRKMDZSU21uUF9BOGJPSVo?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760898750
     },
     {
       "title": "Highlight: Andrew Mukuba intercepts the Carson Wentz pass - Philadelphia Eagles",
@@ -365,18 +371,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTR2aHh6NExEMFRiM2ExYXFPTlFJTU1wczJKdVczb3BTSXRLcGtIcVdLNGY2SGRHRWNKTHRsYkdSLWo2MXN0VXhYX2VhNDRqd2lmMkxrRDh2WHQ2NEE2UTV4N3dwOC1Ud0o3Sk1PUVlEdEUwdU81bGJ1d1VFVmt5ZDVQdjhjeFhTTkExZUxEbkhqcXpyUnVCc0xTNHk3UdIBowFBVV95cUxQcGVfTWN0WFJNbEp0eWYwNjJxSXhQTVU5R2pfTHRHbWVaMHJWRFRzY3VwSkpJTDBXaWZyMFNYTmtVZkszVkNOZmJ0am1vb0phN1JrUC1ENGpPdVBjQklFZHJsVlh5dFAtZVVQZkNEblZUdTBHQ2ZIX1FjVGRWZ3QzSXhjZ2JndHdmdUFuaVp5Z1R2em5IWU5tUlJDV01SaEFiZnQw?oc=5",
       "source": "Google News — Eagles",
       "published": 1760425200
-    },
-    {
-      "title": "Eagles' pass rush depth takes hit as Smith retires - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3BDSVdwRzQtLTE0WkV1bzJnZmxNUFJTbHpnQzRlQnU5dzBxNFNNVW5WZWZGNm9kM1QyREQ1T1JLVldzZzJvcHBsZURWdlZKYlZzemg2OTh1OC1OdEh0SFNRX0lJaEdCaU9kdVk5bEF4ZGk2emtwZk0yUHRzcV9xSl9QUHJjRlhmczZ5RHJ0VUtRYkJvRnlBTzZ0c09OOXFFLWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760338800
-    },
-    {
-      "title": "A.J. Brown trade rumors: Could Steelers, Patriots target Eagles star? - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnRvVFFaRUhqOUdxQTd5UU1mMWtoWEEwOUtlbmtBcFhIX1lCTFFuTEFEUUgtbHMtRDJjSFNRbnJUOHZvMjFRc1hxemlRQ0QxT2QwM0NYZHZnWkxmVTk0QTJHWkxNM3JkaHlNNlRqR0hPVllSd0ZlSFNkTXNRTGx6TmJlTzVaU1A4ckUzd0xoUmhEVW5KSzZsYzI5ZUVud1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760338800
     }
   ]
 }
