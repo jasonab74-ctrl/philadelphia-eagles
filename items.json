@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-28T22:42:25.103037+00:00",
+  "updated_at": "2025-10-28T23:20:06.172473+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Film Review: First time all year the offense felt balanced and sequenced well",
+      "link": "https://www.bleedinggreennation.com/eagles-film-review/162275/eagles-film-review-first-time-all-year-the-offense-felt-balanced-and-sequenced-well",
+      "source": "Bleeding Green Nation",
+      "published": 1761691488
+    },
     {
       "title": "Carson Wentz is the latest former Eagles player to land on injured reserve",
       "link": "https://www.bleedinggreennation.com/general/161019/carson-wentz-is-the-latest-former-eagles-player-to-land-on-injured-reserve",
@@ -41,6 +47,12 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekF3aEJ2bzdRVTZWemhtOWhIZlcwLW9aTk9NU0s5MGgyMFRXQk9ra2NRNm1yNG0tNFdJeVhfQWdha0paZ1VnTi1mejlaNldoZDhGWEtBZGpmVUVyU01jeFJVT3ZQcUo5d1diZDZpM2dtaGdVRnR6UmpXdE5oMmlwYjNlbUs0N21MX011b3hVcVdLUS1rajRUcFpFWlFlU0ZoT05LSDB3X1htY3loX1A1bkliNVZ2Z29jaWNQMENNMFBBVkJOdDZV?oc=5",
       "source": "Google News — Eagles",
       "published": 1761640626
+    },
+    {
+      "title": "Chargers-Eagles Week 14 Game to Feature Monster’s Inc-Themed Alternate Telecast - Chargers.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02eTN2dEM0d2ZCb2RXajJIRjB2a0JONEdJOTRTcTNQYWFqWHJyOG55WFJnSEdJeElUbkxQdlVIRkFmd0RHMXg0aGJaZ3k2MkJEbmNaLXZrR2RaUFdmUzJ4WEd2N1U5MEhDX0liVTlxUm9FUlJlVkJSVGVfVTNFZzA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761615545
     },
     {
       "title": "Eagles open up a roster spot",
@@ -103,12 +115,6 @@
       "published": 1761556179
     },
     {
-      "title": "Eagles vs. Giants: 19 winners, 2 losers, and 2 IDKs",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/162187/eagles-vs-giants-18-winners-2-losers-and-2-idks",
-      "source": "Bleeding Green Nation",
-      "published": 1761551107
-    },
-    {
       "title": "Overreactions for NFL Week 8: Eagles offense better without A.J. Brown? Bengals playoff hopes dead? - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkI0Y0Q1YnRsSkZmWVpNTVNtVlNORG5WN3lJVkpmRWxmWGw1cGpTeC14aDA4eHBtV0RGN25nUFhWZE1iZHRVT2FoNlFOUnZncFo1TTI5Tmo3M2FJY2pKazRMc3hVcE1VakZTWko2bU82dFRSaGtFbURBWVh5UnNuN1JLOHZVSDN0V182bXFMZmk2Rkl6cHNSdlZ0Wm93a3hMMWZQU1BBaw?oc=5",
       "source": "Google News — Eagles",
@@ -127,12 +133,6 @@
       "published": 1761519679
     },
     {
-      "title": "Nick Sirianni Postgame Locker Room Speech: Giants - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1pieXVMUW85ZWdYUVJtOGF0eXZTV2NrMkpXVFlNeVROeG5UUGJiM3hYM0FWRm9scG1lRmt0M3I4WGZKT3BoRnFObmlHWHVMY0FCaGVzaWZvb2VoNW5kWmhobHhzekNXV2luVVlMV2pLYnA2TGh3TUxRX1IyTjBCXzB6MW5jQ0x0dVlDUC1jelMwMzg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761518181
-    },
-    {
       "title": "Highlight: Jalyx Hunt buries Jaxson Dart on a third-down sack - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09nNE9PX1NwcmVFYUlTVzZadnJxRTd1ZjM4Q2l4Nl9NN3hOTGY5WFlZc19XZm1pb016Ym8yeTcxSGJJZmVfUVpQN3o5Z204T2JZM1dDaDYzVVY5aUpWRkFiQ1ZLN19RYjJkUjFJdjZMcF9XMWRubkdDMUI4VTBucVBuMkdCNGJQbHk5RWoxNVhLeVRsNVduOUFnUldMeUlXLXRz?oc=5",
       "source": "Google News — Eagles",
@@ -143,6 +143,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlo0UWRIV0R6NGc1MXc5THQ4cGRKc2ZVSEdzQUZtQjdvWkhjZ0ZvaWVwTTZ0cjhsUU9CSnhSUDc5Z2FQRnc0cDE3UDh1Y2JFdFFaZ29iMENmZ0hKVE1nOUVVOXlLRWR4ZDIxWDBkYUtiV2JWY1JWWEQwdFZnczdmeXR4WlkxdWZkMjFFSC1mTmF3ZW9GeTFiRlkwMjVWbDdLdlR2cm1pQTk1S1ZsRktR?oc=5",
       "source": "Google News — Eagles",
       "published": 1761501980
+    },
+    {
+      "title": "Eagles activate WR Darius Cooper off Injured Reserve - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnd6RlhqNGxhVkpQbm5CYXRVU1FPZFJqRjhaam9DM0Fwekl1NzM1TkxFVWxiYzZSdEM5VlprTDE2cmIwNEdFczJDMzNyei1OQWJaa2E2eFltdWUzRGtnRDc1Y21JQ3VfbGszNmZUdzhFeFhyeW1Ea2xGYlF1M3VKNFUxNWJvVVVGekE5NGcxYVNVa0E?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761425404
     },
     {
       "title": "Eagles players embrace history, fans' connection to Kelly Green uniforms - Philadelphia Eagles",
@@ -181,16 +187,34 @@
       "published": 1761319600
     },
     {
+      "title": "Go Ahead Eagles 2-1 Aston Villa (Oct 23, 2025) Game Analysis - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2eFZXdXNWRzBLcTRzTzA3d2FHZTE5eXNXOWZJeF9xdEd6SDdHVzZRalhxNFVCczc1UjQ3M2JaSVJCZlJLMlhMbW9iUzdLajY4cGo5dTRxcGNHTnZEbE1j?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761245759
+    },
+    {
       "title": "Philadelphia Eagles Odds: Week 8 Spread, Futures, Props, & More - LegalSportsReport",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EVlNoamZXUmg5Q0hFNXBzd1BpajJkTkNKQTNZUmVPUHVLOWd0LXd0cmZ0aTdnZVFtRHNUeVRobFl6QkJJYzJnR01aTUp4WGQxQU40dVE1bVNjakpTbGJJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761245128
     },
     {
+      "title": "Eagles open WR Darius Cooper's practice window - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1NuQmxSc0NiTGN2S1dPU3p6UEJhWDRJZ3pTSGNIR3ZGdEF6Wko2WGFaU0tpbW9DZ0hVTnV4YmhFbjhMVzJzQzVVZnFXWmVWMzlVdWt6TnBLcnhUNFpuTGlhOXJERWIxQ2UyNjhPQk1mU2k1YnFxOVpob2RVRWxNTU9vTU1lM2w2?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761244344
+    },
+    {
       "title": "How injured is Landon Dickerson? Eagles Pro Bowl LG admitted the obvious as season nears halfway mark - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMRjl4NmlHNnFmTHc2WjJTNlNGS2htRjVONTF3ZFFvMDlTUU5SaFZsQWluRVlXMHQwSmF5N2hYckpuRjk0NFZ6djBlMHAzUmFKa2V0QkZ0UTB4QndNYzNJbHRmMVAtUXZzUmM3UEpQdlFhVURqSkZDcmJUemZNLTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761232888
+    },
+    {
+      "title": "Philadelphia Eagles’ Top Trade Deadline Priority Revealed - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk82NW5od1UxMTdjeGQzbHJGaktCWkFOMnNjT056SW45RDRaZHZ2Yk01MHJRcUtGX09YOHFaTmR3SkFxc0xGVTVqR0cwUXh4cHVvRzZWUHpoeFRGaUEwWEtRMTZjTWxydlBSeUNKNnN0N1NrU2VObUFXeWlyVjIxNU5BU0JjTEYzb1NzaFk4cWoyS3NUYlU3MUpTZ29UMVJVSmtB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761190500
     },
     {
       "title": "Brandon Graham details his decision to return to the Eagles - Philadelphia Eagles",
@@ -211,12 +235,6 @@
       "published": 1761172080
     },
     {
-      "title": "Philadelphia Eagles sign Sua Opeta - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ29nS1RFd1U3QVJ1eHp6Z0YzYUZrNU9zYzZfdlVIY1ZsUVZYQk1fSlhXS1ljcldCUklhaWVidTRsSmlWMVdfMUZjNW5pLVhBX0xDY2J6NThKcElFa3FOdFQwRjNRaWd5MUJuT3ZtUGNCNUp2OElLRlBFa01acXRjTXBnaVR6cFJ2MVlTckNkSUc0NjA3ZUZjeTU1cG1nYUt0WEhoTXZiRTlUY2h0QzRiZUtiQXBMZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761149222
-    },
-    {
       "title": "Bears vs. Eagles: How to watch Black Friday Football on Prime Video - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTk1Z3JBVmw0dTM4R3RfVTJMN2VHNUJwUlVXbk91ZEtfbHRhQko3SFd1UF9fX18ybFlCaVVpcWJ4RFQ1elZ0TnBiT2RURHRmMVV6TExtaGVPUksySWZFR0QxTEdOdENMOTlQaU5BakVoTXVkTklmNFNNdlhGWm9KUkt0UHYtRTk3NXQ5eXA3dHVpYjA?oc=5",
       "source": "Google News — Eagles",
@@ -229,10 +247,10 @@
       "published": 1761123687
     },
     {
-      "title": "Eagles release TE Jaheim Bell from the practice squad - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEdBSWl4eHhLbVdmTUVQZ0RWT1IzYmN3SXlzekFMblhXN0lxYlpIOG5OSGZjajlGM2JLNkpaRFI3T3Y3OGFlc2tIQ2k5NTBNVDBwdzhibktIODdaS1RSWFJFTER0cDVyZEVVcl9fenVZSHhRbmhSamhwZnl0cVR2N1RWU0ljdm04ei1hTUJWTUxMNjJJ?oc=5",
+      "title": "Eagles could target these 6 DEs, CBs at 2025 NFL trade deadline, even with Brandon Graham - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcV8xNlhSbzM0a0Q4YTZ3MnFHU0tLcWN3ai03cWZmZDhjejJ6R0RrcEticEg4d1JWamhCa0VVYjd6eW1KcXlwRWttQ2NpTXY4WWdPek53ellJemxqZlF0dDgtN3hPSUlZYUxHa3llcHRWQmh3aE5Nbkh1dG51VGVPQnc5UTlLYU10Mk5Fak80WWtyNFRBSnhxSmxBSlFnSG9YTFRMZVMtVTNZU19Qd2VTOHR6V3V5UWh3dlEzVTVBaWF5SHRRSWszZWZOOA?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761081116
+      "published": 1761121639
     },
     {
       "title": "Brandon Graham is out of retirement and back with the Eagles, seeking a 3rd Super Bowl - AP News",
@@ -241,10 +259,22 @@
       "published": 1761076620
     },
     {
+      "title": "Kevin Patullo Press Conference: October 21, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNamRneTVNLXlDaUk2V3JkYk9iSUh4WDAwclM4XzNwWXhZOVRMNEMzZWl5ZGdZRFNjaTZpcENWbWE3ZW5rR2VEcjV0RWVGV1FPdE5lU015VlhzVjhLLVBIXzBsU0pRTHFiZkxNVUlxSmg2S2E4Y1FWek1zSjFtMURmcXhxOHl3eWhuLXVxdVRQYko?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761065387
+    },
+    {
       "title": "Spadaro: Brandon Graham's return infuses a jolt of energy into first-place Eagles team - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVpCRmFTbE5ubTZfU0pDU1c5RXZVOHdlWG1xNEF2SE95RHlxRDZOU0dDMWtUTFhfTVl2U1hldzRhQkt5NjlmRHhwWENNR1E1a2RNOE9zYmVIZVc0RUdDSGxSUUR2YTNvNEVKcTEtRXBrSGhVZDRqWF9BaTNYUmp4N0FIam8?oc=5",
       "source": "Google News — Eagles",
       "published": 1761051884
+    },
+    {
+      "title": "Eagles High School Coach of the Week: Timmy Breaker, Glassboro High School - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0Zmd0R2eTAwSFhjVF9RVUVaWWhOaUJwU0xvUDJRaWdCd2JPY3BFQktZYXpaV3VlMTBEZV9zR2U0UmdiQkZucGMwX3A3TE5wVEJYS0Y2ZnA5UlVSZDFpMl9WWkNOTE1SZnhfbk5KbXpUenJVUkdTcHlUVi1zSlRrSUY5cktZVVAteG1hWnZIWHM4aklxbHJxSjA1b1JIaFJXdDNMUHZjWndlQ1lPc3ZYLXFB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761013783
     },
     {
       "title": "Jalen Hurts was perfect as the Eagles got back in the win column | Spadaro - Philadelphia Eagles",
@@ -253,22 +283,16 @@
       "published": 1760992781
     },
     {
+      "title": "Eagles vs. Vikings: 11 winners, 4 losers, and 7 IDKs - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenZDYlJLN2pvUmJscm02Z1RyTnFFNzVLVTRKRllQaTZKTGVYNmtqaFVWLUdUWWgwdVUyS2JXTmRvaW81S3BnbU82cnp2OVBKR2lTeTZ5cXVxcHNNX0Y4SWM3TkJWUzFpc0I3ZW9TdzBES1RVYWtnMHA0RFh0enJ6NTBsN1V0RFptcHlzanliZkp1LTNFYnpRYzhLNTJ2cTVURG5Gd3hmRGxRZG02TWUtT0packF1ZGhQSXljd3BaYy1VZ2ps?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760954333
+    },
+    {
       "title": "Graham ends retirement, agrees to rejoin Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem9CTE5Za3o0UXRsOWk5LTV2Tk5GQXlQZHZDVzl1SjJXNUxTanRhNlFWTGlLVVd2ZDRLLU0taGphUlBTRElmN2ROMUpPXzU1NTJvMlNxUnpIR2xiWDlZMmJGMXdfQURtYS1zRXVKQzU5NWJBOXM0TlZWWm5DdUY1S3hzWnNjMmZuMl9XVElidlRTcC13a2FlMEdLeGRObHUwdkZQdDk4eVpaQjdOTVpnU2l3?oc=5",
       "source": "Google News — Eagles",
       "published": 1760943600
-    },
-    {
-      "title": "Eagles 28-22 Vikings (Oct 19, 2025) Game Recap - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UamZWVWs1dm5HbTQ5R1FQZEp1RnZUVlF0Q0dyX25nc1F1UzFOdjctTTczQ25LQ2MyYWRhellXVGZ6SkRQOUtQRXotX2stdkxZSVJ6a3B0OWdrOEU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760913000
-    },
-    {
-      "title": "How to watch, stream and listen | Eagles at Vikings - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2lQREpqNDd4Z0xoOUNTdFdlUWRVMUZMLVZXb056ZXdSQkNRNnZPYUhIZEc4blNETTJJa2g4WkVsVWo4TlRZcWpRMEZXc0xTVHAxNGJLVjNZNnpUNndfdThlNnRBdnptbG0wUnVHamxVNUhkdWVoWTZyV2luV2YtZElkbUNpcVE3QnphQUJpQ0VYV1NNa2tv?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
     },
     {
       "title": "Eagles at Vikings Inactives - Philadelphia Eagles",
@@ -289,20 +313,14 @@
       "published": 1760857200
     },
     {
+      "title": "Game Highlights: Eagles 28, Vikings 22 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXQwM3JnVDZ3VDBXckt0S3dydWZVQWxJck94d2ZNamN6d2JLREt0VHlza19rdHlZZjRVMVd1WEFUWTdFRVgxNzBwMl9OMTRsUk5tRTltcjlkemZmbk9UV3NGRDY5d2thd0JwR3dHUXhZcXpBUjlQQUpVbWxhT2hoV0hmWUNJVHNqQzhiWUR6NFRyZWM?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760857200
+    },
+    {
       "title": "Spadaro: 10 observations from a historic victory over the Vikings - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkk5bWx6bUFmMUgyT2xYZTZVVndhSFlsMThydEpxeF8yY1RjaExJaktlTk9aZ0FuOEFpek43aV9qajJDNGk5OV9CYVhla0NoNEliSGs5T2JpSVJUZ2VfMEJGZWR6bm9MV2NFZDVaUUJWZHB2XzZHREszVE9yTTBrWGRkRHNiUzFRb0o4UldIV2ZUVkJSRTZPQnViMGptV3I0LWgtV1RVOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
-    },
-    {
-      "title": "Jalen Hurts, DeVonta Smith post historic showings in win over Vikings - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2VBcTZZN3pvMXRJNnkyMzJRQ2Rvc2pNUjZCaFRzNXVxOHptZzZnZzNxdDdxbS1JZkFXMG5HbnlRUGRnYUFYdF94b09XWDFpU09KU3Iyd2NZZWtQRzRhNmFxMTl0eVpkR05mdU5nTFpsR2tDVzVvSGhySjVhY1c5Uk5RQXFHam96cTRsdEpjUmUtSGRxTy1YUHZpWXZtc2F1cHpqc1I5dGZZeHFu?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
-    },
-    {
-      "title": "Computer model locks in Eagles vs. Vikings picks, score prediction for NFL Week 7 - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUU1yQ3ZVN0NjNjVnTV9tMGQ2cW1iZXJlUUsxRjRSdDBiSWJXQW1ubjZXMXFEMDAzQmh6blFNdXJicEhUZnVmU0tMWVl6R2tCdHRoSWM3cFFnczlScFZiZkh1RVNOdDZQRE1fOTR0Um5JcVBYUmNNb1BKanl5S1RmcUlieWxGaW1YTWtDTFdlNjhjYkp5QjlFOVZwendXeE9CSlhlTmhR?oc=5",
       "source": "Google News — Eagles",
       "published": 1760857200
     },
@@ -319,46 +337,28 @@
       "published": 1760857200
     },
     {
-      "title": "How to watch Eagles vs. Vikings: TV channel and streaming options for October 19 - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFB0bW4zU19IcHU0MkZiTkFIc0c1RGlyX2ozbFM3bElsTFpLUFNaU0ctSW1RLWVKYWctZFRPbTM0VGtUdWEzUEw0MllpTVdEbXF5RThGamR3Wm1TLVF4M2RYMVRpU3k5WFBWQjluS3NhNmxFOFdRY094T01VUHUxMzN0OW45NzNWZmZqZDJESHV6RUl3MjhDdVBmZmR6QV9rX2oxalpuWWhkZHRuSkhXLWMzZzY2UUJtZ2U2V1k3UlZ1Nlo4NUpDNjZDTQ?oc=5",
+      "title": "Vikings vs. Eagles Game Observations: Red Zone Woes & Big Plays Spoil Week 7 Return - Minnesota Vikings",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNel93NlgwclZhdHo4VHNsUm1QSEdjOHg5cmxHeVdHM0R5cllIbFQ2NXVGQ3FPX1RpZVpWLXBaTVBDQUVWRWh6akVkUk9jczM5cmFEcVF6SVliTzZuSjVPMFFGTC05cS1fOWJjeG1PMWM5STVlS2x4SVRlV285eGpDZmNPZjhhNm5QOVVxMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1760857200
     },
     {
-      "title": "Eagles vs. Vikings highlights: Jalen Hurts, Philly win thrilling NFL Week 7 game - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUhMSlVRWnVkRFBqSzNodmdqVHMtUW1SVWZ1aThWRWVoR0FaOGItOEc2VFRvSlo1b2h2S0VRc3NURWZFV0NmN0s2YnpEcE82UERpdUc4VEJveHVSMjF3Y0E3Z1ZRUC1QV216c0QyanVkaUZyWU01MXItaF9kMVc2Yjg3WEV4LVZkcDRRYlJXSmQ2WGhDZloycS14U3ZVTEhpdFBETGRGaHlCUGlycDdwT3hB?oc=5",
+      "title": "Highlights: Jalen Hurts' best plays from 3-TD game vs. Vikings Week 7 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDl3SFRmTDhTZXpubmk1WEpOUnNPaTluNm5FNXF1R2tCSC1SSjUwVVZ4dHUxSUlJeDlmdXREc0JMWWVnMk1FYzdpdDI5T3Ewd2hRakgyVFVhaEJBUnlJWmYtb1hqZlE0VE5Edl9naGJhTlFzekxFZUJwRlhUMjdVSTQ4RzBmSEU1RHJ4R0pjTk03MjN3UFhDeEltSWdjbktTV25uTWJwaHlZLTg?oc=5",
       "source": "Google News — Eagles",
       "published": 1760857200
     },
     {
-      "title": "Spadaro: 6 storylines to follow in Eagles at Vikings - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGFzaks0ODBXd1NTNmpwdV83dFUxQVEzLUFOalpRNjFoSzFkcE11Vzlxc3dJQjJlTUk2ei1HcDZHb0ZJZWZMeF9nZ2dtVjhiWFppNzJqY1UxYWtSRmdGR1lSQlgzZ1JMSWVuLWxfdG5reVBMaHJJS0Noc00wQmk1cjZFbUMzOWhCY1BGVHFGeUd3MVh3Unc?oc=5",
+      "title": "Hurts uncovers his 'swag,' helps Eagles stop skid - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXRJTlMyTk5Zby14cUg2TU5GdDZYcW1ld1lMZlFPRlBXdU5neHE5STg4OUdSR2N5S0dWRElsb3VqNGZwZEF0NDB2c3JYVEpZaE80M29sWDgyTHJfUWVUdkJkZWljdDlyeXpfN0ZXS3VreGxiRHRLcnZISHg1M1ZaNEhVTXA5R2lGQTNMbGk2VE8wZzhoeEkwNTB2MC1FSmdrUmVF?oc=5",
       "source": "Google News — Eagles",
-      "published": 1760770800
+      "published": 1760857200
     },
     {
-      "title": "Eagles elevate TE E.J. Jenkins for Sunday's game at Vikings - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEd2VnhVWFg5LXh1QV9uOWZJRUVmRExfZXBFUFRTQTVkV3gyVDlqNDQ4TFVZWTJIdHBxVEloS0hhd0FGV3BRc2RDT3c2aGFoWDdlYVJUZl8wMjBZdVBFdlhOQkdqdUdPZ2pXdDh3ZzN2aWtUd193Tm9WbEplOGRac25TZ01RR3BtbEM1djdrazJILXdZdXVn?oc=5",
+      "title": "Week 7 winners and losers: Nix, McCaffrey, Eagles WRs soar; Jeanty posts season low - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2JWTnJ2SmhzejB6d2ZEWVIxbGkxRzRDMVl4WFdvLXI4WjdXM3d5Yms5alVUajRNU3IxbDlabGVTcFJBLThlWktveVlRMHdJVW5pQ3duNnFGWi12a3hmQW9KbmpCcTA5eVprbWNhYnNuSm4tMEZZRmxEb1N0T1hzaFRxLU1EblhEdE94azgyRDhWSHBxc2pDQ0NjTjlVNXEzZ0w0YVBqM1l2eUNEa091bHVSdGh4ekFlTmIxWVZ3QWtTVFFMZmNmRGg4MHFibUFZYnh6UlhRMUJzZw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1760770800
-    },
-    {
-      "title": "Jalen Hurts' passing game has fallen short of what the Eagles need - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWURsa2h5c1A0Uk9PUlloLVVUTzIzZm9qeTcxUHJsUFlUaHNqLVh2QVdsQUxDTGhZV2g3dVl4NllwNVBvc25lR0tYNHBGYUQ0blB1SHJJbXVKLU9KeThaR0kwLVcyYXdyUVdPZmRNVV9fRzBsVVNqdGtoaHgtWmRRQ0N1MmN6Y1NWODJ1Yzk4dU16S1ZpbzREcHVnYVNyS1NNVlBGSWtFSklLaEtiVE9lb0oyZHl1UQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760770800
-    },
-    {
-      "title": "Eagles at Vikings Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnZkUXNmY2YzWHk2SVVtb3c4bzd0dTV1UDFvQWZGMzJLTTRRVV84X2VIZ1VaYXkwQ2I1SFVvTU1Nckdjc1NRQnY3cDJSdEVQV09kT1lOeUNHTjc0SUZWRGxPNUpWcFBqUDVJcUdzUVh5WlBBUzJGRnBWTVhKQnJxUkR4WFdySjYwTmNOOWNrTnF4MTh1YkhQQkFCTW5seGV0WEZCSG44a3lPbEtkV3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760684400
-    },
-    {
-      "title": "Carson Wentz will start at QB for Vikings | Eagles at Vikings Daily Updates - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFNrdXRENEllRVNxdXB6UU9tbjRpVHJGa0J6U0s3WlQtNEh4TkhuOV9JbXI1Ul9FNHZ2UjNJSVJsS0ZkZ2RPaTE5SjZ4RzhGekNRQUdUNXlibmFrVjFkS1VlRW5lZ2FiRmpIQVpnZUJXSEdvOHZXd2swSExZVVFpaC1SMDRVeld5Qkh2TmJDb2g?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760684400
+      "published": 1760857200
     },
     {
       "title": "Eagles' offense headlines struggling units that can be fixed; Jets' defense among those that are cooked - NFL.com",
@@ -367,46 +367,10 @@
       "published": 1760684400
     },
     {
-      "title": "Xavier Gipson explains refreshing mindset as he waits for chance with Eagles - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVlrVVhrYWlLcFVXSTE1Nk8tQVY2U2F5SXVhTW1zQlFHa1NnSEdlaGpCQ1FveEs0UG83MjgyZnM3cnRCTlZQUW4zOU52amtEZWkzb1VkQVlWNDcwVlFoLWplaVFlZmxaeldHVTJDc3dzWWkzeDNWcnpfdW9QLVdJdDJrbEsxdENwMktCWEZRaHVIR0hrV3NRMGpwVzMteVd1SlNVejZmcGoxRFZRLUhFUU9rTGtVc3BD0gHAAUFVX3lxTE9DRHNnRDRkTjJDSGk3TVhtUkpkZUxsbEUycTkzOW1TYi1tMmhLQklJbHl5em5pU1UzWEEycDNuQTJNTUZ6SWIwdWFHM1RtVVJHNHN1cGt0TVgtXzVKRFhsTHNUcGpQYUxMLTNxR0p3aEkzTktBMmNlbUFTZ2YwWVMyY1ZuYzlpZjRtcEo5Vy14aWhTTEJxang3R0RGU2taeF9HdUlNQlpWdGFnREd3RENtd0RNbzhGeTNycXM1dC1hWg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760684400
-    },
-    {
-      "title": "Eagles Locker Room Interviews: October 16, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWG9aSHB0MmRMWFBuVTFZeTl2eFNiNnlFRHVDeVNQWXJNQURBN1pEZ1l6ZGhwcXFtV0xMOHdDcFM4Mm9ISXlXTjcyWm93d3RmNXNyVmFBeTBMbXZmNlNmdDU5Uk1vNUtGay04Mkd6ZXItV3lFUnJld19KNTIxRGhhVnNYVU5iNkY5WFI3NGxXSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760598000
-    },
-    {
-      "title": "NFL Expert Picks: Forecasting Vikings vs. Eagles in Week 7 - Minnesota Vikings",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NOEdwZFJ6cTExS3FxcjNzZDVlSG9HMWFQYUp0MVR2aG5hTXBBU0dodDl5V1Z5d1JjbzRETjgzNXB0VHFlN2twYUExOURrV0FScWVfYU5rTkJDVlpVdXlzYTR3RldMN19tUmczeHoxVzUxQnF6UEg4VE1CQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760598000
-    },
-    {
       "title": "Week 7 NFL against-the-spread picks, predictions for every game: Eagles try to rebound vs. Vikings - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTm55T202bmlDWjV6UHBxLXhwZDAxQmV4WTNUbXgzSzRqRldtSjdWUzVLd3RvczdlQzVaUm5QME5tMWdDTi1BNlU2MVNBSm82bGFGdU5BYU84TnEtSmdSLXBsRkx0ckpLS1Zxb21YYTVZNUVZbEVGbTRZaUY4akJqcnZyRVpVTU1NeUtCV3k5V0NaLTJiWTlOMFFOTzRwVTBWMGY1N3pQT2VzRV83OHZvRlV6MXBtcm1zcXJFMG5oRU9US045aF82TzdPTFdWTXFOcl9jeE1BbTZjbVd0dmNTYQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1760598000
-    },
-    {
-      "title": "Eagles sign TE Jaheim Bell and DE Titus Leo to the practice squad - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUgzMThGUzQtYUN2dThYUUJWMGxKM3hTVFQzQjVPYW51Nm4wR2RGd2NyTUs1U2lGeEk3ajlkczZMU0hpWlEzU1d2Zkc5YlpkVjJ5MTVxZGRZemRHdEJEb3VGV211S2VfOS02eHZydDlCaVVKbDMwMzRzRURFdG9mWDgwclJheVpUWHZkcDhUMWhTTVpEMTM3eVVaLU8ycDQx?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760511600
-    },
-    {
-      "title": "How Eagles Autism Foundation tackles one of the largest issues in the neurodiverse community - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXF6OHBOeDRXRWNsWVB5S3NYRnJTenNhTXdud19hRHR4WmRxbUU1R3pMNk53UWpQazdZS1JuR1puRkRxWU5mRHdmaWMtU3VSVWM3Q19xZ3V0Qi05VEkyblEwNzZWX2k1WnAzdTIxRGZMWkdRU1Q0Z0x3U2RtZ1k3eU0yMFE1YjVUckF1dzZZcDRRLXBXMW4xT3Vxalk0bnRleXlFVks3YnZQSm5mdF94a2lLekdzWkszR1k3Q01UeEowXzkzdDlVcmRkNGM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760511600
-    },
-    {
-      "title": "Breitling named Proud Partner of Philadelphia Eagles - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNENqT0Q4aXNTMHVTQTk4VVRxTDljdVpQdkNHRk14ZkZlTklsQkZaY2VidG5tQVh5Y1p5T001TUkxdkhfcmVMbGpvS0tUenpIUk4yMVZXSDVqRnZacERMVU5oU3MydnFMR1BGOUVXWWVlSWJQZ1UwbzhORWQwMDNsYlR2aUJZelpFdWdabTdBYmtlUTBkRml3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760511600
     }
   ]
 }
