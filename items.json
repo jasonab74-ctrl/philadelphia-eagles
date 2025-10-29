@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-29T15:25:56.868081+00:00",
+  "updated_at": "2025-10-29T15:45:34.058047+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: A.J. Brown talks about his mindset",
+      "link": "https://www.bleedinggreennation.com/news/162374/eagles-news-a-j-brown-talks-about-his-mindset",
+      "source": "Bleeding Green Nation",
+      "published": 1761751501
+    },
     {
       "title": "Eagles Film Review: First time all year the offense felt balanced and sequenced well",
       "link": "https://www.bleedinggreennation.com/eagles-film-review/162275/eagles-film-review-first-time-all-year-the-offense-felt-balanced-and-sequenced-well",
@@ -23,12 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaE1zNXd5MWU5VzJpTGNGMVNlOWdjV3JDNE9RT1I5cWpwb2d1UmRlSWk0Mk1QaHBkMkNlVVBFUW4xbFZHeE9pZ011UzNzNHlwQzNqbmxCWWN1SmVwZDQzS0Fwa2tESjdFdHhTTTF3bTdBQ1RUdWJZU3B4NE9sQUlCZS1MaE14LWtlTF9HYVFzSkRQMXlxbXhPOFh6UEtSSGl1Q282NXBjYlRMQVhoQUUwVXdHMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1761685087
-    },
-    {
-      "title": "Why the Eagles really aren't Super Bowl contenders - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWXF3NXd2LW1sVkcyTmdaWURZbTlYNUZ1NC1EcVY1VEtPQzlMc1VGUUR5MUJ4bVZiR3V0WklvTlF2VG52U21wNUgwdmRUeUxLdkZDd1NOc1NHeG1pVFcyN0RoQnlWR09pVHJLNGdvUVZlckttUE52eE8wYnktTWtKXw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761684666
     },
     {
       "title": "Nick Sirianni talks Eagles bye week messaging",
@@ -109,12 +109,6 @@
       "published": 1761580541
     },
     {
-      "title": "Eagles News: Very encouraging performance by Kevin Patullo",
-      "link": "https://www.bleedinggreennation.com/news/162236/eagles-news-very-encouraging-performance-by-kevin-patullo",
-      "source": "Bleeding Green Nation",
-      "published": 1761577628
-    },
-    {
       "title": "Eagles News: Very encouraging performance by Kevin Patullo - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3pYN3RlQWZhTGtMWDhMTHRuV2txMzB4Ykoya0JwRU1FbTM2Q1J3Z0VlMFhlSFFsWS1EcjJ5UVdaNkMwZ21FMUZTVldvR25aUGdzUkFYcWRXWWxla0pIdW80WlZYRmhyWXVKZVltV0k1cXBmdGdfTWEyZUJwM3JiNDZaenVMN213dS04SUR0YjhBYmlOSE1PMThoMml5Z2dCVHVNV3pISDk?oc=5",
       "source": "Google News — Eagles",
@@ -125,6 +119,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWHhpLXNwRnlCSGM2WGR3MXMtNVJJRjhyaXI0Z0FldDhPektMU04yTlczZlJRZWVKdTJUOVR1bmJGamFfczJNM2MwWXBZTGhTUV9HYWI3b3FRZWtTMm1YbzNWSEJ3Y0ZFQzZ1MnpKem03VFctNzZtYjNYOXQwM0J3bGxQYlhDSDRSSlFqTG1jRERhM0ZUeUsxTGtrVnJBa2lIVmdsUjctTDBQZ0NHc0lMM1FkdzhpbXpqT0t2S3dHNjNmM3oxRThSTHB1bWMxaHhRUWxSYXVYSkpwWF9GY2xmMlBhbw?oc=5",
       "source": "Google News — Eagles",
       "published": 1761567680
+    },
+    {
+      "title": "The Eagles’ offense is suddenly surging. Could A.J. Brown be traded? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelgtbHZtbUlXaVkxRnFaQU45Y2lwUWc1OWNNYWlMeEZzS1JUQ2dFSVFxTW5Md2tIS3JNY3FublloN2ZXR1REWVlsS3hmZ3RuLW16NFpfd2MxM0VSLUR3RnhBc01RYVlNeklaVW5wYVF3N0VlWVlFMEY4dkl3WGVzblByakwwNTNSNkpMb01RLUE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761557498
     },
     {
       "title": "Eagles snap counts: Fred Johnson earning time in jumbo package - NBC Sports Philadelphia",
@@ -205,6 +205,18 @@
       "published": 1761319600
     },
     {
+      "title": "Go Ahead Eagles 2-1 Aston Villa (Oct 23, 2025) Game Analysis - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2eFZXdXNWRzBLcTRzTzA3d2FHZTE5eXNXOWZJeF9xdEd6SDdHVzZRalhxNFVCczc1UjQ3M2JaSVJCZlJLMlhMbW9iUzdLajY4cGo5dTRxcGNHTnZEbE1j?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761245759
+    },
+    {
+      "title": "Philadelphia Eagles Odds: Week 8 Spread, Futures, Props, & More - LegalSportsReport",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EVlNoamZXUmg5Q0hFNXBzd1BpajJkTkNKQTNZUmVPUHVLOWd0LXd0cmZ0aTdnZVFtRHNUeVRobFl6QkJJYzJnR01aTUp4WGQxQU40dVE1bVNjakpTbGJJ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761245128
+    },
+    {
       "title": "Eagles open WR Darius Cooper's practice window - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1NuQmxSc0NiTGN2S1dPU3p6UEJhWDRJZ3pTSGNIR3ZGdEF6Wko2WGFaU0tpbW9DZ0hVTnV4YmhFbjhMVzJzQzVVZnFXWmVWMzlVdWt6TnBLcnhUNFpuTGlhOXJERWIxQ2UyNjhPQk1mU2k1YnFxOVpob2RVRWxNTU9vTU1lM2w2?oc=5",
       "source": "Google News — Eagles",
@@ -227,6 +239,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlRVR3E5MlRjSS00dkdBUGk1LXZaQkwxMmxUcnFFeG9vamRlQ3M3OFFFM2VCYlM2MUZRLW5NTllxT2tfN3hzQVpHRnZEN3JCUTVoVGRrczVZS3Nxel9vMnBhODROYkdwV1lSUUNEWnExYjRlN3ZBODd6cjV6WGxQdExISU41NjQxMzRNQy01MA?oc=5",
       "source": "Google News — Eagles",
       "published": 1761174053
+    },
+    {
+      "title": "Graham back for chance of lifetime with Eagles - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUJDUk1kYUx6MjFGeEc5QldaV2d3RkxqUGw1UlV5eXdhVkl5UWVxX2VKUEl1ekphQlo0QVlQaUtfMVphZXRKQ1pnTDZIZ2V6X0pVTW5acmhydFpwZHl1LUVFTVd2dG4tbF9DeTNSWUcyVlJyUUFySldQVHJqNXMydDhILUdEdVF0ek9henhvcENjUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761172080
     },
     {
       "title": "Saquon Barkley says blame him for the Eagles' lackluster running attack - NBC Sports Philadelphia",
@@ -343,20 +361,8 @@
       "published": 1760857200
     },
     {
-      "title": "Week 7 winners and losers: Nix, McCaffrey, Eagles WRs soar; Jeanty posts season low - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2JWTnJ2SmhzejB6d2ZEWVIxbGkxRzRDMVl4WFdvLXI4WjdXM3d5Yms5alVUajRNU3IxbDlabGVTcFJBLThlWktveVlRMHdJVW5pQ3duNnFGWi12a3hmQW9KbmpCcTA5eVprbWNhYnNuSm4tMEZZRmxEb1N0T1hzaFRxLU1EblhEdE94azgyRDhWSHBxc2pDQ0NjTjlVNXEzZ0w0YVBqM1l2eUNEa091bHVSdGh4ekFlTmIxWVZ3QWtTVFFMZmNmRGg4MHFibUFZYnh6UlhRMUJzZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
-    },
-    {
       "title": "Eagles' offense headlines struggling units that can be fixed; Jets' defense among those that are cooked - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2RnRDVNY3NIcEZXSUYyM2l4ZWZyT0hMRVA3Vzd5RHpTTW13ODFLTFNQdmxzbjJoZlJNVFZMVUgxbU5zVWwtal95T1E2dGVXYTJaRWt2blUzaVFrY3N0ZlBmcFhKOHZ1dnJwZjFFa2t1SmtXeVRRam45MjFtUkdoQ3VrQ0ZWYW85aHpuNUVFZUtwZXo0U1RPWVZxdFN0MUJrZlk2ZFREeHdreEphZVVJLThWaGkwSjJFckdLcmxBS2M1ajg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760684400
-    },
-    {
-      "title": "Vikings to start Wentz vs. Eagles; McCarthy QB3 - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzFjME9rMWRnNC1PaTVRUUJORWtjOVJ4RWYwRldIX3MxeTFicGVfQWdEU2poejZMamdlMGNCcm9FejYwOWFDRWpDaWREWWxaSVExQkFCa2JyNnVZMGswcWdiLTgzN3dYWWQyZUhZbnlZbzhtd3RJVmljTWtxR1RzMS1yUDdZd05JaUkzLWY2OWlha1BHaDNBYXJyMWcxaGdMTXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1760684400
     },
