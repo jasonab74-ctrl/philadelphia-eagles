@@ -1,28 +1,16 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-30T20:24:22.959858+00:00",
+  "updated_at": "2025-10-30T20:42:36.430058+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
-      "title": "NFL Trade Rumors: “Howie Roseman and the Eagles are super hot after Myles Garrett”",
-      "link": "https://www.bleedinggreennation.com/news/162443/nfl-trade-rumors-howie-roseman-and-the-eagles-are-super-hot-after-myles-garrett",
-      "source": "Bleeding Green Nation",
-      "published": 1761849635
-    },
-    {
       "title": "Eagles Can Bolster More Than Just Defense At Trade Deadline - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTZRX0VUUl9PM29tN294M0VrUHNpVkZNaUVKSlgtbkl6aUhuSzNnUmlUdXJTVzU0OXpGaHE1QU9LVjAtX3JPN3VLS3NEeENiNFJHYllzMElhYXZYWm1yYm5GZndLaEpGc3E5cUZvbkRUQmt3NzV5UEdCNnB1Q0Rwa0J1YnE3amVLY2tabVlPU1k0Qy1nY3UyQkNodkpFWTczNGZGRnNyZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1761840344
-    },
-    {
-      "title": "Eagles News: Quinyon Mitchell has been one of the NFL’s very best cornerbacks this season",
-      "link": "https://www.bleedinggreennation.com/news/24480934/eagles-news-quinyon-mitchell-has-been-one-of-the-nfls-very-best-cornerbacks-this-season",
-      "source": "Bleeding Green Nation",
-      "published": 1761834314
     },
     {
       "title": "Eagles agree to acquire CB Michael Carter II from the Jets - Philadelphia Eagles",
@@ -127,6 +115,18 @@
       "published": 1761664388
     },
     {
+      "title": "Eagles OL Fred Johnson becomes the NFL’s ultimate 6th Man vs. Giants",
+      "link": "https://www.bleedinggreennation.com/eagles-film-review/162221/fred-johnson-six-offensive-linemen-scheme-analysis-kevin-patullo-offensive-coordinator",
+      "source": "Bleeding Green Nation",
+      "published": 1761660000
+    },
+    {
+      "title": "Eagles News: NFL trade deadline suggestions have Philadelphia landing cornerback help",
+      "link": "https://www.bleedinggreennation.com/news/162294/eagles-news-nfl-trade-deadline-suggestions-have-philadelphia-landing-cornerback-help",
+      "source": "Bleeding Green Nation",
+      "published": 1761649906
+    },
+    {
       "title": "Boo! Monsters Funday Football is Coming Dec. 8 Featuring Eagles-Chargers Set in the World of Pixar’s Iconic Monsters, Inc., The Third Annual Animated Monday Night Football Game Presented by ESPN, Disney, Pixar, NFL & Powered by NFL’s Next Gen Stat - ESPN Press Room",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZlJMd19NN2k1UmFzZ1d3ODRjQlZTTTVITk8yUzkyR3pkSWROM0pibTRDT0tyUnVuZVBSQzhac2hjZVk4NWJVVEljQ2FUeGxCUm94OFBhLXlldktaWkhqU3FvZEJ1M05XU2IzUS12czRVMjg0SVBHWnVSbm01VEtvcHpPT0FMdTByRzVDUUk1akpvUndzSlIyY19kVUNkMHhZTzY4Ynpya2NSY1lkYVdDYkEzTEtlNlNEcHp0SjIwZ2s5TWZMWFFNYkVUTHQ5eFIwTXdhWktpbDQzUVNSTF82aEY0Vml3QzV3bGlxXzYwNEJsaUhDc3pxR29IUS1uTW1Sb0UzdjJlbHJuT2lycDU3OHpyTzZtSDhMT2xZd19UNzQ1ZEFLYzgwdFY2OGxRWkZFNEpwdVZSTWdYbk9JUGl0eEpCUEluOXMzWDRwelhLS0J6ekNCOWFfaDkwVkVoUQ?oc=5",
       "source": "Google News — Eagles",
@@ -139,10 +139,10 @@
       "published": 1761615545
     },
     {
-      "title": "Eagles Could Get Even Scarier Before Week 10 - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXVVNmdvREpaam15Z2JhaDUxTjRrWlpJYUdGUGVUUXJDNU5ZMEh4OFZldVl5d1pVQzNGRHAzS0FVVGFpVGhqamRqV0ZYb3dXOW13aVdKV1hQV1FSZWxpV1EwN0ZqcXNaZjBMTnV0RHd3RU0zaVRESU5mUzNoWDFjQWxLMklLMUNRSWNYTw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761602400
+      "title": "Eagles rookie report card from the win over the Giants",
+      "link": "https://www.bleedinggreennation.com/general/162429/eagles-rookie-report-card-from-the-win-over-the-giants",
+      "source": "Bleeding Green Nation",
+      "published": 1761613860
     },
     {
       "title": "Eagles release CB Parry Nickerson from active roster, DE Titus Leo from practice squad - Philadelphia Eagles",
@@ -205,10 +205,22 @@
       "published": 1761519679
     },
     {
+      "title": "Nick Sirianni Postgame Locker Room Speech: Giants - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1pieXVMUW85ZWdYUVJtOGF0eXZTV2NrMkpXVFlNeVROeG5UUGJiM3hYM0FWRm9scG1lRmt0M3I4WGZKT3BoRnFObmlHWHVMY0FCaGVzaWZvb2VoNW5kWmhobHhzekNXV2luVVlMV2pLYnA2TGh3TUxRX1IyTjBCXzB6MW5jQ0x0dVlDUC1jelMwMzg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761518181
+    },
+    {
       "title": "Eagles Locker Room Interviews: October 26, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXN1M2FCM24zU3NqQ3VETHJzR3BIMWdMYjRrMVRsdFg0ajZvTi1FRHc2R1ZyMXlNeG1rQkZBT0IwNFhsc2R3UmdUN3FGMGlkTHlxS0s0LUZQMkk5akVMMEZQbUxzY2lOS1RHOHhQRm1uazQtUW1JREpTb091djZiVU91UmJmdlp0VHU5ZFZYQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761515481
+    },
+    {
+      "title": "Highlight: Jalyx Hunt buries Jaxson Dart on a third-down sack - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09nNE9PX1NwcmVFYUlTVzZadnJxRTd1ZjM4Q2l4Nl9NN3hOTGY5WFlZc19XZm1pb016Ym8yeTcxSGJJZmVfUVpQN3o5Z204T2JZM1dDaDYzVVY5aUpWRkFiQ1ZLN19RYjJkUjFJdjZMcF9XMWRubkdDMUI4VTBucVBuMkdCNGJQbHk5RWoxNVhLeVRsNVduOUFnUldMeUlXLXRz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761507980
     },
     {
       "title": "Eagles Tripped up at Louisville - Boston College Athletics",
@@ -235,6 +247,12 @@
       "published": 1761420600
     },
     {
+      "title": "Eagles' Jeffrey Lurie on 'managing noise,' plus other tidbits from owners at the Fall League Meeting - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVhiX2RLQVhKbzlnTVRNOUxjeTZvZEJiWlVZRkNtR01SUlYtZ3N2YjZKRXRUUk5XN3lWTjh2eXRJT18wbHdJT1p2a3N1UFJocUlUVmwzdnY3Nmk5eVJPaDUxMEpUUl9XdHhHNzlidERCaGY2MEVmemtaNEF6ckRYY3M1N1Q3NE1UOGhHeHR2RjJlV2xSZ0J6RFdZZl90YzFxNDFndHhYdFY5eGxicVQtcDNIeWhBNjNjTXlVMlBn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761397200
+    },
+    {
       "title": "Roob's Random Observations: Do the Eagles even need an offensive identity? - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWcxc3pOX0dsY3Y4VU44bWdoWmNrRTdBMnhoeVJnNmp1VUFFMTVwVUd4bk5wMHpZQVpGSXdGcGFlQ2dHb05uMDlESHdjWW01TDNfb2FkTFBsalViZXhCZzZJUzVETWhDcmVvNXRMbDUtYVkycnhkRTg2eDdIVWlKRzdVaGR4emRRVG50SzUtTWlPRk1ReW1BWnAwZ1hRZlpLVHU5Vmc0am9OTG5TUUdsNklrN0ZYakFqRmJz0gHDAUFVX3lxTFBpYjlqbjBYdDRXdDlJSVlsRzZHb3Y1ZXZod2hIWm5TYzBIbVNCU0d3eUp3Tlh4YkhHOWVLRmtZZjR0eTlUcEhLQzdIYVlFZDBOVlliUThEdURCV2JwSENaalFNRzVENjZmeWFucTN4ODRlUnEzQjVTbVdjLWQ0ekdZZk5IbUZiSXIxM2x5ZVBOSmJ3RC10c1VGTEdhUTZ0X2t6SDF6WjVPMzE4MDFsa1N6SkRlZkhBT1BhWkxzUkQxOC1aNA?oc=5",
       "source": "Google News — Eagles",
@@ -259,12 +277,6 @@
       "published": 1761319600
     },
     {
-      "title": "Go Ahead Eagles 2-1 Aston Villa (Oct 23, 2025) Game Analysis - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2eFZXdXNWRzBLcTRzTzA3d2FHZTE5eXNXOWZJeF9xdEd6SDdHVzZRalhxNFVCczc1UjQ3M2JaSVJCZlJLMlhMbW9iUzdLajY4cGo5dTRxcGNHTnZEbE1j?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761245759
-    },
-    {
       "title": "Eagles open WR Darius Cooper's practice window - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1NuQmxSc0NiTGN2S1dPU3p6UEJhWDRJZ3pTSGNIR3ZGdEF6Wko2WGFaU0tpbW9DZ0hVTnV4YmhFbjhMVzJzQzVVZnFXWmVWMzlVdWt6TnBLcnhUNFpuTGlhOXJERWIxQ2UyNjhPQk1mU2k1YnFxOVpob2RVRWxNTU9vTU1lM2w2?oc=5",
       "source": "Google News — Eagles",
@@ -275,12 +287,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMRjl4NmlHNnFmTHc2WjJTNlNGS2htRjVONTF3ZFFvMDlTUU5SaFZsQWluRVlXMHQwSmF5N2hYckpuRjk0NFZ6djBlMHAzUmFKa2V0QkZ0UTB4QndNYzNJbHRmMVAtUXZzUmM3UEpQdlFhVURqSkZDcmJUemZNLTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761232888
-    },
-    {
-      "title": "Eagles Are Getting Much-Needed Boost At Cornerback - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEJzNlJEb1NlWWgyU1cyRjNSUFY5ZHhGeHZZdzV6RFZwUHVZbW9FYmZhRGhoa2hIbldYb1FDNU5EcjMxMHJXQTl6cTFxMERla1AxUlFxYkFDZlQyT3VCR2M3M0NjMG1YaWNwM01kYm4tbU5paTFHZUxjaERJUjlKSDdLamhLZ015RENQTkM0a3lMUGF0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761152138
     },
     {
       "title": "Brandon Graham details his decision to return to the Eagles - Philadelphia Eagles",
@@ -313,12 +319,6 @@
       "published": 1761116400
     },
     {
-      "title": "Eagles could target these 6 DEs, CBs at 2025 NFL trade deadline, even with Brandon Graham - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcV8xNlhSbzM0a0Q4YTZ3MnFHU0tLcWN3ai03cWZmZDhjejJ6R0RrcEticEg4d1JWamhCa0VVYjd6eW1KcXlwRWttQ2NpTXY4WWdPek53ellJemxqZlF0dDgtN3hPSUlZYUxHa3llcHRWQmh3aE5Nbkh1dG51VGVPQnc5UTlLYU10Mk5Fak80WWtyNFRBSnhxSmxBSlFnSG9YTFRMZVMtVTNZU19Qd2VTOHR6V3V5UWh3dlEzVTVBaWF5SHRRSWszZWZOOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761116400
-    },
-    {
       "title": "Spadaro: Brandon Graham's return infuses a jolt of energy into first-place Eagles team - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVpCRmFTbE5ubTZfU0pDU1c5RXZVOHdlWG1xNEF2SE95RHlxRDZOU0dDMWtUTFhfTVl2U1hldzRhQkt5NjlmRHhwWENNR1E1a2RNOE9zYmVIZVc0RUdDSGxSUUR2YTNvNEVKcTEtRXBrSGhVZDRqWF9BaTNYUmp4N0FIam8?oc=5",
       "source": "Google News — Eagles",
@@ -331,14 +331,14 @@
       "published": 1761030000
     },
     {
-      "title": "Graham ends retirement, agrees to rejoin Eagles - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem9CTE5Za3o0UXRsOWk5LTV2Tk5GQXlQZHZDVzl1SjJXNUxTanRhNlFWTGlLVVd2ZDRLLU0taGphUlBTRElmN2ROMUpPXzU1NTJvMlNxUnpIR2xiWDlZMmJGMXdfQURtYS1zRXVKQzU5NWJBOXM0TlZWWm5DdUY1S3hzWnNjMmZuMl9XVElidlRTcC13a2FlMEdLeGRObHUwdkZQdDk4eVpaQjdOTVpnU2l3?oc=5",
+      "title": "Jalen Hurts was perfect as the Eagles got back in the win column | Spadaro - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDQ2bm5ZUDJoVTFrTGg2ay1ZTEEyaWczbW0yd01xdlkycFk5OW1LVVc3alBlNFFGaC04V0thVW5kTFh3ZmJUNzcta3pmVmFMc0I3bW5oQkRBWmNBSlBLc3ZxZnBwZUVMMWFlVVVSUDI5S2dYOHZSWUVRTW55d2hFRDkzcWVyQy0wZUpCWVVMc1p6b0xmOGEwQm1fS01nTXdrV01Pcnh5akxuUDd4SWJXU2JB?oc=5",
       "source": "Google News — Eagles",
       "published": 1760943600
     },
     {
-      "title": "Jalen Hurts was perfect as the Eagles got back in the win column | Spadaro - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDQ2bm5ZUDJoVTFrTGg2ay1ZTEEyaWczbW0yd01xdlkycFk5OW1LVVc3alBlNFFGaC04V0thVW5kTFh3ZmJUNzcta3pmVmFMc0I3bW5oQkRBWmNBSlBLc3ZxZnBwZUVMMWFlVVVSUDI5S2dYOHZSWUVRTW55d2hFRDkzcWVyQy0wZUpCWVVMc1p6b0xmOGEwQm1fS01nTXdrV01Pcnh5akxuUDd4SWJXU2JB?oc=5",
+      "title": "Graham ends retirement, agrees to rejoin Eagles - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem9CTE5Za3o0UXRsOWk5LTV2Tk5GQXlQZHZDVzl1SjJXNUxTanRhNlFWTGlLVVd2ZDRLLU0taGphUlBTRElmN2ROMUpPXzU1NTJvMlNxUnpIR2xiWDlZMmJGMXdfQURtYS1zRXVKQzU5NWJBOXM0TlZWWm5DdUY1S3hzWnNjMmZuMl9XVElidlRTcC13a2FlMEdLeGRObHUwdkZQdDk4eVpaQjdOTVpnU2l3?oc=5",
       "source": "Google News — Eagles",
       "published": 1760943600
     },
@@ -369,12 +369,6 @@
     {
       "title": "Highlights: Jalen Hurts' best plays from 3-TD game vs. Vikings Week 7 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDl3SFRmTDhTZXpubmk1WEpOUnNPaTluNm5FNXF1R2tCSC1SSjUwVVZ4dHUxSUlJeDlmdXREc0JMWWVnMk1FYzdpdDI5T3Ewd2hRakgyVFVhaEJBUnlJWmYtb1hqZlE0VE5Edl9naGJhTlFzekxFZUJwRlhUMjdVSTQ4RzBmSEU1RHJ4R0pjTk03MjN3UFhDeEltSWdjbktTV25uTWJwaHlZLTg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1760857200
-    },
-    {
-      "title": "Hurts uncovers his 'swag,' helps Eagles stop skid - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXRJTlMyTk5Zby14cUg2TU5GdDZYcW1ld1lMZlFPRlBXdU5neHE5STg4OUdSR2N5S0dWRElsb3VqNGZwZEF0NDB2c3JYVEpZaE80M29sWDgyTHJfUWVUdkJkZWljdDlyeXpfN0ZXS3VreGxiRHRLcnZISHg1M1ZaNEhVTXA5R2lGQTNMbGk2VE8wZzhoeEkwNTB2MC1FSmdrUmVF?oc=5",
       "source": "Google News — Eagles",
       "published": 1760857200
     },
