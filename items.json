@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-10-31T05:42:52.627220+00:00",
+  "updated_at": "2025-10-31T06:33:24.522414+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -67,12 +67,6 @@
       "published": 1761768974
     },
     {
-      "title": "Eagles, Jets Reportedly Swap CB Michael Carter II, WR John Metchie in Trade - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclc1VWQ3NlRyY3hINkZiREViLUJVRFFtclJMbmc2VlZMcE5zOWgzcGZjaDZWN0NIMXhmclNZMDJWZUF5R0pZc2R1S3lUY1pTNmE5ZXNaQ01OaUNQc0Z2ZEpqdHZlbmpXaW4tdGlZUUUxR0h6MzV6NnA1Wm1iSF9qNVh3N0FieFhsT2pMdE9FLVJTamZDcjBkTE1Dall4X21WQzQxZk11b09vdjZHTU9nQWx3WdIBswFBVV95cUxPYl9QUkNyX0tjME5Jd09vdVpHS09naWJDcUVuM2lEWUNZekw4dDhhZUkyMkh5a095enctX1JKMTdZcFZub3J5ZjRrSEtYVDd4aTNaV2FwcU9SMkFfaGNERU52WnMtU2xlSVozTm5pbTNhZ0p2aml5c21oR2p3b2FQdkNyU1FWZzZ0VC1sZWtxTW9teENaMm9ZWDRGN2twcHVibmZNMElSQzJKaE1FcVllQTFTWQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761767495
-    },
-    {
       "title": "Eagles trading WR John Metchie III to Jets for CB Michael Carter II - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qT2ZMcUxvOTM5SnhuQkQySjJmaFRPVElOVXhnZnJSblBMV2NTLXdjQ2RUMDhTX1h0cDlLVFdoOGkzT0ZMUENWUUZXNHdPdkNRTTJLdFVYbU1EZm5RYmg2aFFxbVA2T1ZCcGVyM2s5V1J0ZzYyUGhfd2hPQXc2Zw?oc=5",
       "source": "Google News — Eagles",
@@ -107,6 +101,12 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGtZbnFLRkJXbTExVnpHMWhOenFPRm1qWVdHd2dwMzZKV2c4WmxEeHo5aF9nXzEzY09vMHVVM2wtTDE4TDFKVmFtRGoydUc0VUhrNXRubWlFWjk4eXVEdjNqTjNIbW1rdElsMWZXM3g1cHdvdi13X19nWVZYbWQ1MEV6R1dwME1HeEU2T2dKem94Z0FjWVJBbF90YlhHeE45NXNsVHdSNTA0dFJlRzAtMTRtTmEySXZsTXJtWFkyVmM3V3prdXfSAc4BQVVfeXFMTXdJb2xRMW1vaGF3VE0tanFPeERacWFKZmNlMU9McTVEZEdBX0hFUFpzZERjZUxqYV9zNEZHX3FmNElaV3RnWG5VSEtHZXpxbVdUZVg1UWVORDNtNjRoLWFfSXlDWHFTZEpWXzZlQ19ZZzFrb2FHR0l4ZzE4Tl93SV9iblgteDZPQXI0cGkxV0VMbmZyaEFNakg5T1FodFcwUlZrZzAwelZlZFlaUDh3cm5QaDI0UFNMX2ZZandHbFVBb3ZTUWhwZ01PM3FoM1E?oc=5",
       "source": "Google News — Eagles",
       "published": 1761735600
+    },
+    {
+      "title": "Eagles PFF grades: Best and worst performers at the bye week - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEtIOHR0S2NSTEtYV0NlbVlXRE5SUjloTmZZclFNYVBLQkc0bUhjd1ZUX1FlbzYzMTEteFhyN2Z5NWdHRncxdWYyU2o4eHdSUktCb0xldzZoRkd2cTR5UmlvSXdzS2xKMmhtMVhqZndKcTZUdTlFZ3BNQVBmUnNDMHlLSmk3NkhoLTA0aTRjSjlxUHJ3N0pWMkhwTmdHLS1YdlV4RTlHX01JZ1hJVlQxVjMzaE9TTHA1N3JDcGZWY2VNeEpVcUZ3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761734204
     },
     {
       "title": "3 major trades the Eagles should make before next week’s deadline - PennLive.com",
@@ -211,7 +211,7 @@
       "published": 1761541080
     },
     {
-      "title": "Eagles' Saquon Barkley 'finally' breaks out with 150-yard day - ESPN",
+      "title": "Eagles' Barkley 'finally' breaks out with 150 yards - ESPN",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDBsN3lzUmU5MUpWa0draFhUd2N6TjBsU0pjSVhYdHNMZkxndlJ3UFk2MkVJTXNYaHdBUnVsQ0R3VHBMc1dyR2dRNlhCQ3o1WW1UbWJENUlqMjBVUkxPdEEzRURBVmROX1pCRDlUU21ja2lVaWFyUmppN3VlcU1pLXdud2VsQmVYM2RrdlN3NA?oc=5",
       "source": "Google News — Eagles",
       "published": 1761520860
@@ -325,6 +325,12 @@
       "published": 1761116400
     },
     {
+      "title": "Saquon Barkley says blame him for the Eagles' lackluster running attack - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGI1WlktMnZqNVRsNEtaelB1eGN5SFIxUzhCM0lhcThWX2dhVks0LV9SUVRPUk5NSDY4c3ZXSEhVLUVZd0FsS1VRUlRqT2EtX1VTOWlBQzBVZzAxeFhqQk1VOUtPeG9TRHloUkFqbVdTNXRjc0ZVUWVsVWRwd3MyNkVzOW5iNno1UV9UdER6ZW9RaWdsS0N3YXZxVkhxMEpfVi1JcTU4VXdKS190VW5SN0VR0gG6AUFVX3lxTFBGekNWdXM5WU5HMGZkWmM0VjNwbEZrMzlZNS1NaHZ4TlpCOTRleVlLMTluTFJ1TXVCYWRCbjRrdkFqVFl4QWd3Y19tOC1DRzFZZzhNbEZ3emVHbHlNaENQanpoRXhENFJ1dHNjMk9GVzN3dkFuRzh5Rk9qdzN1ME1JVThHRWdIWVE1LTJUSHUzdzRZcVA0RHJ1Tm1WTElrOG0teFN6OHZRMU4tNXlpbXM3QVdlWnlZWEVxQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761116400
+    },
+    {
       "title": "Spadaro: Brandon Graham's return infuses a jolt of energy into first-place Eagles team - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVpCRmFTbE5ubTZfU0pDU1c5RXZVOHdlWG1xNEF2SE95RHlxRDZOU0dDMWtUTFhfTVl2U1hldzRhQkt5NjlmRHhwWENNR1E1a2RNOE9zYmVIZVc0RUdDSGxSUUR2YTNvNEVKcTEtRXBrSGhVZDRqWF9BaTNYUmp4N0FIam8?oc=5",
       "source": "Google News — Eagles",
@@ -381,6 +387,12 @@
     {
       "title": "Highlights: Jalen Hurts' best plays from 3-TD game vs. Vikings Week 7 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDl3SFRmTDhTZXpubmk1WEpOUnNPaTluNm5FNXF1R2tCSC1SSjUwVVZ4dHUxSUlJeDlmdXREc0JMWWVnMk1FYzdpdDI5T3Ewd2hRakgyVFVhaEJBUnlJWmYtb1hqZlE0VE5Edl9naGJhTlFzekxFZUJwRlhUMjdVSTQ4RzBmSEU1RHJ4R0pjTk03MjN3UFhDeEltSWdjbktTV25uTWJwaHlZLTg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1760857200
+    },
+    {
+      "title": "Hurts uncovers his 'swag,' helps Eagles stop skid - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXRJTlMyTk5Zby14cUg2TU5GdDZYcW1ld1lMZlFPRlBXdU5neHE5STg4OUdSR2N5S0dWRElsb3VqNGZwZEF0NDB2c3JYVEpZaE80M29sWDgyTHJfUWVUdkJkZWljdDlyeXpfN0ZXS3VreGxiRHRLcnZISHg1M1ZaNEhVTXA5R2lGQTNMbGk2VE8wZzhoeEkwNTB2MC1FSmdrUmVF?oc=5",
       "source": "Google News — Eagles",
       "published": 1760857200
     }
