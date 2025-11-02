@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-02T23:19:09.450889+00:00",
+  "updated_at": "2025-11-02T23:38:30.586936+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Tucker Kraft injury will leave Packers without top tight end against Eagles",
+      "link": "https://www.bleedinggreennation.com/general/162661/eagles-could-face-packers-without-their-start-tight-end-tucker-kraft-injury-news",
+      "source": "Bleeding Green Nation",
+      "published": 1762124025
+    },
     {
       "title": "Vic Fangio talks Eagles’ cornerback room depth and options",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/162305/vic-fangio-talks-eagles-cornerback-room-cooper-dejean-michael-carter-trade-impact-nfl",
@@ -95,12 +101,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVUlRaW9kMDR5d05zNTFOOThHbFNKeEpjSXJZME5qb2h5OEhuN1NOZUpid29Xcks3UVEtenhDQ2ZUOUNYU1R1QWNVdkw1d2d6ZjM4bXBjU0Yxb1FKWVp6ZXNGWmNLRjd2QmV2clI5QUhpTkExSDhPU3Z2ZHhRNFB2MmtIbHQzcVRLdVVGMjQ0N19LcExjLVE?oc=5",
       "source": "Google News — Eagles",
       "published": 1762037220
-    },
-    {
-      "title": "Eagles-Ravens trade: Philadelphia acquires CB Jaire Alexander",
-      "link": "https://www.bleedinggreennation.com/news/162567/eagles-ravens-trade-philadelphia-acquires-cb-jaire-alexander",
-      "source": "Bleeding Green Nation",
-      "published": 1762036864
     },
     {
       "title": "Eagles Acquire Two-Time Pro Bowl CB - Sports Illustrated",
@@ -211,6 +211,12 @@
       "published": 1761753791
     },
     {
+      "title": "Eagles RB Could Be On Move Before Trade Deadline - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGFwN216UE5PTktZZnozTjMtNy13aG5zZWZwcGdHRUZnbHJBaEs2V215bzRZdTZkcFRjd0JMblcydURSanRFbFlnN1d0ZlpTX25iLTlDWnd2VHROSEs3OWQteDhpM2dlWlBTc1VqUnRUVzlXQ3J0bDgyMkVCcWNtU3lkbWloVjVISmlKQWE1Um1xRmhWMWpiVg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761747195
+    },
+    {
       "title": "Eagles midterm grades by position at the bye week in 2025 - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGtZbnFLRkJXbTExVnpHMWhOenFPRm1qWVdHd2dwMzZKV2c4WmxEeHo5aF9nXzEzY09vMHVVM2wtTDE4TDFKVmFtRGoydUc0VUhrNXRubWlFWjk4eXVEdjNqTjNIbW1rdElsMWZXM3g1cHdvdi13X19nWVZYbWQ1MEV6R1dwME1HeEU2T2dKem94Z0FjWVJBbF90YlhHeE45NXNsVHdSNTA0dFJlRzAtMTRtTmEySXZsTXJtWFkyVmM3V3prdXfSAc4BQVVfeXFMTXdJb2xRMW1vaGF3VE0tanFPeERacWFKZmNlMU9McTVEZEdBX0hFUFpzZERjZUxqYV9zNEZHX3FmNElaV3RnWG5VSEtHZXpxbVdUZVg1UWVORDNtNjRoLWFfSXlDWHFTZEpWXzZlQ19ZZzFrb2FHR0l4ZzE4Tl93SV9iblgteDZPQXI0cGkxV0VMbmZyaEFNakg5T1FodFcwUlZrZzAwelZlZFlaUDh3cm5QaDI0UFNMX2ZZandHbFVBb3ZTUWhwZ01PM3FoM1E?oc=5",
       "source": "Google News — Eagles",
@@ -257,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1ZwalVnV0V1cnQyZ3ZBcTBJejZQVWxzRllZTUdyZDhTMnYwSFFBZ2VLM19FLV9icWxSNzRfNjE2ZkJ0UmMyWFdlYlk2THdDcktWOU1sR2hSdHU2RHZ1T3lsOU9SRGVOZWZpU1hZcG15OEh0TERSTzVvR0sxdXh3M19jS3NUZVpWS2tDY18zQWh4T2V1LXlTVW1n?oc=5",
       "source": "Google News — Eagles",
       "published": 1761664388
-    },
-    {
-      "title": "Eagles are about to get even better and here’s exactly how it’s happening - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3M2RXlxamhVVWZNT0tYWUhGczJ0angzRFN4YlloclB1cmZtY25DTmpBU2lFNmhBMEI0ZEpSMXVIMlU1a3IzcHRzVERhQjlrek9OLWY3Mmh1V0lVdzVpZVJGTDhVOUtSQ1dta0gwV05OTENzdUl5YVFBclNqaEg0Ny1Kam9IOGYweUI2bjFlenNtYkNVZl9GU3dGVmlCczdtSjQ4NndpdHJsd0xFa05n0gHDAUFVX3lxTFAwYmZxZkpycDFVM3BmV0FIbnNVN3duR2d0WmZYM2lVSWNKdl9GNnJvUVoxcVlaazNyblBhNGdhRVJYZGMxaUxwaGlDd2tCXzZPMWZoSGdlMHgzNm81NnBWdDF6aHlBVk16OTdUbkg1VTV3dnFLR3pzTGhGczdwaHRZcE5FdU00eTZHY1VjVFlZQllkcXFyR1h5MFlBWF84UjVQR3BJVDlYclIxUHNfMVJXcUJkbF9kY3Bha3hCV0NYSjVSQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761663720
     },
     {
       "title": "Bargain edge rushers who could interest the Eagles at the NFL trade deadline - Eagles Wire",
