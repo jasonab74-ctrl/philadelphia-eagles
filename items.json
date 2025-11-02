@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-02T20:39:28.482768+00:00",
+  "updated_at": "2025-11-02T21:17:32.738906+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "NFL Week 9 Late Games",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/162646/nfl-week-9-late-game-information-channel-stream-links-thread-chiefs-bills",
+      "source": "Bleeding Green Nation",
+      "published": 1762117200
+    },
     {
       "title": "NFL Trade Deadline: Eagles rumor tracker",
       "link": "https://www.bleedinggreennation.com/news/162300/nfl-trade-deadline-eagles-tracker-news-updates-rumors",
@@ -145,12 +151,6 @@
       "published": 1762018682
     },
     {
-      "title": "Eagles’ Nakobe Dean named Week 9 NFLPA Community MVP",
-      "link": "https://www.bleedinggreennation.com/news/162528/eagles-nakobe-dean-named-week-9-nflpa-community-mvp",
-      "source": "Bleeding Green Nation",
-      "published": 1762011746
-    },
-    {
       "title": "Two Star Targets Emerging For Eagles - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1dNaUJnay01TW9VdmwtV05qZnluaFVxVk1fOHJFTVF6YXl1UVZtTF9feERCRmF2RUg2SWJ4Mk1hYlJrV3hVWExWY1AxOUNhY3EwU0pCMm1oLXJldU9Bb3NBUWw4LUs0bXhNbFBhTmRCWTRzRERZazlleEFRM3dlblR3VnN2N0dT?oc=5",
       "source": "Google News — Eagles",
@@ -175,18 +175,6 @@
       "published": 1761894000
     },
     {
-      "title": "More moves from the Eagles are expected before the trade deadline - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTZFc29aRXVtRDJUcWlja2ZOb3ZrX0RuUko2OFhaUkJCcDhXNzQ5Wk5kcVBnTDZoQnNMNU1ESXd2SFkyQlptYVUzVWl0b2x5UzRnLXU3MXVnR0RyVkxpMGQ0REpHNWFDWFgwVFVUTGd1QnlHZTBjUndoRWVtUTVwT3c3QVdWcExaenBNcS04WThLSTJieUpFWFNoVDk2M1BzY1lCazlYUVV2VDJvT1B6dmMzTXR3ZzJmcmFzQm84U1piMHpjdW15WDV2NC1RZkZWam5jbGg4RGVmR3Y5ekE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761847742
-    },
-    {
-      "title": "Eagles Can Bolster More Than Just Defense At Trade Deadline - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTZRX0VUUl9PM29tN294M0VrUHNpVkZNaUVKSlgtbkl6aUhuSzNnUmlUdXJTVzU0OXpGaHE1QU9LVjAtX3JPN3VLS3NEeENiNFJHYllzMElhYXZYWm1yYm5GZndLaEpGc3E5cUZvbkRUQmt3NzV5UEdCNnB1Q0Rwa0J1YnE3amVLY2tabVlPU1k0Qy1nY3UyQkNodkpFWTczNGZGRnNyZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761840344
-    },
-    {
       "title": "5 under-the-radar trades the Eagles should consider before NFL deadline - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWXdoa0pHZDdKSXJFNG05RmRQWktqOHoxTi1aT2ZmNjFTUmlhbWV0WHFhQWV2VHo1S0xHeXM2UVR0cWZpSEl5VnJvZlkwS3JaeHQzSm5scWRWamN3MGF5c1ViSnd5ZE8zOW5UOF8tT3RwU25WRFhkc0NwNzBGakh0RGRRREE4LTZlb1lJUVlER2ZXeVdtd1lFcG1RcHZaSU9NX3Y2czNfSjVUdENSU05JVkJnTHBHVGJobzlJdjUtS0tDZXl3RHJB0gHbAUFVX3lxTFB6Rmc3TnIxNURQQWxUWHZ2SldBYjhwZU1IMjMxSEx6Nm9peVVEaGQ0djdJSFlmdTNVMkwxVUZtNjhweEZjbEFZQUU2Qk8xbXB3X0t6YU5Hb1F3V1NHcy1iR2tRcXg2SzIydFk2VEhIZkUxV3pLRG8zS2EtdjBXOFdTanRBNG0xcUI5ZkZLZl9fdkRtRnQxOFhoUS1ON083YjRzWUpDY2lnbktHNTJBUWVIZ3czSWJ2VExqa1NkV0h0RHZPaFozeTNTc05QcE5MZXNQUERtVXA0UE1fVQ?oc=5",
       "source": "Google News — Eagles",
@@ -205,10 +193,16 @@
       "published": 1761770220
     },
     {
-      "title": "Eagles acquire slot corner who could allow Cooper DeJean to move outside - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGpoX1RLVjMwYTFSaHZINTloZktCVmpDVVZ5NVR4Ylh3cHlmb3Mzci1BbGhCMEp1Wl83bmlFR3NBd0x2VzBZZV9MWnotT2Z6WWN1WXZCVnJzeXJDOUo5aFhQN0JJeTF2QnZ5VEJMVXJwMGc2eHZCa2FFM3ZRV2lUeFlzYkdJYllpclpzRHhYQlVKNzdjOVhfRXc4RnlHMkJMc01STnhNZGRSRHIwOTNRRjBfb19VQmFxUk1CRFpCQXhlYmpC0gHMAUFVX3lxTE1ucjJUbmg1cFJVX3pDeTY3Y053WElnakFFc1lmX2Z2YXgzZUtrOEdocVFMUm4zaC04b1I4SkRBQ0V5UGhraU05UkxHbWFfRHBHNUVrMXJyRXJ2Yno1bGhrSWdCd3FhVGJMRlZpTHRuUVFJWTBmTUNtSV9rX0dnYkZGM1NTbE80SzFIV1hfaGJ3THZreU9zUUxIRTlMMGpXdGtDSDN3NEkwX291VS1oY3JJc2lkcW1LM3FPeXpkT1dKWi15cXpLaElqRXB3Ng?oc=5",
+      "title": "Eagles acquire slot corner who could allow Cooper DeJean to move outside - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWFFbkUyRHhHRFRBc1UzR0pwZ1ZqdEEtaHJmamphNXNKRnEyVU5TTy14QVFHX1ZNU2JfZ2NmVUQtZzlNOVdQY3FiN3ZISUFWSHE0cEdGYTc0Y1RRMm5odWs0UHc3NmdJTjhkWVN4WUpyZEJFN2tEdm0zeGFrZm03azJack1iV0ZQVlhrZmFIU1QySEdtdjdvQjR1TVcxX0ZiQWRIZjJNb0xkTnRRNFFZaWhPRlJCVm1IVzNz0gHDAUFVX3lxTE51VVdGcHB6Rm9RcTFZblJfRUNCR1dEYmxoemJEeFdmNEpzeDdXYTgwMEFrbmc3dUNKWEpwLXhNcmpZbmtLOXZaa2NNV0xCNzJkRngtMXdLajh1emRBaHg5aWc2cEd2RWEwMUxhWTVZYXE3NXNhTDFydWE2bmFTSzlJaGVUdXhmMTg2Nm9OZVY3c3JPZXJkOXFWNk5aUWF1TlVoNzJ3enFDS1NuNTV5eWp3LUQxdXhKZGpsNk54aEQ3REN6dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1761769247
+    },
+    {
+      "title": "Eagles trade for Jets' CB Michael Carter. Analysis, grade, what it means for Cooper DeJean - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFhWTTlfUXdWd21oMzFSS0VJWW50ZWplenB4bm9XdXRWdlg4LWNQNzNrREVPb0JCMnhtMGRGaHdZaDMwam15V1dpaHl5aXA5ZlRuV0hDeGZqNVhyOEVfZk5UdUdpN0lxSmtZWE5KRTBERkcyU0VsZ0tBcklxZVN0czE0eWExTnBHelJMMzJzZlFHRWp3Z2NiS0VhT3B6Si0zVlFRUldySGh1blVXYkZsQzJkN0t2R2ZpcjhGVmM4TDdWbUFJM3BFdjhOZ25FLTNOc0FfRTNacXRhZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761768974
     },
     {
       "title": "Eagles trading WR John Metchie III to Jets for CB Michael Carter II - NFL.com",
@@ -275,6 +269,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3M2RXlxamhVVWZNT0tYWUhGczJ0angzRFN4YlloclB1cmZtY25DTmpBU2lFNmhBMEI0ZEpSMXVIMlU1a3IzcHRzVERhQjlrek9OLWY3Mmh1V0lVdzVpZVJGTDhVOUtSQ1dta0gwV05OTENzdUl5YVFBclNqaEg0Ny1Kam9IOGYweUI2bjFlenNtYkNVZl9GU3dGVmlCczdtSjQ4NndpdHJsd0xFa05n0gHDAUFVX3lxTFAwYmZxZkpycDFVM3BmV0FIbnNVN3duR2d0WmZYM2lVSWNKdl9GNnJvUVoxcVlaazNyblBhNGdhRVJYZGMxaUxwaGlDd2tCXzZPMWZoSGdlMHgzNm81NnBWdDF6aHlBVk16OTdUbkg1VTV3dnFLR3pzTGhGczdwaHRZcE5FdU00eTZHY1VjVFlZQllkcXFyR1h5MFlBWF84UjVQR3BJVDlYclIxUHNfMVJXcUJkbF9kY3Bha3hCV0NYSjVSQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761663720
+    },
+    {
+      "title": "Bargain edge rushers who could interest the Eagles at the NFL trade deadline - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjBuTTc4MmtpWFdUa3BKRjBZTWZKdDlUZFdJQXVxcFRJcGZ5OFhwcUdZNzRGRzF3UDJFM2gzRDhJRkpfNk15ZXNyM3lOMjU4bFA5R1pLU2c5WFhBQ2h5RG5JYXVDRGNOd2pZdXZtTFZBOWwyWEU0bnNHNFBXQlcwR0ZuRGZEdHhkeHZvNXlaQlN0cTE3NzhhNS0wVktkMGp2TWdBdkVRQkdGT2I2RFZqSGs0R1NwTjNfOUx1S01ybEloRHZyaDZnRDY5OF9hXzdodnJvMHNYbUVueHpxcHFF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761646824
     },
     {
       "title": "Eagles trade rumors, updates, speculation, reports for 2025 NFL trade deadline - The News Journal",
@@ -415,10 +415,10 @@
       "published": 1761116400
     },
     {
-      "title": "Eagles' Brandon Graham explains his decision to come out of retirement - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbENEV09OM1FQQ2gwaklNYWZkX3oycUxQbDFWaGZLbGdCYm5wbGFOb2tnZ3ZfeFdWTEF5ekdmRmw3aUc5WnJxX2U1b2txLWVWX05qcGR2NXFEeGQ4THhGaHpyRmZucGotNFpMWHJGNG9Lci11dXBHeENaMkNfc0lmUjBxQ2Q5eWMyaDlOek1qTnBTVV9uQ3dBYnBhcFRfcGgxWm01VGdjc2w5Y1FTaDQ3bVI1ZTljUXNBaVBzTkFXQdIBxwFBVV95cUxNaDRyaFEtMnZuNUVlcTBnQWFkM3llUDdOYUVFV0t5NVBwWGpUVTNmd1BtLW1PNVBQdDFwU3RZYnR0Nlo0YlBEYWVZdm4xYkJwNDh6QzZUelVXY21INHhIWGxLUGZSRUdRaHY4dW5Zcm5iVU9FUVprODlKZ2dSSWpUY3NiNDByNVpyeFlZVHEzRUY0anRKdFV5TS1kdmlLU04zRDl3YVl0aXlRMzhlRTB3T1RpU2dhZUFya1VvLW9ta2NsX19LNzM4?oc=5",
+      "title": "WORMBURNER is the First Philadelphia Eagles Deathcore Album Produced by Artificial Intelligence - Crossing Broad",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNFlZUnNZWXpmOG9xS2ZJcmZxc2xrbUxxQ2JXdVgzQ29vckFQNzUzbWM0ZjhTQldkaTZVbFBFWG55UWlUNlpqTVRoS3VfRHZMektBNnR6MVFzRmFVbktXSnV0bl9KNHRHZHhXcEJhMEJ5bG12cVF0WllJbXZBcXJfVkZGOWMzdU1mWjY0VldjNkhwUWpFQmJzV191Ml9VbUV1eVM0UEJERTl0emhMVjZrdnA5NGFodmI0QWVodmhzRzFZaUI4WDZWTURZRHN6S1R0akQ2MQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761030000
+      "published": 1761116400
     },
     {
       "title": "Graham ends retirement, agrees to rejoin Eagles - ESPN",
