@@ -1,46 +1,16 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-02T18:27:26.593615+00:00",
+  "updated_at": "2025-11-02T18:45:16.891946+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
-      "title": "NFL Week 9 Early Games",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/162590/nfl-week-9-early-game-information-channel-stream-links-thread",
-      "source": "Bleeding Green Nation",
-      "published": 1762107718
-    },
-    {
-      "title": "NFL Trade Deadline: Eagles rumor tracker",
-      "link": "https://www.bleedinggreennation.com/news/162300/nfl-trade-deadline-eagles-tracker-news-updates-rumors",
-      "source": "Bleeding Green Nation",
-      "published": 1762107082
-    },
-    {
       "title": "Does Philadelphia play today? NFL schedule for Eagles after Week 9 bye - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXhVVGNTWHJTcXNDakhSbkJEQ2tkNkY2TXNGNHBzM1ZHbS1RTE1OQmNBV281NlVGSy1DbV8xOC04dXBlTzNTQzVOWkI1alJaVnBPcl9aZ0NaNXRQR3hHMlkxUFJWLTdyWmxoYm9Id0VDc2dxNHZXSVo5bXdHUkUxcnNSTVl5TWZFQlhHc29pcGpSZ1FBQS1KRTM5QTBBSWVSd2UxWWtjdDJOXzNtcnBBWlRsU2U3b2pHVWhB?oc=5",
       "source": "Google News — Eagles",
       "published": 1762105893
-    },
-    {
-      "title": "NFL Trade Rumors: “The Eagles are a team to watch” with Jaelan Phillips [UPDATES]",
-      "link": "https://www.bleedinggreennation.com/news/162534/nfl-trade-rumors-the-eagles-are-a-team-to-watch-with-jaelan-phillips",
-      "source": "Bleeding Green Nation",
-      "published": 1762100799
-    },
-    {
-      "title": "Eagles rooting guide for NFL Week 9 games",
-      "link": "https://www.bleedinggreennation.com/general/162597/eagles-rooting-guide-for-nfl-week-9-games",
-      "source": "Bleeding Green Nation",
-      "published": 1762100405
-    },
-    {
-      "title": "Eagles News: ESPN grades the Jaire Alexander trade",
-      "link": "https://www.bleedinggreennation.com/news/162593/eagles-news-espn-grades-the-jaire-alexander-trade",
-      "source": "Bleeding Green Nation",
-      "published": 1762095320
     },
     {
       "title": "Eagles Reportedly Want 26-Year-Old Dolphins Star - Sports Illustrated",
@@ -59,12 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2tqeWt5RDZvZTlqM2tpSHZQQnBFQm5fMy03MzZha3J3OWJoVlJVRXU2VTFaLWk3WDFjR2FJWnRSQWdYMjBQcmZtYUktc255a0R3QnVQUjR3cFlueVpsNlZTbElyUWhzQjAxa2VPVWgxdVgxNU1yVEFTRnctd2hPQ0ZuNndpNVBVUjY0WWRVbVZ0N2FHT2IyOEN2ZVJzVC1hRENBUHBuZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1762081476
-    },
-    {
-      "title": "Eagles announce 2 more players are headed to IR",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/162432/eagles-announce-roster-move-marcus-epps-azeez-ojulari-injury-news-updates-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1762052750
     },
     {
       "title": "Eagles Eyeing Blockbuster Trade That Could Shake Up NFC Playoff Picture - Newsweek",
@@ -133,6 +97,12 @@
       "published": 1762032816
     },
     {
+      "title": "NFL Trade Deadline: Eagles rumor tracker",
+      "link": "https://www.bleedinggreennation.com/news/162300/nfl-trade-deadline-eagles-tracker-news-updates-rumors",
+      "source": "Bleeding Green Nation",
+      "published": 1762020432
+    },
+    {
       "title": "Eagles News: Jalen Hurts in the MVP mix",
       "link": "https://www.bleedinggreennation.com/news/162547/eagles-news-jalen-hurts-in-the-mvp-mix",
       "source": "Bleeding Green Nation",
@@ -157,10 +127,28 @@
       "published": 1762008431
     },
     {
+      "title": "NFL Trade Rumors: “The Eagles are a team to watch” with Jaelan Phillips",
+      "link": "https://www.bleedinggreennation.com/news/162534/nfl-trade-rumors-the-eagles-are-a-team-to-watch-with-jaelan-phillips",
+      "source": "Bleeding Green Nation",
+      "published": 1761939332
+    },
+    {
+      "title": "Eagles News: Moro Ojomo among most underrated NFL defenders",
+      "link": "https://www.bleedinggreennation.com/news/162521/eagles-news-moro-ojomo-among-most-underrated-nfl-defenders",
+      "source": "Bleeding Green Nation",
+      "published": 1761923920
+    },
+    {
       "title": "Eagles trade deadline primer: Will Howie Roseman add an edge rusher or another cornerback? - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE5vdmFLN3RqVFlQczRCUXhsekdYczc5WlF1VXpmcVoyU1oya3V4MlozRXlQajZzOEluUVdDQm1EZnVCanBTeG5oZF9VWkQzNlExY0tmOTZxX1pBUWZYUFlMU2FBN0t2Q3VsWU1jdHd1T1FjNDhaSkJvSXo0bmxTVGlpcUpjOTV3LURIZG02bEFWUk1nYWpFeFpYYkVUbWpsMHN0X1drQVgzNjNyTmxrMDItVFlXZVlUcHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1761911495
+    },
+    {
+      "title": "Eagles Film Room: Michael Carter II provides depth and flexibility",
+      "link": "https://www.bleedinggreennation.com/eagles-film-review/162482/eagles-film-room-michael-carter-ii-provides-depth-and-flexibility",
+      "source": "Bleeding Green Nation",
+      "published": 1761908977
     },
     {
       "title": "An Eagles rookie progress report at the midway point of 2025 season - NBC Sports Philadelphia",
@@ -173,6 +161,18 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTEtRVnhFdWVwTmNQLVBJaTZxM2ZlWmduaHdhR0g3SURvUmVWM1RrTm1sSjk0YnR5ck5PLUpoVTRiRHhrek1KMWpMVlVRenV3akV5c3IyNkZfWWg4Sk95MWFkaEQzSnpzdnJacURTMXRMTDJJendxOThUUTlwd2dSMkxpQk1DRUdEOVJqYWoyVERNNjg?oc=5",
       "source": "Google News — Eagles",
       "published": 1761894000
+    },
+    {
+      "title": "NFL Trade Rumors: “Howie Roseman and the Eagles are super hot after Myles Garrett”",
+      "link": "https://www.bleedinggreennation.com/news/162443/nfl-trade-rumors-howie-roseman-and-the-eagles-are-super-hot-after-myles-garrett",
+      "source": "Bleeding Green Nation",
+      "published": 1761857162
+    },
+    {
+      "title": "Eagles fan survey, Week 9: How confident are you?",
+      "link": "https://www.bleedinggreennation.com/news/162324/fan-survey-week-9-nfc-east-standings-rankings-confidence",
+      "source": "Bleeding Green Nation",
+      "published": 1761856441
     },
     {
       "title": "More moves from the Eagles are expected before the trade deadline - Eagles Wire",
@@ -265,18 +265,6 @@
       "published": 1761664388
     },
     {
-      "title": "Eagles are about to get even better and here’s exactly how it’s happening - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3M2RXlxamhVVWZNT0tYWUhGczJ0angzRFN4YlloclB1cmZtY25DTmpBU2lFNmhBMEI0ZEpSMXVIMlU1a3IzcHRzVERhQjlrek9OLWY3Mmh1V0lVdzVpZVJGTDhVOUtSQ1dta0gwV05OTENzdUl5YVFBclNqaEg0Ny1Kam9IOGYweUI2bjFlenNtYkNVZl9GU3dGVmlCczdtSjQ4NndpdHJsd0xFa05n0gHDAUFVX3lxTFAwYmZxZkpycDFVM3BmV0FIbnNVN3duR2d0WmZYM2lVSWNKdl9GNnJvUVoxcVlaazNyblBhNGdhRVJYZGMxaUxwaGlDd2tCXzZPMWZoSGdlMHgzNm81NnBWdDF6aHlBVk16OTdUbkg1VTV3dnFLR3pzTGhGczdwaHRZcE5FdU00eTZHY1VjVFlZQllkcXFyR1h5MFlBWF84UjVQR3BJVDlYclIxUHNfMVJXcUJkbF9kY3Bha3hCV0NYSjVSQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761663720
-    },
-    {
-      "title": "Bargain edge rushers who could interest the Eagles at the NFL trade deadline - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjBuTTc4MmtpWFdUa3BKRjBZTWZKdDlUZFdJQXVxcFRJcGZ5OFhwcUdZNzRGRzF3UDJFM2gzRDhJRkpfNk15ZXNyM3lOMjU4bFA5R1pLU2c5WFhBQ2h5RG5JYXVDRGNOd2pZdXZtTFZBOWwyWEU0bnNHNFBXQlcwR0ZuRGZEdHhkeHZvNXlaQlN0cTE3NzhhNS0wVktkMGp2TWdBdkVRQkdGT2I2RFZqSGs0R1NwTjNfOUx1S01ybEloRHZyaDZnRDY5OF9hXzdodnJvMHNYbUVueHpxcHFF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761646824
-    },
-    {
       "title": "Eagles trade rumors, updates, speculation, reports for 2025 NFL trade deadline - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekF3aEJ2bzdRVTZWemhtOWhIZlcwLW9aTk9NU0s5MGgyMFRXQk9ra2NRNm1yNG0tNFdJeVhfQWdha0paZ1VnTi1mejlaNldoZDhGWEtBZGpmVUVyU01jeFJVT3ZQcUo5d1diZDZpM2dtaGdVRnR6UmpXdE5oMmlwYjNlbUs0N21MX011b3hVcVdLUS1rajRUcFpFWlFlU0ZoT05LSDB3X1htY3loX1A1bkliNVZ2Z29jaWNQMENNMFBBVkJOdDZV?oc=5",
       "source": "Google News — Eagles",
@@ -335,6 +323,12 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2pnaGpoTmhMRmFSenFfSi03MWtudk5ZNDN0cWJzZEF6dElqT21ZQk5HRzNfWEJhUE42YzFhT2M1UUM3eXJZWVdyUnF4ZG00RkNhcnU5WnhKVFRCcldrVElVSDNEaVpJOGlsRDNTeU1KSFdtaGxta1dPejRMSWVZaWpXR2doMXZQX3F6YUtrV2JldXNoTWI5ag?oc=5",
       "source": "Google News — Eagles",
       "published": 1761519679
+    },
+    {
+      "title": "Nick Sirianni Postgame Locker Room Speech: Giants - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1pieXVMUW85ZWdYUVJtOGF0eXZTV2NrMkpXVFlNeVROeG5UUGJiM3hYM0FWRm9scG1lRmt0M3I4WGZKT3BoRnFObmlHWHVMY0FCaGVzaWZvb2VoNW5kWmhobHhzekNXV2luVVlMV2pLYnA2TGh3TUxRX1IyTjBCXzB6MW5jQ0x0dVlDUC1jelMwMzg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761518181
     },
     {
       "title": "Eagles Locker Room Interviews: October 26, 2025 - Philadelphia Eagles",
