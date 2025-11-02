@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-02T13:39:43.831056+00:00",
+  "updated_at": "2025-11-02T14:18:05.202779+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Reportedly Want 26-Year-Old Dolphins Star - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUx4Rl8zZklGUFdqQURZNXUtWXdEaFNFemRxNjRLUF9xbk1lX0hsVGlGdU1TcGk3aXEyXzY0YU9TVDY3WmVQc2JBcjlvV1daczVGUUtBUlAxT0gyV2NRYzIzR3NkN1pCNkVwbzh4b3hiNDBGMzNLQWR1UTRscVVLX3Y3VHdETUFxWFZSMXlIdWhGQjB1UERxaA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762089118
+    },
     {
       "title": "Are the Philadelphia Eagles playing today? NFL Week 9 schedule, matchups, teams on a bye - USA Today",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2tqeWt5RDZvZTlqM2tpSHZQQnBFQm5fMy03MzZha3J3OWJoVlJVRXU2VTFaLWk3WDFjR2FJWnRSQWdYMjBQcmZtYUktc255a0R3QnVQUjR3cFlueVpsNlZTbElyUWhzQjAxa2VPVWgxdVgxNU1yVEFTRnctd2hPQ0ZuNndpNVBVUjY0WWRVbVZ0N2FHT2IyOEN2ZVJzVC1hRENBUHBuZw?oc=5",
@@ -121,12 +127,6 @@
       "published": 1762008431
     },
     {
-      "title": "Scout Misses Mark On Eagles' Brandon Graham - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORldmWkxIVUJtRVI1RWs4dkpqMVNsckMtRzlnQ0x3MFRqRWFWMmJ5cmZocF85R0FaRkVxc0RLNFFfa1NUWHFnSnQ4NzZrMGxFSXoxb1Brdm05ZGVBTms2dF9FMXpoa0dCTFhDaHprNnZnX0tfRnhveUVLM0lIQ0Z6OXRESDJLaGE1SE15Mk93eDg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762004200
-    },
-    {
       "title": "NFL Trade Rumors: “The Eagles are a team to watch” with Jaelan Phillips",
       "link": "https://www.bleedinggreennation.com/news/162534/nfl-trade-rumors-the-eagles-are-a-team-to-watch-with-jaelan-phillips",
       "source": "Bleeding Green Nation",
@@ -161,6 +161,18 @@
       "link": "https://www.bleedinggreennation.com/news/162443/nfl-trade-rumors-howie-roseman-and-the-eagles-are-super-hot-after-myles-garrett",
       "source": "Bleeding Green Nation",
       "published": 1761857162
+    },
+    {
+      "title": "More moves from the Eagles are expected before the trade deadline - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTZFc29aRXVtRDJUcWlja2ZOb3ZrX0RuUko2OFhaUkJCcDhXNzQ5Wk5kcVBnTDZoQnNMNU1ESXd2SFkyQlptYVUzVWl0b2x5UzRnLXU3MXVnR0RyVkxpMGQ0REpHNWFDWFgwVFVUTGd1QnlHZTBjUndoRWVtUTVwT3c3QVdWcExaenBNcS04WThLSTJieUpFWFNoVDk2M1BzY1lCazlYUVV2VDJvT1B6dmMzTXR3ZzJmcmFzQm84U1piMHpjdW15WDV2NC1RZkZWam5jbGg4RGVmR3Y5ekE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761847742
+    },
+    {
+      "title": "Eagles Can Bolster More Than Just Defense At Trade Deadline - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTZRX0VUUl9PM29tN294M0VrUHNpVkZNaUVKSlgtbkl6aUhuSzNnUmlUdXJTVzU0OXpGaHE1QU9LVjAtX3JPN3VLS3NEeENiNFJHYllzMElhYXZYWm1yYm5GZndLaEpGc3E5cUZvbkRUQmt3NzV5UEdCNnB1Q0Rwa0J1YnE3amVLY2tabVlPU1k0Qy1nY3UyQkNodkpFWTczNGZGRnNyZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761840344
     },
     {
       "title": "5 under-the-radar trades the Eagles should consider before NFL deadline - PennLive.com",
@@ -217,12 +229,6 @@
       "published": 1761734204
     },
     {
-      "title": "3 major trades the Eagles should make before next week’s deadline - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVQwWkhDb1NROXdXUnBwdW9uUERDMlFBVHpFYlE5amhlc0lnYUcwcGFSNG1hc1d2R1p4cmZxdVlESEZ4bEFHeUZNcHd4OUFGVTRBWmxURjhnLUw0TDltVnViSi05VEloMDFTa1VQZkxYUVJpZnQ2ZnVPb0ZXRTFiV3JKb1NkZUN4RmQ4ZkhWWGw2YnZMNTVpaXFDWk9LSXhVbjZfdE92LXc1bG1CSzVRLVNOa3oyNzBRYXF5YzNB0gHSAUFVX3lxTE95bjJsWUFBUzJZWXktSC02Z242NHpGUU81OXdnLU9RcWthR3RBajJyT3Bjd1dhX3Z0UlBPXzNzSllQLWlzV1FNak9iNGlFV0hqQ1pmSzBwX1JSMDJFblBUc3B0d1RvdTA1cUI3TVlZdTMxNEw2bjdpQ0Q3cHV0bE5JQk8xaFY1NURSdmpINXpGYldmSGdublNnWWI1TFdpU3VuMU1PVmJTMEd5eXNuZ2lRalRvSHR5VjJXeGp2ekZRWGpibDROSU81bFNfX3paUTN4dw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761732000
-    },
-    {
       "title": "Spadaro: No Bye Week for Brandon Graham, who eyes his debut in Green Bay - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRXJzeU4wZThkTHFVeDBiZ2dZbHFVVUNTVHlqdGNFRXRiRmZZajM0QzVxSjFpZENuelNJc3B3NjNxT21vUmIzSldQVTVPSDFld19Ob1JYdmpSLWlUSnV1bzUyMVJORDB4Vjk3aFJETWw5bDlOUnVJakJqeEp4NmR0SDUwS3VlSy10WFE?oc=5",
       "source": "Google News — Eagles",
@@ -257,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3M2RXlxamhVVWZNT0tYWUhGczJ0angzRFN4YlloclB1cmZtY25DTmpBU2lFNmhBMEI0ZEpSMXVIMlU1a3IzcHRzVERhQjlrek9OLWY3Mmh1V0lVdzVpZVJGTDhVOUtSQ1dta0gwV05OTENzdUl5YVFBclNqaEg0Ny1Kam9IOGYweUI2bjFlenNtYkNVZl9GU3dGVmlCczdtSjQ4NndpdHJsd0xFa05n0gHDAUFVX3lxTFAwYmZxZkpycDFVM3BmV0FIbnNVN3duR2d0WmZYM2lVSWNKdl9GNnJvUVoxcVlaazNyblBhNGdhRVJYZGMxaUxwaGlDd2tCXzZPMWZoSGdlMHgzNm81NnBWdDF6aHlBVk16OTdUbkg1VTV3dnFLR3pzTGhGczdwaHRZcE5FdU00eTZHY1VjVFlZQllkcXFyR1h5MFlBWF84UjVQR3BJVDlYclIxUHNfMVJXcUJkbF9kY3Bha3hCV0NYSjVSQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761663720
-    },
-    {
-      "title": "Bargain edge rushers who could interest the Eagles at the NFL trade deadline - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjBuTTc4MmtpWFdUa3BKRjBZTWZKdDlUZFdJQXVxcFRJcGZ5OFhwcUdZNzRGRzF3UDJFM2gzRDhJRkpfNk15ZXNyM3lOMjU4bFA5R1pLU2c5WFhBQ2h5RG5JYXVDRGNOd2pZdXZtTFZBOWwyWEU0bnNHNFBXQlcwR0ZuRGZEdHhkeHZvNXlaQlN0cTE3NzhhNS0wVktkMGp2TWdBdkVRQkdGT2I2RFZqSGs0R1NwTjNfOUx1S01ybEloRHZyaDZnRDY5OF9hXzdodnJvMHNYbUVueHpxcHFF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761646824
     },
     {
       "title": "Eagles trade rumors, updates, speculation, reports for 2025 NFL trade deadline - The News Journal",
@@ -409,14 +409,14 @@
       "published": 1761116400
     },
     {
-      "title": "WORMBURNER is the First Philadelphia Eagles Deathcore Album Produced by Artificial Intelligence - Crossing Broad",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNFlZUnNZWXpmOG9xS2ZJcmZxc2xrbUxxQ2JXdVgzQ29vckFQNzUzbWM0ZjhTQldkaTZVbFBFWG55UWlUNlpqTVRoS3VfRHZMektBNnR6MVFzRmFVbktXSnV0bl9KNHRHZHhXcEJhMEJ5bG12cVF0WllJbXZBcXJfVkZGOWMzdU1mWjY0VldjNkhwUWpFQmJzV191Ml9VbUV1eVM0UEJERTl0emhMVjZrdnA5NGFodmI0QWVodmhzRzFZaUI4WDZWTURZRHN6S1R0akQ2MQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761116400
-    },
-    {
       "title": "Spadaro: Brandon Graham's return infuses a jolt of energy into first-place Eagles team - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVpCRmFTbE5ubTZfU0pDU1c5RXZVOHdlWG1xNEF2SE95RHlxRDZOU0dDMWtUTFhfTVl2U1hldzRhQkt5NjlmRHhwWENNR1E1a2RNOE9zYmVIZVc0RUdDSGxSUUR2YTNvNEVKcTEtRXBrSGhVZDRqWF9BaTNYUmp4N0FIam8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761030000
+    },
+    {
+      "title": "Eagles' Brandon Graham explains his decision to come out of retirement - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbENEV09OM1FQQ2gwaklNYWZkX3oycUxQbDFWaGZLbGdCYm5wbGFOb2tnZ3ZfeFdWTEF5ekdmRmw3aUc5WnJxX2U1b2txLWVWX05qcGR2NXFEeGQ4THhGaHpyRmZucGotNFpMWHJGNG9Lci11dXBHeENaMkNfc0lmUjBxQ2Q5eWMyaDlOek1qTnBTVV9uQ3dBYnBhcFRfcGgxWm01VGdjc2w5Y1FTaDQ3bVI1ZTljUXNBaVBzTkFXQdIBxwFBVV95cUxNaDRyaFEtMnZuNUVlcTBnQWFkM3llUDdOYUVFV0t5NVBwWGpUVTNmd1BtLW1PNVBQdDFwU3RZYnR0Nlo0YlBEYWVZdm4xYkJwNDh6QzZUelVXY21INHhIWGxLUGZSRUdRaHY4dW5Zcm5iVU9FUVprODlKZ2dSSWpUY3NiNDByNVpyeFlZVHEzRUY0anRKdFV5TS1kdmlLU04zRDl3YVl0aXlRMzhlRTB3T1RpU2dhZUFya1VvLW9ta2NsX19LNzM4?oc=5",
       "source": "Google News — Eagles",
       "published": 1761030000
     },
