@@ -1,16 +1,28 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-03T15:43:45.415260+00:00",
+  "updated_at": "2025-11-03T16:26:41.478671+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
-      "title": "NFL trade deadline 2025 tracker, live updates: Eagles acquire Jaelan Phillips, news, analysis and reaction to every deal - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmJTYldTUnRqc1ZsM0lUTFVCQ0hXSXpwQ2oxbENMN0hHNkRkdTZOU2NmSngzaWNXZmszN0wxZm1ucjVaZm0yeUtYSm1jdkIxdjBZTHlJYnAtVnFLT3hraXRSaFU1c0cyM05QTVExXzF4QzMzcXhUZGd1MzdzaVA2S2lFaDNBSU84bFVjajROeTcxLVdJaHItWENvb1diM1dsWjI2YU9yc2RnUFNYV0E5LWZraTA?oc=5",
+      "title": "Eagles News: Jaelen Phillips trade earns high grades",
+      "link": "https://www.bleedinggreennation.com/news/162705/eagles-news-jaelen-phillips-trade-earns-high-grades",
+      "source": "Bleeding Green Nation",
+      "published": 1762186320
+    },
+    {
+      "title": "Eagles trade for Dolphins DE Jaelan Phillips, with instant grade, analysis - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEV1WTFuY0VVZWZCdmoyam5fMUxDQnByaHVPVWx2SXBwMkU0NlJkbW1yOGdURmdqRDljOTBMU1ktM2RsVkJ4TEE3eTJEZmNibU5sZTJvdGZXQUUyTGQ4dnVmMlhmd2xGREpPelRVSXhveU1CV3NnLXBkZ3VhaU04NGcxLXBWcC05N3Y3WGFaUkhPZHNvdUo3YndLOVNxeExlazU0SURWSjdTaVhjVDR0c3l5MDBoSms?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762182000
+      "published": 1762186050
+    },
+    {
+      "title": "Jaelan Phillips trade reactions",
+      "link": "https://www.bleedinggreennation.com/news/162703/jaelan-phillips-trade-reactions",
+      "source": "Bleeding Green Nation",
+      "published": 1762184597
     },
     {
       "title": "NFL Top 10 Rankings: Who's No. 1? Eagles, Bills, Rams Climb; Colts, Packers Tumble - FOX Sports",
@@ -19,22 +31,10 @@
       "published": 1762181772
     },
     {
-      "title": "Eagles-Dolphins Trade Grades: Super Bowl Champs Strengthen Pass Rush - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQTlEWVZ2bkdzbmZlbm9OVXBCRnE4QXZ4QmJTYkxYSEdfT0FtXzZnU3N6RXktWVlrNzRncUJPZlJQd0RPZ3Z2cGlwdXh1alFsUmthTXU0LTRZR3F4RFFHYk9EOVBxWjZleXBSdi1kM0hBa0lodGZ6SnZHb2RLeElId3cxNVB2SGF2QklQampxSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762179772
-    },
-    {
       "title": "Jaelan Phillips trade grades: Eagles take a bold swing on Dolphins pass rusher; Miami begins rebuild - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEI5REt1d0pTd0VsYndwakpYSVltZ0lHUU5iemI5dm5XYnhUa2t6c2YxV3VGSTZjdDA2QWdNeDFjTUlxLUR4bnRPS0FGNm96N1FkUHBDMV9icHRVUUhVV1I5aXZyMHhkbWwwSUcza0M2WmhzU3dRejhjaFlOdWNYMGZTekIwRXpVaGI2TVZNN2tpVkRGN2lGYUEyNERfMWRPV3F6d2pkR3NoTjNwNEVzZHAyQjljNFZHZ1hVV3Q1aTRFRHl6cTNiU29DT2JDUmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1762178460
-    },
-    {
-      "title": "What Jaelan Phillips Adds To Eagles Right Away - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNemY2aTQ1MFlrdTR3S1poU2VwQmp6RU5aa0dkak4wc1MyNWFIMzJxaUMzaEpUZHpTWnN1djVBYVVuX1ZjRmdvbzNJM3p5akhGdS1SZnJRM1gwSHdwY3ZPNmt5elJtcXh3OWRwRXdDZmdDck00RnMwVWJQOFRhaTQzby1CdzgxV0NpVXVvaFR3aE5UZHdSUHc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762176223
     },
     {
       "title": "Eagles-Dolphins trade: Philadelphia acquires LB Jaelan Phillips",
@@ -47,12 +47,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQkFwejRNSUVEVU0tNjNGZjdsbm1rTHFYOG9vdVRyd0E1UzRKYWtxNks1LW1kX2h5dndnckNyRk55dFNTUFlROU55cWpTV2oxUXJHMnlRc2RLWDlGNGZJQzgxWW5SN05lemMwSldjSnNVMW4tMUdCblQ1NzlQbmRuZzVTdWlNOEFfbVB2Uld5TEV5TmdaVDQzQ0I4SkdIcVFRazVHVXBqUVdWck4zOUtxUUZZc3dRZ0l5YlRjc0JMeFB1M3RNRUZFSC04cHA0VDl4RTg3VElrRdIB3wFBVV95cUxPbm82ZUJNSm13UVZBZ0xYRmx0bDJMTGZiWjRVVE50RmtMeG91UzlvTjdtSzlRUTg0MDZJRUJUc1RubzhzTjJWOU05YllwT1otMG9Edi1JV0w4dEMzWEI1bFlra3FFXzF4cEo5TkR3T3dVckJEVF96Rmdqek0ydU1PbE93SFVabmtLYjFld2RfY2hzdlQ5NHBSSUZRNlVORkNpUWtGWFVMRi13R1dxeW5acEVlWnlmQ0VHbFNZcjVGT0ZtWWNWaWtTWFFULURwVHNFSDYxY0hPZ0M4V3JQaWVR?oc=5",
       "source": "Google News — Eagles",
       "published": 1762174841
-    },
-    {
-      "title": "Eagles trade for Dolphins DE Jaelan Phillips, with instant grade, analysis - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEV1WTFuY0VVZWZCdmoyam5fMUxDQnByaHVPVWx2SXBwMkU0NlJkbW1yOGdURmdqRDljOTBMU1ktM2RsVkJ4TEE3eTJEZmNibU5sZTJvdGZXQUUyTGQ4dnVmMlhmd2xGREpPelRVSXhveU1CV3NnLXBkZ3VhaU04NGcxLXBWcC05N3Y3WGFaUkhPZHNvdUo3YndLOVNxeExlazU0SURWSjdTaVhjVDR0c3l5MDBoSms?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762174638
     },
     {
       "title": "Instant analysis of the Eagles' acquiring pass rusher Jaelan Phillips from the Dolphins - Eagles Wire",
@@ -115,12 +109,6 @@
       "published": 1762105700
     },
     {
-      "title": "NFL Trade Rumors: “The Eagles are a team to watch” with Jaelan Phillips [UPDATES]",
-      "link": "https://www.bleedinggreennation.com/news/162534/nfl-trade-rumors-the-eagles-are-a-team-to-watch-with-jaelan-phillips",
-      "source": "Bleeding Green Nation",
-      "published": 1762100799
-    },
-    {
       "title": "Highlights: All 100 of Jalen Hurts' career passing TDs - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVRwdkNhd2doWUxZWExCb0Uya1BnM3Rla3pEQkIxZm5jSmg3MGtQY1FHWDloQ2pUa3M0WHpKV2R4dVBXcFpOelpjNEhSQnhTNFhMS2tJWXdBdndyMERCTVh0c1VCYmQwcnkwOGdCU19haTRFTVJoUDh2VjhPNXBsTmtqc3BseDBxZU80QjFIQQ?oc=5",
       "source": "Google News — Eagles",
@@ -137,6 +125,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0xuU1VzQi1PMUFLY2ZBdGJScTVBS1RyNTVPbWVJRVQ4TC1nTm1sZDVsa2JRUDAtRFV3Z0p1N05zOHFQcE1lLWp1Sk8tNjd2Q3ItaTh4SGFoOXd1U1VCaVFYaUt4clI0bHBCLU1VSlpfN1NLay1nMVgzSU1LSl9WR19KSV9vV0hqOW9rdWlsdTNHckxLajd2LUdHMWhHeUHSAaQBQVVfeXFMTVJCdi1TZWVZdnVKZ01BaTRoYldTdDBfUlQxcGQ2YkZvMXdoMXo2cHdWRXdUMWVZbUFKeDZiNTVTTkRmU016cGdLZDE4Q09xald2SXZSRUFRdWhrMlBUSVpiVWpNWEtkdTFWUVpPUVJXcjJMMld2UG9TcnhFdzEyNUdmUVNFQUg2eDRtWjNPM2RDZXY2aWNuaUo2dzR4NGhKY0NvZUc?oc=5",
       "source": "Google News — Eagles",
       "published": 1762081562
+    },
+    {
+      "title": "Are the Philadelphia Eagles playing today? NFL Week 9 schedule, matchups, teams on a bye - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2tqeWt5RDZvZTlqM2tpSHZQQnBFQm5fMy03MzZha3J3OWJoVlJVRXU2VTFaLWk3WDFjR2FJWnRSQWdYMjBQcmZtYUktc255a0R3QnVQUjR3cFlueVpsNlZTbElyUWhzQjAxa2VPVWgxdVgxNU1yVEFTRnctd2hPQ0ZuNndpNVBVUjY0WWRVbVZ0N2FHT2IyOEN2ZVJzVC1hRENBUHBuZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762081476
     },
     {
       "title": "Eagles' Depth Chart, Salary Cap, NFL Draft Picks After Jaire Alexander Trade - Bleacher Report",
@@ -175,6 +169,12 @@
       "published": 1762033440
     },
     {
+      "title": "Philadelphia Eagles acquire CB Jaire Alexander in trade with Ravens, team says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0VmTk1UWUtBRm9HdWZwQjlzakJrM0FvZlpNQ3hBZllxcVR5QjVteWJELVBuS0I3bVlBSEN2Wlo3WnBuWEx5ZTlFTmg4anBTTUZOXzVZbDFMQ1p1alBfTFZIT2pNbmhFV0ljaXEyRFMtZGZKTlZrLV92bzItYUx6bnh0N0o?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762033380
+    },
+    {
       "title": "Eagles agree to acquire CB Jaire Alexander from the Ravens - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEdzakxhT1liLXdXa2RqcGdqVzVBcnJMa1N1VWJpVmFNUlRSY0NFc1dHc3lrdV9HTDBFaWVUaVZrWkRpNkI3ZWJTUktYUjM5akJjNDhFbFhsSHc1VnZsVi13eUl1TEVXZVZYM1Q1RHFBZk5EVkZ4QUVYdUVfVk5Pc21tQUo4T0wyTV83cVpoMWJ2SHM2ZlFHU2Z0NA?oc=5",
       "source": "Google News — Eagles",
@@ -185,6 +185,12 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGhsai11Q3lmLWluWkdZUjVEWlk1bjhMSFlSM1VKVjk3N2lDb2ZxQTZiZ0x0ai1fakZPTG54RHRhVV82dmU5Q2xmb1BSZnFHOHp5Y1FkUlhDdG1PcXVDUlNkLWFGcHdQWm04RGx1TXdJdUpEOHl6N0NmZHdVY2lRa1lSRU1yTmxCLVZ2QVJDcjhmRzBFNjZrMl9kT1FFdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1762032816
+    },
+    {
+      "title": "Eagles have inquired about two AFC East pass rushers ahead of the NFL trade deadline - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSlN2QWZwWDJfb2dPRlVnRHd5X3UtVmwyNFNMbVhwaE5veEg4QXg1aHdGdS1jWGRtUWdja0I0ZEtFRFVpOGhvLVlXcWRoZnE3YWVFZzhLeklvX2JrTkdwbXlaNm0waHlyODhaaWd6QTlzMU9QWUhlQU5qUjRwSU10bVBMYlE5Ymw5TXNhLWxEWmxmNmY3RGxseUpqcC04ZWM5STFyYzRhOGRvd1RFYXQtZnN6d3Q0UGYxVFIwSDkxLXo3ZVVnNFp4M0VnOTA5NVdsMkZOV0tB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762018682
     },
     {
       "title": "Two Star Targets Emerging For Eagles - Sports Illustrated",
@@ -217,6 +223,12 @@
       "published": 1761847742
     },
     {
+      "title": "Eagles Can Bolster More Than Just Defense At Trade Deadline - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTZRX0VUUl9PM29tN294M0VrUHNpVkZNaUVKSlgtbkl6aUhuSzNnUmlUdXJTVzU0OXpGaHE1QU9LVjAtX3JPN3VLS3NEeENiNFJHYllzMElhYXZYWm1yYm5GZndLaEpGc3E5cUZvbkRUQmt3NzV5UEdCNnB1Q0Rwa0J1YnE3amVLY2tabVlPU1k0Qy1nY3UyQkNodkpFWTczNGZGRnNyZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761840344
+    },
+    {
       "title": "Eagles agree to acquire CB Michael Carter II from the Jets - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWlhTkxEVUNHcFpOOGU4OFlXYTI4bXJWQW9wWG1RU0k0VmFENnJOTWJOVWp1ZjVOMEdZeVBUV21BdG5XbW1MelZPM182elE3YlRXVzhuYXphMVBpa3ZmUkdIbm9lb3ctVi1DMlo0YUtOTXVMTWN5ZVhGRGZqM1B1cVNBbHRfekhHc1FUTGN2Znd5RW5zazF2dkxtSDQzWmE0?oc=5",
       "source": "Google News — Eagles",
@@ -229,16 +241,10 @@
       "published": 1761770220
     },
     {
-      "title": "Eagles acquire slot corner who could allow Cooper DeJean to move outside - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWFFbkUyRHhHRFRBc1UzR0pwZ1ZqdEEtaHJmamphNXNKRnEyVU5TTy14QVFHX1ZNU2JfZ2NmVUQtZzlNOVdQY3FiN3ZISUFWSHE0cEdGYTc0Y1RRMm5odWs0UHc3NmdJTjhkWVN4WUpyZEJFN2tEdm0zeGFrZm03azJack1iV0ZQVlhrZmFIU1QySEdtdjdvQjR1TVcxX0ZiQWRIZjJNb0xkTnRRNFFZaWhPRlJCVm1IVzNz0gHDAUFVX3lxTE51VVdGcHB6Rm9RcTFZblJfRUNCR1dEYmxoemJEeFdmNEpzeDdXYTgwMEFrbmc3dUNKWEpwLXhNcmpZbmtLOXZaa2NNV0xCNzJkRngtMXdLajh1emRBaHg5aWc2cEd2RWEwMUxhWTVZYXE3NXNhTDFydWE2bmFTSzlJaGVUdXhmMTg2Nm9OZVY3c3JPZXJkOXFWNk5aUWF1TlVoNzJ3enFDS1NuNTV5eWp3LUQxdXhKZGpsNk54aEQ3REN6dw?oc=5",
+      "title": "Eagles acquire slot corner who could allow Cooper DeJean to move outside - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGpoX1RLVjMwYTFSaHZINTloZktCVmpDVVZ5NVR4Ylh3cHlmb3Mzci1BbGhCMEp1Wl83bmlFR3NBd0x2VzBZZV9MWnotT2Z6WWN1WXZCVnJzeXJDOUo5aFhQN0JJeTF2QnZ5VEJMVXJwMGc2eHZCa2FFM3ZRV2lUeFlzYkdJYllpclpzRHhYQlVKNzdjOVhfRXc4RnlHMkJMc01STnhNZGRSRHIwOTNRRjBfb19VQmFxUk1CRFpCQXhlYmpC0gHMAUFVX3lxTE1ucjJUbmg1cFJVX3pDeTY3Y053WElnakFFc1lmX2Z2YXgzZUtrOEdocVFMUm4zaC04b1I4SkRBQ0V5UGhraU05UkxHbWFfRHBHNUVrMXJyRXJ2Yno1bGhrSWdCd3FhVGJMRlZpTHRuUVFJWTBmTUNtSV9rX0dnYkZGM1NTbE80SzFIV1hfaGJ3THZreU9zUUxIRTlMMGpXdGtDSDN3NEkwX291VS1oY3JJc2lkcW1LM3FPeXpkT1dKWi15cXpLaElqRXB3Ng?oc=5",
       "source": "Google News — Eagles",
       "published": 1761769247
-    },
-    {
-      "title": "Eagles trade for Jets' CB Michael Carter. Analysis, grade, what it means for Cooper DeJean - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFhWTTlfUXdWd21oMzFSS0VJWW50ZWplenB4bm9XdXRWdlg4LWNQNzNrREVPb0JCMnhtMGRGaHdZaDMwam15V1dpaHl5aXA5ZlRuV0hDeGZqNVhyOEVfZk5UdUdpN0lxSmtZWE5KRTBERkcyU0VsZ0tBcklxZVN0czE0eWExTnBHelJMMzJzZlFHRWp3Z2NiS0VhT3B6Si0zVlFRUldySGh1blVXYkZsQzJkN0t2R2ZpcjhGVmM4TDdWbUFJM3BFdjhOZ25FLTNOc0FfRTNacXRhZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761768974
     },
     {
       "title": "Eagles trading WR John Metchie III to Jets for CB Michael Carter II - NFL.com",
@@ -301,22 +307,16 @@
       "published": 1761663720
     },
     {
-      "title": "Bargain edge rushers who could interest the Eagles at the NFL trade deadline - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjBuTTc4MmtpWFdUa3BKRjBZTWZKdDlUZFdJQXVxcFRJcGZ5OFhwcUdZNzRGRzF3UDJFM2gzRDhJRkpfNk15ZXNyM3lOMjU4bFA5R1pLU2c5WFhBQ2h5RG5JYXVDRGNOd2pZdXZtTFZBOWwyWEU0bnNHNFBXQlcwR0ZuRGZEdHhkeHZvNXlaQlN0cTE3NzhhNS0wVktkMGp2TWdBdkVRQkdGT2I2RFZqSGs0R1NwTjNfOUx1S01ybEloRHZyaDZnRDY5OF9hXzdodnJvMHNYbUVueHpxcHFF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761646824
-    },
-    {
       "title": "Eagles trade rumors, updates, speculation, reports for 2025 NFL trade deadline - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekF3aEJ2bzdRVTZWemhtOWhIZlcwLW9aTk9NU0s5MGgyMFRXQk9ra2NRNm1yNG0tNFdJeVhfQWdha0paZ1VnTi1mejlaNldoZDhGWEtBZGpmVUVyU01jeFJVT3ZQcUo5d1diZDZpM2dtaGdVRnR6UmpXdE5oMmlwYjNlbUs0N21MX011b3hVcVdLUS1rajRUcFpFWlFlU0ZoT05LSDB3X1htY3loX1A1bkliNVZ2Z29jaWNQMENNMFBBVkJOdDZV?oc=5",
       "source": "Google News — Eagles",
       "published": 1761640556
     },
     {
-      "title": "Chargers-Eagles Week 14 Game to Feature Monster’s Inc-Themed Alternate Telecast - Chargers.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02eTN2dEM0d2ZCb2RXajJIRjB2a0JONEdJOTRTcTNQYWFqWHJyOG55WFJnSEdJeElUbkxQdlVIRkFmd0RHMXg0aGJaZ3k2MkJEbmNaLXZrR2RaUFdmUzJ4WEd2N1U5MEhDX0liVTlxUm9FUlJlVkJSVGVfVTNFZzA?oc=5",
+      "title": "Eagles Could Get Even Scarier Before Week 10 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXVVNmdvREpaam15Z2JhaDUxTjRrWlpJYUdGUGVUUXJDNU5ZMEh4OFZldVl5d1pVQzNGRHAzS0FVVGFpVGhqamRqV0ZYb3dXOW13aVdKV1hQV1FSZWxpV1EwN0ZqcXNaZjBMTnV0RHd3RU0zaVRESU5mUzNoWDFjQWxLMklLMUNRSWNYTw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761615545
+      "published": 1761602400
     },
     {
       "title": "Eagles release CB Parry Nickerson from active roster, DE Titus Leo from practice squad - Philadelphia Eagles",
@@ -355,12 +355,6 @@
       "published": 1761571986
     },
     {
-      "title": "Bargain cornerbacks who could interest the Eagles at the NFL trade deadline - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOUl4QXBRakVIeW9OY2EwdmhBXzFJTm9iWm1YTzdYQW8zMzMzaEpGZFlZTHJ4a2dvX3RFV1Y5TnBaYTRpVFdTQ29NM3N3ZWNLSVh2NGpPLTZmd2VFSmFDQmxoWFZaTzNBb0lNOUpOck1yYkZOQ056VGlaZjJudlZsNjBmQnNXc3Foa1VPMldYRjdjbXBHY2diaHl6Y21YcDNoZ2JsU014NTkzOU1NQmg4MFpJeW90QVZwYU5WVmUzbHRjY3lRaUVpazNaYkJPNEViamhmOTUtbkE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761571225
-    },
-    {
       "title": "Eagles snap counts: Fred Johnson earning time in jumbo package - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkR2aUwtTGlpZkRXSlpsX3c1ZHhsRHFjSGw3WWpuMVJ2UnZ2YUZIQTAycloxTFB2ZDdDTHRoQ1BHY1BUTU1LX1hJLUpXV3BuOHVfZWg1bk9WMkd1bFRBY2NCOE9kZ3pURk92djJob0k3eG1WcWtuTi1ZZTA1YWx5ZTVyUms5c3FGdGgydWR4TXEyQVdZSmdzYkUtUEw3UktuSllsU0RBSzBialE3ZDJRZkFIaWZVcUpwUnFJR3VpTjIxUUZDcUItdFgzONIB0wFBVV95cUxNcWV4bHFGUkxqRE5ZejNWUmVldGJOU0tHNmlmYS1xWmJpVUdERV8zOWktdWdxdTBKSE1zb0ZIQkw1VDNTRmV3WnU2WEt6R3U1MDgyVmxidV82T0RJX0VhVlVYZks4UUxpREdodkowdENmaXp5OWVfcWZVZG9hU21ISmVNVFgxWmhhYnZNUDVoOXZGNzY2Ukh1alBFR2l6cVZ4cTUySUtkMk9sajY5T3RnOFRFTjFibDJZRkxYNUE0bUFDRlJ1MnFSbG5QRTRwMmZMS1Q0?oc=5",
       "source": "Google News — Eagles",
@@ -379,10 +373,22 @@
       "published": 1761519679
     },
     {
+      "title": "Nick Sirianni Postgame Locker Room Speech: Giants - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1pieXVMUW85ZWdYUVJtOGF0eXZTV2NrMkpXVFlNeVROeG5UUGJiM3hYM0FWRm9scG1lRmt0M3I4WGZKT3BoRnFObmlHWHVMY0FCaGVzaWZvb2VoNW5kWmhobHhzekNXV2luVVlMV2pLYnA2TGh3TUxRX1IyTjBCXzB6MW5jQ0x0dVlDUC1jelMwMzg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761518181
+    },
+    {
       "title": "Eagles Locker Room Interviews: October 26, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXN1M2FCM24zU3NqQ3VETHJzR3BIMWdMYjRrMVRsdFg0ajZvTi1FRHc2R1ZyMXlNeG1rQkZBT0IwNFhsc2R3UmdUN3FGMGlkTHlxS0s0LUZQMkk5akVMMEZQbUxzY2lOS1RHOHhQRm1uazQtUW1JREpTb091djZiVU91UmJmdlp0VHU5ZFZYQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761515481
+    },
+    {
+      "title": "Highlight: Saquon Barkley's 28-yard run puts an end to the third quarter - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjFUN3BZZWROajFOZXZvMDl4ZzFYNk12aVg4bGxIeDlIUk9sSkRlNlFKLWZfMTloajhucVk1RG9uWldFSVV1eF9XQzZFbVIwYkpEX0lld0oxdVhIZlk2N1hHQndUODF5Zk9pSk1SREY0OGFTaG9uNHdMaHdDX1JVMDcyXzlVdkx0WHBrYklIbVJVLUFLcVYzRTNRN0ozdUh0WUNMSnpRa1oyVUJNLVctTVpVMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761507980
     },
     {
       "title": "Boo! Monsters Funday Football is Coming Dec. 8 Featuring Eagles-Chargers Set in the World of Pixar’s Iconic Monsters, Inc., The Third Annual Animated Monday Night Football Game Presented by ESPN, Disney, Pixar, NFL & Powered by NFL’s Next Gen Stat - ESPN Press Room",
@@ -409,12 +415,6 @@
       "published": 1761375600
     },
     {
-      "title": "Ranking the biggest Eagles villains of the 21st century - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUNncDFtWUJaR1k1Q3pTY3B1YTRwTHBUSzhhY0tPdE12SnhXWlJBZTRzT3NLczU5MzFQcEE5NWg5Q2pvZWZhUGl2N1NwR3E5ejA4ZkdLWjJ4eXlsZ0xZSUc0OUNMTHFrVmwta3lQQWgxQ1BrUEd4SC1EVWFPekYycEhaV0JxdzJEeEJLZFd0UlNmMm1vSUtKdlhSUG8xWVRreTNNZXFGV2FXd3Vwdnlqam1hZEhMVUc4R25VSjdNMGlqZzlL?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761375600
-    },
-    {
       "title": "A.J. Brown sidelined again during Thursday's practice | Giants vs. Eagles Injury Report - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGt3NEV4UkEyWkhFem01Tk9XU2ZSa1FyOHVUcWNMZlZsSmVzdW9kWU4yZm0xM1pPc1NzQjVRSWo4VE5TMV9pWXJnSTk1R09lTm0tc0QyMkNXNndCU0ZlcUZlNTBsTzJxbVh6MmE4NFJ6R2lSSThmNDlkZ052Nl9aR2l1YmpITVJfVE8yMzlRSDFYclVDTlNSSWRDTlh4QXhnQmoySk5DQW5udkNXSE45NVRIRG5ycUs5?oc=5",
       "source": "Google News — Eagles",
@@ -433,10 +433,10 @@
       "published": 1761116400
     },
     {
-      "title": "WORMBURNER is the First Philadelphia Eagles Deathcore Album Produced by Artificial Intelligence - Crossing Broad",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNFlZUnNZWXpmOG9xS2ZJcmZxc2xrbUxxQ2JXdVgzQ29vckFQNzUzbWM0ZjhTQldkaTZVbFBFWG55UWlUNlpqTVRoS3VfRHZMektBNnR6MVFzRmFVbktXSnV0bl9KNHRHZHhXcEJhMEJ5bG12cVF0WllJbXZBcXJfVkZGOWMzdU1mWjY0VldjNkhwUWpFQmJzV191Ml9VbUV1eVM0UEJERTl0emhMVjZrdnA5NGFodmI0QWVodmhzRzFZaUI4WDZWTURZRHN6S1R0akQ2MQ?oc=5",
+      "title": "Spadaro: Brandon Graham's return infuses a jolt of energy into first-place Eagles team - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVpCRmFTbE5ubTZfU0pDU1c5RXZVOHdlWG1xNEF2SE95RHlxRDZOU0dDMWtUTFhfTVl2U1hldzRhQkt5NjlmRHhwWENNR1E1a2RNOE9zYmVIZVc0RUdDSGxSUUR2YTNvNEVKcTEtRXBrSGhVZDRqWF9BaTNYUmp4N0FIam8?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761116400
+      "published": 1761030000
     }
   ]
 }
