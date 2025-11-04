@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-04T21:20:26.604027+00:00",
+  "updated_at": "2025-11-04T21:39:32.564084+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles roster news: Nolan Smith practice window opened among others moves",
+      "link": "https://www.bleedinggreennation.com/news/162826/eagles-roster-news-nolan-smith-practice-window-opened-among-others-moves",
+      "source": "Bleeding Green Nation",
+      "published": 1762291250
+    },
     {
       "title": "A.J. Brown is still on the Eagles’ roster after the NFL trade deadline, as expected",
       "link": "https://www.bleedinggreennation.com/news/162822/a-j-brown-is-still-on-the-eagles-roster-after-the-nfl-trade-deadline-as-expected",
@@ -41,12 +47,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSlNmUHFVYWIwTjR6MENYVTZtOHlrajdORmxzQ0x4dE9PVUxkeHBveS0tY3RRVGFlM05wcDJRQVFWcmlsdVdLSlFuenlqV0VEV3B3Si15Vk50Zmoyd1F0V1l6TjRZb3pWTHRycjJNV1ZTV0NEVVNWa0U3d1R1OTNwVzFSVG5Yd2pBb2I0UmhoeEItaGhIeGpuUjZ2ZU1qTldRaTdQeGxZZFJPN0pST2pBUFFDamctbDlxTS1GMWpraVpoSHB4ZUd1OHVjTWhrZmJ3aVVvdWhaU1FMR0p0VFE0Yg?oc=5",
       "source": "Google News — Eagles",
       "published": 1762266044
-    },
-    {
-      "title": "Eagles 'Would Love' To Trade CB Before Deadline - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMElzM2ZzMVNmWlktdks4WU9raThZTzlfb0FBV1ZFQ1psYWtIQWM1ZklCRzY5VXFESXRIeGZDUmJGOGNvNk9jdTJaSUdlSllYNnAtbWZlQXlwY3RYZDh4QldmWUVZeUtYdFE2MExUR1ZuR2ZUVV82U3RlQzhoZjhFVUQ1OXVaVUZ0RS1HOTlrNExKeW5X?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762264814
     },
     {
       "title": "Eagles legend Jason Kelce shares a hilarious Jaelan Phillips story - Eagles Wire",
@@ -157,12 +157,6 @@
       "published": 1762184597
     },
     {
-      "title": "Eagles-Dolphins Trade Grades: Super Bowl Champs Strengthen Pass Rush - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQTlEWVZ2bkdzbmZlbm9OVXBCRnE4QXZ4QmJTYkxYSEdfT0FtXzZnU3N6RXktWVlrNzRncUJPZlJQd0RPZ3Z2cGlwdXh1alFsUmthTXU0LTRZR3F4RFFHYk9EOVBxWjZleXBSdi1kM0hBa0lodGZ6SnZHb2RLeElId3cxNVB2SGF2QklQampxSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762179772
-    },
-    {
       "title": "Jaelan Phillips trade grades: Did Dolphins or Eagles win deal? - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0pvLW92UHczM0N3NTZMMjRuS1V0YVpSeHFERldrWnNFLWdUQmw0UmtnRVhVS2dPcUE0ajgwQ2JIMVN4UlllMlcxT25JWUp4V3RxbXRYUnlwOFk1WGZvNVZvN005Vl82eWZuWU4xaE1UMlo1NGo1ZWNaQ2VPVW9yY0NqWmpfLXVZNDViamk1a29VclJfcUphZDZNM25DdWM5Rkdia1lwSUh6WU10a0l1VzlXaGNlQWRz?oc=5",
       "source": "Google News — Eagles",
@@ -173,18 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEI5REt1d0pTd0VsYndwakpYSVltZ0lHUU5iemI5dm5XYnhUa2t6c2YxV3VGSTZjdDA2QWdNeDFjTUlxLUR4bnRPS0FGNm96N1FkUHBDMV9icHRVUUhVV1I5aXZyMHhkbWwwSUcza0M2WmhzU3dRejhjaFlOdWNYMGZTekIwRXpVaGI2TVZNN2tpVkRGN2lGYUEyNERfMWRPV3F6d2pkR3NoTjNwNEVzZHAyQjljNFZHZ1hVV3Q1aTRFRHl6cTNiU29DT2JDUmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1762178460
-    },
-    {
-      "title": "Eagles-Dolphins trade: Philadelphia acquires LB Jaelan Phillips",
-      "link": "https://www.bleedinggreennation.com/news/162691/eagles-dolphins-trade-philadelphia-acquires-lb-jaelan-phillips",
-      "source": "Bleeding Green Nation",
-      "published": 1762175606
-    },
-    {
-      "title": "Instant analysis of the Eagles' acquiring pass rusher Jaelan Phillips from the Dolphins - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbTFhRFRSbnVreGdrX2Nnd2hfazVvUzVOajhWd2VidFcyNVo3TFI0Q3BzeXlPeWU4T2ZFc2hPSzJWY3BsNWowZEtsWVktVWFEUkEzZFZxQ0ZDNERmVUxuR3RoVUlQS25QWmQySWE0SnFHMnlILTlaQUJtTF9sWkJnc0xUaEYyLUJfMXlLUVg5OGdfY0pHUUF0V0ZLcHp2SDM4TlFMUGxyZmJfdUZNUkRUaTI2VTU2U3BieTdsdG1udEg5YUp1MWY1NzlZM1NiRzV2WHZXOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762174597
     },
     {
       "title": "Dolphins trade LB Jaelan Phillips to Eagles for 2026 third-round pick - NFL.com",
@@ -203,12 +185,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXEyOGlNZFdhYlV6ZzZwNUdmMEsxbHpobTMzYVRROWtENWd3aWxiTy02RmFydEV2VGJuSk1HZjVjWmRWb0dDd1JkS21xYWxNU1ItLWl5a1VPLXQ4dXNzM0V0SW4xQm9IbXJEUzI1U25fRmtIcTBPYjUzNlhfT1dFY1cxU29lRWdFX0t1amhqa1B2NGh0ZFM1R1p3Y0NtUnB4M1daNlAwYlFhM1IzNzB3dlR5OWN3ZnkyNG1ZUjV4MzfSAcgBQVVfeXFMTVJYU3NWbVAtdVhHNldIblByOVg5Zy1xS2xVR3ZER3BOSTI5S00ycGpSd2RBN0F0WE41MDN0U3JaQkprNTlSWlRCTGNlbXVhN3VQejNhSUI5RUJUd1ljZ3RyanJJd0dRUGc4WEdvX1FHNTN0UmY2ejNQMmsyNXpfNGZmSXpFWG9yT01NelNlM0loSV9LYVIwTkRZb2pRVThsRUlaMHR3NEt5dFpVaDQ2MHhXWmZ0d29KNHItS3plSGtZd0NHWWEtcFU?oc=5",
       "source": "Google News — Eagles",
       "published": 1762172574
-    },
-    {
-      "title": "Eagles 2025 schedule: Game-by-game predictions for Philadelphia's final nine games - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUUV1WGxKMW5RYzFnSVVVc2txT0VveVF6WWpnTVNZenVvOC1zSXNUSkFNS3pZb1VlZDJ0WjlxVE9ud1VzWTZ3d1ZTZl9yTE1XZnBOQUhQY05ZajdEYlE5V2U5ekFIUkdVY1IxaFZzRGdKeUgxblVEUGFkVUZ0T25ucXpNY3BCLUx2YnhtcVNoaEU3LXZ2ZjVtWm8tMUhMSmVRZ2tjc2NIZ1NFVERNOU9LWEhxcEVlX3d2ekZxRTk5amV2WXpCZUxqdXpPbFZ4NG9VVmlsQTNVcFg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762168165
     },
     {
       "title": "Philadelphia Eagles GM Howie Roseman all-in at trade deadline - ESPN",
@@ -319,22 +295,16 @@
       "published": 1762008431
     },
     {
-      "title": "Five college prospects who could interest the Eagles in the 2026 NFL Draft - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcGVJMVlabFhRRHFQYlZEd1JZS1JrV1lmVFotYTAyTmRyak5OSXJsTU05YTd4bklzQ0t5Y1JiUlRhMVUxMVo2YjR0NzJMdHJZbEE3czZhcVFSMHhwQVBFNHlsVjQwTmJQUFhyY205R3FEcWQ2eEVRNEpVOTBNa0hHVWFIR0tBdFJxVERpd09iMHE0NkExUFJhS0ZlODNpZ2Jzd0JCT1pOMjBKNDAyNWNQMFUya3lTRXBYRDN5SzIxWldRQkJkekdUVnFkcy1yRzlldEluU3Nn0gHbAUFVX3lxTE84dHlwOGFGQlNTc2FtaDl2OTFBVHpjV0NkWnlxdmlKX0JadGNIS0pjUl9XY212U2NlR25oTUJ3ckx5NVRWeXVSMFNVclJacUJZeVJsTkdBWVFKa25GTnhwZ0l2QkQxVlZGYTdfNDM1RnhtWUptQzJyMzU0S0dfMlFKVm1LTG5aOWVVY0s1X041WUdXdVJrTEhyeHREYzdZUUpCYlRJenVOLUloSG5TY3FFS2M0N3dJUmlnOGJWdEpCYUR3TTVvb3Z2N2JXdXRLZml4LS16azVfdDB1aw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762000148
-    },
-    {
-      "title": "Eagles numbers to know during the Bye Week - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0ZILUdCSm5fX1B3TVVNdnZOblJGRWZkTHc4YmoxZmlzLTJzcExSdk1LRGxwV041Mzk5UWYxdlFOVXItbXRfeTFiNVdyeDJxTFFZcFZxS09XSE5wQ080QThhZVV6WXpaRlVuY0ZucTJSRnJCQzJBY1ZnS3ZwLUVMY1gtZllHZFExV0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761980400
-    },
-    {
       "title": "Eagles trade deadline primer: Will Howie Roseman add an edge rusher or another cornerback? - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE5vdmFLN3RqVFlQczRCUXhsekdYczc5WlF1VXpmcVoyU1oya3V4MlozRXlQajZzOEluUVdDQm1EZnVCanBTeG5oZF9VWkQzNlExY0tmOTZxX1pBUWZYUFlMU2FBN0t2Q3VsWU1jdHd1T1FjNDhaSkJvSXo0bmxTVGlpcUpjOTV3LURIZG02bEFWUk1nYWpFeFpYYkVUbWpsMHN0X1drQVgzNjNyTmxrMDItVFlXZVlUcHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1761911495
+    },
+    {
+      "title": "An Eagles rookie progress report at the midway point of 2025 season - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQmxndEpzZEVwUW9IXzUtSzNoUFpvU2VIUUtEenVYTXk2V0F2Z3RZSlpVckRVUlFKQnRxUmNCTC1kNWw1dnNzdEYyVlBiZXI5V09rMTZRU2l6TUFmMTZwc0gtTVBtWHE2N0N0UHplLXl2QWJSQ2VNSEpLX3hjWFZzYnlkTXlnOElLTHFDeXJ4Y0E3eXhhQlV6Q0xtcUpRY1hTemJtNUZfZFhwM1RlZDQ5endxMTluQVdyLVpxSXpmX2J3QnJlajVGQnF0ZjNfM0XSAdcBQVVfeXFMTVl5aHZrQTROcnJTeFVCaXZ0VVc3d1FGQ3hPSTdsLS1pd3Vya2ZjTEd4TUNtTXplaG9hdTFiWWk3MVlTWGpDalFDeE5Bd1BmbmhlWjA0ME5FdkozWWlUeWRrX3RJQmFkMFlidlROZnNoUnRYTTRNY0pjWTJ5WWJ3a2ZJUDVONjQ0MkNTM2l3NkVUMmJ1OHRFQWJnOE1WWFdxb0t0VlhRZnBMaXJZRDl1dVc0ZUI4c3BTNE5nRWlyV1JsSFVlMkN2czVOc2VQWmtGalRxRGR0M2M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761908400
     },
     {
       "title": "Eagles agree to acquire CB Michael Carter II from the Jets - Philadelphia Eagles",
@@ -367,6 +337,30 @@
       "published": 1761767220
     },
     {
+      "title": "Toyota Player of the Week: Saquon Barkley | Week 8, 2025 Season - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMExLZWZ3TUdweE1tY0xacGJhdF95TXhBa2FLWVVkM3BnMVdsc0N1WmFtRURxTGRuQ1RUOU5RTkp2Qk01d3JZTGg1cmZzdmFKcFlpZWY2QmJNWWk4ZUVTRWs4eXVVMk4zQ0xVVG12OTBsbUY0UmtrQ2JvVm1INGxIY1ZMWWd5LTQyT2RfTTR5b1BKLUpvTW1uSUk2RHZRSXQ2WkE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761753791
+    },
+    {
+      "title": "Eagles midterm grades by position at the bye week in 2025 - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGtZbnFLRkJXbTExVnpHMWhOenFPRm1qWVdHd2dwMzZKV2c4WmxEeHo5aF9nXzEzY09vMHVVM2wtTDE4TDFKVmFtRGoydUc0VUhrNXRubWlFWjk4eXVEdjNqTjNIbW1rdElsMWZXM3g1cHdvdi13X19nWVZYbWQ1MEV6R1dwME1HeEU2T2dKem94Z0FjWVJBbF90YlhHeE45NXNsVHdSNTA0dFJlRzAtMTRtTmEySXZsTXJtWFkyVmM3V3prdXfSAc4BQVVfeXFMTXdJb2xRMW1vaGF3VE0tanFPeERacWFKZmNlMU9McTVEZEdBX0hFUFpzZERjZUxqYV9zNEZHX3FmNElaV3RnWG5VSEtHZXpxbVdUZVg1UWVORDNtNjRoLWFfSXlDWHFTZEpWXzZlQ19ZZzFrb2FHR0l4ZzE4Tl93SV9iblgteDZPQXI0cGkxV0VMbmZyaEFNakg5T1FodFcwUlZrZzAwelZlZFlaUDh3cm5QaDI0UFNMX2ZZandHbFVBb3ZTUWhwZ01PM3FoM1E?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761735600
+    },
+    {
+      "title": "Eagles PFF grades: Best and worst performers at the bye week - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEtIOHR0S2NSTEtYV0NlbVlXRE5SUjloTmZZclFNYVBLQkc0bUhjd1ZUX1FlbzYzMTEteFhyN2Z5NWdHRncxdWYyU2o4eHdSUktCb0xldzZoRkd2cTR5UmlvSXdzS2xKMmhtMVhqZndKcTZUdTlFZ3BNQVBmUnNDMHlLSmk3NkhoLTA0aTRjSjlxUHJ3N0pWMkhwTmdHLS1YdlV4RTlHX01JZ1hJVlQxVjMzaE9TTHA1N3JDcGZWY2VNeEpVcUZ3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761734204
+    },
+    {
+      "title": "3 major trades the Eagles should make before next week’s deadline - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVQwWkhDb1NROXdXUnBwdW9uUERDMlFBVHpFYlE5amhlc0lnYUcwcGFSNG1hc1d2R1p4cmZxdVlESEZ4bEFHeUZNcHd4OUFGVTRBWmxURjhnLUw0TDltVnViSi05VEloMDFTa1VQZkxYUVJpZnQ2ZnVPb0ZXRTFiV3JKb1NkZUN4RmQ4ZkhWWGw2YnZMNTVpaXFDWk9LSXhVbjZfdE92LXc1bG1CSzVRLVNOa3oyNzBRYXF5YzNB0gHSAUFVX3lxTE95bjJsWUFBUzJZWXktSC02Z242NHpGUU81OXdnLU9RcWthR3RBajJyT3Bjd1dhX3Z0UlBPXzNzSllQLWlzV1FNak9iNGlFV0hqQ1pmSzBwX1JSMDJFblBUc3B0d1RvdTA1cUI3TVlZdTMxNEw2bjdpQ0Q3cHV0bE5JQk8xaFY1NURSdmpINXpGYldmSGdublNnWWI1TFdpU3VuMU1PVmJTMEd5eXNuZ2lRalRvSHR5VjJXeGp2ekZRWGpibDROSU81bFNfX3paUTN4dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761732000
+    },
+    {
       "title": "Vic Fangio eyes continued development for Eagles defense - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaE1zNXd5MWU5VzJpTGNGMVNlOWdjV3JDNE9RT1I5cWpwb2d1UmRlSWk0Mk1QaHBkMkNlVVBFUW4xbFZHeE9pZ011UzNzNHlwQzNqbmxCWWN1SmVwZDQzS0Fwa2tESjdFdHhTTTF3bTdBQ1RUdWJZU3B4NE9sQUlCZS1MaE14LWtlTF9HYVFzSkRQMXlxbXhPOFh6UEtSSGl1Q282NXBjYlRMQVhoQUUwVXdHMA?oc=5",
       "source": "Google News — Eagles",
@@ -391,6 +385,18 @@
       "published": 1761664388
     },
     {
+      "title": "Bargain edge rushers who could interest the Eagles at the NFL trade deadline - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjBuTTc4MmtpWFdUa3BKRjBZTWZKdDlUZFdJQXVxcFRJcGZ5OFhwcUdZNzRGRzF3UDJFM2gzRDhJRkpfNk15ZXNyM3lOMjU4bFA5R1pLU2c5WFhBQ2h5RG5JYXVDRGNOd2pZdXZtTFZBOWwyWEU0bnNHNFBXQlcwR0ZuRGZEdHhkeHZvNXlaQlN0cTE3NzhhNS0wVktkMGp2TWdBdkVRQkdGT2I2RFZqSGs0R1NwTjNfOUx1S01ybEloRHZyaDZnRDY5OF9hXzdodnJvMHNYbUVueHpxcHFF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761646824
+    },
+    {
+      "title": "Eagles trade rumors, updates, speculation, reports for 2025 NFL trade deadline - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekF3aEJ2bzdRVTZWemhtOWhIZlcwLW9aTk9NU0s5MGgyMFRXQk9ra2NRNm1yNG0tNFdJeVhfQWdha0paZ1VnTi1mejlaNldoZDhGWEtBZGpmVUVyU01jeFJVT3ZQcUo5d1diZDZpM2dtaGdVRnR6UmpXdE5oMmlwYjNlbUs0N21MX011b3hVcVdLUS1rajRUcFpFWlFlU0ZoT05LSDB3X1htY3loX1A1bkliNVZ2Z29jaWNQMENNMFBBVkJOdDZV?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761640556
+    },
+    {
       "title": "Boo! Monsters Funday Football is Coming Dec. 8 Featuring Eagles-Chargers Set in the World of Pixar’s Iconic Monsters, Inc., The Third Annual Animated Monday Night Football Game Presented by ESPN, Disney, Pixar, NFL & Powered by NFL’s Next Gen Stat - ESPN Press Room",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZlJMd19NN2k1UmFzZ1d3ODRjQlZTTTVITk8yUzkyR3pkSWROM0pibTRDT0tyUnVuZVBSQzhac2hjZVk4NWJVVEljQ2FUeGxCUm94OFBhLXlldktaWkhqU3FvZEJ1M05XU2IzUS12czRVMjg0SVBHWnVSbm01VEtvcHpPT0FMdTByRzVDUUk1akpvUndzSlIyY19kVUNkMHhZTzY4Ynpya2NSY1lkYVdDYkEzTEtlNlNEcHp0SjIwZ2s5TWZMWFFNYkVUTHQ5eFIwTXdhWktpbDQzUVNSTF82aEY0Vml3QzV3bGlxXzYwNEJsaUhDc3pxR29IUS1uTW1Sb0UzdjJlbHJuT2lycDU3OHpyTzZtSDhMT2xZd19UNzQ1ZEFLYzgwdFY2OGxRWkZFNEpwdVZSTWdYbk9JUGl0eEpCUEluOXMzWDRwelhLS0J6ekNCOWFfaDkwVkVoUQ?oc=5",
       "source": "Google News — Eagles",
@@ -409,16 +415,10 @@
       "published": 1761588032
     },
     {
-      "title": "Eagles' Barkley 'finally' breaks out with 150 yards - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDBsN3lzUmU5MUpWa0draFhUd2N6TjBsU0pjSVhYdHNMZkxndlJ3UFk2MkVJTXNYaHdBUnVsQ0R3VHBMc1dyR2dRNlhCQ3o1WW1UbWJENUlqMjBVUkxPdEEzRURBVmROX1pCRDlUU21ja2lVaWFyUmppN3VlcU1pLXdud2VsQmVYM2RrdlN3NA?oc=5",
+      "title": "AAA Official Review: Jalen Hurts: 'I think the best is yet to come' - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemkydDlmYkxxN1hHc2hrclM0d0ZhNkdCTHhnM0s1WVNvWmg4WDVwbHVjUDJyakZMOUw3bkpkdWJlMkNNaUdTdXRwZEc4eUp0OEhmLVlXSjNPcHpYNmJlN1dTNDd5bXItVXluV0RCSGp5VENWYVlRa3hTRHVNSi04Q0RnRkRYa0JlbzZwMHlpYmxCNXdtYkJtNEtscEFHWkpZRmFmMW93?oc=5",
       "source": "Google News — Eagles",
-      "published": 1761520860
-    },
-    {
-      "title": "Saquon Barkley, Eagles run game explode against Giants - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2pnaGpoTmhMRmFSenFfSi03MWtudk5ZNDN0cWJzZEF6dElqT21ZQk5HRzNfWEJhUE42YzFhT2M1UUM3eXJZWVdyUnF4ZG00RkNhcnU5WnhKVFRCcldrVElVSDNEaVpJOGlsRDNTeU1KSFdtaGxta1dPejRMSWVZaWpXR2doMXZQX3F6YUtrV2JldXNoTWI5ag?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761519679
+      "published": 1761548400
     },
     {
       "title": "Eagles Locker Room Interviews: October 26, 2025 - Philadelphia Eagles",
@@ -439,10 +439,16 @@
       "published": 1761375600
     },
     {
-      "title": "Eagles Drop MEAC Opener to Delaware State - North Carolina Central University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTl1M0VmZHdHcDF4ckRwOXVSMGN1cWxpOVJkRF9nUlprMWV1YUc5M1V2Q29odjBJUWtGWXFoZkhhS21JSEZiUHNpQ3F1TlQzclV0ZTFZckFVRWd3M1EwcjNIazNPaGt6R3FHNE1icnN0aEh2UHhuZHJ5MkNmU1lpWnVrajY2WDl2VHo5cFBuVldnWG9ZUzZsMUJ5dHFPSFE?oc=5",
+      "title": "Ranking the biggest Eagles villains of the 21st century - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUNncDFtWUJaR1k1Q3pTY3B1YTRwTHBUSzhhY0tPdE12SnhXWlJBZTRzT3NLczU5MzFQcEE5NWg5Q2pvZWZhUGl2N1NwR3E5ejA4ZkdLWjJ4eXlsZ0xZSUc0OUNMTHFrVmwta3lQQWgxQ1BrUEd4SC1EVWFPekYycEhaV0JxdzJEeEJLZFd0UlNmMm1vSUtKdlhSUG8xWVRreTNNZXFGV2FXd3Vwdnlqam1hZEhMVUc4R25VSjdNMGlqZzlL?oc=5",
       "source": "Google News — Eagles",
       "published": 1761375600
+    },
+    {
+      "title": "Graham back for chance of lifetime with Eagles - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUJDUk1kYUx6MjFGeEc5QldaV2d3RkxqUGw1UlV5eXdhVkl5UWVxX2VKUEl1ekphQlo0QVlQaUtfMVphZXRKQ1pnTDZIZ2V6X0pVTW5acmhydFpwZHl1LUVFTVd2dG4tbF9DeTNSWUcyVlJyUUFySldQVHJqNXMydDhILUdEdVF0ek9henhvcENjUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761116400
     },
     {
       "title": "WORMBURNER is the First Philadelphia Eagles Deathcore Album Produced by Artificial Intelligence - Crossing Broad",
