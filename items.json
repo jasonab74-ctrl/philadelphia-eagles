@@ -1,16 +1,28 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-05T23:40:29.546654+00:00",
+  "updated_at": "2025-11-06T01:48:10.583459+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Packers vs. Eagles | How to watch, stream & listen | Week 10 - Green Bay Packers – packers.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSlZFZ0o1dVI3YXphMXdZV2JwQldEck1WNXZPM1VsM0RTZFBxeUNyWHdZcmVaRFR3b050c3h2V1Q5ZmZ1S2FzQVZsS2Zvc0QwRTZCUzY0Ql9WRll2OXJoUnBOMksyMGxmbFdwVExVVGZHQ3F3Ynh0UEctQU96N3lScF9qeFJQVlRTaDNvUXQyRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762376890
+    },
+    {
       "title": "Howie Roseman talks through the Eagles’ deadline trades",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/162881/howie-roseman-talks-through-the-eagles-deadline-trades",
       "source": "Bleeding Green Nation",
       "published": 1762375782
+    },
+    {
+      "title": "How to watch, stream, and listen | Eagles at Packers - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTlyTUZpT2ZsSjdudURVVmt4S3l2NjJDSXZkU3dmWlNQRVhpSm05cnNheXl3OTFIUzJJc3hFVlUyQnIwZkJ4X0ZpUkxnaGdJVVg2cV9ieER2WjBFcjA1VmpZNU90aFE2bHY0TnBXNVJ4cnNNeFFTdndGNGhscVlSWV9jT2pIX0Fhd0pRVkxSZTdQbC1BeVFJcUkxMDh3alRXd2Fr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762374447
     },
     {
       "title": "What have we learned about the Eagles at the season midpoint?",
@@ -43,10 +55,16 @@
       "published": 1762344000
     },
     {
+      "title": "Updating Eagles depth chart and tough roster cuts to come after 3 trades at NFL deadline - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHNONTEwSGVxbG11NG1Wdy1ENkxlY0FKSEZQVVRDamI5eEJ1Z2MwQ3Z3UXhObkVFVFZtalVSdl9VQ0RmOHM2SGhtQlpvSVlxSHFYblhZa1FxVUpmYnI2Rlhhajdla2x3NV9kb1FOWTBZOV82a2FLNmtOUC1ickh1S3IzeUtMVTBkSmNYbTc1MXEyV0tKMGJxN2FfQnlnbjBiZ3lpRlFTSUdoUHBsN0N6ZW1mY0sySnlTX1psNDZRZzVqVDAwUGtJOQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762336327
+    },
+    {
       "title": "Eagles' GM: 'I Won't Live With Regret' - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3dHOWxNc19ZUkRrQS1yVXNYZGpObHkwOFFZUzJna3pJeDJ4VTF2NC1mMDJaRHVVc1NWUHgwNl9tRkRZdXdaUWRvQVFDUlpkbEZIQndESnl5NUJJRnJMZkd0NnRrMy1GY3ZGTGdqaDBvQ1VoNWJQMVhaYjItWDVUUmZ0TDhwQ2RjUU1VWUNQNFQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762301536
+      "published": 1762301605
     },
     {
       "title": "2025 NFL trade deadline: Eagles GM Howie Roseman explains why team did not deal A.J. Brown - CBS Sports",
@@ -59,12 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1JzZXh3YkZpWUgwUHFYZndSdzhNSFl6VkpaM19TQ2t6UFIxS29JdkJlWlp6cGNnSmhHT0kyWXoxSnh4SzQ4Mmw1V05PMFhLbkVPa3EwOVVkMHR0Nm1CR1FiblRTanZUMHJ6eW16bkhBaDhfa0VsbmZZRDY4RUIzRUdRb2h5MWVLQUJoNGZ3UzMwajJwcW1zUXFlaHU5U0U3QVRtSnRDblo5TktpNDVnVG04R1Myd0ZycFBKQWNWQlVpQUFZa2lHalg3V2p1MzhOaG9pVWMyNDFDR2xTLUtpdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1762299256
-    },
-    {
-      "title": "Howie Roseman Explains Why Eagles Held Onto A.J. Brown at NFL Trade Deadline - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZV9KOU9sTmhVMEdHeHJpUlNEeTR6QzZJbUhPNy1kNVN5SzRmcFNKTENkSndnZnp0TEFmaWtjTEZaZVV5OE14UlQwc0o1NHpMM3hET2hNZUwyVXBDQVZHT3k5WEZUUnpwYTZBbFBsQkRocXdpNGZlTTFkQ0c0Q3dLRG1GTEVSdlMtazd2ZUg1dUp5czAx?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762298659
     },
     {
       "title": "Spadaro: Howie Roseman strikes again - Philadelphia Eagles",
@@ -199,6 +211,12 @@
       "published": 1762184955
     },
     {
+      "title": "Eagles make a splash to add edge rusher ahead of trade deadline - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQkFwejRNSUVEVU0tNjNGZjdsbm1rTHFYOG9vdVRyd0E1UzRKYWtxNks1LW1kX2h5dndnckNyRk55dFNTUFlROU55cWpTV2oxUXJHMnlRc2RLWDlGNGZJQzgxWW5SN05lemMwSldjSnNVMW4tMUdCblQ1NzlQbmRuZzVTdWlNOEFfbVB2Uld5TEV5TmdaVDQzQ0I4SkdIcVFRazVHVXBqUVdWck4zOUtxUUZZc3dRZ0l5YlRjc0JMeFB1M3RNRUZFSC04cHA0VDl4RTg3VElrRdIB3wFBVV95cUxPbm82ZUJNSm13UVZBZ0xYRmx0bDJMTGZiWjRVVE50RmtMeG91UzlvTjdtSzlRUTg0MDZJRUJUc1RubzhzTjJWOU05YllwT1otMG9Edi1JV0w4dEMzWEI1bFlra3FFXzF4cEo5TkR3T3dVckJEVF96Rmdqek0ydU1PbE93SFVabmtLYjFld2RfY2hzdlQ5NHBSSUZRNlVORkNpUWtGWFVMRi13R1dxeW5acEVlWnlmQ0VHbFNZcjVGT0ZtWWNWaWtTWFFULURwVHNFSDYxY0hPZ0M4V3JQaWVR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762179851
+    },
+    {
       "title": "Jaelan Phillips trade grades: Did Dolphins or Eagles win deal? - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0pvLW92UHczM0N3NTZMMjRuS1V0YVpSeHFERldrWnNFLWdUQmw0UmtnRVhVS2dPcUE0ajgwQ2JIMVN4UlllMlcxT25JWUp4V3RxbXRYUnlwOFk1WGZvNVZvN005Vl82eWZuWU4xaE1UMlo1NGo1ZWNaQ2VPVW9yY0NqWmpfLXVZNDViamk1a29VclJfcUphZDZNM25DdWM5Rkdia1lwSUh6WU10a0l1VzlXaGNlQWRz?oc=5",
       "source": "Google News — Eagles",
@@ -277,12 +295,6 @@
       "published": 1762089118
     },
     {
-      "title": "In Roob's Eagles Obs: Trying to make sense of mystifying A.J. Brown situation - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnJMQWNieG1HRjlOM0tTNVN1bHgxWUY1RWJkbVowR3hwMGkxcVVIV2FtckxKaTJWYnlHbmdac2ItdGJ4ZkZnWHVSUTRCaE1xLXVSTDM2cEZweHM5TWZMNC04V0l4ZHNiVjBKMXV0VTZPbEpUN0VjZnNidHExQmRHWm9NNDhuZXBnXzU4azh5SUV0S2ZwNk5sd0l3RzJJY3hBOFdmOHZUaDZuSmdoUmdybUJoMkJoU0VyLWZ1OHdmRWFhSUVFZmV2NlNDWWYzU0NO0gHYAUFVX3lxTE9ycldQSWx1TzZzV044RFRqeFJlWDVhZDNLNlBkNklfczhOS1dlR01MX3BZczVsNk5rUm5rcWVDS3owRTFGTTRkeHdFcUlFbjFLbkd2SFdrLWRRVjB2OG9BQkRhN1Y0b0Jxc19oWERvaFpyWWhIcjlxUHlMOGRIeTFHVUxCQjU5eVFnY0lBc0hETnM2cWhHeVRMQTBvR3VueG9kbkdpamlTSkJBM29MVGx4V3d1R0FObkFKSkJyYmZlRXlhNk9aVFRuaTMtTENDaF9QazBxdHZ5LQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762084800
-    },
-    {
       "title": "Week 9 non-Eagles rooting guide - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0xuU1VzQi1PMUFLY2ZBdGJScTVBS1RyNTVPbWVJRVQ4TC1nTm1sZDVsa2JRUDAtRFV3Z0p1N05zOHFQcE1lLWp1Sk8tNjd2Q3ItaTh4SGFoOXd1U1VCaVFYaUt4clI0bHBCLU1VSlpfN1NLay1nMVgzSU1LSl9WR19KSV9vV0hqOW9rdWlsdTNHckxLajd2LUdHMWhHeUHSAaQBQVVfeXFMTVJCdi1TZWVZdnVKZ01BaTRoYldTdDBfUlQxcGQ2YkZvMXdoMXo2cHdWRXdUMWVZbUFKeDZiNTVTTkRmU016cGdLZDE4Q09xald2SXZSRUFRdWhrMlBUSVpiVWpNWEtkdTFWUVpPUVJXcjJMMld2UG9TcnhFdzEyNUdmUVNFQUg2eDRtWjNPM2RDZXY2aWNuaUo2dzR4NGhKY0NvZUc?oc=5",
       "source": "Google News — Eagles",
@@ -313,10 +325,10 @@
       "published": 1762034648
     },
     {
-      "title": "Eagles trade for Jaire Alexander in deal with Ravens as Philly adds second veteran defensive back - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlVrdUdQWmNnUWhXQXAzWkVhUXRYY0tqbG9fQ0hMTnBnOTlWRTNCR0xuYUJiYnFIRlNCVUg3UGppeHZsbkpZZzhWVGhfTnl3Znc3cmRoVXkyWjhjLXB6VkVpdEhNeFRjSjRuREkwcl9keFB2ZXRPc2IzYXpEeVRkWk1mOGpJMElfQ1ZnNm9PM25zVnplMjV2U2ZCQXBzMW9VNU1lM2dkZlhrWVhURW9vYzdKeENOMzFuTmc?oc=5",
+      "title": "Eagles acquire former Pro Bowl CB Jaire Alexander in trade - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZnY4Wlh6TzZRQnppem94eDVBMEVpdExjZlVfTXVYMGVKT3d4VC1FNENpalhYRG1IN3lSaGhrS0RlWTdOd1BRU0ZJRjlzaEhZelYzbEhmeGZERU5OLU1oeUlfay1vLTBNcjZEVTlOWEZfREl5cEhVNFIzZE1rc2VWTG9pRWdNcWhrNmVaUFVldlIyNVlPeUhwcFlJajFjYk1CV2pJQVdSWkFwbG5TbVR4VkxKZTNhMUpTYWJBbkdBVVlHeXZ0eW1XMUFFdC1TNDNoVzRtRUhn0gHeAUFVX3lxTFBDVTFURnFkeUQwZWV3bFB6MDBDaVZSZ0p5b3hnbHVabTJXWm5KaVo3RjVSaEFYMGZVamUwb0hmanlqQkduUnYyZlV1N29UZzdkVmxXM3poR2U1MmVlZm1OcWJnU01UMklseXBMM2h5OE56VFcxR3gtU2d3bWE1V0d6ZXpOcG1aSG81QWZpTVBFZ0h3NERiZVpTWTJzdzhlWGRXX0xzakhVVDRvMl8tZ3F4T0xTa0owd2hGaDdpZEx2RGtJVlEtVzNSM3RqTmdzaGFrWlpIZ2xRQnNuMGNKdw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762033539
+      "published": 1762033901
     },
     {
       "title": "Ravens trade CB Jaire Alexander, 2027 seventh-round pick to Eagles for 2026 sixth-round pick - NFL.com",
@@ -335,12 +347,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGhsai11Q3lmLWluWkdZUjVEWlk1bjhMSFlSM1VKVjk3N2lDb2ZxQTZiZ0x0ai1fakZPTG54RHRhVV82dmU5Q2xmb1BSZnFHOHp5Y1FkUlhDdG1PcXVDUlNkLWFGcHdQWm04RGx1TXdJdUpEOHl6N0NmZHdVY2lRa1lSRU1yTmxCLVZ2QVJDcjhmRzBFNjZrMl9kT1FFdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1762032816
-    },
-    {
-      "title": "Eagles acquire former Pro Bowl CB Jaire Alexander in trade - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUJqUnBOcXlKWi16cHZicU53QzFfYUVMNHZlR0FxQkg1MGJLNW51OE5zR3hwZDdpUUVTZ1lkRFRjYjd2Yzl6ellVUHAxaXlsTlF3RUo3ejhSdDNvRkYyU3ZTTzd1MmhhX3FfZzRfQzdBZ19taDZFM2hpUXJVRTRreURFb09EWktSQUl2SkN4ZUhDVE5rNDh4LU9laE5BZjZadi1hekFWLWRCR2o4T3laQ2k0cmdyblI3Yms1QVlJUjIwb2gydTFSMFVkSGjSAdQBQVVfeXFMTTlDMG5LV0VXbWRabmF5Z1RmYXM1SWYxREZLMmpZYlFWN1N1VUJBOUoyQUlfbU9XMDFRMUlyX210Qm9LcG1LSTlPYUp3WHdJQm1COHZQQjg1Vi16cXpYZW54LVpuV2VJZHVQdEVDUC0xcTg5dVNsTElTM0dwQVl2Y2RZUWdKOF9mUWI0SjRvZ3BlMEoxUWx5RmFuQVdQUHFqUGVfVEh4bUpSa2JTRWxaT1cxdDBNams3amZocjd6a3YtNHplZ3BUOURvYV9ncW1pRjFVS18?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762024176
     },
     {
       "title": "Eagles-Trey Hendrickson Rumors Should Have Fans' Attention - Sports Illustrated",
@@ -413,12 +419,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaE1zNXd5MWU5VzJpTGNGMVNlOWdjV3JDNE9RT1I5cWpwb2d1UmRlSWk0Mk1QaHBkMkNlVVBFUW4xbFZHeE9pZ011UzNzNHlwQzNqbmxCWWN1SmVwZDQzS0Fwa2tESjdFdHhTTTF3bTdBQ1RUdWJZU3B4NE9sQUlCZS1MaE14LWtlTF9HYVFzSkRQMXlxbXhPOFh6UEtSSGl1Q282NXBjYlRMQVhoQUUwVXdHMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1761634800
-    },
-    {
-      "title": "Boo! Monsters Funday Football is Coming Dec. 8 Featuring Eagles-Chargers Set in the World of Pixar’s Iconic Monsters, Inc., The Third Annual Animated Monday Night Football Game Presented by ESPN, Disney, Pixar, NFL & Powered by NFL’s Next Gen Stat - ESPN Press Room",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZlJMd19NN2k1UmFzZ1d3ODRjQlZTTTVITk8yUzkyR3pkSWROM0pibTRDT0tyUnVuZVBSQzhac2hjZVk4NWJVVEljQ2FUeGxCUm94OFBhLXlldktaWkhqU3FvZEJ1M05XU2IzUS12czRVMjg0SVBHWnVSbm01VEtvcHpPT0FMdTByRzVDUUk1akpvUndzSlIyY19kVUNkMHhZTzY4Ynpya2NSY1lkYVdDYkEzTEtlNlNEcHp0SjIwZ2s5TWZMWFFNYkVUTHQ5eFIwTXdhWktpbDQzUVNSTF82aEY0Vml3QzV3bGlxXzYwNEJsaUhDc3pxR29IUS1uTW1Sb0UzdjJlbHJuT2lycDU3OHpyTzZtSDhMT2xZd19UNzQ1ZEFLYzgwdFY2OGxRWkZFNEpwdVZSTWdYbk9JUGl0eEpCUEluOXMzWDRwelhLS0J6ekNCOWFfaDkwVkVoUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761616344
     },
     {
       "title": "Jamaal Jackson: DeSean Jackson is following in the footsteps of Coach Prime - Philadelphia Eagles",
