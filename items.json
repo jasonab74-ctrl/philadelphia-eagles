@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-06T20:25:28.914085+00:00",
+  "updated_at": "2025-11-06T20:43:33.569746+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles open Willie Lampkin’s practice window",
+      "link": "https://www.bleedinggreennation.com/news/162964/eagles-open-willie-lampkins-practice-window",
+      "source": "Bleeding Green Nation",
+      "published": 1762461318
+    },
     {
       "title": "Eagles open practice window for G/C Willie Lampkin - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzV6dkNVa3JaMDl1a1k3T01LYzg3dUhtWkM3aFBaTGhsSGNKWW1YSVp3RmxLejMtd21ua3ZfbUVFNjEyeXNWWDFHdmtabGw0QWNGZ0tSRzdNcWhiUWMtMjN4dXBrY0Q4SVlWZXd0TkJIb1FteDJZNFR4eEF3U1hsSmp0WnBQVlhua0E?oc=5",
@@ -115,6 +121,12 @@
       "published": 1762358514
     },
     {
+      "title": "Eagles GM Howie Roseman on decision to keep A.J. Brown at deadline: 'Don't get rid of guys like that' - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelFrVzJvZ19sWWpwbVctYl85MGE2ZEVzMnU0d3U5WlZ5eWUzWmc3UXpsWTFQVzVVM3BRRGYzMjJFeDJicng0VldSV3gxT1drSkZTQllMTWFVc0N3LUduVDlsWTNiSEJIUVZ4NEtQWl9wXzNxV29yUWE1SXh5UUNPNlFoYnRtOUd5MW80ZTZSRmlDYzRDVUtrV3BnMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762354560
+    },
+    {
       "title": "Why Howie Roseman believes Jaire Alexander can revive his career with Eagles - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGVZcmM5VlRjNUlKNnZjVEpqWEdOUG0zQ0FMVExPdjVZUDV4X1VfeUxia3Rad3d3d2tDWFhUa0xlTndlWXEwa1RSVU96NDVSNlZrNURCcWhLclA4N1BtY1FrMVF0OWJhVThCTU80ZWxPa0JjTlZpR09BXzdmMFBERVlTcTNjem1Na21jdGprOTQ3OVhndDYwaWxhRjZiaWdKQzlGVHVhelo5azNHcE1jemNNZ2xMbXM5YnlwWHF5aGpyT0R6RzNBVEFMT01RR2pRS3ZN0gHbAUFVX3lxTE4ybXZnZ19NRndOT2pIeXJncUpldEVQMHZ4R1owZjhTbFFwdHlVZVF6X0VzYms4dmxPVUsxMGEwOUx1LU9YbndDVnZKM1RYTnhxeV9VRFlnOTNNVGcwZ3A2Q21CMTl2S0pra0VXQ19CWU83eG84X2JLS1dfemRqNE9UWERnUVN0eFFIZGQ2Q0xDMm9QeDVuVWNPT3FxdGJGTm9ZZW1hcW5fUEVMNkpFNDhoaGtmXzlLaTkzSXhqUFFLSm9FbFFwY2RwZjNUT3VxVnVCREY3TjRCUnI4NA?oc=5",
       "source": "Google News — Eagles",
@@ -163,16 +175,16 @@
       "published": 1762297309
     },
     {
+      "title": "Eagles Did Right Thing With Superstar WR AJ Brown - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGg5eVl4VUg0MEROcXdIRklndU8tNmVKOTVsbThhMzdycG4zOFk3WXNISkhFNnBoOVRaRTlBYzJoSW1NRGg2WThEanBUcFltaEV0RURvU0gtN2tCZ2lhNzJXLXNaWjRGSWhXa2xKNFpCRzF0bTM2NTBEUjhNWHdIRHYzTmtZczhtNEhGZWg4OFB6eU9ZVnUxOFZn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762293196
+    },
+    {
       "title": "Eagles Film Review: Jaelan Phillips is a talented pass rusher",
       "link": "https://www.bleedinggreennation.com/eagles-film-review/162809/eagles-film-review-jaelan-phillips-is-a-talented-pass-rusher",
       "source": "Bleeding Green Nation",
       "published": 1762292974
-    },
-    {
-      "title": "Eagles roster news: Nolan Smith practice window opened among others moves",
-      "link": "https://www.bleedinggreennation.com/news/162826/eagles-roster-news-nolan-smith-practice-window-opened-among-others-moves",
-      "source": "Bleeding Green Nation",
-      "published": 1762291250
     },
     {
       "title": "Grading the pre-deadline trades the Eagles made to help bolster their roster - Eagles Wire",
@@ -185,12 +197,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVhvVEZtRW1kOUtoN04yTGdjSGwtUUpVRWt1ZDRKc3dUVUozcm9KMXg5eFJjNjA4YnZhM2s1UnFGVkN6NndoZFdseG5uczFkaUtWaFZSWWxoNWFkUWhPN1NUbm1RWE8zZTZCcXNjYzhCNWpCZVRjdXhzUWlPWV9KMEp0Njc1UVdGZDBCME1kUHJScXJ5RWhMZU9GcW9tRWt0MDRGUEFZcFloa2s?oc=5",
       "source": "Google News — Eagles",
       "published": 1762289509
-    },
-    {
-      "title": "Will Packers vs Eagles 'Monday Night Football' game be on YouTube TV? - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEhRSndVZ1h4MnRaV21JMm90S1FBVUFlV0pwc1BYbW96a0Y5NExJZl9DZExLNktKN1h1eVZiTnU4b3RCYXZLOUlQMFQ4SHlmMS1ESzMtZE1DNlNZc05qSl85WHZsUVhBUExTcnlZY0lMSDNZcmNmSXl6TUVOLXF1MVF6Qm1IQlhNUTF3QWtPZENNeDhpckJsZFYtTm13eUYyQWhhOUtvLXpxeHhXdmdidU9OTFpNbTZ2alJuZEtR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762271259
     },
     {
       "title": "Detroit Lions GM Brad Holmes is not Philadelphia Eagles GM Howie Roseman, and you don't want him to be - A to Z Sports",
@@ -299,18 +305,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2RCbTJKVU1XUGJXS016MllES3RSWjlWVmlraV9aRXF2VTktTExLaXV0WDRuT2c4LXlTeDBoV2hUT3BVbnIxNkM0dDU0QTFZY0hPMHUxbWdhS1I5M2l0MkljbXRrcXRQaVpUaWdFLW13QlpMb2w5R1NvbUJTbUlrTWRhQUlJanE3N21vTW1OTFVpWV84bnFITkhya21IV3dBTHQ2QWtDV3dRdElmLW0wY3FPRVVMNHBnX3VMblViMl9TTUIzaWZLODFhdXFFdjh2Zm4yY2ZjcExURmZtMTMwODhIVl9VMGxxUXd6UUMtbjVsejFrY2c?oc=5",
       "source": "Google News — Eagles",
       "published": 1762162064
-    },
-    {
-      "title": "Spadaro: No Bye Week for Brandon Graham, who eyes his debut in Green Bay - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRXJzeU4wZThkTHFVeDBiZ2dZbHFVVUNTVHlqdGNFRXRiRmZZajM0QzVxSjFpZENuelNJc3B3NjNxT21vUmIzSldQVTVPSDFld19Ob1JYdmpSLWlUSnV1bzUyMVJORDB4Vjk3aFJETWw5bDlOUnVJakJqeEp4NmR0SDUwS3VlSy10WFE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762156800
-    },
-    {
-      "title": "Browns 22-13 Eagles (Aug 16, 2025) Box Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93eHlkWkwzUFFJdXNzaGIxcHlfMGIyc01TMHBkU2dsZGNFSFY0cDBLM2VHc01SSThBOUNaSU1KdDhxZDNvTk5naVdvdHh1TGFnb3RRYlNOOXBHR2hRQzRMZzN3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762156800
     },
     {
       "title": "Eagles' move into the No. 1 seed in the NFC after Panthers 16-13 upset win over Packers - Eagles Wire",
@@ -461,6 +455,12 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDlDcU9KejktLUllZWVKRlR0OXBoRExJVzkwTldKYWNhaktjbGY2Q3pBcGx1c2QwQm9PUHVySzJtQzkyOGxobjR1b0ZsMlhEbTEyV2ZrT05MY01uX05Ca3FxWWhWYThUa0pvcWNlNHVEeDIwR19ESU1wbkctdHRYcnR2OEVmR0UySEx4LUJSbF81YnhOUDYwSUNGc1otTHlsaDBiOE9uUDNWdzhrSXFPdFI2WFJkYUVKVE1FaG9ydmRWRTdZdXhOSGZ30gHSAUFVX3lxTE13Y2JLUzh0T0dQTFJYNkt6dThIeEN4Qm9URFNRQUlUaHV5dGtId3pHRWhjdHEwQkFldzdpNWV5cVN5NjBra1ROcGRGbFNjMDFPUGg5QllYa3U1Q3plcEQ5ZDk1aUl3ZFNGbVBKS1BPRDMyNTZCX0FzY1JMSmRQTGJ1NVRxODNnbnFwV2dRWDFtdndIdU9ZdnJMWmJjY0V2WW90UFh1NnJTZUFBZlBUSzJtMTFVbUxRV3BESDg5b18yWThXM250cmhqR0dqU1dGZmQwQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761588032
+    },
+    {
+      "title": "Jamaal Jackson: DeSean Jackson is following in the footsteps of Coach Prime - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUhNWm5kYkpWX0h3ekZmb1dVUkhJb0pKc0pqOEVERzhISHgxWmZIU01GbUU4UXptSzhXYjdpbGJMaWd1c2JSWDJORWctdVpldlVGSGNERklJVzNsUm5wV2RDRzN3T19SdGJZNzA0MUFWb0dCYldlc29lRC1Ialpac3FJTnVyU3VkZTczWjEyQUl5NVczVDlOc01yYlBBOG5fNjVpNzB6WVVaV1J2N3dwU0gzdnE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761548400
     },
     {
       "title": "Eagles' Barkley 'finally' breaks out with 150 yards - ESPN",
