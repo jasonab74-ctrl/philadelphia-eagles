@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-07T15:42:26.794635+00:00",
+  "updated_at": "2025-11-07T16:25:23.327067+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: A.J. Brown addresses questions about trade rumors",
+      "link": "https://www.bleedinggreennation.com/news/162992/eagles-news-a-j-brown-addresses-questions-about-trade-rumors",
+      "source": "Bleeding Green Nation",
+      "published": 1762531914
+    },
     {
       "title": "Jaire Alexander: 'This is the best I've felt' | Eagles at Packers Daily Updates - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUplczlsMVVoZnJMWlgyQWU4YXpMY0VadV9sYnA1Sl9nbUNxdm9lZ3M5MW5jODJyeHVSOEZibTVUTEpiU0d2QlZUNFAtSFhRbUtBQURhYjd4QTVBWXVRLXlXSmlXMTlaMC0wYTllNDk1eXJoaXFDSlE1dE5TYTZtYzM5RWphRHRlUjlDQQ?oc=5",
@@ -119,12 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSlZFZ0o1dVI3YXphMXdZV2JwQldEck1WNXZPM1VsM0RTZFBxeUNyWHdZcmVaRFR3b050c3h2V1Q5ZmZ1S2FzQVZsS2Zvc0QwRTZCUzY0Ql9WRll2OXJoUnBOMksyMGxmbFdwVExVVGZHQ3F3Ynh0UEctQU96N3lScF9qeFJQVlRTaDNvUXQyRQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762376890
-    },
-    {
-      "title": "Howie Roseman talks through the Eagles’ deadline trades",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/162881/howie-roseman-talks-through-the-eagles-deadline-trades",
-      "source": "Bleeding Green Nation",
-      "published": 1762375782
     },
     {
       "title": "How to watch, stream, and listen | Eagles at Packers - Philadelphia Eagles",
@@ -379,12 +379,6 @@
       "published": 1762037220
     },
     {
-      "title": "Eagles Acquire Two-Time Pro Bowl CB - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXNrWi1nOFRfNHV6VklybTZUSXZNRVJTMXN3QlFiclhPTUsycUxua2daR3FHUHJkdm5JUXVmN01CZjg5bm5DN2ZWUDZBemRoMzQteXA1VXpDdE1ocjNyeGt0YnQ5WHU1d2ZkQjFDOThqdDRJbXk1bXQ0Q1hPYjdJZmhUZG9JMlVoek9NNXZ5aXZjUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762035219
-    },
-    {
       "title": "Ravens Trade Jaire Alexander to Eagles - Ravens Home | Baltimore Ravens – baltimoreravens.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjVxQTJrdTFydHpyVURSeF9NaFpvazFnLV9FWnVPY1NJd1h0ZzNMNktWZ0dkczYzN0pxUTNIR3JpVDcxcG85VkxCaG9uTkpGQkswSk5SWXlvd0hpZDJvRW5HOFhLNjAteGt0V3ZnVEFGTi1lWU5rTkZoUk5RY2tacURUbTIyODNQbl9lRF90N2tRNzA?oc=5",
       "source": "Google News — Eagles",
@@ -443,6 +437,18 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE5vdmFLN3RqVFlQczRCUXhsekdYczc5WlF1VXpmcVoyU1oya3V4MlozRXlQajZzOEluUVdDQm1EZnVCanBTeG5oZF9VWkQzNlExY0tmOTZxX1pBUWZYUFlMU2FBN0t2Q3VsWU1jdHd1T1FjNDhaSkJvSXo0bmxTVGlpcUpjOTV3LURIZG02bEFWUk1nYWpFeFpYYkVUbWpsMHN0X1drQVgzNjNyTmxrMDItVFlXZVlUcHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1761911495
+    },
+    {
+      "title": "An Eagles rookie progress report at the midway point of 2025 season - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQmxndEpzZEVwUW9IXzUtSzNoUFpvU2VIUUtEenVYTXk2V0F2Z3RZSlpVckRVUlFKQnRxUmNCTC1kNWw1dnNzdEYyVlBiZXI5V09rMTZRU2l6TUFmMTZwc0gtTVBtWHE2N0N0UHplLXl2QWJSQ2VNSEpLX3hjWFZzYnlkTXlnOElLTHFDeXJ4Y0E3eXhhQlV6Q0xtcUpRY1hTemJtNUZfZFhwM1RlZDQ5endxMTluQVdyLVpxSXpmX2J3QnJlajVGQnF0ZjNfM0XSAdcBQVVfeXFMTVl5aHZrQTROcnJTeFVCaXZ0VVc3d1FGQ3hPSTdsLS1pd3Vya2ZjTEd4TUNtTXplaG9hdTFiWWk3MVlTWGpDalFDeE5Bd1BmbmhlWjA0ME5FdkozWWlUeWRrX3RJQmFkMFlidlROZnNoUnRYTTRNY0pjWTJ5WWJ3a2ZJUDVONjQ0MkNTM2l3NkVUMmJ1OHRFQWJnOE1WWFdxb0t0VlhRZnBMaXJZRDl1dVc0ZUI4c3BTNE5nRWlyV1JsSFVlMkN2czVOc2VQWmtGalRxRGR0M2M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761908400
+    },
+    {
+      "title": "Photos: Polaroids of Kelly Green - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMjhjMVRoaEF6ZkxHRVhRbU5iVjdXX3lsTlZFdG1tYzcySEFLVTFnb2o2cXY4eUR6MmIzYmRCcWEyUTFsYmZTdGZKaXVBMXZ5bjRyQVdDdy1WMjlqRGlkblZvVHY4cnJQM1czeFBpcmNaVGNDbE9kbS1uWFVpUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1761829446
     },
     {
       "title": "Eagles agree to acquire CB Michael Carter II from the Jets - Philadelphia Eagles",
