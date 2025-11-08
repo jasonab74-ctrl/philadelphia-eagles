@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-08T14:39:35.735894+00:00",
+  "updated_at": "2025-11-08T15:19:22.306397+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Packers Game Preview: 5 questions and answers with the Week 10 enemy",
+      "link": "https://www.bleedinggreennation.com/eagles-game-preview/163037/eagles-packers-game-preview-5-questions-and-answers-with-the-week-10-enemy",
+      "source": "Bleeding Green Nation",
+      "published": 1762613192
+    },
     {
       "title": "Eagles rookie storylines for the Packers game",
       "link": "https://www.bleedinggreennation.com/eagles-game-preview/163034/eagles-rookie-storylines-for-the-packers-game",
@@ -37,12 +43,6 @@
       "published": 1762595474
     },
     {
-      "title": "Eagles at Packers Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMm5ZMk9DLXhndnFYcnlYRHY0MUxWaVc3dG1EUkswUXJVN1VibWhiM0hOM3RORmNWZ0c5SWVJUUxZVUhzVHdpUlBkSVBMaHpVMDNHdVd3ZXRieGxkOHJZNHRrbUZoY3ozTlhtY1cyYXJIa003MGRfU1JySGNLZmxxSkZsbGh4TmUyQzd1VEhLY0lGdExlX0xIN3ZZb0lYalRyTW5ialNIamxFYWJodUU4Z1NZSnktVTlBaWNGOFNhNGtrMnRlZWk1MQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762558421
-    },
-    {
       "title": "Eagles Injury Report: Cam Jurgens misses practice again",
       "link": "https://www.bleedinggreennation.com/news/163015/eagles-injury-report-cam-jurgens-misses-practice-again",
       "source": "Bleeding Green Nation",
@@ -65,6 +65,12 @@
       "link": "https://www.bleedinggreennation.com/eagles-film-review/162371/eagles-film-review-analyzing-jalen-hurts-2025-season-so-far",
       "source": "Bleeding Green Nation",
       "published": 1762538460
+    },
+    {
+      "title": "Best Game Winning Touchdowns in Eagles History - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUmo4NVFkYzhTdXp6SGFKZWJTTDl2U0JHZHUzb0doclNFQlRYTmZBTEw3NzVObmtpeS1wMHYyUDEydm42T0FyNl9UbXRGRFFqa1FmYnQwOUJ1ZEV0ZTNzWlo5QmI5SnU5eUQ2Y1JNVk5DRldxeTN0SUJMazJNZy0xbzI4UWFqczJPNnZBcnZRU3M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762538110
     },
     {
       "title": "NFL Week 10 betting advice: Eagles-Packers pick and prop bets",
@@ -121,12 +127,6 @@
       "published": 1762474260
     },
     {
-      "title": "Eagles Injury Report: Good news on A.J. Brown and Saquon Barkley",
-      "link": "https://www.bleedinggreennation.com/news/162967/eagles-injury-report-good-news-on-a-j-brown-and-saquon-barkley",
-      "source": "Bleeding Green Nation",
-      "published": 1762471941
-    },
-    {
       "title": "Spadaro: How will Vic Fangio deploy Jaelan Phillips and the new-look Eagles defense? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEdnYU1YVVNYc29mcjhxd1FSQjVvbDZvdFh6WlVNeXByU1hQdFFSeXNvNnJPdEI4c1FKNlRQWVVOTURmLWZEc3RYcWtVUGs4MkEyMHJobHh6OF96Sldfbkl6U2tjcmJFVkUzaXVLTnpiTWRzbUViaTZFb0ZuOGhNMmJ4N1E5ZFliRllWeXhnY2RDc1gwbnZueU1ySy1ZR2pqbTJNZEwyRUZqMldIWXlxUHhOYzJSZ18ydUI2YkM1NA?oc=5",
       "source": "Google News — Eagles",
@@ -139,10 +139,10 @@
       "published": 1762470894
     },
     {
-      "title": "Eagles Get Good OL News Before Packers Game - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWkyRDJMTWVjODhoWEE0RzVZYjh3b2w1MTdKVHNDeGdMV19rcXVXNEVxRVZZbjZ6T2NEeEptNERlb0dQdVhvRVQ0T1lNZ2xFSnlxWWVmZTdBQUluNVBJSGpleGNzSnFCeU9EbDIzeXMwU1ZYYy02cVA1cFk3UzZXMUU3ekpBV2lidm1ia09jU2FWUQ?oc=5",
+      "title": "Eagles at Packers Injury Report - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMm5ZMk9DLXhndnFYcnlYRHY0MUxWaVc3dG1EUkswUXJVN1VibWhiM0hOM3RORmNWZ0c5SWVJUUxZVUhzVHdpUlBkSVBMaHpVMDNHdVd3ZXRieGxkOHJZNHRrbUZoY3ozTlhtY1cyYXJIa003MGRfU1JySGNLZmxxSkZsbGh4TmUyQzd1VEhLY0lGdExlX0xIN3ZZb0lYalRyTW5ialNIamxFYWJodUU4Z1NZSnktVTlBaWNGOFNhNGtrMnRlZWk1MQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762467590
+      "published": 1762470545
     },
     {
       "title": "Eagles open practice window for G/C Willie Lampkin - Philadelphia Eagles",
@@ -397,12 +397,6 @@
       "published": 1762081562
     },
     {
-      "title": "Eagles' Depth Chart, Salary Cap, NFL Draft Picks After Jaire Alexander Trade - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeE1kOWxmQTN1X3VUNExYWU9BYUpydklIVTJtZ0o3emhNV0lKN0RPWGxBMnN3RlBDMTVPLUtaSG96STR2dTJBOUJZai0tRWswdUdGb0FuUDVtVVdtdVpTSUZOMEw1SUhWN1JxWkJqWmUwZWhZMkFZWEUtWTZxcUtYNm5HeHMzVWU4SktBXzlYOTNiNkwyWjZMclpka014TFVLZmFhZkVUWjRSaTJEcUNXSWJVSFpiZFpXRFE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762057800
-    },
-    {
       "title": "Eagles Fall to No. 12 Notre Dame - BCEagles.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUtFR2huVmQxRmdRSURKREMyRTlxTUkxQW5mS2hZbE80c2lBRGxjZVV0WHNVVG9YbVBIcXB0YmR1Nlp1aEhDZHM2Q3ZHa1hIbGpSVFFtemRueGNqR25lSVVRaGZJNjBBNHpCSldJSkVIWGdZZ1QtNGwzZkotV3JadUpB?oc=5",
       "source": "Google News — Eagles",
@@ -425,6 +419,12 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZnY4Wlh6TzZRQnppem94eDVBMEVpdExjZlVfTXVYMGVKT3d4VC1FNENpalhYRG1IN3lSaGhrS0RlWTdOd1BRU0ZJRjlzaEhZelYzbEhmeGZERU5OLU1oeUlfay1vLTBNcjZEVTlOWEZfREl5cEhVNFIzZE1rc2VWTG9pRWdNcWhrNmVaUFVldlIyNVlPeUhwcFlJajFjYk1CV2pJQVdSWkFwbG5TbVR4VkxKZTNhMUpTYWJBbkdBVVlHeXZ0eW1XMUFFdC1TNDNoVzRtRUhn0gHeAUFVX3lxTFBDVTFURnFkeUQwZWV3bFB6MDBDaVZSZ0p5b3hnbHVabTJXWm5KaVo3RjVSaEFYMGZVamUwb0hmanlqQkduUnYyZlV1N29UZzdkVmxXM3poR2U1MmVlZm1OcWJnU01UMklseXBMM2h5OE56VFcxR3gtU2d3bWE1V0d6ZXpOcG1aSG81QWZpTVBFZ0h3NERiZVpTWTJzdzhlWGRXX0xzakhVVDRvMl8tZ3F4T0xTa0owd2hGaDdpZEx2RGtJVlEtVzNSM3RqTmdzaGFrWlpIZ2xRQnNuMGNKdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1762033901
+    },
+    {
+      "title": "Eagles trade for Jaire Alexander in deal with Ravens as Philly adds second veteran defensive back - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlVrdUdQWmNnUWhXQXAzWkVhUXRYY0tqbG9fQ0hMTnBnOTlWRTNCR0xuYUJiYnFIRlNCVUg3UGppeHZsbkpZZzhWVGhfTnl3Znc3cmRoVXkyWjhjLXB6VkVpdEhNeFRjSjRuREkwcl9keFB2ZXRPc2IzYXpEeVRkWk1mOGpJMElfQ1ZnNm9PM25zVnplMjV2U2ZCQXBzMW9VNU1lM2dkZlhrWVhURW9vYzdKeENOMzFuTmc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762033539
     },
     {
       "title": "Ravens trade CB Jaire Alexander, 2027 seventh-round pick to Eagles for 2026 sixth-round pick - NFL.com",
@@ -463,6 +463,12 @@
       "published": 1762008431
     },
     {
+      "title": "Five college prospects who could interest the Eagles in the 2026 NFL Draft - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcGVJMVlabFhRRHFQYlZEd1JZS1JrV1lmVFotYTAyTmRyak5OSXJsTU05YTd4bklzQ0t5Y1JiUlRhMVUxMVo2YjR0NzJMdHJZbEE3czZhcVFSMHhwQVBFNHlsVjQwTmJQUFhyY205R3FEcWQ2eEVRNEpVOTBNa0hHVWFIR0tBdFJxVERpd09iMHE0NkExUFJhS0ZlODNpZ2Jzd0JCT1pOMjBKNDAyNWNQMFUya3lTRXBYRDN5SzIxWldRQkJkekdUVnFkcy1yRzlldEluU3Nn0gHbAUFVX3lxTE84dHlwOGFGQlNTc2FtaDl2OTFBVHpjV0NkWnlxdmlKX0JadGNIS0pjUl9XY212U2NlR25oTUJ3ckx5NVRWeXVSMFNVclJacUJZeVJsTkdBWVFKa25GTnhwZ0l2QkQxVlZGYTdfNDM1RnhtWUptQzJyMzU0S0dfMlFKVm1LTG5aOWVVY0s1X041WUdXdVJrTEhyeHREYzdZUUpCYlRJenVOLUloSG5TY3FFS2M0N3dJUmlnOGJWdEpCYUR3TTVvb3Z2N2JXdXRLZml4LS16azVfdDB1aw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762000148
+    },
+    {
       "title": "An Eagles rookie progress report at the midway point of 2025 season - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQmxndEpzZEVwUW9IXzUtSzNoUFpvU2VIUUtEenVYTXk2V0F2Z3RZSlpVckRVUlFKQnRxUmNCTC1kNWw1dnNzdEYyVlBiZXI5V09rMTZRU2l6TUFmMTZwc0gtTVBtWHE2N0N0UHplLXl2QWJSQ2VNSEpLX3hjWFZzYnlkTXlnOElLTHFDeXJ4Y0E3eXhhQlV6Q0xtcUpRY1hTemJtNUZfZFhwM1RlZDQ5endxMTluQVdyLVpxSXpmX2J3QnJlajVGQnF0ZjNfM0XSAdcBQVVfeXFMTVl5aHZrQTROcnJTeFVCaXZ0VVc3d1FGQ3hPSTdsLS1pd3Vya2ZjTEd4TUNtTXplaG9hdTFiWWk3MVlTWGpDalFDeE5Bd1BmbmhlWjA0ME5FdkozWWlUeWRrX3RJQmFkMFlidlROZnNoUnRYTTRNY0pjWTJ5WWJ3a2ZJUDVONjQ0MkNTM2l3NkVUMmJ1OHRFQWJnOE1WWFdxb0t0VlhRZnBMaXJZRDl1dVc0ZUI4c3BTNE5nRWlyV1JsSFVlMkN2czVOc2VQWmtGalRxRGR0M2M?oc=5",
       "source": "Google News — Eagles",
@@ -497,12 +503,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDlDcU9KejktLUllZWVKRlR0OXBoRExJVzkwTldKYWNhaktjbGY2Q3pBcGx1c2QwQm9PUHVySzJtQzkyOGxobjR1b0ZsMlhEbTEyV2ZrT05MY01uX05Ca3FxWWhWYThUa0pvcWNlNHVEeDIwR19ESU1wbkctdHRYcnR2OEVmR0UySEx4LUJSbF81YnhOUDYwSUNGc1otTHlsaDBiOE9uUDNWdzhrSXFPdFI2WFJkYUVKVE1FaG9ydmRWRTdZdXhOSGZ30gHSAUFVX3lxTE13Y2JLUzh0T0dQTFJYNkt6dThIeEN4Qm9URFNRQUlUaHV5dGtId3pHRWhjdHEwQkFldzdpNWV5cVN5NjBra1ROcGRGbFNjMDFPUGg5QllYa3U1Q3plcEQ5ZDk1aUl3ZFNGbVBKS1BPRDMyNTZCX0FzY1JMSmRQTGJ1NVRxODNnbnFwV2dRWDFtdndIdU9ZdnJMWmJjY0V2WW90UFh1NnJTZUFBZlBUSzJtMTFVbUxRV3BESDg5b18yWThXM250cmhqR0dqU1dGZmQwQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1761548400
-    },
-    {
-      "title": "Highlights: Saquon Barkley's best plays from win over Giants - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVRfRjVvalRjT1Zub2toenZYMTBpbk4zakJpODNISFdsRjZIVWNZS2dCNk1TNzVCS0gzaU1vWFgtdXVWOGxucXdJX0E1NFN4dXZqVVRIaXBGc0NKRThGOVlBVlM2MUlhR3hkX2NkanlSMTZHZWVOSXBESmxmdHZrczQ1RE1qX2xWRzR3M0NQNjNfNGsxOEFpZTVsSUp1QUNsTlR0RkgxMkw2ZEI0SjFwOXM1T2g?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1761462000
     },
     {
       "title": "Eagles' Barkley 'finally' breaks out with 150 yards - ESPN",
