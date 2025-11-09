@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-09T19:15:57.692955+00:00",
+  "updated_at": "2025-11-09T19:38:00.260083+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "NFL Week 10 Early Games",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/163100/nfl-week-10-early-game-information-channel-links-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1762709652
+    },
     {
       "title": "3 burning Eagles questions vs Packers. Unexpected biggest loser from Jaelan Phillips trade - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWFiN3BtaHc2aXpMZ0UxNGM3ZHNCRU90QmVaY01DT0pMaTRUaDdKdzJacG41bmtKcWU0b3hrdjU4di03MlJCemFPeWR3aHI3dFdmaUgyX3hlRXQxd0R6QmhBdlM3ckZjVWtmeTN5bTRRSTFxaDNYV0Y4TmtuWU9yM2k4ci1BdzhoNkF0VFgzRDN2NDVCYlZFTG9vMDY0OU1yc2JzbDB1TnFlZkdOcUhjZ1V6Q3RYYW1tY0c0cGp0RGNQMVcwRUs4Zm5qWnFudjNfTFF3TldBZHJfc0s2V3lvamFB?oc=5",
@@ -79,12 +85,6 @@
       "published": 1762638337
     },
     {
-      "title": "Eagles come to Green Bay after beating Packers twice last season - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkZtazJMck92VlUxZlJtR1NGUDk4R0lBYm1SdzlBcm1YTklrbEtEZ1hTUkVKNHd4a0RxZzIteUhzQ0lnSlBrZldFX3ZFYlV1YVVULWF1YVdXTmhSdVdKaUVrTDc1RXNSWHZ0UldFWXZLZWtzZXFJWG9BbmhHSFczb0NZZDQ5RHJudEplTjd4VjlOeE5aVS1tRVlhVGN6cVR5RnhfeVFR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762637820
-    },
-    {
       "title": "Eagles sign DT Ta'Quon Graham, release OLB Antwaun Powell-Ryland from the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlcxUnhBM2ZHVVdXTEgzLUdwTEx0cVpEOFRBUU1CSFdIM2g3S2t0TGM5Z0FTVlNqNFI3ZmVuQU9mRzJBQkMySG45SjBNcWU1NHJvU0lvdTVJU1VXZVVLbW1CTE5odkNlUGVUazA5T09HY1liMU56OTc2Qk94WldreUlyN0ZiUmZKNS11bGdwWEtVNFdrZklQMHh4LUlXRXZBUWhwNzRhMmY3aEVCcnlVOC1Ta2x1U1o3bk1j?oc=5",
       "source": "Google News — Eagles",
@@ -145,16 +145,22 @@
       "published": 1762544528
     },
     {
-      "title": "Eagles Film Review: Analyzing Jalen Hurts’ 2025 season so far",
-      "link": "https://www.bleedinggreennation.com/eagles-film-review/162371/eagles-film-review-analyzing-jalen-hurts-2025-season-so-far",
-      "source": "Bleeding Green Nation",
-      "published": 1762538460
-    },
-    {
       "title": "Best Game Winning Touchdowns in Eagles History - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUmo4NVFkYzhTdXp6SGFKZWJTTDl2U0JHZHUzb0doclNFQlRYTmZBTEw3NzVObmtpeS1wMHYyUDEydm42T0FyNl9UbXRGRFFqa1FmYnQwOUJ1ZEV0ZTNzWlo5QmI5SnU5eUQ2Y1JNVk5DRldxeTN0SUJMazJNZy0xbzI4UWFqczJPNnZBcnZRU3M?oc=5",
       "source": "Google News — Eagles",
       "published": 1762538110
+    },
+    {
+      "title": "Jason Kelce, Jordan Mailata and Lane Johnson reveal limited edition Eagles plushies - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSmRTMENkXzF2aTNiZTJJOERwaElXOHFTcGJsQ0d4bXN3WExXOXhGamFmdUd0QnNDUjAtRXFPaThyMlNaaWhVeGpwanJyS0tHdjN6Ni1CcXdWQlV2RUFMNGFMbkJoSnRVOElZSEJjWVBoVTVuS2ZoeVIxWXdua2tQakZJZUVZbFMxbllsQ0RHaWNrY1Z5WjJPbzVLNC1HZi00WXN6MjFpanROd3dDX1p0YkVFSjFpeENMLVdvU3lOU25kNUUxQnFjU0ZtbjRvWUdJQXhOR21waGVyQlFaRkkzUW9fMEJtbjZST3B6VTlNWkNOYk5PNVVpaDIyemp6ZThfWk11d2RwTdIBjwJBVV95cUxQTnpmQUpuTjgxYW5QVkhoUmJGeVFkVEtFNnNidTZqZDF4QksyQmFJd21UcTBQM0Y2NlRTR3BWZnFnMTRwR3JpeWw1Zl9RTnZadm9SX0EyUVpGWjRhdld1Z3AxWmxsa1JNdE9MMFA3bno2T1ZVS0ZRZVhSYklvZzg4TmRic3VoYkpuWWJjZ0NPa3Nlb09yMGI2WXNDYmsyTVJuMVBmMF9yU2xTTXQzZS1nZHk5VXpLLUtUaEFHRVJYcV80MVdLTDh6U0NGME5wTHRsM0tDY0E3cjVzbk9EVER6ZWxTZTZQd3R5d3Q0SlJkeUMzaVF1VU9iak5nUXNpZEtSTUF1dnVtUzdmQVpUemtZ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762530668
+    },
+    {
+      "title": "Eagles at Packers betting guide: Props, odds, and picks - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmR6MzAzYTFROHNaUHNxaXRBOExiTnd3dnc3aWtLbFNxRWJLdWtPYkdXQ2dpNkpOVmYyVV9HSjV1N054TjVKMUV0dEViRmpVbmJWTGxLYXRQc3FVTlZQRzdRdUlnWk9tVDlVZUZBQTRDR0QwYlZ4dGFKZDFZMjgtTjIzTXFWd2FCMGNTUnJEMV9mVTY2VHl1dXdkWE93TDBRdkpsZjVEUnFyYmZsakJJWHg2MG9KTjFtal9UZEZaM3Rsdm0wanpHNjQzUdIB0wFBVV95cUxPUmtfekVIV3R6dmVoOHV0LTR1MldzU1QxMUR4V05wZVRPNU05VmpKZ0NYWWNRSDRBWFVrU1h2c0pONjlyUlhCZzg2N2F2bVA2VEd5NU44cDdDbXhTVkFZcHI0SHN3d3U5UHR6VlNTUDV2Zmx0NmsyWWt3R2RackRrSVBqaGQxeVIwWlRuQmg3N2ZTQ1Y4cVVSbVNBelVaQzBzdlBsbHZQVEx4QzBSaFZGNjJrdW5qdzJnZno3Y05oR2cwNXpPMkVqUzRNQ1M4VHlIYVR3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762528223
     },
     {
       "title": "Jaelan Phillips explains why trade to Eagles is ‘greatest thing' in his life - NBC Sports Philadelphia",
@@ -185,6 +191,18 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBENGZ2UGRPUl9TakJETFdILURLTGJVWTcyR1Q0aXhMUnp4TGg2cHpsT1JXSUlRZVl1ekczeVJ0Z1dZSXk4TWJhTHhyZkYyaUN0OF9fWG9lVWdJaTd1aHNzbkxvTGRJNG1QUDVoSHdzWmtXcExWZlZF?oc=5",
       "source": "Google News — Eagles",
       "published": 1762470894
+    },
+    {
+      "title": "Eagles Get Good OL News Before Packers Game - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWkyRDJMTWVjODhoWEE0RzVZYjh3b2w1MTdKVHNDeGdMV19rcXVXNEVxRVZZbjZ6T2NEeEptNERlb0dQdVhvRVQ0T1lNZ2xFSnlxWWVmZTdBQUluNVBJSGpleGNzSnFCeU9EbDIzeXMwU1ZYYy02cVA1cFk3UzZXMUU3ekpBV2lidm1ia09jU2FWUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762467590
+    },
+    {
+      "title": "Eagles Still Without Starting Center After Returning From Bye - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPem00bW40OWVZZEExYnJVSTc0ZERfZ25zcmJ6UnpLOWoyajJ6cTdROUZtUW5sTW1td3ZxY1ZGdFllLXFVSVJVNFJHdXk5YlZaZ2pJVzNsZHNPUWplRjRDLWx4bkhDVHQ0eVk2N2RhSFJYMGhkdHltSFM2ODh1WmNwaFFVanhFbU56OWExZUZtd2xacVpabVd6Q3p5MTZHMFdWTnhSLUJWb08?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762462263
     },
     {
       "title": "Eagles open practice window for G/C Willie Lampkin - Philadelphia Eagles",
@@ -271,12 +289,6 @@
       "published": 1762301605
     },
     {
-      "title": "2025 NFL trade deadline: Eagles GM Howie Roseman explains why team did not deal A.J. Brown - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXhDd0lWRi1OOWtja1g2SjNWQnNtSUtrM01LSGlqZDJnSGlFUVJWNUtEd05QSTJab2F4SXIxNUNEbTdmTG5nelo1dVR1VTNJcjVncDBCbFN1VGRTeUFXSzljOWE2Vm1IRlUyQVF0NGlhUDVKc1Q2cDdqLXQtOXJGRjV0Z2hKZ1FhSHZ6ZzJNYnJoNEhPNW5jSmpLWW9UckxsTk1za2xR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762301400
-    },
-    {
       "title": "The risk Eagles Howie Roseman took trading for player with 'freak ability' by NFL deadline - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1JzZXh3YkZpWUgwUHFYZndSdzhNSFl6VkpaM19TQ2t6UFIxS29JdkJlWlp6cGNnSmhHT0kyWXoxSnh4SzQ4Mmw1V05PMFhLbkVPa3EwOVVkMHR0Nm1CR1FiblRTanZUMHJ6eW16bkhBaDhfa0VsbmZZRDY4RUIzRUdRb2h5MWVLQUJoNGZ3UzMwajJwcW1zUXFlaHU5U0U3QVRtSnRDblo5TktpNDVnVG04R1Myd0ZycFBKQWNWQlVpQUFZa2lHalg3V2p1MzhOaG9pVWMyNDFDR2xTLUtpdw?oc=5",
       "source": "Google News — Eagles",
@@ -299,12 +311,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVhvVEZtRW1kOUtoN04yTGdjSGwtUUpVRWt1ZDRKc3dUVUozcm9KMXg5eFJjNjA4YnZhM2s1UnFGVkN6NndoZFdseG5uczFkaUtWaFZSWWxoNWFkUWhPN1NUbm1RWE8zZTZCcXNjYzhCNWpCZVRjdXhzUWlPWV9KMEp0Njc1UVdGZDBCME1kUHJScXJ5RWhMZU9GcW9tRWt0MDRGUEFZcFloa2s?oc=5",
       "source": "Google News — Eagles",
       "published": 1762289509
-    },
-    {
-      "title": "Will Packers vs Eagles 'Monday Night Football' game be on YouTube TV? - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEhRSndVZ1h4MnRaV21JMm90S1FBVUFlV0pwc1BYbW96a0Y5NExJZl9DZExLNktKN1h1eVZiTnU4b3RCYXZLOUlQMFQ4SHlmMS1ESzMtZE1DNlNZc05qSl85WHZsUVhBUExTcnlZY0lMSDNZcmNmSXl6TUVOLXF1MVF6Qm1IQlhNUTF3QWtPZENNeDhpckJsZFYtTm13eUYyQWhhOUtvLXpxeHhXdmdidU9OTFpNbTZ2alJuZEtR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762271259
     },
     {
       "title": "Eagles legend Jason Kelce shares a hilarious Jaelan Phillips story - Eagles Wire",
