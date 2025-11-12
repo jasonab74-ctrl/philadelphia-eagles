@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-12T04:29:32.802972+00:00",
+  "updated_at": "2025-11-12T04:48:11.680461+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -17,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGw4cnV4Z2FFRlhOczhCbkhPWEkteE15SnZLc2pVS1RBQ3pwek1zNGlhdUpTSGRKTlVXTDdQeENaUGF0cm54ZExIY1lwZExTYUNSM083dGE1c1lLbzdpM05naGFNUzNsNHdJR2YzVVJNaXgwT09aeFhGeEtJVHZoSGxoenB5QXI2cU5VeEFZdlVWWjE2TE5vR2hyR1NRLXlVcXk4UTJpX2djQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762907460
-    },
-    {
-      "title": "Jaire Alexander informed Eagles he’s stepping away from football",
-      "link": "https://www.bleedinggreennation.com/news/163410/eagles-jaire-alexander-to-step-away-from-football-trade-acquisition-nfl-news",
-      "source": "Bleeding Green Nation",
-      "published": 1762907430
     },
     {
       "title": "Spadaro: The Eagles edge rushers show out in primetime - Philadelphia Eagles",
@@ -43,6 +37,12 @@
       "published": 1762884200
     },
     {
+      "title": "Jaelan Phillips stands out in defensive win but is this way sustainable for Eagles? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOUxTcnR4V3puakFoZGVJM2VkSmF1QUJWUXlMVTUzc19IaHBuTTdKbTRwcDFSNk1VSUhLR2ItSDBEdS1XY19XUnU4UVktQzdTcExnbi1seS1hYzFCWXAyb3ZwU201UWV6WDVKaHR5LWQ1YkNzRkN4Q3dnVDUtM2E4TjlhOHdaS0NvN0Jz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762881104
+    },
+    {
       "title": "Making sense of an important Eagles win that didn’t make any sense",
       "link": "https://www.bleedinggreennation.com/news/163382/making-sense-of-an-important-eagles-win-that-didnt-make-any-sense",
       "source": "Bleeding Green Nation",
@@ -59,12 +59,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmp3UUdCR2cyUnZDVlp4bm1zQ1lNMTJ4M0RwUGlDMngtWU02SXVGQjRsT0pTOHR3WmF1dWVINFdTWWplUjZxcXplS1EtN3F4T2ZGcnJNLUJ4QTVaQ1Zydm0xMW8wSmFZSXJiLVZQSzBMbV9BUmxIVGlJU3ZGZmZidVVrT3c5Vno3eF9kNEZPVktLX0cz?oc=5",
       "source": "Google News — Eagles",
       "published": 1762878812
-    },
-    {
-      "title": "Final Thoughts: Packers vs. Eagles - Green Bay Packers – packers.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOTc4dUc0dmZzMTVuUlV3RF9vSDF2ZFlJckEyNUtJTE9yeGRQNGZael9OZFEzYnVsdjBKLTJZd2pqbVhucWMtNmk2SzlhQ0pDZHdtdkNOQ21ydkJyS2JISU9RejZIM0ozSGZqY0NJUWk5RzROLTlabG54WmVpZ25zQg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762874486
     },
     {
       "title": "Eagles' Nick Sirianni explains decision to call deep pass to A.J. Brown on late fourth down in win - NFL.com",
@@ -139,6 +133,12 @@
       "published": 1762841483
     },
     {
+      "title": "Game Highlights: Eagles 10, Packers 7 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3RJT0NkUHY2MTNQOS04S0stZkh1VTF2VXM0MlFjVllueE9xdmp4UlhPUENkOU9FMVh4Q09UVmtKSFNLS1hPOVFJamg2WTBCVnIyS01rWHpHT3JmYUdvSEd4WDRlcmFRZmV3V2U0QWtOU0hXbDlaV2FLVUZXSnF6c1Exb05adTdieVp1V2VzS1hEbDZMSUdXTWpqcEQwekdmTUhYTnJOU1k2WV9admJSeQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762839706
+    },
+    {
       "title": "Eagles vs. Packers: The good, the bad, and the ugly",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/163344/eagles-vs-packers-the-good-the-bad-and-the-ugly",
       "source": "Bleeding Green Nation",
@@ -205,10 +205,10 @@
       "published": 1762833269
     },
     {
-      "title": "Highlight: Jake Elliott gets the Eagles on the board with 39-yard FG - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHdBdVVEYWhKNnlvaDJRT011dkFKSTJ5NUQwSU5hWlFwM3BEMVJBbVFJamN5ZHEyNXNBenh3amFYdW1MOHlYMTBUWHJSSGwteXpuaFZqbXpJUTNJVEQybDktMlEwVFozeVlDYTQxclZIM1VMWTZibjlQQjhncDZ4eTdXRGxLSTZqM0Q5Y21mUjhod2t4Q1NyaGdoQklsc01tUEE1YWM2cWFkTGlX?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762831723
+      "title": "Eagles vs. Packers: Fourth quarter score updates",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/163282/eagles-vs-packers-fourth-quarter-score-updates-game-thread-monday-night-football-week-10-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1762832941
     },
     {
       "title": "Eagles vs. Packers live updates, score. Saquon Barkley's amazing spin move sets up TD - The News Journal",
@@ -253,28 +253,28 @@
       "published": 1762806990
     },
     {
-      "title": "Anonymous Eagles Player Says 'Being in the NFL is Hard. Being an Eagle is Harder' - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzRRTXNyUnlqbDhBNG1IcGJsM1dTdkJabjRYVUdrRWtubFhhRlFvb1NsWlpScmQ5Zy1KX1AtVlR1VHNOS3d0dFdZT1lJU2FQU0VpSk9pN054b0R1dUQ2NmpWZXNJVG9pSnVaNWJYTEpQdWE0cEh5X09YcGx0NTVZTjE2X0xUOWswSHI1UmJ6SGpnRHY1b25yV3Q2cl9IaHhCblhUZHNFbzlIQUk?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762797191
-    },
-    {
       "title": "Eagles Opponent Film Preview: Scouting the Green Bay Packers - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3M5YXd6d2JSVFo4Z2EtQ001YVQxaERJU3U5eGRONXlNRERocDMtT21TYWpvbzE3ZHFHcXVFU1FkdkVfM0ZmY2ZQSjZ2WjlnV05EVFg1QVVmRG01RGZBWmdwMEZtdzFfNm1zR2RQS2xNOGh5TlphX3MxeW9sUWJrTVVvSFlWVUZ1MmpNa3lGd2FKRzE2RDJJZE5DcFRKQS0tdlVjczlxNzBoV0QxRGdPMWxEZndkbDcwTUlTeVZn?oc=5",
       "source": "Google News — Eagles",
       "published": 1762793926
     },
     {
-      "title": "Betting Eagles-Packers: Why A.J. Brown and DeVonta Smith beat projections in tight game - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObVZBUDF4TWlIbzkzbGlPNTZwaG9LQXhhREJGZTd5d1RWeEtHWmNfREJ3ajRaRTNPVXYzWm9xVTVHbWhtUkpCZ2M0dF9VZFFwZV9XU0NVR0VFWkZCNWc1ZE9GcVlJdFBxc1dSY1U4WGpCRGV5cmk3T01NVndXSWEyWVBwYVdWWndQVmtYaHJPZkRPQnVaTWdHTmdWVzM3bS1FSC1vN1NGSnpqTW9tcTV3QmtUSHV5V25PeXpGcU91a1dYUlhBWjBsaGgyWEtuSEttdTcyVlQtbXhPMHJaeGtfSlBINUl0dGtZU0tPVWFmMkZHeFdvM3lsRQ?oc=5",
+      "title": "Bright lights, big stage: What does this Packers-Eagles matchup mean? - Green Bay Packers – packers.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0pMRUtlaVZMb1haWW5SdFowN0djcXRuTWxTaEpQNjJPSTFNM0dYQzZyZ0xLMDcybXhmVVB2NWtieE41a2p2WDlDcFJRSldWYWExalcwQWZuYjl3c1IyUWpPMU1WWS1CYi1OamhKdlpvYjhQSERGX1diSkI1UHJ4SmJhWDhzTnhOSVhveWpmTTdtd1ZuMVhjRnNBMnFRM0l3cFNJMm9NOTBkbG8?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762788900
+      "published": 1762786918
     },
     {
-      "title": "How to watch Philadelphia Eagles vs. Green Bay Packers today for NFL Week 10 - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmp4YXdUNkMtWjdRYVR3czYzMllsX2ZYcG8tMkYzcmQ1X19kbllhRTR1ZjZJUHhPbzdCWm1JZGVBNU8yX3NnQ1dvWHktZlZoWndUWmJPSVRhM29aV0VSU0JfT1dJOW0wem5nS0JUczFZZjhEdW5hQmc5Q1EzN3ZTcjVJZDhWTFl2?oc=5",
+      "title": "What channel is Monday Night Football on? Philadelphia Eagles vs Green Bay Packers TV - azcentral.com and The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUTJxWm1hb2JmblJ2a0lFR0tuTnY1dnlBLTVXRjRzNlFud2ZqRWl1Ylh5OERfMFI5S0ZQOGVmY0N6RU0wUDZRaWFFQ0dQZzF5dXpQMWdDTm5CREFockN6Rmw5NjhkdWxLQm9EbS0xeW1lbWpCb0ktUlE3MkdJa1lrTGR0ZDRNdkpUa3MtYmpQYUhIRWVWUXFIeFZVQVNOcWM2RGY1NjlZT2xBSUNFLVBkUkJ5WVpOWXJrVVVEQ1hzeHhEZW9PNXVaeDNKWVFJbFRwN1VR?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762768811
+      "published": 1762785819
+    },
+    {
+      "title": "Eagles vs. Packers: 5 Bold predictions for Philadelphia's Week 10 game - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzdnNHI5TGtKWVRzSnFqU2RaaEpjeEdVSTdmVEpGeVNQWU5HZ3pXRWp0VXhzX1ItbG91SXZmakc1WDRiLXl0S182bWh5MGdSWWg0cTU3d1hqUWJncUZKTVd6R3dYb3k5ZUpCU2UtdXFjUERBWm5nQmZaeHFmRXBybVBTVXNxUG4zTWFZQTNzOG1jWDE0YTI5ZGdZbXhvanphSHNDSnlUSy0yR3h0aHNWU1NCUmxUWGctc2pmS1dHMnBPV0IzYWNDUl9tM0FhNXNvQ1ByYUladjlqZVFEMGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762781783
     },
     {
       "title": "Eagles vs Packers predictions. See our expert picks for Monday Night Football game - The News Journal",
@@ -289,16 +289,22 @@
       "published": 1762761600
     },
     {
+      "title": "Packers vs. Eagles | How to watch, stream & listen | Week 10 - Green Bay Packers – packers.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSlZFZ0o1dVI3YXphMXdZV2JwQldEck1WNXZPM1VsM0RTZFBxeUNyWHdZcmVaRFR3b050c3h2V1Q5ZmZ1S2FzQVZsS2Zvc0QwRTZCUzY0Ql9WRll2OXJoUnBOMksyMGxmbFdwVExVVGZHQ3F3Ynh0UEctQU96N3lScF9qeFJQVlRTaDNvUXQyRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762761600
+    },
+    {
       "title": "Alexander won't make Eagles debut in Green Bay - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0NWNi1iTlp1c1BZMHM2aFZNOUJISHduekFqQTZ6Z09UVlBDTExyVWptWnNTVVNMeUZ0SVdRU3JHQ21JczNBcjRIRVNWWVg2RTFvd2QyUjdpWTh1RUtHVWx1UDZqOTAzeXBYbkFiaXhyRDhzTDdmYkd6RUt0bkpROGtSVW9Mdl90NVlHZGRmMWg2R3lRUmdKbjF4d2g?oc=5",
       "source": "Google News — Eagles",
       "published": 1762723620
     },
     {
-      "title": "Eagles rule out Jaire Alexander, who won't travel to Green Bay - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcU1YNy1CVWN3T3pnX1ZhRnNWbnJrM3JGYnI4dFhIWUQ1SXpqR3RvLWRzVm1oSnk5R3lac2FJelNUdnFYb25iYzg0NURIMG1UWjZ3ZmRsZ0t6RHk1aDNZOHlwR2Vjd0NRM3JkTTZHeGk5ZlZlR3JIb0J6RUZEd0xZVkV2bTVnTVdRd2d3TldmY0w5ejRoR0NJVzFQMWJuTDYzdXVUUV9WVUEtbFlzMlpzc0h3N1NGaDRWZTh0S2NLNnJRQ3BGMW9fWkRUbF9nOE40ZDFCR3ROeUZua1RVYnfSAeYBQVVfeXFMTkFiclNGTDhXd1U2LUk1eVgwTU5KTWJLX0k1d3B3MXU0Nk5VcXI2MG5oeU4wanFpWUtiZEtFdHIxbGYzd1ZUXzd3ZkhFR2p6LXZkdmlwQjlUemZwelF6MHRKejhmcmFDczZ1ZzB2M3B2bmNLalV1MjI5aGM4TEMtYXZwSXdhTUJVUWtaMmJyb0tnUHNlbTFsMFZuc3lJTEpicGJqVTNDQW1NMEV0NWExSThubjkwOE10blJUVGhJZHZxeDFBQjBqaDhmQ3BNa24yQS00ODJNMnlhdFd4VDJGdGY3S1BpRVE?oc=5",
+      "title": "Eagles rule out Jaire Alexander, who won't travel to Green Bay - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDNxZnJHN3VONnpPcERFaGRPMS1QVXNGQW40YS12elcyOTZjbGJ2WE1ETllCd3JCNGYxQTMyRnkyblZlMlJmcHVmd0tNX2VpOERoRUhZUF9TZ0xwMm9aZDhrLW16QmhGS0t2bEZQNlFVdWpaZnpqODJUbGN2MFZKVjRyOERIYktRU1dqMFlPUDQzYk9WRkMzQ3JvQjZRRjBWMFp0bElEZEVXLVNidkJ6TlVUX1Jzbm80T2JiYTV0M0JNWHZwNjdiUS1LM2ZvUlFLNUNjS9IB3AFBVV95cUxNQVhERnBKVlQ3WkNuUURITXFaSk1tc0diQmlFcmIyV1N4dTFST0pvTms5d2RYOElEODlxRVdBeDAzeFI2VUt0OWRtaGR1Z2lLNERzeF9ZMW5hVXg4OGUzTWxiZ296b1FqRVNVbGJzd1h4SW50bFFWTlBKc1gxSjhvYnpKeEdOWlQ2eFNzaHZvbktHaENHUmRnYzdxbjBDMUtNMGQ3QmN5QUxRdlRxekFDV0Y0UzhuMFg0MjEtaUZwNE9xNENOSjJ2ZTVVMlNxb1JfVjlhZ2h0UjItZ2Jf?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762722419
+      "published": 1762704436
     },
     {
       "title": "Eagles vs. Packers Week 10: Three must-know storylines for 'Monday Night Football' showdown - NFL.com",
@@ -313,14 +319,14 @@
       "published": 1762689600
     },
     {
-      "title": "Eagles 10-7 Packers (Nov 10, 2025) Box Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kMExQTUlwSU5CSG03UkhqSzl3SlFxSkVWX0ltai0ya3lEMm01NUd6d0xKVjFjcms4RkJoazk5aDFJSXIydUh1RkR4X1NMcDFaWGRtaWVNRWlJOVFJOV9aUHJB?oc=5",
+      "title": "Week 10 non-Eagles rooting guide - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHRsbmtZMEhfZlRpY1ljZXlteUJpUFQ0Vk1aZTZ2WUZYU0pVRUdCTnBUVWpvSmpnMFJzVGVyYTRrcWRUYjhsTlVGOFZOdWwtXzRUZ0NMTXdhVFE4ZllsRHVjVm9IaWU4NldBNUdJd0Y3QmNWYmItQmpyYXN3bU9kZEVKLW91bHBTdW5wWjhzT3VUd18zVVdKY05tQkFfMC1MN0pJNHRWTTU1ZVRl0gGyAUFVX3lxTFBpQTZYM2tUc3hDdEtuOERzUkdCeXkwem45aWZNR3pNR09nQ3JKOWZfSUR0OWJZTGIwZFhyTEd0czJBenZ2TGE0cE10OWtjUTdPODdDczQ4WmwzUVFuWEtYR3I0YjA1SXAxOVN4Q2dCSEYyS0ozaUNHTzRxT1AwaUU4dGR0SHUzMHFRVS1RejBVdnBIbHJyX2ZrM3M3cmdtWjlpOGZjN013Wk5URXZENWFYWGc?oc=5",
       "source": "Google News — Eagles",
-      "published": 1762675200
+      "published": 1762682006
     },
     {
-      "title": "Eagles 28-22 Vikings (Oct 19, 2025) Box Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZ3FYa3JlN21yNU1QWkNycldlQ3dUaUpPZ3RNeHg4MEgwMkxHVmcxWWxUTmdzMVFQTGVzN0F2MGxQZjM5eUo0ckVBbE0tTUF4MVI2bE4tbDltTHg1ZVRJdHFR?oc=5",
+      "title": "Eagles 10-7 Packers (Nov 10, 2025) Box Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kMExQTUlwSU5CSG03UkhqSzl3SlFxSkVWX0ltai0ya3lEMm01NUd6d0xKVjFjcms4RkJoazk5aDFJSXIydUh1RkR4X1NMcDFaWGRtaWVNRWlJOVFJOV9aUHJB?oc=5",
       "source": "Google News — Eagles",
       "published": 1762675200
     },
@@ -341,12 +347,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaWDk1azlvNVdLTUVHU3dCYUpGbEN5cE5xbWhoVW1hWTk5S0VUZk9vX3J1NGJJcHNyY2VQNFZfZG93YnEtUGYxUU1lbjlyZlN6aGZzVjdPazNTWTZ3TlFUVU8yWVJ3RTZ3STdhcFdqVEZQN08zNlc0?oc=5",
       "source": "Google News — Eagles",
       "published": 1762638337
-    },
-    {
-      "title": "Eagles sign DT Ta'Quon Graham, release OLB Antwaun Powell-Ryland from the practice squad - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlcxUnhBM2ZHVVdXTEgzLUdwTEx0cVpEOFRBUU1CSFdIM2g3S2t0TGM5Z0FTVlNqNFI3ZmVuQU9mRzJBQkMySG45SjBNcWU1NHJvU0lvdTVJU1VXZVVLbW1CTE5odkNlUGVUazA5T09HY1liMU56OTc2Qk94WldreUlyN0ZiUmZKNS11bGdwWEtVNFdrZklQMHh4LUlXRXZBUWhwNzRhMmY3aEVCcnlVOC1Ta2x1U1o3bk1j?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762636431
     },
     {
       "title": "Packers list four questionable, rule out two vs. Eagles | Week 10 Injury Report - Green Bay Packers – packers.com",
@@ -379,12 +379,6 @@
       "published": 1762530668
     },
     {
-      "title": "As Jaelan Phillips raved about trade to Eagles, A.J. Brown had his own trade message - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUx2ZVBqbHZUci1rYS1WY2VZVHZ2eXc2TjY2OXpfTV9UcUNSVHFpR251T2RieXJfSWhFdVBlU2hDUFAzLUFNVHNaR0VLc1hPRzJoUWxMYTQ2YUJXNGlrOWZqeGM3U1M4RDlLdWtPQ21sSC1TR1I2SnR6RmNZaHpkYjJiZGRxYkhBb01BTWtXSnFsR1pHTHJiN2c5WlpwUENnTEJXM1BPdl9raGduYThvcWdiT2tNVmkzdUM5VHZYb0xXS19PQjFEWmdiSWNwYVNnTEJqZFBaZ0tVRDFtMWJF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762508168
-    },
-    {
       "title": "Phillips: Trade to Eagles best thing that's happened - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzdhcEJKSmRBRE9XVnhqNUhFZGdyc3NjNmFZSzJXcVdaNkQ1UllDZGJ2c0xlM2toczdyQmRjOW1Ta09GMF9NRU12VzJTX19jZFgzMUJlbDI5NnRoamlDWnJvMU00UlExdDBNX1htZk5haXlHMU15cm9YZDBGcmppbGlYU3JzY1JIcU4xU0tZZ2NiaUNrVHJuNQ?oc=5",
       "source": "Google News — Eagles",
@@ -401,12 +395,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzV6dkNVa3JaMDl1a1k3T01LYzg3dUhtWkM3aFBaTGhsSGNKWW1YSVp3RmxLejMtd21ua3ZfbUVFNjEyeXNWWDFHdmtabGw0QWNGZ0tSRzdNcWhiUWMtMjN4dXBrY0Q4SVlWZXd0TkJIb1FteDJZNFR4eEF3U1hsSmp0WnBQVlhua0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1762459421
-    },
-    {
-      "title": "How to watch 'Monday Night Football': Eagles vs. Packers - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1ZKcXlEMjBYM1hUYWpoazJ5RVNobVN5SVNOOVJsNlVhM1E0d1B4TEFzWUlFM3hvR2JCYVA2RFoxZTd1eGRlcG1lZUpaZ0ppeHlfbE1RdVNJd3NIS2FINEJDWGljVVBodnRPYmxXeEFXcllvUVBkTE8xSnFEcUczVUtlSUVQT2JEcURIcjVlZ2lRem1LaDhoVEhB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762453560
     },
     {
       "title": "Edward Callahan is the 2025 Eagles Fan of the Year - Philadelphia Eagles",
@@ -437,6 +425,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelFrVzJvZ19sWWpwbVctYl85MGE2ZEVzMnU0d3U5WlZ5eWUzWmc3UXpsWTFQVzVVM3BRRGYzMjJFeDJicng0VldSV3gxT1drSkZTQllMTWFVc0N3LUduVDlsWTNiSEJIUVZ4NEtQWl9wXzNxV29yUWE1SXh5UUNPNlFoYnRtOUd5MW80ZTZSRmlDYzRDVUtrV3BnMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1762354560
+    },
+    {
+      "title": "2025 NFL trade deadline winners, losers: Eagles fill needs, Jets sell, Bills strike out - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3lXS21IMUJ1dVRQLWpJNFRpTTNrcmhZT0htRXhGby1saGJ0OE51bkxlcjdEMWRqNzI1bXFHZnlwRHZDd25fSll5bFhzcFdNQ01SY2tuTE9ueTF4VEtPUmRLR3V0bjl6bzgzZXdESEdWeWZZbDBIT1FnMUtTVVYxamhjM2JMNTQ2X2t5X3lObkYxaEgtMGNWNjhpbG94dFZYZS1sQmZXNjdQeVJDVDdXVHNnemdsUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762338655
     },
     {
       "title": "Match 23 named for Men's Eagles clash with Georgia - Eagles Rugby",
@@ -489,6 +483,12 @@
     {
       "title": "Jaelan Phillips trade grades: Eagles address major weakness, as Dolphins prepare for future - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGEwOFMxV1I1NHdieUgycjRrcmVBdW5BNjhKWXBaMlBETUhpZnQxeXRrMDVpV2E3VXdUbkJrakwwZGluUjkzeUdzTUVGU3o4amtnY3VyVktnVWNVdVc2dk9WWFJ6dzN1OURkOUpaMUREYm1pOWF3cXc5N1lZWTBGdUc0aHVXd0V3UEZHUmFlYm5DTVJmN3FlaGhGSGRzQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762156800
+    },
+    {
+      "title": "Eagles 2025 schedule: Game-by-game predictions for Philadelphia's final nine games - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUUV1WGxKMW5RYzFnSVVVc2txT0VveVF6WWpnTVNZenVvOC1zSXNUSkFNS3pZb1VlZDJ0WjlxVE9ud1VzWTZ3d1ZTZl9yTE1XZnBOQUhQY05ZajdEYlE5V2U5ekFIUkdVY1IxaFZzRGdKeUgxblVEUGFkVUZ0T25ucXpNY3BCLUx2YnhtcVNoaEU3LXZ2ZjVtWm8tMUhMSmVRZ2tjc2NIZ1NFVERNOU9LWEhxcEVlX3d2ekZxRTk5amV2WXpCZUxqdXpPbFZ4NG9VVmlsQTNVcFg?oc=5",
       "source": "Google News — Eagles",
       "published": 1762156800
     },
