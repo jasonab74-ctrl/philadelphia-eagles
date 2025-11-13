@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-13T17:43:47.097185+00:00",
+  "updated_at": "2025-11-13T18:32:27.598041+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "The Eagles should bring back their all-Midnight Green uniforms",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-history/163522/the-eagles-should-bring-back-their-all-midnight-green-uniforms",
+      "source": "Bleeding Green Nation",
+      "published": 1763058182
+    },
     {
       "title": "Eagles News: A.J. Brown talks about his frustration",
       "link": "https://www.bleedinggreennation.com/news/163513/eagles-news-a-j-brown-talks-about-his-frustration",
@@ -59,12 +65,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUUwQXNyQWtmeXFFTlVPY05TUXVabUxYUE9qbTMtb0FiU1dvRXZyU0xvWFdQZm5CUF9RSGhETFJSX0dVLXJic3d5WGc3RFpuYzR5Ul91REJ2RzRCa0JrY0ZpZDJJYnVwRW9nNXY2eWd5a1pPY216d252Z1BHNkZtRTF5TG9Wb01TTmVpTkhUYnZWMWZEeU96SXBwZVBTMTRaS3dYQzVqU010ZHZGU2J0dQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762983446
-    },
-    {
-      "title": "Eagles Need to Address A.J. Brown's Criticism Before It Derails Their Season - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUZFWFR2MVRlNHJkSzUxYlVPRElXajlJTDl2RW9JWDdITmh5ZGVBZUdGb3U5TkQycUlDNGpsT3plVkpsemRlVVpIeWUzcWF0bWFjbWFaZm0tRHZfTjF6dVBDZk1JZ3E4WmRxWXpmQ1pwa2Z2LWQwdWlFTGZ2VjhHcjdid1duTFp2Snowa25wRmNwM05CNkHSAZYBQVVfeXFMTk1VOGo0NmpVS3hKWmR2YmtVajZ4NlBCYy1jZGJMWVRsVWxNbkV1WUlFT0RDaG9veDVUN3RtdnJpYjVxRGg0T0ZfRnE2SHBaaVBHeV81ZElTY0x0aHQyb2VNSThGMkswN2R6RVczbHZrakMwdTFfQjEwdjhTaVBNeHBCV3hTYWlHdEw1Y3UwNmdVV0F5d0pn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762980382
     },
     {
       "title": "In Roob's stats: The Eagles' remarkable success in one-possession games - NBC Sports Philadelphia",
@@ -139,12 +139,6 @@
       "published": 1762907460
     },
     {
-      "title": "Jaire Alexander informed Eagles he’s stepping away from football",
-      "link": "https://www.bleedinggreennation.com/news/163410/eagles-jaire-alexander-to-step-away-from-football-trade-acquisition-nfl-news",
-      "source": "Bleeding Green Nation",
-      "published": 1762907430
-    },
-    {
       "title": "Spadaro: The Eagles edge rushers show out in primetime - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3VrZG15Y252cjBKYTk3LVZxejVkLWFGWG5CQ2l6ekkzOGF6VTIxNGFuOU9KbnZsV1AxREUxRlR0SGs0a20xbktiUkYzbThEWTBzLUM4ZkdUdGNhNFh3NVNMV2JiYk5hT3ZxSTdSOTJyZDNFc1dTeU5adEQ2c2U1RG56LVk5dExGaEN3RjBLSWVRQy1BdFZMak5DY09kb01yaGJoV2NR?oc=5",
       "source": "Google News — Eagles",
@@ -179,12 +173,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1ExSGgzZFVJdTVqZl9HN1lrMkY5MGJzVjZNS3dKaEZia2dMRUZQR1FraC12dHE4MEkzdnpvbHdqOUNsQjB5aWxvMkhwWm91S1M1UWxFNC1FQ055ekI1SU9kWlhIUXpTTmtsUnZMYVRFZFlrMXpQQW92bkFoMC1Pa01DZ3N1dnR2VHhUVGUzX0tqVWdYaW0xNVVSbXcwU3VSM2NlOGJBaFJhZHFt?oc=5",
       "source": "Google News — Eagles",
       "published": 1762848000
-    },
-    {
-      "title": "Packers tried to ban Tush Push. The Eagles trolled them with it in the most amazing way - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVMwNHBqRGtoN3BMY2ZTQ2NTOHNWMHFBZGN5R1R6RzBwVjhaaFg0SFd2UTA1OC1OZGN2LXc5TnpKblN0X181dDFZSEw4cUdkVmdVbXFmc2FNZ3pxQnNkaWxhYlFPZXN1SGFnOGxxZk15OHc2SnNmWDRxSWxqRURqZ2pXaGJkS0p6LTVmU3ljVGtibHZRaXN3MFppaTd3dy1teVdLc01JYmVPbGJiR2U0VVZCamJrck1RRXR1UlB6WEJ6aGZnTlBtTEJ0bUZ6eEF4aGZKWDJ2OFdTYnM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762846716
     },
     {
       "title": "3 takeaways from Eagles' Week 10 defensive battle over Packers, led by Jaelan Phillips - The News Journal",
@@ -277,12 +265,6 @@
       "published": 1762814090
     },
     {
-      "title": "Monday Night Football: How to watch the Philadelphia Eagles vs. Green Bay Packers NFL game tonight, start time, streaming and more - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQUpyUEtsM0g1OGhJbC1fdklSRlMwMERtQTU4QmVDbjhWTDhmUWVHbUgwVTRuczBxczN4TkF0ZFlDQzBUQnU1UUlfZHdWYzd3d0d5eEZCM2dvbU8wOFlnTFFPMlBtTHBJakFieGZrRVFVaUd3T2lLZGJEcTc4cUcyY1Y1WmZjOS1DNklxUFlKbDBGNTBJcUs2Q21Wam5hcU13Mko0RGozN0RSX2FCMkdPLVNVZFhOYURFOWl4MHdvcFhleURCTERmMXEtUzk0a2VPeTRDTTRpQ3dhOVNLdVFuX1pOWDVUSmlTNVd6Y190dTU0UWhLWEw5YUVURFM1VVZvTlZPdzEyaDRkdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762812988
-    },
-    {
       "title": "Eagles activate Nolan Smith off Injured Reserve, elevate Patrick Johnson for Monday Night Football - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUUycVhUc0h4alRDQ0FQV19wR2RjeFk0bmFpNjFPVUhFdVJZU3VHaTNodXpzWmRmOG13MXpSYzRFV0Y3ZVVRR3hLLUtjM1dDclVHMk9ja25Sam9HR0poX3F3WFhlRmFXaUY4TWxqWVpDcHZ0Tk5CR1k3b3gta1IweXBzbk9QR2JXZ0U3cmZYdHk0Z0dSbjRRdndLWjRUQ1JYanAzTEVKaEJqcjJfZmVIWXhEalgyZWhURi1nX2dFVVpyQWJ4NGFEUEdxNlpWUE1xOUVR?oc=5",
       "source": "Google News — Eagles",
@@ -373,12 +355,6 @@
       "published": 1762682006
     },
     {
-      "title": "Golden Eagles Produce Late Comeback Win Over Wisconsin - Marquette University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3pHa2E5M1hUZDRaaVNxNG5lVmVQbGQwUmdKaXJvVlNyM1p6T09RRk5YYzdFMlRxWVVhMnFIU2Y2S0ZGU09IWTI2bHRMcnJhSTBmdkNYSzk0N2NDMkZybG03SE9XQUl4QXFnNG9xN2xjVkM0eWVMMUI0WGZ5UzFLWENLSl8wT2FDQ1Z2MDhnMUNWaTJWUjQ0OWRnTlVtMjdWd3hFR1FSWmw4b19oQWw2aA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762652828
-    },
-    {
       "title": "Eagles at Packers Daily Updates: Eagles rule out Jaire Alexander for Monday night - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUplczlsMVVoZnJMWlgyQWU4YXpMY0VadV9sYnA1Sl9nbUNxdm9lZ3M5MW5jODJyeHVSOEZibTVUTEpiU0d2QlZUNFAtSFhRbUtBQURhYjd4QTVBWXVRLXlXSmlXMTlaMC0wYTllNDk1eXJoaXFDSlE1dE5TYTZtYzM5RWphRHRlUjlDQQ?oc=5",
       "source": "Google News — Eagles",
@@ -401,18 +377,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaWDk1azlvNVdLTUVHU3dCYUpGbEN5cE5xbWhoVW1hWTk5S0VUZk9vX3J1NGJJcHNyY2VQNFZfZG93YnEtUGYxUU1lbjlyZlN6aGZzVjdPazNTWTZ3TlFUVU8yWVJ3RTZ3STdhcFdqVEZQN08zNlc0?oc=5",
       "source": "Google News — Eagles",
       "published": 1762638337
-    },
-    {
-      "title": "Eagles sign DT Ta'Quon Graham, release OLB Antwaun Powell-Ryland from the practice squad - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlcxUnhBM2ZHVVdXTEgzLUdwTEx0cVpEOFRBUU1CSFdIM2g3S2t0TGM5Z0FTVlNqNFI3ZmVuQU9mRzJBQkMySG45SjBNcWU1NHJvU0lvdTVJU1VXZVVLbW1CTE5odkNlUGVUazA5T09HY1liMU56OTc2Qk94WldreUlyN0ZiUmZKNS11bGdwWEtVNFdrZklQMHh4LUlXRXZBUWhwNzRhMmY3aEVCcnlVOC1Ta2x1U1o3bk1j?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762636431
-    },
-    {
-      "title": "Packers list four questionable, rule out two vs. Eagles | Week 10 Injury Report - Green Bay Packers – packers.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVh1cjdJcWxPbGdKektZNzZxRVZkampPVjlrMTQyRjZtNEhKZVBETFk3Y2dRWjc2bkFXOFVXVWt3b2tzZnpad1pqMGwxbjRCX3BJc3RoeW54Tk9KRjRqOFdWQnFXOU9ZR0ZhajNjVk5kbGZGZk9Ycm9kTENFa1RwM2JB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762636259
     },
     {
       "title": "Eagles at Packers Injury Report - Philadelphia Eagles",
@@ -445,12 +409,6 @@
       "published": 1762530668
     },
     {
-      "title": "Jaelan Phillips explains why trade to Eagles is ‘greatest thing' in his life - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbVdZTGx5SFY5Y3llV2lIMmhuemVoMUZ0OVl6OFZFTHIxbHlXYnVCLVZWUnRIMzg1dTIyanphd1ZIWmhCb0lGT0IzVTdGT1RiWXgxYVJoY3ExWEhmOFdOZGFQdm9oX1BXdUl2LUlHVVFVOFlEai04WVZ1VEtCMGFDVExvT2RtWVRvMmNzOTFmTEpPZkJLLUo0TmVBMTB6SWlWZkd3VTlIUWN1dENmWlRydXlhODcxT1duZk9rb1RxMmQ1TWRkbTE4ZkpnSnNqOG1wM0Q4eHRQc0sxbGsxT0HSAeYBQVVfeXFMTzhJME9uVUE5YzBEdnBxbHF2elFQclV0Ymk5ZFRTOU4ybFNNSXhmRGlDQUxHb1pFMjlFSlJQWjIxeDI1SUl0STFuUWZrMXBwR3BVU1dnbFpJWWg1bTltVjZOaEFnbVliNWRJOGRKQmhRYW9DZWZaSTJyajIyVF9ZcGl2djJEZGZUMlhIeDVUbGpabU9Ca0ZCdS0zVHB1bXlBTGxNdXQ4OW96WXNlYllNRWVndk9lenlDYzloUDluOWNjNExmQl9oMjcyXzQtamU2Mk1XNEVTQlo3MWZxS0JvcXVXb3VRX0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762516800
-    },
-    {
       "title": "Phillips: Trade to Eagles best thing that's happened - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzdhcEJKSmRBRE9XVnhqNUhFZGdyc3NjNmFZSzJXcVdaNkQ1UllDZGJ2c0xlM2toczdyQmRjOW1Ta09GMF9NRU12VzJTX19jZFgzMUJlbDI5NnRoamlDWnJvMU00UlExdDBNX1htZk5haXlHMU15cm9YZDBGcmppbGlYU3JzY1JIcU4xU0tZZ2NiaUNrVHJuNQ?oc=5",
       "source": "Google News — Eagles",
@@ -475,10 +433,22 @@
       "published": 1762441009
     },
     {
+      "title": "Eagles vs Packers predictions, expert picks. Who gets revenge in critical Week 10 game? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXhBZlBjdExlb2dMeWtlY0ZDXzhnMzlURk9ac0p1emRZVEFiVXBmZE5wRENIZjBKRHRGUk0zWDhPT2F4ZHlBa0dkQzdpV1g0Z0gxeXpGR3ZUSngtMGt6ZjdycTktOHRGdG8tNzNOemJLQ0ctdm5xSnhjV1dCU19yT1drQ2NHRmRQMXowTW83blNNVHlGNXpUUk1NR1VISmFDZUlsdUg3SlBfamZpNmVDNVk1dXNYeGlmZ0ZCTm5lMGtuRW9KT0hnNU9DNm1yZV9fMGhPODVPWFkxS1dxOHBWRFNfWklnQ01YTW5zQVNUVFRnQmtoZ0E?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762422415
+    },
+    {
       "title": "Packers host Eagles at Lambeau Field on Monday Night Football - Green Bay Packers – packers.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83cmhYQm1TUGpFeFBXLXFwMEZRM3E2MWI0SlEtODNDbUo0VENpRFcyRVVaY2pvVGVTVkM2R0lzeC1KaXZyS08zSlBrWXY3QmNyekJqdXVJWEpLWHJmZmo3VHpHeHFydVdhcWJj?oc=5",
       "source": "Google News — Eagles",
       "published": 1762376890
+    },
+    {
+      "title": "Eagles sign OLB Patrick Johnson to the practice squad - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmI5eDdGRnNIRUZnX3Z2RFE4UW9maGRQdURfZ293LVNkVzBfNVIwZ2RFZ1Y1blAwc3FOWjZIdFdOUGc4WTlnU3VoZ2c5NENvdkY3Uk9LVkNKcE5FVWxwUG1UZ181WE1XVzVPYmtXdFVjQ2VhNmRVUExwWG5CNnF0ZllCeVdLQnZISi1LRmFHbmNKeTltRzNpd1hELVNkQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762329600
     },
     {
       "title": "Match 23 named for Men's Eagles clash with Georgia - Eagles Rugby",
@@ -493,8 +463,32 @@
       "published": 1762329600
     },
     {
+      "title": "Eagles open Nolan Smith's practice window, release Patrick Johnson - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVhvVEZtRW1kOUtoN04yTGdjSGwtUUpVRWt1ZDRKc3dUVUozcm9KMXg5eFJjNjA4YnZhM2s1UnFGVkN6NndoZFdseG5uczFkaUtWaFZSWWxoNWFkUWhPN1NUbm1RWE8zZTZCcXNjYzhCNWpCZVRjdXhzUWlPWV9KMEp0Njc1UVdGZDBCME1kUHJScXJ5RWhMZU9GcW9tRWt0MDRGUEFZcFloa2s?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762243200
+    },
+    {
+      "title": "Spadaro: Howie Roseman strikes again - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTR4TXZzRkc1MWRRVlhrQjgxV21PN1I4NlM5dFhPMmQyRFdHLXQzVU5qdDFFU004TXFBN1dPVmVXLWpHTUNRQ1ljNU9BaTVudHk1RTNEeXYzalZQVnNrWC1mTjJFSWtGNUJYYTNydS1oM09qQlRWdFdZZXVLdGY2UThOa1JEaEpJd0ZnYktRb2o5WVZBRUE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762243200
+    },
+    {
+      "title": "Spadaro: Welcome back from the Bye Week! - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFZVNU5HZWV2MGtSQU1nUllqZUlyWE9CeFVQR09ucElPclkyaXRhWGdTT3BtYzZPZWxGYnpuODJvSVFkYTRoZFM5S2tHNW1QUlhiU2VFLS16ZDNjallsY3laZkdhTlVISDNSNkUwQlgzNWV1SXZrSU9ENjdqQ3lJQTNZQXFBVHB5cENiek1SemtCTHZmSlJ6a0x4V1JBbUFLSzRVempB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762156800
+    },
+    {
       "title": "Eagles trade for Fins' Phillips to bolster pass rush - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZm9pb3JRRVBvb2RDeGYwa3BwelBiUVR1LWo4aXZlWmxVMkdidjVIVlpyNjdLWEZHc2xPSHpRZDROQTA1WVNDQ2hRSHg5SHd2YTRoNDZZV2dFZnZqS1FQaXVUV1UyNWpIZm9sN2ZQamY2cndlNDljZnB5VlNFekFrNTVkeVlJdURBeGJnWVlWcGVQaHYzWkQxc05wcw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762156800
+    },
+    {
+      "title": "Philadelphia Eagles GM Howie Roseman all-in at trade deadline - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDg2cHRtREFuMG1CMFBOem5rWDdybGd2T2NFTnJrZTlhNENWeXBWa3ZFWnVEcDd4bjlyTUJwOWprX3FYNi1jZEg5LXBRTFdLc0xTU2h3Q3ZYMk05SlBob0xfejBIbWVxbUtpVmhLTFJhR3oweWg0N3VlWHV2aWFiQjNiYXh0YWdtaHlrMUVPSzk2UjdpbnByZlYtRmNkcTljTGc0dQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762156800
     },
@@ -503,6 +497,12 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52QjVIX0NCSklaS1Z5aUhnM09fRTdkRGNyRVVrSkp2bklMQzRhdnludzB4b2ZWNkJGY2tkYWtNUGRJWDhmYU5IT0NXZWxldmhLaVlnb1huc3IyN2VOLTRuTlpqWFVndnh5OGpTMGxpNUNPSnBydk1v?oc=5",
       "source": "Google News — Eagles",
       "published": 1762156800
+    },
+    {
+      "title": "In Roob's Eagles Obs: Trying to make sense of mystifying A.J. Brown situation - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnJMQWNieG1HRjlOM0tTNVN1bHgxWUY1RWJkbVowR3hwMGkxcVVIV2FtckxKaTJWYnlHbmdac2ItdGJ4ZkZnWHVSUTRCaE1xLXVSTDM2cEZweHM5TWZMNC04V0l4ZHNiVjBKMXV0VTZPbEpUN0VjZnNidHExQmRHWm9NNDhuZXBnXzU4azh5SUV0S2ZwNk5sd0l3RzJJY3hBOFdmOHZUaDZuSmdoUmdybUJoMkJoU0VyLWZ1OHdmRWFhSUVFZmV2NlNDWWYzU0NO0gHYAUFVX3lxTE9ycldQSWx1TzZzV044RFRqeFJlWDVhZDNLNlBkNklfczhOS1dlR01MX3BZczVsNk5rUm5rcWVDS3owRTFGTTRkeHdFcUlFbjFLbkd2SFdrLWRRVjB2OG9BQkRhN1Y0b0Jxc19oWERvaFpyWWhIcjlxUHlMOGRIeTFHVUxCQjU5eVFnY0lBc0hETnM2cWhHeVRMQTBvR3VueG9kbkdpamlTSkJBM29MVGx4V3d1R0FObkFKSkJyYmZlRXlhNk9aVFRuaTMtTENDaF9QazBxdHZ5LQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762066800
     },
     {
       "title": "Eagles agree to acquire CB Jaire Alexander from the Ravens - Philadelphia Eagles",
