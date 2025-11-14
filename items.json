@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-14T21:20:30.184020+00:00",
+  "updated_at": "2025-11-14T21:39:43.081656+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -167,12 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGw4cnV4Z2FFRlhOczhCbkhPWEkteE15SnZLc2pVS1RBQ3pwek1zNGlhdUpTSGRKTlVXTDdQeENaUGF0cm54ZExIY1lwZExTYUNSM083dGE1c1lLbzdpM05naGFNUzNsNHdJR2YzVVJNaXgwT09aeFhGeEtJVHZoSGxoenB5QXI2cU5VeEFZdlVWWjE2TE5vR2hyR1NRLXlVcXk4UTJpX2djQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762907460
-    },
-    {
-      "title": "Tyler Steen reflects on the sacrifices of his grandfather, Sgt. Rodney M. Davis - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODF6cjRmcXB6VG04aEtySjdWNVJXeWlRTThzX1VyZDVPX3VJRHFhOUd6dmxFc05EQ1JpdzlzeDVHNjVueDZNT0xQTGRpVmVuOS1GODJQR0IwMEVsQ0JGOUcxMkxRTF9EckFHUnNrSEEwUzdEcWN5Y05wX3BsZFQ4R05JUWxTOVhzd1lGT3lnUG9aQmt5Zy1CM2VTYzdfNnhOZVFwT293?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762895282
     },
     {
       "title": "Spadaro: The Eagles edge rushers show out in primetime - Philadelphia Eagles",
@@ -355,6 +349,12 @@
       "published": 1762700520
     },
     {
+      "title": "In Roob's Observations: The gap between the Eagles and rest of NFC keeps growing - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHA5YjRod3dyQkoweW1ETURkUzRHeXh3bDdGNkZDbDFUaUVTbzYwTDR1ekhsSVNlX0pnQzdMM0t4MHlUcTRzd2ZwYVFENlF2U0stU2FsRU1qRUt0YnFNMDVvZzhlYkRXVFIzdDVla2s3OHoxVFJSUTVwU0RLRTl2SnJaRkF2dnZqdnR6NVk3MTE4S19XTE9DZUxNV1p3ZjJMWmh2SHU5U0cwakdqT2U0eDhBUVo4cnZERkVxM2kwb2TSAcgBQVVfeXFMTzlkU1VPdDJ1Y2pGSDFtc2t3djN2R1J5MXFLX0pURTB0enhyZWZnQThERlZBUFpWSmtsOXNiNVdrM2FzZWlhYThSOHRMVk5WalJCZkJSUkkzYUNsU2dXaDd0ZUJRN3NlaTBwckRJQTdIaUJ5M1ExOThwUTRwZVp0R3pPUENMT0d5ekZtbjBGaUp6bUNfSldRMklZY3kzbE1QbmJYZHp0bFotdWpOSFpnbDY2eVhOSm5kRU5tNHM1SmszczhQaWZPMEI?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762689600
+    },
+    {
       "title": "Week 10 non-Eagles rooting guide - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHRsbmtZMEhfZlRpY1ljZXlteUJpUFQ0Vk1aZTZ2WUZYU0pVRUdCTnBUVWpvSmpnMFJzVGVyYTRrcWRUYjhsTlVGOFZOdWwtXzRUZ0NMTXdhVFE4ZllsRHVjVm9IaWU4NldBNUdJd0Y3QmNWYmItQmpyYXN3bU9kZEVKLW91bHBTdW5wWjhzT3VUd18zVVdKY05tQkFfMC1MN0pJNHRWTTU1ZVRl0gGyAUFVX3lxTFBpQTZYM2tUc3hDdEtuOERzUkdCeXkwem45aWZNR3pNR09nQ3JKOWZfSUR0OWJZTGIwZFhyTEd0czJBenZ2TGE0cE10OWtjUTdPODdDczQ4WmwzUVFuWEtYR3I0YjA1SXAxOVN4Q2dCSEYyS0ozaUNHTzRxT1AwaUU4dGR0SHUzMHFRVS1RejBVdnBIbHJyX2ZrM3M3cmdtWjlpOGZjN013Wk5URXZENWFYWGc?oc=5",
       "source": "Google News — Eagles",
@@ -401,12 +401,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMm5ZMk9DLXhndnFYcnlYRHY0MUxWaVc3dG1EUkswUXJVN1VibWhiM0hOM3RORmNWZ0c5SWVJUUxZVUhzVHdpUlBkSVBMaHpVMDNHdVd3ZXRieGxkOHJZNHRrbUZoY3ozTlhtY1cyYXJIa003MGRfU1JySGNLZmxxSkZsbGh4TmUyQzd1VEhLY0lGdExlX0xIN3ZZb0lYalRyTW5ialNIamxFYWJodUU4Z1NZSnktVTlBaWNGOFNhNGtrMnRlZWk1MQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762635521
-    },
-    {
-      "title": "Our predictions for the Green Bay Packers Week 10 game against the Philadelphia Eagles - PackersNews.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXQybmdjVnBuN290M3ZqdGhiR0NwYTdDR0dPMFNIYjNINmlsLWg0M3EzcDkxQUJ4cWxUNzBNTHVYamdJbUpPSnN2SjRYWGVVcWNYV3JZM2NqNi1uejFEcTlGN3hESFdKTUMzby1xS3Q2VWdTRmtWNjJqOXVyRE54ZGcxVm9vRWVWLWFnRV9ZSE8tYVBrRW9lOWJqeE1GR19aaGNOWTByMDZYb2daamE3cWFLeTNmY3poMkdOaE5pZGc1ZUVSSDQ4RWJnYWd6VGsxTnZra0lpc1o?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762616427
     },
     {
       "title": "3 burning Eagles questions vs Packers. Unexpected biggest loser from Jaelan Phillips trade - The News Journal",
@@ -497,6 +491,12 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGEwOFMxV1I1NHdieUgycjRrcmVBdW5BNjhKWXBaMlBETUhpZnQxeXRrMDVpV2E3VXdUbkJrakwwZGluUjkzeUdzTUVGU3o4amtnY3VyVktnVWNVdVc2dk9WWFJ6dzN1OURkOUpaMUREYm1pOWF3cXc5N1lZWTBGdUc0aHVXd0V3UEZHUmFlYm5DTVJmN3FlaGhGSGRzQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762156800
+    },
+    {
+      "title": "In Roob's Eagles Obs: Trying to make sense of mystifying A.J. Brown situation - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnJMQWNieG1HRjlOM0tTNVN1bHgxWUY1RWJkbVowR3hwMGkxcVVIV2FtckxKaTJWYnlHbmdac2ItdGJ4ZkZnWHVSUTRCaE1xLXVSTDM2cEZweHM5TWZMNC04V0l4ZHNiVjBKMXV0VTZPbEpUN0VjZnNidHExQmRHWm9NNDhuZXBnXzU4azh5SUV0S2ZwNk5sd0l3RzJJY3hBOFdmOHZUaDZuSmdoUmdybUJoMkJoU0VyLWZ1OHdmRWFhSUVFZmV2NlNDWWYzU0NO0gHYAUFVX3lxTE9ycldQSWx1TzZzV044RFRqeFJlWDVhZDNLNlBkNklfczhOS1dlR01MX3BZczVsNk5rUm5rcWVDS3owRTFGTTRkeHdFcUlFbjFLbkd2SFdrLWRRVjB2OG9BQkRhN1Y0b0Jxc19oWERvaFpyWWhIcjlxUHlMOGRIeTFHVUxCQjU5eVFnY0lBc0hETnM2cWhHeVRMQTBvR3VueG9kbkdpamlTSkJBM29MVGx4V3d1R0FObkFKSkJyYmZlRXlhNk9aVFRuaTMtTENDaF9QazBxdHZ5LQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762066800
     },
     {
       "title": "Eagles agree to acquire CB Jaire Alexander from the Ravens - Philadelphia Eagles",
