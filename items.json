@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-17T22:21:26.643997+00:00",
+  "updated_at": "2025-11-17T22:42:44.550095+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -65,6 +65,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkQzRVdyaGxyWWhnY0NqYl9wUHVfYmpHTXdXR1JmbXhaOVQ0NGdaLWdlSHdUY2t1WWtGVTQ3VnpCZ3h5UzNpcDlkTDJmNWEwTWJkTDF0VHVtYkF0RE04eTZmaTFhZ0pSWklLZUk4VExCLWcxcU5MZjVLcjV0elhaUVRtMV9jNm5uUHdpcVBMU3JwUlpyNjAzSGdWcw?oc=5",
       "source": "Google News — Eagles",
       "published": 1763396590
+    },
+    {
+      "title": "How Jalen Carter, Eagles' defense presented Jalen Hurts, offense with a harsh reality - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlJiQjdBN0w1ZlNHdmNyX0NzNk9HWVpSemw5VEtQaGdUaE1GNHFyYVhtWGVzTU5vbEZQWFh5REQ3TVMxSThkMnY0cklSV1RLOXJ5S1FYaHh1M00xZEdrZ3lnY1NTeUQzR1loZk93SW01QWV0dm5fZ3ctZFF2cDE0MkxJMFllSVZtek8zYkw2Y1hxUjctRTFUWDZXVU1iZEg0U2tmTGFiVFNTanVjbm1UT242MFdyeUI3SGxFS0ZpcFRxd0NGS1hUaWt6aGpnMUdoR3VKcmlDa0J5UQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763392112
     },
     {
       "title": "'Lights-out' Eagles defense swats Jared Goff, Lions offense into oblivion - NFL.com",
@@ -185,12 +191,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1BBMU5FanY0amY0TE9aRnVlRzQ2NGZXOWJmXzU0MW5FNm5wM29rOFFnSC1JV1JVZEZITzFTdE8tS2p2WXpLT0w5akYwRHc3VndLMFRMSGluX1YteFVidzhSVkUxcmpEN1Z5b0lYMThvYUgyLUg2MXlLS0dSS19XRnNTZG5rV2VpX1dFeWJwOHBaN2JlMU4xRGYwSGx0dVZOUkVDMW81NnJYb01MNEh6LVljeFA?oc=5",
       "source": "Google News — Eagles",
       "published": 1763354330
-    },
-    {
-      "title": "Philadelphia Eagles' defense shuts down Detroit Lions' offense in high-stakes NFC game - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHYyQ2swNU1BbkdEOG1jWUdoN1pMcVRvcGcxc1hSVzZscWhYc1ZwMkJ0bG9pemZIVEJGT2VaTmxVMERsUEdtaHJOYTQ2b3Fxeno4WHEzVVZPOUNDZHBOOVNNcjB0T2ZNVlV6dEJuXzY0Y2hWcktyQkhxWXQzWmNoVi1n?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763354040
     },
     {
       "title": "Eagles vs. Lions: Fourth quarter score updates",
@@ -373,12 +373,6 @@
       "published": 1762864620
     },
     {
-      "title": "Josh Jacobs says Eagles knew Packers' play call on pivotal fourth-down fumble - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFpWYTBMY0ZrZ0V2azlPaTVLUklNUUZnQUwxc3k0VTdxNTA5eGd1NnF4RGxuZGg3Y2d6WjdlR2ZKakVBaHZMWGp6bGI0TFBGb3pQNUVZUmVQWFVvejF6bnlldVJfOWE4Y0lTWTd3QVJpRk42OTh3TC1xd2lDc0dxdTdRdS1JRFhUU3ZtcF9OMmlSOWN2SW1aT01KRThWUTA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762861800
-    },
-    {
       "title": "Eagles grades by position after tight win over Packers - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3REN1NuYkdwVlJBNFVTd19GTkpkUENxQTZsbEtEbW5KZlJocURpRmhHZWQ0eGphNWdOSmd5WUxzUy1wWlZ0aGRDZ3Q1RWRhS2xqOVQyOWVPWDRPV3c3UkNPYmRRY0FDNEJuQzhvc3pYdlhDZlNvaU9BWTFDS2hJMjNvcWNmaF9WT1k2bXBTdGJCTVVGSjZWdUs5Y3JCemZxUy16VTg2Um05eTRJU3c2Q0lnTktSa1paeUdRSW84UGo3d9IBygFBVV95cUxNVEYtczhJTTNlVGllQ2dRV3AzdDZGb3FuVUVVbGUxcGhHMEptbDY3bk5oTDJQSHdoeGZTclFIVGFxclg1am5sV3FWYWJISVVHeFV3SHpTMjQ2cWtkdXVZZWpOR3RnVVg0UDlLelpUOVB1NTAxSzlZUnJWczVhSl9RRTJUcFJ6M2twM1M1OG40TTAtbGNBNVF1bnNyNi1BV3ExUFZ0WnhjWWJ1VDktSFlBNXJBYVJBbXdNWTZKUWl3WG1pM0xZM2JiZ1Nn?oc=5",
       "source": "Google News — Eagles",
@@ -415,12 +409,6 @@
       "published": 1762838093
     },
     {
-      "title": "Packers fall to Eagles, 10-7 - Green Bay Packers – packers.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ydlVDMjB6dTlNUXlHUGdZR3R3Y1BDdUlUTnFEeFM1QzVsTkdGZmtmbVJ1WWZ6MkpPSm91U29tYWhwNGZTYnJHQmd0TkZMWGRDbnhLMFpCdkczLWRyMWFhUnV6SFJmS21IbUw5NTNUMjI3Zw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762837391
-    },
-    {
       "title": "Game Recap: Eagles 10, Packers 7 | Week 10 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckllUWdUQ2VRTnZSTWdiTDlDZDF0VVdGZnNtOHN3dlBVYW5ya0ZIUmlJNHMxc2RTSV9ZbUxGLVNSUl95YU5ES1Q1Q2dVcGhMc095LTlHdnY4SFIzRGVmV2RGdVItZk1SUVQ0NWFYXzFTN01Tdy0weERPTTlyUUJjUFhwaHJIZmhZczVJdFZCNVMwSWRqVTkxQ1pJNGo0emthNDVqQzVPM0F5d21lcWFUY3FFY2UzWkE?oc=5",
       "source": "Google News — Eagles",
@@ -437,6 +425,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGt3VEF3MjkzajB4dGdxM0dVRzdlVnRsWldrdGdYR3FsZ2FmRDAyb2dVd09FWER0dDhyd2ZiX1kya282cFowZDJkZkgtazI5N1pBemVkZHIwT2lMMU5NdlNKajdaS1JDWmsxYTlwdThvNVRscFdnUlRFbXFwT2pZLXJUbklXcC1QNXdhQkttbWQ5ZWtlSUpLaXpicUtRc3RLZTd2Vm13N3E0TGlBSHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1762834920
+    },
+    {
+      "title": "Highlight: Saquon Barkley's 41-yard catch and run on 3rd down - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlBlWV9WeTBIQmJHcDVhRXRlYWVkcVpHRU5BaGstRjIxU3JmVUpsNHExOHFlRmdBMm55bUgzaXdkZF9EY2pSTmg3bVNNQ0RyeU9SNXVTMC1hTEZmLW9lT29HcTRqTGV4d0xFaEFrc3dUeFpaWU9aMzdyZmQxSVRIVDdVcGQtYzRUMEJOcHFYSnVSQmlveUt5Sm1fNzMyVDY5eXlB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762832783
     },
     {
       "title": "Highlight: Jake Elliott gets the Eagles on the board with 39-yard FG - Philadelphia Eagles",
@@ -457,6 +451,12 @@
       "published": 1762808510
     },
     {
+      "title": "Eagles pass rush group gets a big boost in Lambeau - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUUcyV1Bpb0dLNkI0MTRFeXlvRzZOTm5kVVFnUHZYeWNkeTFBem4zMFhNVG96Rmw0bjRuaURrdUw5ejZFQzJRQ1NYaU14aWpRNnV3bi1sSUhTckludFhwZ1NzVlRJUlZ5NktXRkRwNVEzZkx3ejdTY0xDdGtkb3h3OWFKbkpjWFRUbU5OWHFjNHd2NDN1TFBtTW1ma3JEcDZCZzlKbl9JWkxBazRXOHlsVktBVUdfa3NoZTM0VkdWZVY1dElOZ2Yza3B2NWgxUjcxNVlJSzhibFA5a1HSAeMBQVVfeXFMTkxMaFRZd1REaC0xNVhUSmdXZlk5YkFzMVdxcUxSZjhIV3RLYmdvQ3VuYmJwOVVsYk50Wkttcmd5MGdFUng1ckVaNXROMW8wc21od3hHal94UHl1YjFPMl9BdlhjWUE3dF9fZE8xY0VZTE1KY09DMmQwMWx1clNyR0hsV2kzOTFrc3prMHV3Z3FyNXMwek9WMndpVUs4a0d5RElRSVJoRTBSb20zYlR3cXlzU21Jd256S1ZlM1NHS1F0OVVwamZ5VlZtYU5VWHdwUDFSTWQxVEVGUV9ZaXRLTGxBTzQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762806990
+    },
+    {
       "title": "Spadaro: 6 storylines to follow in Eagles at Packers - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDNZVUUzSzBIOEJRMDRLYVlJU3hUanp1eDEySTZhSzlfSV9NUE55a29ENl9lbjlIb29kLUdHV2FXdmUtdEhiNkI3MWRjQUhpMVFHTndmWUU2R19UUElzdm9OZzItS0dUV2xLTkhmM1JZYUlyN3IyZWQ2LVRNSm1NZzFQR2J3bXYzLUwyRlJfLVRlU21uM0ZF?oc=5",
       "source": "Google News — Eagles",
@@ -469,12 +469,6 @@
       "published": 1762768811
     },
     {
-      "title": "Eagles vs. Packers Week 10: Three must-know storylines for 'Monday Night Football' showdown - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmw1NThLN2hNZzFob1N4Y2ZYamdzMUNhdmxlVEFIR3ZCYXI2c241cy15V01Edk10ZGFhNGRhb3JyUHphNlA0aWVXOUNmc3VjSDJSbFJNTDRnVG9rVlpLUFRYa0Y0VWEzUnp1Z1BrRHlLVWphckRtaWg5MEhyc1RSMjdBNFB6Ty11UXZPUDV3N0s5MmQ0REtmbHl6ckUxNHFnVXlwVHI2WmdGSnlyNUxJZmd3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762700520
-    },
-    {
       "title": "Eagles at Packers Daily Updates: Eagles rule out Jaire Alexander for Monday night - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUplczlsMVVoZnJMWlgyQWU4YXpMY0VadV9sYnA1Sl9nbUNxdm9lZ3M5MW5jODJyeHVSOEZibTVUTEpiU0d2QlZUNFAtSFhRbUtBQURhYjd4QTVBWXVRLXlXSmlXMTlaMC0wYTllNDk1eXJoaXFDSlE1dE5TYTZtYzM5RWphRHRlUjlDQQ?oc=5",
       "source": "Google News — Eagles",
@@ -483,6 +477,12 @@
     {
       "title": "Alexander won't make Eagles debut in Green Bay - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0NWNi1iTlp1c1BZMHM2aFZNOUJISHduekFqQTZ6Z09UVlBDTExyVWptWnNTVVNMeUZ0SVdRU3JHQ21JczNBcjRIRVNWWVg2RTFvd2QyUjdpWTh1RUtHVWx1UDZqOTAzeXBYbkFiaXhyRDhzTDdmYkd6RUt0bkpROGtSVW9Mdl90NVlHZGRmMWg2R3lRUmdKbjF4d2g?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762675200
+    },
+    {
+      "title": "Eagles vs. Packers Week 10: Three must-know storylines for 'Monday Night Football' showdown - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmw1NThLN2hNZzFob1N4Y2ZYamdzMUNhdmxlVEFIR3ZCYXI2c241cy15V01Edk10ZGFhNGRhb3JyUHphNlA0aWVXOUNmc3VjSDJSbFJNTDRnVG9rVlpLUFRYa0Y0VWEzUnp1Z1BrRHlLVWphckRtaWg5MEhyc1RSMjdBNFB6Ty11UXZPUDV3N0s5MmQ0REtmbHl6ckUxNHFnVXlwVHI2WmdGSnlyNUxJZmd3?oc=5",
       "source": "Google News — Eagles",
       "published": 1762675200
     },
