@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-18T11:20:44.711325+00:00",
+  "updated_at": "2025-11-18T11:40:13.494141+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Philadelphia has the best odds to win Super Bowl LX",
+      "link": "https://www.bleedinggreennation.com/news/164074/eagles-news-philadelphia-has-the-best-odds-to-win-super-bowl-lx",
+      "source": "Bleeding Green Nation",
+      "published": 1763464140
+    },
     {
       "title": "NFL Week 12 odds: Eagles favored on road against Cowboys",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/164069/nfl-week-12-odds-eagles-favored-on-road-against-cowboys",
@@ -79,12 +85,6 @@
       "published": 1763398140
     },
     {
-      "title": "Can the Eagles really keep winning with this putrid offense? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTnNYWllKMFd0M0ZXbXl5T3hvTDBBVEx5UFpSMmVvTlBVOWlqYXJ5MzdpUWRsNlEtQUI3dDNfeV9uWHhHTW0zSGEyRkNFUUkyRGFKcUlPaHlkalJSYXFwUWRXSENheFZncHZYNXEyN0szX1NKdWpmUURpRWxRLUFCczVubE1mRTVVVDFtZk5yMzRlLXVhZ3FDc3NKX0xxYURBUjZ5bUVBdEZuVS1xYTJTMXRyNTItWHh4VE82UUd4dzB4TlVGMXNQLTJoUmJVenA4M1lNd2Z6WVU2S2PSAboDQVVfeXFMTXBBSUVfTTZQbElnNUFVVDE0MXI1Y3dtWVRiTHRrbDFXQWYwbE4ySTJMcm5jd2Utd2M0LThHa2RpMzlyYnhRc0tOa2hrYzVWWVN1bXZPQUVVbXd6NDRRcHZ0YjNPcUlzck44V0hGVGhDSUI1b0tzQndJX2ZIb0JnelJRSTVMTU10VWt4MnQ1RzVRN29tU2Z3d3k2OXd4VkpjYWtVOElZX2N2RmNxQ1ByM3ZxLVZTTUNTWGlLd2JUYzZEX0wwMmIzN0xRV25fMWZfR3NJR0tGXzFyeDJrZXFsR2ktdWM1SE5fcmQ2MUt0bDc0NUowdVgweU9CdTBsU0hwNXZ0NDZqLTh6bG1pY2c3TGVVaFhkak1ZaF93MWdDcDBTQjNpeFdUS013TlpRSDRwTnlxRUtjYUZBNHR5aFNOb1FTWUtYNVJuUjBZQVo5WW9OTHNCZU9QWl92ZXBMeV9YdnhoaGYzejRyVWs0YUFPZUZJbWlQek9PMURCM1FxbHhkTUN3ckkxbk13a1FleXdQUnpUY0pJQUdjalh4X3JfTXY4WktQWnJmNmpFaWNERGZHM3lqNjk5ZEd2UQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763397736
-    },
-    {
       "title": "Eagles defense dominates in gritty win over Lions | AAA Official Review - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkQzRVdyaGxyWWhnY0NqYl9wUHVfYmpHTXdXR1JmbXhaOVQ0NGdaLWdlSHdUY2t1WWtGVTQ3VnpCZ3h5UzNpcDlkTDJmNWEwTWJkTDF0VHVtYkF0RE04eTZmaTFhZ0pSWklLZUk4VExCLWcxcU5MZjVLcjV0elhaUVRtMV9jNm5uUHdpcVBMU3JwUlpyNjAzSGdWcw?oc=5",
       "source": "Google News — Eagles",
@@ -101,6 +101,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVBETnVMYVdIeDE2ck5JaXFndXJRNDAxM2lCS2syN2x6MFlEa2ZUVktjQVA3dzhQQzUzcldBcGdndENBbF9ldzhzbWFMQVNuMm5PQ3RKU2JwWEtURUhfdW5aQkd3dUIyck4tQ1pwX05HOUszNThPdWJJNjN1d2NsWG00Y1FFRmJzZ1FCaDdJWkhpbERqQ2Q0dHJvSQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1763380500
+    },
+    {
+      "title": "Can the Eagles really keep winning with this putrid offense? - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTnNYWllKMFd0M0ZXbXl5T3hvTDBBVEx5UFpSMmVvTlBVOWlqYXJ5MzdpUWRsNlEtQUI3dDNfeV9uWHhHTW0zSGEyRkNFUUkyRGFKcUlPaHlkalJSYXFwUWRXSENheFZncHZYNXEyN0szX1NKdWpmUURpRWxRLUFCczVubE1mRTVVVDFtZk5yMzRlLXVhZ3FDc3NKX0xxYURBUjZ5bUVBdEZuVS1xYTJTMXRyNTItWHh4VE82UUd4dzB4TlVGMXNQLTJoUmJVenA4M1lNd2Z6WVU2S2PSAeMBQVVfeXFMTkJaMVNPQmo1X3ZZSDZ1YWlCNHNaTkJMckIzT2VJUFF3REdqUllMYkRDU05nc0Fqc2lKNnFNYmdNbGlWU3ZLUFRaaWdYbUNZVVp1aGpLYnBzdVBRSFhYQVFqN0VHOC1Lb0Q1NWtGTkNhcWU2X1pRSDhDVUJIUmxGQXRjVWc0TmZGV0R2NHpFdko5SUVhc2lkV0M1aXlwaEwtaThCS2NibTY5NFp6VVVFUjZ5NVlLc280X2NiZVR5MTU5T2NfYmtMOXNkbGMxWmZGMlhBTS1nLTdoUGFVUGRyU2MzOWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763379654
     },
     {
       "title": "Eagles grades by position after gritty win over Lions - NBC Sports Philadelphia",
@@ -155,12 +161,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlZrSGVrdjBxVjJWcUt2ZjRQLXN2YjVRV2RDbU5GVkxtaVpPeVJGOHFYRi1sNGYxRTUwZzBWUmRLdDBURHpOZ2NuQUdYWjZibHZrYVZPbk9pWE04MmZub29FbGpNUmhSYzNpQWRONFJldE92TUo1T3I1eDE3SkJzcVdfM29maXdMNC1KUVVQbnZmSUU0UFZuQjNGUmhmM2dqWmFmSDBLWXA2YlU?oc=5",
       "source": "Google News — Eagles",
       "published": 1763359800
-    },
-    {
-      "title": "NFC Playoff Picture: Eagles remain in top spot with 7 games to play",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/163979/nfc-playoff-picture-eagles-remain-in-top-spot-with-7-games-to-play",
-      "source": "Bleeding Green Nation",
-      "published": 1763359273
     },
     {
       "title": "Lions vs. Eagles: How to watch, stream, and listen to Sunday Night Football - Philadelphia Eagles",
@@ -343,12 +343,6 @@
       "published": 1763062430
     },
     {
-      "title": "The Eagles should bring back their all-Midnight Green uniforms - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUkxzZUJuZE9NcjVwa2ZtUEtyZ3BYQU92a0V2T2RZM2dWUUdpVENqOVA3NUpZZjM1OW5JUW5ua2h6OWRuSzl1bWJ4SkVVcDFzU1lXQ2kwWkh3NzB2Njd5OFFISDAyQnBTT1dpLWo4RTR0dzZkWUVKeUttSTREQUItUWd3VXE0Tms1LTVuNXdMNGs3QVM5Mm1MN3gyaTRucC1MWl9OLXBma3c0SXozYlpnTXV6YjhtTkZCVEY0bzFRV04wajdfUFg4d0V2MksxUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763058182
-    },
-    {
       "title": "Week 11 opponent: What the Eagles are saying - Detroit Lions",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVIxMHJ0NnhDYW5mUWYydzNJSEx6TEVLUzRjTFhJd1hxNU00Vjk3VXdLdDM4Nk9ieFpXWHY3bEtOakYxa3RWMWZnQ0V3TFdiMEZUd1VLMHo1cVVqZ3UtbzdlUzVzNnhuUWd3WmEtQ1Y4a0ZHZzlnSEszNzZjb2VuaXl5dHJWS1oyLTA3eWo4RTJrTVZFbE1UUGZFTnRDYlE?oc=5",
       "source": "Google News — Eagles",
@@ -491,6 +485,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGt3VEF3MjkzajB4dGdxM0dVRzdlVnRsWldrdGdYR3FsZ2FmRDAyb2dVd09FWER0dDhyd2ZiX1kya282cFowZDJkZkgtazI5N1pBemVkZHIwT2lMMU5NdlNKajdaS1JDWmsxYTlwdThvNVRscFdnUlRFbXFwT2pZLXJUbklXcC1QNXdhQkttbWQ5ZWtlSUpLaXpicUtRc3RLZTd2Vm13N3E0TGlBSHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1762834920
+    },
+    {
+      "title": "Eagles activate Nolan Smith off Injured Reserve, elevate Patrick Johnson for Monday Night Football - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUUycVhUc0h4alRDQ0FQV19wR2RjeFk0bmFpNjFPVUhFdVJZU3VHaTNodXpzWmRmOG13MXpSYzRFV0Y3ZVVRR3hLLUtjM1dDclVHMk9ja25Sam9HR0poX3F3WFhlRmFXaUY4TWxqWVpDcHZ0Tk5CR1k3b3gta1IweXBzbk9QR2JXZ0U3cmZYdHk0Z0dSbjRRdndLWjRUQ1JYanAzTEVKaEJqcjJfZmVIWXhEalgyZWhURi1nX2dFVVpyQWJ4NGFEUEdxNlpWUE1xOUVR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762761600
     },
     {
       "title": "Alexander won't make Eagles debut in Green Bay - ESPN",
