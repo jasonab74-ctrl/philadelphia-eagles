@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-18T17:21:11.348445+00:00",
+  "updated_at": "2025-11-18T17:42:45.081875+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Lane Johnson injury update: Surgery still not ruled out for Eagles RT",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/163989/lane-johnson-injury-news-lisfranc-foot-injured-reserve-eagles-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1763487086
+    },
     {
       "title": "In Roob's Eagles Stats, some mind-boggling defensive numbers and tons more - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0w1Nks3Z0VhOFcwTTFiNV96c1o5OE1iQ3RWdzk3YXBoWE9vZkdjVGtWOTdpMXRHaldGbmNwT3k4aGlNOWxpQXR4SkRVQ2VncDZBNnZuT1hlbkhnamxta1hTS2NIaEJtSVd5WWNqRWljLVRzVFFvdHJlcWF0bXR4RE5hN0JyLVhRam1xWDQzUlRlVUJwcVpkdG42MnFPamEyOV9IUml0Ml8yd1Z4TWVYR1RZY2YyNXBG0gHAAUFVX3lxTE8tRFBUVHpvMHM0cDJ6eGNYOEVDY21RaVJBWGU4THNzTmNSQzA5Z3hoUGFRS2Z5eVVKSWtmQjIyV1Ewc1pLWXQ1eDBLQzNyZ2xaUTQ4anpTS0QwWWpSazdOWnJ5SU9XdG9IZkxHSXVjd2c5Z2xPcXRKSlZLWGNSVUtLNFByZ3J2N245Ym96eWZ2dXBJLUM4eXo0M2sta3M1c3RraU9GVUx5cXNqX0dadFpINklTUWhlT3RraHo4YXltMA?oc=5",
@@ -23,6 +29,18 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3lZc01ZN0RpQlJGSVZYR1kyYk1pN1BTMFAwdkZOdy1VeUsyUFRoWW1Pb3ZrbDZFcm02WEhES2lxWkVIX195bkVIdGlSM2hhbGRQSlQ2ZnAxSmozMWRmZlROR3gwTUZ3SG1abjlOY3ZHRndUX2FsU2dsLVhiSjd2VVdJckdUUVVla2RIOXlKNkgtUjlJNG5YSkdScFN3MWZr?oc=5",
       "source": "Google News — Eagles",
       "published": 1763473860
+    },
+    {
+      "title": "Eagles-Lions Film Review: Repetitive, stale, and joyless offense",
+      "link": "https://www.bleedinggreennation.com/eagles-film-review/164036/eagles-lions-film-review-repetitive-stale-and-joyless-offense",
+      "source": "Bleeding Green Nation",
+      "published": 1763465034
+    },
+    {
+      "title": "Eagles vs. Lions: 12 winners and 1 giant loser",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/164084/eagles-vs-lions-12-winners-and-1-giant-loser",
+      "source": "Bleeding Green Nation",
+      "published": 1763464500
     },
     {
       "title": "Eagles vs. Lions: 12 winners and 1 giant loser - Bleeding Green Nation",
@@ -67,28 +85,10 @@
       "published": 1763411640
     },
     {
-      "title": "Jalen Hurts defends Nick Sirianni’s turnover philosophy",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/164006/jalen-hurts-defends-eagles-nick-siriannis-turnover-philosophy-lions-reaction-offensive-struggles",
-      "source": "Bleeding Green Nation",
-      "published": 1763410494
-    },
-    {
       "title": "Spadaro: Nakobe Dean's return inspires the defense - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjZ3REtpU25BTEoxU2NVNVFqZUVkeVR5NXZoMHMyUmJIRGRFZ2cyX2wyYThMY3Y5Vmdnek5Tajl0emkxS0hVSTFhTV9JeGdFaDI3WXFudzYybXRWSEdub3FHc0NDZWlHNGg5WGExUEtvWVpQSWV5NHhra09UZzNHRXpIYklNUVY4N2cxd2o5Mzl3RXM?oc=5",
       "source": "Google News — Eagles",
       "published": 1763409806
-    },
-    {
-      "title": "Eagles News: “This defense is starting to look championship-caliber”",
-      "link": "https://www.bleedinggreennation.com/news/163988/eagles-news-this-defense-is-starting-to-look-championship-caliber",
-      "source": "Bleeding Green Nation",
-      "published": 1763401228
-    },
-    {
-      "title": "Lane Johnson injury update: Eagles tackle could miss 4 to 6 weeks",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/163989/lane-johnson-injury-news-lisfranc-foot-injured-reserve-eagles-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1763398574
     },
     {
       "title": "Sources: Eagles RT Johnson has Lisfranc injury - ESPN",
@@ -241,12 +241,6 @@
       "published": 1763303460
     },
     {
-      "title": "Week 11 non-Eagles rooting guide - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXU1c2NqYmhzWWpHenFTSGJTYVd5UGp5SURsMHRZMmxaSHhzdzVNc29MQUpmUGR0QzNIUDVRTkh5MEg2TGljWk42eUdWS1NqNm5LaDIyblY1RVd2Mm4xZW1ySEJXSXJvWGxvb1oyUW5PbzlyZGlQRkFOeFpPR21wVExMUzFXZEphRnE1ZGExcHBwSWRrS09JbkljUXI5clJXUVVLVE5UONIBrAFBVV95cUxNVHE3VHhPREs5YlpnclVaaEdJV0ZpU2lFUXpBckItZUE0Z2JoWkZGOHdQRzFfUm14VzZTS0tJTS1mLU9iRXZyTXY4OU5JOW91SmhyYVlEbXhNZXZQVU9vQ3AyM0NmN2xkMloxTG02N01LbU51VDVqUmd2ckQ1UEo0VjFGWGNHN3EtRFZ4MjBxSXJ0eFROdnVZOUNzU3llSWVXRHl3VEwtZmI4ZlQz?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763295981
-    },
-    {
       "title": "5 things to watch: Lions at Eagles - Detroit Lions",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVFuTTNxcEFLOFQ4QlFWc1FRVnlWTi03TExvYjRCaUYxeFhEUXZJZDVIdXktdlNMTy1HLXNnT2t1ZW0tdGNmU2FTenFQdFJFU1FFMFhWUHkxdWdGOWNhdlhGYkdULUxtUmg3OEhhaWRLbDZGQ1phYWo5QnVsVkVqaUg1M3h5QWRDdzJEQlpxNm5Vdw?oc=5",
       "source": "Google News — Eagles",
@@ -275,18 +269,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdXlJb0xBS2tmTHZYc3BxdFZ4eENtNG9sY2VoMUJqV2hBT2lrTkNEYVVLbFphN2xDX1hfNTNCUzN5bzR1VTRibDhGWFdMSTYteU8yRGhybzdXdHVFQlJFSXM1TW1remhVRm1kcW92WVBJQXF5Ty12cjNFQ256WnRUQnR1UTlBNWVQVFpuUXNvZ3NiTWI2M2lzYXhXODFqTkR4amlyN2prZWZkTHRKNzJGaHdVNjV3X3JEbVFJNGh0ME11V2k3WEdzbzMxeXB5UTJIRDBvblFMaS1PN21EbkxhWkZmbV9NdWp0emt6Tmw4c3d3T2xJVkZua3ZTQV9Dc2Fhbkd6dy1GMDcxemVaUmlmM2JIWWM?oc=5",
       "source": "Google News — Eagles",
       "published": 1763208000
-    },
-    {
-      "title": "Roob's Random Observations: What would a healthy offensive line mean for Eagles? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUkVvWTBsVG5UNG9rWktxV2Z4cWhuX3BVUnNRQnlIcTVoWkNXMmdjUFc5QmhZenVJM0JieWhURWhxNXo2Z0d4d20yeXliSnZva05NcmVpWjVyWlhlY2RlUWtzRnQ0WS1lUTNfY29uVVQwU0M4a2NsZmxLejJhOTJlNHNxWjVFSFhCV1d4TUlOYkpfU3owd01Wb2FiQlB1YlhET3QwUTRBRkhZV2NOR0ZpRFpReEJodWVXY0c5Z0doZHVIb1BkeGtFMndaUjVMaGJWRHlRY1VDNVNydy1u0gHkAUFVX3lxTE90blBfOXI4SDFKUDFFdUd2VTh0Y2ZJdWpsaHhwYmpHb3RZV0N1RGJQdkdRUkQtM1hoUHlHSUJ5ZVRvbF96ejhLdXhXTmlJbGplWnlSWXRZQllfX0NWQm1hdFc0aFUwMzNwY2dJZ3NNUGJYNTB5SHFPVUpkWkZKRjZmVTJlRWJYdFRFQjc1X0EwNlRMVUJLdTJLWjU5amRTWTlFQWdDNER4YW0tSFpsUkZSakJnbXZELXhoSTRKcVpLdFZ0OHE1T2ZqYktSNHllTjRxNmZIaDVkNnlwMlVmWFU3RHpCSw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763208000
-    },
-    {
-      "title": "Eagles Battle Early, But Tar Heels Take Control - North Carolina Central University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzB0Z2VwSXpLQk42WnEtbzNDNEQ2elpEakJER3NNRmpLRjBBa0liNGJ3UzN4OTFNVnBOTThRRXBHTkxkYWhlTXhMc214TXVyak5jbzZpVFdGNDJ2d2VZaVdxLWdlcUJVY0dOa1hDaGdRdjZXVHgxZmI1cWg1SndvS1hlSzhfMUpuYzJsNkVpUTFfOS0zLWRpVGNyNnJXUV81SGh4NFFPTmpWaFlzdGtR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763185831
     },
     {
       "title": "Cam Jurgens will play Sunday night, but Lions are down multiple starters | Lions vs. Eagles Injury Report - Philadelphia Eagles",
@@ -409,12 +391,6 @@
       "published": 1762909020
     },
     {
-      "title": "Eagles CB Jaire Alexander stepping away from team to focus on physical, mental health: Source - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUl9LNVZQYjdBeFpqdXo2Yy02QW9MTkRzQ1ItMkhMTk95Q3dkODF3dGlMTGh6LUJ3eS1Nc3V6X0FfUTBIS0ZrVTZDOHVPVmZNd2JiZUlJMC1IRk92YkZ6YnVZdEthVUJkTmFfNzFBX2JSdUMtb2NEcTNRejNVeHBiZ2xKejFHd1hLdU5VN2tKYXlCOE1xZ21BLWVKbHhfOFh4RkZj?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762908192
-    },
-    {
       "title": "Eagles' Jaire Alexander stepping away from football; CB to determine playing future - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGw4cnV4Z2FFRlhOczhCbkhPWEkteE15SnZLc2pVS1RBQ3pwek1zNGlhdUpTSGRKTlVXTDdQeENaUGF0cm54ZExIY1lwZExTYUNSM083dGE1c1lLbzdpM05naGFNUzNsNHdJR2YzVVJNaXgwT09aeFhGeEtJVHZoSGxoenB5QXI2cU5VeEFZdlVWWjE2TE5vR2hyR1NRLXlVcXk4UTJpX2djQQ?oc=5",
       "source": "Google News — Eagles",
@@ -437,6 +413,12 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVl8weWhrQldqUlZiblZMSXQwbVZIdGZQaTB6Uy1kTlhUbXRxcldTaUZwbVdyTUZJSjhVeExrQ29RUUdzSVA5dzZjTDdGMm1sM3dCSEpKV0RjR1phVERYWkt1M0hDd2VFa2Y1anhWdXIwNS1Wd0oybTQzdS00Q0d4T3B2WG9WT2dXRnJxOGVMQldIX21KSVJWWF9sVnFXV1l0VEdrVkhUWTVub0hPamR2MWVncjExV3N0UlYtcHJuRzFBSUNFYkE?oc=5",
       "source": "Google News — Eagles",
       "published": 1762884200
+    },
+    {
+      "title": "Eagles edge to victory over Packers as defenses dominate Monday Night Football - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHRtRWxfR01jb2UtbEtGWDBjSHpLenMtX3NjZVJsSC1pTVBJX2lESlZ2eWlhenhJSW9zbjdJd2RQZzlsMXRLT1NudU1IdHBBc2lfOHZ0MFNNdHB6RHYya2RpcTlRcVN2TlQ5T2IzWW4yTkRlX1VNSFFDWk42enJLXzg0WHJZSU5DMFlMSzRuZl9RZE9USXpQbDQ5QXMwazRkRVBmLS1ZMEQ2VzZvbnNBRzVRQUNDZXNPNmFfSkZIbGJUQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762879020
     },
     {
       "title": "Eagles' Nick Sirianni explains decision to call deep pass to A.J. Brown on late fourth down in win - NFL.com",
@@ -463,6 +445,18 @@
       "published": 1762842600
     },
     {
+      "title": "Eagles Locker Room Interviews: November 10, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUkyaEJLZTc5cnpGUjNLWGdsLVRIZVBpa3VVT1JfMDNFdVh0TS0tbDgzYUdiQmljX3pIQWp0U2FlbVF3dF9IYlZJSWRvMGJORWxDSjU2Y1JqbGdxQWtKY0RlN0FzRVBrSzh3aWRHR3NFdm41bk96S3dya3hTRl9SbHQxLTJROGZSM3RmUDZuZno?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762842383
+    },
+    {
+      "title": "Winners and losers from Eagles' 'Monday Night Football' slog past Packers - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmRfTzJtWTRlN3QyOXo0dHRFem5lbENBV0p2U1RlQXRFem1nZEc1dHZLd2lHT0xEeWk1d1VmTmRRYnVYSW1uRWhVUXMwejA0dHI4X3Z6TzdheVNxU0g4aE85TlVLYkEzRExoekkwQnlIMHdlNXAwWlJOSGZsZ3NvZzB3Z08tMVpNX2todG5FeFlTZ0RJU2MzVjd5MTNzRktl?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762838093
+    },
+    {
       "title": "Packers fall to Eagles, 10-7 - Green Bay Packers – packers.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ydlVDMjB6dTlNUXlHUGdZR3R3Y1BDdUlUTnFEeFM1QzVsTkdGZmtmbVJ1WWZ6MkpPSm91U29tYWhwNGZTYnJHQmd0TkZMWGRDbnhLMFpCdkczLWRyMWFhUnV6SFJmS21IbUw5NTNUMjI3Zw?oc=5",
       "source": "Google News — Eagles",
@@ -473,6 +467,12 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalFWVFl2RzF1am5iN0RKTUdCallIOFJPU0JhczJDYm5JNUYwRE1hMklzZ0NIXzB3WXFMbEJRWUp4ZEdfUXBaazM0X21ENW16RDFYckxMVGJSX3FHOGpfVEpJRVlqT3ZPa1g5Y0hueExwZl9oV3M4RjNPaXhGcUxQeXFMQnFvNlZXRlpYNXNxYW1YQk15SUotRGpmS3A0ZnlodWfSAaIBQVVfeXFMTVRXdHhuc2Y2TEQzc01EX1diOVN1YmtOa1NwSjBfTWNJanoyV00welhqZDhJdGpkNWdIZHpOTWN5SHhfQ2UybGZDWjBqVlRqWG9HNERxWmc0Mm1mcWx6djF5dE1xVHV2TThYd2haRG5MLW9zMXlSRl80bHZDLXR4dUpVZVNDSFc5TlBweTAzYzAtVkRDajRHbUYxcHZKY251RW5n?oc=5",
       "source": "Google News — Eagles",
       "published": 1762836966
+    },
+    {
+      "title": "Game Recap: Eagles 10, Packers 7 | Week 10 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckllUWdUQ2VRTnZSTWdiTDlDZDF0VVdGZnNtOHN3dlBVYW5ya0ZIUmlJNHMxc2RTSV9ZbUxGLVNSUl95YU5ES1Q1Q2dVcGhMc095LTlHdnY4SFIzRGVmV2RGdVItZk1SUVQ0NWFYXzFTN01Tdy0weERPTTlyUUJjUFhwaHJIZmhZczVJdFZCNVMwSWRqVTkxQ1pJNGo0emthNDVqQzVPM0F5d21lcWFUY3FFY2UzWkE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762836075
     },
     {
       "title": "Green Bay Packers fall to Philadelphia Eagles in defensive bout - ESPN",
