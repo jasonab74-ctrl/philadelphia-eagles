@@ -1,13 +1,19 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-20T20:42:42.225774+00:00",
+  "updated_at": "2025-11-20T21:20:53.533297+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
-      "title": "When will Eagles clinch NFL playoff spot and NFC East title? What needs to happen - Delawareonline.com",
+      "title": "4 things the Eagles should do to beat the Cowboys",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164305/4-things-the-eagles-should-do-to-beat-the-cowboys",
+      "source": "Bleeding Green Nation",
+      "published": 1763671960
+    },
+    {
+      "title": "When will Eagles clinch NFL playoff spot and NFC East title? What needs to happen - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRE9MbFJwdEFCaDh2ellHci1SZmhiMlloS192U2VqU2dBeURubm9obE1NSzJFY1Y5WlZGZGVpMDR1cDFVbGJLQnVxZTB2Q09Xa2U0c0RWOWp3Wmo2NzY3aW95R01rUUVNaVFtVnVQSDcza2djc1hQdmJOM3FLWW5sR1FrUlFjZHFNMzJSR3ktS3FxMUZCRzc1T2JVQWdDRjFCWnIyeGdiaVFVSnpvTDhFQ1VjQWphNGpoX3NpdjZVU01feDJjd3k4S1JNNWNiLUhSUXFR?oc=5",
       "source": "Google News — Eagles",
       "published": 1763668940
@@ -73,22 +79,16 @@
       "published": 1763568537
     },
     {
-      "title": "Eagles-Lions Film Review: This defense is physical, disciplined, and incredibly well-coached",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164175/eagles-lions-film-review-this-defense-is-physical-disciplined-and-incredibly-well-coached",
-      "source": "Bleeding Green Nation",
-      "published": 1763565911
-    },
-    {
       "title": "Understanding how the Eagles sniffed out the Lions' fake punt - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3VneUhMZUZhV204Y2xFdG5oaVFOZ2hiaUhYbkdzTlRwTnJNQXdaTERNMHFNclFkS2RuYjRjT2lVYlJaaElHUlpWZGJweUNFS0NreWJEalVDRmpnSkRSZEhEVDE2aDU2YVhMWWpwank0LUoxNmxTQlhtZFR2WlBHeXpHUzc5bXd6emQ4bC03ajZRQWlyUjkwWXp3X0R0MC15ZXQtMnlQcENsR0hGMFg2b29QVVFuUXNpeEkwYjMtTdIBxwFBVV95cUxOeGYyMTlnd0VVd09aaTNQUU82Rmg1cWtIUXlORVpiaWoxbERTQW9qRnNuOUFPTkh0Y2dvaThzMmVrX212a0lKcDYzMkhrTHFQVVJxZkdpbXhtZkRkRlh0ZTVpdW5sZ2dSZDY0RjNyaFM1OV9RUktnM1VYNkU3SG5mUkZUSnBBN0dlX0t6cG9YcEI3ZnlZR1oyQld5allzdGkzLVBwVXBWeHZTcmhRbE1EY1JJNUdGVFFUR3Mtblp5ZlhVUjJqTjVr?oc=5",
       "source": "Google News — Eagles",
       "published": 1763553600
     },
     {
-      "title": "Eagles hosted WR Zach Pascal for a free agent visit - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3laanQwMVZLdzM4eWxFcno2R09iMmNydTVMaHptNmV3QkVZQ25TUGJFUDRzOE5aMkdpanRnVG9oY0w5bDdTYTlRLV9JcC02ZHJJTDZwOUVpTkFoOFhIZzRIV0hkYmpHd0xKZ2gzb0RIeTFaT19IMGpoaUNsLVF0NXIyMV9BSUNkZ0txZHJyLTVFSVZTTEpLQ0ExNTAzdGJCMGJiSTZfMUtMa1RfbjJkUnVKYnZ6SGhOaUVvWDZYSkp3UFRsZDBUb1VyZw?oc=5",
+      "title": "Eagles' kelly green, Texans' battle red uniforms top NFL Week 12 threads - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ja1F6VUdtNWU5MERPczVfMUltX0wtSEZFNE82QUdaWl9tdVR1eHYtN1dkS3FPbl9vc3o0a29PSFN6WGhrU3V3TV94cnJTQTdLSXYwRXowd012eVZ2ZURtTlNfdnN6SnBGQUdWX1dOZmxVbnFIUWI4WHpB?oc=5",
       "source": "Google News — Eagles",
-      "published": 1763503867
+      "published": 1763508300
     },
     {
       "title": "Spadaro: Fred Johnson once again finds himself in a key role - Philadelphia Eagles",
@@ -101,6 +101,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0JKRU41X0NBbDJrSnE1ekVDYV9tR2N6WkF0MnJFcjdwQkRvZWY1eVA3VGtrVExpa0o0cDd3QWdpMmJwSlc3d0JvaDFhNVl1eHo5RFlNRTBXSVBsV3JxbVFhbVFtMl9yNHJaSUM5YUFDNjI0c3R0UXZhdGt6MjNfdDc1RExaYlp2SDBUdWlzRkhvZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1763498282
+    },
+    {
+      "title": "Vic Fangio Press Conference: November 18, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUdOMTBVZUNwZ0U3TVh1V2YzaUEteXVqaTByNU9Vdmt0S1BJaHRjc0RRcGxxY2hXcjJDclNBWldKZnpQeC1BeFBCZDNrWXdnc0FvV2h2S0pvR0UxN2ZQb2pnRUJsOEdjN09RQmlxcnB0OHhmd2U5d3dYY1hiaERsN3dqZ0dlTUx6LXZYQzRn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763488157
     },
     {
       "title": "What we learned in NFL Week 11: Eagles’ defense dominates, Broncos stake claim - The Athletic - The New York Times",
@@ -233,12 +239,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTQ5eXBrcEk3SE5mc25jc1gxNHZsbGZrTUpNZUloMTNXZnBEUXVmZ3ZsLWJCVG02cmJyaGNlOG4zWEN0NGJTTGJpS09MLVNOUXJkVWhDMFJfNno5TW9wVFAzU0F5NGRrNTUyU0JMMHFORnlfS2JwaWQxaHA3QnRWQjNyUFNFZXpyNkJKdURldS00THBSNklCRg?oc=5",
       "source": "Google News — Eagles",
       "published": 1763349489
-    },
-    {
-      "title": "Eagles vs. Lions highlights: Philly wins hard-fought NFL Week 11 game - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZlSTZfUk0wUHJnTlhOdVhmTl9TU3R1LXBYX1FSRkpleERxbW42VGJUYm9GUWlXRlZpbFhORFNVZkpLbjEtQ25xZjU5b1VnX3BONktGNnhlNTREbEMxMlpFdTE4b09oVnVBcGU4aDFyai1vV2dEY2FGY3JTS0s0MXd6WTRlbGpwdWZaMEhobVNkbmhtVWNIWG1VQ0lCWUtLOVRGeDhPOTQ3SWx3QUNF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763349075
     },
     {
       "title": "Lions vs. Eagles Inactives | Week 11 - Philadelphia Eagles",
