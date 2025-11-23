@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-23T20:24:45.189581+00:00",
+  "updated_at": "2025-11-23T20:41:57.410587+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles vs. Cowboys Week 12: First quarter score updates",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/164422/eagles-vs-cowboys-first-quarter-score-updates-game-thread-nfc-east-week-12-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1763929500
+    },
     {
       "title": "Eagles-Cowboys inactives",
       "link": "https://www.bleedinggreennation.com/news/164512/eagles-cowboys-inactives",
@@ -61,12 +67,6 @@
       "published": 1763907431
     },
     {
-      "title": "Eagles injury update: Cam Jurgens will play against Cowboys",
-      "link": "https://www.bleedinggreennation.com/news/164476/eagles-injury-update-cam-jurgens-will-play-against-cowboys",
-      "source": "Bleeding Green Nation",
-      "published": 1763848702
-    },
-    {
       "title": "Roob's Eagles Observations: Eagles won't keep winning if Jalen Hurts isn't elite - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3l3Tjd4SUtVSlB4UFV2N2pjSlo3clBXblZ0YXducnVIZ0pWbmV4STlUcWVXVTBiLWhweFF1bUd4TXBta1EzdWlBZ1BCWVZIZXA4aERtYmVsT2VYNWJ3MDRMN1lXWl9KdVJMbmRwNXJyQnc0WkZPbjBtOXBqTUNJSnduUEhpZEhzOEV3dGE2UTRhTEN1SVFteDNDUk53MkxZbkI0NUxBZ2VFVGVjcXRzMFNXNC1Oak1XYWY0UDdoZGZPTnJvd2FYMlRhZlY4VGJHZUxDZEZpN19sTFJzN1HSAeYBQVVfeXFMTkZORXBtcmszZ2JUQmpPZlB4VmU2TDZGaHFYTUd2VjZETE15NlE3UmNYMWk1TVJXUXc0eEs1ZWJrc255U3cwTnN2ejZlcTJ0elVLc2lEVE9NVTJmUlhCRTRjQ19JZnoxSmtIT3lmZ1VZTGpNTU01UnlGSnM1UXRIamtLcFY0Wkh4TUxVTDJuemlBdjZKWFFDUTdTY0JYbkFhMG5saGRVRWFBaG84bnl3LUtKMHlhWGs0d1ZLWXlBRlI0TGVodzI4N2dfVmhuTE5TTHZNWVQxd21idGx1OWpURENFU2luLWc?oc=5",
       "source": "Google News — Eagles",
@@ -115,6 +115,12 @@
       "published": 1763568537
     },
     {
+      "title": "Understanding how the Eagles sniffed out the Lions' fake punt - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3VneUhMZUZhV204Y2xFdG5oaVFOZ2hiaUhYbkdzTlRwTnJNQXdaTERNMHFNclFkS2RuYjRjT2lVYlJaaElHUlpWZGJweUNFS0NreWJEalVDRmpnSkRSZEhEVDE2aDU2YVhMWWpwank0LUoxNmxTQlhtZFR2WlBHeXpHUzc5bXd6emQ4bC03ajZRQWlyUjkwWXp3X0R0MC15ZXQtMnlQcENsR0hGMFg2b29QVVFuUXNpeEkwYjMtTdIBxwFBVV95cUxOeGYyMTlnd0VVd09aaTNQUU82Rmg1cWtIUXlORVpiaWoxbERTQW9qRnNuOUFPTkh0Y2dvaThzMmVrX212a0lKcDYzMkhrTHFQVVJxZkdpbXhtZkRkRlh0ZTVpdW5sZ2dSZDY0RjNyaFM1OV9RUktnM1VYNkU3SG5mUkZUSnBBN0dlX0t6cG9YcEI3ZnlZR1oyQld5allzdGkzLVBwVXBWeHZTcmhRbE1EY1JJNUdGVFFUR3Mtblp5ZlhVUjJqTjVr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763553600
+    },
+    {
       "title": "Eagles open practice window for 6th-round offensive tackle - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0ZjM29jdkVlUTNlbHVvLXhqTk1sOXE5Ykw1LWxzbmlaUkwyVFVXWWxlVy1odmkzaFhuLUVVamRmel9lN296WUtzX2ZrUVpiUVdxSFBJemdqMVN4UVJMeG1yc1NUSG1QX1lfZGpoZ2dFbmVsV3dBR19vbnZ6aGktY3d2LWJNd0dFcGU0dHBHMjFYOWFmSjZORjVaZGF1UUx2N0ZJZWdZblVQZ3hrNmJDTXlJemJ4Vl9JY0tQOXJvRjVQd0hNd1HSAc4BQVVfeXFMUGtOZnBBQkd4MlF6RzdqWUtWX0dwQzM0UFhRbXNQX3FmUTg2RTF0aFFVU21LVktkQ2lKUXVVc0FYSjQydDh0cDcyZlJYZWY3ZGsxUEVLZTE0TUhadVVyWF9WNDJYVF8tNmlpTkJKY0VhZmwxY2dvbWxmZEtQdEN4NHl6OEluX09NaEZEQkNHT3RRaVpDbk9vTlRvLVBfQWNZdGNLYmxVa0lvUV9ST2htMkxlWjU2V0hmeEVyc0NzeXhwUU53YVl3RHlvMVd3UXc?oc=5",
       "source": "Google News — Eagles",
@@ -127,16 +133,22 @@
       "published": 1763500993
     },
     {
-      "title": "Vic Fangio Press Conference: November 18, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUdOMTBVZUNwZ0U3TVh1V2YzaUEteXVqaTByNU9Vdmt0S1BJaHRjc0RRcGxxY2hXcjJDclNBWldKZnpQeC1BeFBCZDNrWXdnc0FvV2h2S0pvR0UxN2ZQb2pnRUJsOEdjN09RQmlxcnB0OHhmd2U5d3dYY1hiaERsN3dqZ0dlTUx6LXZYQzRn?oc=5",
+      "title": "Super Bowl odds: The Philadelphia Eagles are back on top - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0JKRU41X0NBbDJrSnE1ekVDYV9tR2N6WkF0MnJFcjdwQkRvZWY1eVA3VGtrVExpa0o0cDd3QWdpMmJwSlc3d0JvaDFhNVl1eHo5RFlNRTBXSVBsV3JxbVFhbVFtMl9yNHJaSUM5YUFDNjI0c3R0UXZhdGt6MjNfdDc1RExaYlp2SDBUdWlzRkhvZw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1763488157
+      "published": 1763498550
     },
     {
       "title": "Eagles-Lions Film Review: Repetitive, stale, and joyless offense - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUm5udHRhYk9uTW40amJRMl96MUhrRlFNVUZyZDZtd1FJcThCT2FkSHVPTm15ZHRwbDJ0UzhRZWtUbE5mbWFWODAtNXhCb3RpWEpLSExidmhJYzZBOWw1cEZRQUp5aDc4N2stYjFBUmxUTVBhMlpVQkJ5NU5XcnRraU5CUF9xNjExZXE2Q2lacENHQ2F4ZVJrNmJ5eklubVAzNGVnVlZyMXlrVTZMRW9UVmZ5aTdmM2JSU1NjRi1tdVQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1763465034
+    },
+    {
+      "title": "Dubious call seals Eagles' win over Lions and shakes up the NFC playoff race - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUhEeHE4cXVwN2FqaXgyeTJmTDlscEh5QmVSMmkwV2xHSzhvVkNJV18tT0ROdkstdGdHMDd0UUpLQ0Z3QmtrWDdZWnN3RzVNTUNFWC1LN05xMGk0NGl0XzE3V3ZxbERFdjREb1p6OGZVQTlNSWJkUnlvdkdxcU91bVQ0TVNfVF9NaENTbDFZSXcwdHl6NzY5NFFUUmFDMEXSAaQBQVVfeXFMTnppVF96QTlkU2M2LWVvWndFeksySEVFZjJEaEhRbW5veVpBU2VKQ29OU3I3alpGTkl4NkdiZDJ4cWlzZmtnVy1LYTdnQkowZ2g4NEFzYjMwMFlFQjVCZ21QdEdqamNUMnZZcWE3TDZ2QkNGamsxTkMyalkzdVcwcGtxYXJBdW8wM1I2VFpzVXFUb3hOMTZ1SDNzcnpGWldkYXNfWDA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763463150
     },
     {
       "title": "What we learned in NFL Week 11: Eagles’ defense dominates, Broncos stake claim - The Athletic - The New York Times",
@@ -417,12 +429,6 @@
     {
       "title": "Green Bay Packers fall to Philadelphia Eagles in defensive bout - ESPN",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVRvMl9YX0hjTjMzbE9hcno2NWlmT3Q5Q2N2OVJrcEI5cURxUFBvOGxhZDAxN0xLLW9vcWxaRjgwbWlhR1dPOEpNZTcwYXI1X3JJdncxeEttWjdKT0Jna2JIUVNndEk2S1NpdXFVdEJVanlYQTA5cTFCeF9ET0luMnB6YlAwWnRNdVhTdTNrejNybkR2UlVGdjFHbFFjZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762761600
-    },
-    {
-      "title": "Highlight: DeVonta Smith hauls in 36-yard TD from Jalen Hurts - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWRJR0hEMXhfUU9QUmNQeTQ2djUtMWJnZ1FGc0JyTEYySkJWM3kxSGtkVGwycXFON0tWQUNJVFEwOTNxYjVhNnltOUdCemxjc1RKWG0wQnAxclo3N1RJM3NaMFNPWnhpMlFrc1l1enZNb3o5dnFTc3BHcEFQRVZEU25odENldGZWcXBEVW9HN2Zwbko1cmQyMzNKSUZsX3p0dHk0?oc=5",
       "source": "Google News — Eagles",
       "published": 1762761600
     }
