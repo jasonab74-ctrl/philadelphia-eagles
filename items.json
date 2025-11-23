@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-23T18:30:12.287422+00:00",
+  "updated_at": "2025-11-23T18:49:58.131579+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "NFL Week 12 Early Games",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/164385/nfl-week-12-early-game-information-channel-thread",
+      "source": "Bleeding Green Nation",
+      "published": 1763921293
+    },
     {
       "title": "Eagles-Cowboys Week 12 game preview and predictions",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164502/eagles-cowboys-week-12-game-preview-and-predictions",
@@ -55,12 +61,6 @@
       "published": 1763845337
     },
     {
-      "title": "Comparing Jalen Hurts and Dak Prescott",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164438/comparing-jalen-hurts-and-dak-prescott",
-      "source": "Bleeding Green Nation",
-      "published": 1763843166
-    },
-    {
       "title": "The Real 'Negativity' Surrounding The Eagles Isn't What You Think - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY20xeHBMVGs4MHJlSndzR0N3UEJuNGdhd3NrOEhXRDRPR1BDZTc2REwyeF8wc2kzbEcwU1RwTENVQWlMaVZ0aTlHc014TnRBM3NXSmlDYWk3Z2J5TzF2WkRaYkRiV3l5anBqaTk3MGFkdEMtNTlkVlA0cE1Kb1pYeUN3eUl2a2tSd0ZjVVdlOWNCS2UtU0xBUmNCYmNpZWN1cm80OE9RLXJBVFJqUUZvbWp5al93SUU?oc=5",
       "source": "Google News — Eagles",
@@ -103,10 +103,22 @@
       "published": 1763668860
     },
     {
+      "title": "Moro Ojomo is going to force the Eagles into making a tough decision - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT3RZVVl0UU5XNldIWE5ycXJheUVwajF4X0h3QVJiZVZQcndBOTZPQzdldkFkMGNYenEwcGlYV3VQZThHc1UtaW1TdjROZGlsdUdSTFlxY2Z4TDJBV3pRQ01rdXpMa3pKWXMyanBpcXFIVEgteFhHYmNJRFBHcW9acGRwcHdyZ2ZDb2JuRmk5MzlaMnJ2Rlp3UE9NWm45ZTdsY2Jwa1R4X2ZUT1RwZ2UxWFprSWFHbk54YmxFOUZoOVVydDlQeVR0VW5aM1pBWTBFVS1iNDFTeTZkeHJhVjh5OFln?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763668156
+    },
+    {
       "title": "Hurts unfazed by reports Eagles frustrated with QB - ESPN",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0htbmh1cERfLUZxODM2MnZrYXc5clZXQ1ZIN3p4c0UtNDZOajdpUk1EcEVfQ1V1N0tyU0Q5UFJ6cy1KTFVSaWFVdDhHS1VCdVpFTjJJd29wSU4tdGpoZHpzUmtSSV85aFlaZURtNTZXVENlVS1JZzF2eWJIak9nd0EwN2lsQ2ZUZjR3OFM3Tkt6Y3d6?oc=5",
       "source": "Google News — Eagles",
       "published": 1763600400
+    },
+    {
+      "title": "Howie Roseman and Jalen Hurts deliver inspiring message to Youth Mentoring Partnership students - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbnZJcnE5dk1WRWxqSzVfU1JVdFlQZ2dTemV2OEFTMmlSZ0pOTkJxOFowTnBCSDI1bHM0WHo4bERCUGViblRyeWhPbm90enhhZ09TdmMtMDc3V2RzUTlTUHVMQ0o3Z0w1QzhuSmRyRUNOMXRCRGZYUkxqYVJ6Skg3NkdSR1V5cnZaYW9wRHdmQ1dnV1l5bHhMczVULU9PNzBCdTA4N29tOGRhMF9hUzFXbXdQaV9QVXFLYThEZXB3UFAtMUxNNE1fUVRScVJRM29VOEhEVE5tRWxoeTExUXV2ZXpxdndOQi1sZEV6OUt6VTMtdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763580846
     },
     {
       "title": "Eagles injury update: Cam Jurgens misses practice to start Dallas week - NBC Sports Philadelphia",
@@ -337,16 +349,16 @@
       "published": 1763208245
     },
     {
-      "title": "Discussion: Which Eagles player is the biggest threat to a Lions victory? - Pride Of Detroit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdXlJb0xBS2tmTHZYc3BxdFZ4eENtNG9sY2VoMUJqV2hBT2lrTkNEYVVLbFphN2xDX1hfNTNCUzN5bzR1VTRibDhGWFdMSTYteU8yRGhybzdXdHVFQlJFSXM1TW1remhVRm1kcW92WVBJQXF5Ty12cjNFQ256WnRUQnR1UTlBNWVQVFpuUXNvZ3NiTWI2M2lzYXhXODFqTkR4amlyN2prZWZkTHRKNzJGaHdVNjV3X3JEbVFJNGh0ME11V2k3WEdzbzMxeXB5UTJIRDBvblFMaS1PN21EbkxhWkZmbV9NdWp0emt6Tmw4c3d3T2xJVkZua3ZTQV9Dc2Fhbkd6dy1GMDcxemVaUmlmM2JIWWM?oc=5",
+      "title": "Lions downgrade four players to out | Lions vs. Eagles Daily Updates - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXhFTmRzQ0JnbTJ2blVkajV2SGFDVnhpdU8wcUw2MDI3YlNpYTBvaHdYQ1kxSlowSklTNENWTll1MDkycjNnWThjRWhkSHdLeTU3NmExaS10UWNhQWM0Yk1QMjM5MWlzc1pJN0VsaWxTOGcwWWpndG9Ucjh3ay1wZTJuQ2pHOFZKbE5aclMyTVZMOEhBaWtHdVpNUGhCWk5TTUJic2NST09iekYzZ1phaEpB?oc=5",
       "source": "Google News — Eagles",
       "published": 1763193600
     },
     {
-      "title": "Lions downgrade four players to out | Lions vs. Eagles Daily Updates - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXhFTmRzQ0JnbTJ2blVkajV2SGFDVnhpdU8wcUw2MDI3YlNpYTBvaHdYQ1kxSlowSklTNENWTll1MDkycjNnWThjRWhkSHdLeTU3NmExaS10UWNhQWM0Yk1QMjM5MWlzc1pJN0VsaWxTOGcwWWpndG9Ucjh3ay1wZTJuQ2pHOFZKbE5aclMyTVZMOEhBaWtHdVpNUGhCWk5TTUJic2NST09iekYzZ1phaEpB?oc=5",
+      "title": "Discussion: Which Eagles player is the biggest threat to a Lions victory? - Pride Of Detroit",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdXlJb0xBS2tmTHZYc3BxdFZ4eENtNG9sY2VoMUJqV2hBT2lrTkNEYVVLbFphN2xDX1hfNTNCUzN5bzR1VTRibDhGWFdMSTYteU8yRGhybzdXdHVFQlJFSXM1TW1remhVRm1kcW92WVBJQXF5Ty12cjNFQ256WnRUQnR1UTlBNWVQVFpuUXNvZ3NiTWI2M2lzYXhXODFqTkR4amlyN2prZWZkTHRKNzJGaHdVNjV3X3JEbVFJNGh0ME11V2k3WEdzbzMxeXB5UTJIRDBvblFMaS1PN21EbkxhWkZmbV9NdWp0emt6Tmw4c3d3T2xJVkZua3ZTQV9Dc2Fhbkd6dy1GMDcxemVaUmlmM2JIWWM?oc=5",
       "source": "Google News — Eagles",
-      "published": 1763138475
+      "published": 1763193600
     },
     {
       "title": "Cam Jurgens will play Sunday night, but Lions are down multiple starters | Lions vs. Eagles Injury Report - Philadelphia Eagles",
@@ -429,12 +441,6 @@
     {
       "title": "Green Bay Packers fall to Philadelphia Eagles in defensive bout - ESPN",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVRvMl9YX0hjTjMzbE9hcno2NWlmT3Q5Q2N2OVJrcEI5cURxUFBvOGxhZDAxN0xLLW9vcWxaRjgwbWlhR1dPOEpNZTcwYXI1X3JJdncxeEttWjdKT0Jna2JIUVNndEk2S1NpdXFVdEJVanlYQTA5cTFCeF9ET0luMnB6YlAwWnRNdVhTdTNrejNybkR2UlVGdjFHbFFjZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762761600
-    },
-    {
-      "title": "Highlight: DeVonta Smith hauls in 36-yard TD from Jalen Hurts - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWRJR0hEMXhfUU9QUmNQeTQ2djUtMWJnZ1FGc0JyTEYySkJWM3kxSGtkVGwycXFON0tWQUNJVFEwOTNxYjVhNnltOUdCemxjc1RKWG0wQnAxclo3N1RJM3NaMFNPWnhpMlFrc1l1enZNb3o5dnFTc3BHcEFQRVZEU25odENldGZWcXBEVW9HN2Zwbko1cmQyMzNKSUZsX3p0dHk0?oc=5",
       "source": "Google News — Eagles",
       "published": 1762761600
     }
