@@ -1,22 +1,28 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-11-24T04:09:22.670132+00:00",
+  "updated_at": "2025-11-24T04:53:43.605673+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "NFC Playoff Picture: Eagles surrender control of path to No. 1 seed",
+      "link": "https://www.bleedinggreennation.com/news/164619/nfc-playoff-picture-eagles-surrender-control-of-path-to-no-1-seed",
+      "source": "Bleeding Green Nation",
+      "published": 1763958625
+    },
+    {
+      "title": "Chip Kelly fired: Former Eagles head coach won’t return to Philly in Week 15 after all",
+      "link": "https://www.bleedinggreennation.com/news/164615/chip-kelly-fired-former-eagles-head-coach-wont-return-to-philly-in-week-15-after-all",
+      "source": "Bleeding Green Nation",
+      "published": 1763957453
+    },
+    {
       "title": "Nick Sirianni Press Conference: November 23, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3lUb2wwcDVVd1RmWFdISjVwTldKU0ZGZDFGcmJGZ3V5QjRrV2E0S01qZ3l6Z2sxS1dtcXRRVXFkb3pjelVEQUxaY3JVS0V0OE84TnBySldDQ2VfRDlrMzZGNW05Yms5RTZ5ejlhbmF0VmFDWnR4ckxFRU5odHk0T3cwQkk3N3A3dVhFcFA5eFkzdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1763951897
-    },
-    {
-      "title": "Eagles Locker Room Interviews: November 23, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYUpneGQ5WWMyaG1aTDNhRVA3Smp4NWNKSV9jdk5FM05PUUktR0x4SFRIS0FnNzBsZWNLcENjNzdSdVczaXM1N3NyN25SeDE1dTF6TkxGbVpqdk8xanN0NFN1bXRJNHRBVUVrT1ZiSnlBM2pNRGEzSlRTSFNKb2VrNWxVS1Y4TXEyOTg4RjR1TlA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763951685
     },
     {
       "title": "Jalen Hurts Press Conference: November 23, 2025 - Philadelphia Eagles",
@@ -29,6 +35,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemM0NGJ5WWxhalJEZXVNMktELW1XVFVzQk9tWEowcU0wbldSajNXNXdUZTFVRzFfTlpmbzUyUUZCSUh4VWhwRzJsUGpGQzZ0RXhjbk1tSThpWUtqMHdzMkJrMi1SamFKNE11VlJweHhha0QySWlPZXQzRUlXbXBLZ2sya0RMWm1OdGtCUU16Zw?oc=5",
       "source": "Google News — Eagles",
       "published": 1763951309
+    },
+    {
+      "title": "Eagles blown lead among largest in team history. Jalen Hurts, fans fume - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRGowR29wdWpfcUlzZjBUV1k3ZjFSbEhYSnN5Vm1MU3FJWGZtODZtMUtsbDNVZXFmN0NKZnNXbjdzMGpDY0Rvc01ySGNHZ0pNMW01MWxlLVF0dVQyMGJNbS1XanMxcHdwb0lpcVptQWFscWdyVDhoZG5kRWpYVURUS3pObXhWVndZSW5QTnlRTG9fQ1F5a0JMZURkeFlmckg0YmdjZDRMaVVfbDdBajVzcG9ERXlfdk9WSldxREM0RUZPSjE5a2xZVXozeGxER01zZHc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763947134
     },
     {
       "title": "Eagles-Cowboys final score: Nick Sirianni’s conservative approach dooms Philly in loss to Dallas",
@@ -79,22 +91,10 @@
       "published": 1763921293
     },
     {
-      "title": "Eagles-Cowboys Week 12 game preview and predictions",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164502/eagles-cowboys-week-12-game-preview-and-predictions",
-      "source": "Bleeding Green Nation",
-      "published": 1763917583
-    },
-    {
-      "title": "Eagles' kelly green, Texans' battle red uniforms top NFL Week 12 threads - espn.com",
+      "title": "Eagles' kelly green, Texans' battle red uniforms top NFL Week 12 threads - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ja1F6VUdtNWU5MERPczVfMUltX0wtSEZFNE82QUdaWl9tdVR1eHYtN1dkS3FPbl9vc3o0a29PSFN6WGhrU3V3TV94cnJTQTdLSXYwRXowd012eVZ2ZURtTlNfdnN6SnBGQUdWX1dOZmxVbnFIUWI4WHpB?oc=5",
       "source": "Google News — Eagles",
       "published": 1763916180
-    },
-    {
-      "title": "Eagles rookie storylines ahead of the Cowboys game in Dallas",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/164498/eagles-rookie-storylines-ahead-of-the-cowboys-game-in-dallas",
-      "source": "Bleeding Green Nation",
-      "published": 1763914914
     },
     {
       "title": "Roob's Eagles Observations: Eagles won't keep winning if Jalen Hurts isn't elite - NBC Sports Philadelphia",
@@ -115,13 +115,19 @@
       "published": 1763727000
     },
     {
-      "title": "How much longer will the Philadelphia Eagles' O-line have to miss Lane Johnson's dominance? - espn.com",
+      "title": "How much longer will the Philadelphia Eagles' O-line have to miss Lane Johnson's dominance? - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXp6enNSQTlpdS1YOUM0NFZEMUZySFlNM1RKaXM3LVpYS2kwQURMSl9CcUZiMzlhYmtodU1pUEJWQUZEby1OTElaU003MHhDdXIzUG95V0ZzejdlVXdaUERBSTk1RDVXZXBxa1hXYjNhdzI3QlJSTmJld2V4elFGbkFUU0dDcmRWRy0tTURVVVFndmdhRTFkcXhn?oc=5",
       "source": "Google News — Eagles",
       "published": 1763722800
     },
     {
-      "title": "Hurts unfazed by reports Eagles frustrated with QB - espn.com",
+      "title": "Eagles Locker Room Interviews: November 20, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2JiT3B5djBkS3ljTmNMeFQwRTBvQi1jYmg2ZWRiQnNqTk5HLW1Jek9SeXlMUzVBY1ZZdkZQZlN1bnl4T21BRzNUWE1rYndpUzY5RjFfWFR3UFdYcUxWd0Joc0xaTjByYVNHcGlVM1drUDRtUnV2R01vN2hNQ2tpMmtCRlRKdkktdjVHR0FSVU8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763679269
+    },
+    {
+      "title": "Hurts unfazed by reports Eagles frustrated with QB - ESPN",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0htbmh1cERfLUZxODM2MnZrYXc5clZXQ1ZIN3p4c0UtNDZOajdpUk1EcEVfQ1V1N0tyU0Q5UFJ6cy1KTFVSaWFVdDhHS1VCdVpFTjJJd29wSU4tdGpoZHpzUmtSSV85aFlaZURtNTZXVENlVS1JZzF2eWJIak9nd0EwN2lsQ2ZUZjR3OFM3Tkt6Y3d6?oc=5",
       "source": "Google News — Eagles",
       "published": 1763600400
@@ -139,6 +145,12 @@
       "published": 1763568537
     },
     {
+      "title": "Understanding how the Eagles sniffed out the Lions' fake punt - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3VneUhMZUZhV204Y2xFdG5oaVFOZ2hiaUhYbkdzTlRwTnJNQXdaTERNMHFNclFkS2RuYjRjT2lVYlJaaElHUlpWZGJweUNFS0NreWJEalVDRmpnSkRSZEhEVDE2aDU2YVhMWWpwank0LUoxNmxTQlhtZFR2WlBHeXpHUzc5bXd6emQ4bC03ajZRQWlyUjkwWXp3X0R0MC15ZXQtMnlQcENsR0hGMFg2b29QVVFuUXNpeEkwYjMtTdIBxwFBVV95cUxOeGYyMTlnd0VVd09aaTNQUU82Rmg1cWtIUXlORVpiaWoxbERTQW9qRnNuOUFPTkh0Y2dvaThzMmVrX212a0lKcDYzMkhrTHFQVVJxZkdpbXhtZkRkRlh0ZTVpdW5sZ2dSZDY0RjNyaFM1OV9RUktnM1VYNkU3SG5mUkZUSnBBN0dlX0t6cG9YcEI3ZnlZR1oyQld5allzdGkzLVBwVXBWeHZTcmhRbE1EY1JJNUdGVFFUR3Mtblp5ZlhVUjJqTjVr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763553600
+    },
+    {
       "title": "Eagles open practice window for 6th-round offensive tackle - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0ZjM29jdkVlUTNlbHVvLXhqTk1sOXE5Ykw1LWxzbmlaUkwyVFVXWWxlVy1odmkzaFhuLUVVamRmel9lN296WUtzX2ZrUVpiUVdxSFBJemdqMVN4UVJMeG1yc1NUSG1QX1lfZGpoZ2dFbmVsV3dBR19vbnZ6aGktY3d2LWJNd0dFcGU0dHBHMjFYOWFmSjZORjVaZGF1UUx2N0ZJZWdZblVQZ3hrNmJDTXlJemJ4Vl9JY0tQOXJvRjVQd0hNd1HSAc4BQVVfeXFMUGtOZnBBQkd4MlF6RzdqWUtWX0dwQzM0UFhRbXNQX3FmUTg2RTF0aFFVU21LVktkQ2lKUXVVc0FYSjQydDh0cDcyZlJYZWY3ZGsxUEVLZTE0TUhadVVyWF9WNDJYVF8tNmlpTkJKY0VhZmwxY2dvbWxmZEtQdEN4NHl6OEluX09NaEZEQkNHT3RRaVpDbk9vTlRvLVBfQWNZdGNLYmxVa0lvUV9ST2htMkxlWjU2V0hmeEVyc0NzeXhwUU53YVl3RHlvMVd3UXc?oc=5",
       "source": "Google News — Eagles",
@@ -149,6 +161,12 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFNIRTMyeTAyNkJScWFiUnhZVVpsNnotY1FBNXlteEFNZkg1YjcwTGN1Uy1EbTJKSkFhSFBxMVd6aUFpZDlRZEw5NEhZYXVESll2ZGZEbFhWbGI1U1o3WmV5SE9JcE9XOWxHbXFHcjh2eHRhSFNXNXBzeXd2ZGVEbFlTcUsxdmxxREhQSkJzY2laRjdwTXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1763500993
+    },
+    {
+      "title": "In Roob's Eagles Stats, some mind-boggling defensive numbers and tons more - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0w1Nks3Z0VhOFcwTTFiNV96c1o5OE1iQ3RWdzk3YXBoWE9vZkdjVGtWOTdpMXRHaldGbmNwT3k4aGlNOWxpQXR4SkRVQ2VncDZBNnZuT1hlbkhnamxta1hTS2NIaEJtSVd5WWNqRWljLVRzVFFvdHJlcWF0bXR4RE5hN0JyLVhRam1xWDQzUlRlVUJwcVpkdG42MnFPamEyOV9IUml0Ml8yd1Z4TWVYR1RZY2YyNXBG0gHAAUFVX3lxTE8tRFBUVHpvMHM0cDJ6eGNYOEVDY21RaVJBWGU4THNzTmNSQzA5Z3hoUGFRS2Z5eVVKSWtmQjIyV1Ewc1pLWXQ1eDBLQzNyZ2xaUTQ4anpTS0QwWWpSazdOWnJ5SU9XdG9IZkxHSXVjd2c5Z2xPcXRKSlZLWGNSVUtLNFByZ3J2N245Ym96eWZ2dXBJLUM4eXo0M2sta3M1c3RraU9GVUx5cXNqX0dadFpINklTUWhlT3RraHo4YXltMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763478209
     },
     {
       "title": "Eagles-Lions Film Review: Repetitive, stale, and joyless offense - Bleeding Green Nation",
@@ -169,7 +187,7 @@
       "published": 1763409806
     },
     {
-      "title": "Sources: Eagles RT Johnson has Lisfranc injury - espn.com",
+      "title": "Sources: Eagles RT Johnson has Lisfranc injury - ESPN",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObEFkS2ozZjJBenVhSlI1cE9JQkZJU2dGb2l0c3FKaW05SkllWUpydGJKeWlKTm5mbTF0emQ5Nlh3ZEVEdllyVGVVMUdpU05RNjNXVHAxVmpYa19XanhNZUdob0p2ajk2MUQ2VGNsM3ltX2w0akxhcEc0Skdmbkp6VlpiZUt3Z290a2dGbkFIdmZHSTdITkhIS3dMU0plY19v?oc=5",
       "source": "Google News — Eagles",
       "published": 1763398140
@@ -205,7 +223,7 @@
       "published": 1763368230
     },
     {
-      "title": "Eagles D shuts down Goff, Lions in statement win - espn.com",
+      "title": "Eagles D shuts down Goff, Lions in statement win - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUVTQ3NHczBBN3d0M0k3TGt2OXU0ZFNJZnlnVjNDWU5GUVdrTmJWSmRRY1pQYkU2VS1HbnFPMmxYOGN5dG9ReEt0d3k1OWNnMm5MM3ZiaXhMbEpxUmFLcVJPSkVlcE83N1pqcEwxMXVvSURXVV85OUFqcDBzbkd2akUwclBjbjhGV0JvbnV3UUtxUlFKY1Y0bmRLOGxkbm5mcTRr?oc=5",
       "source": "Google News — Eagles",
       "published": 1763365080
@@ -223,7 +241,7 @@
       "published": 1763362146
     },
     {
-      "title": "Eagles 16-9 Lions (Nov 16, 2025) Game Recap - espn.com",
+      "title": "Eagles 16-9 Lions (Nov 16, 2025) Game Recap - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zOXk2Wm1WaEpIMXUtOXZzdXRqVkhRUHRBV01KWjJvVzNEMnBqSEFBejBMS3Jub2RhRGVPTV9YV3VhSnk1dDAwRmI5M3FydUliNHRlbHRpTlhOc2s?oc=5",
       "source": "Google News — Eagles",
       "published": 1763361900
@@ -247,10 +265,22 @@
       "published": 1763349489
     },
     {
+      "title": "Eagles vs. Lions highlights: Philly wins hard-fought NFL Week 11 game - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZlSTZfUk0wUHJnTlhOdVhmTl9TU3R1LXBYX1FSRkpleERxbW42VGJUYm9GUWlXRlZpbFhORFNVZkpLbjEtQ25xZjU5b1VnX3BONktGNnhlNTREbEMxMlpFdTE4b09oVnVBcGU4aDFyai1vV2dEY2FGY3JTS0s0MXd6WTRlbGpwdWZaMEhobVNkbmhtVWNIWG1VQ0lCWUtLOVRGeDhPOTQ3SWx3QUNF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763349075
+    },
+    {
       "title": "Highlight: Jalyx Hunt, Moro Ojomo snuff the fake punt - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXVxTVBkU2RyclNqRndSRmRseFNWZ0Z4eERVeFU3MHZsUmxWd1FWMXZFYkhzQWM1dGJNTWo1RFo0V3daUlg3N2REdHM5cVI2YklldVVBQ2U2U2VFY2xSMmN4MzBlc3h4MHRTWHlEUWktdWxhSUgwUmxCb0M1bjN5TTNuMTlnNEZxbEdTcWRFMmk4Uk9wZ2JV?oc=5",
       "source": "Google News — Eagles",
       "published": 1763346846
+    },
+    {
+      "title": "Eagles 16-9 Lions (Nov 16, 2025) Box Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQkNraWJQMmx3X1N3T2NyWkNsQzNaSklRRklzWnA5OWRlUTg1T3doRi1EZmZRbFdsT2llcXZKS1huMWxQZzV3cXJtTVg1TUVWUnowbUxieTU2S2tXX25PX3lB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763342296
     },
     {
       "title": "Lions vs. Eagles Inactives | Week 11 - Philadelphia Eagles",
@@ -271,7 +301,7 @@
       "published": 1763331844
     },
     {
-      "title": "Eagles owner met Brown amid WR's discontent - espn.com",
+      "title": "Eagles owner met Brown amid WR's discontent - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDFpaDVYck84MGlRVjZMQ2J5MDJoQlJzUHpuWVVScEJIMUZ2UW9hMEdvZHBTdUxiQUwySkZ2eDNlSEk4UEVickNjUW5NN1FNTENSZlRqWDJITmRXT3VoeVR6Vlg0bWtHLWlpdDJxWG4wQzVDMVBIV1N0dVNNWDB4NUc0Y2dhNVd1S1JjNkFnSlVIemQ1bkhXNU5EX1BtY1U?oc=5",
       "source": "Google News — Eagles",
       "published": 1763303460
@@ -307,20 +337,8 @@
       "published": 1763193600
     },
     {
-      "title": "Discussion: Which Eagles player is the biggest threat to a Lions victory? - Pride Of Detroit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdXlJb0xBS2tmTHZYc3BxdFZ4eENtNG9sY2VoMUJqV2hBT2lrTkNEYVVLbFphN2xDX1hfNTNCUzN5bzR1VTRibDhGWFdMSTYteU8yRGhybzdXdHVFQlJFSXM1TW1remhVRm1kcW92WVBJQXF5Ty12cjNFQ256WnRUQnR1UTlBNWVQVFpuUXNvZ3NiTWI2M2lzYXhXODFqTkR4amlyN2prZWZkTHRKNzJGaHdVNjV3X3JEbVFJNGh0ME11V2k3WEdzbzMxeXB5UTJIRDBvblFMaS1PN21EbkxhWkZmbV9NdWp0emt6Tmw4c3d3T2xJVkZua3ZTQV9Dc2Fhbkd6dy1GMDcxemVaUmlmM2JIWWM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763193600
-    },
-    {
       "title": "Cam Jurgens will play Sunday night, but Lions are down multiple starters | Lions vs. Eagles Injury Report - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMV8xMW9DcERQMlgtM1JCcHd1aW9sWXlKeVhGcVV4TG9rWkNUbXd1dmN2bmw3MlFGR1AwZ3hFdUk5T3FFOTFMYlZOR0lYY3hjZzBKdGUySjBqRmE5ekI2YUpoY0plaGxSVnJUVmI2cFROdUVwd04yZ0RGWjlobjloVUJNdlBJbWJPc2N5emlaM0ZwaDBRbGxLMjQxLWpEMkVPYkNkTDRSQ2FJNm93?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1763107200
-    },
-    {
-      "title": "Eagles to bring 'fire' to fight Lions' physicality - espn.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0x4X1pJQUJKZHhPYzdWUEVXR2l0VTRDRGVKRE00UUVmYnA1di1kRmdLY0IwYk1MeXJxQVFQeWRxZ2wwV3laMWFiVm52ZkdqeW1kc1d0djNXM2RkcHdMUTVNNEJtMTJRWTVoQUFHMDMtYkhSaEJfU2FyaFdUU3FtSEs0LUI1Wkt3N2oyRlA0VXFsM0tsS0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1763107200
     },
@@ -331,13 +349,19 @@
       "published": 1763107200
     },
     {
+      "title": "Eagles to bring 'fire' to fight Lions' physicality - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0x4X1pJQUJKZHhPYzdWUEVXR2l0VTRDRGVKRE00UUVmYnA1di1kRmdLY0IwYk1MeXJxQVFQeWRxZ2wwV3laMWFiVm52ZkdqeW1kc1d0djNXM2RkcHdMUTVNNEJtMTJRWTVoQUFHMDMtYkhSaEJfU2FyaFdUU3FtSEs0LUI1Wkt3N2oyRlA0VXFsM0tsS0E?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1763107200
+    },
+    {
       "title": "The Eagles should bring back their all-Midnight Green uniforms - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUkxzZUJuZE9NcjVwa2ZtUEtyZ3BYQU92a0V2T2RZM2dWUUdpVENqOVA3NUpZZjM1OW5JUW5ua2h6OWRuSzl1bWJ4SkVVcDFzU1lXQ2kwWkh3NzB2Njd5OFFISDAyQnBTT1dpLWo4RTR0dzZkWUVKeUttSTREQUItUWd3VXE0Tms1LTVuNXdMNGs3QVM5Mm1MN3gyaTRucC1MWl9OLXBma3c0SXozYlpnTXV6YjhtTkZCVEY0bzFRV04wajdfUFg4d0V2MksxUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1763020800
     },
     {
-      "title": "Lions-Eagles preview: A battle for NFC supremacy - espn.com",
+      "title": "Lions-Eagles preview: A battle for NFC supremacy - ESPN",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkh3Y2F2UHZLUjMwZU5QQ1Y2b0VjU3Q0b2lldUQ3ZjlLZzdoVy1DRFkzLURKcU80VmYtR3R3cHRiWkl4WUZ4Z2pjaHFLQVJ4eVlyUV9OdXFOdUpZRkhvbVA4Z250ZGduenRpRUlaX1pjTDUwYkRfMmlEeE9BY1dmNllwQVdtX2Y0RF91QmlMeXQ5by1MaGc5Q0RqUmY0bnpKYzV0ajI2cGlKY2NT?oc=5",
       "source": "Google News — Eagles",
       "published": 1763020800
@@ -349,13 +373,19 @@
       "published": 1762934400
     },
     {
+      "title": "Eagles' A.J. Brown 'not apologizing' for criticizing his role online: 'Same things I've been saying all season' - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGs4cC1CRUVucldjbHdpNGZFRzJ0dE8xYU15Y0Y2OUpoTkk3WnR3S0RTRFN5bFhXUzhCR1lQT0NhZVVpUEZGVW5BcFdzZHBsbjZSQ3BFNUk4R2dHZ2Vpdk41SGl5eWZ4VmN4RVI1WmZsdnFsdzFDdnpISVY5WnRSbnJnYTI0a0NaR241V2Joa2FpZC12T2J0dkNnTjVxcWVnNlI2MHA0VERlMlZ6?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1762934400
+    },
+    {
       "title": "Eagles' Jaire Alexander stepping away from football; CB to determine playing future - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGw4cnV4Z2FFRlhOczhCbkhPWEkteE15SnZLc2pVS1RBQ3pwek1zNGlhdUpTSGRKTlVXTDdQeENaUGF0cm54ZExIY1lwZExTYUNSM083dGE1c1lLbzdpM05naGFNUzNsNHdJR2YzVVJNaXgwT09aeFhGeEtJVHZoSGxoenB5QXI2cU5VeEFZdlVWWjE2TE5vR2hyR1NRLXlVcXk4UTJpX2djQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762848000
     },
     {
-      "title": "Eagles CB Alexander stepping away from football - espn.com",
+      "title": "Eagles CB Alexander stepping away from football - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc201UmxsNEI2NlFYNFNNbko3ZkZ0V2huVlpJelhPZ291dUNSV1JhMHk4Z1B1bkNxR2FEbUVqTDFEOTRoY2Jaci1yVTFRd2Z1MXdtQUwxOUIxREdMOHpkQ1FxQTIyclpVb3ZnVWZETERSVFc1UEUwVzIyZExuX3Y0cG9KemVtYXlHR2pCOW15ek55TGk2LTFlTjlwWQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1762848000
@@ -373,19 +403,13 @@
       "published": 1762848000
     },
     {
-      "title": "New Eagles LB Phillips 'showed out' in 10-7 win - espn.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1U3c2RIb0FTWjRDRWNRT2FiR1ZjMjhkQ2RHSzZLNFRLcWtaSFlRYjI1c29mVDZxS1ozMFIzaXdTd3JSUHVMb085VGZUWktPTC1zVURTUnZKOHZISXVNZnFrTndKSVFWQ1dWOEtqVnMtbV9FVGtqRHBpUjNNOEIyeDB0VjVyZHRxd2pFbnVFOUEyQi1FTmQ2SUd3TGxxUGNwN1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1762848000
-    },
-    {
       "title": "Eagles-Packers on 'Monday Night Football': What We Learned from Philadelphia's 10-7 win - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGt3VEF3MjkzajB4dGdxM0dVRzdlVnRsWldrdGdYR3FsZ2FmRDAyb2dVd09FWER0dDhyd2ZiX1kya282cFowZDJkZkgtazI5N1pBemVkZHIwT2lMMU5NdlNKajdaS1JDWmsxYTlwdThvNVRscFdnUlRFbXFwT2pZLXJUbklXcC1QNXdhQkttbWQ5ZWtlSUpLaXpicUtRc3RLZTd2Vm13N3E0TGlBSHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1762761600
     },
     {
-      "title": "Green Bay Packers fall to Philadelphia Eagles in defensive bout - espn.com",
+      "title": "Green Bay Packers fall to Philadelphia Eagles in defensive bout - ESPN",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVRvMl9YX0hjTjMzbE9hcno2NWlmT3Q5Q2N2OVJrcEI5cURxUFBvOGxhZDAxN0xLLW9vcWxaRjgwbWlhR1dPOEpNZTcwYXI1X3JJdncxeEttWjdKT0Jna2JIUVNndEk2S1NpdXFVdEJVanlYQTA5cTFCeF9ET0luMnB6YlAwWnRNdVhTdTNrejNybkR2UlVGdjFHbFFjZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1762761600
