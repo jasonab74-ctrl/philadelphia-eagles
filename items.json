@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-01T18:38:05.793592+00:00",
+  "updated_at": "2025-12-01T19:24:15.495153+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "My official ranking of who’s and what’s to blame for the Eagles’ offense",
+      "link": "https://www.bleedinggreennation.com/news/165155/my-official-ranking-of-whos-and-whats-to-blame-for-the-eagles-offense",
+      "source": "Bleeding Green Nation",
+      "published": 1764616789
+    },
+    {
+      "title": "Confidence levels have bottomed out for Eagles fans",
+      "link": "https://www.bleedinggreennation.com/news/165166/confidence-levels-have-bottomed-out-for-eagles-fans",
+      "source": "Bleeding Green Nation",
+      "published": 1764615300
+    },
     {
       "title": "Eagles News: “Nick Sirianni deserves the most criticism for the team’s and the offense’s underperformance”",
       "link": "https://www.bleedinggreennation.com/news/165157/eagles-news-nick-sirianni-deserves-the-most-criticism-for-the-teams-and-the-offenses-underperformance",
@@ -67,18 +79,6 @@
       "published": 1764453900
     },
     {
-      "title": "Eagles News: “We’re just not seeing the Jalen Hurts that we need to see right now”",
-      "link": "https://www.bleedinggreennation.com/news/165103/eagles-news-were-just-not-seeing-the-jalen-hurts-that-we-need-to-see-right-now",
-      "source": "Bleeding Green Nation",
-      "published": 1764440033
-    },
-    {
-      "title": "Jalen Hurts answers the biggest questions facing the Eagles’ offense - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdXAtbjlGWFJXaFlFRGdYU2M4aF83QWlFa09Rbkdqb05fbkY4VFZ2UUpGUndKWW9ybGI3Q05RbHhMWWxaSnV4eGc4bmRpeVNDam45RGFla3FnV2ZOcXJSLVkwX0NSMlBFTWZqMVZILVlPVVVFV3hmbnA1bjdER2xTYVVSNHZvZERtVVY2Q2NmMkdoMTBMc3hJZUlFZWRVYWxWem1yRzBWUGJxVmxRak9ybmF1eGR6OFBxbHNhMWwtZ0dsanRIUUtxSktCd3hBazNLOU5KblF3eXU3N2owakpZUUhHOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764430776
-    },
-    {
       "title": "By the Numbers: Bears' Black Friday win over Eagles - Chicago Bears Official Website",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGc0TjJzd2czTWNYcGNkSkFUN2tIZHQwZlh5WFJqSFg4S1Z2QWJ2RFpKWUx2dEdWYzFfcnNUTEl1ZkRCMzNqNVQ4NFJKbV9MQ0Jtck1vSXItUVZoMVVaMjgyTGEzb1MxbzBqcy1HR1R2NjNRNVJDckxrOVdLLXF6R3RYaWZTbTV6NkUw?oc=5",
       "source": "Google News — Eagles",
@@ -131,12 +131,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW1YQ0FGSVpOMmptTW9SbUxXZEF2Z01UQ2JocnFJaTZWbTU2QlpieFF0alIweGVIM2VNRzFOb1U0STE2ajFMR1hhVmlXNzUzaTYwbGd0X0VJMHJiWmoxRXNVT0tNWl9kN3dVakVyRUs3WVFzX1dvR3JCWXMyODRtVm1CXzRzaEFHTC1mWmpDZXVsSWNjb1ZKRA?oc=5",
       "source": "Google News — Eagles",
       "published": 1764386550
-    },
-    {
-      "title": "Nick Sirianni after Eagles’ loss to Bears: “We’re not changing the play-caller”",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/165076/eagles-nick-sirianni-post-game-comments-reaction-black-friday-loss-bears-offense-kevin-patullo",
-      "source": "Bleeding Green Nation",
-      "published": 1764385835
     },
     {
       "title": "Bears 24-15 Eagles (Nov 28, 2025) Box Score - ESPN",
@@ -197,6 +191,12 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWNNaGJzU2FkWV9aeVRqSmQ2cnhVZWdRYTJYeDdHV1RtQkc4M1NpNE1aRGUzVDd4elVBNFpoSXlSY0dGRXZWZFFsd00xYUg3cWxYWlB0ZHI1TlZhTzlSeGFDQXJZS3dTbXUxTXRLRU1MTkR6MllWMFhVZDFTM3plSHVlbF9Pb2hZRWNoLVNLakNfNHc1VUROQmROME16QQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1764372670
+    },
+    {
+      "title": "Roob's Observations after total Eagles meltdown at home against Bears - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXF2elYyZUNjamJ4bUFLTFBTMDV3aU9ZWEtfdU5oWWdRb2I2UlhSY0h2VzdjbUdDUTZoTEZqOWZsVm9qbEtIY2JaTm9kMTFBRjFFN3VJcnR2VVpLTGYzOS1yR253MVVUUlE4bjdQQkFKdUhZSTNTenQyZjh0aWRMWExfeC1vVkpwSFFEQkZJbWFseXRjVDBCR3ZWRHhuVVdHcHBYc2M2Q1E1MGFueGc3QnZSRlQ3OWNnN1N1dUowZGpHcVBF0gHMAUFVX3lxTE9zcmJ2bkxyejh4a0pPOWlJMXFBMk14UnlRdXVzZUplZTUyTld2MFFMT2JOdm9JcVFINmNObWo2X3cxQzJSdTU4MloydUVLQ19nZE1CWG85dWNwNW90dFZHQV9maGpPUi1YT3V5X0pPZDlGUWhvOWVxVnRPdUtzN0tab1k0dkNnYXlLaVlLTlNKNlVTb2YwdkRxaXZYeHZVVF9vTDg2NHBab2JJME56VDJJSHU0c0s2MDlYc0hYQS02RGRvZWk3TEdGbFJ1Yw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764372401
     },
     {
       "title": "Bears get statement win vs. Eagles - ESPN",
