@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-02T14:26:16.444929+00:00",
+  "updated_at": "2025-12-02T14:49:42.012857+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -133,12 +133,6 @@
       "published": 1764417600
     },
     {
-      "title": "NFL: Philadelphia Eagles suffer 24-15 defeat to Chicago Bears as Super Bowl champions are booed by home fans - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNzVlZUdCRnp3SjBxSk04OG5wSVZEcVczU0RVX3Nza3dCNm5pRlNDZDhfSlozbGt0SGJJZGxIVnpKTE5IYVNlMFVFa3VTRzJTM0tCYTJhRGhWeFFlRGJFZ1ZxRUR5ZFdKaURHRmVjeFB0MWQyMWNuelJZWkdHeWt0MVV5bzgyUUFHSUdSRlIzRmJzTjBMX1lINjdsbVVGenRIc3RxQzA5VGFZcjEta2paS0VpTFo4NTN1QlV2Qjl5bUZuYVp2YkJROEFlM0JwTkpOTTRJQk9EeUJxZy1qUTdLeUUweU4xT1l3UTg3NGhR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764402771
-    },
-    {
       "title": "Eagles fans erupt with ‘Fire Kevin!’ chants as Sirianni refuses to move off Patullo - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORlg3aTNqX1I0RnJRekREU1RLQWZoTUQ3RG42TDhQM2g1QXlUTFE2QmNPSlFHUzdhVGhxRGdpRndFWkt6clpIX0NvUDBSYXFldVZ1ZFAxTy1jOHA2YktHWVQwMkZtWHNwdFJUUjlubzZrbzI0aVFndjV5SlB0NUY1TUtJQnEtZVE?oc=5",
       "source": "Google News — Eagles",
@@ -149,6 +143,12 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFNRYk94c3c5d1RPSVRCeDRZTTdIY2Rkdi1tdHUzOFhsMTR0UzdRYnlrZkdiSWF1V2JTR3hBNWpEQVdEWUdGMDFmLVVtY1dleW12M1BYLU9xdEtRWDJUcmVtTktHbFVmX2lnckFWU2tvUGRQc1Z0ZEdodl8yMjBHSlI5R2c2emJzVTcyZG1MUFNCU1ozTmNRcEdWN1UtR1lYaGlQVw?oc=5",
       "source": "Google News — Eagles",
       "published": 1764389340
+    },
+    {
+      "title": "Why the Eagles’ season is suddenly teetering on disaster after embarrassing Bears loss - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlM0MGVHT1hqUHFPRjk1TmtJVnZSNUdnUHViOGdfeWJNNEludmJUNGdfb2ZfbXB3NXJUSlFwUjdzSzgyZklDdVd2Y3pJeFg2VWtXODZUZm8yNW5Jb3poajEtcU81MmhlODM3QUVTSFVsSHMxYzZINFFSSklBUnAzc0JUZnZHQncwRkhBalJn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764388847
     },
     {
       "title": "Handing out 10 awards from the Eagles-Bears game - PhillyVoice",
@@ -209,12 +209,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fZGNDcHNQc0lyOUxqbTR6RGRya1JjSmhmU01RdVJIamJMV3ZXa29IQjNHdDRtNFFxYnMzejZOLVlIRUJSb19NdVhHN3I3c0Y1ZGhxLXRwUk0wWkp1YU5KbXRpNGNwcVBqRDZWSUdn?oc=5",
       "source": "Google News — Eagles",
       "published": 1764373180
-    },
-    {
-      "title": "Bears get statement win vs. Eagles - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84Z1VjRzZadmNZbEdNVnB1cTIwX3JVOUVocTRCQ25YWmNFWHoxS2FUa251SkRGeVB0elByWDBfcmV3Z1ItYUEybHFNUWFBLUVYZ2tZcXpCYlk?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764371883
     },
     {
       "title": "Chicago Bears beat Philadelphia Eagles 24-15 to stretch NFL winning streak to five matches - BBC",
@@ -347,6 +341,12 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkpLSzVPM1hqWnZPenZ2X3J0a2lJb1pSMGtWeGRnRjRJLVZfb1dWVVhzeWU1UFhWWlhUdWxRRWl2ZFV2VmlYQ3RnU3FKX2tpZjlqYng3S29sblJyYmU4ajVfLWJ4MFhlUDZ3emwxZ1J2WG10emRxZGVwakI1d3V0ci1TR1gtTDZMMGMxcExFTVQ3YzZsalN4ZHk3dFpGRVQyS0ItUNIBqgFBVV95cUxOUzFZWnJKNlJ5VlVNdHpNNDE4STVOY3lnRzVQdUlRVE1raXREdUlJY3dGMXZyWFR5MGIxQ3ZXS2Y5UVJYbTFDUEVJQy1SSzlObU5tRWZ5MTM0VWlCUTFvTGtoUnJhUWd5bi1mUVhuV2hwbWQ3LV9QcXJvT19qbEYxLW11MkhfbUxaTS03aGpOZVNNVEwxTUxsQmhDalRyOXJBWjEwTFlxd0dnUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1764167259
+    },
+    {
+      "title": "Trolling The Nation vs. Eagles: “Pickens is a doggone freak of nature.” - Blogging The Boys",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdU9mRERVbWRsakJqRG1YOHhPc1hpN3ZfcmlDaW5MekNjMjVxQ2J2c19uRTBBX0tnWS1COUNYOE1YSkpzRm9qb3RXdDFZY0hGQnVJdHNYTHFwcFlJWGpXa2o5cExTNkRDODZRLVFmaml6S1BVUERkMFR5eDNfWlBmUS1FUlJmRFVjZ2R5enlnM3F0eFhBMUR3ZWZEZGllQTNKck51THVYaXBERDZyWXFUSTNPRlhjM244NDRlNWItSnQxSmJ6Tmc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764165600
     },
     {
       "title": "Eagles power ranking roundup: Week 13 - PhillyVoice",
