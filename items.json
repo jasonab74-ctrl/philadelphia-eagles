@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-04T17:24:45.505737+00:00",
+  "updated_at": "2025-12-04T17:46:45.411128+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Eagles News: Can Jalen Hurts save the offense?",
-      "link": "https://www.bleedinggreennation.com/news/165361/eagles-news-can-jalen-hurts-save-the-offense",
-      "source": "Bleeding Green Nation",
-      "published": 1764868908
-    },
     {
       "title": "Darius Slay claimed by Bills, won’t re-join the Eagles (despite Philly trying to get him)",
       "link": "https://www.bleedinggreennation.com/news/165345/darius-slay-claimed-on-waivers-wont-re-join-the-eagles-bills-nfl-news",
@@ -103,6 +97,12 @@
       "published": 1764710385
     },
     {
+      "title": "Eagles-Bears Film Review: Philly’s defense looks exhausted",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/165258/eagles-bears-film-review-phillys-defense-looks-exhausted",
+      "source": "Bleeding Green Nation",
+      "published": 1764708585
+    },
+    {
       "title": "Mountaineers, Eagles to Clash Wednesday Night at Hope Coliseum - West Virginia University Athletics",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjFPcDM2Q2p2cGZySWZJYmg4ZGtaYmxsaE83RUFyRGMyS1JMXzFxQlljTEpFRjRVRkdsWDZWNnpUdkxuRnpsa1h0YUw1c0FIWWZYMGJ2UHZXLTdxZFFiaWtOelMxd3M5LWFscWlwVjltamJaZENScTFyaGZmRXNWbjdsckE1R09XYXpsR0tYV2JjbkpnTEgta0N5NXB6VVhrNFhOUXdsZjNraE16M3lzeXBGTGdLUmRrVUc0?oc=5",
       "source": "Google News — Eagles",
@@ -125,12 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUlyaW1FZWlyUDlPS1BDTlZTWmlKTTJGSzRHa09EUGh6OHlGckpDdjhXa00yalk3WDRIU0JVYXJZMEk4SWh6bzlza0V0b29HMmxyTnFUVnBkSmZGYmJRVHhzUU5KVm5rZWgtMG9xTGl2RFhGQ2J6a1I3OHZkNWx5U3JqNHRjeEh2NlhRTGhKNkNmbHZPQnpDS0dB?oc=5",
       "source": "Google News — Eagles",
       "published": 1764627900
-    },
-    {
-      "title": "Spadaro: Here is what the Eagles can lean on - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEZybEExVXZNbkRIU2JtQnBXellxZjZ5SmRXREFnaUtKMTF3TkxfZkw2b1BoTHdHME50aWs0WlJaWTJVVlFuVHhBd1lfdEhsY3ZKRjhSdUhYOHlzeGxXcUlEdXhZbGxYUkpKaVhWVEtvNk52NVpNRXNsaWFxdDVuVXhLQng5dHhJZXh3SERWZlNNWDg0NU5TUHlfLXVUSkJPNFlzVllVT2lYREppVmV1dGRhMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764623175
     },
     {
       "title": "Eagles sign Terrace Marshall to practice squad - Philadelphia Eagles",
@@ -199,6 +193,12 @@
       "published": 1764386550
     },
     {
+      "title": "Spadaro: 6 storylines to follow in Bears vs. Eagles - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2lVUWJxWHNEdDZaMDVWSF9iRHdCTVBhZmRTSXpqS3dmcjg5d0VHUmtJaEdmcEp1eFNvX2pzcGd1ZW1Menk3VTZuMWVYRnZjUk1FU0d2TkNZMGFUT3NYQnNPdEVCWDFQMjNCajJpTGpKUEYtNGt3aHNsYzJZQVBhREgxZmMtTFdSQ19nX1NLNW5hUk9sNWVXTVNaMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764385045
+    },
+    {
       "title": "Bears 24-15 Eagles (Nov 28, 2025) Box Score - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12b0VMd3N1bXY4XzY1cElSWWFLVFRSVGRGWUNFWWVhcGUtZjhSTmxUTmsxbnhGd09MUG9ZbjlfcHFxOExSSUZPLTE4Z1dQb3M0SU1QOUwwT3o5bktsWk8tSHZn?oc=5",
       "source": "Google News — Eagles",
@@ -259,6 +259,12 @@
       "published": 1764373892
     },
     {
+      "title": "Philadelphia media unloads on an Eagles offense still stuck in neutral - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUU9YX1MxZU84XzNHd1NMZ3phcDk2M0dwT3NfTjg3QU4ycEtoTVIxLU5pTTZ2QzFaajFvUXBoLUl3SzNWV1FTbUlETkxWd3FhZ0YycFpKeWZzT05fLVo4QWFHUnFRQ3lGU3JreUZpSjRXMUtkbUNINkMyYU8wN3dILWRRVU8zVHduM3FELWEyNjY0ZTJFYjBuNEF0NWZHc3ZoS000MVpkYjBfcmRneHczSm13TGx1bXY4X1ZJdXNJUGRqWjJEY3ZudWg4QXU1U0ZjMkJVRmJMMWNjQ3Rw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764373500
+    },
+    {
       "title": "Game Recap: Bears 24, Eagles 15 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmVHY0hjclp6Zm45LVVOWVd4bTZwajUwcV9OU19jSE9fZW1sNFJCeUxsemRfcE1qcjRrdkx3UlpqTGEyVmhDcGdVWEEtd3p4ekNrV1hUdEZzUi1CUldSTE1SVjRYSmpDVTZ2Yk9pbzg2ZWdObUhNRDF2U2Uwb2ZGak1xR3ltbFViWjJPVXh6M1puaDE5MDVZczAyUFg1RVlCM3NF?oc=5",
       "source": "Google News — Eagles",
@@ -303,12 +309,6 @@
     {
       "title": "Bears vs. Eagles: How to watch, stream, and listen on Black Friday - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUQ5Wk40bWdPVVRJcWxnQzROODBTNXJFUF96SmhtejJwSlhUbWZIUUc4QjFsd0ROalE5Y1llcHhKeFc4VUY2cXNCNFBVTTViSjRzVkNlWTJOcXF0ZVNQY2RjTFBkbXVRM093ZjV2OUJTc0Z2S1JpSEMxQXU2MjlvVE9tYVUxRG1VWnl1cXQwQklzN1FIQUdGN1JnNUNoUDN2?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764316800
-    },
-    {
-      "title": "Spadaro: 6 storylines to follow in Bears vs. Eagles - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2lVUWJxWHNEdDZaMDVWSF9iRHdCTVBhZmRTSXpqS3dmcjg5d0VHUmtJaEdmcEp1eFNvX2pzcGd1ZW1Menk3VTZuMWVYRnZjUk1FU0d2TkNZMGFUT3NYQnNPdEVCWDFQMjNCajJpTGpKUEYtNGt3aHNsYzJZQVBhREgxZmMtTFdSQ19nX1NLNW5hUk9sNWVXTVNaMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1764316800
     },
