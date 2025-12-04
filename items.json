@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-04T16:34:22.867654+00:00",
+  "updated_at": "2025-12-04T17:24:45.505737+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Can Jalen Hurts save the offense?",
+      "link": "https://www.bleedinggreennation.com/news/165361/eagles-news-can-jalen-hurts-save-the-offense",
+      "source": "Bleeding Green Nation",
+      "published": 1764868908
+    },
     {
       "title": "Darius Slay claimed by Bills, won’t re-join the Eagles (despite Philly trying to get him)",
       "link": "https://www.bleedinggreennation.com/news/165345/darius-slay-claimed-on-waivers-wont-re-join-the-eagles-bills-nfl-news",
@@ -97,12 +103,6 @@
       "published": 1764710385
     },
     {
-      "title": "Eagles-Bears Film Review: Philly’s defense looks exhausted",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/165258/eagles-bears-film-review-phillys-defense-looks-exhausted",
-      "source": "Bleeding Green Nation",
-      "published": 1764708585
-    },
-    {
       "title": "Mountaineers, Eagles to Clash Wednesday Night at Hope Coliseum - West Virginia University Athletics",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjFPcDM2Q2p2cGZySWZJYmg4ZGtaYmxsaE83RUFyRGMyS1JMXzFxQlljTEpFRjRVRkdsWDZWNnpUdkxuRnpsa1h0YUw1c0FIWWZYMGJ2UHZXLTdxZFFiaWtOelMxd3M5LWFscWlwVjltamJaZENScTFyaGZmRXNWbjdsckE1R09XYXpsR0tYV2JjbkpnTEgta0N5NXB6VVhrNFhOUXdsZjNraE16M3lzeXBGTGdLUmRrVUc0?oc=5",
       "source": "Google News — Eagles",
@@ -175,18 +175,6 @@
       "published": 1764423735
     },
     {
-      "title": "Eagles grades by position after embarrassing loss to Bears - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGl4UE1MWTZvNVplcnJPdjlDelBSV2NlUmlmRkwtRUlvNm5ZUWVhZTlOanZWREwtUy1udDFfY2FqREJJRVhFTUhvclUyNk82QkxCcVRmR2RRZldtQXpvVTRsY2RvTVJEcjJrM3JPZFFDVDQzYjdCZ0Y4SUluQk8zRU9zVlpxWHBTQ0RFc1Z6bUZ3aGEwV0laQWpWYmJKeENJcjVDNXBlRkxsbFpzdk9tV0M3UmVuWGJuejlIbjhWSDAzZEEyU05J0gHPAUFVX3lxTFBIdmpBQjZ4TFRHcS1zaU9ycDFGcUw5dHR2bXktLTFUbDRsODJVRjlaMkRXWERZMU90cE4wMjlsZTY5clFQMUdzRUd3Y3lYVDdqd0oyNF9Nc0YzSVFTajhpQVh2SzVCNU9tSUNGUlh0dmtJbXZ4QWRGcG1DVUFlS3k2eURMUmNjRy1KOGJ5YXJDc0NYcGE0ZGJZV0NfTnltR2Vpem90dUJLV1lDY3EzX1JWajJfZzNCOF9KdXkzcTNvRFlFUExoTVgzXzE1R1ltTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764417600
-    },
-    {
-      "title": "Are Eagles blowing chance to clinch NFL playoffs, NFC East? What to know - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1R4WEVTcFNRRjhnVFpJLUtsbkpyQU5RdXc2dk9JVHFiMEdCZzhyZlJDSjZ6MGtJR3BFOU5jZmZXMnp3cnFORkVqZUd5TVZVbUtqcUxrbXR2NlNPQ0d1RmoxbVNsMVp6OHU5bVAxR0xIelNnUUhQQjRLUkp1SlRmY1gtUzFNZGNrcmp4X2pnZTlUZnhYZFZCeEFKbzByZlBvVVZGODNvTzd3M1ZQTVZaeUdxa3QwazM5YnlzdG1sNVJ0bmZwSHpDbjhVM0ZGN1kxcno2Y0ZwS3Z1YlVTME1z?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764417600
-    },
-    {
       "title": "Eagles fans erupt with ‘Fire Kevin!’ chants as Sirianni refuses to move off Patullo - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORlg3aTNqX1I0RnJRekREU1RLQWZoTUQ3RG42TDhQM2g1QXlUTFE2QmNPSlFHUzdhVGhxRGdpRndFWkt6clpIX0NvUDBSYXFldVZ1ZFAxTy1jOHA2YktHWVQwMkZtWHNwdFJUUjlubzZrbzI0aVFndjV5SlB0NUY1TUtJQnEtZVE?oc=5",
       "source": "Google News — Eagles",
@@ -211,12 +199,6 @@
       "published": 1764386550
     },
     {
-      "title": "Spadaro: 6 storylines to follow in Bears vs. Eagles - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2lVUWJxWHNEdDZaMDVWSF9iRHdCTVBhZmRTSXpqS3dmcjg5d0VHUmtJaEdmcEp1eFNvX2pzcGd1ZW1Menk3VTZuMWVYRnZjUk1FU0d2TkNZMGFUT3NYQnNPdEVCWDFQMjNCajJpTGpKUEYtNGt3aHNsYzJZQVBhREgxZmMtTFdSQ19nX1NLNW5hUk9sNWVXTVNaMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764385045
-    },
-    {
       "title": "Bears 24-15 Eagles (Nov 28, 2025) Box Score - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12b0VMd3N1bXY4XzY1cElSWWFLVFRSVGRGWUNFWWVhcGUtZjhSTmxUTmsxbnhGd09MUG9ZbjlfcHFxOExSSUZPLTE4Z1dQb3M0SU1QOUwwT3o5bktsWk8tSHZn?oc=5",
       "source": "Google News — Eagles",
@@ -233,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWhYcW1WSF9wbnlDVVlFOGl1T2R1Tjk5eDZiWlhPOGFYbVl5bkFVZW9hb3JmWE1RZFJLbTJiYWJqQ1ExSFRWX01GOWlzN3VBaFBCWlhrSmNUSHFZcXUtM3NQWXd2YVlhcUlGR3FWSXRlckNjd1FHbWcwTVotdnNBYTJqV1NjbVhncURpNUNhckExSzdjbVBrWG5Ba2RxeXdoNDlEbnFRX3NLSFgzVHRXMk5RWQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1764380760
+    },
+    {
+      "title": "Ben Johnson flexes shirtless in locker room after Bears' 5th straight win, 24-15 over reeling Eagles - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDNxUjJkLXJvaVFQeWR2WkZzTC1sQkRTYU5RS1MyclM5a1haOHBZOEFwUGNXWlg4S3V2aHhCb01EanRoWGNsdXhVRlBJdGxYbjRMSlg1bDRBOFJFOU5Xak8zWXpPT01NRWVZLWtMRHVlbVBiVF9nVndVVDBkeGVkdTAxQ24?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764379440
     },
     {
       "title": "Eagles Locker Room Interviews: November 28, 2025 - Philadelphia Eagles",
@@ -315,6 +303,12 @@
     {
       "title": "Bears vs. Eagles: How to watch, stream, and listen on Black Friday - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUQ5Wk40bWdPVVRJcWxnQzROODBTNXJFUF96SmhtejJwSlhUbWZIUUc4QjFsd0ROalE5Y1llcHhKeFc4VUY2cXNCNFBVTTViSjRzVkNlWTJOcXF0ZVNQY2RjTFBkbXVRM093ZjV2OUJTc0Z2S1JpSEMxQXU2MjlvVE9tYVUxRG1VWnl1cXQwQklzN1FIQUdGN1JnNUNoUDN2?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764316800
+    },
+    {
+      "title": "Spadaro: 6 storylines to follow in Bears vs. Eagles - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2lVUWJxWHNEdDZaMDVWSF9iRHdCTVBhZmRTSXpqS3dmcjg5d0VHUmtJaEdmcEp1eFNvX2pzcGd1ZW1Menk3VTZuMWVYRnZjUk1FU0d2TkNZMGFUT3NYQnNPdEVCWDFQMjNCajJpTGpKUEYtNGt3aHNsYzJZQVBhREgxZmMtTFdSQ19nX1NLNW5hUk9sNWVXTVNaMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1764316800
     },
@@ -411,6 +405,12 @@
     {
       "title": "How to watch, listen to, stream Bears-Eagles Black Friday Week 13 game - Chicago Bears Official Website",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc2YtZVJPUGc1bDlhU2c5U3NDOHNYQkxkcE5SRjJtNlJWdVJKR2NjLVhqemRaOVNjajhkOTZweVJEeVFaaWZ1Wms2YXQwbTlXS0R2aFVJb2dWbzFYb2duYmxWWXMyRnp0cHRiNGRqSGFiUVhQbTl6aW45TWFmWExQNTJ0STlKT0k5U29tSFhLeTM1UWFURkQydmgyZElJeGIxQ2lXNmJUdWFXWDZQZThJUEZZdGg5clQ5MlBVSWxYY2pWQ1JXOS1LMjJEMS1KU3lGTWdzQzRZMU00V3ZmbGNzY2NhbG1wOHNwM0liby1uVXpBYU40aFZWallzNmZ3WjA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764144000
+    },
+    {
+      "title": "Eagles power ranking roundup: Week 13 - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ORldGbFZhTDZSQndlUHZaUkJrLVRSSWtlUEJUbEQtU3RoRGhHY0hnbW8yVzRIQ1VNRm5NX3o5Ni00THY4YWM0eVhSVE11NEVNS2dDSDNwTi0zUFVwaFBWUnJEZHowRC10RW4wNEdIbHdLS3g0bERLUWx30gF_QVVfeXFMUEZkbUxLLXVkaHFXaDdkdm45SW00U2RmYTBEajlCZkJ3VE9veEgzZUFzbEFFQ0h4blZjNG9CTkNCbHdmYlIzUTBtTHhtU3FFdDVVLTNDR2ZZWkZPMkNTeVRVWFdHT2Jicm1mc0gwMG12ZVRVX3pqTzZ0ZzR1ZG9TSQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1764144000
     },
