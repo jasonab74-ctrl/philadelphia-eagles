@@ -1,23 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-10T21:25:24.626292+00:00",
+  "updated_at": "2025-12-10T21:44:42.306524+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Eagles reportedly set to face their former backup quarterback in Week 15",
-      "link": "https://www.bleedinggreennation.com/news/165973/eagles-reportedly-set-to-face-their-former-backup-quarterback-in-week-15",
-      "source": "Bleeding Green Nation",
-      "published": 1765400752
-    },
-    {
-      "title": "Eagles open practice window for Charley Hughlett",
-      "link": "https://www.bleedinggreennation.com/news/165967/eagles-open-practice-window-for-charley-hughlett",
-      "source": "Bleeding Green Nation",
-      "published": 1765389299
-    },
     {
       "title": "Eagles News: Nick Sirianni says benching Jalen Hurts would be “ridiculous”",
       "link": "https://www.bleedinggreennation.com/news/165959/eagles-news-nick-sirianni-says-benching-jalen-hurts-would-be-ridiculous",
@@ -139,6 +127,18 @@
       "published": 1765269240
     },
     {
+      "title": "Eagles open as double-digit home favorites against Raiders in Week 15",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/165836/eagles-open-as-double-digit-home-favorites-against-raiders-in-week-15",
+      "source": "Bleeding Green Nation",
+      "published": 1765266549
+    },
+    {
+      "title": "NFC Playoff Picture: Eagles on track to No. 3 seed if they don’t blow NFC East lead",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/165829/nfc-playoff-picture-eagles-on-track-to-no-3-seed-if-they-dont-blow-nfc-east-lead",
+      "source": "Bleeding Green Nation",
+      "published": 1765265602
+    },
+    {
       "title": "Head Coach Jim Harbaugh Postgame Press Conference vs. Eagles - Chargers.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclp3WDhnaEd3aUZuOHRoM3k3dUUyQ0RVSDJuMlh5M0NpZ00wbktEUXhPNkh0VVc0VnFtTUVRazVZbWZNN3dkTzlIYjJ1cXVXQ3QwTFI3d2M2OHcxdnVkUEt2UDBwYjE0OWFXZm5TTVpsSDJtWjNQQzhLSldrY0s3R1RkV3RraXdHellfSDdNa3ZnSjVZb0RJ?oc=5",
       "source": "Google News — Eagles",
@@ -247,12 +247,6 @@
       "published": 1765244795
     },
     {
-      "title": "Chargers 22-19 Eagles (Dec 8, 2025) Box Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTlJiM29YNXIybzYycFdGWERCT0Fob3RoTldwLVd3LU4tLWFoTms1STJEVWNUb2hyZ2ROTEFXXzNhRWJsM3dzN0JaZUZDQzRjOGJub3luRUlEbGE1cnZYN2N3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765242759
-    },
-    {
       "title": "Chargers-Eagles Inactives for Week 14: Justin Herbert Will Play Monday With Hand Injury - Chargers.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUxiOUdILUk4Smh1bGV3N1l3OVdEZnh3elNoOVJ5Z1BVcmdxankxdVhFQWtYLUdKOGd6VEoxdWx0QXJWWEU5U3h0eDIzTW1kQnNnRG1UZFVwSWI2UXFnb3R5ZmU4YXNDTFJWZFN4OWNnZVFHdGVkdzdlWjA1OUhBZmtmWQ?oc=5",
       "source": "Google News — Eagles",
@@ -319,8 +313,8 @@
       "published": 1765105214
     },
     {
-      "title": "Chargers 22-19 Eagles (Dec 8, 2025) Final Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVUFwOFVOS1ZSZlZISGlrME1VM09HTGVsZGlYY0diREhJQTBESVQ3WFFQVlF5Z2JRam1nMFVaOVBXbUg3eHVSZl85MV9PMGFSU2c2SzZCRmxKQWEySWxwSGdsT09pdWUwZFRmR2ZqeEpDUQ?oc=5",
+      "title": "Chargers 22-19 Eagles (Dec 8, 2025) Box Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTlJiM29YNXIybzYycFdGWERCT0Fob3RoTldwLVd3LU4tLWFoTms1STJEVWNUb2hyZ2ROTEFXXzNhRWJsM3dzN0JaZUZDQzRjOGJub3luRUlEbGE1cnZYN2N3?oc=5",
       "source": "Google News — Eagles",
       "published": 1765094400
     },
@@ -335,6 +329,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUkk3Y2c0aENteWdLTEd2TTIwM091SS1aR0xTZ1RoNVdUaVhLOTlNVHgydnU2bFZTOVdHaXFCa18zYUlWR0FwcThKU1V5X2tfWUsxTU1XenZxLVFlYkZkNWE1OGcxeXBwVFdxc0cyV1FzOTVPNzlLSDNVdW5JUzlKaVl1N0hodF9HQXp5SlBuOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1765053990
+    },
+    {
+      "title": "Eagles Reveal Inflatable 'Positivity Rabbit' in Locker Room Photo amid Losing Streak - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDdqUDlSMG92bEhZM1ltbXl5V2thUHlua1ItRWJKbHNlZ2lXOGpOcENUT01XY19uQ0gtc1d2QnpvQUhsdEZSSGI5Q0s1UzdrVENpSXNTTFpqa1FVQ2I3aDBvUVRGVzh3dGlKT3pnYlFZSGNPWDd1enEyZnhRU2ZfUzdyZDVqSzMxQ1M4RzBYbFk3OWRUMmFUeEthNGNTckJYY1hFZGxRRUZNcDFQM0QzZHlybjdiV0ppOW5BSU1FTTFHdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765050560
     },
     {
       "title": "Eagles News: Team messaging has been about “stop pointing fingers” - Bleeding Green Nation",
@@ -455,12 +455,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEZybEExVXZNbkRIU2JtQnBXellxZjZ5SmRXREFnaUtKMTF3TkxfZkw2b1BoTHdHME50aWs0WlJaWTJVVlFuVHhBd1lfdEhsY3ZKRjhSdUhYOHlzeGxXcUlEdXhZbGxYUkpKaVhWVEtvNk52NVpNRXNsaWFxdDVuVXhLQng5dHhJZXh3SERWZlNNWDg0NU5TUHlfLXVUSkJPNFlzVllVT2lYREppVmV1dGRhMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1764576000
-    },
-    {
-      "title": "Malcolm Jenkins: 'Finding my way home' - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPem80N1hVZDNKc0FfUGRGUGNWZXAxeldKOTJoRV9NYU52Q3JiNGZlemYzTlBxZXhrWjY1S2oySkpuekpyemQ2RkQ3SUhXbExFQVRrSXV6eDN0RkgzRFBxNTVkcGpudkhiS2ZrUTdlVjI1U3dEajJHTnlBRURTOHJiaVAxbUhOZnVKa1RPX1ZlWVZ5cVo3cDlqZjZhSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764316800
     },
     {
       "title": "Game Recap: Bears best Eagles on Black Friday, improve to 9-3 - Chicago Bears Official Website",
