@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-10T17:47:48.869625+00:00",
+  "updated_at": "2025-12-10T18:34:52.317820+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles open practice window for Charley Hughlett",
+      "link": "https://www.bleedinggreennation.com/news/165967/eagles-open-practice-window-for-charley-hughlett",
+      "source": "Bleeding Green Nation",
+      "published": 1765389299
+    },
     {
       "title": "Eagles News: Nick Sirianni says benching Jalen Hurts would be “ridiculous”",
       "link": "https://www.bleedinggreennation.com/news/165959/eagles-news-nick-sirianni-says-benching-jalen-hurts-would-be-ridiculous",
@@ -121,13 +127,7 @@
       "published": 1765266549
     },
     {
-      "title": "NFC Playoff Picture: Eagles on track to No. 3 seed if they don’t blow NFC East lead",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/165829/nfc-playoff-picture-eagles-on-track-to-no-3-seed-if-they-dont-blow-nfc-east-lead",
-      "source": "Bleeding Green Nation",
-      "published": 1765265602
-    },
-    {
-      "title": "Head Coach Jim Harbaugh Postgame Press Conference vs. Eagles - Los Angeles Chargers",
+      "title": "Head Coach Jim Harbaugh Postgame Press Conference vs. Eagles - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclp3WDhnaEd3aUZuOHRoM3k3dUUyQ0RVSDJuMlh5M0NpZ00wbktEUXhPNkh0VVc0VnFtTUVRazVZbWZNN3dkTzlIYjJ1cXVXQ3QwTFI3d2M2OHcxdnVkUEt2UDBwYjE0OWFXZm5TTVpsSDJtWjNQQzhLSldrY0s3R1RkV3RraXdHellfSDdNa3ZnSjVZb0RJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765262987
@@ -175,7 +175,7 @@
       "published": 1765258860
     },
     {
-      "title": "Eagles vs. Chargers Highlights Week 14 - Los Angeles Chargers",
+      "title": "Eagles vs. Chargers Highlights Week 14 - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZNUpZWF9pejRZNVo5a3JpNGNHMUk2akdIOVBlSjZ5V3ZyRmY2RjR0VVU1bEE3YUp5R2N4YlJsSGdCNWFJNmIxTVc2LU1Fbk9QbDYtT0Y4Y3g0VGYwMmJCRjNIZHk1R3NmNEZNN3p0Y2U1OFJVQXBz?oc=5",
       "source": "Google News — Eagles",
       "published": 1765258010
@@ -205,7 +205,7 @@
       "published": 1765256340
     },
     {
-      "title": "Game Recap: Chargers Outlast Eagles in Overtime as Tony Jefferson Gets Game-Winning INT - Los Angeles Chargers",
+      "title": "Game Recap: Chargers Outlast Eagles in Overtime as Tony Jefferson Gets Game-Winning INT - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwREp0ZXdEaFpjekZ5NzkzXzc3TGxPZ0Z5ZFV6Nkk2eFN2ODJnbG5YVXRLX2h5Si1aTEFGSTNhQ24tN1BINTNIZE9aZzVQdWhCbE5qVlFSWE43TzhyZF94Skp0TlBWN0NNZGpFQVBpUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765256087
@@ -229,16 +229,16 @@
       "published": 1765252577
     },
     {
-      "title": "Highlight: Saquon Barkley rushes for a 52-yard touchdown vs. Chargers - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXdMSHpsMUFYZTRwLVo5SUdsSHFrazBEVFRSZ2s2TEJNRG9wTUxKaGJkeFJMZFd6cnpfQU9zZXgwd2t5TDdKNFByTzM1TTNfUE5VOWIzNWRTWHd1OVRuNEIzcnRiVmRIOWZDV19SUmNmSHRGVWNvbTJtMmdLWV9UcXRWNWpZeGNKcnpEX3ZLdGxCOVhwcDFFQm9BTWJMOEVoc0NzbHJiQzlFcDFOcGpROUtSS2l6SDQwVWdsdzR1Yy1YQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765252295
-    },
-    {
       "title": "Eagles at Chargers Inactives | Monday Night Football - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdFBJam1QbzN0WnZ5X0tuSHRNTkJCRXAwenNhbllhRG9TMjdMR3ljNUw3bUlHbFFqUnhjQy1vcjRXcEV2SEhRTHlJT1VrMm1PRDlNaXNCaGpRcEdmWEVjdTdjTW5fRlJ2ZGVIS1BMQXNZX0VDX0c2dTF5RjBRNjBzblN3VTFNc3hjV2l2Xzh3ZVUxV1lUOEhtakRKWDB2M081NDFnWWR1M1poT1NfV0hPZHR2TE1sRHNiMFloNGdEcndTdXJSOVRGUFJmOWI?oc=5",
       "source": "Google News — Eagles",
       "published": 1765245150
+    },
+    {
+      "title": "Highlight: Mike Wazowski moves chains for Eagles on 9-yard reception - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZy1UdzVDNkZyRjV1RkNZdm10Z0tNNEd4WDZnYXphelBGSlBvYmlfdUNteU9jT2FWN3J4QmVxUU9WT0tyZE8yUTFxQVVkUnBHY0F4U1gwVk5xU1l4RXZ1d0xabk4yWnRRQVdSdDl3Z1Jqdl9NWHhsMmQ0UDNtVEpENG1sbmtLS3kwU1FnS0pPSVNFR0N4VmZJOTNRLURjZWNEa2hLa2dCbmxFMXJSRUpNcWtFckd5R1FaQ19XQVRKRmpvdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765244795
     },
     {
       "title": "Chargers 22-19 Eagles (Dec 8, 2025) Box Score - ESPN",
@@ -247,22 +247,22 @@
       "published": 1765242759
     },
     {
-      "title": "Chargers-Eagles Inactives for Week 14: Justin Herbert Will Play Monday With Hand Injury - Los Angeles Chargers",
+      "title": "Chargers-Eagles Inactives for Week 14: Justin Herbert Will Play Monday With Hand Injury - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUxiOUdILUk4Smh1bGV3N1l3OVdEZnh3elNoOVJ5Z1BVcmdxankxdVhFQWtYLUdKOGd6VEoxdWx0QXJWWEU5U3h0eDIzTW1kQnNnRG1UZFVwSWI2UXFnb3R5ZmU4YXNDTFJWZFN4OWNnZVFHdGVkdzdlWjA1OUhBZmtmWQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765237773
-    },
-    {
-      "title": "What channel is Eagles at Chargers Monday Night Football tonight on TV? Time, how to stream live - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdElQQkxCelRWTi1NdGRaeWEycjU4ZEVubU9XNnlkUWZqN1lkR0ZfTm81aEFzazFMQkY0MWRjSGxtOTl4RGEtYV9QLTNaVExXc3RaeUNYMjNiQ3dvZl91TjRvbTIxN2lrRnp5VThEeWpVYU5XZHExTjhBSUlEcHlSc2l6bVNsZVhvNFdzX0EteDM5QXdRcC1YV2p3cVRvc1RNem9PSml5UnZfSVFfaUZFdG14UExKbERFR0tNWDZjbV85VFFkclFtejdEemlOT3VtSlVIUTVNMDJfRlpKcU8zeHJSVW44R0dsUGxJaEtCSEFXb1F2YkZXb05XcFUxSXRHcFpz?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765236480
     },
     {
       "title": "Eagles activate Marcus Epps from Injured Reserve, elevate Andre' Sam from practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdlpTUGo5Umdkb1NoakVsaFlEZjFrWHF4MjlGdmlISXpCYVd5SUtSVUFVc1RFNHAza2NWTzA1QzBNRkRrYkZkcmNieldUM0xhSkhxVXZrN3d5WWw5TlBvMnBvTVdzUW82dk1UZlR2bkpiMDR4dXcxV29PeEw2V19HdWVmeV9BbHNULXR5Vl9xd2pfQkpLaFRmaVhrOW9aUW5Id2JZTEs0Q0Q2MC1DUVI4VzZ2WUVRcFFpZEQxOG1FN0Q3a19PREhuSHdrdzk2LXl2a0ZmZnpxdkNLd1RUZ0dKRA?oc=5",
       "source": "Google News — Eagles",
       "published": 1765227795
+    },
+    {
+      "title": "Las Vegas Raiders vs Philadelphia Eagles picks, predictions, odds for NFL Week 15 game - The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEx2eFg4YzdmMWhuXzQ3VFp6azVFTjFjcmJfQld3OTE4MU44d1AwSHdvWHRuS0lCVl9aVmoxVDRBUzJaVW1YMm42eUVzZjM4NUtteEpsY1RWdG1nZkRtelFQX01MN1FIemlnWjYwWnA4X01HTHZHcWxHUVhpaW1oTEtzTG9HX3hJVVNRWEVHZ3VIQktteUVjWDZMaFUwRjNMNEFRdzZidDFSTkxiMFNVRTlBNHJuZjdqV3RIYVNRdV9YWVo3VkJ3Ujd6ZlItem5MY0htUnlR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765223270
     },
     {
       "title": "Can Eagles’ alarmingly inefficient offense change as Nick Sirianni sticks with Kevin Patullo? - The Athletic - The New York Times",
@@ -283,13 +283,13 @@
       "published": 1765191600
     },
     {
-      "title": "5 Final Thoughts Ahead of Chargers-Eagles in Week 14 - Los Angeles Chargers",
+      "title": "5 Final Thoughts Ahead of Chargers-Eagles in Week 14 - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UWWgtLTNRQ0NuUV9WeWg2SjlRZ3NSSmJMSGVEVDJLRTgtaDdGWnppRXd3QjhBMWpFT1FGaHpqTGM1TE5kVHp0WlVIWXpNMTk3cWR5VDFlaW5KTXZXQmVzZFF2dnE3M0haQ1JvOEVuQy1LemVUY0V5eg?oc=5",
       "source": "Google News — Eagles",
       "published": 1765180800
     },
     {
-      "title": "Chargers vs. Eagles Injury Report: Justin Herbert & Omarion Hampton Questionable for Monday Night Football - Los Angeles Chargers",
+      "title": "Chargers vs. Eagles Injury Report: Justin Herbert & Omarion Hampton Questionable for Monday Night Football - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnpUeU1IWFlPQmFtYmhaejNqUmw1SWFtb0JQRDc1T0xzQVg2WEJqQWI0X2dEbnprMDRzZTRnZ3lSYmMwV05yVmJyYUdKblRiclpHU0NFSnp4LVdPUkpsbXJzT1NUVEhVYUpZb3pIMnJodl9DLWpTUjdhUUJ0RW5Da2JDcEMyYXVTejNqUDBxWQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765180800
@@ -323,6 +323,12 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3l3WTFyY1lQWjc4QzNMMFU0YTJNSEJORzlkRWxUeG9IM0JhV0R5Qk1NemRHNHlpdWdvRU1OZmNCNTlNal9jNE9qdVBXaURrVmxYeDQ1dURHMFk3ZF9VZWo2UXBId2dzMGZUbTVTamYybDRIQThoVlkxSDE0LXlYODlncTh1aTQ3bXo4SW83bGJsa191TVFN?oc=5",
       "source": "Google News — Eagles",
       "published": 1765105214
+    },
+    {
+      "title": "Chargers 22-19 Eagles (Dec 8, 2025) Final Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVUFwOFVOS1ZSZlZISGlrME1VM09HTGVsZGlYY0diREhJQTBESVQ3WFFQVlF5Z2JRam1nMFVaOVBXbUg3eHVSZl85MV9PMGFSU2c2SzZCRmxKQWEySWxwSGdsT09pdWUwZFRmR2ZqeEpDUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765094400
     },
     {
       "title": "Eagles rule out Jalen Carter, Lane Johnson for Monday Night Football | Eagles at Chargers Injury Report - Philadelphia Eagles",
@@ -361,19 +367,13 @@
       "published": 1764961620
     },
     {
-      "title": "3 Chargers Players to Watch Against Eagles in Week 14 on Monday Night Football - Los Angeles Chargers",
+      "title": "3 Chargers Players to Watch Against Eagles in Week 14 on Monday Night Football - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUxoNWpHLWo0bmpBNy1OM2ZlUWNabHJoaFFsNVhSOXBHZTcxbElEaF96Mm5ZNmVQTFp0RVJKdU0xdkpVc3JFRDlFRGs3eFB3cDN1bloxbzQ2TVRYTGpkYjBJSHBoLXpja1dacFpucDFBNEJyN1ZDN3ZwMHV5aC1iSkl3?oc=5",
       "source": "Google News — Eagles",
       "published": 1764959036
     },
     {
-      "title": "Yo, Eagles Fans, Cut It Out - The Philadelphia Citizen",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oSlM4LXhCcE1maF9aUTVPc3JwYWxCNWpWRjk1ZVdkUXFJMGxKOXF5QlB0Q21iWV90YmtLWm9BR2g4eWlNaXV1YmFjMVZSTm5xMGJxSXlsT3JYOUQxelk2dVJjQUpHQ2fSAWxBVV95cUxOYkFuWlRIZTEwNVFGenlJbDdDaXZEVi1kUHBQQTJsZ1hMamNZek5VYVJrbzJreUZpOFlVcDNMdUd0amNzcXRaaTh6bjVNUi0xUEhic1JIYVNFWXpaZkRmN3pmRU5GYk5WR3ZfX1M?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764932943
-    },
-    {
-      "title": "NFL Week 14 Game Picks: Chargers or Eagles? - Los Angeles Chargers",
+      "title": "NFL Week 14 Game Picks: Chargers or Eagles? - chargers.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMTVldGh5ald6MnpRcW4yUXY3TGxCWWNMU3dVS1NtazVxREN6UW5LbnpJQ2ZGZzJVWDlmdGJfR0RwdnZjd2dzaGdzT0t1MkhDN0dYemZjMVBPbkJQbzIwXzM1TWtYZmtUVmpMa2I5Q0VsdDJJWXl3X3V5RkVQYUU?oc=5",
       "source": "Google News — Eagles",
       "published": 1764879836
@@ -433,12 +433,6 @@
       "published": 1764784441
     },
     {
-      "title": "Darius Slay released; would an Eagles reunion make sense? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdjQ0VEc5ZTA5c0xnTlhqejd1QzlGN3UwZHA5RktBOEhZdDJkM3BkU1EtWFdqaVdMYy1vZXNPby1xdXRwQWdvandlUlFzaERLUXRyQkNvLXhITDJyWXhEWlpMYzBkd1hZcWZQNDZzaEpuYTJ0T05sU2Y3a19PN0FfQTZhYlFpeGtKcl8tY3RQaUw2dEgyc19SQzc2N3JiclRkM0pCTGlmd2RZWVFqVXpuV0dydTR1cHpSN3o2S3V3Q1JPX03SAcsBQVVfeXFMTnNnMGJlSkc0czd1SDVOd1pFY20yT0lLeWQyd3ppb0VwdHBDU0tPVS0zQ2tnM2tEaTZBV1ZCQlBVZW5Rbk5neUZsLW15OU40MmhzZmtCaEEtWFd6ZmlIU0JmVG9VZWprZkJQSnhVdHVScWRyZ19qcVZIYURXcjQ4cGRiR3VrZHFhQ1R3ZHlBQjMtOFhMV21tRGc1Y3VPal9RbGd1SDNMc0xYQnlCZUVpeTR2Z245Y09vYnVvcUVuVXloczdqM1BDVm10Vlk?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764710867
-    },
-    {
       "title": "USA Rugby names Jack Hanratty as Head Coach of Women’s Eagles - Eagles Rugby",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXzNaZXVZNXdyZjFQNUNZTVNhWVppekU3ZFUwNUtJUzFmWnJTa1hzX2NBbDh1cmxMTHpOU2N2Q25wQ3F0ckFzWDBnMU1TZzcwRG0xOEwzSjFINTYxYllCa3B6VndEUVBlcm84ZkF1V21aX0dZQ2FCQ0JGRDZodHFBODNYVU9kVTU3LU5hMFdBTEFpNUNFZUxCczBB?oc=5",
       "source": "Google News — Eagles",
@@ -461,6 +455,12 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEZybEExVXZNbkRIU2JtQnBXellxZjZ5SmRXREFnaUtKMTF3TkxfZkw2b1BoTHdHME50aWs0WlJaWTJVVlFuVHhBd1lfdEhsY3ZKRjhSdUhYOHlzeGxXcUlEdXhZbGxYUkpKaVhWVEtvNk52NVpNRXNsaWFxdDVuVXhLQng5dHhJZXh3SERWZlNNWDg0NU5TUHlfLXVUSkJPNFlzVllVT2lYREppVmV1dGRhMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1764576000
+    },
+    {
+      "title": "Friday Football Week 13: Bears at Eagles Live Discussion - Mile High Report",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkJ0dl9mOGFwc2VRWTZ2eEtrWS1NaDIwVk1WM2d5bldGc0xSR21VNllDdURVekpqOVBpclM0d1dQWTdyQjZJY3BjM1lMMFFrcGk1SzNJeGdubjVKdHJDNTByNEtGUEQySUF5dEFUSmVwR0VXeEc2YzVLRU1LVmc3ZGNDTlRrdTdoRW5Kd0M0RUxkZFBrVGMtcUNvcw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764359400
     },
     {
       "title": "Malcolm Jenkins: 'Finding my way home' - Philadelphia Eagles",
