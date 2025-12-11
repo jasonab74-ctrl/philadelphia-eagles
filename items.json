@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-11T19:22:31.803362+00:00",
+  "updated_at": "2025-12-11T19:41:38.456167+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Eagles News: Jeffrey Lurie: “Our offense will get it going. I’m not worried at all.”",
-      "link": "https://www.bleedinggreennation.com/news/166003/eagles-news-jeffrey-lurie-our-offense-will-get-it-going-im-not-worried-at-all",
-      "source": "Bleeding Green Nation",
-      "published": 1765480735
-    },
     {
       "title": "Eagles-Chargers Film Review: This defense deserved better",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/165978/eagles-chargers-film-review-this-defense-deserved-better",
@@ -25,10 +19,16 @@
       "published": 1765477739
     },
     {
-      "title": "Will the Eagles face a former QB this Sunday? | Raiders vs. Eagles Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV21fY0ZMQVJpc2ZvLUVCbFFtUnRkLThBaktjWFVmWk5PaUFvd3E4STlkQTAxdWk0d2pQMVNxZVhnWjdPSk1CM0lnT29BRkt4YjRRakNlZlVDQklCakJpTEhKb2lFdnZVVXBDRjlUOU5XUlJpVU93UTNSMTVmNkVlR2dzV1lMTWZHM3lqZWRtODZmTGs0X05KN1NZSGo0cndGZFJudk54NnRnYkFnUklVMFk0Wi1RNFRCdzZkd1ZqZ3A?oc=5",
+      "title": "What still bothers Jalen Hurts about OT loss to Chargers - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0VmUGNlSjd0WEhWRkkxSXRMQmMxcjg4am1kWTh1S2xHYnFLSTE1WlA2aE1uZEwyd2Y3TG5DMi01YW43dVZIeEJSandqWXVIeTg5ZVhiYThXT1RkUW9UOGtjdmRhNWhZUXNjWVozQzhfMERLSDROUmdCWVFjbnRPcFYwMDl4eWZST0RiLXlMVnY1NGQ3WWlZajBXckFFTlZjQTA1MU1NalZRSEo1dXRSQkdtMFd5eklvQkZDRUlQRVFINGI50gHMAUFVX3lxTE5nZ2hrcGpuTFhDRWd5bldPYU1sRzY2NVhMckJxS1hwdWRxREU0RnRUazFac2JrejBBUDRPUmlwcXdfd0duOEE0bTdZUE1jaWJpOXRjeEN1WGdYLVQ2SWVOczJKMDRDUWFuUkY5SGlMR25TakMtQlNaYnhFX09ob0xUNlNVb2dURkJ0dEc5Y21VYkNlbDRmTVpHeG9CZFpFN3JiMW1JMHAxeHZ4UnpYU3hGbXZRNkNxYUU3RjMxQy01NFdUTkh3SXhXSzBETg?oc=5",
       "source": "Google News — Eagles",
-      "published": 1765415250
+      "published": 1765454400
+    },
+    {
+      "title": "Eagles Reportedly Removed 'Positivity Rabbit' from Locker Room After MNF Loss - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWFUbGhZX085YWszZHZZeFVyV0w3eWdvQTd1VERqb2psM2FQZUhMVkV5VjRGY1pHY1pZb1drMFVQOF9jV1F4dUxkdTFnbjk1S3U2WUROVFVVWGViUFZrUV9xaUdFTTFHaGJPV29zdFBHVnN5R1hJMldYOHhjZW42UWJ1VmpUbXN0R2Y4NTVaTzBqODNDOTBGTW95VzJCRFlua2hqald3azlEQ0o0a2ZqcnFzNWc4Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765409175
     },
     {
       "title": "Raiders vs. Eagles: How to watch, stream, and listen to Sunday's game - Philadelphia Eagles",
@@ -97,10 +97,10 @@
       "published": 1765315849
     },
     {
-      "title": "Playoff picture: Eagles have almost no chance at NFC No. 1 seed - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDRQNlJSdWphVW4wclEzV1BVLWR0czJzcVJBZjN6QkJlbmpnTTl0N215SWcwT3ZvVGJJeGh3eEhUdFY5QkZBYnhrcXNwWWpBdVRzSnUzSEhOQ2FOTXVpdFdRRDBHWThaMVE0RjUwNXEzRjV1TmNJcjJzRWlYeUNwc0pLM1hwRG85SURZT0E3bE1rY1J4MFV5QXBNQ3lYZUpwbDJyNkJBanlmYWR6M1hoal9fNkdtTTdrd3fSAc4BQVVfeXFMT2JRMkxtWkQ3eWp0YlZTbDlnWV9PNko5Y0lJMGR0U0p1N2huQWRaX09BQkpXQW9xU3lqbURGOHhHd1RYeUdWTTk1QWo3aUo3Nkljc2NMSE1laDJkYWhXSlQtZll0ZllfRlBwTlNudE5ETFBTRHByZ3JxbkZ1UkpqNHY1bW1UalBnTVpmb3U3NEFlUE5QSVdjbXlmNnBNZEg3X2JmMUUwaE9TOUhhX2dMN01mcVhBQ0JrVDhzcjlnUHJ2cjlOYUkwN0t5aWhrclE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765300800
+      "title": "Eagles News: Philadelphia’s worst offensive stretch in 13 years",
+      "link": "https://www.bleedinggreennation.com/news/165869/eagles-news-philadelphias-worst-offensive-stretch-in-13-years",
+      "source": "Bleeding Green Nation",
+      "published": 1765308649
     },
     {
       "title": "There are no fixes coming for the 2025 Eagles offense - Bleeding Green Nation",
@@ -113,6 +113,12 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHpqZWJtangzaHJ3OHVRaXI3cUpIbWRMa2NpLVVxcFR5Tmh1UEpUdUpLOXJZalVVTzV2VndHMXJQX1V0VnBwZy1FRDB4aE42cVJZXzQ0S3dJYUlWMTdWb2pwbWI5Y2dnS3ZEOW9aZ3Zqa1dJWW5jcU9DbVM2cDBzZTdnODZ3dkRHTEE?oc=5",
       "source": "Google News — Eagles",
       "published": 1765288709
+    },
+    {
+      "title": "'It's mind-blowing': Eagles fans react to 3rd straight loss after Chargers overtime game - FOX 29 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZE5vdjNNaHdGdU5fdEM5ZU03b3llT0JSakkxLXBsXzBJNS1ySjZsV05hNjN5VEtrbF9kR1l0S1I4VVJJeGx3Zzl4bDJaNThpYWttaGFPelE3cC1oMTcxVllaODhrUzBQUm9HUlBZQ1NGNzlia2d3ci1HT2RSREgwSW93dk5hLUxjanlSeE5fZ2lzdkJiRC1GUHY1Ym5mbU1FeEZNM0QtZTdRVnJF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765283178
     },
     {
       "title": "Eagles grades by position after crushing OT loss to Chargers - NBC Sports Philadelphia",
@@ -137,6 +143,12 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWVRRXdkN2Fvbm5QT3FETnJ2RkdiVTlublQ5b1dJbHRXME00LWpvQmxqV2hYRkdTbDBEcmxLZVpzR2VvM1ZrVld5Qi01YjRoTzhzNkdRSF9wcnFTWUxNV2FieHFFeFBGTmJQRVFKMnpDeURRNmJKb3FranpVbkRRTjRTMVFqSGt0TkozT2ZvZ2pjSkkyWUJZTkZBQ25ZQnNuRnM5cXhOQ0VMM1dmbVZLanZONk0ycFJsemFBWmVn0gHSAUFVX3lxTE91U213QlF3TzdMWURMamhnM0lZQVRyMFQyMm54R014MTdLOTBFcFpaSVFCVU9KWHlDWWViME5XUEVfZ0NuOENLdDBoWEJQQzJXOHpPWWlvMGhBSlA2Tl9DVlhMUmJBZGk4b050WDNhVGktVUwyLW94T3BPbHE4OUJsSVNoQzZaVFNwYjNOYjNHQVh3SUktblJiUXQwclkxSVZQWnJlZHRCUDkxNnMxSWlsSktBZzlPZWlNMG0xTFVMSmJJS2FObEhZUS00N2V3cFhydw?oc=5",
       "source": "Google News — Eagles",
       "published": 1765275000
+    },
+    {
+      "title": "Chargers defeat Eagles in mistake-laden MNF game: Winners and losers - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2p2WWJpVnFiWl91bktfRERwaUw1d1VXUk4tMTRCbmF2Z0JTaFVxTUFPNmstVGtOVnhORlUyQjNsUENMTnp1WE5CRUEzLWRGUmgxY2swUUVUbGozNlo2a2lJWEQtZDNIa2NRbTZTVnBCMU5XWGhIdU5KdF9pdS1LTFNrRGlRaXIyQno5bE1CdDJDNFJNb0NtWERBR25SeW1aTXc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765274880
     },
     {
       "title": "Eagles in danger of another late-season collapse after latest unraveling - USA Today",
@@ -181,6 +193,12 @@
       "published": 1765258860
     },
     {
+      "title": "Eagles playoff picture: Odds, remaining schedule, NFC East standings - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN2xtMnZRVEtqNGNUS2tCX05RRWRlUUluVEIta0NhSTBWU2trdTBjYXNvUk1BOHhwc1dyNWlSdElaZEJqc1d1Z3V0bUMzUlJVcHVOZEtjdUJCeWQtNlA0ZHl1TkpCQnhYOE5yNVRuNEhYMzE5NmdkX09aZndUcTIxNVQxMXRVdURHWDhzXy1GNnN2dVFqRmZxbnB5MjlGb0RVOG5ma1dVTkN1bDJDZ01yb0djN0lPZk9SbEVpQXFyS1NQZGNkVFE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765258320
+    },
+    {
       "title": "Eagles vs. Chargers Highlights Week 14 - Chargers.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZNUpZWF9pejRZNVo5a3JpNGNHMUk2akdIOVBlSjZ5V3ZyRmY2RjR0VVU1bEE3YUp5R2N4YlJsSGdCNWFJNmIxTVc2LU1Fbk9QbDYtT0Y4Y3g0VGYwMmJCRjNIZHk1R3NmNEZNN3p0Y2U1OFJVQXBz?oc=5",
       "source": "Google News — Eagles",
@@ -223,16 +241,16 @@
       "published": 1765255800
     },
     {
+      "title": "Highlight: Jalen Hurts' 19-yard strike to A.J. Brown puts Eagles in FG range - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYW1DYUdGS3kwdVZxQzc2d0FIXzlteDUxZ0RENnkzaVR0aHc3M094Q1BDT2dWVWUtay12UTgtTnVSQUZuTHhTbWQ2VDNHdG1YUVQxWGhTLWhVa0ZFWE1oMFFHTTBTOTVYVEM3c2ZPRzR5OG1nVm4tTXNrazJRYkRaMXhDNHB0M2FneDVhby1VT0pTb3JtVjV1U2IxNDdmcGJXSFZOcGM5dGNsVldXTnpCVE1jc053SkZOQnF1bFhPdkVrZkVLMVdlaE1n?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765255592
+    },
+    {
       "title": "Spadaro: 6 storylines to follow in Eagles at Chargers - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHhRbXhidnJ4MXpIUGpKc0NLWk5mdHZhbk52SlU1V3AyTUNOeVd0aTdFQW8wV21xZHJrOFduSDhjR21WTVptUHItdXRoVTZCSTJwYy1UNnBDaE9QLTdkQnVvdi0tN3p5czhIcnR6UUtpbGo1WVBXV29VSDN6Ykw3aEQyZnl0REVFY0FNR2haVzF1eUo5aU1qMk5wYWVRcjZDOGVCYndSbnF3UkdtX2NtRA?oc=5",
       "source": "Google News — Eagles",
       "published": 1765252577
-    },
-    {
-      "title": "Highlight: Nakobe Dean blitzes, forces the Justin Herbert fumble - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzQyR3QxNFNlWk5jaHdIOTc0aDAwYUw0NEppSmdSY1llRE45ajRqUWtSMVI0eF9oSW1rQUg1cFJ5U0hhbFRjbXhmdlg3S3ZPUlJrX0sta2FBUy1oYzhvU0pNYUlLM0Fsb1NBSWh3Y09mMTNnaDU1OU44dWNCWF9SdGxiM3QzdWFMV0c5dXZFNjYwTWctTFpyU01nZi1KN1c5ZkZWRXNQS3FsazFPRHBnbXZPbjVpN1hvUkEw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765247795
     },
     {
       "title": "Eagles at Chargers Inactives | Monday Night Football - Philadelphia Eagles",
@@ -271,16 +289,10 @@
       "published": 1765216458
     },
     {
-      "title": "What channel is Chargers vs Eagles game on Monday Night Football tonight? Time, how to stream live - IndyStar",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdS1MSVdlYlVIblJ1SUltM2R2ZU1RV21nYkVSOTVSZEZJQ1E4R2Z0X0tBVDBsRGN1V3I4bk5uc2pfZWJuN0JwbE8yelRTZUwxZ1ZRVjJ4TmZuUXNNZzZSUk5VMFNoUW5RWDA2b19QcndfM2JkYjVnTWtCUjdRMk50elExTUdIX2xHd0FsRkdlZ0FadFpzdmxwUzNJX3B5RHNlek1kMHp0UEkyMm5vY21nSnFvcEVzTzBzTUcwVTdOVzlMOUFPMkRkY3E3X2s1bDlic05zd2lhNENYU2ZSSDdpOHN3U0Y2WGc1YVFWYlZ0TFFyNkxzclNJ?oc=5",
+      "title": "Betting Eagles-Chargers: Picks, props and DFS plays for 'Monday Night Football' - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOTNVOFk4R1g4NmRSbkt3THVYdDhfT0FuNkFfUHlDbm1rZWVVSjN5X05yRnRBVFNLUmNmWEJSNFJRbUNIck5CbU5jMXVhYTR5RFJwMk1sUUVzTElmOUU0ZzRDSTY0MVpGZHJQTDJNU0ZTaGFReUFtaDNhWS1iNzJoQ1RNcVRzc3J4Q3l0b2NHYkhxaGlONVFDMkRBN3VWNVUtMWhJaHpwLUV2UWNQUklyNDMzenJQNHdMNnRBSkFXU2dIbzgtbDN1VUNYMXVYTzg2QjVxdkR2Qi1LbTBhVXV5NWxXTVAybF80YzVkdjB4TzdqTHpNZXRJMTlkU05NOG51Wmx4c3lMMVA?oc=5",
       "source": "Google News — Eagles",
-      "published": 1765203420
-    },
-    {
-      "title": "Behind Saquon Barkley's dip in production after career year: Can the Eagles fix it? - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmd6eFVTS25CWUE4SVNVSnZnMFdPbDNOYlBJd3NULTRJakduMVE0QjBYTVlOQ2RQY1IwTzNQeTJpcE9EOEZTZGlDaXZWWEppbjdXVDJsbjV3NGpXWFVUNzI5MjJfUEkxTFhPV1JxWG5SM3RiM19RSDJiMmJ4aW9NRUV6cVF1ODJYY0ExZXRaOWNiM0pnaC10LUJNWWcyR2UzOFYzNzZqWFdieS1LSktKRw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765191600
+      "published": 1765210500
     },
     {
       "title": "5 Final Thoughts Ahead of Chargers-Eagles in Week 14 - Chargers.com",
@@ -293,12 +305,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnpUeU1IWFlPQmFtYmhaejNqUmw1SWFtb0JQRDc1T0xzQVg2WEJqQWI0X2dEbnprMDRzZTRnZ3lSYmMwV05yVmJyYUdKblRiclpHU0NFSnp4LVdPUkpsbXJzT1NUVEhVYUpZb3pIMnJodl9DLWpTUjdhUUJ0RW5Da2JDcEMyYXVTejNqUDBxWQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765180800
-    },
-    {
-      "title": "Chargers vs. Eagles Monday Night Football betting odds, picks and predictions: Best bets, player props - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUjVzMkhacXY1SkZiWTZCeGdNVWZUamZiVkMxempPYXdsUjVBVVV0M2w1WmJESzVKQTVxZTNjdGVFMjMyY3NZMURBVzAzNzJpblFKV3EwazFpVlJ5dFVSVmtoRmlQLTJUeWtvUVF3TjRNRGtRbndEWGlIZjNMY1dNUHNNa3NXRVdmZ1pweUhjRnZ3ekVqRzNsYjdHbDlVeDFXNHVaTDBsQzQ1YVdvMzdtRzUxdDZ4NmdzS0g2SXNvWXFUU1liLWRHNlRIRHByNi1UYWdHSDVrWlJYQUZ0WW8tNUlKNTZMY1VrQ0RQZEVtSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765167638
     },
     {
       "title": "Eagles waive WR Xavier Gipson, downgrade T Myles Hinton to out - Philadelphia Eagles",
@@ -329,12 +335,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3l3WTFyY1lQWjc4QzNMMFU0YTJNSEJORzlkRWxUeG9IM0JhV0R5Qk1NemRHNHlpdWdvRU1OZmNCNTlNal9jNE9qdVBXaURrVmxYeDQ1dURHMFk3ZF9VZWo2UXBId2dzMGZUbTVTamYybDRIQThoVlkxSDE0LXlYODlncTh1aTQ3bXo4SW83bGJsa191TVFN?oc=5",
       "source": "Google News — Eagles",
       "published": 1765105214
-    },
-    {
-      "title": "Chargers 22-19 Eagles (Dec 8, 2025) Final Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVUFwOFVOS1ZSZlZISGlrME1VM09HTGVsZGlYY0diREhJQTBESVQ3WFFQVlF5Z2JRam1nMFVaOVBXbUg3eHVSZl85MV9PMGFSU2c2SzZCRmxKQWEySWxwSGdsT09pdWUwZFRmR2ZqeEpDUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765094400
     },
     {
       "title": "Eagles rule out Jalen Carter, Lane Johnson for Monday Night Football | Eagles at Chargers Injury Report - Philadelphia Eagles",
@@ -391,6 +391,18 @@
       "published": 1764932943
     },
     {
+      "title": "Eagles sign Titus Leo to the practice squad - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXl0WUR1NTFsWnJ4Ry1McTVFai1YbVFFZFExcUQ2SUJvWXRnY05tQVBCOG5EZVVMOWh3NWZIc0hPZGQ2N0d4eEV6ZVFVYzFmNHlQYUJURnI0NUY0QldNMUd4b1JmNTlCYUl3NVVWUVhuZ1pZSGllQTMtRlV5N1ZwdzJsRWJ0a25qaE9ZMnFWV2pudHNNWFVjQ0dScGV2eXNiVlc0YVFFMC1VRkdoN0VJMkgyUU4?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764891778
+    },
+    {
+      "title": "Philadelphia Eagles Odds: Week 14 Spread, Futures, Props, & More - Legal Sports Report",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EVlNoamZXUmg5Q0hFNXBzd1BpajJkTkNKQTNZUmVPUHVLOWd0LXd0cmZ0aTdnZVFtRHNUeVRobFl6QkJJYzJnR01aTUp4WGQxQU40dVE1bVNjakpTbGJJ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764882205
+    },
+    {
       "title": "NFL Week 14 Game Picks: Chargers or Eagles? - Chargers.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMTVldGh5ald6MnpRcW4yUXY3TGxCWWNMU3dVS1NtazVxREN6UW5LbnpJQ2ZGZzJVWDlmdGJfR0RwdnZjd2dzaGdzT0t1MkhDN0dYemZjMVBPbkJQbzIwXzM1TWtYZmtUVmpMa2I5Q0VsdDJJWXl3X3V5RkVQYUU?oc=5",
       "source": "Google News — Eagles",
@@ -415,12 +427,6 @@
       "published": 1764858715
     },
     {
-      "title": "Slay won't report to Bills, contemplating retirement; Could Eagles swoop in? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkN6NkFxekNaVktIekhiN1N6dDB4aGNTU0ppN1hIeHhkRi1FSjhoWlRBdHlSVlB0Z2F1V1VCT011dTdraTZzMmlkTmdZMmZ0dElySldpc1did2JkN2ItTDRlSHNTV0dJNTFBM0hqN2Q3elJkTG02cFRjUW1GYU5RSGQxVDRMazJhUHBzRHI3NVhCRmdDMUktb2pQX2NETDBVRXg4bTV2aF9LcXRwcXdOUEJn0gG6AUFVX3lxTFBzWF9VX09OMEhCNUpDdUdtLTU1Z244TWMzZGVSMGM4d2FJSUJKU0drb0QwVU1lMkdEdTVIX2R0dDhpbkl1VEUxUGJaUXVoRENkWUlzWmVIdkNJcWRHdHZTOENVaUFOb1I4SjBRZUc5SEhPUVhiRVJaRmRXaHdtUVpvWHMxdWY2Skx0bnlrNWlyc1lyXzRXbEJaNVJUWHdiS0JqMFNpb3AxOWNQMnZhcDJud1Q0NmVwX2lMdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764854481
-    },
-    {
       "title": "Cry, Eagles Cry - The Swarthmore Phoenix",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JeHlTQ0d5eWxHWnZoNHQzajRvOTFLTFkwdEs1MEFkSVNwT2ticFU1QTNCQ01vTzhqZ25XNlNkeE5iZlluRmF6NUlvTEM4dElsaTJJYTREZ0dHSE9UZFlZbTd6blhUN2M?oc=5",
       "source": "Google News — Eagles",
@@ -430,7 +436,7 @@
       "title": "That Darius Slay-Eagles reunion won't be happening after all - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2NQOFhSQnB0VjNodWJEa0ZOajhvLTVHV29CVHZHcVNmZlVnTVpBTDUyQzNpT19haktwUTBoZHBfMXZya3lqakNzcWNzMUdJOEVhWlhKT0xuTFY2X2RIUXZTZHFubDRKMnpiQS16TmFFZFhWYVdmR3ltTFAxSnoxQXI3UUQyd2tRWGhfNnZIR2ZRX2QzWmpDN1pUQ05uQUpIZlNHYWpPc2RXWnpJcGRDaEhSTzgySFpWSWNSejQ1STJkQnZWT3FSTUMtd1Y0MjM5QU40edIB3AFBVV95cUxQZFB1ZW9IeUUxQTZlSkMyX2hiTXROSGdRb2cyQmtBTGYzRWs3Wkl3bTMzZmVjWVU5LXJxSGxnZGg0ZVV5LUtoV3VFb3ljN2xmazRfTWZfYTdDM2R2Yml2a2dkNHphR0pzUXFKRVQ3cTFfN3BrN2t0d1BiSnZ6RnFkUkp4MHROa1lybnljSlJsSFNSMVl5VVJZLTJNZWlIWDlvVWxIM1RBYUJOMHZXZTMzOHZwQ1d3dUpKNHFFdmRvRjlfNWFlZXl4QS1kWkRJYnR5OV83d253WW4wN1ZB?oc=5",
       "source": "Google News — Eagles",
-      "published": 1764800205
+      "published": 1764796224
     },
     {
       "title": "Eagles OC Kevin Patullo says 'line was crossed' after home vandalized following loss - NFL.com",
@@ -475,14 +481,14 @@
       "published": 1764316800
     },
     {
-      "title": "Bears beat Eagles in Philly as boos rain down on Lincoln Financial - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHJoX1ZTQTUzc1FUdk1nYlJYNTBONFBnVHZHRmM5bUY3b2w2Y3l5YWd4cmJaS3BlZTF6Y1NoVkk0UmxuSTlqUHVIWE4tNi1UVlh4MFZWX3VSRGoyNEg2dkhDTTZaN3hvT2V0aTBWeHl1ejdocHZyXzBPRHpvaEpoYmtDRnp1YlFfdVM1SHN5UGVlcHJfSkttZg?oc=5",
+      "title": "Eagles to 'evaluate everything' after home loss - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW1xeDM4NUstd3NjNndDNVZOWlJzaFNWYi1USklUeWlxRXJuT0JYRmxSbldEWmF1TnVWc0pUV0REYW8xdGlxODlxY2MzM1FhQ0hjRkYwQjZWemZkS2N4Uy10NXFqSDRVb2FZT2hBRjAzaDBZRGY4Y2hnNjc0eVU0ZmNkYUF4OURhZFItc19DYi10QWY3ZEVQdA?oc=5",
       "source": "Google News — Eagles",
       "published": 1764316800
     },
     {
-      "title": "Eagles to 'evaluate everything' after home loss - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW1xeDM4NUstd3NjNndDNVZOWlJzaFNWYi1USklUeWlxRXJuT0JYRmxSbldEWmF1TnVWc0pUV0REYW8xdGlxODlxY2MzM1FhQ0hjRkYwQjZWemZkS2N4Uy10NXFqSDRVb2FZT2hBRjAzaDBZRGY4Y2hnNjc0eVU0ZmNkYUF4OURhZFItc19DYi10QWY3ZEVQdA?oc=5",
+      "title": "Bears beat Eagles in Philly as boos rain down on Lincoln Financial - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHJoX1ZTQTUzc1FUdk1nYlJYNTBONFBnVHZHRmM5bUY3b2w2Y3l5YWd4cmJaS3BlZTF6Y1NoVkk0UmxuSTlqUHVIWE4tNi1UVlh4MFZWX3VSRGoyNEg2dkhDTTZaN3hvT2V0aTBWeHl1ejdocHZyXzBPRHpvaEpoYmtDRnp1YlFfdVM1SHN5UGVlcHJfSkttZg?oc=5",
       "source": "Google News — Eagles",
       "published": 1764316800
     },
