@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-12T22:22:48.336694+00:00",
+  "updated_at": "2025-12-12T22:44:08.372262+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Raiders Final Injury Report: Fred Johnson will play",
+      "link": "https://www.bleedinggreennation.com/news/166098/eagles-raiders-final-injury-report-fred-johnson-will-play",
+      "source": "Bleeding Green Nation",
+      "published": 1765578132
+    },
     {
       "title": "Eagles Opponent Film Room: Scouting the Las Vegas Raiders’ offense",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166062/eagles-opponent-film-room-scouting-the-las-vegas-raiders-offense",
@@ -95,12 +101,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVFnYWZJMGlpWG43RkUyRzZDLTVqaE9ReTFodTA1a2VaYy1Hd0UwNjZBUUZfSElhVG1TT2RzSVA1VGFrMzN6d0tVdDFvNzBXWEFTSVFaRGtEZDBIMUQ4TS1iRmFJZzZGRkdNQkFXQ2JPZW11S3AxVzhHMHJUWVg2eVpsTjJ4LTNfT1ZwYnpUbUwyaVFYYXhCTzlVVDh6d2xUN3c1X05DMV9kTHNFZUNvMEtkMy1zY2lyQjBhT0haYXBkQ3gwUDgxQXdDQdIB0wFBVV95cUxNZk05QVJTNi1TUzczTzBncUtGTVpkWG1PN2QyVC14N1kwalNsSmZfMDNZd1hQVzhVYUVPTTJnMTYtbzRVUlQwRmRBRHIzUkxLWWYxbEJFMnctd2p2UWxrTFN5SWJkNnF4dWFMY1lfUnNQMzJvT1BXc09RYURpVm16bmpxLVBQYVJNV0E5Q2hkOGsxX1lIc1lHVW9YY1hzQUNjY25aNG5xZUt3WUhBUnhCNC11WHNzYjNhX2d5Wml2MzNpdWMxbE1VQVZzdmR1SDJOd3VN?oc=5",
       "source": "Google News — Eagles",
       "published": 1765487400
-    },
-    {
-      "title": "Eagles open practice window for Cameron Williams",
-      "link": "https://www.bleedinggreennation.com/news/166034/eagles-open-practice-window-for-cameron-williams",
-      "source": "Bleeding Green Nation",
-      "published": 1765486416
     },
     {
       "title": "Eagles News: Jeffrey Lurie: “Our offense will get it going. I’m not worried at all.” - Bleeding Green Nation",
@@ -277,12 +277,6 @@
       "published": 1765257567
     },
     {
-      "title": "Eagles fall to Chargers in OT stunner - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWw0azdSMnJWRGMwOGtlR1hOMWFETXdzdHF6M3hYOWxxX21zcmF1dmpmMFNpTlI0U3lsUGxkM29rMHFHdlRyM1cyNXZ3QjIxQ1hjQTBVbUdyYnlLbXBabkE1ejducWdUVm81SmtaU1phcHhDNTlQZko2LTR4V2hZZEJpOUU3M1ZSVEZLVDZ30gGTAUFVX3lxTE9HdXp5dTRtbTctM09jUFRfT0pxNVFMTXY2ODJZQkVyTUNjb0U2OXR3S0JTbmw2dHE1UjV0eW5ZYWtKbjFFY3Q5QkZHZFJjVDdmUDBibGplMUdEQVpnUWI4ZzExenNzc3IycUlWa3N5Y0t6cFQzbDRGNm05T2dnTktBalJtbm92YXYxcm54RTBuc2JNdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765257400
-    },
-    {
       "title": "Eagles vs Chargers highlights as Jalen Hurts throws 4 INTs in OT loss - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOby1uZVNyN1hRV2hNclN3UHdMSnpBcTlKMU8zdUxpNV9fUE9qLTRleTNEdmRBeDRmWXdKbS15WGc1WnJRTkQ5c0ZRT2o2Y2VubzdxQTlLOVRQVUFQSF8zNTVEY2FqQjNpUG1oM2p0RUREVXN4ck0zUWtnUDZyM29BbUVNcXV6TVJLSUxQNmo3dzExM0hiSFQ5VXN0UUlOVk56QW1XTHJlQTZ1N3VhbThfaHFnNA?oc=5",
       "source": "Google News — Eagles",
@@ -307,16 +301,16 @@
       "published": 1765255800
     },
     {
-      "title": "Highlight: Jalen Hurts' 19-yard strike to A.J. Brown puts Eagles in FG range - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYW1DYUdGS3kwdVZxQzc2d0FIXzlteDUxZ0RENnkzaVR0aHc3M094Q1BDT2dWVWUtay12UTgtTnVSQUZuTHhTbWQ2VDNHdG1YUVQxWGhTLWhVa0ZFWE1oMFFHTTBTOTVYVEM3c2ZPRzR5OG1nVm4tTXNrazJRYkRaMXhDNHB0M2FneDVhby1VT0pTb3JtVjV1U2IxNDdmcGJXSFZOcGM5dGNsVldXTnpCVE1jc053SkZOQnF1bFhPdkVrZkVLMVdlaE1n?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765255592
-    },
-    {
       "title": "Eagles at Chargers Inactives | Monday Night Football - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdFBJam1QbzN0WnZ5X0tuSHRNTkJCRXAwenNhbllhRG9TMjdMR3ljNUw3bUlHbFFqUnhjQy1vcjRXcEV2SEhRTHlJT1VrMm1PRDlNaXNCaGpRcEdmWEVjdTdjTW5fRlJ2ZGVIS1BMQXNZX0VDX0c2dTF5RjBRNjBzblN3VTFNc3hjV2l2Xzh3ZVUxV1lUOEhtakRKWDB2M081NDFnWWR1M1poT1NfV0hPZHR2TE1sRHNiMFloNGdEcndTdXJSOVRGUFJmOWI?oc=5",
       "source": "Google News — Eagles",
       "published": 1765245150
+    },
+    {
+      "title": "Highlight: Mike Wazowski moves chains for Eagles on 9-yard reception - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZy1UdzVDNkZyRjV1RkNZdm10Z0tNNEd4WDZnYXphelBGSlBvYmlfdUNteU9jT2FWN3J4QmVxUU9WT0tyZE8yUTFxQVVkUnBHY0F4U1gwVk5xU1l4RXZ1d0xabk4yWnRRQVdSdDl3Z1Jqdl9NWHhsMmQ0UDNtVEpENG1sbmtLS3kwU1FnS0pPSVNFR0N4VmZJOTNRLURjZWNEa2hLa2dCbmxFMXJSRUpNcWtFckd5R1FaQ19XQVRKRmpvdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765244795
     },
     {
       "title": "Chargers 22-19 Eagles (Dec 8, 2025) Box Score - ESPN",
@@ -347,6 +341,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclp2YmFzODd2TDVJVE5rXzB1MFI1enhCYklJdmhaRDZrMU9icjNaQzhIN094eFdKZS04LWpGS05YRF95RG1HUURxLXFMVkZZbXdyQXlMMjFyZkV3YTk5RTItRXlrQ3NNS3NFaGwzaEp4ejkyR3RKUW9sR2MtNXpTV1Q3SUpPQVpZNEkzclY2emZCYldEWE4zaDBkbERZdVA3S1NORUlpMDNCNWhYWkE4QXV3akFnV0Zy?oc=5",
       "source": "Google News — Eagles",
       "published": 1765216458
+    },
+    {
+      "title": "For Jalen Hurts, tonight is about 'finding a way to win' | Dave Spadaro - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTUpCYUs1YXk2ODdJb0FWc3FhWHdpakZIcFpWaHhvcl9KNXRjNzR6N2RJYzVtRnFtVnVqU24wNElsMnVpNVNHazdleGNnTDRsZ2JrUW5DRlhBSHBGcndZM281RklvV2FTN0pTbVl5OGV6ejZLRmgzQndyb1lkc0hSZF9XVTE1bXBfQlJaMnFxZm1ZRHBpNkx5MVJIZGtvUTBOeDN4SEd0V3E1MThickE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765206793
     },
     {
       "title": "What channel is Chargers vs Eagles game on Monday Night Football tonight? Time, how to stream live - IndyStar",
@@ -421,12 +421,6 @@
       "published": 1765038199
     },
     {
-      "title": "Jihaad Campbell is keeping a positive outlook despite lack of snaps | Eagles at Chargers Daily Updates - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJjYmN4ckNncVVxWEhKdWxrNGxoRjM2aV9VSnhCcFBjU1g5dFVuTVdyXzJ4bzRjWV9UOU1sNTlUMnBXSERKUHlaS3pMS0JWd3pydFBxeE5vT05rbk90eVZ2SExQQ2NDZXVzWFpoR0luWHptVm1qejFCY0JPNnlRWFRlYm1jNHhxTTI5Q3ZTUmhMSXJNZEJzN3I3MTVwWXhrT3F0MkRNNHgzbTRJUHBjdllYdlc5OWhWV2lZVFJB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765018350
-    },
-    {
       "title": "How to watch Eagles-Chargers Monsters Funday Football on ESPN - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMkR2WmdieHhRdUx6b0xibGp3Wk83c0ZhMkFtdHItMm1KRlZGd0hyc1NGYlc4eF9JQWI4THRySmZBT3I4c0xnTTFXazRuZkxwRmxhaVFmb0RjMVlsUi1WZ2UwX1h5OXRNelhsYVdWMlIxUElsSTVzWXN2M3dVVklyLWJDeEdKcjBUWDZTYWpSVFoxWnZ3WGR4SFQ5UkFjUFRleUE?oc=5",
       "source": "Google News — Eagles",
@@ -445,12 +439,6 @@
       "published": 1764932943
     },
     {
-      "title": "NFL Week 14 Game Picks: Chargers or Eagles? - Chargers.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMTVldGh5ald6MnpRcW4yUXY3TGxCWWNMU3dVS1NtazVxREN6UW5LbnpJQ2ZGZzJVWDlmdGJfR0RwdnZjd2dzaGdzT0t1MkhDN0dYemZjMVBPbkJQbzIwXzM1TWtYZmtUVmpMa2I5Q0VsdDJJWXl3X3V5RkVQYUU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1764835200
-    },
-    {
       "title": "Jordan Mailata named the Eagles’ Walter Payton Man of the Year - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzhmSWRMb2pSSkZLTjVTdEFlTzFqc0xuZ3ZqUG9mX2x2bDkyTHVtWGhfQ1VQb1hHR3JqNXZzSlNXR2hnYXRzeFpTeHdXVjQxOVZEbGVqX09JaXRWYm1ZSFlYQUgxNlVuaGRIcjg4OUxPS0t1dGNzUEtsQTJzRU1aZlRhODd2Ui1ZcDRYNGNWMDBwQ2dVN29aNElWYw?oc=5",
       "source": "Google News — Eagles",
@@ -459,6 +447,12 @@
     {
       "title": "Eagles sign Titus Leo to the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXl0WUR1NTFsWnJ4Ry1McTVFai1YbVFFZFExcUQ2SUJvWXRnY05tQVBCOG5EZVVMOWh3NWZIc0hPZGQ2N0d4eEV6ZVFVYzFmNHlQYUJURnI0NUY0QldNMUd4b1JmNTlCYUl3NVVWUVhuZ1pZSGllQTMtRlV5N1ZwdzJsRWJ0a25qaE9ZMnFWV2pudHNNWFVjQ0dScGV2eXNiVlc0YVFFMC1VRkdoN0VJMkgyUU4?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764835200
+    },
+    {
+      "title": "NFL Week 14 Game Picks: Chargers or Eagles? - Chargers.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMTVldGh5ald6MnpRcW4yUXY3TGxCWWNMU3dVS1NtazVxREN6UW5LbnpJQ2ZGZzJVWDlmdGJfR0RwdnZjd2dzaGdzT0t1MkhDN0dYemZjMVBPbkJQbzIwXzM1TWtYZmtUVmpMa2I5Q0VsdDJJWXl3X3V5RkVQYUU?oc=5",
       "source": "Google News — Eagles",
       "published": 1764835200
     },
