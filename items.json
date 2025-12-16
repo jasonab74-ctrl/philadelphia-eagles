@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-16T13:40:39.385211+00:00",
+  "updated_at": "2025-12-16T14:28:02.196190+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Has the offense found their footing?",
+      "link": "https://www.bleedinggreennation.com/news/166412/eagles-news-has-the-offense-found-their-footing",
+      "source": "Bleeding Green Nation",
+      "published": 1765892771
+    },
     {
       "title": "Jalen Hurts lauded the Eagles’ defense, Brandon Graham’s big game against Raiders",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/166247/jalen-hurts-comments-eagles-defense-brandon-grahams-big-game-against-raiders-reaction-nfl-news",
@@ -77,12 +83,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/166347/nfl-week-16-odds-eagles-open-as-road-favorites-against-commanders",
       "source": "Bleeding Green Nation",
       "published": 1765781803
-    },
-    {
-      "title": "NFL Playoff Picture: How the Eagles can officially clinch the NFC East in Week 16",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/166333/nfl-playoff-picture-how-the-eagles-can-officially-clinch-the-nfc-east-in-week-16",
-      "source": "Bleeding Green Nation",
-      "published": 1765777572
     },
     {
       "title": "When can Eagles clinch NFC East, NFL playoff spot after Raiders win? - The News Journal",
@@ -157,12 +157,6 @@
       "published": 1765748808
     },
     {
-      "title": "Full Game Highlights: Raiders vs. Eagles - Week 15 - Raiders.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTJUSHdzNm9XcC1nWWk2eUpmUEtXMkZFb1ZzVmd1Y05ad1RJU2JOcTJVWlZzWW9rRVhJMjZRQkpRUUJqTl9TUC13SnYyd2ZwczN4MUxRZmV4VmVwbk9hZzVjMWpzeDB4eEhKWk41Q2lZYXFua2NIVEo5VzNTWDJhWFVQU19yMUU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765748192
-    },
-    {
       "title": "Game Recap: Eagles 31, Raiders 0 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU5oNHNhdVpsV0J6bUZnOWljcHYwWnNLZlJNQWV0VGRHbS1IQWs2SllmYWtCSWtiWmRDWGtZX0VFZHo2X3A1dmFlZ2EwOUhWcnNNVGlrc21XNkV6SUtZd3ZoSGNXZGRHRHM2R2NGLXpRdEdBN2V5VzNtNFpTZFRzTVhBbUoxLTdxNVlpR0JMTnJ2U2hO?oc=5",
       "source": "Google News — Eagles",
@@ -197,6 +191,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVJuZTE5aERVQWsxMXJIRHZmZlhNNV9INk5XY2NubjBQWE9TemY4YU42cmgyLXFWZ0xjeFdlTkJtVTVjcG5xQ24wZTNLcWdYR1RXQno2ZkJNT2I3VmRpM085bTE5ZEltR0RhbjlXenZhaEF6NTlETkhNMzBEUk9sVlg3UEoxUGNFckFERFJicjhUaktjWElrVmJaOWltWFRmS2xhV0lLd0o1SGhCOERUdWV0OTc3dHNId21SWmlvTnpiUTZHMzVCdWdiclhhMEVw?oc=5",
       "source": "Google News — Eagles",
       "published": 1765727857
+    },
+    {
+      "title": "No big surprises on Eagles' inactive list vs. Raiders - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSklLRjZHalFONklIWEtKMkxpYUx4cm9XSVNIeGNxa1hxeEg3clVaRlFNeHYyOFkxWnZRaTFTQUR1VnBmdzZKdnN2YUg0aWVqNHdQV2Jjc3VKOWxuY1NFZXJxdTQ2NndjSnRMQ1JZajhkTFJoUm82a1ZVbWxpQnN4am9ZMkF2bXBheUpYLW0zWlJOTVNlLVd0S3dtR3RCd0hvVmc1eVNhaGJWanJKUEVuYkRqY2txZUdUYWNtRkVnX05NLVA4aEHSAc4BQVVfeXFMTTVFb09XSnYwdUZuckZZZVM0d2M4V01FcGxBWGY0WnQ5N2Z0VXNjZmdLNnY3YnpDa1hCY1ZmeUFJdmVVMTVfVnlDZWI4NlZ1eDQ3WV9pQWNCN0FpY0tGNDFsVGc4TU4yRDJURTZzaU8tX3dzclltVzVJb013OUFCM24zdWU2Z0hIZEhOMWZsUjRoWU5XcnJ0XzNacTJZbk1hQW12ejluZXlibDhrMjBGYl9SVE9LdUNKclJVQUUtd2RTSDc3SFZ1eThTX1d3RkE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765712877
     },
     {
       "title": "Raiders vs. Eagles: How to watch, stream, and listen to Sunday's game - Philadelphia Eagles",
@@ -263,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkNSbV9SVTNlNzZQVmdINzdkdWpXdm1xX3A0S1ZFMHpZUzRuRzZlR0RJZFQtNW84VlBOckxEazg2SFdzR2NiWnBUblpDRHQyZ0JmYVY3YkdLUHNQd2NnbXlfLW9DUWJGbklOR0RCUXhxNmlNbk1YdFNRaWlkWHhpU05wUE5xMUdDYUswblNtSTVBdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1765485935
-    },
-    {
-      "title": "Eagles News: Jeffrey Lurie: “Our offense will get it going. I’m not worried at all.” - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNV9SZG1KRU9LZHBLSXB5cEdadm5IaEY1aUl6OHAwT0o3YlZ2YS1kS25zcTUxb1lDUENFOVFZTFZVRE0tSmQ5VGFBNjR4eHRoSkxZbmtBZWpTS3ZPenJyNnpyQWNpUEdRRGROdVhfNTQwaWVTTlc5TV9jSUkwSExvcUxfUk9IQXU3WmI5SEllNGF0MzNoZzZQVGVWQzdVRWVsaWxrcjJyQW91M0djYndvM0pMcmo4NjREellYWWhjZHVrWkU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765480735
     },
     {
       "title": "What still bothers Jalen Hurts about OT loss to Chargers - NBC Sports Philadelphia",
