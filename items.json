@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-17T19:21:48.464962+00:00",
+  "updated_at": "2025-12-17T19:41:01.018971+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Raiders Film Review: This was a complete defensive demolition",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166474/eagles-raiders-film-review-this-was-a-complete-defensive-demolition",
+      "source": "Bleeding Green Nation",
+      "published": 1765996603
+    },
     {
       "title": "Eagles News: Vic Fangio appreciation",
       "link": "https://www.bleedinggreennation.com/news/166487/eagles-news-vic-fangio-appreciation",
@@ -61,12 +67,6 @@
       "published": 1765841701
     },
     {
-      "title": "Golden Eagles Face No. 1/1 UConn Wednesday Night - Marquette University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmNzR01IVGdPWGpRZEU5NVhSSXdTMUVFY09fYjRWOF9leW1xZVBtWURmMS1VbFFOQUI1eGNWWVNKUklndVNUN0dSNmcxb0Jfb2g2dDlFNW5hUHJZZjEzcmo1ckxrS0lpdkJHajFxZm1JR05LTnpXSFAyMFBURmhmLWhCNkZPUjZCeWlPUmQxT1MtMVZLaGZxdmMwUnc5LXM4Y3FCQ3VpNm0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765836450
-    },
-    {
       "title": "Jalen Hurts: 'Joy comes from winning' | Eagles at Commanders Daily Updates - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLThmNWtWdi1ndjg5QTBabDVuQm4wVjIxWUh5aGhZY1lfa0NmX1lMUGxGRHlxZ1dZX0hPZjRkNVVLcVpaM1d4R2Uzd1BjMXJ1d1JSZ0hIbmlHQW16b0dJUXotaVJ3cnlISmRrRksySWlKSTdMVWdKNWhVOFNjZi1sdkRrWWtjWk1icVBBQWV0RmZpTGNlRW5pUVVkaUg2Zw?oc=5",
       "source": "Google News — Eagles",
@@ -77,12 +77,6 @@
       "link": "https://www.bleedinggreennation.com/news/166397/eagles-wont-face-jayden-daniels-this-season-marcus-mariota-to-start-against-philly",
       "source": "Bleeding Green Nation",
       "published": 1765832575
-    },
-    {
-      "title": "Eagles’ win over the Raiders proves it isn’t 2023",
-      "link": "https://www.bleedinggreennation.com/news/166368/eagles-win-over-the-raiders-proves-it-isnt-2023",
-      "source": "Bleeding Green Nation",
-      "published": 1765827480
     },
     {
       "title": "Why Eagles defense wasn't satisfied with just a shutout - NBC Sports Philadelphia",
@@ -151,12 +145,6 @@
       "published": 1765750261
     },
     {
-      "title": "Las Vegas Raiders vs. Philadelphia Eagles: Listen to the Live Radio Broadcast – NFL Week 15 - SiriusXM",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rUlI5RDJUX2dLcDZIbUxuaU5MM0ZzNnQzdVpIdWJGaG95SjhEWE9JQWdscHpnS1djV2N6U1hxWnVCQWthSkFRYldZTnhCMzZTRGZzdG9zdWY2MjNvdkh0TUV6dw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765750148
-    },
-    {
       "title": "Spadaro: 10 takeaways from a dominant win over the Raiders - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnhqd282S0Q4WVJNUUdzV2FLQ3puSTZGUnFONU9VdGNKMklDSXctQXdLWDRkYTJiWERIV1hERmdpcHZHVzZ0TmU3VkZyQW9acHVKZ2h0MlNKRW9seTdueVhlRWliR0JLMGo1NVdNeHZOU2dvZE41bkZaRVkza3V4WUVkTVc1QlF4NDIybjBQWUwxci1XdDV3MGs3YUMzTFAzeHhZWGUyQjBEdm1xSGZXb1pnS28?oc=5",
       "source": "Google News — Eagles",
@@ -167,6 +155,12 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RTFEtTEtReC0ycWFocU1KMTZlZC1VNXpvYnBIbUE3VHdJaGQydEFCUFQ3RFRIZ2FTQktjWDJkYjhQY3BrazVjR0xwTDA1TnA5ZXVVUGdKMTlQR2dCcER5UGtncDhQZF9xd1BBQ243bFpwVUlf?oc=5",
       "source": "Google News — Eagles",
       "published": 1765748808
+    },
+    {
+      "title": "Full Game Highlights: Raiders vs. Eagles - Week 15 - Raiders.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTJUSHdzNm9XcC1nWWk2eUpmUEtXMkZFb1ZzVmd1Y05ad1RJU2JOcTJVWlZzWW9rRVhJMjZRQkpRUUJqTl9TUC13SnYyd2ZwczN4MUxRZmV4VmVwbk9hZzVjMWpzeDB4eEhKWk41Q2lZYXFua2NIVEo5VzNTWDJhWFVQU19yMUU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765748192
     },
     {
       "title": "Game Recap: Eagles 31, Raiders 0 - Philadelphia Eagles",
@@ -199,6 +193,12 @@
       "published": 1765727857
     },
     {
+      "title": "Week 15 non-Eagles rooting guide - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjc3aTZ3aURaTzd4RENuZXhjZndjVnFTbkpjUWxrWkRzVEEwT2VPSG1rQU94VHhtUFhtdWc2WVRDeEZIT3p3VHdUcDQ5U2U4bmdlMk1EUVBUT2luNV85RVhvbmRtUEpWcl9XMTFNbFc2Tk9SY2VsU3F2Nm5xLVB3VE9JTDRhSWhwQ3FPamp1emxrZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765717092
+    },
+    {
       "title": "No big surprises on Eagles' inactive list vs. Raiders - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSklLRjZHalFONklIWEtKMkxpYUx4cm9XSVNIeGNxa1hxeEg3clVaRlFNeHYyOFkxWnZRaTFTQUR1VnBmdzZKdnN2YUg0aWVqNHdQV2Jjc3VKOWxuY1NFZXJxdTQ2NndjSnRMQ1JZajhkTFJoUm82a1ZVbWxpQnN4am9ZMkF2bXBheUpYLW0zWlJOTVNlLVd0S3dtR3RCd0hvVmc1eVNhaGJWanJKUEVuYkRqY2txZUdUYWNtRkVnX05NLVA4aEHSAc4BQVVfeXFMTTVFb09XSnYwdUZuckZZZVM0d2M4V01FcGxBWGY0WnQ5N2Z0VXNjZmdLNnY3YnpDa1hCY1ZmeUFJdmVVMTVfVnlDZWI4NlZ1eDQ3WV9pQWNCN0FpY0tGNDFsVGc4TU4yRDJURTZzaU8tX3dzclltVzVJb013OUFCM24zdWU2Z0hIZEhOMWZsUjRoWU5XcnJ0XzNacTJZbk1hQW12ejluZXlibDhrMjBGYl9SVE9LdUNKclJVQUUtd2RTSDc3SFZ1eThTX1d3RkE?oc=5",
       "source": "Google News — Eagles",
@@ -229,12 +229,6 @@
       "published": 1765627200
     },
     {
-      "title": "Ontario Rallies for 3-2 Victory over Eagles - Colorado Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUUplV2tPUm9LY1VPWThaSzgwWmNOVmZiTm5ZXzYwREoxZjBtWmsyanR0bTg4X2tJQnU5RnlJOTFHTWZ5bXZVSzRoVWlNRWhMSWFJYjhydXI5aXBJU2FKamFQTktaY20zZ2d5TmhTRk9QTlRURndKdmk2d3RhX0FQOG1NTjZ3ajNxalVCT1lxUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765602812
-    },
-    {
       "title": "Raiders vs. Eagles Injury Report - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV21fY0ZMQVJpc2ZvLUVCbFFtUnRkLThBaktjWFVmWk5PaUFvd3E4STlkQTAxdWk0d2pQMVNxZVhnWjdPSk1CM0lnT29BRkt4YjRRakNlZlVDQklCakJpTEhKb2lFdnZVVXBDRjlUOU5XUlJpVU93UTNSMTVmNkVlR2dzV1lMTWZHM3lqZWRtODZmTGs0X05KN1NZSGo0cndGZFJudk54NnRnYkFnUklVMFk0Wi1RNFRCdzZkd1ZqZ3A?oc=5",
       "source": "Google News — Eagles",
@@ -251,12 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhHcHp1MWl6WExLc2NaYS1iYmZnaUU0NGFkOHM3VzN1MGsxTW1sT2U1MG1lT0V3WVpET2JOaGFJU29kNFdILUQwT0pqdW5ab0UxUGdVOGg2TFJvVUtFQVVDUTVKOEJ3c3ZMLWlqRVJWRWEzZzlRNTZPdFVZM3p4OXZsaXBhT3FkMXpqRFR1US0?oc=5",
       "source": "Google News — Eagles",
       "published": 1765568742
-    },
-    {
-      "title": "Where to watch Raiders vs. Eagles: Live stream, kickoff time, TV channel, prediction - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRElqVmctYzc5QzR6ZnFWUkowdThNaVNRTlBPOXFLd0RrVzUwdzdKbXVMaG45Q2F4c2NOdTRTOXdTSnFYOFRnN2o1bDNtN3E2cVBBSGg3WExYeXdvY3UyNlFwV1Q5SW95SWRUT3ZCVkxFdTdMR21xaTd4NG1faVV4d1Z6Z0xiSEUya2E4aGY0bGVCVms?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765568700
     },
     {
       "title": "Eagles vs. Raiders: How to watch pregame, postgame coverage on NBC10 - NBC10 Philadelphia",
@@ -283,28 +271,22 @@
       "published": 1765537200
     },
     {
-      "title": "How much snow forecast for Eagles vs Raiders game? Cold, wind a factor? - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLXVlVWJ5QmFtZy1XOEV0YXYtQ3loRXozRTVnYmNUZEFEZ0VjbGRJWE9STzF2THBMYVhsOTgwcmU2Z3RaT0hGdVlwQ3pRWFpzS0dSendHVVJDdkQxR3NoaXI0NU5PMENRVVNvTXR2bmZzV3R3enFqcnROaElOM3R0TWpLNDFXdGtXdFA0MU9YSExIcm9ndVFmTkxUaGprM09mR1VtLUs4bkxxRDRVOUZaY2ZJT1ktYm9aR2Y4aVBuVS14eVUyLUQ0S2Q5Qm1PUEhKb0dGV20yMGZUSDV6Z3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765532966
-    },
-    {
       "title": "Raiders-Eagles Week 15 Injury Report: Geno Smith among 3 Raiders ruled out - Raiders.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhzd2RIdE1nUmxjU0xNMWpCWXF1SU5yZnVyZnNobm1rRmxZUDhMUjFOWjZxeW5JVE5Qak9Vc1RPMDhlaHprbU5MTkxIRmJJYnZzZmpESENaVFAwMm04VGJ5TmFucWFIeUVrSlNmWDI2RG9US1ltc196b1BmRnNzcEJBcERWUGtCOGNUci1McVIzaWZwWlI0?oc=5",
       "source": "Google News — Eagles",
       "published": 1765526400
     },
     {
-      "title": "Eagles' Jalen Hurts Receives Major Update About Future in Philly - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVpwTXM1VU9hVUl4VVdqV3B6Z0VKUmVwYXZ2amJyR3dYb3RPN1MwZzQyajE1LUJUYjJ4SE5Pcm5POFU1TGJvN2pvRUFkb0lUdjNkVFF0ckJ1WE11TFc5bVhCX05xZEhCUkF3c1pBNUlsMGFZWGhBOG55akI5TUJ4NUVvZnliWms?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765510061
-    },
-    {
       "title": "No. 19 Irish Dominate Eagles, 97-48 - Notre Dame Athletics",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EbWVvcUM1MkM0Y2tyY1l3c2RpWWc1YWJTLVIyMnc0VXFKTHVoMnBqY2JvZ1pqM2NrMUR1VTlKWExBWXRzRGhTaXduc0txMlE1cGZpOUtBb2pmV3F4a0NzRkhEcU1yQVc4Y0FjOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1765505697
+    },
+    {
+      "title": "Will Eagles make playoffs with Raiders win? How to watch Sunday’s game - Asbury Park Press",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOck9YVEdVUGUyZ2t6SjUzbHZ3S0VyUi1oWWhhSUtKQTFfb1kwTjlaWjVFdm93Mm9OakZDV20xMlVDMWROSG94WGtjNVVBbERkUzZPQVJ2VFo1OWlNTm5FWnZTajk5c21DZ1l4QVlDcEdKYVJiQTJuaU5nX0tVbWVueFl5ZmZzNzNwNkRwR2czUTRIc3UyYWZwcWpTSEJYcFJSWUtPUUNOMlcyTVZTNDFoM3haOExmaFdLU1RGUk9xTE8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765500744
     },
     {
       "title": "Eagles Locker Room Interviews: December 11, 2025 - Philadelphia Eagles",
@@ -325,10 +307,10 @@
       "published": 1765482750
     },
     {
-      "title": "Eagles vs Raiders predictions, picks. Can Jalen Hurts outduel ex-Eagle? - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT25CZjlyaGxKS2pGQlBSUnNhZDBKVzAwdzBidVFMR0s4aXo3ZW16LWhLSUNhOGE0V2dwejZyc2l4OG0xcGNUcFdEaVFDRFdYb2pYa3hWSTVPRjZqUllUOTdyUG9BWERfdVl3bW8xUmpaYVhxSGQ0WlJfMHFEVFl1RXdCZ2x3RHphM3RtQmdjMWk0OTJaMG9zeVA2SXBtNmxZSVBvRjF4OFBhcDBHeTlhNVZhQnlKNmtCUjUxSG5jWDVrY2NYUkxfUUo2WXY2ODNqSHQ3eVNEOGJVRVZQYnc?oc=5",
+      "title": "Eagles News: Jeffrey Lurie: “Our offense will get it going. I’m not worried at all.” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNV9SZG1KRU9LZHBLSXB5cEdadm5IaEY1aUl6OHAwT0o3YlZ2YS1kS25zcTUxb1lDUENFOVFZTFZVRE0tSmQ5VGFBNjR4eHRoSkxZbmtBZWpTS3ZPenJyNnpyQWNpUEdRRGROdVhfNTQwaWVTTlc5TV9jSUkwSExvcUxfUk9IQXU3WmI5SEllNGF0MzNoZzZQVGVWQzdVRWVsaWxrcjJyQW91M0djYndvM0pMcmo4NjREellYWWhjZHVrWkU?oc=5",
       "source": "Google News — Eagles",
-      "published": 1765472820
+      "published": 1765480735
     },
     {
       "title": "What still bothers Jalen Hurts about OT loss to Chargers - NBC Sports Philadelphia",
@@ -391,8 +373,8 @@
       "published": 1765267200
     },
     {
-      "title": "There are no fixes coming for the 2025 Eagles offense - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjJfOEdSOTZ3MUgtbEhUdDVkVXRxV3BONC0wQngzZVpUeUduOFkzdENqRXlVclJNN0dHR0ROV0F4cmV6Q1U2X0JGMTBmaDBEZ1R0YWJTUXJJY0ZlUjJ4aXN2TFF2ZGlGaTRWMEpEc2dYRnBpVU9pMlpUbUpGWlp6dDFSOFhoWTBnME41RlVtV0xwbWVTanVNd19sNVJhS1JjT0ZN?oc=5",
+      "title": "Roob's Eagles Observations after a nightmare loss to Chargers - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3djTGg2WlpCMnFKa1h3VjM4RGhGOWItODRPekhKVWdOcW12aUk3MFNnR0U2ODcyVHUxNTg4ODBvdlFyWmZCUWFBcW0zQXREQnFQWERKQy1hTXRMNEtQZUZhQzNWMGZRX0FsX2Y3aGJscVBPcTJuMmk1T0h3QklOS1prSzlDS0Q0NEVQbWhGVVJuSU1HZ2JaQlVyeHNpNFpCRG1wRUtRMnA2b0hHeGlNNnBoUVlkYmNGWktUNnRvTWlfdnFBYVluXzVB0gHSAUFVX3lxTFBVaXdzbGdocnNITnQtcWYtaE56bHU2UXZqeDFpMG9DbXVmdlhFQUhVc2k3aDU2TDBiX2VhaFZWNFRWQWtGdVhuOXlrbExPVTdWMjhOZk1iZXREdkl6TWctb3F4R3ZJalNLeXpSVS1tMDRPa090b2o5czdqS0VCdHpIeFNSWFh6djNVaGtoczM5QS1EQWRMbWZaeHlKT1RUdmZkU3JKWnlsM0FNelpWaElCVlJtcUZTcnVtaUMxSXkwN2RjU2NpRmlTWjQxd0JDYzhBQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765267200
     },
@@ -479,6 +461,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWERhVXNjMk1hU0MwbFVfTEttdENXa3d4Z1N3X001UjBENTYzSlZUUUp5NVVKVzRvVk00eVplaV9vTFdEMFFhbjFDVmk0OXJoMTktNTYzRWhOT0N0c1ZXejBranFoTHhrZ1VWeGZ4U0RseGlsQmpPTFNLOUN1dkxtN2tteWZaT0Nja2ROa1ZORmRacjF3SjM4RmUyZWxmWUVVcTMxMFViMXI4TjFmeEJuLQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1764921600
+    },
+    {
+      "title": "Cry, Eagles Cry - The Swarthmore Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JeHlTQ0d5eWxHWnZoNHQzajRvOTFLTFkwdEs1MEFkSVNwT2ticFU1QTNCQ01vTzhqZ25XNlNkeE5iZlluRmF6NUlvTEM4dElsaTJJYTREZ0dHSE9UZFlZbTd6blhUN2M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1764842901
     },
     {
       "title": "Eagles DT Carter out after procedure, sources say - ESPN",
