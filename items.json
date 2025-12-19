@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-19T16:30:46.978506+00:00",
+  "updated_at": "2025-12-19T17:21:01.680190+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Opponent Film Room: Scouting the Washington Commanders’ offense",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166615/eagles-opponent-film-room-scouting-the-washington-commanders-offense",
+      "source": "Bleeding Green Nation",
+      "published": 1766162040
+    },
     {
       "title": "Eagles playoff picture: What Week 16 vs. Commanders means for NFC standings",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/166538/nfl-playoff-picture-week-16-vs-washington-commanders-nfc-east-standings-wild-card-seeding-tiebreakders-clinching-scenarios",
@@ -71,12 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDUtXzFmTFVFYmZ2aFFYRlFWU1owY19vR2ZXa0J0ZUMxLVhWQTlHQmIyQ0h2cl93bGFidmhHdDlFMjdqZVRFcU1oQll1Y090cmZBUkQyMUctYkJtc1NncUZwNkpDaU9tY0lkMllCSFNETFMwT1RoTEczX2hFeUJXT1F2RE9jckRlTGlnNnNqcDlqVE5PSHlVZnpEbjNFYUV0MDlwUzBrOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1766073604
-    },
-    {
-      "title": "Poll: Are the Eagles trending up this week?",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-discussion/166476/poll-are-the-eagles-trending-up-this-week",
-      "source": "Bleeding Green Nation",
-      "published": 1766072086
     },
     {
       "title": "Eagles playoff scenarios: How to clinch the NFC East, grab the 2-seed - PhillyVoice",
@@ -211,12 +211,6 @@
       "published": 1765748192
     },
     {
-      "title": "Roob's Observations after Eagles take care of business against hapless Raiders - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaTZfbTVIUWlYNE1JZFcyZHREQnNSNFZhZDA4Zm9aRHNLUEppY1BCNUwta0VhZkpsQ0JHSVpNcjNMODUteHlZTUNOVENYRy0wSGQ1ZUhoU1NXWXFDZkNzMExUbTRQckpCNVl2dmp2dnM2ODhxWG80NndoNDhQcXRudU9yY3pnVEZIV2VpbW5oVnFrVmd5ZU1qeGduME9IMl9qN3A3azh5RnVyYWtWLTRRNkNVWkI1aVNSck5naWVuc1RsNnZIV09ENlIwYlNkWXJubHp5Mk5vaENKcW5tcjg5ddIB6AFBVV95cUxPWHh0anJOUWJDQl9vQ0MwU2EtZzZzRVNmb01iWi1ISmxYdk1ydk9aYVJoVVRZNzZDckJGUTBqNjBqNE53X1pYazBkY3pmQ0lWWnVCYVd2dld5SG04Mlpabjk2V3ZpSWdWVjR2MnNHdDZzdm5CTG0xZEdvNFdxa1l1YThYQUM4bHNlajFpMnRxa1BqdjhZRFM0YW5yQ0p1VzkxcHMtdWd6YzVnT3B3X0FKYk00Y0dxNWY5SHFsc0hkTlJ4MVBYcHhTc2Z3UG90Y1VoS3dBazlDbWNmVXJERHRJVm1hanhfY3Bz?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765745940
-    },
-    {
       "title": "Game Recap: Eagles 31, Raiders 0 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU5oNHNhdVpsV0J6bUZnOWljcHYwWnNLZlJNQWV0VGRHbS1IQWs2SllmYWtCSWtiWmRDWGtZX0VFZHo2X3A1dmFlZ2EwOUhWcnNNVGlrc21XNkV6SUtZd3ZoSGNXZGRHRHM2R2NGLXpRdEdBN2V5VzNtNFpTZFRzTVhBbUoxLTdxNVlpR0JMTnJ2U2hO?oc=5",
       "source": "Google News — Eagles",
@@ -233,6 +227,12 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzA4c09BLThhdzQ2RnlsWXRXU1pNR0dac3M2d0JmNHU5eXl5OGM4YTVtNC1TYVFLazJrcFpZNkZNZ2ZSR2xzbjJudmd6X3ViaHVxX2RRTjQ1V0c5WkYzVlN1MFRETVEtd3ppeW1DdFM5b3ZvX0xfRGZCV3BYMVBRZ3otcUhFYVE0dFMtVU1GMUd0U3VYR1RpYW5DZzJvZk1wRlRXSzQ3Ny1vTzlJRkNSUGhaQl91QlFyYTNsdGVGQkZrRE9CaU84LWgtMnZiUdIB1gFBVV95cUxQbWM1cWRpdFZzd1p1MlFxVm9uckVnNjUxQmtOWHh1VkxGR0szS0xJQzhfYUNnS25pQ2o3eTc2YVo0dThiRUNsWXpIak9rcjhaZFNyYVJNVzFPVUZoUF9tN0hkT1BNWllyUjVvcUtwT1FVWU9IZFdaaFNnd1BkdzJNMGh2YlY3UDJLRE42NHUtNkNHdmtabU5hZUJvMGkyTGZSUFBjN19ZSkwycGZuMnJyZzJfSTA1aUZSZTBfYVlMNFZsZ0J0RGJUbFlxTDl0Y2dNYjBqd2NB?oc=5",
       "source": "Google News — Eagles",
       "published": 1765737985
+    },
+    {
+      "title": "How much snow expected for Eagles vs Raiders game, with brutal cold, wind? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUS11ekx4ZEpPNXBqYm9TZVRwd2s1TmRCVVZ6aGJEWGhmUmNkanRrNlgwVmZHWWVYSjl4RHltUWM2OUdmejZfY01RS1p2ZU1GUUR5ckx4M2Q0MW5ycHBXQ1lHcU16Y0l6YWlhRlZfZVFnZFh5NWpQLWdrUWZTSThmTkFnWGtoYkJBNGlYZE9FcVI0U0dJQktwWHdpbzZ6RDB1QTRtcHdvdVNyV0FaQkxSMUJuNGV3akpieTJLaC05NkItYmRPUnFtUk50bXRkd1RqbGpDRnNOWWtENldVUXc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765733280
     },
     {
       "title": "Fans brave snowy conditions for Philadelphia Eagles tailgate - 6abc Philadelphia",
@@ -331,12 +331,6 @@
       "published": 1765537203
     },
     {
-      "title": "How much snow forecast for Eagles vs Raiders game? Cold, wind a factor? - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLXVlVWJ5QmFtZy1XOEV0YXYtQ3loRXozRTVnYmNUZEFEZ0VjbGRJWE9STzF2THBMYVhsOTgwcmU2Z3RaT0hGdVlwQ3pRWFpzS0dSendHVVJDdkQxR3NoaXI0NU5PMENRVVNvTXR2bmZzV3R3enFqcnROaElOM3R0TWpLNDFXdGtXdFA0MU9YSExIcm9ndVFmTkxUaGprM09mR1VtLUs4bkxxRDRVOUZaY2ZJT1ktYm9aR2Y4aVBuVS14eVUyLUQ0S2Q5Qm1PUEhKb0dGV20yMGZUSDV6Z3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765532966
-    },
-    {
       "title": "Raiders-Eagles Week 15 Injury Report: Geno Smith among 3 Raiders ruled out - Raiders.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhzd2RIdE1nUmxjU0xNMWpCWXF1SU5yZnVyZnNobm1rRmxZUDhMUjFOWjZxeW5JVE5Qak9Vc1RPMDhlaHprbU5MTkxIRmJJYnZzZmpESENaVFAwMm04VGJ5TmFucWFIeUVrSlNmWDI2RG9US1ltc196b1BmRnNzcEJBcERWUGtCOGNUci1McVIzaWZwWlI0?oc=5",
       "source": "Google News — Eagles",
@@ -358,7 +352,7 @@
       "title": "What still bothers Jalen Hurts about OT loss to Chargers - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0VmUGNlSjd0WEhWRkkxSXRMQmMxcjg4am1kWTh1S2xHYnFLSTE1WlA2aE1uZEwyd2Y3TG5DMi01YW43dVZIeEJSandqWXVIeTg5ZVhiYThXT1RkUW9UOGtjdmRhNWhZUXNjWVozQzhfMERLSDROUmdCWVFjbnRPcFYwMDl4eWZST0RiLXlMVnY1NGQ3WWlZajBXckFFTlZjQTA1MU1NalZRSEo1dXRSQkdtMFd5eklvQkZDRUlQRVFINGI50gHMAUFVX3lxTE5nZ2hrcGpuTFhDRWd5bldPYU1sRzY2NVhMckJxS1hwdWRxREU0RnRUazFac2JrejBBUDRPUmlwcXdfd0duOEE0bTdZUE1jaWJpOXRjeEN1WGdYLVQ2SWVOczJKMDRDUWFuUkY5SGlMR25TakMtQlNaYnhFX09ob0xUNlNVb2dURkJ0dEc5Y21VYkNlbDRmTVpHeG9CZFpFN3JiMW1JMHAxeHZ4UnpYU3hGbXZRNkNxYUU3RjMxQy01NFdUTkh3SXhXSzBETg?oc=5",
       "source": "Google News — Eagles",
-      "published": 1765440000
+      "published": 1765454400
     },
     {
       "title": "Spadaro: 6 takeaways from the Eagles' overtime loss to the Chargers - Philadelphia Eagles",
@@ -381,6 +375,12 @@
     {
       "title": "One-handed 'superhero' Justin Herbert wills Chargers to OT win over Eagles - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2k3c2dOTUd3SVRTUVk5bzdGVmJMb1RmQ1k0VjlUVG84bGlMampZWl9rWHNZc0RXREVMRjBCYXVIOUhUVTdERVNoMGVDZmd1RUtLeE9SUFc5YWF1UVcxZ3JFLVBQbGNYSlJDRGoxdDJQck9lb2d3a1VpS1JreEdBY2lUeXNYbklFWUFYb29qaHRkYWJRMF83XzRRMHpRUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765267200
+    },
+    {
+      "title": "There are no fixes coming for the 2025 Eagles offense - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjJfOEdSOTZ3MUgtbEhUdDVkVXRxV3BONC0wQngzZVpUeUduOFkzdENqRXlVclJNN0dHR0ROV0F4cmV6Q1U2X0JGMTBmaDBEZ1R0YWJTUXJJY0ZlUjJ4aXN2TFF2ZGlGaTRWMEpEc2dYRnBpVU9pMlpUbUpGWlp6dDFSOFhoWTBnME41RlVtV0xwbWVTanVNd19sNVJhS1JjT0ZN?oc=5",
       "source": "Google News — Eagles",
       "published": 1765267200
     },
