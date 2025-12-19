@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-19T19:19:04.605195+00:00",
+  "updated_at": "2025-12-19T19:39:37.893262+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles opposing player to stop, Week 16 edition",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166624/eagles-opposing-player-to-stop-week-16-edition",
+      "source": "Bleeding Green Nation",
+      "published": 1766173032
+    },
     {
       "title": "Eagles Opponent Film Room: Scouting the Washington Commanders’ offense",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166615/eagles-opponent-film-room-scouting-the-washington-commanders-offense",
@@ -77,12 +83,6 @@
       "link": "https://www.bleedinggreennation.com/news/166561/eagles-news-quinyon-mitchell-is-in-elite-company-this-season",
       "source": "Bleeding Green Nation",
       "published": 1766081936
-    },
-    {
-      "title": "Eagles Mailbag: A.J. Brown’s future, a Cowboys Super Bowl hypothetical and more",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166548/eagles-mailbag-a-j-browns-future-a-cowboys-super-bowl-hypothetical-and-more",
-      "source": "Bleeding Green Nation",
-      "published": 1766075611
     },
     {
       "title": "Maxx Crosby says quiet part no one will admit about playing Eagles in Philly - Inside the Iggles",
@@ -169,6 +169,12 @@
       "published": 1765757520
     },
     {
+      "title": "Eagles grades by position after dominating shutout over Raiders - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzA4c09BLThhdzQ2RnlsWXRXU1pNR0dac3M2d0JmNHU5eXl5OGM4YTVtNC1TYVFLazJrcFpZNkZNZ2ZSR2xzbjJudmd6X3ViaHVxX2RRTjQ1V0c5WkYzVlN1MFRETVEtd3ppeW1DdFM5b3ZvX0xfRGZCV3BYMVBRZ3otcUhFYVE0dFMtVU1GMUd0U3VYR1RpYW5DZzJvZk1wRlRXSzQ3Ny1vTzlJRkNSUGhaQl91QlFyYTNsdGVGQkZrRE9CaU84LWgtMnZiUdIB1gFBVV95cUxQbWM1cWRpdFZzd1p1MlFxVm9uckVnNjUxQmtOWHh1VkxGR0szS0xJQzhfYUNnS25pQ2o3eTc2YVo0dThiRUNsWXpIak9rcjhaZFNyYVJNVzFPVUZoUF9tN0hkT1BNWllyUjVvcUtwT1FVWU9IZFdaaFNnd1BkdzJNMGh2YlY3UDJLRE42NHUtNkNHdmtabU5hZUJvMGkyTGZSUFBjN19ZSkwycGZuMnJyZzJfSTA1aUZSZTBfYVlMNFZsZ0J0RGJUbFlxTDl0Y2dNYjBqd2NB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765755969
+    },
+    {
       "title": "4 takeaways from Eagles' blowout win over Raiders, including Jalen Hurts - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUxsUVJZZWFkZ2MyekRqSXVTZ0Q3a2NpQ042OHRnYWRKMXExY3RSRlRlT1FIVUtXU2JkQW1mSFl6c2hrajgzd1QzT1RUdG53ZkgyOHA4LVFDTUpPVmgyeG9MZ2NJS1lOYUIzY25iWU9NdzJpNXJLaWxMRi16SGhzcG5oTW41Y0RKRUdIRXNXR0RNekx2ZHJ6YlRqSFhMMERDTW13S0NUalVSMXdDNklrVEF1RTZhMENZcHRoSVhnMXlnNW9JM2ZWNVE3Yw?oc=5",
       "source": "Google News — Eagles",
@@ -233,12 +239,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU5oNHNhdVpsV0J6bUZnOWljcHYwWnNLZlJNQWV0VGRHbS1IQWs2SllmYWtCSWtiWmRDWGtZX0VFZHo2X3A1dmFlZ2EwOUhWcnNNVGlrc21XNkV6SUtZd3ZoSGNXZGRHRHM2R2NGLXpRdEdBN2V5VzNtNFpTZFRzTVhBbUoxLTdxNVlpR0JMTnJ2U2hO?oc=5",
       "source": "Google News — Eagles",
       "published": 1765745325
-    },
-    {
-      "title": "Eagles grades by position after dominating shutout over Raiders - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzA4c09BLThhdzQ2RnlsWXRXU1pNR0dac3M2d0JmNHU5eXl5OGM4YTVtNC1TYVFLazJrcFpZNkZNZ2ZSR2xzbjJudmd6X3ViaHVxX2RRTjQ1V0c5WkYzVlN1MFRETVEtd3ppeW1DdFM5b3ZvX0xfRGZCV3BYMVBRZ3otcUhFYVE0dFMtVU1GMUd0U3VYR1RpYW5DZzJvZk1wRlRXSzQ3Ny1vTzlJRkNSUGhaQl91QlFyYTNsdGVGQkZrRE9CaU84LWgtMnZiUdIB1gFBVV95cUxQbWM1cWRpdFZzd1p1MlFxVm9uckVnNjUxQmtOWHh1VkxGR0szS0xJQzhfYUNnS25pQ2o3eTc2YVo0dThiRUNsWXpIak9rcjhaZFNyYVJNVzFPVUZoUF9tN0hkT1BNWllyUjVvcUtwT1FVWU9IZFdaaFNnd1BkdzJNMGh2YlY3UDJLRE42NHUtNkNHdmtabU5hZUJvMGkyTGZSUFBjN19ZSkwycGZuMnJyZzJfSTA1aUZSZTBfYVlMNFZsZ0J0RGJUbFlxTDl0Y2dNYjBqd2NB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765737985
     },
     {
       "title": "How much snow expected for Eagles vs Raiders game, with brutal cold, wind? - The News Journal",
