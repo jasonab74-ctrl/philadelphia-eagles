@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-20T05:23:28.840538+00:00",
+  "updated_at": "2025-12-20T05:45:40.276549+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -89,6 +89,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDUtXzFmTFVFYmZ2aFFYRlFWU1owY19vR2ZXa0J0ZUMxLVhWQTlHQmIyQ0h2cl93bGFidmhHdDlFMjdqZVRFcU1oQll1Y090cmZBUkQyMUctYkJtc1NncUZwNkpDaU9tY0lkMllCSFNETFMwT1RoTEczX2hFeUJXT1F2RE9jckRlTGlnNnNqcDlqVE5PSHlVZnpEbjNFYUV0MDlwUzBrOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1766073604
+    },
+    {
+      "title": "Eagles injury update: A couple OL return; two players ruled out - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNEZGdVFDdEZKbE5tRE5ER243ZmdKVjB5Y1BoQ1NxdU9DeGpfa1k3WHBvSXp2VFFMUnpfSUtOM0doNWxiLW9hV09EZ281YXhYcXVFbkVESTN3M28zVE8wWXdhd2tzLXF4VXpueEp6V0VXdEJwb3p1QWVhYjV3eFRNaEhJcldIVmppdzBnMW9PUVpKWlVlbzYzdDB4d1o3TlQ2eFNhLXZEZXhZd2V6MlVoSEEtZzg2YXN0bDB4Q2taZlJ4QkhGRENRVlFEbm5OaC1tV1JNQmVqRU1BN3M2MmVBQzdhLVptUG450gHwAUFVX3lxTE1KY1MxVVA1Y3hIWm9WZDZzRVF3SGZqQVJBODM4S21VdExDRFZDOG9VWjJ1OGdtZEFzeHlUamRPa1NpcFpCazNMejNOdDMwdWpuTUJUOXVnclE1UmtNaGtINTlQeThhcGt1bndlb0xJLWxtTlhTSmR0UVhfSXBrU3JsdU5iM0dFSEthR0ZkOC1SNklBU2VSanlXbEhaTlRPQy1rR1JSX2toXzl1cXcxQWFBdG5GcndKUEdGUnE3WTZJUDJpdFZXQU9ZY0pKS0JnbEhxcnhzMkNMcWR0S2c1aU1ONVZ3SlphRE5zUUFCQUFscg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766073424
     },
     {
       "title": "Eagles playoff scenarios: How to clinch the NFC East, grab the 2-seed - PhillyVoice",
@@ -247,12 +253,6 @@
       "published": 1765714200
     },
     {
-      "title": "How to watch, stream, and listen | Raiders vs. Eagles - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR29wZmpRU29scVotYWJOQThxU194TzVPNzhrTUMwS3VDcDlGc1diZFdWTWZOel9vNEFCQjFXckVZY3k2ako0TFI2Q2JKNGFPa04yUkI3ZmxlZnVSSE5Hdk8xMEhyZzJHd3hoM050ZXZkYWZsYkRpdDl6R0tESjNyZVdVdnJtSWZnUU1zVF9TQTJ4aXpqdWItMWJvSFJlVk1IN0hVcVdBZUItTzJhRTk2ZVNR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765699200
-    },
-    {
       "title": "How to watch, listen to and livestream Raiders at Eagles - Raiders.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTERnTTVmVjBEcXRSRUVYVWowVVcteEVwNkpaLXhBVllLb212d2lKU1pLdnVwcGc3NzAza0pzemdOeFN1bmJXeW5zWGtVNjZTaE9EUEhma2RUOGNfZVhhWWdoWVlmR0VqWko1XzkxR3o4dnB0aWQ1elZ4T0x4anNoYURFMzRRT0hGQlJZY3hDMWNENjJxSE5xVXQ4cDBPQkZ3bmJVTEJIXy1MQ1N1TXdXbVI0cUJxRHktTVZrdDRUOGFtdVlx?oc=5",
       "source": "Google News — Eagles",
@@ -295,22 +295,10 @@
       "published": 1765572687
     },
     {
-      "title": "Eagles vs. Raiders: How to watch pregame, postgame coverage on NBC10 - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVdVSUtsVElTQndRbmtiM2lkU29qU1o0T0ZuTDdsWldtVjhkanhneFhlb3RXdlpyV3RjUHFqWHNxOXRHVXBMVjFjbUtlLTF1NDBaYVY4MFphMkN6RzlIekc2TmVydURGNzdOQll4UjlGX2tfZEk2WG4yYzg1eFVMYnZxWkhGbzRQRjk5a2NBXzBLdDB3TGZoSktEaXBTWWt4cXRzRUFzcEdxam9XTGkxdzZJS2RlZjYxSnVXd2ZhVXdkMTJFbFYwdG5oV1l4c1hlLVlSb1FVTnhkd9IB4gFBVV95cUxOYm5XTEVZVnNXbXZMNFIyc2tIckExc2tMaFZIaDk0MnBUSmZ0d0Q4WExObGNJN0xhVE9HZU5nNU1fS0N3V0stSUFEVjVOUlVfbEt0clAzaDAwWDVIb1Vja1pyYklKZGFiSDhremtqX29RakRNWF9rekE4dmEweUttUTdoUUN3YUo0Q3Z6ZGlCVnBDcHMtVkZFUEdsT213aWg0bnB6Y0h6SklhSFVOclFsaFNFbGVraFFHdVlFQ0hjNUEyVGRDZWxUYUxIc1k3TFk2UVROMDVfQTk2ODZQYWU0QzhR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765565068
-    },
-    {
       "title": "Eagles injury update: Some good news for the offensive line - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ3VsMi14aFNVN3BicHVxeXMzRnFoVjFqc1hRc2FOLTQxdW1LVUd1TkdBRVVGMlZpQUJUeTNtZzlyOThPQUl6c1FyNXpUbDRmQjlrUHlMczZ4N2J3cDZlLVo1T1ZrdFNJLVJXaWk2QTkyeHZoTFMzZF8yTTRGTGpaQ01Zd0xocmVsZzRockg2aXJXa1k1SnR3TG4tNEtyR1o3WV9DTWhLTnNWUUpaT1ExVXhWRndISl9vMjc1SF9vcmZ6Q0JVQ0lPMWdvZ3lHWVIwOXlNbmVGbWNGMGJ0RnfSAeYBQVVfeXFMUDBqNzlPbFN0WXFCdDFNQmlESzJNZEhDcWc2MU4wTFBBU3p6RmFDY0djelNtclRCcTAtU001bzFuOWV2a2VBSnVHR3lCemR6Y2pIVnBTdnZtWlB1c2MtOEdxUWtrNjV2Snp2TFQ2UFZwUlp4NHowOWl2WHE4WVl3a1pvRU5CWnpscmtRaGd3ZE5zVTRCdE0tb01pU0ZfcmdPTjhSQWRVcGFDY1NwOGFSTVoxUVlyamRyU2t0QThvZzlkNW5sU2ZEMTVZRUJ0aU85aGlnRWZoWkNkam9sRlg1ZHpRRzAxSVE?oc=5",
       "source": "Google News — Eagles",
       "published": 1765562469
-    },
-    {
-      "title": "Are Eagles’ struggles a result of what Jalen Hurts is not doing enough of? - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXJHWXJ3WDVWMU9tSWszWThoVEpNMHdhd2pVY0xxclVNR1JaRWRzdFhXVWhmRnlielBQNGtoUXAwYUNkdlBidm5WS2U3YUd4MUNPV0J3anU3NUJPRVlIRm5tUEd1YmhDZVBpRE1QNGpRM1VHOHZHZnNCdktJQ0JoVnpFNXhKNWVn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765537203
     },
     {
       "title": "How much snow forecast for Eagles vs Raiders game? Cold, wind a factor? - The News Journal",
@@ -369,6 +357,12 @@
     {
       "title": "Game Recap: Chargers 22, Eagles 19 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbm5PQ0JLcVlGN1NXeDJzbmNFc01Ld1FteXNzQUFuczY3dW11Wkk5M2JwcVl3YXNMbFRqSGpZSmFMNFZKYjN1UFF1NGJCNm1selRtS2ZfbldlUmk1VHJ6clUyeW5NMnBqdVVCRzVvZXdtdzVGQVNaZzRFUFNsd0d5WkE2Ym5iYkxGT0x3NFJ0bGFHZ015T3NQQ2s4b29Oby1VMnZv?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765180800
+    },
+    {
+      "title": "Eagles-Chargers on 'Monday Night Football': What We Learned from Los Angeles' 22-19 win - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEtsLW1qSEMzdlRXTTNPb0Roa3lGRGtyN202NFJLZ2ZUUk0tNW93aEhxNkRtdmdtd1NEZmhHY3RxR2FibnJadVJVUFZPZnFETk9HN3ZIRkRjU3dCOXVBY182OC1RZnpGVWZLdmFZYUtVNGxMUEVzczA3clBITUh0bmVvZ3lSQjN1U0dlOWQ5QzNIc0FGRFNTQ0RKRUUza19kSk1ZSXVmOG9KWmlT?oc=5",
       "source": "Google News — Eagles",
       "published": 1765180800
     },
