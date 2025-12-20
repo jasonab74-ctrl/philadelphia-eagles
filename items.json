@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-20T20:23:43.526750+00:00",
+  "updated_at": "2025-12-20T20:41:24.879765+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Commanders inactives",
+      "link": "https://www.bleedinggreennation.com/news/166689/eagles-commanders-inactives-week-16-nfc-east-game-information-updates-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1766263076
+    },
     {
       "title": "Eagles at Commanders Week 16 game preview and predictions",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166679/eagles-at-commanders-week-16-game-preview-and-predictions",
@@ -65,12 +71,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166579/eagles-opponent-film-room-scouting-the-washington-commanders-offense",
       "source": "Bleeding Green Nation",
       "published": 1766159558
-    },
-    {
-      "title": "Eagles News: Don’t assume Kevin Patullo is gone after this season",
-      "link": "https://www.bleedinggreennation.com/news/166619/eagles-news-dont-assume-kevin-patullo-is-gone-after-this-season",
-      "source": "Bleeding Green Nation",
-      "published": 1766158078
     },
     {
       "title": "Eagles on verge of first back-to-back NFC East titles since 2004 - NFL.com",
@@ -145,6 +145,12 @@
       "published": 1765924566
     },
     {
+      "title": "Eagles snaps: Birds empty the bench in shutout over Raiders - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHhCM2d4SXU5NkwtazNxbG9Nd0s0d2MtaWJtV3ZCXzJLa2dLak1TQ3FrbFRCaG13dDVoTE5DNGt5N2JhUnJnanlZZWJEQVBJWkRuOTJGb083eVVOajNhbThaS0w0Q2M1WkxaZVV5RE1CYjFSd2tSZzltTm1iN0FyektSS2Q2VXhMeVRPMmhERjJTSUZqWG1OLXcxUnljd0FucVFDNFY3bVFyQkYtRkZGbzg3cHFqbFlfYTR3NW5vOWk3LUo1Wjg40gHPAUFVX3lxTE13b1BWeTFKWG4temZpWGhfLWg0OXYyRkROam9TU3huTUtxT3p6eUJ0a0xQNmN3eVZ4QUU1VXVkcmdnUGRRUUlYZ2JWaXlEN29ESm95aW1XUmR5ZjN6QUFqdmI0YVp1ZG44OTdIVkFwZjBubWNFcHJKMkJpR0NMSFpVazAxVDVwbHRSZlIyTkw2RmRBeno0d1ZCQlNPODBraThOejNNMGxpMkRpVndESXlXOGQ2bXRkZUFpN0xJNk9XNFJmRGxuZTRId1hQZ0RuMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765886400
+    },
+    {
       "title": "2025 playoffs: Eagles' magic number to clinch second straight NFC East title - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSl9sOUIzbmZhbGlVUmJfc0N5aXpaU3pfY0t1WUFsQXVNcktvY2VaTjh2UVpXWDJfMkJCTWJXOHFVcG5ESndhZGx4el9QZjBSLW8yTmJ5SkpNX0tKdF9GX1lLSS1JcUhtcTRlLVZxd0IzZTRyTWZJaFhpdmIxYnk1Y28yUi1CQnhGZzNVejRWbXY0dlJCcDJ3OElfU0HSAaIBQVVfeXFMUHhrcXd1YW9aR1B1VXpVTW0wZEIxeTVqbjZub05WS2VjN0t3RWRSMUdLdi1Od2ZaWXRBLUwzSWFRNzZLOVQ3aWZKOGw3dFhNc0pMeEdnTjFkTWk4T184N3ZEeEZ4RzlBc1k0QnRXc2NFSEJFWVgwWGtnQUQ1Q0tPQVdOeUlKcm1wSkVnNXlXQmFmZllEelgyTHcwR2NhVFdzZ3NB?oc=5",
       "source": "Google News — Eagles",
@@ -161,12 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkZkZ05DTGxVeU5KS3pBOW16SDFsdXVhSEN1N2RCU01kVk9VOVZydld5REpKSUZ6LWZqajUtZ05RRDdjY1l2blFRaXRfb3BiU2FLRkNFT3V3RVpWU08weXRLSUVfdF9ZaDlSSlJ0aC1jMHpJTHlSalBsSHk1dlc5Q2l3cE5YUlNnczZ0WWVZMlhlLUIzdHQ1a2hBWWpOdFlGanlFeFQxanZkbl9vN3BKLTVRSWVFM19JbTA5QTZR0gHGAUFVX3lxTE84M3FhV2poVGdyNEUyLWxxRGFRT1JNYk9uMlJtY1NpUUFYY21EeTAtZTBpNVJ1LU54RWpBbl9jUkROc0Z6OExHRndtdVJnazZ4T2o4dV9LMFItUm56ZHZ4aXdQNWU5WEM1cWpNV0tXYlBUOThMRi1kMFkwQXoweUxLRy1sUjNrRTRxM093LWcxMkUtUGRndXV0WlhzQUdwV1ZJSXdCNXFmYlpfUXR6ODNDYnJlY2l5ZWxJd3ZvTGlSaFJ0ZTJRUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1765810043
-    },
-    {
-      "title": "AAA Official Review: Eagles defense pitches its first shutout since 2018 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3hTZEdyaUZ1ZV90dWR6QVhJdUJUbkt6VktKVlJZWGFvdktXU0c2WlE5aXBMcl9XV3hoaTFJc3htcVYtc3l3TWhSbTl1THFNanQzd1ozTEZ1aEhhNVFLaXNqNFNXUTN0X0ZINzI0MXk2TkVDSXVRWHN4a0Jzc2RfOFJEc0R6OHI1c1FWYjBEdFBMRzZJbHpXbUlLcHo3SmZVclJ6aFoyS01zSVdzVHhFNGpOY21oZTdKX1Z6SmR2OGJfYkhLWThvZWQ5UlJiSl9GT2d2Qkpn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765805971
     },
     {
       "title": "City Announces Seasonal Area Closures To Protect Nesting Golden Eagles - City of Boulder (.gov)",
