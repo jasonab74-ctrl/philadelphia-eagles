@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-20T19:38:05.122235+00:00",
+  "updated_at": "2025-12-20T20:23:43.526750+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles at Commanders Week 16 game preview and predictions",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166679/eagles-at-commanders-week-16-game-preview-and-predictions",
+      "source": "Bleeding Green Nation",
+      "published": 1766250962
+    },
     {
       "title": "Eagles News: A.J. Brown primed for big game against Commanders",
       "link": "https://www.bleedinggreennation.com/news/166674/eagles-news-a-j-brown-primed-for-big-game-against-commanders",
@@ -139,12 +145,6 @@
       "published": 1765924566
     },
     {
-      "title": "Philadelphia Eagles Take a ONE WORD Interview - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc09ic3Zib3d4ek5HSUdCVWdObW4tU1hPRkZyQXRpaFlUR2hET3dPOXdnX19rQjdfdjc0MFh2eUs4QVpDdHpEVkJRYkNmUEJqNUR4anpYUW5NTzR1a1U4SkJQbXU0Z2Jqc2tTSGMyRS1vSmwtOEkzRnBDWDdXeDNqM3NGOHRrTEdHQ2MwQWgtbw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765919151
-    },
-    {
       "title": "2025 playoffs: Eagles' magic number to clinch second straight NFC East title - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSl9sOUIzbmZhbGlVUmJfc0N5aXpaU3pfY0t1WUFsQXVNcktvY2VaTjh2UVpXWDJfMkJCTWJXOHFVcG5ESndhZGx4el9QZjBSLW8yTmJ5SkpNX0tKdF9GX1lLSS1JcUhtcTRlLVZxd0IzZTRyTWZJaFhpdmIxYnk1Y28yUi1CQnhGZzNVejRWbXY0dlJCcDJ3OElfU0HSAaIBQVVfeXFMUHhrcXd1YW9aR1B1VXpVTW0wZEIxeTVqbjZub05WS2VjN0t3RWRSMUdLdi1Od2ZaWXRBLUwzSWFRNzZLOVQ3aWZKOGw3dFhNc0pMeEdnTjFkTWk4T184N3ZEeEZ4RzlBc1k0QnRXc2NFSEJFWVgwWGtnQUQ1Q0tPQVdOeUlKcm1wSkVnNXlXQmFmZllEelgyTHcwR2NhVFdzZ3NB?oc=5",
       "source": "Google News — Eagles",
@@ -185,18 +185,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFpzNTJYZElobmdtYUFMWXBBcVZxa011eVpVWnBmWWV5cEdaa2kzbXpMV0tCWTlveFYzZEJJbVc0eGxfbXR2am50dUs1d3ktUUZzVFlXMTFFMzVPRTFTRnA4S1BNaDRaU0xKc0kxV00ya2ZlYVV4Q25xVVRkZ0NLRFF3VFpRYW4tTUV0NDZTRTNmOVkyMG4zWWs5MGpNNV8xdHlQUUh0MDI1Mk1fTDJTZjItYU1PVExJYlpRazVhbWJ5MEJCOXgycGxOQWY?oc=5",
       "source": "Google News — Eagles",
       "published": 1765773076
-    },
-    {
-      "title": "How the Eagles’ beatdown of a bad team prepares them for their next challenger - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1NYazhEbFRLa0lobXlyY0R2VTVSYTFtZ25zTjdHcnBPWlhraUF6bGZhOVdmNklqcDBibXRPczRXVUoyYmVKUzJ5b2tkMFU0YURVamFYU1Z2TlBVRnM2STR5QkwxRWc2cXFpd3VKTUVlTmhrOGlMSkczeTY0ek0wZDlQRlNLOUt4UWhVZzNR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765764423
-    },
-    {
-      "title": "Eagles vs Raiders highlights. Philly dominates NFL Week 15 game - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVppMXEyS2NhbGV1dGc3aVZkdDNIdGxaejdlWUQ1Mi1BSG9ETEhxYjJhVmt2X0JGRDdwMmlfdEc5NE5JV1ZOeUkzYnd3YndqdjlGcGxnV1psVDNIRER3LVhCWEY0VGdKQUk4V3JtY2NrN2tnMzdwUHdybmk1dFpoMFQwMDJDU0Z1T04xQXhVLTdRRk1KcVFzX3EzZFQyQURsYkVWR05lSElqZ1BkMlZDLVNB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765757520
     },
     {
       "title": "Eagles grades by position after dominating shutout over Raiders - NBC Sports Philadelphia",
@@ -251,6 +239,12 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RTFEtTEtReC0ycWFocU1KMTZlZC1VNXpvYnBIbUE3VHdJaGQydEFCUFQ3RFRIZ2FTQktjWDJkYjhQY3BrazVjR0xwTDA1TnA5ZXVVUGdKMTlQR2dCcER5UGtncDhQZF9xd1BBQ243bFpwVUlf?oc=5",
       "source": "Google News — Eagles",
       "published": 1765748808
+    },
+    {
+      "title": "Full Game Highlights: Raiders vs. Eagles - Week 15 - Raiders.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTJUSHdzNm9XcC1nWWk2eUpmUEtXMkZFb1ZzVmd1Y05ad1RJU2JOcTJVWlZzWW9rRVhJMjZRQkpRUUJqTl9TUC13SnYyd2ZwczN4MUxRZmV4VmVwbk9hZzVjMWpzeDB4eEhKWk41Q2lZYXFua2NIVEo5VzNTWDJhWFVQU19yMUU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765748192
     },
     {
       "title": "Game Recap: Eagles 31, Raiders 0 - Philadelphia Eagles",
