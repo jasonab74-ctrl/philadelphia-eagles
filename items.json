@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-22T12:49:54.532995+00:00",
+  "updated_at": "2025-12-22T13:36:29.808194+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -41,12 +41,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFh6ZjRZRXlnazBTcWhtSVpQLVhzODJSeHZydjVPQl9IazZ2SW1Qdko4V3Byem1fZjBOVlJ3S05OaWZXNFpGbncwdl91R3hRSDJrSUJDNWJKNnRCNEQ3bGpFLTIzMkFtWEVVNFRKczNwVFhnR3RGV1czOTNoMDdCVnBYYzFBOWNaOUp6N1N2TQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1766328428
-    },
-    {
-      "title": "Been there, won that: Eagles clinch NFC East again, feel they’re ‘trending’ upward - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFN1MUZtenZFT0N0Y29tM3U2NmhqbnNzWl8zeXdMR19hLWJzWmZSdzVaSGJfcFVkSWZhbVVXSm40dEdxdW1GbFJxdXJCZ29YanM3Z3ZHNzZGdW1xLUpwem1CbnlKNWhiSG43ODN6ZFdQaUZtellzTTN5eWduczRYVXU0QThYYjNvR2I4LVFzclUza0ZP?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766314827
     },
     {
       "title": "Philadelphia Eagles 2026 opponents - PhillyVoice",
@@ -103,6 +97,12 @@
       "published": 1766271430
     },
     {
+      "title": "How did Eagles' offensive line turn its season around overnight? - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY204Rm96a3NTc29WU09yWlNRZEFvZjgzdjJLQmt3aUFrVlpTM1pBUVB1Y242WkJlUjBvbzNHY242Uk1KdnhHaFEzRzdQdjFpSW5tZVBaTkZFbFBvMkFoUWg0MlNHM0JaWkRjM1BKN1hqaUsxMzdGRzJhUmpiZjlKc0VSSnNVcEt5dEM2d0Iwb0NqQWhUbXplX00wYndNV014UEN4Rzd2UUdLRVJmY2YwOHRtemY4amRzSDFxVkViakd2cUFzSktYaG9mUDjSAdQBQVVfeXFMUFFNUWRvNlVEOWF0dEdnVEZRWnE4MFhBclQyMXhvd2UwS2pfR2M4M3VOUjZ6YXBzeGtVaGdqRV9lOGxhdlJYSnNacFo0YzZhOFdsWUhhOG42d0RsSVRSUS1NOTQzVk5kSWEwT0FYcEM3WUJ5cFpxMXRVMVBUWTFkYkdEXzVHZWVvVlJYWUN0ZHZkWTI4TW4tejZtaEI2OTJMakpQcDRsdmJhQXlhWk8xc096cWd4MzVYV3ZjMEt6OW8yRDFEWjVST1lvN2oyM2FkNHdXMmE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766232000
+    },
+    {
       "title": "Eagles on verge of first back-to-back NFC East titles since 2004 - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamMtQ2VJbUJGQ2RRVlY4WDZPTkZZR1B0LTg3dEhfZmUtZUNMM095MU1NVUdMOTdQSF9FRnktbGViUDRWN3VTNmkwd01aS212RzdxOEVlSXN4eEhZbUlLR0VoTTU4SFZaakJjemlOeUVmMGRKSUNPb2ZWYjRFbS04SjB3eFFMeHROVUtGamM0Y19rVFU?oc=5",
       "source": "Google News — Eagles",
@@ -122,7 +122,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPUnk0UTUtSmFkazdPM2Q0MlE0bkpMS3JnbEF1N0dMeF95dW5NcTlkWGItS25BbXd5STR5MjhmX1BkNU9zdVNnaER2QUpfeXpubFpEaHdkc2pOUzNjTjBrTjFoQ2c4dF9MU3Y0MHRzS0YtTmdiaEZLdDU1T3FuVFRQYU1XOFdkX2loY1F5X1RfSl9zcXRRWThFUWliVHY1dXpxbUozWEN5YTUwcmpCU25pQTVLRE0tQ0NlU3VsSlRUd2dma0xPNzZzNnJ0RFA3Y1lqbXExd05UOFRvakliekZRYVFOdm8xdjV6S3FHNTB5WGo2ZEE5YVNDYXBZZVFPdXh4UENUay14QjJOR3ktLUFMZkRRbGhULWNhQ28xa2VYU1BveFdlYkc3Ri1zbV9oSmVRMFc3YmUwVXB0WmpTcWFyczJ6Mk5QZEpidXRKVWstYnNtUHZPM1FqcTlnc3pab0owZGR0aU5WdEY3M1d2NFBtNmRoS3ZZa1kxSmw4LUpDMWx5alhneTRmV1JiUlhBSHRxNDVEbC1HRUh2R1VQdnEw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQWGtVTTVZSEg5d2ZUakYtVndlOG1uYS1EdnRjSHdnaURJaW5KYWdPaWJqSGJsdEhBRGNlX29aT1I2UEhyLURXMmZrRE95eTZVWTN6LTJwME4tS0J3Vi0xMGJPR2JXbk1WaEhYeHY4bno3YUlWM1JrbTQxcG9NbFZMMzlfZzh6eTVRczZ1bTJZckgtVDFTaHdkYVZnRVZYM3AyTDZ2dThqd3p3RmprdnZzdFJWUU5QSUVJanhIN1BaaWVYSlhkZjdhdkttaGRGMU5HMVhZaFNOZk1qTENRZVRGNFp3SU11VWxWLUg2WE5MN1NMZ1hRWlBuaW1BMnU4LXlmRENxV05LU2wwZHNaaXdGMUFNVTZ2RG9POW9CNHVEa0gxNFB2ZmV3d29XTlMtcFhER1FwZ1ZIR3hFUVpPa25XMlhWR2pqTkFxVUo3VXBrdmtFWDlVbWpuY3dQbTg4VjhiYURwOFhLd0tsaXhySkU0V1V5UDVKYTNKVUtQQ2h0dnp1WkN4Mm9vUkRVSXlkeElSVHV4cHpIbVZCTkhpZk00?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
@@ -227,18 +227,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzA4c09BLThhdzQ2RnlsWXRXU1pNR0dac3M2d0JmNHU5eXl5OGM4YTVtNC1TYVFLazJrcFpZNkZNZ2ZSR2xzbjJudmd6X3ViaHVxX2RRTjQ1V0c5WkYzVlN1MFRETVEtd3ppeW1DdFM5b3ZvX0xfRGZCV3BYMVBRZ3otcUhFYVE0dFMtVU1GMUd0U3VYR1RpYW5DZzJvZk1wRlRXSzQ3Ny1vTzlJRkNSUGhaQl91QlFyYTNsdGVGQkZrRE9CaU84LWgtMnZiUdIB1gFBVV95cUxQbWM1cWRpdFZzd1p1MlFxVm9uckVnNjUxQmtOWHh1VkxGR0szS0xJQzhfYUNnS25pQ2o3eTc2YVo0dThiRUNsWXpIak9rcjhaZFNyYVJNVzFPVUZoUF9tN0hkT1BNWllyUjVvcUtwT1FVWU9IZFdaaFNnd1BkdzJNMGh2YlY3UDJLRE42NHUtNkNHdmtabU5hZUJvMGkyTGZSUFBjN19ZSkwycGZuMnJyZzJfSTA1aUZSZTBfYVlMNFZsZ0J0RGJUbFlxTDl0Y2dNYjBqd2NB?oc=5",
       "source": "Google News — Eagles",
       "published": 1765755969
-    },
-    {
-      "title": "4 takeaways from Eagles' blowout win over Raiders, including Jalen Hurts - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUxsUVJZZWFkZ2MyekRqSXVTZ0Q3a2NpQ042OHRnYWRKMXExY3RSRlRlT1FIVUtXU2JkQW1mSFl6c2hrajgzd1QzT1RUdG53ZkgyOHA4LVFDTUpPVmgyeG9MZ2NJS1lOYUIzY25iWU9NdzJpNXJLaWxMRi16SGhzcG5oTW41Y0RKRUdIRXNXR0RNekx2ZHJ6YlRqSFhMMERDTW13S0NUalVSMXdDNklrVEF1RTZhMENZcHRoSVhnMXlnNW9JM2ZWNVE3Yw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765754760
-    },
-    {
-      "title": "Handing out 10 awards from the Eagles-Raiders game - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzlETGlzdEVkWWgtODBPRk5GQllCQXpOeGpFM3VmSEhFdDd2WDVzRUU1VVRWZXRkN01wUS1Ib09GNDUwZXVfY1lfWkxoWWJla1hwV2FMNk9FaTlRaXBCNi10NEY4RGJ5R0hXR3RKT1gwSXZmR1dueU9MQmlLeTBUMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765754669
     },
     {
       "title": "Hurts bounces back as Eagles praise QB's resolve - ESPN",
