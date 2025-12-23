@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-23T20:45:22.104467+00:00",
+  "updated_at": "2025-12-23T21:21:58.146879+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Commanders Film Review: Cool to see the development of Jordan Davis",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166898/eagles-commanders-film-review-cool-to-see-the-development-of-jordan-davis",
+      "source": "Bleeding Green Nation",
+      "published": 1766521934
+    },
     {
       "title": "Eagles News: Lane Johnson among biggest Pro Bowl snubs (once again)",
       "link": "https://www.bleedinggreennation.com/news/166912/eagles-news-lane-johnson-among-biggest-pro-bowl-snubs-once-again",
@@ -91,18 +97,6 @@
       "published": 1766404800
     },
     {
-      "title": "Eagles eye bigger goals after becoming first NFC East team in 20 years to clinch consecutive titles - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDhKVFZCc213N09KaFRZU0lVMTBTeGN3V1YtX2h2U3pINUhVZzY4dlNOWnlVTzZRa2xrLVRTUkJZRjhNTW5YVnJJYTlxSExwb090TV9Qd2pzV0JDQS14dENZVnJXcEVQdF9LWkZOQkJCMGtvTjVnT3Z0a0N2NnMza1M2WjlRN3V1MG5ablI4eVB2WkF3OFdHZzBjZmZkbGo00gGmAUFVX3lxTE5LMXZCSVd3TU1XSVhjbUppWmd1MEJKVEJlb25MUFk3anVPOWJkX3dfd0QyNG9XOFNFbzFaT1hpcnNDaVBxM2o3VlFTTlk1MlFkNGx0UEZmQ1NkSTJBa2ZNaVpBcE9BQy0yMzhpdkRqYmVVcG9ETFNDWGE3MHJzQ3NhSHVXd21wWTBOSHFXWkZXWXZqUnRkX3c3OXFSVWxORF9XTHhPcHc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766350403
-    },
-    {
-      "title": "Eagles rooting guide for NFL Week 16 games",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166834/eagles-rooting-guide-for-nfl-week-16-games",
-      "source": "Bleeding Green Nation",
-      "published": 1766344531
-    },
-    {
       "title": "AAA Official Review: Eagles react to winning the NFC East - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFh6ZjRZRXlnazBTcWhtSVpQLVhzODJSeHZydjVPQl9IazZ2SW1Qdko4V3Byem1fZjBOVlJ3S05OaWZXNFpGbncwdl91R3hRSDJrSUJDNWJKNnRCNEQ3bGpFLTIzMkFtWEVVNFRKczNwVFhnR3RGV1czOTNoMDdCVnBYYzFBOWNaOUp6N1N2TQ?oc=5",
       "source": "Google News — Eagles",
@@ -121,6 +115,12 @@
       "published": 1766301248
     },
     {
+      "title": "Eagles win 2nd straight NFC East title. Who can they face in playoffs? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUtWXzB1ZjhIcGJxZThaa2NhOFZfMHJLRGtMZHl6cnNHZjBFeEp1MEZwd1lZTW8zMk14d1Bzd2twRFdMZGhKVkE1aTdST2tvbzNTZWtjRmlUUFFFNUltd1EwZkVLLXE5QjZURnQxQnZ4TWU1RUlGN0F0M1dKVUtnLUhFWGMzUEpQSTJPXzRaanN0Z3hudWRRaVE0dFBybTBzWnBmaWxwRXdONU9tMXVGd3hsN1k5ZzR3ZVFxd1BmcUNRckRacjBBSHRGdDNsRmRRZ3ZDQi03dkM?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766294495
+    },
+    {
       "title": "Eagles Locker Room Interviews: December 20, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjJ2a1NWMDNxQVpYZl8tbzB3alp6UVd6bDFjYlE4Q0N6WU5ZVEN1UWxFMThXWVNMa1U2QmdMTWpSR0NUYUZPY3FWZUtBRkN6OXFMS3FBMVQ1TTlIMTVPQjdlWFY2aUlzekpyZTQxZDVyR2I5c05XQWdLbGdFVGhqMTFmZHFzVEM3c2JVUWJMWkY?oc=5",
       "source": "Google News — Eagles",
@@ -133,10 +133,22 @@
       "published": 1766289780
     },
     {
+      "title": "Eagles Drop Road Contest to Utah - Eastern Washington University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUNUMXZWZEo4ODdUNlF1eHl2U2YxdlBIcElPb2ZPc2pMQzg2ZmpveF9BdjdRS3lSSXM1MEpxYXJJSk9OWXNkRE9sVS1LQlY5TkhpQ3Y5YnJVbDYxODRSdjZwcE9UMmlKLXhjY2puVTZKck5FczRKUjdCMVpYeEdLaFhTczhnU01FYW52djNlWUtnQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766284637
+    },
+    {
       "title": "'Been There, Won That': Eagles clinch NFC East - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmhoZS1XUFBKZzBLbkxBVXhjMVdHX1h1NHlVSkZkVG9sS3VINy1oR04zalpHU1d1OXVJY2ZPRFVfVmlvQXNYZXBGdVltb2c2cmpSdEcxWjItTG5XcUZSU200V2V1X3BWdGJjLTJiaHJtbmxaVjk4X1lUMXBSbnJGa1Q3ZEkwZ0xLTlRZdmtqaGRXRlE?oc=5",
       "source": "Google News — Eagles",
       "published": 1766280780
+    },
+    {
+      "title": "Roob's Observations as Eagles head to playoffs for fifth straight year - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa251SlZVS0daYktaMFk4eE1Sa1E1X3QwQXlmYUpHRDFIakFKSHZ1cXlmTktiNXZEV0x3RkczT21RYUZlclF1bl83N0M4OERjWWJYNFdyYmZPRlY1MU1FWlM4ZzMybjlXd0Q0SlFaQURYT1RTaXhDNGJjcmo1N1M4eFVOTDhEYk50bjhCOUNFZkxFNFlCSWF0Z0ZWRkZrSEtFVWotY29INUV0VW1yN2VlYjZRSHA0d0EzRE43THQ2Vm1IUFppTnE0Q0JOOHF1WEZyMGhCMVhB0gHeAUFVX3lxTE8zam91RFhYeW9meEpISktLXy1ZRy1BTlNONFJleXE1RmlGSXhPVVVKcTBsdHlnNGNmdXI3T2hFYnZsQ2VRbVRKV3hhM1I5ZWZVNWZZbXFDUnNXOVpoOFVqZEkzQlRRTDhUYW80bWprVU5fa1RPazBOeE45UTFlNEhDVHZEb0dDcW51YmhlRjNEaENkSE9pSWpjWTZJQ0hLcDE4cVFqS3JGTUliWG85M3ROa09qMmpuMGRBUXNlQU5CYlBvU0tHay1fTkVtWDNhb1ZtV1BqWjVNSUI4SC00Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766280461
     },
     {
       "title": "Eagles are repeat NFC East champs for the first time in over 20 years - PhillyVoice",
@@ -145,22 +157,16 @@
       "published": 1766279126
     },
     {
-      "title": "How did Eagles' offensive line turn its season around overnight? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY204Rm96a3NTc29WU09yWlNRZEFvZjgzdjJLQmt3aUFrVlpTM1pBUVB1Y242WkJlUjBvbzNHY242Uk1KdnhHaFEzRzdQdjFpSW5tZVBaTkZFbFBvMkFoUWg0MlNHM0JaWkRjM1BKN1hqaUsxMzdGRzJhUmpiZjlKc0VSSnNVcEt5dEM2d0Iwb0NqQWhUbXplX00wYndNV014UEN4Rzd2UUdLRVJmY2YwOHRtemY4amRzSDFxVkViakd2cUFzSktYaG9mUDjSAdQBQVVfeXFMUFFNUWRvNlVEOWF0dEdnVEZRWnE4MFhBclQyMXhvd2UwS2pfR2M4M3VOUjZ6YXBzeGtVaGdqRV9lOGxhdlJYSnNacFo0YzZhOFdsWUhhOG42d0RsSVRSUS1NOTQzVk5kSWEwT0FYcEM3WUJ5cFpxMXRVMVBUWTFkYkdEXzVHZWVvVlJYWUN0ZHZkWTI4TW4tejZtaEI2OTJMakpQcDRsdmJhQXlhWk8xc096cWd4MzVYV3ZjMEt6OW8yRDFEWjVST1lvN2oyM2FkNHdXMmE?oc=5",
+      "title": "Highlight: Brandon Graham continues his dominance with an early sack - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmxOM0FZYV9pZFBxWHpTOFI2RFYzZFFFWFRQU3FkZWFsaVV1S2RYMWZXdHp3bkZRRG15WG9OVldCejdMb1hZOWhMNFpqWnpjRzJxM1ZTWGdvQUgzYTNXZThTYzd6NjZWWFF2VVpySXJPS295TDg0R3huN29FLXNQbC12WG5Xa29hMC1VSGtZTVZUaDhnUTlvMUJZZVlMWnNxU3p4U1VMREwzTnRl?oc=5",
       "source": "Google News — Eagles",
-      "published": 1766232000
+      "published": 1766271430
     },
     {
       "title": "Eagles on verge of first back-to-back NFC East titles since 2004 - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamMtQ2VJbUJGQ2RRVlY4WDZPTkZZR1B0LTg3dEhfZmUtZUNMM095MU1NVUdMOTdQSF9FRnktbGViUDRWN3VTNmkwd01aS212RzdxOEVlSXN4eEhZbUlLR0VoTTU4SFZaakJjemlOeUVmMGRKSUNPb2ZWYjRFbS04SjB3eFFMeHROVUtGamM0Y19rVFU?oc=5",
       "source": "Google News — Eagles",
       "published": 1766154840
-    },
-    {
-      "title": "Eagles Set For Home Test Against #3 South Carolina - FGCU Athletics",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHJxd2MyQllmTWdLajV0UlFoOEFjWDNRenVSdzBOWHhITHl6NDh4X2FTOHBHOU0tU1h0SFlDTktjdDh2R3JiN0dyWmJPZU1hSWZfZmJmbzhsbzAwNXVFR1o5R1JDZldOWXQ0TThpaTlXUzdZMi1LZ193by1pRjI4M1Z5cU5qd3pNUjdDWXNvZTEweExmOUFKaXRxUTBUa3R5MjVWTVZ5bU5oZk1NcWRaa1AxWnU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766153063
     },
     {
       "title": "Eagles midseason additions relishing a clinching scenario - NBC Sports Philadelphia",
@@ -170,7 +176,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOakozWm5KeDI3anFVX2JpeW5QcGVRZG82bXJBNEgxTmVpMHdNUUZrMGQ2NkpjNHVFQmJIb3lIVVlNenpncjE4aEZhcXRFN214SWRlSHZrQlJwWDNBUy1MZFo2ZlU1UzVIcW9ZWG9qOHBmNUJFaUJFSm9rS1ZNQjNvVDhvMF9HU05PTzlncjhFT0VURzRDZ2hCeU9Pb1JDVkk2aWZPTTJ3R0FZX3E4UkszZ1Q3NHZTVlJ4Wm9uaEU5cWZsZ1NlXzlaQjhIa0R3Tm9zaS1nMFVCbWZYeXJkSGxuVTdpcXJEZkxnTDdWUVhzUVhXU18tMGlkRHJkSVlCQzVreU96TktFOFdWbFhfckdfaW4ybC1NUkQ2SjVhaHR4b0xpcXRRODhrVElYUFo2aFcwRUxOU19LSGMtODFzeUJscUNZcTZFUWtWODlfYl9MandYVmNRdzZLazJiS1Nrdk9TYWJ4OW5YTHhQUHNHRXNqYjBqSEJBRTRUSjFSdGNqaUZtaVFONnZCMnV5elNwVEFtVEVlYnpyTkJfWWlNSnZr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQTlZkQk1iZ2w4d0NVTGd5R1lUVjR6aTQyWi1IME9VNkQxRzlKU0tNU0k4eHZ0eXVSd1ZZeVZpWlU1ZnVQRWZpbTNlRmhUUExZZk9zTDVnQjdJaHF2djNJV1ZwOHp0aUpTdGROd2hDMXl0a2N4Q0FWa2FMRDNoR1dhWWFETFpIZlFDV3lNckFvdlNTUzdLMGdncEFYWHhRaEwtMVJma1l5cml0NTFQMEJINTFZMll3eGY3UEw1MWRMdmFrNHMwWVhGQXgyWXdQZ2x5bDVrckJiVHo1cXZSUHJJRXhjNDFVOGRIN0JucTBVbGdwYnlnOGFURlRITXN0ZXJ6OTdhSmdKXzZ0U3RmSlF4RFlLV3dzN2JRaW5XbkNOcElrN2t0R20wVXVoVGExRkVPbGJRUGJtazFqdXlfUzJnTndjWFZadGxyeU5PMExpYXFDc2VFbzFkWlh2M2xjNTNCR1B4bWtLSjlEQ1N4N2JwV3JESVFDYzBHVm0yRGY1MG5hbkphME1aMVRkb19mMkl5NlF3Vks5TWNHSDExSmJN?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
@@ -197,6 +203,12 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNEZGdVFDdEZKbE5tRE5ER243ZmdKVjB5Y1BoQ1NxdU9DeGpfa1k3WHBvSXp2VFFMUnpfSUtOM0doNWxiLW9hV09EZ281YXhYcXVFbkVESTN3M28zVE8wWXdhd2tzLXF4VXpueEp6V0VXdEJwb3p1QWVhYjV3eFRNaEhJcldIVmppdzBnMW9PUVpKWlVlbzYzdDB4d1o3TlQ2eFNhLXZEZXhZd2V6MlVoSEEtZzg2YXN0bDB4Q2taZlJ4QkhGRENRVlFEbm5OaC1tV1JNQmVqRU1BN3M2MmVBQzdhLVptUG450gHwAUFVX3lxTE1KY1MxVVA1Y3hIWm9WZDZzRVF3SGZqQVJBODM4S21VdExDRFZDOG9VWjJ1OGdtZEFzeHlUamRPa1NpcFpCazNMejNOdDMwdWpuTUJUOXVnclE1UmtNaGtINTlQeThhcGt1bndlb0xJLWxtTlhTSmR0UVhfSXBrU3JsdU5iM0dFSEthR0ZkOC1SNklBU2VSanlXbEhaTlRPQy1rR1JSX2toXzl1cXcxQWFBdG5GcndKUEdGUnE3WTZJUDJpdFZXQU9ZY0pKS0JnbEhxcnhzMkNMcWR0S2c1aU1ONVZ3SlphRE5zUUFCQUFscg?oc=5",
       "source": "Google News — Eagles",
       "published": 1766081124
+    },
+    {
+      "title": "Nick Sirianni Press Conference: December 18, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1hSS244cGJNSjU1OHpJYTlpQzllU205S2k1djJXd19KLWVWZmEyelo4dDU1VHdJZGs0WkhuWmV1SWo0c0JaazlldGwtNG5sXzBiazN1eWVLc18wb25EVEtHdzNjMEJ5Qk4zaENoaUotQmN0UUFTZkJpcFBfNmlfaGI1RkFUanp6NmhRZFZfaV8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766079350
     },
     {
       "title": "Joe Dailey Hired as Eagles' Wide Receivers Coach - Boston College Athletics",
@@ -325,10 +337,10 @@
       "published": 1765699200
     },
     {
-      "title": "Greatest Trick Plays in Eagles History - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzlNVTYyV2dJYTZlTUhZRGhqbGptVHFIckpLeW16V2xqWURfUElvMkxOTnNFUWp5Q0laNl9wVWJ1S2V1T09Zci1WM255NmdzM1FfWmVVUENIc0JrOElNQjMtTHhBTlpnVmk4U3F2OTdQLWc5SHplTENUekhWX2VTZDRJRTlqZw?oc=5",
+      "title": "When can Eagles clinch NFC East, NFL playoff spot after Raiders win? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFpzNTJYZElobmdtYUFMWXBBcVZxa011eVpVWnBmWWV5cEdaa2kzbXpMV0tCWTlveFYzZEJJbVc0eGxfbXR2am50dUs1d3ktUUZzVFlXMTFFMzVPRTFTRnA4S1BNaDRaU0xKc0kxV00ya2ZlYVV4Q25xVVRkZ0NLRFF3VFpRYW4tTUV0NDZTRTNmOVkyMG4zWWs5MGpNNV8xdHlQUUh0MDI1Mk1fTDJTZjItYU1PVExJYlpRazVhbWJ5MEJCOXgycGxOQWY?oc=5",
       "source": "Google News — Eagles",
-      "published": 1765562437
+      "published": 1765699200
     },
     {
       "title": "Raiders vs. Eagles Injury Report - Philadelphia Eagles",
