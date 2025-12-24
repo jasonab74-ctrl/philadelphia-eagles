@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-24T17:42:07.453923+00:00",
+  "updated_at": "2025-12-24T18:34:29.015920+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Cooper DeJean wins NFC Defensive Player of the Week - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVlZRW9SUVprZVM2Y29SWXFVVnR1UlhPb09Ra0Y5dkFzRHBMT2tkN3Z6S2c1RnFmaDdJU2xCaHB3dU5LYjFJNEZEWUpxQk83TkhWa0kyQUVLYUNER3ZUUWliODFNV1ljOF93cTVHcGZBcjN5alJWeE9EODVJUk9ubW9sMmQ1TEV4WW52Y3dwUzJYWk4tVkJzLQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766595738
+    },
     {
       "title": "Eagles-Commanders snap counts: Good things happen when Tank Bigsby touches the ball",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166989/eagles-commanders-snap-counts-good-things-happen-when-tank-bigsby-touches-the-ball",
@@ -16,6 +22,12 @@
       "title": "Eagles News: Not time to abandon the Tush Push",
       "link": "https://www.bleedinggreennation.com/news/166985/eagles-news-not-time-to-abandon-the-tush-push",
       "source": "Bleeding Green Nation",
+      "published": 1766589126
+    },
+    {
+      "title": "Eagles News: Not time to abandon the Tush Push - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2pBTTE2cFgtOVRlVkljUTBlcWliUDEza1dRd3M3RHI5OXp5V3JKQ0luOXNtODdxdnRQSDU4UlVUVkpwSWp5LVMzLVJET2ZLQ25HWjd4LWZaam95SmxzU1ZxZEZYWWZ0MUlFbHE3cUxQS2FQa3EzTXJsLVN1Q2o2SS1vNFFwZFZDdDhiSXI0RnNRMVNzRmNIcw?oc=5",
+      "source": "Google News — Eagles",
       "published": 1766589126
     },
     {
@@ -127,6 +139,12 @@
       "published": 1766476740
     },
     {
+      "title": "Eagles Battle No. 10 BYU Early, Fall 109–81 After Second-Half Surge - Eastern Washington University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTW9LbnBfU09XaVJoU1FZcHE3TUNoQncyR1FDREJaR05NTzJrR3RVdFNpWXBSU3lxMUkzQVF0SF9yUUZBX29FeXZvelBqZ29JdW4yc0dISV83dExzNGtib3pXVzgzUk00a0NwalFuS0xxQS1tb1MyV3BUT0xrRzQxeld6bVRTTldsT3JKaFZfTFZvQ3NyenZQZDBLUjBDUHdLZU9iQUdtYW5vSkticHVpZFFEaERSNjg2TTYxYXV3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766464610
+    },
+    {
       "title": "49ers vs. Colts: Monday Night Football",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-discussion/166887/49ers-vs-colts-monday-night-football",
       "source": "Bleeding Green Nation",
@@ -187,6 +205,12 @@
       "published": 1766289780
     },
     {
+      "title": "Eagles Drop Road Contest to Utah - Eastern Washington University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUNUMXZWZEo4ODdUNlF1eHl2U2YxdlBIcElPb2ZPc2pMQzg2ZmpveF9BdjdRS3lSSXM1MEpxYXJJSk9OWXNkRE9sVS1LQlY5TkhpQ3Y5YnJVbDYxODRSdjZwcE9UMmlKLXhjY2puVTZKck5FczRKUjdCMVpYeEdLaFhTczhnU01FYW52djNlWUtnQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766284637
+    },
+    {
       "title": "'Been There, Won That': Eagles clinch NFC East - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmhoZS1XUFBKZzBLbkxBVXhjMVdHX1h1NHlVSkZkVG9sS3VINy1oR04zalpHU1d1OXVJY2ZPRFVfVmlvQXNYZXBGdVltb2c2cmpSdEcxWjItTG5XcUZSU200V2V1X3BWdGJjLTJiaHJtbmxaVjk4X1lUMXBSbnJGa1Q3ZEkwZ0xLTlRZdmtqaGRXRlE?oc=5",
       "source": "Google News — Eagles",
@@ -199,26 +223,14 @@
       "published": 1766279126
     },
     {
-      "title": "How did Eagles' offensive line turn its season around overnight? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY204Rm96a3NTc29WU09yWlNRZEFvZjgzdjJLQmt3aUFrVlpTM1pBUVB1Y242WkJlUjBvbzNHY242Uk1KdnhHaFEzRzdQdjFpSW5tZVBaTkZFbFBvMkFoUWg0MlNHM0JaWkRjM1BKN1hqaUsxMzdGRzJhUmpiZjlKc0VSSnNVcEt5dEM2d0Iwb0NqQWhUbXplX00wYndNV014UEN4Rzd2UUdLRVJmY2YwOHRtemY4amRzSDFxVkViakd2cUFzSktYaG9mUDjSAdQBQVVfeXFMUFFNUWRvNlVEOWF0dEdnVEZRWnE4MFhBclQyMXhvd2UwS2pfR2M4M3VOUjZ6YXBzeGtVaGdqRV9lOGxhdlJYSnNacFo0YzZhOFdsWUhhOG42d0RsSVRSUS1NOTQzVk5kSWEwT0FYcEM3WUJ5cFpxMXRVMVBUWTFkYkdEXzVHZWVvVlJYWUN0ZHZkWTI4TW4tejZtaEI2OTJMakpQcDRsdmJhQXlhWk8xc096cWd4MzVYV3ZjMEt6OW8yRDFEWjVST1lvN2oyM2FkNHdXMmE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766232000
-    },
-    {
       "title": "Eagles on verge of first back-to-back NFC East titles since 2004 - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamMtQ2VJbUJGQ2RRVlY4WDZPTkZZR1B0LTg3dEhfZmUtZUNMM095MU1NVUdMOTdQSF9FRnktbGViUDRWN3VTNmkwd01aS212RzdxOEVlSXN4eEhZbUlLR0VoTTU4SFZaakJjemlOeUVmMGRKSUNPb2ZWYjRFbS04SjB3eFFMeHROVUtGamM0Y19rVFU?oc=5",
       "source": "Google News — Eagles",
       "published": 1766154840
     },
     {
-      "title": "Eagles Set For Home Test Against #3 South Carolina - FGCU Athletics",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHJxd2MyQllmTWdLajV0UlFoOEFjWDNRenVSdzBOWHhITHl6NDh4X2FTOHBHOU0tU1h0SFlDTktjdDh2R3JiN0dyWmJPZU1hSWZfZmJmbzhsbzAwNXVFR1o5R1JDZldOWXQ0TThpaTlXUzdZMi1LZ193by1pRjI4M1Z5cU5qd3pNUjdDWXNvZTEweExmOUFKaXRxUTBUa3R5MjVWTVZ5bU5oZk1NcWRaa1AxWnU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766153063
-    },
-    {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQdlR5SjRFZWdOajRhRFppRDNSNkttYlFjR2Rpak10WGd6ejhIdUprTUp1OF9nY2FZa0x5ckZEanl5Znl2NzNOcUh6YUdncXhhdnlTcnVGUHVEaXhGczNBVUdXQ1RJZG1LUzExZ2lVX0wxSVNzbjE2WkExMm1yeFN6SWNMeEhid01iTk9YVEd0aFBPY1JxdlhxUFNpQmUyeGNZdXJkdkthX3EwT3BtNk9ZOG9Oa3lzX2NHNkF3azB6dWxtaWd4a0s2U2dTT3BpaW5FV3VNRG5kNE51VnJHMHJOWk1FRU1fUGVCRTFiOVpYU1dIWHpvTzQ2QkxQVHBHNmJwVmg4bllKaWxHeERhLTByaXF3XzBsNUllb3RqTXdJanFObzJRamFCNFdteXBZOEpucldXRVZ4NFZ4elQ0QXpDYkNDc2FmUWlxX2ltZV9uTVNpZkkwbEU1dVhsLW45T2NwbTRvZEwyNTViM0VZekQwOVlYUWpuUmd4VGVxd2xnalpELUFabzg1a25heUtlcmtTZFh0ZTVVMGh3VmpLdTM0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOVExjRGhmMVh5NUZTdEJjVnIySXRabGNVcWN5a3AtRThseWFZR3FEYWhsYUFkTGI1ZjJCMldWdHNrblRZdURpWHZaZVkwT016dHhIV3l2Q3k4ZW5kYVFuOHBNSG0tdkg2X21raTd3YTJ2WTh0QzQ3MzFxNjZTSjVkb05ZXzdOWjBaYVBsaDh2eTNDZEIzb1pua3Z4TTBRcTV2UENqNnBsMTUzNlZRc1l4QmRxOEJmMEptZHNNclFvTk5HVk0xXzFVSnpGdnBZTVBnckpOa1Q4Z2VYblN0U0hiem93bTAxbm9mMVJ2Yko4ZHBSZlkwSkVVZWlKT3FpNUY5czl4N0Q5dFBhSWtQTF9tUk5MQV9ET3NFdnBkdjJRWEVBSFI0NFpHNDY4cm1qNFJDQ2toN3BoNzVzdkhMN0ZERFdIZkJ4YzhucWFDRmsxbVh5Vlpfdy16QUNocl9hZmdTZFFNUFk3anhUMGF5ZjJ2M3FRVi1JRmpUbExpSkxvRWRkZVpuNzlkakdLQThWV042Tk04d0lwazAybHBsZHZz?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
@@ -235,10 +247,22 @@
       "published": 1766092788
     },
     {
+      "title": "Lane Johnson provides update on his rehab process | Eagles at Commanders Daily Updates - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLThmNWtWdi1ndjg5QTBabDVuQm4wVjIxWUh5aGhZY1lfa0NmX1lMUGxGRHlxZ1dZX0hPZjRkNVVLcVpaM1d4R2Uzd1BjMXJ1d1JSZ0hIbmlHQW16b0dJUXotaVJ3cnlISmRrRksySWlKSTdMVWdKNWhVOFNjZi1sdkRrWWtjWk1icVBBQWV0RmZpTGNlRW5pUVVkaUg2Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766085525
+    },
+    {
       "title": "Eagles injury update: A couple OL return; two players ruled out - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNEZGdVFDdEZKbE5tRE5ER243ZmdKVjB5Y1BoQ1NxdU9DeGpfa1k3WHBvSXp2VFFMUnpfSUtOM0doNWxiLW9hV09EZ281YXhYcXVFbkVESTN3M28zVE8wWXdhd2tzLXF4VXpueEp6V0VXdEJwb3p1QWVhYjV3eFRNaEhJcldIVmppdzBnMW9PUVpKWlVlbzYzdDB4d1o3TlQ2eFNhLXZEZXhZd2V6MlVoSEEtZzg2YXN0bDB4Q2taZlJ4QkhGRENRVlFEbm5OaC1tV1JNQmVqRU1BN3M2MmVBQzdhLVptUG450gHwAUFVX3lxTE1KY1MxVVA1Y3hIWm9WZDZzRVF3SGZqQVJBODM4S21VdExDRFZDOG9VWjJ1OGdtZEFzeHlUamRPa1NpcFpCazNMejNOdDMwdWpuTUJUOXVnclE1UmtNaGtINTlQeThhcGt1bndlb0xJLWxtTlhTSmR0UVhfSXBrU3JsdU5iM0dFSEthR0ZkOC1SNklBU2VSanlXbEhaTlRPQy1rR1JSX2toXzl1cXcxQWFBdG5GcndKUEdGUnE3WTZJUDJpdFZXQU9ZY0pKS0JnbEhxcnhzMkNMcWR0S2c1aU1ONVZ3SlphRE5zUUFCQUFscg?oc=5",
       "source": "Google News — Eagles",
       "published": 1766081124
+    },
+    {
+      "title": "Nick Sirianni Press Conference: December 18, 2025 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1hSS244cGJNSjU1OHpJYTlpQzllU205S2k1djJXd19KLWVWZmEyelo4dDU1VHdJZGs0WkhuWmV1SWo0c0JaazlldGwtNG5sXzBiazN1eWVLc18wb25EVEtHdzNjMEJ5Qk4zaENoaUotQmN0UUFTZkJpcFBfNmlfaGI1RkFUanp6NmhRZFZfaV8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766079350
     },
     {
       "title": "Maxx Crosby says quiet part no one will admit about playing Eagles in Philly - Inside the Iggles",
@@ -333,6 +357,12 @@
     {
       "title": "Las Vegas Raiders Week 15 Inactives vs. Philadelphia Eagles - Raiders.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzVRQk1YZWdoci1nbEVsTFI1elFyRnYzRXJfbVdZR0lrNEdGWlhUZEZqUFNmRWcxTUxJY09PdDlXbDlRUjVLMzNDbDlUWllkeGItbzZwTGtFbXdnd0RkUFdIZFMtZHIzSEhSTTJVUEJtQmVXQnZ0ZjV2SjNjSElSWWVGZE1IZlhsdXI4SHpySE9aeV9UQkNXeVh3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1765699200
+    },
+    {
+      "title": "Highlight: Brandon Graham's first sack of 2025 comes against Raiders - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3FBZm5FenplME9oZm9GSmVfTEZTMzJVY3RHem9nZFhmNG0yVEVtNGpCTmRlQW44M2hfT004VjR6c3ctWXR5dks3V0piOHVIOEV3ajVuYzM5clV0VGpnclRhaW12WUVHWUFKR2lnRXZfV291MnNBclNfRy1fdTN0bkdoY3Vxam1FOFJscjVRZWRRWi1yT1hKWFpIa1JrbEFNVEJoZlA1Y3h4VDlGR04yWXdQYWQxVEoyUVpON3Bnc0o?oc=5",
       "source": "Google News — Eagles",
       "published": 1765699200
     },
