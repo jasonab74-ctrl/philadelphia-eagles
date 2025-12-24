@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-24T14:22:47.969076+00:00",
+  "updated_at": "2025-12-24T14:44:47.585041+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -91,6 +91,12 @@
       "published": 1766476740
     },
     {
+      "title": "Eagles Battle No. 10 BYU Early, Fall 109–81 After Second-Half Surge - Eastern Washington University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTW9LbnBfU09XaVJoU1FZcHE3TUNoQncyR1FDREJaR05NTzJrR3RVdFNpWXBSU3lxMUkzQVF0SF9yUUZBX29FeXZvelBqZ29JdW4yc0dISV83dExzNGtib3pXVzgzUk00a0NwalFuS0xxQS1tb1MyV3BUT0xrRzQxeld6bVRTTldsT3JKaFZfTFZvQ3NyenZQZDBLUjBDUHdLZU9iQUdtYW5vSkticHVpZFFEaERSNjg2TTYxYXV3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766464610
+    },
+    {
       "title": "49ers vs. Colts: Monday Night Football",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-discussion/166887/49ers-vs-colts-monday-night-football",
       "source": "Bleeding Green Nation",
@@ -175,12 +181,6 @@
       "published": 1766289780
     },
     {
-      "title": "Eagles Drop Road Contest to Utah - Eastern Washington University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUNUMXZWZEo4ODdUNlF1eHl2U2YxdlBIcElPb2ZPc2pMQzg2ZmpveF9BdjdRS3lSSXM1MEpxYXJJSk9OWXNkRE9sVS1LQlY5TkhpQ3Y5YnJVbDYxODRSdjZwcE9UMmlKLXhjY2puVTZKck5FczRKUjdCMVpYeEdLaFhTczhnU01FYW52djNlWUtnQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766284637
-    },
-    {
       "title": "'Been There, Won That': Eagles clinch NFC East - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmhoZS1XUFBKZzBLbkxBVXhjMVdHX1h1NHlVSkZkVG9sS3VINy1oR04zalpHU1d1OXVJY2ZPRFVfVmlvQXNYZXBGdVltb2c2cmpSdEcxWjItTG5XcUZSU200V2V1X3BWdGJjLTJiaHJtbmxaVjk4X1lUMXBSbnJGa1Q3ZEkwZ0xLTlRZdmtqaGRXRlE?oc=5",
       "source": "Google News — Eagles",
@@ -206,7 +206,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQZmZQM3dYdEpaSnBhQUNfUmtaMks0X0xkUW12Y1VGLXQtSkgyN1FOY0o2a3hiRU9RVC1HTGhydURsZFA1MW5HY2JOeExBMVlBX2Z2a0FoYmdtSE1pV0gxZmNuc2huaks2aDN2eVJ1aEdjN0tZWVQxbmNGY2NsX09rTl9rUjR1ZUM5dUd5NWZrOUl2SlRTWkxQcHRiMjM4WTZ1RUpDV0p4SGpMMG9PRTZBcVRMcl9lNkc5VFNMU1M3V2ZkX201djhRYW5ER2lVV0ZIYU5NRjM0OGN5TENGUDdJVEZESXBiejF0RFQyMmhScWhydW5nWkVZNW45R201b0Q1ZGxTeGJnS1gyTzQyeTV2NnJ3RU9iOEVvQjc0Q0h6cXNCYUhHWV8yTFZiUU50QU9OdVd5NmJrU0U3UXFBQk5lMW96eFZ0b3lHakdtaGZPSklIOWcyNk8zNDRhNko4b1NFejJaS2FJeVZLM2NUZEYydkZpUnJWSjdlZUFHMXllM2NaQ09UUGpfOWY3ckZmdk9DRlZUWHdqa2hUREs2SXJN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQRGFtc3BvVnBrY2pFOGJTVGZoaXd6cG5TR1Nzbk1SbGhCajdHZ3dTVlkyVUduU0pIT2Z0ZTU5V2FrOWxGTndrd1ZCTldBRFVHQW41SjIwWlB1TE9pRDdPRGJIZ2JiYU9ZZWowRFNMVl9HTmZGUmtEcnk4emxNU2hqOFBlR1NCNlJLbUZ4OXJDcHRFVHhndThQNTlOY0NHLXo4M2xyRmpNeGw1TVdVRmRGSTBubXNBMkUyVU5sMFlXUXZVSUNILU5ZUjNCTWZmU1lnbnA0UDZrQ2FpcnFzQk9MN015V3h0cnp5YlhVenZGWHJvMUJkUGdOdmpNQ0NoRy1BTkh2aEpWLWxtcHJYTWIxY0RUb1FyLVRXbFJsM3FvaXJDVk93WnRLclZpS01sc2M1bno3MjFNVlcwbUhvNUNnTGdoc1d2Nm1YbllNT1J6M2ZNOWJrbWlkTmE2WlpENUx1T3h5VWg4TnZUSEo4LVhYYWoydHZVQ3RVdERkOHVXUlhhZWREWU9CWDcxQi1TeUE0QkFMWVZ0T2tVb3BmcWdv?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
@@ -343,14 +343,14 @@
       "published": 1765699200
     },
     {
-      "title": "What channel is Eagles vs Raiders NFL game today? Start time, schedule, where to watch, streaming - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZlc2WGlJNGF2UU5lVm9TTUpmeFlmUmNHNThRMnBzSzRpZ08zcWVkVm9lc05sQlpBY0k2ZHVoZloxZ2RLS2toaVRDNWlldHNkN2M5NmI0ckJDVV9vMkdmZndfdmRtU1NXZWF1OHhJVTBWS2ZuYV9RblVIQjgyN21haDZMQzNVNG5fUnFuVjQ2ejNkb2lJZHBYVTNENE5XeXVkMDFaZkk2cXpscTVMUVZSekVvbk5LWG9qdTYzYzcyU3o1VGVFcjhaNG96LTBMUkQ4UmRZN3JyOWFta0l1RU0tVUJlZ0gtQy13QzlXQU51TmZMQkd5Q3dNZW9MTEFZNTBS?oc=5",
+      "title": "Highlight: Brandon Graham's first sack of 2025 comes against Raiders - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3FBZm5FenplME9oZm9GSmVfTEZTMzJVY3RHem9nZFhmNG0yVEVtNGpCTmRlQW44M2hfT004VjR6c3ctWXR5dks3V0piOHVIOEV3ajVuYzM5clV0VGpnclRhaW12WUVHWUFKR2lnRXZfV291MnNBclNfRy1fdTN0bkdoY3Vxam1FOFJscjVRZWRRWi1yT1hKWFpIa1JrbEFNVEJoZlA1Y3h4VDlGR04yWXdQYWQxVEoyUVpON3Bnc0o?oc=5",
       "source": "Google News — Eagles",
       "published": 1765699200
     },
     {
-      "title": "Eagles vs Raiders highlights. Philly dominates NFL Week 15 game - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVppMXEyS2NhbGV1dGc3aVZkdDNIdGxaejdlWUQ1Mi1BSG9ETEhxYjJhVmt2X0JGRDdwMmlfdEc5NE5JV1ZOeUkzYnd3YndqdjlGcGxnV1psVDNIRER3LVhCWEY0VGdKQUk4V3JtY2NrN2tnMzdwUHdybmk1dFpoMFQwMDJDU0Z1T04xQXhVLTdRRk1KcVFzX3EzZFQyQURsYkVWR05lSElqZ1BkMlZDLVNB?oc=5",
+      "title": "What channel is Eagles vs Raiders NFL game today? Start time, schedule, where to watch, streaming - The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZlc2WGlJNGF2UU5lVm9TTUpmeFlmUmNHNThRMnBzSzRpZ08zcWVkVm9lc05sQlpBY0k2ZHVoZloxZ2RLS2toaVRDNWlldHNkN2M5NmI0ckJDVV9vMkdmZndfdmRtU1NXZWF1OHhJVTBWS2ZuYV9RblVIQjgyN21haDZMQzNVNG5fUnFuVjQ2ejNkb2lJZHBYVTNENE5XeXVkMDFaZkk2cXpscTVMUVZSekVvbk5LWG9qdTYzYzcyU3o1VGVFcjhaNG96LTBMUkQ4UmRZN3JyOWFta0l1RU0tVUJlZ0gtQy13QzlXQU51TmZMQkd5Q3dNZW9MTEFZNTBS?oc=5",
       "source": "Google News — Eagles",
       "published": 1765699200
     }
