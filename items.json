@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-24T16:52:03.540867+00:00",
+  "updated_at": "2025-12-24T17:20:01.623834+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Commanders snap counts: Good things happen when Tank Bigsby touches the ball",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/166989/eagles-commanders-snap-counts-good-things-happen-when-tank-bigsby-touches-the-ball",
+      "source": "Bleeding Green Nation",
+      "published": 1766595172
+    },
     {
       "title": "Eagles News: Not time to abandon the Tush Push",
       "link": "https://www.bleedinggreennation.com/news/166985/eagles-news-not-time-to-abandon-the-tush-push",
@@ -133,12 +139,6 @@
       "published": 1766438266
     },
     {
-      "title": "NFL Week 17 odds: Eagles in rare position against Bills",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/166843/nfl-week-17-odds-eagles-in-rare-position-against-bills",
-      "source": "Bleeding Green Nation",
-      "published": 1766437622
-    },
-    {
       "title": "Ranking Eagles' potential first-round playoff opponents, from easiest to hardest - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWhobFBsVGRMVEZ3ZFpfSXRoclpzM09OVkoxbTNBR28yU1BBRjFBTFBkY1puYjRGWllDZU1SbUtjQmlLZUxCNGphd09QYWl5WGFvNXY1VVpOenF3b3JDQU1BRWV3R1YwcGpKajVOQmNKcmIzTGNWSmRNcXR6RVhPdllBZDRDSzhGa2tQbHVHVWxEUFpxUlBjYndPRzNGdXg1WS1rdGtxMk9ZZi1lcUJBUUQ3RXcyWDdaUkVEeHZYT2tXcW1fNXVTOS1zUzNsaEVRSHg4R0V3?oc=5",
       "source": "Google News — Eagles",
@@ -224,7 +224,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOckRtNjFyYTJ4SWJZclFxSFNZTHBFdGtyZ0N3ZkNzT1doMFk1WWhzMWtKS2RUUkRFTU9lYUI0a1dDSXYtclhxMzl6TVU3eV9fNWQzdmNuUnAwZ0lreXhxUlk5U0hCNnVSUWw1YW5OTDF4UGRQcU54NERCUjFTeEtIOURlbGl5X2N2aFgxa3hhWHROcFhBTFBDUHlreUwxUlVRcTctXzVRbEFpMFVWbHlVQlBrMHBUU05FTnhkX2tvSDAzdVB4bEVMM1g1Y2tGUTV4VXlHMkp0bHF2d3hzUi1LNGE3YkVBdDNwb2kzcFNENUxHTkNlOTZDc1FpRVNrNVNNUkdVVHkwWGFNRmhPNTdGcnI4RHRlV0IzVmw5LTZGdGp6S3NjaFhNTVVZUEx6T00ycFA0eEoybUhRSjV5S3NMODl2aXJTYUc3b0ZPYmRnMk1CXzItNU81bzBzeEFxZ1RXaG0tWTNaRmdvbjlRcHYwVDBJZzJQMGxveTJFVkhrSDE1Rl9OUmIwUF84bEJnNWp5blhuQTU2WjVpYmhOOU1z?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQY1hOVGcwcTMzRTZidDFYNjJGN3JCV1lHTHJtMndSSWpuaWw3MGR5WlgyR0UxejFZYVltZkxqcEJmTXVxaW9TWVQ5U2RaSTRucjJ0d3FFNzVyREVaMFpRTFNCM3NGdHR4aDNaUW1RY1UwNGZ0Ni1hYUVHdDFGeHVONW5YRUdTcW1oZFhleTR4c1RxNWVMU3VUWlZzX0doT1hRUHFyU2JHb0h3ZF9oaFdSNktTNGlqRC0zcHItWFd6N21oMEw2dzhtcHpxdVJ0cVE4ZUtXYTM4Z3JZV0l0VFgxWWd6VGxrX2NyQ2w4THYyYkJNMEhmTktRZTRsejdicE01T2tBVmF5dTRta0huTlhWQTBSMVpKQzllWHU2dkVnZGtRYmdjWWFSTng2Qy1Pc0pMN1d3akMtZmJvOFFWUklmMVhRMk5NX0Y1WDN0V3p6Nmg3RHE1UnY3MTVxWV9sc1c1V2pBUXNYWThzTEZ5MEYwSjFETFlCZXFXSE1TNlNKZDNnVFJSMmN3blJ5NmE2Y0d6Q1dMVFZXX0E5RjdyTzJj?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
@@ -351,12 +351,6 @@
     {
       "title": "Las Vegas Raiders Week 15 Inactives vs. Philadelphia Eagles - Raiders.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzVRQk1YZWdoci1nbEVsTFI1elFyRnYzRXJfbVdZR0lrNEdGWlhUZEZqUFNmRWcxTUxJY09PdDlXbDlRUjVLMzNDbDlUWllkeGItbzZwTGtFbXdnd0RkUFdIZFMtZHIzSEhSTTJVUEJtQmVXQnZ0ZjV2SjNjSElSWWVGZE1IZlhsdXI4SHpySE9aeV9UQkNXeVh3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1765699200
-    },
-    {
-      "title": "Highlight: Brandon Graham's first sack of 2025 comes against Raiders - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3FBZm5FenplME9oZm9GSmVfTEZTMzJVY3RHem9nZFhmNG0yVEVtNGpCTmRlQW44M2hfT004VjR6c3ctWXR5dks3V0piOHVIOEV3ajVuYzM5clV0VGpnclRhaW12WUVHWUFKR2lnRXZfV291MnNBclNfRy1fdTN0bkdoY3Vxam1FOFJscjVRZWRRWi1yT1hKWFpIa1JrbEFNVEJoZlA1Y3h4VDlGR04yWXdQYWQxVEoyUVpON3Bnc0o?oc=5",
       "source": "Google News — Eagles",
       "published": 1765699200
     },
