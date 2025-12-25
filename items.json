@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-25T22:22:38.846220+00:00",
+  "updated_at": "2025-12-25T22:44:15.200300+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles injury update: 4 Eagles listed as DNP on Christmas - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkNMMkZ4ejlxV2pkbkFvR1E5bU1iZi1udmRUaHNtSGRWeTNqS0hmU1oxU21FNzdkbm1vNDlYSnp1NTNib2tDaEgzc3JPSTBNUHNMOWVzZ1pSXzRpYUpmZ3V2X0VNS2djSEhnb0s0REF5eWZMck5QWGdRRjZpc0x3VE9fdmdZQ0EwcGQtMXZ0RTY1RmRKM0tqNFVxQVVMcjN3TUo5ZUs3eFFWV0RlT0VXbDQzeEoxZmZXV3NoazFkZDgtbllPUnRuRl9DMG5VSXhPTlROVE1mbkkxcmRlNlA4NkxON1R1d9IB7gFBVV95cUxQTlRINlpxekUxdm9hUG5mRGtRdlV0U19zSUxzSUh3ejMxLU1kaGZsQjdObjJHcWtjMVA0UWhyZTJWUVd2M3hnam54bFNhU0UtWjVmdmxsQ0FrREJ2VEZqbWJHZXNBcVVNR1ZOa19LOVA5ajliZEUzbU5JRm94RXVmYUR3eV9GQnBRam1rdWczbDQ0RHcxWmEza2poT0NPekFURElVbWtZdTcxRUhZc2NKNkk3Ync4Q19DdDdCQXdTYWluQWliYkw4RlR3RlNLOFduTFpLS2E4dlctamZtOEpSN2ZHT0U4YmtqVDJGVjFR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766696880
+    },
     {
       "title": "Is there playoff value in resting starters vs Bills? 3 Eagles questions - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdHZycDFLNHhvblFRS0Z2RUlUMEN1NmxQQ3JoOFpZWGZNU0ZxTTZTYy1Db213ZGt6UkMzaXlvd0NTaVlRZHp5UWRJeWxJaS1YNm5NUEctNG40RUZLUTdrMjN4aHNKZFRxRHFYdmtUQkVuTGp6SE1Va3hvTjhTVEs1d2JITUdIZG1UZGRhZFZ2M1NyUmZNVHJFQ1pMdFdkaWxfdnNuMm9zMkRTOWJIM3dkOEZwYUhaVmR1MERqc3RJMXIwWG56eEYySUQ5QmZpVzR1X1V2QzlRdGxWX0d0a2MzQThYSnBWVlI5?oc=5",
@@ -77,12 +83,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUFIc1I4NEJuNHhSRXhXLXNpOUFiRDZLeXV0ZE1lUVZZYUJrSmJLbzh5ckozT1NWYTczMXpIS1pXQkkwenJ1SWkybzg3cE4zdEVYa3UyT0tvYlduU1hmQnV5UFdZbUFFU0h5Rlc4T2hXLXB6UGY1dVAxQThCRDlaLWVaYlVrZnUzU2xFUEU5VXF5VWZsRXg1bmdRd2NXcmZPMHBCWS02azV4VTN5OWFDMw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766577752
-    },
-    {
-      "title": "Eagles vs Bills predictions, expert picks on Josh Allen, Jalen Hurts matchup - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVFRObTNGdkV4WVZFdkloblhOblFlRzFobnlrN1NzNkIya2ZFODBvcllLMXJ1dkVKYTJUVFRENHl5WFFYN1VMM3FIZV9fZzRXTFNLUEFxTlVjOHdJSDRMbTFwMkIwWDRPcm92c2R3NU9hNEdzTmtCWThtSnFnWWhDTUthZDMwUWl4dmlrWUFaYUlFWFVYVEI1WmJRRWhHWW50aXltaXdWNXpaWFJETlpPc1dCcWdPcTZHSWt4OFRtdHBfczFHaDc0Ykc0Z1p3RmRKZ3RXX1dXcWFjbnB4NUhB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766567820
     },
     {
       "title": "Eagles player 'disheartened' by Pro Bowl snub as coach rants. Who made it? - The News Journal",
@@ -235,12 +235,6 @@
       "published": 1766280461
     },
     {
-      "title": "Eagles become 1st back-to-back NFC East winners in 2 decades - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFVPYWlacFg4YlpkckRXOHZCSEk3TDFiRUkwcFNTYzVPSGkzY2h5UjhjRjFVSy1lcVBDdlNmYmg3T2NYM05yQTgtR2ZNUTNoRXVHVXM2WGtaMlZ4UGVIREdETENYVVZpaHdtQTF3enZidWNSVkk1Q2o2RzFKOHFvNXZudnlKb2NRUGo1WTRYMFZFRVRRbmdyNERuWVJQaXgyR0czM2JWYzBNMURpdHh2NUJR0gG6AUFVX3lxTE1mVks2N2hhd3B5M1NDZHdtOUM5RmYycmtoZW0wZHNpRU55WllQRW13VVNHb1dHT3lKUXJSeC0tSDR0VGY4LXJvXy1Sc2RnT09LM0lQUHB0d181SHZVSTJZX3R2RDdqVk1WWWFBR0U2aEE4MmhCeTd3RWhWOFpUWEtyZU1UWnBKeUdLc1Uxc3Vza3RLdklGYkhhdG9wWm5nLWs3ZUxndGpySXRodFdzYWNpWlRZUFNmaDBUQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766279243
-    },
-    {
       "title": "Eagles are repeat NFC East champs for the first time in over 20 years - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEF5ZlZodXU4NUZ3UGVRa1Q4WXV4VUoyNDZybi1yX2VCRTUzUmNtYzNsd190cDdNZU1YVWJ2eEpDRFFLYnhfRUE5S1NCbkFpM0ZfQVMxNWlVZURZOHVsTENZVzJjaWRTN2VCN19LbzdMZEcyUEVDNVpOTmducXpPbWVNRWNxMk1ON25sYy1Ccms?oc=5",
       "source": "Google News — Eagles",
@@ -253,12 +247,6 @@
       "published": 1766278930
     },
     {
-      "title": "Eagles LB Dean exits win with hamstring injury - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnM5bU1SZEM3SHBiZUE3MVNGWlozRnd2SE1LODR6czQxdkpOUjNpZ2YtY1hYTXdaSk0yODd5N1U0cWh3NkNBQ0JqY3c2eWRib1VsUE04cEdaQkc4Vkg5ZE45WEZxdzFsNVJhNjhmU19vUkRVc1JfSFZZblpBT21tT3F2ejJ3cjNlMElVU3JQVXJXeU0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766275680
-    },
-    {
       "title": "Eagles on verge of first back-to-back NFC East titles since 2004 - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamMtQ2VJbUJGQ2RRVlY4WDZPTkZZR1B0LTg3dEhfZmUtZUNMM095MU1NVUdMOTdQSF9FRnktbGViUDRWN3VTNmkwd01aS212RzdxOEVlSXN4eEhZbUlLR0VoTTU4SFZaakJjemlOeUVmMGRKSUNPb2ZWYjRFbS04SjB3eFFMeHROVUtGamM0Y19rVFU?oc=5",
       "source": "Google News — Eagles",
@@ -266,7 +254,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPSXhYUTl6ZHdTQ1JhR0k2U0tSMDBJd3FuY1FhUGpYa2JnMmlvRFdkekNXc2E0VEEtaXUtRTh0VVllUW00M1F3T2w2TWZUZE5GOU90dEdkbi1GX09MeGNxYzZzcTBuUXdtckxDdVQ1enN4ajQ2V09hYld4RUVVODBMTmN5b3hqVm95dGlzTnlhcWNpb3dheFF2cGRlbFZEaml4eU5reUp6bVhSUGZfVW5aN1FMWjFydkp0cWhOdzVjZkRMbzBKY0VGQU1wbXhXWVI2MUZHQWE3MndwZ1ZHeF9xUFZsVDBodHRFRVNkZE1kMV9GUkVkdjVzYmlrRlZ6eWpnSnQwUmVESUwzTEItVmthTnFUaFA4S3hQLWFDVnlfNjVGWTNJN182WHJTTnY4a2hOaTFNYURnaTJ3YzY2VnlPNnlqZE93djZaeDV2cmdzMi1Zc0UyLVFXdXM4dW1mR2xxQjdKMk9EcFhwNXZMd0lVeHFWZjRud0dYNjRHam13WW1CNUJrZlFiZWhpMEhROHRTV0tZVkd4UWR6d3FJQ1NZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOOTVVNUFzZktfMkRTYVd2cFd5QWJrOWN3OE9TejRvWHJnSzBJUnRMTTJ3RU9kblVSbXpHVmxmZVhJdndaQjVndnlYVTZ2eGNQNEYzM2NhWG4yWHdJU0MyMU9lWDVxYWpHT3RhREcyR0hScW41RzUwSnl0V2ZudllSMEtJVFFSUkhOemctUXQtZUVuY2dhUGxqeUhBLVhkSElVWDQ4WDkyMUI5d2tvejhTYzBzSjBJUEF5Tl9JZUNpQXJ4dGhQNWQ1SEdYZTJVX0pCYWRETGN3ZXR2XzJNTzZmLTVrZ05yT2FoWEhFcUE1eGV1dlZyTE9Ja2x2S1ZqUHNEUFFDVElUUDdSVHFxQkZLWkVsam1oUTg4MXpBTzZnTXd5a3U3RzVuQ1QzekJkV3F2WDlucEMyUTE5cXcyOEJuQW9vMnhQOUYtc3IyU2tCcXdfWmJtMURObXZueGphbmpzWGxoUFgzdVlhU2c0LS1ldHE3ZDU1QzJLRS1jOU0yV1NuQlpaUnJJWWR0bDM3Qko5ejN0QUw3NEZHV0JlUTM4?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
