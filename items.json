@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-26T03:27:29.534158+00:00",
+  "updated_at": "2025-12-26T04:10:31.433204+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -11,6 +11,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTllKUkRZdkJrY25pVEZUX2Z2R0k4bTM0cGU4bk5BVE9uZVIxYUZxRkZPTVFxU2xQSEZQQjJXTVhKZGdkTGpoLXBZX1VzNWdvNHUzejE0cUVlU1VjRXYydFpaTW9mSVkwUEJWYm5hSFVYM3RQY3NMNENKbkFvQUpJOTVMV0VoSGs3cUhIUXRmaUpmUVpnSGc5dWF4VzQ2alE4NkxWTEtfazBQd045YUQzdE9Zcm85Zw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766698728
+    },
+    {
+      "title": "‘I couldn't stand him:' Saquon Barkley explains why he didn't like Nick Sirianni - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTBZSVQzUWRRbWFRUEZvbXhHYWdiSGZld0JnbkRrOFl4NHpXNE1aMmpKYW9xSEtCYnJfb0VFa3pGdzBLNDl4RjNhUmZqZEY0OGxFYjRtWm1WRnhWX3dyVUt4ajVpVU45RG5SYzlEdVFuMTZubGdLZzF2c3JBblM0VnhsNWdwTExsdURnMHRqR3pKT2pyTnNZRjU5UFJkVEJZc19wLVlHUHhTNFhOOFNDWFhxMUhqcVQtcXNQOTdQRUxZY0XSAcsBQVVfeXFMUC1sN2dDa2ptdHVXRGUxbzN6YnJnUXJ1OU41cFM1SEJReFdHaVNCbElsN1lsQkZKQzk4cEdhVUFpRDJYSVFjNGkxNHltUUVBdGVDakNvS200eFR6THpnNjVMdnZUb2laand1UFVRU1RBdlZzcmdzZDhIM0xMMExfSXMtMDJFR0ZPY1N4bXNSakMwUzhyOGNIclM3T0J1ZldGWjZReFF5R2d5dC1HR21JMjg4a3VFSnVvclRRTXYwUEQtMFdnVEx4X1FoSW8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766664000
     },
     {
       "title": "Is there playoff value in resting starters vs Bills? 3 Eagles questions - The News Journal",
@@ -83,12 +89,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUFIc1I4NEJuNHhSRXhXLXNpOUFiRDZLeXV0ZE1lUVZZYUJrSmJLbzh5ckozT1NWYTczMXpIS1pXQkkwenJ1SWkybzg3cE4zdEVYa3UyT0tvYlduU1hmQnV5UFdZbUFFU0h5Rlc4T2hXLXB6UGY1dVAxQThCRDlaLWVaYlVrZnUzU2xFUEU5VXF5VWZsRXg1bmdRd2NXcmZPMHBCWS02azV4VTN5OWFDMw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766577752
-    },
-    {
-      "title": "Eagles vs Bills predictions, expert picks on Josh Allen, Jalen Hurts matchup - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVFRObTNGdkV4WVZFdkloblhOblFlRzFobnlrN1NzNkIya2ZFODBvcllLMXJ1dkVKYTJUVFRENHl5WFFYN1VMM3FIZV9fZzRXTFNLUEFxTlVjOHdJSDRMbTFwMkIwWDRPcm92c2R3NU9hNEdzTmtCWThtSnFnWWhDTUthZDMwUWl4dmlrWUFaYUlFWFVYVEI1WmJRRWhHWW50aXltaXdWNXpaWFJETlpPc1dCcWdPcTZHSWt4OFRtdHBfczFHaDc0Ykc0Z1p3RmRKZ3RXX1dXcWFjbnB4NUhB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766567820
     },
     {
       "title": "Eagles player 'disheartened' by Pro Bowl snub as coach rants. Who made it? - The News Journal",
@@ -272,7 +272,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVFRDWUc2NE1GMmZBemFEenhjWE9oUktRUktYQWtweDlESkNmQVBSdlRqcmU4WjhyaU9FQUtLeGtoOF9NOW5nUjgyVnF5MlRVRXNFSklOVXpGRTEtSWNQUUE5UUZYbW1tWGwzUVNfdFpTNnlIaWxuM19CZE0yOGtMRXFGZ3A2TmNodmRseFVMMWxHUUY4N3JLTlFZWFJ0SHZBd3d1QjUyQ2JPQkkyeVFidF9CT1hmR0sweXlJdlNiUlBiUW44SHptc2FWNmxJU1JLWDdIbG5uLTNkWGJBVlA5REJfUFN5Y3JOOTZiTGpCTEJMRF85QWZ6Mlp3RFozUnk5YmJCdFdZaTl2a2FMLUVUMW5PbzVZeHRMaFg4eUIzMElBejRHRVBXdl9ER1N2VTFjMzNJT2pIa2FBUmxUM2tPT3ZpT3JSQy1XQmhSaS1POUtDeDhySWhlTFlmVUgyTVZ5WndhVXBiYnprQXJwUHJJdXUzMjhURVplX0VpN1dPQTUxc3BlMmNUekZzeFdzMVNYQjhUNlFRYjBXRVlpV0Zj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPUjBESTZ4blBKektDNDZmVXcyODN5QV9ZT0lZQ0FCWTdUQTFRaVBRc196VW5PcGxDQUtfWGlHaTZoTnBzc0I5SXYyb2FoalUxNUpyd1VkOHRVOEU3SWhTTUVzQ0R2VndDbmdwQ3dlcWY5REdwQXJoZmlJOHJtdTlTd3Y0VmQ1d1pGbzE0bkRuejJHSWN3UFdnRk5vNDB2V0FTRW5CQW1SLXNZYWVxSTBOZnFuT3BVVU1HUEx5YWRvSWpvV3lHckdVUkFUVEV1aHZLLXNhR3FMNUU4a0NMRXdHWEhxNTJ2Vk5TWGRMWl9aaDd0MmlpWWdmaWhSWGxQT1E2bjY1RUtsSDRNelkxd0RDUldab3JKUFpNazRSVG5sZWpDYjNnNlUtLXlOcDU5bGlqcmVnY2ZncGVfX2UwbTNSTmR5SGpkVjhWTXJoQ3lIeWIxcGJKZDVBVXlyY1ExN0J0Sld4T3hDZzB6dWZyNEhFeXBld3VyQTQzeWNkTWVZM2d3ZVdVeW94V3RrZzFiUHV0ei1fSXc1RDhYV2hBWlJV?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
