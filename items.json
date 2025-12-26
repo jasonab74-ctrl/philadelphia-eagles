@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-26T20:25:21.424221+00:00",
+  "updated_at": "2025-12-26T20:43:21.481455+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -107,6 +107,12 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWVdXc2w0d3Bzdll0N3hYX1BOLTFjc2tOSHFYdDd5SlFJMWphT2x4VjlITGtLbXYyWUFjelk0TkxFYzhIMDRGd3dhZF9XU2tGOTVyUHBBMUpta2ZfWHNUWjdLYVZ0TjdyMWtCRkJkRmJ0SlhuMkRVX3J1QXFucnRuZ05JeEJaVFFZNWdjMGdjWU51RnQ3eS04anhwNUFiZE1IVXlwMS1lUC1YMWFLdVdCYUZMMU5PaTc0QjFsNXppbmJKdmdtUXdKSUkyajM?oc=5",
       "source": "Google News — Eagles",
       "published": 1766613129
+    },
+    {
+      "title": "Eagles vs. Bills preview | Week 17 - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MX2RfWGR3cG83aExabXNFTTV3SzdlMXNneG5NaW5QLVpDR0VRWUEzaEwwSjlDQ3k4UjIwaTJqektQbXRya3JCcWs1ODczQVU1dldjb2JZY2dCeUkxSWZySEFyQUw4ZUtQb2c?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766605921
     },
     {
       "title": "Cooper DeJean wins NFC Defensive Player of the Week - Philadelphia Eagles",
@@ -217,12 +223,6 @@
       "published": 1766441530
     },
     {
-      "title": "A bulk of the Eagles' 2026 regular-season schedule is now set - On Pattison",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTE5bFBUSExkVG1CYVYyM2xpVTd2M2RvRWxDNkE5Rmp2WHNQeDg0YkFmWlJTeUtXQ09iR05jZW5iUGVsdWdDcGp2OVVZMl9SYVFSVzFDTnpRWDdqbHkyeGhWQXdVMWRJYWhORlozdnRkVW1aQnFSTDdETFA2a2tHaGhIUmt0Y2JvcFhSNkJvUFY3NmYtSDRiWUxSQVZsZmtoY21V?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766427185
-    },
-    {
       "title": "Eagles snap counts: Brandon Graham keeps producing - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzVRZVg1VlhfeVE1QmlXbVBqcElKdDh6MEtJcjdjRTRHQTdOcnJZanpKeGpPdEJPQmlWMy1wWVM0X0FWLUJ5TFR1ZEVBUnpITlZiMHhrMjVPbWJDa3BMcGptbTRyaUM3SC1ERjFFckc5VDRfNWZXMDV1cFVSU19GMmlwVW9fQmc2amZkLXF5R0JxUEJITEJOa0hsLWdaQUs0RTV2ZVNoS2ZGcHlFVVlRR2RZU1pOdkxxR3JZ0gHDAUFVX3lxTE1mNWd2UU5EOUtTNVhEdEM2bWVMRjFzNWg1eWY4MWl4SmFjUTlzd2dkSGdmaEl4U2FYT1IxVHBTd2pJWnMzNVF0Wk82eDFuQ2hBOWNrUVpGUnNsbFNVV3pTekJhRzNRV0lVS1pUcjhoVjJoRzIydkxHeEU0R0tkUHM2bzg2NU94RC1RamZaRTBjUWtkdUVqMHQybjlIYkhjYlpENkNxb3RtQW44d1MtalFyWW03N2dfS2stdGtfNS01eG1wZw?oc=5",
       "source": "Google News — Eagles",
@@ -302,7 +302,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOemx0NmxKSDEweUZMcGFpQnFHX0o5UWNOZ0FmOTNEc1Y1dWFaYjVBaWFib19XY2F3QmQxejZQeW1tU09FOWdaenJ3X3d6WHpaenFrX184QVEwX2l0T3p4dkZhS1ZtcjNDV0N3bVk3R2dkeEQxcEdOb05veFQ0QUFIa2toeVNhWXk5MzNqNXMybmRCb3ZDNmNWYUJlendQNk9IcEpjNWlzTm43cmNnNUtSdUhKVzl0NHZneTU4MzRJLVVaLWl3ajRSOUx6M3YzTmxKV0hqOVdjZG40R3h6ZWk3OUQ3UFJfMGdjNzV3bjE3STBVSzBsY2FucnVJalhBY2ZHT19CUjNtbW9fQTAtNmlBVFRlQ080VEhVVzBZaUpzTnd2dnV1bC1jVzRaWkVBQndtS3lOUmRyY3RLN1JudlpTOEhURURuQmN1Nm56SVQ5SXBOWTloTkpPdE9mTXRsbVRoMXZwcVg5VF9hWVJvdm9BUXlrcG1XbURNNnU1SHZxTXdKWjRSY0h2ZEtBNU1yQWRNdWVuOFJTM3p2V2hvekdj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQMXNvSGhVSFV5Sk5CUzZGZThJczFheHk2TFE1YjlCaGFlblpTRGlXYjZab205d0RGVUVlUGJaOEpUcXphLXlhUDJCbGg0czR4ZUhWVTBMcm5jQXNmNXZNRmFCTGl1UDRnUFNDNk9ncUNUMmoyMEZRclM1OXRyQlBEMG1VM3BQZHlfdmlWWXQ5bW5pVldDM3RmUjg4b1RsU1BudDBfNXJNZ0x3WGdTeW5NUy1SRDVuOUlGQWpqYktJRmhYajdHc1ZlS0M0WDRjb1hKVkFENXBVM0YwTlVpZ3FlWGRqaDRtcERDTjhzdzFJcnA3U0NYY2JNY2RqNDBTcXdPNU4zT3BhNjB6MGlpT3FMc01KeUt0XzhuNzhuajlaTG9IdEhNY3VOdWpUT3FCbzRORVNxRnVtSWhMWVh6ejU3dzJLSjBnc254UjhYWXVZeWRDQm1XUjd0d0xQUENqMDJDamRZVnFuWUtkaktUZHU1dWlrZjJ2alpna0Y5ODQ5WnN0d2dFNDJub3ZJV1Fmd1Jtbm5yNnRQdnZETzh0SGtj?oc=5",
       "source": "Google News — Eagles",
       "published": 1766140200
     },
