@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-27T20:43:56.352098+00:00",
+  "updated_at": "2025-12-27T21:20:42.963790+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "NFL Week 17 Saturday Games",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-discussion/167066/nfl-week-17-saturday-game-information-discussion-texans-chargers-ravens-packers",
+      "source": "Bleeding Green Nation",
+      "published": 1766869440
+    },
+    {
+      "title": "Eagles playoff picture: What Week 17 vs. Bills means for NFC standings",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/166895/nfl-playoff-picture-week-17-updated-nfc-standings-wild-card-seeding-tiebreakers",
+      "source": "Bleeding Green Nation",
+      "published": 1766868318
+    },
     {
       "title": "Eagles Opponent Film Room: Scouting the Buffalo Bills’ defense",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/167016/eagles-opponent-film-room-scouting-the-buffalo-bills-defense",
@@ -41,12 +53,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVhycHVyT08zZWFSdlhmN1RRbEloejZ1NTRIU085a3ljZ09uUGtZOHZvYklDM3RrM09IN3hVVHpITXVJR1AzLXlwdmY4QWt0MzZIMnlqUXoxLV96ZnItdk1hdFhsZ3FJWWFVRVh4S2tsVnl5aVpxM3BIREJ0Z293OHoxcFZQY0hVRXZ6VkZQOW1DT1R6d3VKTm10dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766838656
-    },
-    {
-      "title": "Eagles at Bills predictions for Week 17 of the NFL season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnpZX3RucHN2cTljX054RlAtOFc1M2tJUVJjTlJEN1hOekpQTjdUTmZwbWFkNl8tXzNlQ1FUa1M3WnlyX09tVVJMbzFfOWpjNWU4N2ZSMWFmV0hJZzkwTE8ydjFDeHUxZ3NxeklaWDUwajZpd1ZZOUN4LUlDMHJxbFQtU1poWU5UN0NwZ2pVdXhKXzdHSUpUZnkxdk9zbWh2Sl9DcW5Za1Q5Wi1EY2VlbXU4aDk3MldpckI0WjA0OEVDY0hma3fSAc4BQVVfeXFMTlE3VjRORV9zb2FYNWg1ckRVblhWV1JhQlhabHEwUTVZTHVycHRsZzFVSGRXWlRKdkc3LXBWcnJsdWNQREZfd1NVdFVDekdUbkUzVlBsNEc4aXJkdU8zaFQzdjZiTVNraDZfVmFla1pmX2pVMEk1UHZlVzI0aWNXaW9oN1d0YlpxYU9VdVJON2VLOEIwYUFNNUQ3QnBrSVpTS3ZKbGFOUkhQNHp3QUhoXzhsOU5abFJWZDNZNkNSUlJoaTVJTkg1bVpPRU5XR3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766836800
     },
     {
       "title": "Spadaro: A six-pack of storylines to follow at Bills - Philadelphia Eagles",
@@ -319,12 +325,6 @@
       "published": 1766289780
     },
     {
-      "title": "Eagles Drop Road Contest to Utah - Eastern Washington University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUNUMXZWZEo4ODdUNlF1eHl2U2YxdlBIcElPb2ZPc2pMQzg2ZmpveF9BdjdRS3lSSXM1MEpxYXJJSk9OWXNkRE9sVS1LQlY5TkhpQ3Y5YnJVbDYxODRSdjZwcE9UMmlKLXhjY2puVTZKck5FczRKUjdCMVpYeEdLaFhTczhnU01FYW52djNlWUtnQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766284637
-    },
-    {
       "title": "'Been There, Won That': Eagles clinch NFC East - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmhoZS1XUFBKZzBLbkxBVXhjMVdHX1h1NHlVSkZkVG9sS3VINy1oR04zalpHU1d1OXVJY2ZPRFVfVmlvQXNYZXBGdVltb2c2cmpSdEcxWjItTG5XcUZSU200V2V1X3BWdGJjLTJiaHJtbmxaVjk4X1lUMXBSbnJGa1Q3ZEkwZ0xLTlRZdmtqaGRXRlE?oc=5",
       "source": "Google News — Eagles",
@@ -362,7 +362,7 @@
     },
     {
       "title": "The War Vet Who Turns Philadelphia Eagles Wins Into Billy Joel Parodies - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOU3FrMlRaWGtoOGpFLXBqY1JLRkk0UjBBWng1Ukhwc1B2eHNoUERqTmZjVnZnUkpsVml6YlpudjZQVUNHbDhlanlfUm9yVTQyaTZkTjJNeEdjNUpzVGxJbVUteUdmRzJaUXc1d0tZNVNHdEl5OWJ2U1JLT0tOMFZ4T1llTXdrMjlWX09MQnlzRUVGNXl2cWYyUVI5V1BuRDFDZy1BZkwzSUZpV3lNak9Hak03QU9XRjJIc1pLY2Z3MDVZbjZWVHpiOUVrY296X3IyRGRLTDMyZjBwMFJRVmZTR2RBcTh1WGpnRVowYzRuVlJmM1dNenpoMzZOV3p5NFhsSGZ4cGRfXzF0QTNMMEU0NEtfMzRkaTluaDhvcXFLSC1lQ0pVWTFBdGVJZ1pfNEp2MHgtQ253V1puSkZ3S0tIaERpbzRDTGZKX19UdGlnUjN6OWhFQzFtUjFqeU9sdDZIa1lScHRIQ29SckxlbHZpTVhPTmFNTXMzUWxxQnV3QWhNTEdUUW5WM3dWYk1GTE5ZZmtqRGZmYVptTWpEcF93?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNTHVLMTl3MVRMTWVfTlltQTJ4Rk9qOE1wSXV3VkR2d1MweXFwaXpMdllzTjNWVWdWNWRRZ3RPZWVvTXNpVzJSODI2Mkl4bG14c1pPTDVJMUhOQTBtQzRna2wxZXppWWM4a0VORjVMSlBaUk9oS0Z4NDBDOHJWNlh4eWg4dUZKRFJ4eUM2b0JTeVRSdkdMc1hUbG44VkQtLWY3UjVsemlQMDgwdjI5MUg0MnZ4RHlFY0xVSU5uTnpuMHI4WlFwQnBoWFV0YWQxTlNnMVcxR2ZKbDdLdVRpbjRNbWZ2d3RISmlZWkw2RzJVNEtXRTVac2Y5OVc1TkZETXpUVXQwSlFVZzJCeENEQllVQktEMFNNdzdaZm83aWN6TTVrTEJzOFFDVVk2ekR1ZXpZQ1R5MXhLTXRfNmNJSTROZU1GcnhlN2gzdGhCQUJDZTU3RHFTd0ZJQjNXTlpQTlRpaFdaZGlYblBPZTRyNTJhMFpjTGRuQ25LYld1NlNva1FadEw3VkJyTzF1S2swVUxKSHIwejl3SWwtWmdzTWtN?oc=5",
       "source": "Google News — Eagles",
       "published": 1766131200
     },
