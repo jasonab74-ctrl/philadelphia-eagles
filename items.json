@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2025-12-30T07:44:03.222113+00:00",
+  "updated_at": "2025-12-30T08:33:54.386758+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -67,6 +67,12 @@
       "published": 1767027240
     },
     {
+      "title": "Game ball, three stars, and snap count analysis: Week 17, Eagles at Bills - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGVqNzRWOGZ6OUJ3ZVNOT2NaaS12RDBnZ1EwVEdLWDYybGtfYnBEa3Z1dFVBVkM0dWRTT0piOTNFMzI3RjhqZlVZVV9XbTR4OEVSTnNoMVk0TUhyLWY1djdlZEh1N05XcWNSOEZtLVRVUlRudHpNMHVxYmJMcmNqR1V6RzQ3eWRHbWoydUtHQk1LQVpTbElTN0hGZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767015581
+    },
+    {
       "title": "Eagles-Bills snap counts: Jalyx Hunt was efficient",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/167414/eagles-bills-snap-counts-jalyx-hunt-was-efficient",
       "source": "Bleeding Green Nation",
@@ -107,12 +113,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM1ZLQnhndWIzM2QtM1JaWmRTbTk2Y3RoU1lpcURBYUpIVmMzTUhoU29tRU81cXJwSUVzQzA1Qjc3RDVGY0lWaHhZSG9xNmhNbUNRMkVNaGZDTFo2blo5SktXTHZBV0d6aWhaVWVCa2xpdERlU29vaFpld1Q0T3RoandKa01MSjFmWmlKLWc4N1FUeFl3M1Zrd1YwVGs1Z2VabFkwSS1Scl9ENmtfY2c2VUtlRkJMTWFNOUswYndLbnNfd3V6eFZvcDE0MEthR2t3MkQ5QjdUMHpOVWRzVlVvNVVn?oc=5",
       "source": "Google News — Eagles",
       "published": 1766984555
-    },
-    {
-      "title": "4 takeaways from Eagles' 1-point escape win vs Bills in final seconds - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzlxLXd4dTVGbTZLOVd1ODdPbjB2WWg1QlBTTEpuWlJkTnM5U1M4N2NPdExyVVlIekVDNWZuOVZrVHhjYjd2WVFtZDB6WUdNUEQwaW9WR3dEOXprcUZiQktkTzFTS3daTEhLQm5iM01SYUJHUmhXbnlpS0tBeVBxUFJvQkJmbDB4alN5SGV5cG9TVmR5WGlINHpLdWVMYl82STA4cDBfalNzcTNTUFZIX3VsOG1ERnJvVW80dWtMX0NSb1BoVVE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766979858
     },
     {
       "title": "Top 3 things we learned from Bills vs. Eagles | Week 17 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
@@ -175,12 +175,6 @@
       "published": 1766969989
     },
     {
-      "title": "Philadelphia Eagles at Buffalo Bills | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEFfbmxCS1pRTGxpMk16M1dhaWVBS01YbGgzSXBWeVhNMEdVNTlPZkRvemo3dDE4OHlhLXZpN0owT1BkT1dIWVBCeV9vLWM0cTgzcDA4U2k2UDdvcDc1cENOVGhNdVF5V1RMTmhHcFQxd1EtcE5vRTk4OTYxM1EwZzZR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766969608
-    },
-    {
       "title": "Highlight: Eagles survive as Josh Allen's pass is incomplete on 2-point conversion - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZXNaZkxTbFkwTlJRVWVSbTF4TVNNeXdFTmt4V2F6d0h4NzdVOWZDNXBmb2oxQmhJVkZ0YUZXVzAzMVNhZG4zNlJHMmZqallGaVBrUlRqUmZZdTlabEZKdEh4ejlTd3h1bGJ5ZEZHSWdfYXd2M0ZNYURiRkV0aEFRR1B0VGxQYlUzM1FYX0t0bXhLeGpkdHgyZXZ3a0J4aEN2cVVQQlQxcDAxQUVGUVc5Z0VDR3drTXRCa3VHVlhyTQ?oc=5",
       "source": "Google News — Eagles",
@@ -227,6 +221,12 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0xSVXUydDlieU5IU1pmb0RpNUxxTlJvRUtnRjNjUkdfTTVldDQ0YzA3cXo5NXRWbjQ5cVdRSUJRaUJfOVJxM182c1JvdnM3UXJwN1c4SWRwVGhSU0Jxa1hCVExBWUwyVGxSVDdXcW9QNzBJU25yNV9LVW43WnE1WnNIT2x4cG9qMXY3Y251WGdfRnpUY0R2VlpJMHNnOTZfY2dxSGRQNmFPeEw5elZuZ0NyY0hVMWpSaUtpbU5aSlZyd9IBygFBVV95cUxPTDhtMjBwOVZlTTlyNGtEaE9QRzBKRU1ZTUZsa1U3UkV6MGhCU3FpYmJKNUJmbXkxMUtMZ1N3bjdEMEUxWkdGbTZjYzdYZHRZYzRBSjBiLVhrUmt2czB1b3YyR01aS1dXNEQ1MFhQaUZjUlAwNG1nRHdMaTJhSFFGTlRVVi1FQ0JHeXdNU29zYnR6UVRWNk1MdkVVaUNPWjdtdnU4MzFielk1cDlXTEFIUTQxdzJiRHJ4dHlSZkMwRFAyc0hIdVNvS1pn?oc=5",
       "source": "Google News — Eagles",
       "published": 1766923200
+    },
+    {
+      "title": "Eagles vs. Bills: Three causes for concern when Philadelphia faces Buffalo in Week 17 - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDlFbExkU1FzVUpNR25nOFZ4ZURucF9IVDFnNXRrV1FwQTRZUzZYNHRsa3c2a1B6VlpiZHBvQmlrU016QlRJVUlval92ckNvMEFlRkhnUm5RTHYybDlqdzRLQ1YyV19iNHFJM3c5ZC12SlpEaW4zQlUtWWRSVDdIc1JQTV8zRGlEdFdmMkJvM1BVQmZhbDRlczZEcDVxRzJNY1lralBSOVVaZ1JpMzB5X00zUnFjakVaUXUyN0F0MzlIbGFuNGtPRUtxY2w?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766918040
     },
     {
       "title": "Eagles vs Bills predictions. See our expert picks for NFL Week 17 game - The News Journal",
@@ -467,12 +467,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmhoZS1XUFBKZzBLbkxBVXhjMVdHX1h1NHlVSkZkVG9sS3VINy1oR04zalpHU1d1OXVJY2ZPRFVfVmlvQXNYZXBGdVltb2c2cmpSdEcxWjItTG5XcUZSU200V2V1X3BWdGJjLTJiaHJtbmxaVjk4X1lUMXBSbnJGa1Q3ZEkwZ0xLTlRZdmtqaGRXRlE?oc=5",
       "source": "Google News — Eagles",
       "published": 1766217600
-    },
-    {
-      "title": "Barkley, Eagles have chance to achieve rare feat - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTG81NnpTVDQ4RzVidDgzSWVLa1BRX0tSUDUwdU5SemVnZVN1SFp2T2xUTHpzZTVVRXZqQkpGVFJ6c2FIS3AyU3phQm5UR19mZm84bWtmLWpBODJFTW1VU1AyeC1OR2k1RDFQVW5YOHFEOWhHSUxsVHkwOG50RElqMkFZcmlPbEJDbkhlR0w3MDNhMW1HQTBvcg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766044800
     }
   ]
 }
