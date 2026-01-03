@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-03T12:46:36.469869+00:00",
+  "updated_at": "2026-01-03T13:30:58.147866+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -97,6 +97,12 @@
       "published": 1767258900
     },
     {
+      "title": "Philadelphia Eagles - FTN (For The Numbers)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EYWp4ajJMT2h0dFBRNzkzM0dnM2Z6cXpzTlY2MGRVc1ZTbVJFMlBIeGFldWFwTkRhRWVDeXUxVkFtUFVVY01ZRml2aUJ3VUFmYnBCLUZ1Q0Yydw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767254400
+    },
+    {
       "title": "Eagles Locker Room Interviews: December 31, 2025 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnF4cHVUSWpTVm40RTdCajZqUXViNzF0c0p6NUMwZ2JvMVFCdTl1RWRyd3dMZnJHemdySlF1WFhfd3hFVWNfLUtLbTB3ZGtESnpkbUtFcXZEV21JVUtyRHJLMzI5c3ljc2Z4cFpPcHBveG5uUXlmNGVkVGJCTGtWMWxYcWE0Z1A2N3RRZ25DajY?oc=5",
       "source": "Google News — Eagles",
@@ -121,28 +127,10 @@
       "published": 1767182456
     },
     {
-      "title": "Eagles hang on to beat Bills 13-12 when Josh Allen misses an open Khalil Shakir on 2-point try - AP News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1FXcE9qdHQzcDh6UFFvVW9sVlAwNmh0U1pTX2pLTEpQUENHTmFfY1lDOVlWU0stUExLY1R6QlR6bGwtbEZoYmNfeVY5R2x5RndKWkoxZ0s5bzE0WFZvVVY4OFFESm1nY29SSFFaZm9FdzRWdllrcmpqbWc0UVJ6NzRPY20?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767156721
-    },
-    {
-      "title": "Eagles to face Rams, 49ers or Packers in NFL playoffs. Should they rest starters? - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeDRtTWNPQUZMeVZpTzNRZUxSTkpWeFdKRzR4YlpoUGx4M3Y3VkdEanRzUjZpeUZsaVVaaHlqdmNkYzRrbThfaE5jQURrcUJndjZRRWR3eGZVWEwzX0d5VWxxekpTdDMwY3dPY3JsQnRKLURLZDhlT2ozYVFhWk5lWllLRm4tZVdrVmhBOHA3Z3EwX1BScVRTNlBENWF6TFpmY3NGR21COW1GQjk1cFpvZ0loNXByT3VfZThBcGc1UU5pWEV2Sm1NOVVVS015RTZC?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767115800
-    },
-    {
       "title": "The case for and against Eagles playing starters in Week 18 - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSU1JbVlWZ0x4bHdmcm9aMWVfc0xLaWx3MHhZVlBJSksyQjQzY3VGVk4ycXRuRmR6VlVtSXhFeDYzVUZuX0tYRkRpMl92RUJLRlhsX0JyZUpwZzhUVFozcjV4a2RNQW1KcnNMSEdvQnBLcFQ1UlF4TEdhdm5kWFEtU0FtOW1DekJRTHZmTmd2dHBiZ1ZiVEhYQXVQMkkwbjEzRVpjNE9TdFNQQ3dHOThaV29FSTl1S1kzSVM4SVRDc0hDV2taLUVfMG8tNks4a1J6OENZatIB3AFBVV95cUxQanZjZVBXeXo4THZnTDFVRF9vU2VuN3N0ZERrR0VZcFYwTkZRYkhPYWNkNGx1am1IYmZ0eGVoU0hrNGo4TUF0N3JYeFFHSGNpNU54VHhsQWp3Y2E2LVhLX3Ixd3p4ZDlvY2M3YTRCTDk2WDhxNVRCU0pCWlEwNWw2TkRTZVcyQnNZQy0zNHFMSU5QTG5GZnNnUlRxSXpON214OUVMYi1jUno4XzJuV2NXM0NqRzR6Tms0Q2JTdWI1VWtmZzYtS0hqaXdwZk1YWWplT3ZhS25JSHZvenVG?oc=5",
       "source": "Google News — Eagles",
       "published": 1767104474
-    },
-    {
-      "title": "In Roob's Eagles Stats: Historic milestones for A.J. Brown and Dallas Goedert - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHlwX0JyQ1NFVHBzcFQzWUh1NHQ0cDBUeDhab19CaVdOaHl2bXV4ekNXQ05LVW9BVWtxeDZJUnZLbkU5VW9EdDNQQXRVcVlCZDJmU0t5aXU3UkVsaFhlcV9Ma2pxTk1LcnBpU3BEbV93Mjg1NE5Jc1pNWWRGNWF1OWxpSEFsYllEZWhLcjM5WDZzRjJPMkJVT2hhNF9IQnVzWDh6d2FBRHFTdlhfTFJKcmlpNUlGbUstM0FIeTZlN3hRbDhlM2R4N3ByNWhRLVduczg2Z1VJWUQwdzZr0gHkAUFVX3lxTE9BeGlmaDNpSXkxSUVhTzdlUUZtcHJCTUlEVnZ0XzBMb1A4eDc0b2dMU0YzakJKYmQyT1ZlU1NvR2xFZEJabVE1Q0d5V1IxUzFlb2tjY2lYWUprbG1saG1lMEZJVlVIdDB0amxYWENBT1VXaFBFd1NjcW9Na2E1VXNtaktHM1M1Vy1UOHBMZUV5MDR1MmF5b3VoWTdqbWNEZmxUaDVibXg4MVhqeUppQjV5YmtaWXdOaGxWZVlsemVjbXZMVlBmVkZoSUc2M2VUbjZwMUxrY1lMVHFvUEpGUENHMUEyUg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767096000
     },
     {
       "title": "Eagles waive LS Charley Hughlett - Philadelphia Eagles",
@@ -163,16 +151,10 @@
       "published": 1767037056
     },
     {
-      "title": "Most Viewed In 2025: #2 – Eagles QB Jalen Hurts knows ‘God is greater than any high or low’ - Sports Spectrum",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd3JnMUM3RWluOHNaVXRDLTl0SHlCZ3QxU2dIQklPSGxqRzJ0bFNTVGVra21sQlBVSnVaa2tFb1p2cGp1WDNsY1VBeDlJRzJyTlZBU0tIQmdPTnlTb2Q0dVhFU0pleHdqazFkU3ZLRDY0bXl2cGJybzNZUFdSQkRlSWJZTEh2aTJyakxsWg?oc=5",
+      "title": "Road to Victory: Eagles still alive for No. 2 seed thanks to 49ers win - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNalNackpiZkdwcm5ZY2NvakxWR285czlJR0pZcUZwLTdsOGtmSXY3bEU5a2YtZlZXTk1aY1N3NXkwd1M0VDVLYTd0c3JOMkw1VEMxbWowTEhwZ1BUcG0yWHUxSXlnTWFkUmlQX1RVWUl6dHBmMkE2V1JLV0Y3N1VGc2kyRDdNaGpLYXl2WTdvVHpHOGs?oc=5",
       "source": "Google News — Eagles",
-      "published": 1767013915
-    },
-    {
-      "title": "Can Eagles get NFL playoffs No. 2 seed? How Bears helped. What to know - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM1ZLQnhndWIzM2QtM1JaWmRTbTk2Y3RoU1lpcURBYUpIVmMzTUhoU29tRU81cXJwSUVzQzA1Qjc3RDVGY0lWaHhZSG9xNmhNbUNRMkVNaGZDTFo2blo5SktXTHZBV0d6aWhaVWVCa2xpdERlU29vaFpld1Q0T3RoandKa01MSjFmWmlKLWc4N1FUeFl3M1Zrd1YwVGs1Z2VabFkwSS1Scl9ENmtfY2c2VUtlRkJMTWFNOUswYndLbnNfd3V6eFZvcDE0MEthR2t3MkQ5QjdUMHpOVWRzVlVvNVVn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766984555
+      "published": 1766995200
     },
     {
       "title": "Eagles grades by position after tight win over Bills - NBC Sports Philadelphia",
@@ -199,22 +181,10 @@
       "published": 1766977668
     },
     {
-      "title": "Handing out 10 awards from the Eagles-Bills game - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GVDJQSGdyRllBY2c5Wl9sTXNqODdXY3I0cVprN29xX01OQ3BKRHNKNjNWRFdDY3BrZktCUUxTbnktU2taZ2JiZG5FOUZNWXRpakJ2bjYzSDE5blJrLVF0eU1RQU1WS1k2NVdQd0RIN3k3THdxcmhjNEZ4TjN4dw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766977575
-    },
-    {
       "title": "In 'great battle test,' Eagles' D thrives vs. Bills - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE1tZEdUYnZLd29DazlmUVZMX3VfMjRNS0NWd2dOaXN3TnJIT2VzeEp2VlRqY3JEZmhMSGhNUWl4OGhvWXN0MWlpcEQxZ3hJcnl1cVU1dzMwMUgtS0F2UG5BM0JMcjA4RnlPM2tPaXBmUDI0bzRjeWc5emk5R2tSOUZsSXdyVG9Sdl9IaHVJQ0pQZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766977200
-    },
-    {
-      "title": "Jalen Hurts Press Conference: December 28, 2025 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEt1OGNxRXZ4Q3l0a09Cb2thUjBGWFlQY3owWEhJQ3NCRkVVWGpjb21CUF9uRk1nS3ZhSXVWV0dhaFZSMHg5T3g0ZUtsTXN5SV9uRFJ0ZDA2UDRFbWpZWEk4T0ttLTVQXzZLRXFUM0w2UkF6V3Vya2trRFlhcDlibTlUWnM4WTFtLTRFNlY4OA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766974368
     },
     {
       "title": "Spadaro: 10 takeaways from the Eagles’ thrilling 13-12 win over the Bills - Philadelphia Eagles",
@@ -247,28 +217,22 @@
       "published": 1766970840
     },
     {
-      "title": "Buffalo Bills run out of magic vs. Philadelphia Eagles in Week 17 - Buffalo Rumblings",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTRVVXJmMkk2NXFWbmQ1MU1iYWZXVUdseGRjZVEzUkliMWhkMEZZbG5EODkwbUk4b1QtUF95SGxDbjJURkl1S28zMUEzdzVVdGQwT0JHdngxTVozRnl2RW9zblhFNnZqRFFvdFBZN19hWkY4N0oyRXFxcV9WbUpRRFJJNGNRSVAyZm1qVnNKWXZSSXFka25qcGRqbV80dV9XYWpFV193a0ZPdkdyWlR2QlN4TmdYcVp0Z0ZwY3lySm15N1ZC?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766970600
-    },
-    {
       "title": "Bills 12 , Eagles 13 | Final Score, recap + highlights - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2psMHU4RGczemhjNENKT0dYazUtNS1TTUxKWERfTWZHTm9BVTNER0ZWeXZDN2ZFVzh2M0hmVDA4VWNnSWREZ3NER043Sk9GTnVSWDRHNE1KdURZXzMwT1F6and3SGJoemlaX3puY0dfMWpZSzZpV3ZGSWc1Qlh1NzBXaTAxZTg3?oc=5",
       "source": "Google News — Eagles",
       "published": 1766969989
     },
     {
-      "title": "Can't-Miss Play: Bills cook up hook-and-ladder magic with game on the line | Bills vs. Eagles Highlights - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXNqeUtoN2loR1lYR1E1dGl2ajAwS1RGWDdZYTRkd2VNel9tV0xVWU1lZUIyRjY1T3FpaVdpSjNiblRuclVCb014ZzJUN3FXS0gtZkZQUGZvYnM1aW41V3JFajluRkJnV3Ztb1VNR19MMHN1RHAyRTJTbm95WjVUT190ZmY2RC0zakVvb1RNUmx4QXMzRGh3c0hBX3lkY1F2WHF4bGdmMktLR3FqdXpJVXJrZUhWNFRkU2dNNWlKYXJqcHh4d04tdHRrcUxvbU1S?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766968715
-    },
-    {
       "title": "Highlight: Jaelan Phillips forces fumble, Jihaad Campbell hustles to recover! - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0hHTVJLTUN0Vm1CQmJjenh0MjZLci1ja1RabXJxQVNwVndXUjdQUGF2Q1UyWThMSVV0VWZQSkZHbTVOYmt6WmJ0RjNaN2QtcXdOYm5qeU82WW9ZUmtqdjB6Q1QxR0dBbWIyWjNkTC1fLWFYT2xpeWllVW9Tb01yNDZPN0w3NUMzMDM0Vk12R2RpSEppSkotOGJ2dk16TVNyd2dueTU5dk9OMmpXODBHX0dIejN2dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766959373
+    },
+    {
+      "title": "Eagles getting closer to being locked into playoff seeding - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjBtb1FTM3hGZk94WmhCMzE2MmpfMndIamNZLTUyYXM3b0U1Wjh2Z3FIeTlYczA3UE0zREh2NDMyMmVnNlZ6MjlwWXZQbHA5MGRQa1Y0NkRzclY2a0RIaTFaMjAxM1oyaWpaYUw0bnMxUGRNM0kzYzRfZFRLM09lMTd3SFNqVmdJb2F1c0tyalhfWXZISktnN2JZYndmbVA2Ym50X1pXVUdvdUZxbDhVcmlxYkY4bnJuOVhHNXhzb2c4SFJJc0Y40gHPAUFVX3lxTE5YY1ZTNFN5d3NWV2Nhd242aERZZzBfeEFLVVJTVDhZRldPRXFXQmhkcmIwTXRHT0J1MllWTHNTSUItRnpRNlFsM18zdE5XOTBEU2JsVmgzWEhXMTJnWHVlQ0paMFZiWWttSnptdzRKRFk0MDFpbFBwNVU5UklUQ29WTi1pM0xqSXFqb0hYbDFGNTdFeGZ0eG82RXhBTjZLRGNTRE42ZE5TQlEtTEl4R0RzbmVONXozZElZTDB4bkRWeHNHYmNRejBaazBKSlhWQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766957771
     },
     {
       "title": "Eagles 13-12 Bills (Dec 28, 2025) Box Score - ESPN",
@@ -323,6 +287,18 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUFIc1I4NEJuNHhSRXhXLXNpOUFiRDZLeXV0ZE1lUVZZYUJrSmJLbzh5ckozT1NWYTczMXpIS1pXQkkwenJ1SWkybzg3cE4zdEVYa3UyT0tvYlduU1hmQnV5UFdZbUFFU0h5Rlc4T2hXLXB6UGY1dVAxQThCRDlaLWVaYlVrZnUzU2xFUEU5VXF5VWZsRXg1bmdRd2NXcmZPMHBCWS02azV4VTN5OWFDMw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766908800
+    },
+    {
+      "title": "Philadelphia Eagles vs. Buffalo Bills - Final Score - December 28, 2025 - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWndiSnp6YnZ1by1WMjV3WDl1QWYtLWdSanZoRmp1cEtfdzh0Rng4ZVc1cTA0ajBGazZTZGZUNkN0V2RSZnVBNzZ6N0RTcExMX251X3ZSSmpxcWxVamwxVWdBbDhrOXNKWnlqUnBSdl8xTXBLUEZDcXM4SnQ3TjhqXzBnUm1IcUctRklLSHpmUHQtcHVSZjZEdHZ5dDNHampOYTByb09ZeWFSZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766897235
+    },
+    {
+      "title": "Eagles elevate CB Brandon Johnson for Sunday's game against the Bills - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWNIemRLS3piVF9DdlZIZklISVpERnppM1ZCSEpqN085VmJUYzA3VnZ4b0JUZTg1OUFaWlNNSjlyNEdkY3U2VG5GS3l3bC1SMFJrSlR0UjVZUEd3X3pySFNVNkRVa3lhYnVGZGNEeFc2TktDRDJ0aGRaMDVLbUJ4SnRmd0JycnBwV2RCajF1TE1BcXFtVUlPSlR3TVB5QQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766869356
     },
     {
       "title": "Eagles News: Maxx Crosby to Philly in 2026? - Bleeding Green Nation",
@@ -397,10 +373,10 @@
       "published": 1766664000
     },
     {
-      "title": "Saquon Barkley reveals he 'couldn't stand' Nick Sirianni before joining Eagles - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3FpNEM0aWktbTRYUGRLYkhEaUJvMm40Sm5nOElyTzhxdDVOUDVJa0NlbGN5LUdNeVJUUl9EaXBjaVRyMjc1UmVNaS1XVGFtUnR1cm42aHVEWnBNRnc0RU5JVExPWThqLVNYM0JsdWhfRWd6MTcxaFBvQmlCOThiaTFKNUFGeW5ZVVVLR256YnowMXNGSFRuMlB5cHlGc1lUMEU5NUQ1SExVUdIBrwFBVV95cUxQMVIzUGJhckR5a0ltY0xDZ1o0VV9vb1ZpMEVib3Z3YVlxRnhIaTk1NzhyWWxPQzVRVmVLUHk1UVJGQTRnT1hzN283OVp2cURjeXhPSXM5U0tVRVhCNDE0RXVCRmQwNTFpZFBMQ2psUHpxNmhsc2FGTDRkMV9lRkNxV2gwX2phbEQzRVlYWVFYZEUwOWd5dHVwQ1BsTThBM2c4RFgxMWZDb1RwNGI1QTVR?oc=5",
+      "title": "Saquon Barkley calls Nick Sirianni the best coach in the NFL | Eagles at Bills Daily Updates - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWVdXc2w0d3Bzdll0N3hYX1BOLTFjc2tOSHFYdDd5SlFJMWphT2x4VjlITGtLbXYyWUFjelk0TkxFYzhIMDRGd3dhZF9XU2tGOTVyUHBBMUpta2ZfWHNUWjdLYVZ0TjdyMWtCRkJkRmJ0SlhuMkRVX3J1QXFucnRuZ05JeEJaVFFZNWdjMGdjWU51RnQ3eS04anhwNUFiZE1IVXlwMS1lUC1YMWFLdVdCYUZMMU5PaTc0QjFsNXppbmJKdmdtUXdKSUkyajM?oc=5",
       "source": "Google News — Eagles",
-      "published": 1766649600
+      "published": 1766563200
     },
     {
       "title": "Spadaro: This iteration of the Eagles' defense almost has Vic Fangio smiling - Philadelphia Eagles",
@@ -421,20 +397,44 @@
       "published": 1766563200
     },
     {
+      "title": "Spadaro: How the Eagles have kept their Super Bowl window open - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS21OSWR5cUJPQWhLWkVCcmlaa3ROdmEyUFdOd3F3dkhzVi0zRmxtMm5DemtJOEwwb1l0bklXRmZPWDhlSjFLbG5abVdxSTNsdTBuSnpKRVVkbFZyeVlISHlWaUJwUnJYTVRNQ2lIQ1FwT2o1ZE1EdXNSOHp0RXh3cjJjYTBjdWJWV2dGWWNpRTY3M2VqTjN3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766476800
+    },
+    {
+      "title": "5 Eagles named to 2026 Pro Bowl Games - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOel9VcElNRHdEdS0xQlBRWlFDVzQ2WGRpZk9mcUoxT0hzZ3RJNXhzN2RHZmM5ajdQeWdOeHhVdFh4WWwyRmxPd0ZROUsxOUdnR2liTUpIWmRnTXBJS3RWMDFqMDl6TlJOdzloN0lJSV9YSm5NUWxMZFdZRmJxZnlUWjNQY3pPWEdxZDhCUVRnNHctYml4cWhxNEdCdk1YR1dBcWJYWDZWNWY2MkRjdllLOEQ1NWY4RXlWMlY4ZUpR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766476800
+    },
+    {
       "title": "A rare feat for Eagles' newest Pro Bowl corners - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdngwU3YxSXEwNDR6VF82cHFWbHF3NVdMZnhCaHlKWTUyUEdpLVBpTWJmNXFzOW9LM2tVS2pvcDFYaDRtOTRjZ0dSNlMzT3ZCeUhqRmVkYVV0WExxYno1U2dBd3I3ZjlWNFRJNS1VTmh6YTlucVRmVmh0dXZWV3VKX0gxdjhKT1d2eGh1VXNCSmVnS1R3dFhqZm9fMDR2a3luMXA0VzdpanlzdmZ1U2xUdkUyV1VYN0daU1pDOUc4bkFzVVBSQVk1WVRBcWVEV1d5czVXU1RzZFJwQXZSdVIyTmVOMUNabHPSAe8BQVVfeXFMTUNBX04zNGtrUG1mTklrZXdGMTk3cDNnZnlsRklQTzQ0d19NQ0EzSnQyNmhmVXM0c1N2aTBuMkYwaDEwbjV5OVlxT3NLSTM3MXM2OXdaNjNob1l3eWEtQS1CcXR3czctQ1JxSXQ3ZFJoekVxdFo5UzFNNGhxNFdOVE04ZkRhMHFESmpZaVJtQUxBZTgzdHRHR1FqUm1PS1Z2ZWRaSHVWYjJTZlhPQ1I2Y0hsOHFONDZZeU8yTVFmNjBKRTVhTjcySFVvVEh5UzdMTHRPVUdXRzBkMFFnSnhaSk5fcXVHQUYxWTFzTzE4Qmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1766476800
     },
     {
-      "title": "Ranking Eagles' potential first-round playoff opponents, from easiest to hardest - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWhobFBsVGRMVEZ3ZFpfSXRoclpzM09OVkoxbTNBR28yU1BBRjFBTFBkY1puYjRGWllDZU1SbUtjQmlLZUxCNGphd09QYWl5WGFvNXY1VVpOenF3b3JDQU1BRWV3R1YwcGpKajVOQmNKcmIzTGNWSmRNcXR6RVhPdllBZDRDSzhGa2tQbHVHVWxEUFpxUlBjYndPRzNGdXg1WS1rdGtxMk9ZZi1lcUJBUUQ3RXcyWDdaUkVEeHZYT2tXcW1fNXVTOS1zUzNsaEVRSHg4R0V3?oc=5",
+      "title": "Eagles celebrate another division title but still want more - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTdZSVM0U2FZREFhT3R0YTJjaEl5Uy1VRkMwcUktcGtwUklyZWpjTVhkbHNhOUhsdTNfWHJ4SE00UExLWlpIdFdnQ2wzR3J2TmNIUDFxMk5vRG1ENnI3VkowaEtlYWk5eEZWRHpKWnpfYWFvazFFNFhIdi1sRFdNcTVTRDdkRlM3di1ucEtMYUVzdkI1X0U4NWl4Z0didkVEQURBNktkcWJZbU11Vno2ZzhiYUlJVGFKU3VHRkUwb3ZjenB4OFNOWdIB0AFBVV95cUxPZ3BDeHlHWlExZnFmNjY5eHFlZW13bVVCWFV4Rk5ieW04bzVfYWFIOWJpZUFER0FyRW92dnk4WDRubXdtY0tTYjU4VldrOFU3TEFjWnl1Ri1jbEZnRDltY0FoM1VNRFRRczlvVWRlbFh4cEt3VDd4M2oxS0kwLWRuNEg1U05yM3F1N21CN2VnYXIySTJUQngwSTZDbGtKcUUxb2FNLVhHclotTmVWV01jaW10WTFrMEpSeGxuZWhfUkhMeGlJRURkbHpuZGN6YTdv?oc=5",
       "source": "Google News — Eagles",
-      "published": 1766390400
+      "published": 1766318400
+    },
+    {
+      "title": "AAA Official Review: Eagles react to winning the NFC East - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFh6ZjRZRXlnazBTcWhtSVpQLVhzODJSeHZydjVPQl9IazZ2SW1Qdko4V3Byem1fZjBOVlJ3S05OaWZXNFpGbncwdl91R3hRSDJrSUJDNWJKNnRCNEQ3bGpFLTIzMkFtWEVVNFRKczNwVFhnR3RGV1czOTNoMDdCVnBYYzFBOWNaOUp6N1N2TQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766304000
     },
     {
       "title": "Eagles eye bigger goals after becoming first NFC East team in 20 years to clinch consecutive titles - ABC News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDhKVFZCc213N09KaFRZU0lVMTBTeGN3V1YtX2h2U3pINUhVZzY4dlNOWnlVTzZRa2xrLVRTUkJZRjhNTW5YVnJJYTlxSExwb090TV9Qd2pzV0JDQS14dENZVnJXcEVQdF9LWkZOQkJCMGtvTjVnT3Z0a0N2NnMza1M2WjlRN3V1MG5ablI4eVB2WkF3OFdHZzBjZmZkbGo00gGmAUFVX3lxTE5LMXZCSVd3TU1XSVhjbUppWmd1MEJKVEJlb25MUFk3anVPOWJkX3dfd0QyNG9XOFNFbzFaT1hpcnNDaVBxM2o3VlFTTlk1MlFkNGx0UEZmQ1NkSTJBa2ZNaVpBcE9BQy0yMzhpdkRqYmVVcG9ETFNDWGE3MHJzQ3NhSHVXd21wWTBOSHFXWkZXWXZqUnRkX3c3OXFSVWxORF9XTHhPcHc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766304000
+    },
+    {
+      "title": "Been there, won that: Eagles clinch NFC East again, feel they’re ‘trending’ upward - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFN1MUZtenZFT0N0Y29tM3U2NmhqbnNzWl8zeXdMR19hLWJzWmZSdzVaSGJfcFVkSWZhbVVXSm40dEdxdW1GbFJxdXJCZ29YanM3Z3ZHNzZGdW1xLUpwem1CbnlKNWhiSG43ODN6ZFdQaUZtellzTTN5eWduczRYVXU0QThYYjNvR2I4LVFzclUza0ZP?oc=5",
       "source": "Google News — Eagles",
       "published": 1766304000
     }
