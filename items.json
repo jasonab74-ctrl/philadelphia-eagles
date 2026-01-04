@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-04T19:38:50.324276+00:00",
+  "updated_at": "2026-01-04T20:26:40.736424+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles vs. Commanders inactives",
+      "link": "https://www.bleedinggreennation.com/news/167843/eagles-vs-commanders-inactives",
+      "source": "Bleeding Green Nation",
+      "published": 1767556869
+    },
     {
       "title": "NFL Week 18 Early Games",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-discussion/167758/nfl-week-18-early-games-information-discussion-channel",
@@ -37,6 +43,12 @@
       "published": 1767539700
     },
     {
+      "title": "Who are Eagles playing in 2026? Why a brutal schedule lies ahead - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQjBaenJlUVprZjRETl9mZGxKNkRtZUFqX1c3Xy04dlJEaHJCNEQ2OWVOckVBWi1uNzVfcjZoVHVURUc0ODlrNm51a0hXRDZTQW9aWWt5aTlOdjFKTm03VktZUWMtRVNoTTBWbk9KR1BtQmJwYm1DdkRzMHYxaWVBVk5neVBoVEJidDhjOWtvdE9qdkFBVkJKX2xsTWllR1RQdTBRTVFCWjZ1cUo4M3ktd3c4UW1PbkJnenUwUmtOMm0yRmdBRnQxSW4wdnJwdzlMTG9IQlVHS1hlQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767519180
+    },
+    {
       "title": "Who will Eagles play in NFL playoffs? How 49ers loss changes final day - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXJwWTlOeU16aE41RUpFSkRxSUM2SzhtelVIVEY1MzVhcEZ2VHBfOUpfaHpRY2hGQWdUSWdmLUswU1ppQWZsRnJPd1Q5bnE0aGk4LWJKX3lWNXJJVEc3ZXJiRlpvcGRpZk42MmlxcGVTYWoyOC1TR05aSHRwWEtxdmc4M2oyWWNna1RYQm9FNFM0blQ3dkZDZWNJaDF4U0xYN0ZTWFRpZkZTcU5wTGhQcVNXbHFkdno2bE9HVXY5VEZuX2ZkN0xmZlJvaFBqYjVQMFJ5UVZ1bTc0WVUzZFFGSy0tZTRhUQ?oc=5",
       "source": "Google News — Eagles",
@@ -61,22 +73,10 @@
       "published": 1767468043
     },
     {
-      "title": "Eagles mailbag: Potential playoff opponents, the benefits of rest and more",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/167659/eagles-mailbag-potential-playoff-opponents-the-benefits-of-rest-and-more",
-      "source": "Bleeding Green Nation",
-      "published": 1767465106
-    },
-    {
       "title": "Eagles mailbag: Potential playoff opponents, the benefits of rest and more - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaDNPaFBpUDRhU3NGVE00ZlBTcjVIbldKa2dvcnFFN1FhQXVWMG5NS25LM196c0xjR3huNkZSdHRvbEFUVkFxeF9ucnhFNVhOX3hNei1sQ2xqaXlRV2E4dEVUNWRtR1NWbnE5RnNJV0UxWGRuY2JIcXkyRWFDR3h5RzVMNTdLWVZBRXlzVUI3TEw5SWFoUldwU3NTT0ZtbDJDMVF4V1pESFFNZEJRbmhiS0dERjF3VWlzU2JpMlVrOVBTWVlEWlZvMEs5aFVySDA4VXZwTHRfTDFIUHZnQ2lmdk1n?oc=5",
       "source": "Google News — Eagles",
       "published": 1767465106
-    },
-    {
-      "title": "Week 18 non-Eagles rooting guide - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajMxWmVFNE81ODhUdnBWUUotNGRHOGhhemtkVlJVUzNUNVAtVEdKMGU0M3ViTHhKMWNCZ2I5T2lYSTZEYl90bnZELTlKa0hCWU9JQ3ppVVAwZmJpWG5pWURlUEFySVRwdk4wQWtTMTZ5M056RzRtdnR5YjFZVmF5ZVVkNE1XRWVULTFHTXl0Q3Z0aHZ5ejRF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767458893
     },
     {
       "title": "Eagles notebook: Cameron Williams excited for chance after year on IR - NBC Sports Philadelphia",
@@ -95,6 +95,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXdmTUxEZDViWWJzbkMzVVV1bTlmb2REdktDT1hONmdJZGoxYVU5Q1FBVWJJRjZDMm1FaUYwUFpYX0UxdmtST2s1UEctUWRjSGtTQWI5ZHlBeXVlaFYzSE5KWUY5UkZacmVsN19rRW0xODhUcmdvS3Z3RmJlazZ1bDNVMWFnLVk4blRiMDBlZFl3ZlJWd1NoaFRoS3Bka1dLaUVuUTZmcVNkZ29ydXJSQnZ0Q3ZUUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1767351600
+    },
+    {
+      "title": "Rest starters or pursue No. 2 seed? How Eagles coach Nick Sirianni weighs Week 18 approach - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnM5ckhvZHVSTEMxbXh3aEhKblppTVhwbGNKRjI3ZDN3X2lHSHEzQ2ZwdnZHdkJmYmhQb3hXYVZtSXFRdFB2d3JROV95QVJBeEJCZkR2enNESE0tN3hiMmVHeVllZktCV2NJZTNmVVZGUTQwRWdQR19TZUpjZWNtc0RuYXhOd3NuaHIwYlJYeDRrRGpC?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767340800
     },
     {
       "title": "Eagles activate Cameron Williams from Injured Reserve - Philadelphia Eagles",
@@ -137,12 +143,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXZlZ3ZnOU4yUm1KOGYxSTJBaXJTVm5vZVd2ZEIxOElLQ1dGRW1tc1F0c0k4a29URlFwTXoxMFpYN1QwS21QNkdyQ0NhaW5ybkl2c1NvS3RidS12T184OHRObnFzQ1B1VzFTZFRCcGpqQTI0dlNaUThhc2tnMFhjTlNfV1JXX1RmTnRyNUNGdzM3TWlSbG85ZTBnVGszQV9fSmtsZEdKcnJqZ0dKVTRNUENaeHlzSk8xQmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1767196068
-    },
-    {
-      "title": "Rest starters or pursue No. 2 seed? How Eagles coach Nick Sirianni weighs Week 18 approach - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnM5ckhvZHVSTEMxbXh3aEhKblppTVhwbGNKRjI3ZDN3X2lHSHEzQ2ZwdnZHdkJmYmhQb3hXYVZtSXFRdFB2d3JROV95QVJBeEJCZkR2enNESE0tN3hiMmVHeVllZktCV2NJZTNmVVZGUTQwRWdQR19TZUpjZWNtc0RuYXhOd3NuaHIwYlJYeDRrRGpC?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767182456
     },
     {
       "title": "Eagles hang on to beat Bills 13-12 when Josh Allen misses an open Khalil Shakir on 2-point try - AP News",
@@ -211,12 +211,6 @@
       "published": 1766978300
     },
     {
-      "title": "Handing out 10 awards from the Eagles-Bills game - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GVDJQSGdyRllBY2c5Wl9sTXNqODdXY3I0cVprN29xX01OQ3BKRHNKNjNWRFdDY3BrZktCUUxTbnktU2taZ2JiZG5FOUZNWXRpakJ2bjYzSDE5blJrLVF0eU1RQU1WS1k2NVdQd0RIN3k3THdxcmhjNEZ4TjN4dw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766977575
-    },
-    {
       "title": "In 'great battle test,' Eagles' D thrives vs. Bills - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE1tZEdUYnZLd29DazlmUVZMX3VfMjRNS0NWd2dOaXN3TnJIT2VzeEp2VlRqY3JEZmhMSGhNUWl4OGhvWXN0MWlpcEQxZ3hJcnl1cVU1dzMwMUgtS0F2UG5BM0JMcjA4RnlPM2tPaXBmUDI0bzRjeWc5emk5R2tSOUZsSXdyVG9Sdl9IaHVJQ0pQZw?oc=5",
       "source": "Google News — Eagles",
@@ -227,12 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEt1OGNxRXZ4Q3l0a09Cb2thUjBGWFlQY3owWEhJQ3NCRkVVWGpjb21CUF9uRk1nS3ZhSXVWV0dhaFZSMHg5T3g0ZUtsTXN5SV9uRFJ0ZDA2UDRFbWpZWEk4T0ttLTVQXzZLRXFUM0w2UkF6V3Vya2trRFlhcDlibTlUWnM4WTFtLTRFNlY4OA?oc=5",
       "source": "Google News — Eagles",
       "published": 1766974368
-    },
-    {
-      "title": "Spadaro: 10 takeaways from the Eagles’ thrilling 13-12 win over the Bills - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3RCZUEzWUI0UUpkYVR0Si1Jdl80ZDNGd015UGlGX2pGdExqQ1pGSDJMVDJUSE16QmZJNVFjZUhIazZjZFRwaXJEQ3B6djVyRzNfVnkwVkkyZnIxYjU5RVJhZFp2encycGdGQ1RHM2xQQlZxMlMzaXNuQS1MQ0xCLXR3V3JqdzJHR2g4cmFQOTJXZThpOXJMdjBqUjJ2N0ZPZ1hIRy1ObjhJdVExTDNXTw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766974356
     },
     {
       "title": "Game Recap: Eagles 13, Bills 12 - Philadelphia Eagles",
@@ -361,12 +349,6 @@
       "published": 1766822400
     },
     {
-      "title": "Jalen Carter is good to go for Sunday's game | Eagles at Bills Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTllKUkRZdkJrY25pVEZUX2Z2R0k4bTM0cGU4bk5BVE9uZVIxYUZxRkZPTVFxU2xQSEZQQjJXTVhKZGdkTGpoLXBZX1VzNWdvNHUzejE0cUVlU1VjRXYydFpaTW9mSVkwUEJWYm5hSFVYM3RQY3NMNENKbkFvQUpJOTVMV0VoSGs3cUhIUXRmaUpmUVpnSGc5dWF4VzQ2alE4NkxWTEtfazBQd045YUQzdE9Zcm85Zw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766782671
-    },
-    {
       "title": "Have Eagles really solved things on offense? - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXo2Q1pyY2tsOUN4LUJFX3hKVmNTaW5qMlBXSFVJR0tLci0wdXhrSDMtN3FDM2t3UHNZbUNRSHNwbXByekJVZDhIcXRNVjQxX0EzcG1MRmNJR0Y5QzBBY084bmV1b19CSEpEMGxrZUZubzZ1ZUFLUVJZdVowdEh2Zkd6c1R5ZFF0YmxyUFdYYXRVeFhGcXpMeDFOdnN4ZnhFSVpURWV4T3NkbDdJUElGRnBVUnV4cERzVDVZdl9wbnhwd0xUanNpRkpLQjRoNlRhMTVRak1CLUXSAeABQVVfeXFMUFVFOWlKTUpEOFNDYlhVSHFKNXYtMXdvVVZzVFNqMGw4ZWpacTZxbDJ5NWxLVmlRVVVDcnBYVEFQSkxkYVBRbUtUVU9KVFBzTW5qU1FYOTN6TjlYMWEwaHFtWC1keVpfOEQtTGJKdkRqdWpZSkF6TTJ0RmlEWVlacDdmbWFyUlpMMHJnSWNiVWpOaHdmUjVsdTRuUjYzNXNscTR1TFBDaG5HT2JyMkViSnNLOVZaU09vZXhpOFgwWktSWjJmMXVoZl8td0NCVU9TRWFCbkdrQVgwYkRCWlVSemk?oc=5",
       "source": "Google News — Eagles",
@@ -379,6 +361,12 @@
       "published": 1766742000
     },
     {
+      "title": "Jalen Carter is good to go for Sunday's game | Eagles at Bills Injury Report - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTllKUkRZdkJrY25pVEZUX2Z2R0k4bTM0cGU4bk5BVE9uZVIxYUZxRkZPTVFxU2xQSEZQQjJXTVhKZGdkTGpoLXBZX1VzNWdvNHUzejE0cUVlU1VjRXYydFpaTW9mSVkwUEJWYm5hSFVYM3RQY3NMNENKbkFvQUpJOTVMV0VoSGs3cUhIUXRmaUpmUVpnSGc5dWF4VzQ2alE4NkxWTEtfazBQd045YUQzdE9Zcm85Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766736000
+    },
+    {
       "title": "Bills' Allen 'good to go' vs. Eagles after foot injury - ESPN",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3VUU1k5ai1SZmp4MmFkcHk3cy1JSnBoNy1IZ1FsSDJHOVptYktrczRwU3prSEI4R2FNS2QyTU9qQTNyY1JxMFJGc2V5LWFTWFBUU1NRSXdsWEJucG1iOEpGVVRSQ3FDUTlHejREQzFtX0J4OUMtZWs1SWp4Mk91dVhKNDFfSS1ta1BoUEhkU19YdnVhUFE?oc=5",
       "source": "Google News — Eagles",
@@ -387,12 +375,6 @@
     {
       "title": "Bills’ Week 17 opponent preview: Eagles’ offense defines average in 2025 - Buffalo Rumblings",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFpCaVhRY2VXcGF0dFAwY0x2LUNBMW1WRUFNTHRIX1JtdlF4dERObmdLZ1ZTV0g4ZVRNZ21La04yUXJkU3BqMmEtSEFpWlJwaGF3OU9EN25ueVFoWWlWRXRrX0tZeEZDMW5NeHdRc1hHNnBvQkJQbTFrZlplQW8tRFdKcWI2dkI4SUJrcjVjdHdxcDEya0NmY1ZQd2p2VWhfNWhZUzFpYjlBMzFDV2x5LTJVM2I?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766736000
-    },
-    {
-      "title": "Eagles' Dean, Johnson ruled out against Bills - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmgyTUhQRkNwWWpUTGhDWWNRWXdXOHYxa0REYTZ6Ymx1cDhuazdiZ05Ickpzd0IzR0pGSml6ODJ4dkdaR1pDXzFzbEVLT092dDdYTXVjTnlQWTNBUWFxb21KR05LXzE3b3FZUGJTYW81M2dPUnFYWXZlRUcwUUp3cmRfOWx1SVRQaDJGRTYxWnJPdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766736000
     },
