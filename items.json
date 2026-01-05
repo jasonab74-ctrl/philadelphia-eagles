@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-05T18:37:49.511880+00:00",
+  "updated_at": "2026-01-05T19:23:02.525560+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: “The Philadelphia Eagles are perhaps the most confusing team in the playoffs”",
+      "link": "https://www.bleedinggreennation.com/news/168043/eagles-news-the-philadelphia-eagles-are-perhaps-the-most-confusing-team-in-the-playoffs",
+      "source": "Bleeding Green Nation",
+      "published": 1767639394
+    },
     {
       "title": "Eagles assistant general manager reportedly interviewing for Miami Dolphins GM job",
       "link": "https://www.bleedinggreennation.com/news/168023/eagles-assistant-general-manager-reportedly-interviewing-for-miami-dolphins-gm-job",
@@ -109,10 +115,10 @@
       "published": 1767577309
     },
     {
-      "title": "NFC Playoff Picture: Eagles will host 49ers in Wild Card round",
-      "link": "https://www.bleedinggreennation.com/news/167858/nfc-playoff-picture-update-eagles-clinch-no-3-seed",
-      "source": "Bleeding Green Nation",
-      "published": 1767574201
+      "title": "Philadelphia Eagles to play San Francisco 49ers in NFL playoffs. Here's what you need to know. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDN0NWNHNjFpWHJSamZaYWE4VEVVZU8yWi1CRUhCek16OXR2RHlfWlhjcVR6V3ZPYm5ZNDFsMnQ5ZFFFU1VaMS1rakRzVlBORWhOdmNhSUwzRnB5VV9wQlZxRS1UZG5KR2prWkIzVm16SWZ2bmpqdHUzTGg3REtfYWdn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767574680
     },
     {
       "title": "49ers Set to Face the Philadelphia Eagles in Wild Card Round - 49ers.com",
@@ -136,7 +142,7 @@
       "title": "Who will Eagles play in NFL playoffs? How 49ers loss changes final day - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXJwWTlOeU16aE41RUpFSkRxSUM2SzhtelVIVEY1MzVhcEZ2VHBfOUpfaHpRY2hGQWdUSWdmLUswU1ppQWZsRnJPd1Q5bnE0aGk4LWJKX3lWNXJJVEc3ZXJiRlpvcGRpZk42MmlxcGVTYWoyOC1TR05aSHRwWEtxdmc4M2oyWWNna1RYQm9FNFM0blQ3dkZDZWNJaDF4U0xYN0ZTWFRpZkZTcU5wTGhQcVNXbHFkdno2bE9HVXY5VEZuX2ZkN0xmZlJvaFBqYjVQMFJ5UVZ1bTc0WVUzZFFGSy0tZTRhUQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1767498575
+      "published": 1767507075
     },
     {
       "title": "Eagles mailbag: Potential playoff opponents, the benefits of rest and more - Bleeding Green Nation",
@@ -283,12 +289,6 @@
       "published": 1766959373
     },
     {
-      "title": "Eagles getting closer to being locked into playoff seeding - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjBtb1FTM3hGZk94WmhCMzE2MmpfMndIamNZLTUyYXM3b0U1Wjh2Z3FIeTlYczA3UE0zREh2NDMyMmVnNlZ6MjlwWXZQbHA5MGRQa1Y0NkRzclY2a0RIaTFaMjAxM1oyaWpaYUw0bnMxUGRNM0kzYzRfZFRLM09lMTd3SFNqVmdJb2F1c0tyalhfWXZISktnN2JZYndmbVA2Ym50X1pXVUdvdUZxbDhVcmlxYkY4bnJuOVhHNXhzb2c4SFJJc0Y40gHPAUFVX3lxTE5YY1ZTNFN5d3NWV2Nhd242aERZZzBfeEFLVVJTVDhZRldPRXFXQmhkcmIwTXRHT0J1MllWTHNTSUItRnpRNlFsM18zdE5XOTBEU2JsVmgzWEhXMTJnWHVlQ0paMFZiWWttSnptdzRKRFk0MDFpbFBwNVU5UklUQ29WTi1pM0xqSXFqb0hYbDFGNTdFeGZ0eG82RXhBTjZLRGNTRE42ZE5TQlEtTEl4R0RzbmVONXozZElZTDB4bkRWeHNHYmNRejBaazBKSlhWQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766957771
-    },
-    {
       "title": "Eagles 13-12 Bills (Dec 28, 2025) Box Score - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xd1hmOWd6YldZSm5wQi1nSEhqdV8wQ19OZlJpQ294QWtfczJtM1pzUnh5RF9XWWtuaV9fX1hTM3p6UkRUMkRGUHhCeUJRWEc2SmhDNEJfWHluWHd4UldFWjNR?oc=5",
       "source": "Google News — Eagles",
@@ -299,12 +299,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcnZTWXllaUFhWVlWVVhSUTZWU3Q2bHlGRUotQmp3RjJMamtJQlBqRmMtM1BuOTJOZkM3dXUwYi1rU1FqdUZDWHpqa1BfMEVYdkItV2N6ZXlPbUFseE9vSW5ZcnFIOFptV3RWWEZmXzU5cS1KOHhCQWtMQ2JpeUlnN2lneGQwNC1kVWZkTjh0cEpheGdncFNLOWdGYWloYWNXQmpoeUtrd0d4S21rMDI3YWNSSkJHc3NEREgybEV0QzZ0ZUpNWFBBck13RGVpd2NaSjBhdE93?oc=5",
       "source": "Google News — Eagles",
       "published": 1766932656
-    },
-    {
-      "title": "Just exactly how explosive is the Bills offense the Eagles will face Sunday? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0xSVXUydDlieU5IU1pmb0RpNUxxTlJvRUtnRjNjUkdfTTVldDQ0YzA3cXo5NXRWbjQ5cVdRSUJRaUJfOVJxM182c1JvdnM3UXJwN1c4SWRwVGhSU0Jxa1hCVExBWUwyVGxSVDdXcW9QNzBJU25yNV9LVW43WnE1WnNIT2x4cG9qMXY3Y251WGdfRnpUY0R2VlpJMHNnOTZfY2dxSGRQNmFPeEw5elZuZ0NyY0hVMWpSaUtpbU5aSlZyd9IBygFBVV95cUxPTDhtMjBwOVZlTTlyNGtEaE9QRzBKRU1ZTUZsa1U3UkV6MGhCU3FpYmJKNUJmbXkxMUtMZ1N3bjdEMEUxWkdGbTZjYzdYZHRZYzRBSjBiLVhrUmt2czB1b3YyR01aS1dXNEQ1MFhQaUZjUlAwNG1nRHdMaTJhSFFGTlRVVi1FQ0JHeXdNU29zYnR6UVRWNk1MdkVVaUNPWjdtdnU4MzFielk1cDlXTEFIUTQxdzJiRHJ4dHlSZkMwRFAyc0hIdVNvS1pn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766923200
     },
     {
       "title": "Spadaro: 10 takeaways from the Eagles’ thrilling 13-12 win over the Bills - Philadelphia Eagles",
@@ -355,14 +349,14 @@
       "published": 1766908800
     },
     {
-      "title": "'We're going to take our chances' | Bills players know there's more ahead despite Week 17 loss to Philadelphia Eagles - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbENCWFFFVU00SUw2YmNDUWc3a21PWWpqVlNjOC0ya0ZSUmViRDJtUHlKYTk0cFNYTTExVnRfNGgyQkhxV2JkQ2RJd0VqT1FlSmt5RWxHbEd3cDdPa1NacVM0UDZiTjMxTnFydDZFODY5SGRBUzhJbmVMVk1YamRJOHkwUkE2LXo5NnlkZm9SeFFtV0hoLWE4dmYwNjlOS0xmeGNpUlFaSkZBVW5VVkUzc2tvQzFNeU1ISWxJUTh2MkFLS0c2VUdXbGdfeWNTd1VLZzJCMzFKVG96MzJndHRoUA?oc=5",
+      "title": "Eagles getting closer to being locked into playoff seeding - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjBtb1FTM3hGZk94WmhCMzE2MmpfMndIamNZLTUyYXM3b0U1Wjh2Z3FIeTlYczA3UE0zREh2NDMyMmVnNlZ6MjlwWXZQbHA5MGRQa1Y0NkRzclY2a0RIaTFaMjAxM1oyaWpaYUw0bnMxUGRNM0kzYzRfZFRLM09lMTd3SFNqVmdJb2F1c0tyalhfWXZISktnN2JZYndmbVA2Ym50X1pXVUdvdUZxbDhVcmlxYkY4bnJuOVhHNXhzb2c4SFJJc0Y40gHPAUFVX3lxTE5YY1ZTNFN5d3NWV2Nhd242aERZZzBfeEFLVVJTVDhZRldPRXFXQmhkcmIwTXRHT0J1MllWTHNTSUItRnpRNlFsM18zdE5XOTBEU2JsVmgzWEhXMTJnWHVlQ0paMFZiWWttSnptdzRKRFk0MDFpbFBwNVU5UklUQ29WTi1pM0xqSXFqb0hYbDFGNTdFeGZ0eG82RXhBTjZLRGNTRE42ZE5TQlEtTEl4R0RzbmVONXozZElZTDB4bkRWeHNHYmNRejBaazBKSlhWQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1766908800
     },
     {
-      "title": "4 Takeaways From the Eagles' Win Over the Bills - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2tVV0dOcl84ODZnc0ZPSTMtYzdXTFpQNElTS1QxSG9ScjZ3aDZSVFM1RXNkc011bldXbXJ5OHpPRW5DMElGRFlJZ1pnOVdJNnBya1pidmtIelpCTHpVTVM5R0ZPRXh2RnlEU25sY1JNRmozdExmVV9ZWEduTm83Uy1n0gGCAUFVX3lxTE5TOWJKWVJrTk5QelNqZE5CTTBMMEJlUVFRR0RXbDBiWk1RSkJUNTR4RXNRU0tQR19XRjItN3ZkQlBJVWxKal9lQURSdUljZVd2azV3NjVNN2FXNUc3VGhublFjcDBSRExheEF1VmZfcEVGcVNUNDhFcWVONnBTdFFGbWc?oc=5",
+      "title": "'We're going to take our chances' | Bills players know there's more ahead despite Week 17 loss to Philadelphia Eagles - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbENCWFFFVU00SUw2YmNDUWc3a21PWWpqVlNjOC0ya0ZSUmViRDJtUHlKYTk0cFNYTTExVnRfNGgyQkhxV2JkQ2RJd0VqT1FlSmt5RWxHbEd3cDdPa1NacVM0UDZiTjMxTnFydDZFODY5SGRBUzhJbmVMVk1YamRJOHkwUkE2LXo5NnlkZm9SeFFtV0hoLWE4dmYwNjlOS0xmeGNpUlFaSkZBVW5VVkUzc2tvQzFNeU1ISWxJUTh2MkFLS0c2VUdXbGdfeWNTd1VLZzJCMzFKVG96MzJndHRoUA?oc=5",
       "source": "Google News — Eagles",
       "published": 1766908800
     },
@@ -397,14 +391,14 @@
       "published": 1766822400
     },
     {
-      "title": "Bills’ Week 17 opponent preview: Eagles’ offense defines average in 2025 - Buffalo Rumblings",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFpCaVhRY2VXcGF0dFAwY0x2LUNBMW1WRUFNTHRIX1JtdlF4dERObmdLZ1ZTV0g4ZVRNZ21La04yUXJkU3BqMmEtSEFpWlJwaGF3OU9EN25ueVFoWWlWRXRrX0tZeEZDMW5NeHdRc1hHNnBvQkJQbTFrZlplQW8tRFdKcWI2dkI4SUJrcjVjdHdxcDEya0NmY1ZQd2p2VWhfNWhZUzFpYjlBMzFDV2x5LTJVM2I?oc=5",
+      "title": "Bills' Allen 'good to go' vs. Eagles after foot injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3VUU1k5ai1SZmp4MmFkcHk3cy1JSnBoNy1IZ1FsSDJHOVptYktrczRwU3prSEI4R2FNS2QyTU9qQTNyY1JxMFJGc2V5LWFTWFBUU1NRSXdsWEJucG1iOEpGVVRSQ3FDUTlHejREQzFtX0J4OUMtZWs1SWp4Mk91dVhKNDFfSS1ta1BoUEhkU19YdnVhUFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1766736000
     },
     {
-      "title": "Bills' Allen 'good to go' vs. Eagles after foot injury - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3VUU1k5ai1SZmp4MmFkcHk3cy1JSnBoNy1IZ1FsSDJHOVptYktrczRwU3prSEI4R2FNS2QyTU9qQTNyY1JxMFJGc2V5LWFTWFBUU1NRSXdsWEJucG1iOEpGVVRSQ3FDUTlHejREQzFtX0J4OUMtZWs1SWp4Mk91dVhKNDFfSS1ta1BoUEhkU19YdnVhUFE?oc=5",
+      "title": "Bills’ Week 17 opponent preview: Eagles’ offense defines average in 2025 - Buffalo Rumblings",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFpCaVhRY2VXcGF0dFAwY0x2LUNBMW1WRUFNTHRIX1JtdlF4dERObmdLZ1ZTV0g4ZVRNZ21La04yUXJkU3BqMmEtSEFpWlJwaGF3OU9EN25ueVFoWWlWRXRrX0tZeEZDMW5NeHdRc1hHNnBvQkJQbTFrZlplQW8tRFdKcWI2dkI4SUJrcjVjdHdxcDEya0NmY1ZQd2p2VWhfNWhZUzFpYjlBMzFDV2x5LTJVM2I?oc=5",
       "source": "Google News — Eagles",
       "published": 1766736000
     },
