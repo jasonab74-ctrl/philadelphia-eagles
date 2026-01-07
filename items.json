@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-07T19:22:47.772079+00:00",
+  "updated_at": "2026-01-07T19:41:48.659881+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles open practice window for Azeez Ojulari to return from injured reserve",
+      "link": "https://www.bleedinggreennation.com/news/168271/eagles-open-practice-window-for-azeez-ojulari-to-return-from-injured-reserve",
+      "source": "Bleeding Green Nation",
+      "published": 1767814751
+    },
     {
       "title": "Reactions to “Hard Knocks: In-Season with the NFC East” episode 6",
       "link": "https://www.bleedinggreennation.com/news/168226/reactions-to-hard-knocks-in-season-with-the-nfc-east-episode-6",
@@ -85,12 +91,6 @@
       "published": 1767723501
     },
     {
-      "title": "Vic Fangio expects Nakobe Dean to play in Eagles vs. 49ers",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/168150/vic-fangio-expects-nakobe-dean-to-play-in-eagles-vs-49ers",
-      "source": "Bleeding Green Nation",
-      "published": 1767718250
-    },
-    {
       "title": "Get ready for Wild Card Round with Eagles Road to Victory Bus Tour - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEhad08zeHFSd0x4eUNiSmhDQVZIZW81ZFNiT2l0NWpXT1BxWFBfby1ZVmRLVjF1YVNuVk45UkV4OXQydTJTc2tscV9PVGk5ZkNjOGpjd3JFT003c1AxZEhaWnZRem5wZUxOc0s3bVA1YkRUV09rdk5sdkgyN1oyVkdkMm1xcUtrN1JXY1Rua0trTXBFZ19lcDhYd1JsNkN2UGJ0RnozcVItbEI30gG0AUFVX3lxTE1aSFFzLXg0cjhmYnJOdkhsS0xLbnFXdjZGSnNtam5DdzVaMmh3bDJsRWlPc0FXT1N1dEhUY2VCb1I0ZGo4LXBLTkJhbkFIVFpNQnJaQVFFRThUS3dCT0NUcmhXMW5rQThSaW1pLU5xS2ZaaGdwX1BKMUVpYlpvTXJUbXNXaE93TWpsNl9wYTFQTS0yN2ZleFNYTkJoSFpGajZWZXZZODZEaXVLRXhNVk82OE5hRQ?oc=5",
       "source": "Google News — Eagles",
@@ -101,6 +101,12 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaU9sSlVVVVFfZE9PdmxxSzBQUHA5MUE0Q1o4T0hUWHlKR19Vb28tdC1zaG10aU1vdUtnalBsTjRjbkpjXzFYa05MMlFpUEhOTHVISFdXX2NZdk54YzZ5bmJ1TVo4QzJnTUZ0M3laSklvdWo0a05fNHY3c1BwTGJPOHBBaFhuQTlVUU00OVJUTFY3UmZoMjdnQXRSblFRWXM3TkI5MUFrTk1IOEF5X2FELTZNd2E5NGRROEdHRHRmMWtZS0l6alQ2adIB0AFBVV95cUxQYWJXV2pCTXhGLTNLSDFNc0xIUFp5MXQ1V1hfcTEtYXVBRmF4Y0VKOWtzWE9sVEZZUVhXV0Z6MjNrMnJsSzhENFhicHRJZmlBTC15LXdERDJGYmJhLWNnaDN2eU5MdFc2dTF0WS10cDFodVpXS3JCMnM3X1RTR29nM0p6Znl0RXMtaFpIU0syMWZraUxMNG1LVGlyS1lRZmRFSFNOaVRaOC05b2hmMlVnRmN5NllMTllXUTJKN1BrMHlBT19hRHQxdC1keE5NcmFJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1767700800
+    },
+    {
+      "title": "Philadelphia Eagles to play San Francisco 49ers in NFL playoffs. Here's what you need to know. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDN0NWNHNjFpWHJSamZaYWE4VEVVZU8yWi1CRUhCek16OXR2RHlfWlhjcVR6V3ZPYm5ZNDFsMnQ5ZFFFU1VaMS1rakRzVlBORWhOdmNhSUwzRnB5VV9wQlZxRS1UZG5KR2prWkIzVm16SWZ2bmpqdHUzTGg3REtfYWdn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767666353
     },
     {
       "title": "Nick Sirianni Press Conference: January 5, 2026 - Philadelphia Eagles",
@@ -235,12 +241,6 @@
       "published": 1767507075
     },
     {
-      "title": "Eagles mailbag: Potential playoff opponents, the benefits of rest and more - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaDNPaFBpUDRhU3NGVE00ZlBTcjVIbldKa2dvcnFFN1FhQXVWMG5NS25LM196c0xjR3huNkZSdHRvbEFUVkFxeF9ucnhFNVhOX3hNei1sQ2xqaXlRV2E4dEVUNWRtR1NWbnE5RnNJV0UxWGRuY2JIcXkyRWFDR3h5RzVMNTdLWVZBRXlzVUI3TEw5SWFoUldwU3NTT0ZtbDJDMVF4V1pESFFNZEJRbmhiS0dERjF3VWlzU2JpMlVrOVBTWVlEWlZvMEs5aFVySDA4VXZwTHRfTDFIUHZnQ2lmdk1n?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767465106
-    },
-    {
       "title": "Eagles mourn the passing of Billy Ray Barnes - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFdOR1VuTGYxVzNEUVIwNTY5Q1J4bTlTc285a0lUSktzWXlZWlJTZVduRkNzVzNMR1JIVkRNZHRtb19jN2dmOFhNdFJweVE5M2NhUFVEeFExQUh5ZGJWTUtpdGpCTnZyVDcwM0Q4WVJrcjdwbEdVaEJnQ2RmY1Y0MndLWmVSb3dvdDFxMw?oc=5",
       "source": "Google News — Eagles",
@@ -357,6 +357,12 @@
     {
       "title": "Buffalo Bills inactives list vs. Eagles | Week 17 - Buffalo Bills Home | Buffalo Bills - buffalobills.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFJQLTBDU3QyeF8yQnZDU2ZpWUhKZUNPQm13RGNacnNCaVlFVk5uSlJOWktrUUFGZ0pXSXpqMFM0MEhwUnhGdFlKdDhZRXhNakhQZll4Mkd2cnZ3OW5zQk9SQmhNN0g1anpneC03VVlCaVpfcVR6QUl6MHpmQmFKME5WTDZYZFk?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766908800
+    },
+    {
+      "title": "4 Takeaways From the Eagles' Win Over the Bills - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2tVV0dOcl84ODZnc0ZPSTMtYzdXTFpQNElTS1QxSG9ScjZ3aDZSVFM1RXNkc011bldXbXJ5OHpPRW5DMElGRFlJZ1pnOVdJNnBya1pidmtIelpCTHpVTVM5R0ZPRXh2RnlEU25sY1JNRmozdExmVV9ZWEduTm83Uy1n0gGCAUFVX3lxTE5TOWJKWVJrTk5QelNqZE5CTTBMMEJlUVFRR0RXbDBiWk1RSkJUNTR4RXNRU0tQR19XRjItN3ZkQlBJVWxKal9lQURSdUljZVd2azV3NjVNN2FXNUc3VGhublFjcDBSRExheEF1VmZfcEVGcVNUNDhFcWVONnBTdFFGbWc?oc=5",
       "source": "Google News — Eagles",
       "published": 1766908800
     },
