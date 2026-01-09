@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-09T11:22:07.984944+00:00",
+  "updated_at": "2026-01-09T11:42:23.141010+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXJ0R3hua0VWNkwyLTBsaWVYQngxNm1SREduTktuUDR1TG9wTTZsTlVERmQ2TmRqa3NUVVVlUW10MVVnRVlOWThuMUdURlVLMjJkLWQ2UG9KQkltR21pX25NVVdBbkNLQngtVFdMaVpBYWRGTDRXV01vd0RfMkZidjI4eG9FQ0w5YjRZZDF3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767957965
+    },
     {
       "title": "Eagles-49ers playoff preview: 17 things to watch in Sunday’s Wild Card game",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/168363/eagles-49ers-playoff-preview-17-things-to-watch-in-sundays-wild-card-game",
@@ -17,12 +23,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/168357/eagles-49ers-game-preview-5-questions-and-answers-with-the-wild-card-enemy",
       "source": "Bleeding Green Nation",
       "published": 1767937526
-    },
-    {
-      "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXJ0R3hua0VWNkwyLTBsaWVYQngxNm1SREduTktuUDR1TG9wTTZsTlVERmQ2TmRqa3NUVVVlUW10MVVnRVlOWThuMUdURlVLMjJkLWQ2UG9KQkltR21pX25NVVdBbkNLQngtVFdMaVpBYWRGTDRXV01vd0RfMkZidjI4eG9FQ0w5YjRZZDF3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767936146
     },
     {
       "title": "Eagles Injury Report: Lane Johnson limited again, Trent Williams returns to 49ers practice",
@@ -343,12 +343,6 @@
       "published": 1766995200
     },
     {
-      "title": "Game ball, three stars, and snap count analysis: Week 17, Eagles at Bills - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGVqNzRWOGZ6OUJ3ZVNOT2NaaS12RDBnZ1EwVEdLWDYybGtfYnBEa3Z1dFVBVkM0dWRTT0piOTNFMzI3RjhqZlVZVV9XbTR4OEVSTnNoMVk0TUhyLWY1djdlZEh1N05XcWNSOEZtLVRVUlRudHpNMHVxYmJMcmNqR1V6RzQ3eWRHbWoydUtHQk1LQVpTbElTN0hGZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1766995200
-    },
-    {
       "title": "Highlight: Jake Elliott's 47-yard FG extends Eagles' lead over Bills to 10-0 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUtiWEdiR1I3MjRfa20zemFZdjVMcVZia3NMNHFiWmxVLWQ3ei12TjJTUlpDM0xXd1lqSlRUYUlzXy16ZHpHYzA4ckxBcDRkUGhjYXRyOV9zd0VCVThhc3ZRY3BpX3hnVFVpbTVHWmU0eWJ4Qm9iVm0tR1hWbzdxRk1ON05EQl95a214aE5TUXpSNUN1S2hkQWdGZkxCN1hLeVhPS1hjYkM1dzJPdWU4YXczRThUUUhvY2xtQTJXdFJPOE1yb0JN?oc=5",
       "source": "Google News — Eagles",
@@ -395,6 +389,12 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GVDJQSGdyRllBY2c5Wl9sTXNqODdXY3I0cVprN29xX01OQ3BKRHNKNjNWRFdDY3BrZktCUUxTbnktU2taZ2JiZG5FOUZNWXRpakJ2bjYzSDE5blJrLVF0eU1RQU1WS1k2NVdQd0RIN3k3THdxcmhjNEZ4TjN4dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1766908800
+    },
+    {
+      "title": "Five college prospects who could interest the Eagles in the 2026 NFL Draft - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObjNkbkUtUXZRWnlYZ245d29wVmFKaDJQNktIcTRvdW13WjhsamYwTDY3LWhRRHlFeGQzVEJKY0VsdGdRdkRjRkFZX2JrYXFTNmlqcXdVOWVHTUVZNElFRzhqRS1TWXVtdXk0QWMzZW5nVE1zbGlHMERSWkQ0WDRUeW9FVDZVT2c0RWhLekd1SHFQY1FlcVZDVnV1djVqM1owSXl6b2t0MDUxR2ZRXzluV1dlQy03YjhmNlh5bTRRT21qekNXRUZJZG1Za285ckUzQ252MHRGbWx2dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766822400
     }
   ]
 }
