@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-10T22:22:40.228583+00:00",
+  "updated_at": "2026-01-10T22:44:35.541693+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles roster news: 2 moves announced ahead of 49ers playoff game",
+      "link": "https://www.bleedinggreennation.com/news/168525/eagles-roster-news-2-moves-announced-ahead-of-49ers-playoff-game",
+      "source": "Bleeding Green Nation",
+      "published": 1768079446
+    },
+    {
+      "title": "Lane Johnson injury update: NFL insider says “there’s some concern he could miss this game”",
+      "link": "https://www.bleedinggreennation.com/news/168507/lane-johnson-injury-update-nfl-insider-says-theres-some-concern-he-could-miss-this-game",
+      "source": "Bleeding Green Nation",
+      "published": 1768078424
+    },
     {
       "title": "Brett Toth downgraded to out for Eagles vs. 49ers",
       "link": "https://www.bleedinggreennation.com/news/168500/brett-toth-downgraded-to-out-for-eagles-vs-49ers",
@@ -49,6 +61,12 @@
       "published": 1768069149
     },
     {
+      "title": "Wild Card rooting guide: How Eagles can host a divisional round game - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXRoWDBCM0J0eGtORG5uY0k4WHNOLXdVRWlYZ2FJU05JY1g0cDNNdXFLM3BHTUVHZHEwdzBJS1JiZ0lfa1NLRDRwSjBQQ2N3RG1vR2luaVpleHZweHpPVzczalFVVUxBcmsyM2NIeERfbUhrd2dwRGFMTHhNVGJuWkFtQl84QUQ3VFJpcXk4TTB5alpBZm1Ra24yeXBxMkZDVzJIZHhrMHRrTk8xWHdpbDBDUjhtSHJBUmtWQUpfMTJ4cE8zdE9yajN5ZlZCNU43dHM5Y1FVajNubVc2RmRLUkFkR3A?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768068060
+    },
+    {
       "title": "Spadaro: 6 storylines to watch in the 49ers vs. Eagles Wild Card matchup - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVpZWlRsQkViWkZPa3IxbFEwTHZnLVhzRzRDdF9vZG1GWjNyYkNyMXdCM1dQMGd4ODZaV0w1RGRIcEJ0LWZ1aFEyS0VXVVFhN05PT3ZhbTVEWTNRdnVRVnFMS3ZqSXV6NTJfU2FRVTlTNnBWLVNWXzE0YV9TcmRFbkNfbjRaakp6LU13UktfbndCOHRwS0lWSnVZWURjaTM1?oc=5",
       "source": "Google News — Eagles",
@@ -65,12 +83,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHRUbkNjVGk0d2FzZUFuNzJYWUVQdlg2dHZZeVVZUUlsMzBhajZhWHUzcml2T1BtYUxsRUc0ZFdqdnprSU1XdHI5RHFlLUl1bnBsYW1aa2hrWnpwaU5jclZaSWd3akx1R2xKb0NuY3hiTjYwM2tuRzc3THZVa0FSM1JQUzZNdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768064589
-    },
-    {
-      "title": "Eagles’ Quinyon Mitchell and Cooper DeJean are first-team All-Pro",
-      "link": "https://www.bleedinggreennation.com/news/168433/eagles-quinyon-mitchell-and-cooper-dejean-are-first-team-all-pro",
-      "source": "Bleeding Green Nation",
-      "published": 1768058061
     },
     {
       "title": "Cooper DeJean and Quinyon Mitchell earn first-team All-Pro honors - Philadelphia Eagles",
@@ -103,22 +115,10 @@
       "published": 1767996473
     },
     {
-      "title": "Eagles-49ers Final Injury Report: Lane Johnson questionable",
-      "link": "https://www.bleedinggreennation.com/news/168408/eagles-49ers-final-injury-report-lane-johnson-questionable",
-      "source": "Bleeding Green Nation",
-      "published": 1767992766
-    },
-    {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXJ0R3hua0VWNkwyLTBsaWVYQngxNm1SREduTktuUDR1TG9wTTZsTlVERmQ2TmRqa3NUVVVlUW10MVVnRVlOWThuMUdURlVLMjJkLWQ2UG9KQkltR21pX25NVVdBbkNLQngtVFdMaVpBYWRGTDRXV01vd0RfMkZidjI4eG9FQ0w5YjRZZDF3?oc=5",
       "source": "Google News — Eagles",
       "published": 1767990625
-    },
-    {
-      "title": "Eagles Mailbag: Tank Bigsby’s usage, the Birds’ most important defender and more",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/168372/eagles-mailbag-tank-bigsbys-usage-the-birds-most-important-defender-and-more",
-      "source": "Bleeding Green Nation",
-      "published": 1767990060
     },
     {
       "title": "Eagles Locker Room Interviews: January 9, 2026 - Philadelphia Eagles",
@@ -199,10 +199,22 @@
       "published": 1767899888
     },
     {
+      "title": "Our Eagles experts make predictions for NFL wild-card playoffs vs 49ers - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWRaNXdGMXA2TnhhYzRNb21NWW9fZnktWGptRjdaSkVtZ2RjdUJDYS1zRHg4MC15UFN5ZzVFemJoRW0wSmM4TmtUTmZMRlUyUl80RzBubmNfWnJPR2ZYNzJoUGFHZkZPZEo2Mk56bl9EcWlUSG1aTmxYelJ3MVVKWnh0VS1CQUcwMGZzOEMxNGpfUUVOSDBCOWg4S2l2NG9ncnhjM2NTeEZSZVFCd2ZZZzFzRzRiWkdFeDQwT3p2SC1wbjllMVpUdTYwMHdHU2o4VEFjbXFLZnNpcm8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767862980
+    },
+    {
       "title": "Eagles open practice window for Azeez Ojulari - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDNZWnlmajl1bFdJUWF2cU9IMHNpamVocS1YYmpLTFhBVGlCY3ExRmxzTmxWOTVVOE1SeWdKVjdhWHZMUl9tRlpTWHhNLTEtRllQNDRVVTlKNHVobE5haU9jVXk3ellOTXZ2bzBNM1g2c3RDTkdMVVFuSVhrRko4MDZGWUtNbjJr?oc=5",
       "source": "Google News — Eagles",
       "published": 1767812525
+    },
+    {
+      "title": "3 reasons Eagles can soar back to Super Bowl, and what can stop them - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVhtNTNUOEhHMS12Mk43QVZuQmpsWmhYeWNnUlA4NDRvcFpCcV9Fa19zRUVGcnF0RUdncDhlNjNCMjF3a0NyU2t0UktybERWUC1yc2U3QnB5c01iNzZlM2pXdDMtTnFZc1R6QVFYOHR0Z0RTcWtRZDBZVmxKYkRHSVFiYU12MG5Wa1NraVU1LWVMa3dBRnRUR0FTMF9Za2d3V3hPYWtFYmlNZnNlcG1vY01HcllDOGJxWnJISEFtSWhLRnZXRkpRa3ZrYw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767790440
     },
     {
       "title": "Best way to an Eagles defensive lineman's heart -- and performance? Meatballs - ESPN",
@@ -283,6 +295,12 @@
       "published": 1767614400
     },
     {
+      "title": "How Tanner McKee, backups indirectly disproved Eagles rest mistake - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGh6dWN3TW5FbDIwRVNzZ0pCU0NtRVBGMGo4OEdhS2ZoOXd3WnZGZ3lZZGNDWXdQVlp1WDdtV3FRR0tjY2tCUnJiWFc3QWtyWHhxQVpJMHFfMjFoNV9PMXlIZk5KcUN0NWZoOXR0dTU5Q0N1QVBxV0JtelJVdjNTc3BzYldVNnlCek9RVXVHSVQ5Wjhrd1BBYmRmN24zQm85TjFPanB0dFphMUhWcFdralBpQ3VEN2wzOHNsZkZMLTQtNlpOTVNDOXc3OVNjcnp0ZEo0R1REMzVpRWJtQ0pjaEVmT09Wdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767607260
+    },
+    {
       "title": "Eagles' opponents for 2026 NFL season set - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEV0VzlGZC14ZzVfVnpSZV9RT0l2X19NMDliY01PUWJQbldpeTlSVmxlQ1ZtX1FhQ3QtTlBJUmoxZnp1LUM3WVRWZkVjREd2RjlQMVFwNEE3RzBFOEZqUDBqRTRjUFdvcm1jVmpRNUxJU1NZUGQwNlFTSW1CNUtsbzdSR1UxVkt4Sm1KczZxMTc4aHNGNUVrMk5vcnRac1hkeUhUOVhFM09sMUtPdjRZ0gG3AUFVX3lxTE50aUVlMENHZVN5Vkx6WTlieExpbkxzd0toYW9fdmMzX1FxcFoyN2RIc0tGaTdGSzMxYTJjcDRvazY5eUJ0a2JiZm5DU3N2amRqRHZrekNheFpCb3QzTjMyWE9GbVVxX2FoWUpBMnhDaDhGdVh2NmFMQ0VzaHdZLXotQmN2b08weU5lQ1ZqeWY1OENUYmlqRFJuazFwZ01HaUFBWE90OU90cjFpTXd2dzNlRnZFVU1LZw?oc=5",
       "source": "Google News — Eagles",
@@ -299,12 +317,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTTVTN21mTkI1eXV2TmRmczRCVTc1WGVNV29POW55aTZJMVhwNEVjc04tSmRyamNYVHJndTdoRXA0Zlg2V2xCbnFLU0dRWEFBZ2xIY0ZzYjZZWnNBTUZ4cG5SdHNONkNQN2RZQXNkeUhuSmR0a2VNUHlzSW9mbFJMaVJFTndpaWw1eGVFTVVnalFTUzc2UkNZeE1xdFQ2TWE4WjNNU1gxTktSc3lBM0s0VlY1amJiVmVCdXhIdVQtQmlrWUNZVWc?oc=5",
       "source": "Google News — Eagles",
       "published": 1767582420
-    },
-    {
-      "title": "Eagles' playoff gamble backfires in loss. Who's up next? 3 takeaways - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVTFnem1BOWlMMEw5b2dVT2pvYW1OUUcyc1JXbVJjYTlibU5PdUN4RkotQ1BreVdyYjZBc2cxRjFtbnRPenlRMVF5VDBXbWNrQWpLbktCY0s5cVN3MW5tTnNrMnlnT20yaEJEc0NUSDUxdTVPSXlNT01PNkFYZnc1WmdqX2RBcmFkd01wVEdVZEdfS2h3SmJCT1g3OVBlQVNrSnhFM1dhSUZ3QUxnLWZIVFpoYUhXbjBhaFczOHNFdUcxdWtvTko0cHduWlQ4dkk5RC1WMUlUTVhIaWQwTEY5RQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767582300
     },
     {
       "title": "Eagles stand by rest call despite losing 2-seed - ESPN",
@@ -335,12 +347,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNejFPWGNENWRwTVd2S1pYMkFaN2o1WkVJUWd1VWxibGFremZWTmpGeUVIMWJheVI3aHdweUJPWGo1VUd3NTlnak9samNualJiUkhTOGJkVzJwS1liQlFmYlJJSG1PWEFiNjdIWlJjM0hkdzU0QnJlemlLT1hXWXdseEFIZDZ6aFhVQXppNkJtTDZQSFNpb1czekJtVWt3aFZWai1wUjAxdFM1U0hpMGpMb3VhaGN6THZIaENKSDZYSGlqT3F1d0FDbGJ1VFTSAdQBQVVfeXFMUGhLNElvQV95Z3pQUzUtXzQ3U2pEZnFVQnJwOW9oRUpHR2R6VmpUX1MydDg2SHBaeGhkZzRpVFZOWnNlUFdudDRjZ3F1UG5yZWFITTRoLUROV3lxY1E0YWlkUVJiaDhDbG53aUNWWDVIMnU1VmhlbTNRYXRFNVJxZGxKUmRRam5BVG5vTjNENWVicXV6bHNxazZOX0FLNlBTeVdfeGxCay1aSXE3cjdDRXhWc0VLQ2M3NG8zUmkwaDFOT0l6aTFrQzdaanFsMHRBN0h3N0s?oc=5",
       "source": "Google News — Eagles",
       "published": 1767565030
-    },
-    {
-      "title": "Eagles resting most of their starters in regular season finale - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNby1RZ0JDeGs5U3d5REVNS0YyTE01VnRDMUIzU3Vkcms0NlQ5VnkzTXlickwzeWZlZzB0MXNRSnpROURvY083eDZfMzRpc01GcUFMWEE5SURCbEY5YldZZVQ4emFMSkdVUHB4WHdDTmJYNVVfRHpubzNMaDdJSlJ1N1ByY3J5SEloWGpLVkM3ZUkzNHVPNUZXWW1QTVJacWt0ZDlSVVpvUjVOVnY2cGhBWTEzQjhUZWhxX2llck95N3o5Nk1oSTEwazVOVTDSAdQBQVVfeXFMTmZ1N0llVVNIZzB3eEpvZ0tjRzMxN0NtZ2RzaFVFcko2TGVPRHBOWXJQdzhLWjVUYURWeEtIckQ2T0FrRHFqcnBZa0hLT0RuTVhPbno2cERveVZtb3FyU0l4MGF3dXZ1bm82eTBPOVZENUhfUDM3TklaRWV4SzNQQ1IzbmxobFk4OEJ2R296SmlFV1ZJR2NOTlhTdi1BM0Z4bk1wbWtmbG5pNkR5a2tkcks0WHRlRU1BZGVtcWFIRHJrRGNleVZKY1BYTzRoQlFWcExJYkw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767557596
     },
     {
       "title": "Brandon Graham excited to play in Eagles' regular season finale - NBC Sports Philadelphia",
@@ -395,6 +401,12 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3Fha3k3U1RGXzI5bnAtSzI0NmktTEFwbHktUzd5MjA0eWdMWFJjaFk2THMwY2xJc2RYREdKaGszbEs0NUNTWlpGLVp2R0N0czVRT1hWeEJ1Tm5nNUM2YS1OaDlBdFFyRzNndTBJeHBpMllsMnNkUkpnUDl2cUR6Ny1pbC1kbHJrSkdXNkUzejB0T0FNZzJ4Z2ZXOGs?oc=5",
       "source": "Google News — Eagles",
       "published": 1767168000
+    },
+    {
+      "title": "Eagles-Bills Film Review: The offense needs to stop spending entire halves playing scared - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONWJfXzNlLWFXQlZzd3FqMzBPTlFDYk1mWUhrSUoyTDRkUlJUZ3JzWGk4d0M3OEtTWk16ejE3UDV1M1puTG1nOE9KMC13cFNUQXJVa0V6UkVJM3dzMTk2QzNiZkRxcFZyN01WTlp4VGVsalBZa2lxVFJEcS1lMi1ELWQ1TmxHQnlZYUNHRzdKNkpIeEFKNTJ4RzVLTDZCaXA5dGh0MTZFRkt3enQzT1h2ckt6VUNYWW5MVk42ejFXUzE3SVdpcG51Q3pabWtjSThnM2pzSWZlOW1VdHJPck1XZGZvTlk1UmdUdWJua2w4Q1RiQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1766995200
     },
     {
       "title": "Eagles 13-12 Bills (Dec 28, 2025) Game Recap - ESPN",
