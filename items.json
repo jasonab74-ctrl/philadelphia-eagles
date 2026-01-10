@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-10T14:43:29.542184+00:00",
+  "updated_at": "2026-01-10T15:23:03.386933+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles’ Quinyon Mitchell and Cooper DeJean are first-team All-Pro",
+      "link": "https://www.bleedinggreennation.com/news/168433/eagles-quinyon-mitchell-and-cooper-dejean-are-first-team-all-pro",
+      "source": "Bleeding Green Nation",
+      "published": 1768058061
+    },
     {
       "title": "Cooper DeJean and Quinyon Mitchell earn first-team All-Pro honors - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGtuODNMZ1NPQ2k2QTRSTTd3d1dxMHpac251ZXZ6M2dvdkVXeUN5TFA4MzNaOXdWSHpubmlEak9LT2Naa3NZVGhmZTFLZUE1akdKUGM5VXJKZ21UQ3p4aU9xekx0OEJfVm1MMzIwa1NFdmRVSkJwaC0yU3dSeTZ5alR2TnlJVFA2QndKR2o2X25WXzR5QjRlX0VlR3hMcWU1WXlnT2Q3czVDQTdW?oc=5",
@@ -169,12 +175,6 @@
       "published": 1767897454
     },
     {
-      "title": "Eagles News: “Some around the league are wondering about the future of Kevin Patullo”",
-      "link": "https://www.bleedinggreennation.com/news/168316/eagles-news-some-around-the-league-are-wondering-about-the-future-of-kevin-patullo",
-      "source": "Bleeding Green Nation",
-      "published": 1767896957
-    },
-    {
       "title": "Our Eagles experts make predictions for NFL wild-card playoffs vs 49ers - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWRaNXdGMXA2TnhhYzRNb21NWW9fZnktWGptRjdaSkVtZ2RjdUJDYS1zRHg4MC15UFN5ZzVFemJoRW0wSmM4TmtUTmZMRlUyUl80RzBubmNfWnJPR2ZYNzJoUGFHZkZPZEo2Mk56bl9EcWlUSG1aTmxYelJ3MVVKWnh0VS1CQUcwMGZzOEMxNGpfUUVOSDBCOWg4S2l2NG9ncnhjM2NTeEZSZVFCd2ZZZzFzRzRiWkdFeDQwT3p2SC1wbjllMVpUdTYwMHdHU2o4VEFjbXFLZnNpcm8?oc=5",
       "source": "Google News — Eagles",
@@ -307,12 +307,6 @@
       "published": 1767577963
     },
     {
-      "title": "49ers Set to Face the Philadelphia Eagles in Wild Card Round - 49ers.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkNRa2FUVGNHS1kxMmVZWjl1NjlvYWZuS005NnRMRENGV21oUzMtZGVJb0ZzS04yWDRZZTMzSGhHbWVDbFMyaDZCenVYWi02cDZ6am1qUWplZG01UnNOeEl1Y2YyamFuak9wQ1d1V1BIdmlNeF80WXh6czZSejMxUlFCV2pMQXgxVi03MDRFVzc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767573634
-    },
-    {
       "title": "Highlight: Tank Bigsby's goal-line TD puts Eagles in front - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWElUYWNuNFNyb1dDY3hlWVJBa1llUW1yRFFmUzdvWGgxNzZ4cGtkN05oRHRUNUNmQkx2T0hNUkNNd25BRWttM1R4Q2Vkakc5eEFiTk95aDNjQ0x5bUVJWENGOS02X2hFbFBZU3lXZGlIbTBsdExsU0dMMms4Z3Z5dWFaamVjQUNWVWtXMVBoN1oyTHlFM3hFeklTak9xNnFZVWxaTXVVMmZFV0p6UkY4emxfdzc?oc=5",
       "source": "Google News — Eagles",
@@ -395,6 +389,12 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3Fha3k3U1RGXzI5bnAtSzI0NmktTEFwbHktUzd5MjA0eWdMWFJjaFk2THMwY2xJc2RYREdKaGszbEs0NUNTWlpGLVp2R0N0czVRT1hWeEJ1Tm5nNUM2YS1OaDlBdFFyRzNndTBJeHBpMllsMnNkUkpnUDl2cUR6Ny1pbC1kbHJrSkdXNkUzejB0T0FNZzJ4Z2ZXOGs?oc=5",
       "source": "Google News — Eagles",
       "published": 1767168000
+    },
+    {
+      "title": "Most Viewed In 2025: #2 – Eagles QB Jalen Hurts knows ‘God is greater than any high or low’ - Sports Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd3JnMUM3RWluOHNaVXRDLTl0SHlCZ3QxU2dIQklPSGxqRzJ0bFNTVGVra21sQlBVSnVaa2tFb1p2cGp1WDNsY1VBeDlJRzJyTlZBU0tIQmdPTnlTb2Q0dVhFU0pleHdqazFkU3ZLRDY0bXl2cGJybzNZUFdSQkRlSWJZTEh2aTJyakxsWg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767013915
     },
     {
       "title": "Eagles-Bills Film Review: The offense needs to stop spending entire halves playing scared - Bleeding Green Nation",
