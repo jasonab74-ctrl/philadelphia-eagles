@@ -1,11 +1,29 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-10T20:44:33.978841+00:00",
+  "updated_at": "2026-01-10T21:21:00.582321+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles roster news: 2 moves announced ahead of 49ers playoff game",
+      "link": "https://www.bleedinggreennation.com/news/168525/eagles-roster-news-2-moves-announced-ahead-of-49ers-playoff-game",
+      "source": "Bleeding Green Nation",
+      "published": 1768079446
+    },
+    {
+      "title": "Lane Johnson injury update: NFL insider says “there’s some concern he could miss this game”",
+      "link": "https://www.bleedinggreennation.com/news/168507/lane-johnson-injury-update-nfl-insider-says-theres-some-concern-he-could-miss-this-game",
+      "source": "Bleeding Green Nation",
+      "published": 1768078424
+    },
+    {
+      "title": "Brett Toth downgraded to out for Eagles vs. 49ers",
+      "link": "https://www.bleedinggreennation.com/news/168500/brett-toth-downgraded-to-out-for-eagles-vs-49ers",
+      "source": "Bleeding Green Nation",
+      "published": 1768077423
+    },
     {
       "title": "Eagles Opponent Film Room: Scouting the San Francisco 49ers’ offense",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/168429/eagles-opponent-film-room-scouting-the-san-francisco-49ers-offense",
@@ -61,12 +79,6 @@
       "published": 1768064589
     },
     {
-      "title": "Eagles’ Quinyon Mitchell and Cooper DeJean are first-team All-Pro",
-      "link": "https://www.bleedinggreennation.com/news/168433/eagles-quinyon-mitchell-and-cooper-dejean-are-first-team-all-pro",
-      "source": "Bleeding Green Nation",
-      "published": 1768058061
-    },
-    {
       "title": "Cooper DeJean and Quinyon Mitchell earn first-team All-Pro honors - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGtuODNMZ1NPQ2k2QTRSTTd3d1dxMHpac251ZXZ6M2dvdkVXeUN5TFA4MzNaOXdWSHpubmlEak9LT2Naa3NZVGhmZTFLZUE1akdKUGM5VXJKZ21UQ3p4aU9xekx0OEJfVm1MMzIwa1NFdmRVSkJwaC0yU3dSeTZ5alR2TnlJVFA2QndKR2o2X25WXzR5QjRlX0VlR3hMcWU1WXlnT2Q3czVDQTdW?oc=5",
       "source": "Google News — Eagles",
@@ -103,34 +115,16 @@
       "published": 1767996473
     },
     {
-      "title": "Eagles-49ers Final Injury Report: Lane Johnson questionable",
-      "link": "https://www.bleedinggreennation.com/news/168408/eagles-49ers-final-injury-report-lane-johnson-questionable",
-      "source": "Bleeding Green Nation",
-      "published": 1767992766
-    },
-    {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXJ0R3hua0VWNkwyLTBsaWVYQngxNm1SREduTktuUDR1TG9wTTZsTlVERmQ2TmRqa3NUVVVlUW10MVVnRVlOWThuMUdURlVLMjJkLWQ2UG9KQkltR21pX25NVVdBbkNLQngtVFdMaVpBYWRGTDRXV01vd0RfMkZidjI4eG9FQ0w5YjRZZDF3?oc=5",
       "source": "Google News — Eagles",
       "published": 1767990625
     },
     {
-      "title": "Eagles Mailbag: Tank Bigsby’s usage, the Birds’ most important defender and more",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-nfl-playoffs/168372/eagles-mailbag-tank-bigsbys-usage-the-birds-most-important-defender-and-more",
-      "source": "Bleeding Green Nation",
-      "published": 1767990060
-    },
-    {
       "title": "Eagles Locker Room Interviews: January 9, 2026 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFdLVXhKYnA1cmNoVlBCaHVUSzdNNVVHRFNPV21MdE9NZy1fSEYwc181QmVZbXRZaU4tcGJBMG1teFFmQW5pXzI1akdZc3d4cW15T203MDZDb2MtYy1KV1B2dTRnVG5VNk5tLXlScXhZczhUbmo1bzRsZUNTaS0zMWZ1cUN2YUNTTWYwc1Bn?oc=5",
       "source": "Google News — Eagles",
       "published": 1767989568
-    },
-    {
-      "title": "Eagles opposing player to stop, 49ers Wild Card edition",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/168393/eagles-opposing-player-to-stop-49ers-wild-card-edition",
-      "source": "Bleeding Green Nation",
-      "published": 1767988061
     },
     {
       "title": "Ways to Watch and Listen: 49ers vs. Eagles | Wild Card - 49ers.com",
@@ -173,6 +167,12 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlluZk9wYjE0SnJTdVBaV3ZQVmZPLXBNcTJ1WXAyNDdub3ZjUmV5dmY1Q1psX2dmNnFyWWxVSm5HM3pLQzZsNnY0WlBuSmZYbzNFNF9GSUJ0WFpMT2lJellaZjNwNlBFbW1BSDZzZ1hIUHNwM0xaV0J2b3pIOWxydkRJVktNT2pHekVkTzJGZEpCVmYzcXJ4RTd1N1d2TmM2TThKbUx2eWtHQ2R0aERqbV81SFNhMzI3MXpuTEw1Sm4zbjJZa0lnRkxJRm_SAdQBQVVfeXFMTmJoeTFsMDFuU0YzSTl0S3NmbW0wbEdfYjlzdUZJaUxNbFRhWnBtQktxaDJvSjFQeE55TnpxVWVFd29FUXpLZVhrb1pJR0xGWUpPdjR3a2RnVEpmMEFsNW5XaVcxSDlPVHhiY19XX19hSzJYUHdHUUlhbHJCZDBVTnFydFNPTjZvbmtadXA3Wm1UNDZIemRTNUxQLVY2cjAzYy1aRm96LW5tV2hNUVY0N2ViOENvWTFjZWhtVThRVzNpWmY1UUJ5bUkwbXVsT0MzWmh5Q00?oc=5",
       "source": "Google News — Eagles",
       "published": 1767960000
+    },
+    {
+      "title": "How Philadelphia Eagles can host divisional round playoff game, NFC championship - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ldk1LdnRVZ0NyZ0tDRjUzbmhnV09xYkh0VXhpenJuLWZPREtDZVU3Ylh1Y3M2T3RJOU42LWdWTEVfQjJWcWtkYWhfRkpXMjdQcDd6cmxBUG1mcDZQajVqRVlYc0twalozdE1vbHFWcXZiMnBK?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767952804
     },
     {
       "title": "Unhinged Philadelphia Eagles merch that's soaring on the internet - The News Journal",
@@ -239,12 +239,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13cnpMVk1mQnhyYnhXOW9hRnNHR3luLXhiRlRpdUswN0JUX3J2UC1qcjQtR1JhUFRLUFBkRW55UlBkRUFoa1FEUV9ZVll2TVRCci1ta3k4M2tvd2JBb3hnS3llc2d0eEdWWlRsT3J0ZS05ejdEU1E?oc=5",
       "source": "Google News — Eagles",
       "published": 1767726185
-    },
-    {
-      "title": "We've got Jalyx Hunt and Tank Bigsby numbers in this week's Roob's Eagles Stats - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0VLS190VE5mdFoyUUJMTi1NRVFUaGJsaHRSLXJFek9SaDFya05vSTFJbk1FcW9SaW8yOXJuSXJyczVhWVMyVnA5bzkzQmZRMEt3dWRNbGpCMExCSkRGeE0wU3dnNE5PRXpYODRpOWRqYmlUTmYwa2RwdXNVUU41MjNDWlhOYWdYeGVuOUM3UTBNTGZ0ME5PTGdHLTA5bWEzR0lFMVBxbTZOZG9RLWVLbjVMUHVnbmxEemRzbWF4VTJGTVlBY1NNVVZGaFl6cWxZM1ZnN0lTNzFkVWxBUGZpZmRR0gHqAUFVX3lxTE5Odjc2a1BhcnJDTlFNYVI0djZwcUZ6amcyNElGWkNpUGdVdnJRUFkzU2RJZHI4MmZGOUk5OW1BSlNkYVZPUWlqOHJLbllvRHdGSW5uZnEtdVZPclFQYkhZb2ktalNqdUlWWUlMMVk5Rlh1bWlIZG9VcVFXSzZWOUJKT3IyUm51NnhJQmpUREJqdG9EUjE4YjltMjlaZU9oMlR2c0tfMEpLTHFTV3ZCX0pfc2dMSm1rUHRUVDU0LVlIQ1YtUEJJVnBibzhsby1NUXEyQ2g4cTIzeERfUVhIejFpcDJ0c0RjY2ZhQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767700855
     },
     {
       "title": "5 reasons for optimism and concern as Eagles enter playoffs - NBC Sports Philadelphia",
@@ -373,14 +367,14 @@
       "published": 1767465106
     },
     {
-      "title": "Can the Eagles repeat as Super Bowl champions with poor offensive play? - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXdmTUxEZDViWWJzbkMzVVV1bTlmb2REdktDT1hONmdJZGoxYVU5Q1FBVWJJRjZDMm1FaUYwUFpYX0UxdmtST2s1UEctUWRjSGtTQWI5ZHlBeXVlaFYzSE5KWUY5UkZacmVsN19rRW0xODhUcmdvS3Z3RmJlazZ1bDNVMWFnLVk4blRiMDBlZFl3ZlJWd1NoaFRoS3Bka1dLaUVuUTZmcVNkZ29ydXJSQnZ0Q3ZUUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767351600
-    },
-    {
       "title": "Eagles mourn the passing of Billy Ray Barnes - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFdOR1VuTGYxVzNEUVIwNTY5Q1J4bTlTc285a0lUSktzWXlZWlJTZVduRkNzVzNMR1JIVkRNZHRtb19jN2dmOFhNdFJweVE5M2NhUFVEeFExQUh5ZGJWTUtpdGpCTnZyVDcwM0Q4WVJrcjdwbEdVaEJnQ2RmY1Y0MndLWmVSb3dvdDFxMw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767340800
+    },
+    {
+      "title": "Can the Eagles repeat as Super Bowl champions with poor offensive play? - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXdmTUxEZDViWWJzbkMzVVV1bTlmb2REdktDT1hONmdJZGoxYVU5Q1FBVWJJRjZDMm1FaUYwUFpYX0UxdmtST2s1UEctUWRjSGtTQWI5ZHlBeXVlaFYzSE5KWUY5UkZacmVsN19rRW0xODhUcmdvS3Z3RmJlazZ1bDNVMWFnLVk4blRiMDBlZFl3ZlJWd1NoaFRoS3Bka1dLaUVuUTZmcVNkZ29ydXJSQnZ0Q3ZUUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1767340800
     },
