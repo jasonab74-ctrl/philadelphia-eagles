@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-13T04:42:43.086626+00:00",
+  "updated_at": "2026-01-13T05:28:34.495427+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -31,12 +31,6 @@
       "published": 1768260778
     },
     {
-      "title": "Eagles sign 8 players to future deals - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYm53Y3pGMkhrOFZCNVNVdHZhUnFwbjRFNXVaa3BPSVNHWEdma2xYcVQ2QzRaNk0xMmR5UmpBUHh2aHFkVDl5Q2o3alNaSzhXNjlxamdMM3Iwd051WHc3a3RyTWJ0Yl93QWx1dk1QY0o3d0FKNEZybF9aN2gzZjg1bVRKQnJKRVh2d3lVVHEtSkd1WElpSi1fbERtY3ZqRGV0a0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768256009
-    },
-    {
       "title": "Only repeat for Eagles this season is offense’s dry spell, with offseason changes looming - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0pzcklISmxvRHFIQklIU1U0b1Q1MUFYSHBwZnI0bk5XNnhWdWtxOGFSbTBDcHZqbTRrWVZ2dVdZVFlkNENBVDRiVWJOT2JFR2p2R1dPYTYweDZ6OEtOUnpndWxMUlQyU1c2SGZwSFB5aTlubU5mODRGTGxJY2I0Zm1JOGh3TjZtQ1NBU1lxSVpQeUhYYXNZa2ZLWQ?oc=5",
       "source": "Google News — Eagles",
@@ -59,6 +53,12 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/168824/eagles-expected-to-make-mass-changes-to-offensive-coaching-staff-report-nfl-kevin-patullo",
       "source": "Bleeding Green Nation",
       "published": 1768238684
+    },
+    {
+      "title": "Eagles on Kevin Patullo's performance and future after playoff loss - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOUk3dXZaVnpiN3dBYXZuLWFFU0xzRk1jOE9qaTB0YktCVkw4aElxaElUZ0ZXTGI0S1VhMUgxakx0ajBMcEMyNUs0Sk5jV3ZKUFV2TWI3MGFJcXVSQnZfUUZDZkVkUFk4NjBHNS1TVEZFZGdBXzVKRTVzS0JmdTV3MmVYTGdXZ3doUEQtcDJROTZxYV95TnlvVUJhVWZObEdKZXNjSTFVcHYyUWVfM1QzWDJwTlJWOUw1UHF3UUhtSlE0b3V0bWxCaEthWVhLUW1PVFZBV0pzZWFXUTNIbzZ6ZWlsZjJyTnMzVW14eWk0djbSAfgBQVVfeXFMTkMtajIyX1lfaEVzZXZNTXlRdGpNTGkxbldDLTZTeXJqYWpUTTdFeFFtRXJaWnhUcFU3SGlJRzVvY2o5aGhRWl8wV2YyNjBXSUFfblc0aFA4bUxObkRiOXNHX3RmQmctT1pSY2M1ampJNWdCWDJFbGVtZm9La0VjUE5NR2VvaS0zdnZkdnRNOUVJbXZTMjZONngtbHdENHB4eWg1OFB1d01TQ090YmZBNHRDWXpjakVyRUhGTmk4VmhYa1c2eDVraTEwLXNhQUtRY2lmcnJNS1BiMVFUREhVNXBuMHQweEFxbmVvYTBIYU0tQjRINUtUTFQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768223558
     },
     {
       "title": "Eagles head coach Nick Sirianni backs WR A.J. Brown after drops, sideline spat - NFL.com",
@@ -121,10 +121,22 @@
       "published": 1768185150
     },
     {
+      "title": "Upton Stout Talks First Postseason Appearance, Recaps Win vs. Eagles - 49ers.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3ZnMU9pZVh4MjNSTFVrT1BScmN6NFFTanVKS0NtWHN0T1dwLWZmbXdwSG04MmZEbjQzcXphWUVBQ21GSmVmVFpqX0pOeFVYSzlTaThiSGlJelZuY3JpUGpMNFJwRFZKUnlvazRCOGI3RVlnZHNMYU9mZXpoZnRlbEZMOEFaSXNFaVVVNkdMTFQ5TTRDanlnZ3Bn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768185101
+    },
+    {
       "title": "49ers Soar Past Eagles, Win in Wild Card Round; 5 Takeaways from #SFvsPHI - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVVPd2hvWEJtMzNPbk91Zi1GNXB0ZFRpdkpiV205MXBieFRDNDY5bjJMSnRQdmp0X3lRRWZ3eVNWc0VzM0JKclJkX3FkeXdIZUdxZ3pwMS1sRE1WeGpaS1JFSmdsX21Bcl9VOHU4cm5yb0stYTFyN0VBT0w4dDh3WkJZSFhydlhUMjgxTjVIeTR3YzJ1eVVqcW9UQUptQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768184775
+    },
+    {
+      "title": "Eagles NFL playoff loss causes fans to furiously vent. What they said - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDVfaUdoREM1RjVxaHAyS0gyb3lHZnZROTdiZlhVXzJDeVhyOVI0TVNSajFTUUZsWFR5dC1nVVhCRUhTb3ZPRWhxVm1VbzRLU3NTOFBoQ2QwTVdhRDhuNnJ3b05uN1ZOS1FKcTc4MnI1MmFNN1hlUEJDSXAzci1xaTlkaEdjRHFkX2t6Tko2ZDgySnZqOWxKUll2bFozdTQwOHByQ01UMnh3QmFzcXMzZm1oOUpxSWM3dVEtbmhFQ1J1ZWVmZEpXX3Z1S3ctbGlNWmFTQncxRDZjcktDUVhN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768183680
     },
     {
       "title": "Shanahan Credits 49ers Team Effort in Playoff Win Over Eagles - 49ers.com",
@@ -181,16 +193,16 @@
       "published": 1768177350
     },
     {
+      "title": "Highlight: Saquon Barkley was nearly gone on 20-yard screen - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWZfc19NcXBsYU1hZ0x6UWIzWXdJTDE4azJpUHp2d1lwN010QmVMdEVCbGJuRldHTkxDOWJSRndnUkRQd1U1UEhvcEEwelRxQ3ROcmEzVGYxM0NmMm9KMGFaZnNHRU5QRzl4MWNsSThuTUhzbDRyT0JsWTVnR2JtaXpoTkJuWWNhRmhKemltNjBOTVcwMU44VzJRSVdhTG5s?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768171756
+    },
+    {
       "title": "Stout Denies Eagles on Fourth Down - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMUVlOVEyWXpBMVF0TF9ZLWUwSGt3SV9DeEtqU3otem1CdUJaYkdpU2dJdlFjUm1KQnZhU1Iwa3I3V241QUJndmRyR1lMMTNFV0hsR0htUzNKZmRsd2t0VlNzUEdqamlzbERnRGhFNFcyYnNDaURwXw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768171301
-    },
-    {
-      "title": "Brock Purdy, 49ers eliminate defending Super Bowl champion Eagles with 23-19 win in wild-card game - ABC7 San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLXJCdEVnTm1XV0dKUEJROW84Q1dZS000Zl9KTENja2lQVC1nMXlrLV9JME5Yem94Zk9sMTBfSlhXQkVORktwVUpyY0FzbWxPMFBNRkowQkxQODVJQXM5MWR2SG1UQ2dKWEJCUUFFcDRXT1lYUzhsa290MnYtUEhNY28wVElQZDZkQ3JtdUFFeTZDaG5Ud2EzcllWQ0E2SWhuV0JEWHhqdkVfNi14SFJuaWkySdIBuAFBVV95cUxQV2xMUnNWRS1KV042TTA0clF0RFR6bVZsNlBLM0NkVGtkTnRLa2JvQkdES2ZoTDhhb0F1QlB3enF5VU9lN0VINk5jWlVlWUdta0xFS1htQ2VFU3A0amx4N2JMMkp5TUxwZE5SUC1BZmc1YXdFN3FvdDg2MVpnT3hNMHczOTlXZXZuN0l5bFhOTUVTWTdhbnhHUTE4N25WRE5wM1RPRkpwY3B5WG5HdTZOd3oyNk95eE9i?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768164001
     },
     {
       "title": "49ers vs. Eagles Inactives | Wild Card Round - Philadelphia Eagles",
@@ -331,12 +343,6 @@
       "published": 1767960000
     },
     {
-      "title": "Unhinged Philadelphia Eagles merch that's soaring on the internet - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlF6Vk80YUZVZlhNbWpKMU1FRWJFZE02SGxvZE1iSU1jZzI5dFc1SEhTUmFYNWNwNVFyWWNJaU1HbDJfdUNMWk0wb0VRZjFSRFRUQ0ltd3F6SkxvYVRQekNQbnc0YVhUZVlMUEVEMjJNd0llMTduV1FoYTl5Ny10VC1hSE52NS0xMlNQYm9hOFZxbE5VSGxjMWd1bVZuTTV4TVhZNGtrVXBqWXVTV3BGVU45NDNQVWdxRUhyLWdhNGViNXNKa0J2ak9BelNNN0UzQnpEMlR3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767952140
-    },
-    {
       "title": "Eagles Locker Room Interviews: January 8, 2026 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWlocmxkMXVWU1NkNkNzeGpWbG1TTXZoaUMza3hDOEdpTkVCTWRSZHAweUdraHZicnBFZzA2SDNCLTh1THd3OEpiQXVQbHRBQjBrSmxpd1MyaFkwRDN3REFud05fcVEzb1kxVWpKZUg0SWZWaHRLUDhHWUlRQWd2Um9NeGViTDhqYmZHTHhR?oc=5",
       "source": "Google News — Eagles",
@@ -377,6 +383,12 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13cnpMVk1mQnhyYnhXOW9hRnNHR3luLXhiRlRpdUswN0JUX3J2UC1qcjQtR1JhUFRLUFBkRW55UlBkRUFoa1FEUV9ZVll2TVRCci1ta3k4M2tvd2JBb3hnS3llc2d0eEdWWlRsT3J0ZS05ejdEU1E?oc=5",
       "source": "Google News — Eagles",
       "published": 1767726185
+    },
+    {
+      "title": "Philadelphia Eagles to play San Francisco 49ers in NFL playoffs. Here's what you need to know. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDN0NWNHNjFpWHJSamZaYWE4VEVVZU8yWi1CRUhCek16OXR2RHlfWlhjcVR6V3ZPYm5ZNDFsMnQ5ZFFFU1VaMS1rakRzVlBORWhOdmNhSUwzRnB5VV9wQlZxRS1UZG5KR2prWkIzVm16SWZ2bmpqdHUzTGg3REtfYWdn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767666353
     },
     {
       "title": "Spadaro: 10 reasons to feel good about the Eagles in the playoffs - Philadelphia Eagles",
@@ -463,12 +475,6 @@
       "published": 1767513600
     },
     {
-      "title": "Philadelphia Eagles 2026 opponents - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2ZpbHVNT1h1bHF1U3NVa0NwbVo4N0gxaVAzbVBOTkluMlZSY1dVQVFzanBKdTg0dmNLc05IRm5CRUNpb1RfVW9KdmhLUzdIYnlvVGkzRDFaSUlScExpUFNtX0ZGbmhtOG1kNVNDblc5UmR6LUVoMmZGZkczUkpnLTVWMkd0TUpyNTNadjBiOENzQWx6TzVsODhQSkVUdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767513600
-    },
-    {
       "title": "Eagles stand by rest call despite losing 2-seed - ESPN",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUllkc0IzbEVtb1JXRW5NTmdfaTg2LXlOdkFQZTVtRkxxeGVEV3NKNEZlWFE5dEE0NFQ4LWtNUmc4eFFkYUxDSnlMcEJ6QkVmdmpOTEVybURoTnpQRjQzS3k5NTR3ZElITXlsVzdsTkpQOGRIdXNDT0Z4R1NiQVZFSWVlMmVNZ2hSTTdkY091cw?oc=5",
       "source": "Google News — Eagles",
@@ -479,12 +485,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaDNPaFBpUDRhU3NGVE00ZlBTcjVIbldKa2dvcnFFN1FhQXVWMG5NS25LM196c0xjR3huNkZSdHRvbEFUVkFxeF9ucnhFNVhOX3hNei1sQ2xqaXlRV2E4dEVUNWRtR1NWbnE5RnNJV0UxWGRuY2JIcXkyRWFDR3h5RzVMNTdLWVZBRXlzVUI3TEw5SWFoUldwU3NTT0ZtbDJDMVF4V1pESFFNZEJRbmhiS0dERjF3VWlzU2JpMlVrOVBTWVlEWlZvMEs5aFVySDA4VXZwTHRfTDFIUHZnQ2lmdk1n?oc=5",
       "source": "Google News — Eagles",
       "published": 1767427200
-    },
-    {
-      "title": "10 reasons the Eagles can win the Super Bowl - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXJhMjhocS1EeXQ5RlNFTm9HWjgxc1BQeVZEWTQ5Rm05NjdwVDNqRE1HLVdWMkw0THFGelM1eXBEaUpiNG0wMUhsTjQyeFVGaG5wdkZxUTBmeXlkZ1RnWTJ6eWtEWkltX2ZZb040SzNWRTd6bUpEN01JX3hCSUxjU3NLNnE1UFc2NWdhQ2U1UktKc1ltb3FJTHg0YzVoV3ppUVZMZXh6VQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767254400
     },
     {
       "title": "Source: Eagles plan to rest Hurts, other starters - ESPN",
