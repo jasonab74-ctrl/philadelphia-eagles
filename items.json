@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-14T19:41:30.683290+00:00",
+  "updated_at": "2026-01-14T20:25:32.165332+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles sign several more players to future/reserve contracts",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-free-agency/169014/eagles-sign-several-more-players-to-future-reserve-contracts",
+      "source": "Bleeding Green Nation",
+      "published": 1768421524
+    },
     {
       "title": "Cowboys request permission to interview key Eagles defensive assistant",
       "link": "https://www.bleedinggreennation.com/news/169009/cowboys-request-permission-to-interview-key-eagles-defensive-assistant",
@@ -103,12 +109,6 @@
       "published": 1768321710
     },
     {
-      "title": "Eagles updated 2026 NFL Draft order: 1st-round pick finalized with Wild Card loss to 49ers",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/167551/nfl-updated-2026-1st-round-pick-finalized",
-      "source": "Bleeding Green Nation",
-      "published": 1768318976
-    },
-    {
       "title": "After wild-card round, Eagles know where they'll pick in 1st round - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQamJQaDkzcU5zdG9Nc2xUT0FkbDR4eTlRSkxOMkxUbWZldEw1b1lWV1NoeEN0ZW1ENjE2OElDVXcydVpKd1JMbHBEeWp0YjBPRUcxa0h4SGtna2ZMZlg3M2Y4cmlPR3dsSEp5T2N3QmxaMnZyWnhXak1FcmlZNXI0X3R0UER3d0pfUDJmVHNjQkZRbVVlbUNsOGV1VmhzdW1HMmlscWxPOVIzNFc0QTcyZ2tYdUJEQWNBOXdXal8yd2lReGZGS09hcl9mYTlSdmvSAdcBQVVfeXFMTVhtVXhuelJuaWdQN0hXVjd0MndXdl92dFRha2tlZ3UxX2ZQa3ZNV1ZMZ0RHQnpvWFppNFlMWXdHYjV4Vl9zTkcwMngxa2gzNnY3NkY5Vkc0ckhCdTdJREV5V29zOTZkWXdJVU1rSHJpMDBYcmNSYjFwaHFuczZzdlBsTHFDcUNnNUdVVnBrWDg5dm9xZFAtTnZWRUd2SEJ5QnFmcEZiMkFjUUlOQm8xcVk0N25VdUtNbi02X0prOXpoRUtuWWJGRnQyOWR6YUhWcW1Ja2NaSHc?oc=5",
       "source": "Google News — Eagles",
@@ -167,12 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOUk3dXZaVnpiN3dBYXZuLWFFU0xzRk1jOE9qaTB0YktCVkw4aElxaElUZ0ZXTGI0S1VhMUgxakx0ajBMcEMyNUs0Sk5jV3ZKUFV2TWI3MGFJcXVSQnZfUUZDZkVkUFk4NjBHNS1TVEZFZGdBXzVKRTVzS0JmdTV3MmVYTGdXZ3doUEQtcDJROTZxYV95TnlvVUJhVWZObEdKZXNjSTFVcHYyUWVfM1QzWDJwTlJWOUw1UHF3UUhtSlE0b3V0bWxCaEthWVhLUW1PVFZBV0pzZWFXUTNIbzZ6ZWlsZjJyTnMzVW14eWk0djbSAfgBQVVfeXFMTkMtajIyX1lfaEVzZXZNTXlRdGpNTGkxbldDLTZTeXJqYWpUTTdFeFFtRXJaWnhUcFU3SGlJRzVvY2o5aGhRWl8wV2YyNjBXSUFfblc0aFA4bUxObkRiOXNHX3RmQmctT1pSY2M1ampJNWdCWDJFbGVtZm9La0VjUE5NR2VvaS0zdnZkdnRNOUVJbXZTMjZONngtbHdENHB4eWg1OFB1d01TQ090YmZBNHRDWXpjakVyRUhGTmk4VmhYa1c2eDVraTEwLXNhQUtRY2lmcnJNS1BiMVFUREhVNXBuMHQweEFxbmVvYTBIYU0tQjRINUtUTFQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768207587
-    },
-    {
-      "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3JhZ2Z5b1JzNWduelhuV2U5VjVkdnE3Um1McmxpeEkyZ3c2ZFM1REdILWlQYTcxeC1MUmRnNDZSV2J2SXBmb2huUmIwT2tZb2lEejhjbGp4WlMtNHkzVzdSZXM5XzlDZlNMZWZlbV9OSFpjRXhCcmdoUXdzWm1xN2hKdDRNbjl2Mk9yY2plUzhWM2NtWUl1dWFkSXNxRmxiUkgyWU9CeXozSF91SWFnUjdhRm9zR0RWVHhraldFMG9tT2hRVU00Qm1xYnRXVWYz0gHYAUFVX3lxTE9ZaEFGdFRSbnJHRzExdlQ3SEl3OFdKTjFqRHdVdUlfbDhLeUk2T3p0NUF5alh6TFNhWEtTeWVOaDVYeU0tUG8zR1ZtSEtvaXh5bVdRTE9ucmVOd2dtTEpvUXdSakNTVHAycnVZenUweUU5NUVlZ1B0WXJsWWlzQzU4ZnlyOUY4bHdhX1drbjVIcm8waS1MUnEyNm9HcEtpQXg2YVdzMy1td05UWDNZT2dndkNXR3JfVUV4Rm9uZkJtX1RaRlI3RERWUXMtYmFGMUprS3R2MmNQbg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768193877
     },
     {
       "title": "Spadaro: 6 observations from the season finale against the 49ers - Philadelphia Eagles",
@@ -235,16 +229,16 @@
       "published": 1768178760
     },
     {
+      "title": "49ers 23-19 Eagles (Jan 11, 2026) Final Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jVTl2U3ZBRWNqb0Z5MVN1aFUwOTEyaVpmc3pxQlVtU2RGb0FGcC1JVVpKX050bFZfaUd3VVEwVmlDT3VXU19YempsblYxSGVNWTN0ODJSbTVHQXNZZFJWdy1fLTc5RGN5T3FlQUhR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768178700
+    },
+    {
       "title": "Game Recap: 49ers 23, Eagles 19 | Wild Card Round - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamVBU3RlLWhtVWRicEhvWWlLeUIxXzhvb1dlWXlPMlE0WWZHX3M1T2Z4VFY5aF85cEZkdzQ1aWlCeGJNTjY5VWItYjdjWDBfRUQ2M2kxVGZkYmR3cGxURlZFb2p6TmNCZHc0SnhCem95ZUM0SWdWTTVuZXdYbWxLc3RpNFh4Sk5tQkhvT013QzZXS0lRVjlEVEgyNU9ra3FHOURxaExNNzlhOFpBbTQw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768177350
-    },
-    {
-      "title": "Highlight: Saquon Barkley was nearly gone on 20-yard screen - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWZfc19NcXBsYU1hZ0x6UWIzWXdJTDE4azJpUHp2d1lwN010QmVMdEVCbGJuRldHTkxDOWJSRndnUkRQd1U1UEhvcEEwelRxQ3ROcmEzVGYxM0NmMm9KMGFaZnNHRU5QRzl4MWNsSThuTUhzbDRyT0JsWTVnR2JtaXpoTkJuWWNhRmhKemltNjBOTVcwMU44VzJRSVdhTG5s?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768171756
     },
     {
       "title": "Stout Denies Eagles on Fourth Down - 49ers.com",
@@ -253,10 +247,10 @@
       "published": 1768171301
     },
     {
-      "title": "49ers 23-19 Eagles (Jan 11, 2026) Final Score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jVTl2U3ZBRWNqb0Z5MVN1aFUwOTEyaVpmc3pxQlVtU2RGb0FGcC1JVVpKX050bFZfaUd3VVEwVmlDT3VXU19YempsblYxSGVNWTN0ODJSbTVHQXNZZFJWdy1fLTc5RGN5T3FlQUhR?oc=5",
+      "title": "Highlight: A.J. Brown's first catch of the day results in red-zone access vs. 49ers - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekUtTGlkR05kZ01MVTRLbFh3VWRSYmhmNnJ5REdfT0JkTEc5TkU0eGRsUVZyVjhsajBCbXpiZUQ1QjVMT3p1QmR1ZFc2VF8yWTRrb2lVWC10bFJScktPTk9ZLWFkb05uaTctRHpEbFhLTWxqcHRsNWNmYXBnZ3hYN2lJeWJwYWxLMEYwcE9kWTFJdE85a0I2RDlPZkQ3Sk1CZHBaZ0ZiNHdpdUVibUZvR0dYNlBQb1BWVmhjQ1d3?oc=5",
       "source": "Google News — Eagles",
-      "published": 1768168575
+      "published": 1768169571
     },
     {
       "title": "Brock Purdy, 49ers eliminate defending Super Bowl champion Eagles with 23-19 win in wild-card game - ABC7 San Francisco",
@@ -281,6 +275,18 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHNDU2ZhSXRpOTdXWGF1ZHk0SjFMMHVqME1lbDh6VGI2bjFZbXNHUDhMay0tX21ET01mSVBMNTdpUjFMdlZCM2RKYTRRajI3cUVSLWpSeGRwTGs3dExXU1FCb2ozdUVmWWdCd3dSWWpaQ3ZTUy12dHp6UHZ3OTNMMXBuejNaa3BqWFZTUnJsTFdidG0tYnFZa3FHNFdUQzJGdkZ3LVVWcFZOb0N3cGc?oc=5",
       "source": "Google News — Eagles",
       "published": 1768162301
+    },
+    {
+      "title": "Philadelphia Eagles vs. San Francisco 49ers: key storylines for NFC Wild Card showdown - FOX 29 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0V5RXhwV2ZSQUcwVTFid3pwUUFvLUJfeXJwYmhoc1VXOVpmWU9Vb183bHN3U3IzdFB0YXM0bFpzOHg5Uk9CSllQWXpOZXNmQkFScWp4Mk5qN29WTlpSWGE0QUJYdkpVeDdUam51VmNhZHdJVWZoMzk2eUtoM0FkNFpzN2JiLUJnazBuS21TNVVmTzJldEoxRkQ0TkpOWGMwSDJXdmswc09LRHfSAbABQVVfeXFMUFBTelRRY2I2TnFWeUQ2SVdVMngzb29qcXExWmxEWU1PaHVtd0ZTQXllQ3RfZUhJQUVNcVpBcjRvQi11dV9RdGUzZ1VwQlVXcFpyZndGNGNlTGR5YUxHWjNuQllCZVh5ZmhvckExOEFHZEh2Tkl6WUs0X1JfMUM4Tkt0WlRsNV9FNmxwNmloTFdtc3VBRUtrWHFiTFhkUFZjTzhiakFWQWNrWmdBUWpWRnU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768161542
+    },
+    {
+      "title": "Can Eagles' defensive line dominate wild-card game against 49ers? - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkJwMHRCeDRjRVdNdHBaV2tlQ1Z2eGhvQnF2dGtkNE0yN3RTdWdpbVpVWElwZ1NBbXowUU5vb201bnhBWVFsQTRVNWhjWmlNTDdtSHlzVWI0Tmh5MVc3MkduYW1WVTZrSTlqQjgxVmxzQ2pSWnFpOVpBYUtDdFJsdWpqSXlUeHRFQUV6M3lzVWgtSWlJRUxtNkVsOEdpWEx3LTRjd0JOM2E0Z2dHTUlmRG1n0gG6AUFVX3lxTE1JNHVmZG1waEdmNV84Sk4wUUw2NnA3dVVXbWdhLVl5bnF1UW9qRTU5RzM0STBJSmEyNUpGMUxVcF9JRmRwa3c5R0pmQXUxcTBFQ0wwX3VzbnpCdXBmSEZwRkRyOFNadzN4NzgxbHNleUdBT3pZVzF5UG1MQ0phdExnV0pHY1VFYWJZa1JMdU03SnMyWjJzTTJzQmFoaUxYVmctM2wwVWkyODM3NTJvcEUyVk1jNlNDMnNuZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768132800
     },
     {
       "title": "How to watch, stream, and listen | 49ers vs. Eagles | Wild Card Round - Philadelphia Eagles",
@@ -469,8 +475,8 @@
       "published": 1767600000
     },
     {
-      "title": "Philadelphia Eagles to play San Francisco 49ers in NFL playoffs. Here's what you need to know. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDN0NWNHNjFpWHJSamZaYWE4VEVVZU8yWi1CRUhCek16OXR2RHlfWlhjcVR6V3ZPYm5ZNDFsMnQ5ZFFFU1VaMS1rakRzVlBORWhOdmNhSUwzRnB5VV9wQlZxRS1UZG5KR2prWkIzVm16SWZ2bmpqdHUzTGg3REtfYWdn?oc=5",
+      "title": "Eagles grades by position after losing regular season finale - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEl6cVlfSnk2VEJGakZPelkxX1BUZ1JkM3BrbFFqam9WYkxra1RBQUdHMHNSdW9TQ0RiUWEwVWpWTGluUnY3eXhFeVlXeXg2MElILTFxeDJheDVnaWFrV0R3LUtXRUhuV2VDelFxcDJ0UFdCMzhlYUpVOHVua0U1U3lIbUdrN0pSd0U3cnFDY2lNck1tQ1Fnaktka0d6ZHBNVHh5TmZrMTZvdFRTbEl6Y0k1M2dJYjRfWGQyXzdpY0lDM2FNa0pCblRB0gHSAUFVX3lxTFBzSGNjOWM3M2tSNXJ1VmtMWHktMHlTM211RzFicXRFYWVqTGNqSTJfN3BHT3E4SXE1S2NKV0pMcGhzejlKckRGcmRiUWRiejA4UE5DWDZ0dXBNZmZmaHVXaG1LdUxfZHROc0hkRzExZkRHdGlsM3BIMzlvcXducUJSYklCNUJBNnoxbWlzSGhxVmlhSWtSWWlaQXZLQXMyME5EZUlqR2dyLUFvZy1uaEwxMFhPaXlzdnFIRTdERWYxQ3oxNy1yYUFvVjJENXE5NGRnZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1767600000
     },
