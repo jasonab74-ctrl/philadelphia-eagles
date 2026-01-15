@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-15T19:27:12.525846+00:00",
+  "updated_at": "2026-01-15T19:47:45.892305+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Howie Roseman was asked if the Eagles have interest in trading A.J. Brown",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/169089/howie-roseman-was-asked-if-the-eagles-have-interest-in-trading-a-j-brown",
+      "source": "Bleeding Green Nation",
+      "published": 1768505177
+    },
     {
       "title": "Eagles offensive coordinator search reportedly includes Charlie Weis Jr.",
       "link": "https://www.bleedinggreennation.com/news/169072/eagles-offensive-coordinator-search-reportedly-includes-charles-weis-jr",
@@ -65,12 +71,6 @@
       "link": "https://www.bleedinggreennation.com/news/169000/eagles-news-nick-sirianni-to-be-less-involved-in-the-offense-moving-forward",
       "source": "Bleeding Green Nation",
       "published": 1768409769
-    },
-    {
-      "title": "Eagles-49ers Film Review: This was the end this offense deserved",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/168853/eagles-49ers-film-review-this-was-the-end-this-offense-deserved",
-      "source": "Bleeding Green Nation",
-      "published": 1768406884
     },
     {
       "title": "The Eagles signed 11 players - PhillyVoice",
@@ -145,7 +145,7 @@
       "published": 1768255311
     },
     {
-      "title": "Eagles knocked out of playoffs: An offseason ahead to fix what's broken - cbssports.com",
+      "title": "Eagles knocked out of playoffs: An offseason ahead to fix what's broken - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYV9OMUpfNmpDNlN6T2xHTWNLUlVlbDBSSllVNFF2dnRUUUsxX01JcEYwTXZwMzV6UWpKSjF1Y0xCTjJUUXhnMlJsZmVmMkd6Mk4wRzJXOG1OeThCeHhTS3VRZEUtQmo3bDdWV0REeTdUenc1ZXl6QWw3VG1KWHZzQXBEcGtwLXFtXzgwa0tMaWtQTnBuRGln?oc=5",
       "source": "Google News — Eagles",
       "published": 1768246296
@@ -295,12 +295,6 @@
       "published": 1768162301
     },
     {
-      "title": "Philadelphia Eagles vs. San Francisco 49ers: key storylines for NFC Wild Card showdown - FOX 29 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0V5RXhwV2ZSQUcwVTFid3pwUUFvLUJfeXJwYmhoc1VXOVpmWU9Vb183bHN3U3IzdFB0YXM0bFpzOHg5Uk9CSllQWXpOZXNmQkFScWp4Mk5qN29WTlpSWGE0QUJYdkpVeDdUam51VmNhZHdJVWZoMzk2eUtoM0FkNFpzN2JiLUJnazBuS21TNVVmTzJldEoxRkQ0TkpOWGMwSDJXdmswc09LRHfSAbABQVVfeXFMUFBTelRRY2I2TnFWeUQ2SVdVMngzb29qcXExWmxEWU1PaHVtd0ZTQXllQ3RfZUhJQUVNcVpBcjRvQi11dV9RdGUzZ1VwQlVXcFpyZndGNGNlTGR5YUxHWjNuQllCZVh5ZmhvckExOEFHZEh2Tkl6WUs0X1JfMUM4Tkt0WlRsNV9FNmxwNmloTFdtc3VBRUtrWHFiTFhkUFZjTzhiakFWQWNrWmdBUWpWRnU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768161542
-    },
-    {
       "title": "Can Eagles' defensive line dominate wild-card game against 49ers? - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkJwMHRCeDRjRVdNdHBaV2tlQ1Z2eGhvQnF2dGtkNE0yN3RTdWdpbVpVWElwZ1NBbXowUU5vb201bnhBWVFsQTRVNWhjWmlNTDdtSHlzVWI0Tmh5MVc3MkduYW1WVTZrSTlqQjgxVmxzQ2pSWnFpOVpBYUtDdFJsdWpqSXlUeHRFQUV6M3lzVWgtSWlJRUxtNkVsOEdpWEx3LTRjd0JOM2E0Z2dHTUlmRG1n0gG6AUFVX3lxTE1JNHVmZG1waEdmNV84Sk4wUUw2NnA3dVVXbWdhLVl5bnF1UW9qRTU5RzM0STBJSmEyNUpGMUxVcF9JRmRwa3c5R0pmQXUxcTBFQ0wwX3VzbnpCdXBmSEZwRkRyOFNadzN4NzgxbHNleUdBT3pZVzF5UG1MQ0phdExnV0pHY1VFYWJZa1JMdU03SnMyWjJzTTJzQmFoaUxYVmctM2wwVWkyODM3NTJvcEUyVk1jNlNDMnNuZw?oc=5",
       "source": "Google News — Eagles",
@@ -341,6 +335,12 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXctNG9RanZ3X0VBbGlxSnkyRDk4NjlVNTV3eV9ZMTZPMFZKQW9TZlRfNFAzdDNZTWRJSG5NWnVLSmxGcXp0alh4X1c3eEtVcDVUdzg2RGkyZ1VBSU1DVGNuZURLNzhzY1Vrd0xCa21sYXdXSTdBbGFTS1RSZjYtaHMxbDRJV25PUnNlTnhNYkNaSEF3MVh4NF9VRXpRNVJCYTVRcW12UVlLSEdadzZzWGppMkFwbVE?oc=5",
       "source": "Google News — Eagles",
       "published": 1768059174
+    },
+    {
+      "title": "Eagles-49ers preview: Kyle Shanahan-Vic Fangio matchup, Niners vs. Saquon Barkley - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYTdoaEVCd3hnTTNfek1fNkx2NXFKNDl4MlFQUm5tMUQ3NWVIbWhfaVZyZ2ZOa3hJR2hObnFqc0RlMjFBc3VWVmZRaGNiYU83Zm1BcXZOc25lR0FLODhEckcwbFQ1VWV2eVV6bkxycVQ2ZEhoY05ZSUl3VzBGWVdteS1hWUlYMV9HazZoaXNBb2RfMzZaRkc0NFV0ZW5GMFA1cFA2Q1RoVlNyYXRldEI5MVMzMA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768055514
     },
     {
       "title": "2025 NFL wild-card betting: Expect a tight game between 49ers and Eagles - ESPN",
@@ -427,16 +427,16 @@
       "published": 1767908899
     },
     {
-      "title": "Best way to an Eagles defensive lineman's heart -- and performance? Meatballs - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDM4T000ckFIZGZESlljRGpRcDNPUUp5Q3RTOVV6N0RzY3Nrbjdka0MtSTNHQ3p0VGlBaFEtODRXandTdzNWZERLb3A3ODZGdEsxMnIyVnBrclJzZHNVdWtBUDIwUkRGQmdyT1R3VHJnN3FsbGlVSXRCZGlPY3llVUNUb0RWYlVrcVRERy0wWkxWa1NPWk9VLXh4c0V1QzdGWXZ2R094TFJuT0U3XzNwVHhwTTE5YjFBUXN3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767783600
-    },
-    {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXJ0R3hua0VWNkwyLTBsaWVYQngxNm1SREduTktuUDR1TG9wTTZsTlVERmQ2TmRqa3NUVVVlUW10MVVnRVlOWThuMUdURlVLMjJkLWQ2UG9KQkltR21pX25NVVdBbkNLQngtVFdMaVpBYWRGTDRXV01vd0RfMkZidjI4eG9FQ0w5YjRZZDF3?oc=5",
       "source": "Google News — Eagles",
       "published": 1767780290
+    },
+    {
+      "title": "Best way to an Eagles defensive lineman's heart -- and performance? Meatballs - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDM4T000ckFIZGZESlljRGpRcDNPUUp5Q3RTOVV6N0RzY3Nrbjdka0MtSTNHQ3p0VGlBaFEtODRXandTdzNWZERLb3A3ODZGdEsxMnIyVnBrclJzZHNVdWtBUDIwUkRGQmdyT1R3VHJnN3FsbGlVSXRCZGlPY3llVUNUb0RWYlVrcVRERy0wWkxWa1NPWk9VLXh4c0V1QzdGWXZ2R094TFJuT0U3XzNwVHhwTTE5YjFBUXN3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767772800
     },
     {
       "title": "Spadaro: Nick Sirianni’s first five seasons have been historic - Philadelphia Eagles",
