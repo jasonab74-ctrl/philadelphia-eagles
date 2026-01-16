@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-16T20:25:42.457140+00:00",
+  "updated_at": "2026-01-16T20:44:12.484089+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Nick Sirianni comments on Jalen Hurts’ role in struggling Eagles offense",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/169088/nick-sirianni-comments-jalen-hurts-role-struggling-eagles-offense-howie-roseman-opinion-nfl",
-      "source": "Bleeding Green Nation",
-      "published": 1768594320
-    },
     {
       "title": "Report: Eagles interviewing Zac Robinson for offensive coordinator job",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169147/eagles-offensive-coordinator-interview-zac-robinson-nfl-news",
@@ -193,6 +187,12 @@
       "published": 1768230269
     },
     {
+      "title": "Eagles on Kevin Patullo's performance and future after playoff loss - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOUk3dXZaVnpiN3dBYXZuLWFFU0xzRk1jOE9qaTB0YktCVkw4aElxaElUZ0ZXTGI0S1VhMUgxakx0ajBMcEMyNUs0Sk5jV3ZKUFV2TWI3MGFJcXVSQnZfUUZDZkVkUFk4NjBHNS1TVEZFZGdBXzVKRTVzS0JmdTV3MmVYTGdXZ3doUEQtcDJROTZxYV95TnlvVUJhVWZObEdKZXNjSTFVcHYyUWVfM1QzWDJwTlJWOUw1UHF3UUhtSlE0b3V0bWxCaEthWVhLUW1PVFZBV0pzZWFXUTNIbzZ6ZWlsZjJyTnMzVW14eWk0djbSAfgBQVVfeXFMTkMtajIyX1lfaEVzZXZNTXlRdGpNTGkxbldDLTZTeXJqYWpUTTdFeFFtRXJaWnhUcFU3SGlJRzVvY2o5aGhRWl8wV2YyNjBXSUFfblc0aFA4bUxObkRiOXNHX3RmQmctT1pSY2M1ampJNWdCWDJFbGVtZm9La0VjUE5NR2VvaS0zdnZkdnRNOUVJbXZTMjZONngtbHdENHB4eWg1OFB1d01TQ090YmZBNHRDWXpjakVyRUhGTmk4VmhYa1c2eDVraTEwLXNhQUtRY2lmcnJNS1BiMVFUREhVNXBuMHQweEFxbmVvYTBIYU0tQjRINUtUTFQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768223558
+    },
+    {
       "title": "Eagles fans voice frustration, disappointment after season-ending loss against 49ers - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGdkTG4zY0ZONkZnQnBvbFc4RXM0aml1Q3FER2w3VC05ekFYVXZ3N1JUMVY3cmRXWDlXcDZZTUVzNG1vOGNuSjA2Q2EySXZQeDI1YTdpN2NHNUVpeUZXcVdHbGhDcHRuQkNXWGVCTnM5dVFfZW9DWFd0ODlFdi1WZTc5cTM3SWE2M1Z5czh6U3BZbVI2VU4yT0IxbzZpVzcwSG9J0gGoAUFVX3lxTE9aVUxTVS01dkF4VHg3Z1hpY1FQdVdrb3phcVdGT0tTMG14bzJKejhNMXFOQTBDeGZBUFlOX201MTQ3RnVIOUg0aUhFT2JiRXRQN3ctSUstTEF3Ulp6cGc1Wll3d0E0ZW5rUmdOWlRTRHFHUW5QY1haUWN4TnQ1RHZfOXJvbDNTV2hzZVZ5Z1pTWmNubXJsM0d2c1lWT18tdTNxTEtrQmp2Zg?oc=5",
       "source": "Google News — Eagles",
@@ -211,16 +211,16 @@
       "published": 1768219200
     },
     {
-      "title": "Eagles on Kevin Patullo's performance and future after playoff loss - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOUk3dXZaVnpiN3dBYXZuLWFFU0xzRk1jOE9qaTB0YktCVkw4aElxaElUZ0ZXTGI0S1VhMUgxakx0ajBMcEMyNUs0Sk5jV3ZKUFV2TWI3MGFJcXVSQnZfUUZDZkVkUFk4NjBHNS1TVEZFZGdBXzVKRTVzS0JmdTV3MmVYTGdXZ3doUEQtcDJROTZxYV95TnlvVUJhVWZObEdKZXNjSTFVcHYyUWVfM1QzWDJwTlJWOUw1UHF3UUhtSlE0b3V0bWxCaEthWVhLUW1PVFZBV0pzZWFXUTNIbzZ6ZWlsZjJyTnMzVW14eWk0djbSAfgBQVVfeXFMTkMtajIyX1lfaEVzZXZNTXlRdGpNTGkxbldDLTZTeXJqYWpUTTdFeFFtRXJaWnhUcFU3SGlJRzVvY2o5aGhRWl8wV2YyNjBXSUFfblc0aFA4bUxObkRiOXNHX3RmQmctT1pSY2M1ampJNWdCWDJFbGVtZm9La0VjUE5NR2VvaS0zdnZkdnRNOUVJbXZTMjZONngtbHdENHB4eWg1OFB1d01TQ090YmZBNHRDWXpjakVyRUhGTmk4VmhYa1c2eDVraTEwLXNhQUtRY2lmcnJNS1BiMVFUREhVNXBuMHQweEFxbmVvYTBIYU0tQjRINUtUTFQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768207587
-    },
-    {
       "title": "As 49ers wreck Eagles' chance at Super Bowl repeat, where does Philadelphia go from here? - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQi1ZZTFjVjU5UV8zcE5DbmtTSG95SE9oa0ZXcnNWVlVHdlFKRGJ0bzJad1RPVUwzTGZadlM2U1VCZEZWeHJPdXVzRVAzSGdBdlp1bFdweEQtU1p3NmZGcjhIeEp6Q2ltSVpPTXFPX3RUVWdCYWlQdk1Lc0NHR2J3S0NEbGdKT0ZzN2xCbWNOb1JLMnQya2hySjI1ci1PeHVITktJX1RUSFU5WVdsVWk2Y3dSb20xVndfWFVoQ0RUUnFVQ0IwTklhZkdzWUlwSFlpYWg1bg?oc=5",
       "source": "Google News — Eagles",
       "published": 1768203406
+    },
+    {
+      "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3JhZ2Z5b1JzNWduelhuV2U5VjVkdnE3Um1McmxpeEkyZ3c2ZFM1REdILWlQYTcxeC1MUmRnNDZSV2J2SXBmb2huUmIwT2tZb2lEejhjbGp4WlMtNHkzVzdSZXM5XzlDZlNMZWZlbV9OSFpjRXhCcmdoUXdzWm1xN2hKdDRNbjl2Mk9yY2plUzhWM2NtWUl1dWFkSXNxRmxiUkgyWU9CeXozSF91SWFnUjdhRm9zR0RWVHhraldFMG9tT2hRVU00Qm1xYnRXVWYz0gHYAUFVX3lxTE9ZaEFGdFRSbnJHRzExdlQ3SEl3OFdKTjFqRHdVdUlfbDhLeUk2T3p0NUF5alh6TFNhWEtTeWVOaDVYeU0tUG8zR1ZtSEtvaXh5bVdRTE9ucmVOd2dtTEpvUXdSakNTVHAycnVZenUweUU5NUVlZ1B0WXJsWWlzQzU4ZnlyOUY4bHdhX1drbjVIcm8waS1MUnEyNm9HcEtpQXg2YVdzMy1td05UWDNZT2dndkNXR3JfVUV4Rm9uZkJtX1RaRlI3RERWUXMtYmFGMUprS3R2MmNQbg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768193877
     },
     {
       "title": "4 takeaways as Eagles end season with a thud. What's Kevin Patullo's fate? - The News Journal",
@@ -251,12 +251,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3ZnMU9pZVh4MjNSTFVrT1BScmN6NFFTanVKS0NtWHN0T1dwLWZmbXdwSG04MmZEbjQzcXphWUVBQ21GSmVmVFpqX0pOeFVYSzlTaThiSGlJelZuY3JpUGpMNFJwRFZKUnlvazRCOGI3RVlnZHNMYU9mZXpoZnRlbEZMOEFaSXNFaVVVNkdMTFQ5TTRDanlnZ3Bn?oc=5",
       "source": "Google News — Eagles",
       "published": 1768185101
-    },
-    {
-      "title": "49ers pull off the upset against Eagles 23-19: Live updates and reaction - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzNLRTZCd25LOHJEaTJudXZLWTJhdUNiMVZFbzJzeHhoVThNRW1kdlBMUVM2NGtFN2VUNDJhSW5nemhmSEJfLXZQZ0szdmFjajNiMHo2N3VWSkdrcUw4VmF2bUxOQ1hKSi12TjVya1hyc2E2VG9oUWNlUFpDRWllZWFjNWtSQ2JCRTlSTnJFUFpCdEs2TW05OU9rZkowa3JqRFBfaWwwTURlMzhmZFlGTl9LcEdOUnNvLU9jRWJWNA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768184640
     },
     {
       "title": "Eagles NFL playoff loss causes fans to furiously vent. What they said - The News Journal",
@@ -313,16 +307,16 @@
       "published": 1768177350
     },
     {
-      "title": "Highlight: Dallas Goedert's second score comes on fourth down - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmJELUhnR3VlM2pveldyOFhTaW5pdlNqLVdyTURjNGRsZS14MWdZa25oUU5QX1BES3luWk1DOVF4T293UXZQNng1eW1ieTVuaThZdnZBQzc4akpWUTE1dWFoWFhrR2lzRHBGM2ZQNTQwYklUZURxZEFkMUxWNms1akJEdjFGeElocVNsd1VSSEpBSkd2ejNDbVZmX2FYdF85eHdj?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768171974
-    },
-    {
       "title": "Stout Denies Eagles on Fourth Down - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMUVlOVEyWXpBMVF0TF9ZLWUwSGt3SV9DeEtqU3otem1CdUJaYkdpU2dJdlFjUm1KQnZhU1Iwa3I3V241QUJndmRyR1lMMTNFV0hsR0htUzNKZmRsd2t0VlNzUEdqamlzbERnRGhFNFcyYnNDaURwXw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768171301
+    },
+    {
+      "title": "Brock Purdy, 49ers eliminate defending Super Bowl champion Eagles with 23-19 win in wild-card game - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLXJCdEVnTm1XV0dKUEJROW84Q1dZS000Zl9KTENja2lQVC1nMXlrLV9JME5Yem94Zk9sMTBfSlhXQkVORktwVUpyY0FzbWxPMFBNRkowQkxQODVJQXM5MWR2SG1UQ2dKWEJCUUFFcDRXT1lYUzhsa290MnYtUEhNY28wVElQZDZkQ3JtdUFFeTZDaG5Ud2EzcllWQ0E2SWhuV0JEWHhqdkVfNi14SFJuaWkySdIBuAFBVV95cUxQV2xMUnNWRS1KV042TTA0clF0RFR6bVZsNlBLM0NkVGtkTnRLa2JvQkdES2ZoTDhhb0F1QlB3enF5VU9lN0VINk5jWlVlWUdta0xFS1htQ2VFU3A0amx4N2JMMkp5TUxwZE5SUC1BZmc1YXdFN3FvdDg2MVpnT3hNMHczOTlXZXZuN0l5bFhOTUVTWTdhbnhHUTE4N25WRE5wM1RPRkpwY3B5WG5HdTZOd3oyNk95eE9i?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768164001
     },
     {
       "title": "49ers vs. Eagles Inactives | Wild Card Round - Philadelphia Eagles",
@@ -337,16 +331,22 @@
       "published": 1768162301
     },
     {
+      "title": "San Francisco 49ers at Philadelphia Eagles | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkY1VTlTTTVDdUZJM19NZXFNREpaZ1h5ZDZ2aTZQLXJlR0tBWkhERk9lMG9uQUhseEZQcVBGTWc1eXZ4c1JWcHUtdFZFRVBtaUV4VERUZ2t5RUdqMWZPbjRSRlYtWHBfNkJJdXlVV1NTdHVmYS1McklseU9BV25Va3d0NnRRUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768155525
+    },
+    {
+      "title": "San Francisco 49ers vs Philadelphia Eagles Live Stream: How to Watch NFL - Fubo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFpPM3dic2dLckVVS3pHbk9rckhTbHRwN0s5X0NIbkVrbzNLcXVQQVZkRE1EUWxCLTUyZGV5SldMc3hzc01GczlFUnBjNkhmWGxpSldIVXRkX3N5VE81UGw2WDZoWWMxbml5SU5PREIxaFZFQ2RrTXFxNDlhRU9ralhRSEtOeEowVm9HR1p0TkRpNVdYRXBzSEJDM1p0eXQ5UGNN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768148773
+    },
+    {
       "title": "Eagles vs. 49ers Prediction, Odds, Picks for NFC Wild Card - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0hpdDgxdFJNdVhLdlZydXRPWjNwWXVzWHdnd1ZtbXJXNmdaSFpwMHQ4T2FWV1lvNk44Sy1MbkN1REhXUUZtYzA5NVpsWVJGZk5iQmtGSEZicjBMTEh1dWRiTlB5S3AyYnE4bG1TaXVUR1BfYTRkOGdhMWotdzZjSkJBcHJfbmJ4eW5SQTl3cllyR0xwTkJkWnlTMVQtMS1QX3VGMFNB?oc=5",
       "source": "Google News — Eagles",
       "published": 1768135860
-    },
-    {
-      "title": "Can Eagles' defensive line dominate wild-card game against 49ers? - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkJwMHRCeDRjRVdNdHBaV2tlQ1Z2eGhvQnF2dGtkNE0yN3RTdWdpbVpVWElwZ1NBbXowUU5vb201bnhBWVFsQTRVNWhjWmlNTDdtSHlzVWI0Tmh5MVc3MkduYW1WVTZrSTlqQjgxVmxzQ2pSWnFpOVpBYUtDdFJsdWpqSXlUeHRFQUV6M3lzVWgtSWlJRUxtNkVsOEdpWEx3LTRjd0JOM2E0Z2dHTUlmRG1n0gG6AUFVX3lxTE1JNHVmZG1waEdmNV84Sk4wUUw2NnA3dVVXbWdhLVl5bnF1UW9qRTU5RzM0STBJSmEyNUpGMUxVcF9JRmRwa3c5R0pmQXUxcTBFQ0wwX3VzbnpCdXBmSEZwRkRyOFNadzN4NzgxbHNleUdBT3pZVzF5UG1MQ0phdExnV0pHY1VFYWJZa1JMdU03SnMyWjJzTTJzQmFoaUxYVmctM2wwVWkyODM3NTJvcEUyVk1jNlNDMnNuZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768132800
     },
     {
       "title": "How to watch, stream, and listen | 49ers vs. Eagles | Wild Card Round - Philadelphia Eagles",
@@ -449,12 +449,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV09YcW9rX0lPQTZYQ0NFbnVrSkNZT3JMSVQyNmd3TFZIUmM1djl4SG04MzdrWlhORUxJbWRtNTNBT3hLcmlNRHFmN25TMzVrdmRacW9qZjhNWG8zc281dUozclBaN2Z1WGdqcU9seldialpRMmF6ZFhocVJFWFRpci03ZGtZU1VuSXVZbjN2aTM5MXN1OFhuUjdPV25kSzdRZVNPUlRSSThDbXlzSTlfcy1MdWlhX3MtTjJYeFR2T2d3enk2UW9KLdIB0AFBVV95cUxPZ29hdnVnTjNHRXR6TWpXOUhTalFQRWdGZDA4b0xSSGtOallfVzRSeWpGT0lCeHpxaWZ0TWxneF94VWlhYkJta0NSZWd1bHFtTXNFUWtrM0oyNEo4NU9ESjhqaElUcHc0dHFWQ2ZlVm8xampjVUNKY1dIWFRYelg1NkdWUU55RXdnMWtuY0VOMmpkVllKanNuZkw2YTF1aHZkZ2tUN3NrbmlHaTZvTThoU2RhV2NwcmNuaS00ZWtSeENqVWwwemR3cE02cDVfRWN6?oc=5",
       "source": "Google News — Eagles",
       "published": 1767908899
-    },
-    {
-      "title": "Lane Johnson provides a boost in his 1st practice back - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1NNc0YyQWF0Z3hUaTRTQVlxNGg5eGJHQUNGZEJ0d0JFTk5ybzNsdWl4YXpGN1JfR241a3hKU1Q5RWJWMlNTSUtudi03VlJoWnNsRVFNYkRHa0VEamk3RjB3djAzOHBqTXZqUk5XeEE2OWlSNEFkaG5ybkgwV21BQmRlWWhNdU5adWhZenY4c01XUnhlTzBnQ1hGRVZ0b1BZQ2JucWFReWFfTFUzbEY4T3BfajdCV0NCQU1GdVJR0gHGAUFVX3lxTE01X25aMzRUSXhXMkFPTWJUWHZqNVNPV3VQMjBWWkt3eXNJbXZUUmE4SE5TVFhNUzB3dl8wc1BNNGdHQUR5WWFRUWhicF9fSWg3MXlzM2NNblpSSkxEa2hMTURub3ZMS1dZZDdnYWotREJpV1JsN2IwbERmbkUxc25MUEFOdlV0alZaX3N1cFltUXRJTnlxZ1ZhRVBVRzdadHQ2bVFRWk50Y3FZY2VLb1c1VW15clF3Zl9EMGp1VW05ZU5RX1dZdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767873600
     },
     {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
