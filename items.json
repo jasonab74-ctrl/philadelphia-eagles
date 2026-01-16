@@ -1,16 +1,22 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-16T19:39:06.829456+00:00",
+  "updated_at": "2026-01-16T20:25:42.457140+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Nick Sirianni comments on Jalen Hurts’ role in struggling Eagles offense",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/169088/nick-sirianni-comments-jalen-hurts-role-struggling-eagles-offense-howie-roseman-opinion-nfl",
+      "source": "Bleeding Green Nation",
+      "published": 1768594320
+    },
+    {
       "title": "Report: Eagles interviewing Zac Robinson for offensive coordinator job",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169147/eagles-offensive-coordinator-interview-zac-robinson-nfl-news",
       "source": "Bleeding Green Nation",
-      "published": 1768591591
+      "published": 1768592796
     },
     {
       "title": "Source: Eagles showed interest in Charlie Weis Jr. before their season was over",
@@ -23,6 +29,12 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169101/howie-roseman-nick-sirianni-talk-eagles-search-for-new-offensive-coordinator-candidates-nfl-news",
       "source": "Bleeding Green Nation",
       "published": 1768576657
+    },
+    {
+      "title": "The problems inside the Eagles’ offense went far beyond Kevin Patullo - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlJBaTRTNE1NakNmTkhiSXpsN29WS0hVdC14RkZubHg0UlU0dmhrQkx4ZGxXeUtLc2tmd25FSHVFSWZxQy1ITkZJLWhaSkR2YXZqUU1VV0FnYW1hSGwzWGkyU0IxNE1ESFlfTTZtQUxCSmJfd0xjV1pSNVg1Z3l1VzlTTzVkam1tUnFKREx0S0tnLXZSeWtRMHFZZF9MVUJEY2lDNw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768574141
     },
     {
       "title": "What do the Eagles want in their next offensive coordinator? - NBC10 Philadelphia",
@@ -71,12 +83,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlJ2ek9aXzUwSjhMRTVhblF1NUo3dDhNcjRUNENMcGFRMVk0RER5ak44NlJRakRSa0ZSRmFkY0JBWFJPWWxTSnFRWWlDSHZ4am9acWxoVDBrT1ZDcy15WTFaM1dPRnAzNFRQZDBveVJxN2hBODFxUjVNZlB5dDk4cEFNbUI4NG9LYVItM19wTGRfbmx3Z2d3WGFSMHFvOVlfUmFxMHpIV0daQ0hmRDM4SF9WOWZVR2tiZWtZVklkSXhQYURxZkkxU2Rn0gHSAUFVX3lxTE1lNDBzYUVPY1cycWxuMDdmelA5cWE3VWRHb0QtaUVZR1VrZ0JHMGdMQS1Mczh0T0JjT3pSLVVzMmpiNXlxNWxXa3hvaTNlTktIZWJTUWVwS0pJUTJYVzluRzhjYXFoeFp0WVozVzk5WFZmMFhoa1VsalV1eHJoVHZlZXZOWW5UT2JsZHFFZ09zYlMwelJFQVF5RVY2RUlfNjNVNXVlczBNTDFuOGJxeUZZRDZyZTk5d1RUbWJrdDEzTTdNRmM5NWhvamYwcnluVEtEQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768478400
-    },
-    {
-      "title": "Philadelphia Eagles 2026 free agents, draft picks and more. Here's what to know about the offseason. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzVqVFpRYTFDQXhNQUZIUVdZZUt3d0FCSGUtcUMtOTE3YXNzV1FaWWFFeTgxN2ZBZ2M5WmxqaDFVS285WHZSS1h1M214M29BcWN5bkl0NkhuTk9wU08yRHZiTGpGSzUxZzdhVWhIOGhHQlQzZ1UzSlZPbzEtbEJVeTd3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768471200
     },
     {
       "title": "Eagles future signing tracker | 2026 Offseason Roster - Philadelphia Eagles",
@@ -283,12 +289,6 @@
       "published": 1768181803
     },
     {
-      "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNl9WZlNwd2J2SVM2cVJlYUlvbmJTRHZVaXZlUzJkRTVFcVRuYWtfNHJ2U09pby00Z0lMU0wzdEpxZ3YxQ1Y5ZHZIbUVlVVFaTGxzSTdFaGdqX1pHUGhZQlp3NnI5QkMtSnpfZm8tdHVXYzJjZGdmN3VWcTVwa1NHVi1ta1hFeHY1WEJQTmtGSTZLc2RfMXZfSUQ4c0ZpYklvZndndXRuMGU0SFpMWVBBcHlkRlhiUkhCNFMxUEdtN0RrQlhLQzR30gHPAUFVX3lxTE9sS3Eyd0x3bkZ2QmZpYmw2Sy1IWmxCUmpXcHlzSXZnN3FZcGVwMEpxUGFUcWZHNGxEQTFRQlRYRnJwS0VDWk1kMWNob0ZTQ2hwZ3FvUEFmYUd4aHc4dXZwSzd2OVk3T01JTWcyZFNhcFprdElNdUhvMk90TExsejI5dGl4TXBoeGl0ckRNRV9tSGsxd25tM2tBOGlreV9LZV9wSzVVek50bjlUMmV2aHR5WDNuci1QVnYtTVcwR3dLRVYzM00wZllwWDBBbEE2SQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768180200
-    },
-    {
       "title": "49ers down defending champion Eagles in NFC wild-card game - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU1zd2d0Z3JpLTVRWGhFOTRLNlBEYUVCbkk1RjRkSWtoa1BrbHhTV05tMzJCNng4amlJZ00yOGM0dHFwbkdqUE5zRHJKRWVJSFB4bHd6TF9WMmRDVnkyVFNnVUJleXRnT1p1SGlQNGRwVTdIZFlfSEg2VHliM1JtOEZMY0wxWWhyYWR5aDVYV01GalF0NDBoSjR0aw?oc=5",
       "source": "Google News — Eagles",
@@ -313,16 +313,16 @@
       "published": 1768177350
     },
     {
+      "title": "Highlight: Dallas Goedert's second score comes on fourth down - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmJELUhnR3VlM2pveldyOFhTaW5pdlNqLVdyTURjNGRsZS14MWdZa25oUU5QX1BES3luWk1DOVF4T293UXZQNng1eW1ieTVuaThZdnZBQzc4akpWUTE1dWFoWFhrR2lzRHBGM2ZQNTQwYklUZURxZEFkMUxWNms1akJEdjFGeElocVNsd1VSSEpBSkd2ejNDbVZmX2FYdF85eHdj?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768171974
+    },
+    {
       "title": "Stout Denies Eagles on Fourth Down - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMUVlOVEyWXpBMVF0TF9ZLWUwSGt3SV9DeEtqU3otem1CdUJaYkdpU2dJdlFjUm1KQnZhU1Iwa3I3V241QUJndmRyR1lMMTNFV0hsR0htUzNKZmRsd2t0VlNzUEdqamlzbERnRGhFNFcyYnNDaURwXw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768171301
-    },
-    {
-      "title": "Brock Purdy, 49ers eliminate defending Super Bowl champion Eagles with 23-19 win in wild-card game - ABC7 San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLXJCdEVnTm1XV0dKUEJROW84Q1dZS000Zl9KTENja2lQVC1nMXlrLV9JME5Yem94Zk9sMTBfSlhXQkVORktwVUpyY0FzbWxPMFBNRkowQkxQODVJQXM5MWR2SG1UQ2dKWEJCUUFFcDRXT1lYUzhsa290MnYtUEhNY28wVElQZDZkQ3JtdUFFeTZDaG5Ud2EzcllWQ0E2SWhuV0JEWHhqdkVfNi14SFJuaWkySdIBuAFBVV95cUxQV2xMUnNWRS1KV042TTA0clF0RFR6bVZsNlBLM0NkVGtkTnRLa2JvQkdES2ZoTDhhb0F1QlB3enF5VU9lN0VINk5jWlVlWUdta0xFS1htQ2VFU3A0amx4N2JMMkp5TUxwZE5SUC1BZmc1YXdFN3FvdDg2MVpnT3hNMHczOTlXZXZuN0l5bFhOTUVTWTdhbnhHUTE4N25WRE5wM1RPRkpwY3B5WG5HdTZOd3oyNk95eE9i?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768164001
     },
     {
       "title": "49ers vs. Eagles Inactives | Wild Card Round - Philadelphia Eagles",
@@ -335,6 +335,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHNDU2ZhSXRpOTdXWGF1ZHk0SjFMMHVqME1lbDh6VGI2bjFZbXNHUDhMay0tX21ET01mSVBMNTdpUjFMdlZCM2RKYTRRajI3cUVSLWpSeGRwTGs3dExXU1FCb2ozdUVmWWdCd3dSWWpaQ3ZTUy12dHp6UHZ3OTNMMXBuejNaa3BqWFZTUnJsTFdidG0tYnFZa3FHNFdUQzJGdkZ3LVVWcFZOb0N3cGc?oc=5",
       "source": "Google News — Eagles",
       "published": 1768162301
+    },
+    {
+      "title": "Eagles vs. 49ers Prediction, Odds, Picks for NFC Wild Card - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0hpdDgxdFJNdVhLdlZydXRPWjNwWXVzWHdnd1ZtbXJXNmdaSFpwMHQ4T2FWV1lvNk44Sy1MbkN1REhXUUZtYzA5NVpsWVJGZk5iQmtGSEZicjBMTEh1dWRiTlB5S3AyYnE4bG1TaXVUR1BfYTRkOGdhMWotdzZjSkJBcHJfbmJ4eW5SQTl3cllyR0xwTkJkWnlTMVQtMS1QX3VGMFNB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768135860
     },
     {
       "title": "Can Eagles' defensive line dominate wild-card game against 49ers? - NBC Sports Philadelphia",
