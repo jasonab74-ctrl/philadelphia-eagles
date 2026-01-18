@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-18T22:22:55.089808+00:00",
+  "updated_at": "2026-01-18T22:44:43.889255+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -115,6 +115,12 @@
       "published": 1768478400
     },
     {
+      "title": "Why Nakobe Dean won't return to Eagles. Will Jaelan Phillips, Goedert? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORzNyMXVaNFpUQ055aVVMdFhCQkpZSjl5ZnNQdElxaTBfWkdFRkNJTk1IMEQxLVVRTW1PMWE3c19uOWJaeWVyc1kwb2g4NG1lenItVV9QNkFxRUNpR19wbUh4QWREdzJ3eUt2TkJ2WXV2RkdiNlhSU3BZWTdIckpNbUpSbE9JU0dTNDljdks3Wjh1c0FxTF9PeHFzTExBOWZLeUFVVGF6TjBSc0NtbkdyUGkyVWo3cnRCZkktRml3WHBoMDhpOFdWOUttYjFkcmZMRlFXdTAtaGNQY2tyRE5Pal9lNjZ2SWlYT2w5V2M3eWJVRS1OOVJydnJB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768468200
+    },
+    {
       "title": "From the Trenches: 49ers Beat the Eagles Against All Odds - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVVRSUQzWmpEZUYtU1dabWJDRWFWSURYOGZ2X251aGJiMlltWllvSE5oYTNsOGhCeDRJcHI0dUsyLVNvdHgxZlNoaDZOYm1zZXhXNGdmUy1TYm5yYVNUSXA2ZFNrRGxSbXJ3MzFxNm9CQm4tOG8zRXE4Z2RqVGt5M3RYeHdzRk5ZRzktdWRYQ3docFJIdjhMX2R3?oc=5",
       "source": "Google News — Eagles",
@@ -193,12 +199,6 @@
       "published": 1768256009
     },
     {
-      "title": "Philadelphia Eagles fans voice frustration after playoff loss to San Francisco 49ers - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnlJSVIxbjhEOVNWN09UT2cyWFJ4dUFaV3lKUjFGcW9heUhMQnRsYnNDd09vbTdRWFczWDdMZ0lRTGp2TkJvbkFHREgtSXFGTnpOMWVIRkNMMml3V2J3R2dDaWtsWGNQU281Tmo4TUFmRGw2VHJmdlNMTE02cUN1QjY3emNtX0hSOHBfeGJGdTFrVDNmSnZMWDRrWmVTLXBFM0x6clVyT0N1QVnSAbABQVVfeXFMTTZIdjVNT1FlZnFoOTVTLU1CWG9QSmtSVE9RZW5IdW9DUjZqVWRLOWxwMloxdllIYVhjZEgtb09PdlBROUxFUFdKYUxRZEZkWkhDSkxmRVlUVGxaQXNrVGZMM0JESWZrVF9SU28ya1hmWWhDd1BsUmt1bUlBblVMXzYtYUVaaV9wNnBwQjhmcGYxYUN2UVAtdFdnazd2LW1ZTXBPZnhQSlZoVEFMU0FOdnA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768255714
-    },
-    {
       "title": "Only repeat for Eagles this season is offense’s dry spell, with offseason changes looming - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0pzcklISmxvRHFIQklIU1U0b1Q1MUFYSHBwZnI0bk5XNnhWdWtxOGFSbTBDcHZqbTRrWVZ2dVdZVFlkNENBVDRiVWJOT2JFR2p2R1dPYTYweDZ6OEtOUnpndWxMUlQyU1c2SGZwSFB5aTlubU5mODRGTGxJY2I0Zm1JOGh3TjZtQ1NBU1lxSVpQeUhYYXNZa2ZLWQ?oc=5",
       "source": "Google News — Eagles",
@@ -259,16 +259,16 @@
       "published": 1768219200
     },
     {
-      "title": "Eagles' season-long issues apparent in playoff loss to 49ers, sideline spat between Nick Sirianni, A.J. Brown - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlhlQXZNcUZHaE05aUZ3NXg3MkFDMUJXS0JJU3BKWDFic1pFNXlOUHNjaDdnN2kxZTJPdnNSNmhIWXE2cHBCQzRmMFRvaUwyWXdQSFQzWHVfWUx1Y3Y5MEc2VUh0OEJxTmhLdEZnemkzRzcxTXJRd0xIcEE1RFBMY1BrT0p1V2VBaU00NS1idzY0ZVRtallENDk5YVFaeEJpMXJSQjRKZ0VzbGVScFNKSEZjRXUwVDdjVC1kTVczS3Q0cWJSNExtb0Nn0gHPAUFVX3lxTE0wTjJBQjRzTjlrT0lBMkVHOC0wbTRCbXJrWEJsT3RKeUU2Zi1WeHRBeF9iOHlaRnRhWk5QeWpDcC1CMXBURVVxVGdDVFAtekhvVUJoaE02S0p6SXh4RG4yVjIzN1FpeDltLTZtTlJ2UlJieWwyZjRLN01LNGxSaDMtc29jeGpJV3VSVFl5Qzhqb21CWjByQXlVQVZ5OVp1Wktoc1dqWjNFOU0yd0dEOUhsZ19YRE5NRnlORlJLclJhRUNKYkZSSElkZkhvWWtscw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768214529
-    },
-    {
       "title": "As 49ers wreck Eagles' chance at Super Bowl repeat, where does Philadelphia go from here? - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQi1ZZTFjVjU5UV8zcE5DbmtTSG95SE9oa0ZXcnNWVlVHdlFKRGJ0bzJad1RPVUwzTGZadlM2U1VCZEZWeHJPdXVzRVAzSGdBdlp1bFdweEQtU1p3NmZGcjhIeEp6Q2ltSVpPTXFPX3RUVWdCYWlQdk1Lc0NHR2J3S0NEbGdKT0ZzN2xCbWNOb1JLMnQya2hySjI1ci1PeHVITktJX1RUSFU5WVdsVWk2Y3dSb20xVndfWFVoQ0RUUnFVQ0IwTklhZkdzWUlwSFlpYWg1bg?oc=5",
       "source": "Google News — Eagles",
       "published": 1768203406
+    },
+    {
+      "title": "Eagles grades by position after playoff loss to 49ers - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUi1fN08zSEIxUW4tcUN0UWowcnk4dWVQUnpPM2FsaVF4Q2JKamJ0blFlbWVZLXZJR2x6SXFWay1sNW82NV85NlRRdGNjdVFIalRBdGY4RDVhSXRnNTg2bjY0Mk5XM24wMmtMZWxyS2VmT2lvNUZkUFFwdVE0ZDVmWko4OFNEZ1I2dW40TnJjS0VUUm5sZk5XNzRaZUlGSjJ0T3g0SWlNbnlfdjVQS0dIM05WUThhMENHOGM5RTlVRznSAcgBQVVfeXFMTkdnNmU4bERmM2tZbnoyYzVpYVlCcHltd1c0VUFfMTZ6RTZXb0RIZGE3Tk1NRnhaSm52TXp4cUkwX294aUxFQUttNWItdy1PVWJJUXh3SjRIU1ltTHNBYW5BVnhDVzA3blY1NnBZaDhPalJyQzFPZlRYTV9FZWRjSjJTSENub3ZrQ1drVV8yd0lXTWxLUzlDd0JWNFBYdjZZS05HQWROUjZEaXlPRU9nTV8tM3NadlZ5eHJDVlpkWVVWNGhJRjh4QUY?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768193333
     },
     {
       "title": "Handing out 10 awards from the Eagles-49ers playoff game - PhillyVoice",
@@ -335,6 +335,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGlNUjJTYm1aZFg2SS10Z3p0ZlVYelVLck1pOVZaenlobTFiVklJcnFWdHdVejZ5TGpRRUgwNUNjcTlZUXphdkJqc0hfYzR3ZHpwNVdyaFExYjE3dWJWbURzNWNNd0tBRnVFLXNvLURuQU9VLXo2bzM1YUxZQWRfemw0YmYyc0U?oc=5",
       "source": "Google News — Eagles",
       "published": 1768180680
+    },
+    {
+      "title": "Eagles vs. 49ers Wild Card observations: Bad Birds offense conspires with surprisingly loose defense in early playoff exit - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY0FzZXo1aFd2b2dyTWZ2M3hoMUhPSkNmVGlOSlJ5YlFzaFBnQlF3N09pLXRmQ0tOYVVXc0xNVjNWcHduQXZnX2ZBSU1zbFl3QUo5VTU0WnZyZnAxSXlDZEIwb3hqWUM4SjU2c0tiai1nb3Q1WTFNLXI4dUd3LW0tQ2F2ekhMTUR6Y25fSHJiaEc3Y0FacUx6N3lXWkJnY3BLSUNpWXBBSGxfSnl1R3A0NUF0d2ZxX3RRczN1UkhCMzI5NWVpWGFVdg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768180422
     },
     {
       "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC Sports Philadelphia",
@@ -473,12 +479,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFdLVXhKYnA1cmNoVlBCaHVUSzdNNVVHRFNPV21MdE9NZy1fSEYwc181QmVZbXRZaU4tcGJBMG1teFFmQW5pXzI1akdZc3d4cW15T203MDZDb2MtYy1KV1B2dTRnVG5VNk5tLXlScXhZczhUbmo1bzRsZUNTaS0zMWZ1cUN2YUNTTWYwc1Bn?oc=5",
       "source": "Google News — Eagles",
       "published": 1767945600
-    },
-    {
-      "title": "49ers-Eagles NFL wild-card playoff preview: Philadelphia's quest to repeat starts vs. San Francisco - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalVITUhLRTNGODluZThfa3RUZENRUmFKTUdkMG5Cd2xOY1l0WHBLWHNyMXV2N2p1WHNIbTBkcVMwbjcyUURzUGJzSlo5R3JtNzBQMHd2b2pFaHRsYkFzeGRKbVRUVXAzSElUcW1xX2RlSnlNUTFKd0FHdmtqdVQyYTJ5Zmc1WXJLOG9mYnlyWk9qV3ZXaElQUjdlOE1ic2FfTmtvQS00OTBtdTV1ajlNc21NYjZnV0ppbVQ5dkYwWXR6OHJUMTRuSE9Qc2dzQmp2LXJWMnNSdWRGdzB0TVVEYmlR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767859200
     },
     {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
