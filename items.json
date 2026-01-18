@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-18T23:22:41.189052+00:00",
+  "updated_at": "2026-01-18T23:42:26.213106+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Eagles' OC tracker: Philadelphia to interview Brian Daboll - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcWxUZGFwSjFhZXowb2lfdzRMN3B5MGQ2S0hpenQ0cGhsa2ZhZ2ZIY1AzQVZVamFORjJMd1RsdEY1R2NYNTIyb1lrNEZZNE9XaUVkN25fRy1IeklGWFlIU0J1dkV0aDZFdHktOUFIUXdUbDFaQWcxaEI0RWVmUG5yZjVSZWVUYnJkM1dhZVpvd0I1ZzJMeElrWTlWWk5vS2FqWnJrcmxnTUZrSzdkc3N1MU44M3ZnaWFMQ3djSXBpMjFNRkF5MGx5RXV1d01rSWpFU1EzZjl1S2RkWEQ4M1BfTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768763040
-    },
     {
       "title": "Eagles News: Philadelphia has 2 of the top 31 ranked free agents",
       "link": "https://www.bleedinggreennation.com/news/169251/eagles-news-philadelphia-has-2-of-the-top-31-ranked-free-agents",
@@ -265,16 +259,22 @@
       "published": 1768203406
     },
     {
-      "title": "Eagles grades by position after playoff loss to 49ers - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUi1fN08zSEIxUW4tcUN0UWowcnk4dWVQUnpPM2FsaVF4Q2JKamJ0blFlbWVZLXZJR2x6SXFWay1sNW82NV85NlRRdGNjdVFIalRBdGY4RDVhSXRnNTg2bjY0Mk5XM24wMmtMZWxyS2VmT2lvNUZkUFFwdVE0ZDVmWko4OFNEZ1I2dW40TnJjS0VUUm5sZk5XNzRaZUlGSjJ0T3g0SWlNbnlfdjVQS0dIM05WUThhMENHOGM5RTlVRznSAcgBQVVfeXFMTkdnNmU4bERmM2tZbnoyYzVpYVlCcHltd1c0VUFfMTZ6RTZXb0RIZGE3Tk1NRnhaSm52TXp4cUkwX294aUxFQUttNWItdy1PVWJJUXh3SjRIU1ltTHNBYW5BVnhDVzA3blY1NnBZaDhPalJyQzFPZlRYTV9FZWRjSjJTSENub3ZrQ1drVV8yd0lXTWxLUzlDd0JWNFBYdjZZS05HQWROUjZEaXlPRU9nTV8tM3NadlZ5eHJDVlpkWVVWNGhJRjh4QUY?oc=5",
+      "title": "Eagles' Nick Sirianni defends A.J. Brown after drops, spat - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDNPSTZlM3BZSlRRejRQU1VCamlVS2FwcXVxN3Bmbm5jdmNZMldTeTBNS2I2cGxHeXh3S1Y1SFVVN01DTVFoNlZuVzJxZ2N1Q0FNeU5kcnpXWEUxYi1FNUFxbjc0eXdhMVJKTUpZYjhRem44NGJuQjhOT1pSZWVYMXZpTTdxc3laUE9hdmsyYWRsaXRaTjB3Tw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1768193333
+      "published": 1768189380
     },
     {
       "title": "Handing out 10 awards from the Eagles-49ers playoff game - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGE0bHg2dGtBMjRDcWREMVJvbHZXQklLV1QyM1VVZFFjc1BlVXhtSG9WMmtLNG5EYlhlcS1uNnpVdVhydEdITl9fRlpnUlpGczJUaHRiV2NMNzNHUE51a2NqY1BsZENiS19Ha3o3X19OaktQaU55SWNKV3VreXotaFY2UXRveU9CMVNGN0p3dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768189093
+    },
+    {
+      "title": "49ers 23-19 Eagles (Jan 11, 2026) Game Recap - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GR2RUUFpZX3NoTk1pdnBLb0ttbVVLUHVkcFh4MkZ4VE9HSHhuQnRqWDVtU3QwYmxaZHB6Zm1ETl80SzRxT29NSEpDd00xVmx6cVUzMGJLaXhIa3M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768187475
     },
     {
       "title": "Jalen Hurts and the Eagles never figured out their offense — and now their season is over - NBC News",
@@ -367,12 +367,6 @@
       "published": 1768178271
     },
     {
-      "title": "Game Recap: 49ers 23, Eagles 19 | Wild Card Round - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamVBU3RlLWhtVWRicEhvWWlLeUIxXzhvb1dlWXlPMlE0WWZHX3M1T2Z4VFY5aF85cEZkdzQ1aWlCeGJNTjY5VWItYjdjWDBfRUQ2M2kxVGZkYmR3cGxURlZFb2p6TmNCZHc0SnhCem95ZUM0SWdWTTVuZXdYbWxLc3RpNFh4Sk5tQkhvT013QzZXS0lRVjlEVEgyNU9ra3FHOURxaExNNzlhOFpBbTQw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768177350
-    },
-    {
       "title": "61-Yard Catch and Run! Purdy's First Pass Flies by Eagles to D. Robinson - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3NnZlNDdDZkR2lDRVFGbVdwSEVpVzZyN2RjVVloX21ucmdySXg2VmdRc2h5Y0lQOFg4U2FFTWtKLU15TUlWQ0FIcnhmaW5BaGNoRXpkSXhXenBQZ2xNT0QtNU5sMy1nVWpFME9PUTA5TTNQLVhCb2Q2WjdZTHVzTmxYWVJCN2w5ZS1DYzctem50OUhWOUU0NjQ2bGdrQTEtdEJLYzZOQWt4NnM?oc=5",
       "source": "Google News — Eagles",
@@ -395,6 +389,12 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEZNaG5jOHNNbVlDTHVBRXEzR3JaUF9VQXR0T1A0OEpmS1BEdVAtdGw0UmFQeTg2SlpLUHE2bFFnMnBNT0Uxby1qSEo4LW9UOWlXaTlvU0dXQWZsYXNpWUM1TmxmNTRwMl9zR1p4LXVmSjRGM1pBNFZYWkFZY1ZwVWozY1d6N2oyV1d2UWtzWDVhQ3czOGUyRU1FWnljV1otS3kw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768159200
+    },
+    {
+      "title": "What channel is Eagles vs 49ers game on tonight? Start time, NFL playoff schedule, watch, stream - IndyStar",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM05QbnNEQlVrTUlSVVdkNkpmbk1NdjlDUWZqQk1iaS1BUHdTZW1YWlVJM0g4RFZjWVRGWXNha1hkb1kzN1l1N251RDBVeG1aRk5nb2Q1VGc4bDU0OFdjR1h3UGxOYUNZa3hwZWthUXMxdnJwdlZGR1dabnYwQ2U3WXpZc1pibXU3Y1ZORHA2d3AxZkljYVFxOHlGTmtVQngyWGhNQTVPbGRkb0xoZWo1UHRwbDQ3b25uVnJhOTRWZE1jamhseUwzbTVoTzJiVzNkTFNGS20ybVJ0YVdya0FyMk9tMllHYmswU0FiNk1oUUtpaDA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768158420
     },
     {
       "title": "What channel is 49ers vs Eagles game on today? Time, NFL playoff schedule, streaming - The Oklahoman",
@@ -439,12 +439,6 @@
       "published": 1768032000
     },
     {
-      "title": "Cooper DeJean and Quinyon Mitchell earn first-team All-Pro honors - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGtuODNMZ1NPQ2k2QTRSTTd3d1dxMHpac251ZXZ6M2dvdkVXeUN5TFA4MzNaOXdWSHpubmlEak9LT2Naa3NZVGhmZTFLZUE1akdKUGM5VXJKZ21UQ3p4aU9xekx0OEJfVm1MMzIwa1NFdmRVSkJwaC0yU3dSeTZ5alR2TnlJVFA2QndKR2o2X25WXzR5QjRlX0VlR3hMcWU1WXlnT2Q3czVDQTdW?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768032000
-    },
-    {
       "title": "2025 NFL wild-card betting: Odds, picks for 49ers-Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOODdPVDR5NFRBZ2htMXkzQ1kxWVpBYzEtOVR3SF9ETnBSVko4dDNXTkNZZk45OWNKanBIa1JOZ1ZDNE5vLWRVNVFwdWljNVRNaGxoVnlyRW5oUTYzRHpQTm1IYnZHQjFlUG5pZDRVdHVvbDFNd0ZEdkxxTW9UNElndDQzd1J3QVU1WjRoNkM4VFhQcUhrVGtlQ1I5RlNFWXc4QURBNjVtSzVacEc4MmdacVdFc2JrbUl3anNaREZseDM4ZnBsWXN4bVdCSmw2OEFYZjFHcHZrVEh0aXBFdVZBX3M4TngzVDNWX1R3eXJKMFE?oc=5",
       "source": "Google News — Eagles",
@@ -473,6 +467,12 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFdLVXhKYnA1cmNoVlBCaHVUSzdNNVVHRFNPV21MdE9NZy1fSEYwc181QmVZbXRZaU4tcGJBMG1teFFmQW5pXzI1akdZc3d4cW15T203MDZDb2MtYy1KV1B2dTRnVG5VNk5tLXlScXhZczhUbmo1bzRsZUNTaS0zMWZ1cUN2YUNTTWYwc1Bn?oc=5",
       "source": "Google News — Eagles",
       "published": 1767945600
+    },
+    {
+      "title": "49ers-Eagles NFL wild-card playoff preview: Philadelphia's quest to repeat starts vs. San Francisco - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalVITUhLRTNGODluZThfa3RUZENRUmFKTUdkMG5Cd2xOY1l0WHBLWHNyMXV2N2p1WHNIbTBkcVMwbjcyUURzUGJzSlo5R3JtNzBQMHd2b2pFaHRsYkFzeGRKbVRUVXAzSElUcW1xX2RlSnlNUTFKd0FHdmtqdVQyYTJ5Zmc1WXJLOG9mYnlyWk9qV3ZXaElQUjdlOE1ic2FfTmtvQS00OTBtdTV1ajlNc21NYjZnV0ppbVQ5dkYwWXR6OHJUMTRuSE9Qc2dzQmp2LXJWMnNSdWRGdzB0TVVEYmlR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767859200
     },
     {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
