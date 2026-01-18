@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-17T23:41:54.891989+00:00",
+  "updated_at": "2026-01-18T02:06:49.780609+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Offensive Coordinator Candidate and Rumor Tracker",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169220/eagles-offensive-coordinator-search-tracker-candidates-rumors-nfl-updates",
+      "source": "Bleeding Green Nation",
+      "published": 1768693698
+    },
+    {
+      "title": "Eagles offensive coordinator coach search, roster tracker 2026 - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSG11S2Y1cDI2MkM0RW5yMU91LURkOEZCS1VYbVpQNUREN3kwbmZtQmtKVGM4ZEg2bXAwMEdJb29NSnc0cjdUSEo3dXJ1dnlSZmo5VlVCcGVaYmNaNm82ck5yRnZqb2VNNEMtSXNCbnNEMHZ1bnk3WVRWanhhYnlhQWVmVWlBMy14SGphRm9NTFFidERFODluMkxYR3NqVlZfU2dNVTZ5MEx5cHJXbG44N1JsZmwySThHSExzZndBQUc4MjZxTzFZaWlaRG9iRFd2Z0lnOXBSZ05Ma3RqUVVzVQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768689600
+    },
     {
       "title": "Eagles requested an interview with Colts OC Jim Bob Cooter, per report",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169212/eagles-requested-interview-colts-oc-jim-bob-cooter-offensive-coordinator-search-news",
@@ -65,18 +77,6 @@
       "link": "https://www.bleedinggreennation.com/news/169172/eagles-news-report-says-jalen-hurts-has-been-the-source-of-much-internal-frustration",
       "source": "Bleeding Green Nation",
       "published": 1768596774
-    },
-    {
-      "title": "Report: Eagles interviewing Zac Robinson for offensive coordinator job",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169147/eagles-offensive-coordinator-interview-zac-robinson-nfl-news",
-      "source": "Bleeding Green Nation",
-      "published": 1768592796
-    },
-    {
-      "title": "Source: Eagles showed interest in Charlie Weis Jr. before their season was over",
-      "link": "https://www.bleedinggreennation.com/news/169135/source-eagles-showed-interest-in-charlie-weis-jr-before-their-season-was-over",
-      "source": "Bleeding Green Nation",
-      "published": 1768582239
     },
     {
       "title": "The problems inside the Eagles’ offense went far beyond Kevin Patullo - The Athletic - The New York Times",
@@ -331,12 +331,6 @@
       "published": 1768182101
     },
     {
-      "title": "Christian McCaffrey's Best Plays from 114-Yard Game vs. Eagles | Wild Card Weekend - 49ers.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVRXWkxBZGVkdDNoTF9UWjF4dEMzTWJ3LWNOZktqbTQ2NmtnM015cjRLUzYxVGkyNXR6TlRGd3ZjR1p0cS05djh1UHpuc3RNNVhTVk9EV3o2a1RxOE1nUlZOSUtHT3JHSUNhajFOLWpLRU5rSkZFOVlhZ3pLblBReEhEYlQ0Zkc4WDNnMVhhNXpBallEYXdQd1NMWmF1eGZ0NXFYN2tYbHlBYXM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768181803
-    },
-    {
       "title": "Trick play helps 49ers eliminate Super Bowl champion Eagles from NFL playoffs - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGlNUjJTYm1aZFg2SS10Z3p0ZlVYelVLck1pOVZaenlobTFiVklJcnFWdHdVejZ5TGpRRUgwNUNjcTlZUXphdkJqc0hfYzR3ZHpwNVdyaFExYjE3dWJWbURzNWNNd0tBRnVFLXNvLURuQU9VLXo2bzM1YUxZQWRfemw0YmYyc0U?oc=5",
       "source": "Google News — Eagles",
@@ -344,7 +338,7 @@
     },
     {
       "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNl9WZlNwd2J2SVM2cVJlYUlvbmJTRHZVaXZlUzJkRTVFcVRuYWtfNHJ2U09pby00Z0lMU0wzdEpxZ3YxQ1Y5ZHZIbUVlVVFaTGxzSTdFaGdqX1pHUGhZQlp3NnI5QkMtSnpfZm8tdHVXYzJjZGdmN3VWcTVwa1NHVi1ta1hFeHY1WEJQTmtGSTZLc2RfMXZfSUQ4c0ZpYklvZndndXRuMGU0SFpMWVBBcHlkRlhiUkhCNFMxUEdtN0RrQlhLQzR30gHPAUFVX3lxTE9sS3Eyd0x3bkZ2QmZpYmw2Sy1IWmxCUmpXcHlzSXZnN3FZcGVwMEpxUGFUcWZHNGxEQTFRQlRYRnJwS0VDWk1kMWNob0ZTQ2hwZ3FvUEFmYUd4aHc4dXZwSzd2OVk3T01JTWcyZFNhcFprdElNdUhvMk90TExsejI5dGl4TXBoeGl0ckRNRV9tSGsxd25tM2tBOGlreV9LZV9wSzVVek50bjlUMmV2aHR5WDNuci1QVnYtTVcwR3dLRVYzM00wZllwWDBBbEE2SQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNl9WZlNwd2J2SVM2cVJlYUlvbmJTRHZVaXZlUzJkRTVFcVRuYWtfNHJ2U09pby00Z0lMU0wzdEpxZ3YxQ1Y5ZHZIbUVlVVFaTGxzSTdFaGdqX1pHUGhZQlp3NnI5QkMtSnpfZm8tdHVXYzJjZGdmN3VWcTVwa1NHVi1ta1hFeHY1WEJQTmtGSTZLc2RfMXZfSUQ4c0ZpYklvZndndXRuMGU0SFpMWVBBcHlkRlhiUkhCNFMxUEdtN0RrQlhLQzR3?oc=5",
       "source": "Google News — Eagles",
       "published": 1768180200
     },
@@ -433,6 +427,12 @@
       "published": 1768053774
     },
     {
+      "title": "Kurtenbach: My 49ers-Eagles prediction — Are we sure this is playoff football? - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLUdqUmNJa19NakJkemtma2p1MGVIMjFtNUlucFRXU3hMN2xnUkthRFNfNWg3Mk9ieVZ3MXJxV3NWWF9QMHRaVzI0R19WejRteDVoZExSYWJ3dW1FLTBYNlBQSnh5TkV3ZnlMWUVEVHVkbWtKYnh1eGxzd2RxczJNZkRVV1ZtZjZVWHdJN2ZiNUUtQmNiaTdnMjM2aXJXWU03RUtjV3U1a3N1a1NOR2xsUXRkbWFLZjYzeDFMYTkwS3BjX0p1WTBzUmxWc3ZLXzNjTHRNWtIB2gFBVV95cUxOOFVVenhGazdVQk1VX2VUWlduN3dyYnV5OU9DRml4SVlvdkpIVlNRVjN4N2g2aW0wOEgzdktPbzlMTmswSW5sR2hkT3RYSFlHTkNBMi1aa09UTTNXYk9ldk5yNTdIcUJKdFVJTU9zT0NxWUxaZTd3MmZPeXZrcm9pb2thVzZxNVZrMG9XMjl5SEg4QnpPbEJVaGhHWGhqZnYzYndvXzI4RldmdG9YdVVaVm9ZRlFUNjBHa0R4c2RDQ1gzTzJhSEYxM1QzWDFwa1VtTFFhSTZVMGY2dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768050022
+    },
+    {
       "title": "2025 NFL wild-card betting: Odds, picks for 49ers-Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOODdPVDR5NFRBZ2htMXkzQ1kxWVpBYzEtOVR3SF9ETnBSVko4dDNXTkNZZk45OWNKanBIa1JOZ1ZDNE5vLWRVNVFwdWljNVRNaGxoVnlyRW5oUTYzRHpQTm1IYnZHQjFlUG5pZDRVdHVvbDFNd0ZEdkxxTW9UNElndDQzd1J3QVU1WjRoNkM4VFhQcUhrVGtlQ1I5RlNFWXc4QURBNjVtSzVacEc4MmdacVdFc2JrbUl3anNaREZseDM4ZnBsWXN4bVdCSmw2OEFYZjFHcHZrVEh0aXBFdVZBX3M4TngzVDNWX1R3eXJKMFE?oc=5",
       "source": "Google News — Eagles",
@@ -503,12 +503,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTNYa1FZSTNlQ3hnd05zeWM1MWhvOEJlelFRQ1dvUktyR3g1U2IxMEZ5Y2NaTkhRdFBlMEdhMWVyb3RZNWNNc0N5UGhTZ0ZVbWhFRjBuVFo1Q3dPNUlkNzc3RkVDdHZ6dmw5Z2dWaWpob0tXN2FZMDFkQzJ6cnNNY2xNV0xtZWlaUE5WVVEyU1ZvUUlwWi1J?oc=5",
       "source": "Google News — Eagles",
       "published": 1767686400
-    },
-    {
-      "title": "Spadaro: 10 reasons to feel good about the Eagles in the playoffs - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDE0WjJxMktQUkFZX1BrVlM2TjZXWldmbzhNT0R2SHpCelczYkRNMVFDSzRtSDY4UFRZQmk5UG44Nm5tYV95c2NEY0laRDhieXRpV1o0eHJXMXlWMkg1N29GQ0dSVEh5VjdHTUZ1UUNfT1dHTHBKRmxpUUZYQzdadEhGRzI3RThHbUEyZm9UZXFMdDg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767600000
     },
     {
       "title": "Eagles trade compensation for Bryce Huff, Haason Reddick now official - Bleeding Green Nation",
