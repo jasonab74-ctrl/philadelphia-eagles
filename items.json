@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-18T19:18:35.719126+00:00",
+  "updated_at": "2026-01-18T19:38:39.973847+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -25,12 +25,6 @@
       "published": 1768757151
     },
     {
-      "title": "Eagles offensive coordinator tracker 2026. Is Brian Daboll interviewing? - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSG11S2Y1cDI2MkM0RW5yMU91LURkOEZCS1VYbVpQNUREN3kwbmZtQmtKVGM4ZEg2bXAwMEdJb29NSnc0cjdUSEo3dXJ1dnlSZmo5VlVCcGVaYmNaNm82ck5yRnZqb2VNNEMtSXNCbnNEMHZ1bnk3WVRWanhhYnlhQWVmVWlBMy14SGphRm9NTFFidERFODluMkxYR3NqVlZfU2dNVTZ5MEx5cHJXbG44N1JsZmwySThHSExzZndBQUc4MjZxTzFZaWlaRG9iRFd2Z0lnOXBSZ05Ma3RqUVVzVQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768754580
-    },
-    {
       "title": "Michael Clay to return as Eagles special teams coordinator",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169241/michael-clay-to-return-as-eagles-special-teams-coordinator",
       "source": "Bleeding Green Nation",
@@ -41,6 +35,12 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFBkekc5aDlhTmRqak1jZU55a0t1QmlEN3dSUE00NHRpUkkxLTJjTGRzM0hSSDRyWFljNExWUGpnWDFxbjg3YWplQzR6NnVBNXJvOGVDcEZWQUwxQUxBQ3QyYUU0b2pCWnFwWGJWSWpuNFdjVXo0MGthTFpwYW85b0JmM2poMHMwaEZWY3FHRm9Oano1ODZWaVJMbV9HR29Oa3c5S2NyYzNfdDIzNGFwa0gtS09GV2poUHE3RmdQYnowVms?oc=5",
       "source": "Google News — Eagles",
       "published": 1768739802
+    },
+    {
+      "title": "Eagles offensive coordinator coach search, roster tracker 2026 - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSG11S2Y1cDI2MkM0RW5yMU91LURkOEZCS1VYbVpQNUREN3kwbmZtQmtKVGM4ZEg2bXAwMEdJb29NSnc0cjdUSEo3dXJ1dnlSZmo5VlVCcGVaYmNaNm82ck5yRnZqb2VNNEMtSXNCbnNEMHZ1bnk3WVRWanhhYnlhQWVmVWlBMy14SGphRm9NTFFidERFODluMkxYR3NqVlZfU2dNVTZ5MEx5cHJXbG44N1JsZmwySThHSExzZndBQUc4MjZxTzFZaWlaRG9iRFd2Z0lnOXBSZ05Ma3RqUVVzVQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768689600
     },
     {
       "title": "Eagles requested an interview with Colts OC Jim Bob Cooter, per report",
@@ -271,12 +271,6 @@
       "published": 1768189093
     },
     {
-      "title": "49ers 23-19 Eagles (Jan 11, 2026) Game Recap - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GR2RUUFpZX3NoTk1pdnBLb0ttbVVLUHVkcFh4MkZ4VE9HSHhuQnRqWDVtU3QwYmxaZHB6Zm1ETl80SzRxT29NSEpDd00xVmx6cVUzMGJLaXhIa3M?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768187475
-    },
-    {
       "title": "Jalen Hurts and the Eagles never figured out their offense — and now their season is over - NBC News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelVjUXZnZWVaaG1fZ3BuOWlQZGZnR1NlVTZwV0k4R1psVS1heU85bnpyOGctbGV6cFZlaXhwV3M4eEdSVEl1RVI3U0thUE5YdmI0RVVCUjFKT081VDVoUzNTdmU3Z1A3aXV3NlFkMm03T0laRDJ3RzQ0eXIzbFExalZ2SHp5QQ?oc=5",
       "source": "Google News — Eagles",
@@ -337,12 +331,6 @@
       "published": 1768180422
     },
     {
-      "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNl9WZlNwd2J2SVM2cVJlYUlvbmJTRHZVaXZlUzJkRTVFcVRuYWtfNHJ2U09pby00Z0lMU0wzdEpxZ3YxQ1Y5ZHZIbUVlVVFaTGxzSTdFaGdqX1pHUGhZQlp3NnI5QkMtSnpfZm8tdHVXYzJjZGdmN3VWcTVwa1NHVi1ta1hFeHY1WEJQTmtGSTZLc2RfMXZfSUQ4c0ZpYklvZndndXRuMGU0SFpMWVBBcHlkRlhiUkhCNFMxUEdtN0RrQlhLQzR30gHPAUFVX3lxTE9sS3Eyd0x3bkZ2QmZpYmw2Sy1IWmxCUmpXcHlzSXZnN3FZcGVwMEpxUGFUcWZHNGxEQTFRQlRYRnJwS0VDWk1kMWNob0ZTQ2hwZ3FvUEFmYUd4aHc4dXZwSzd2OVk3T01JTWcyZFNhcFprdElNdUhvMk90TExsejI5dGl4TXBoeGl0ckRNRV9tSGsxd25tM2tBOGlreV9LZV9wSzVVek50bjlUMmV2aHR5WDNuci1QVnYtTVcwR3dLRVYzM00wZllwWDBBbEE2SQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768180200
-    },
-    {
       "title": "49ers down defending champion Eagles in NFC wild-card game - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU1zd2d0Z3JpLTVRWGhFOTRLNlBEYUVCbkk1RjRkSWtoa1BrbHhTV05tMzJCNng4amlJZ00yOGM0dHFwbkdqUE5zRHJKRWVJSFB4bHd6TF9WMmRDVnkyVFNnVUJleXRnT1p1SGlQNGRwVTdIZFlfSEg2VHliM1JtOEZMY0wxWWhyYWR5aDVYV01GalF0NDBoSjR0aw?oc=5",
       "source": "Google News — Eagles",
@@ -365,6 +353,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlU0dVZKZDNqbGt0RTBuM0Qyb1g3SnVQVEVrRGg0YTB5ME9MMjZaUUZPX1JYNzZMcmhHUXRFd2ZhM3k2WWs4SE5seFZpMy1PbkVReW1vaGJmODhRczFqSXkyVEhzcHhKRW1QYTdmZGRDR09BdGhmbWt0OTh4N1dOWktnUEM4NEtJUUdSbUVtWThCcGxrWWRKbklNYnhWc2RELWpqTDBUNkpIVk5CNmpqUXlVeDFzUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768178271
+    },
+    {
+      "title": "Eagles' Nick Sirianni, AJ Brown scream at each other on sideline during Wild Card Round vs 49ers - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1c5azh3UGFXUnRDRkF4U0QzSFNEVld5Z1djR1hfVDZCb1VGQ3JSRjFiWUZDb1VtZGNsTVR6dkNzNGVSdnpxMzNVOU5HMjBRRmhfNDBDaUtudjNBaE9HRWI5OG1ONW9GdllNMEhneG42a2NwZTBSSEl2NjFsaVVFa2MwM2VFeUNES3hic2xwZnZLdTBkZ3RWSTNoUVBIOWRvNXl5ZkkzcGY5RzVYRkF5elk3OWlpUEo3cnhB0gHAAUFVX3lxTE55MTZlSXNvQXJnVFplUVJHMlI3ZnFLWElaTFdaTi1UX3NNRUY5ZDJ2S1FVR2hMdHNUb3lhRloza29FbWVxZEJGaV9OMlNfTTl4RTVtbnk4THRvYmIwSmRCb2xsSFplXzMybFRON0RZUjRKbWNlQWxFbTRBRjFPUXRBQm1OOHZKSkVDTjJ5MUY0aWg4QWotb3lGckdUSG5aeGtZd21NVHFOakJiVDRfa0ctV0JiWFp4ajB2cjYyT0o4bQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768177442
     },
     {
       "title": "Game Recap: 49ers 23, Eagles 19 | Wild Card Round - Philadelphia Eagles",
@@ -457,8 +451,8 @@
       "published": 1768032000
     },
     {
-      "title": "Trent Williams, Renardo Green Questionable vs. Eagles; Injury Report Ahead of #SFvsPHI - 49ers.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUpuYmFyXzRxUzh2bVVEU0RzcnVNZzFjZ0xVVTM2RGIyN2NRd3hsaXQ5MXAxb1hKeVg5UjVINW1oaHpMRmVJRkYyLVQ3OW5GbzlqTHVLTEdoYlJBcUF0cjAwcWQ3MVU1empNS2xrSTN2NHhYSnFFSE1MQU1mVGQxMHl1NU5aZnd0RURmOV9ZdThKdXgtblhSLU5waXVDcGJkX015cU0zd1RKSkxjRFE?oc=5",
+      "title": "49ers vs. Eagles: Three must-know storylines for Sunday's playoff game - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzM5MVA1MDN2RjBEb3gxMjVwMFVOZGZJSGZaSjc0cXIxMEJldElxNzM2MDhhXzNhRzJKZjZ0NVRyajF0WUlVVzZ1eDdrOFJHcHEtS0N4ZGE2d3VGYkhsU0xfdHJzcGdwT1lZTlZvZ0IxdERQcFppNFI4YWtvUWhDb2RqMDVFdXhxSExlLVlB?oc=5",
       "source": "Google News — Eagles",
       "published": 1767945600
     },
@@ -469,16 +463,22 @@
       "published": 1767945600
     },
     {
+      "title": "Trent Williams, Renardo Green Questionable vs. Eagles; Injury Report Ahead of #SFvsPHI - 49ers.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUpuYmFyXzRxUzh2bVVEU0RzcnVNZzFjZ0xVVTM2RGIyN2NRd3hsaXQ5MXAxb1hKeVg5UjVINW1oaHpMRmVJRkYyLVQ3OW5GbzlqTHVLTEdoYlJBcUF0cjAwcWQ3MVU1empNS2xrSTN2NHhYSnFFSE1MQU1mVGQxMHl1NU5aZnd0RURmOV9ZdThKdXgtblhSLU5waXVDcGJkX015cU0zd1RKSkxjRFE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1767945600
+    },
+    {
       "title": "Eagles Locker Room Interviews: January 9, 2026 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFdLVXhKYnA1cmNoVlBCaHVUSzdNNVVHRFNPV21MdE9NZy1fSEYwc181QmVZbXRZaU4tcGJBMG1teFFmQW5pXzI1akdZc3d4cW15T203MDZDb2MtYy1KV1B2dTRnVG5VNk5tLXlScXhZczhUbmo1bzRsZUNTaS0zMWZ1cUN2YUNTTWYwc1Bn?oc=5",
       "source": "Google News — Eagles",
       "published": 1767945600
     },
     {
-      "title": "49ers vs. Eagles: Three must-know storylines for Sunday's playoff game - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzM5MVA1MDN2RjBEb3gxMjVwMFVOZGZJSGZaSjc0cXIxMEJldElxNzM2MDhhXzNhRzJKZjZ0NVRyajF0WUlVVzZ1eDdrOFJHcHEtS0N4ZGE2d3VGYkhsU0xfdHJzcGdwT1lZTlZvZ0IxdERQcFppNFI4YWtvUWhDb2RqMDVFdXhxSExlLVlB?oc=5",
+      "title": "49ers-Eagles NFL wild-card playoff preview: Philadelphia's quest to repeat starts vs. San Francisco - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalVITUhLRTNGODluZThfa3RUZENRUmFKTUdkMG5Cd2xOY1l0WHBLWHNyMXV2N2p1WHNIbTBkcVMwbjcyUURzUGJzSlo5R3JtNzBQMHd2b2pFaHRsYkFzeGRKbVRUVXAzSElUcW1xX2RlSnlNUTFKd0FHdmtqdVQyYTJ5Zmc1WXJLOG9mYnlyWk9qV3ZXaElQUjdlOE1ic2FfTmtvQS00OTBtdTV1ajlNc21NYjZnV0ppbVQ5dkYwWXR6OHJUMTRuSE9Qc2dzQmp2LXJWMnNSdWRGdzB0TVVEYmlR?oc=5",
       "source": "Google News — Eagles",
-      "published": 1767945600
+      "published": 1767859200
     },
     {
       "title": "Buckle up, Philly | Brandon Graham pens letter to Eagles fans - Philadelphia Eagles",
