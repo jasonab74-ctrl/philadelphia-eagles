@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-20T15:35:08.414961+00:00",
+  "updated_at": "2026-01-20T16:39:29.528104+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: A.J. Brown trade predicted by NFL executives",
+      "link": "https://www.bleedinggreennation.com/news/169342/eagles-news-a-j-brown-trade-predicted-by-nfl-executives",
+      "source": "Bleeding Green Nation",
+      "published": 1768925389
+    },
+    {
+      "title": "Eagles Offensive Coordinator Candidate and Rumor Tracker",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169220/eagles-offensive-coordinator-search-tracker-candidates-rumors-nfl-updates",
+      "source": "Bleeding Green Nation",
+      "published": 1768919964
+    },
     {
       "title": "Eagles-only 2026 mock draft, version 1.0 - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR21DdVhxbG1YLU5SRS1sY3R3WVQtMU96X2VFM1dqaU5nTWlyWFhmVDJ5b3JvWjA2eXJtdUI5UFhkbkJpRFp3alJieU9VZjVTTG0weHNoUXJkZ0FkTmF0VU5WV1N2Z3NwM1NONkl1V19QYVhGNW9zNjRYeU5kdjMtaEdSYzUybHBvYmtpaVBUanFvQ0xPVVg4cW4xUHNOckZkb1RLM21uU2VlaUdnRThIUjBULU5UUVZ6SXhOZ2s5aUk1UQ?oc=5",
@@ -23,12 +35,6 @@
       "link": "https://www.bleedinggreennation.com/news/169322/ranking-19-eagles-offensive-coordinator-candidates-by-tiers",
       "source": "Bleeding Green Nation",
       "published": 1768873998
-    },
-    {
-      "title": "Eagles Offensive Coordinator Candidate and Rumor Tracker",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/169220/eagles-offensive-coordinator-search-tracker-candidates-rumors-nfl-updates",
-      "source": "Bleeding Green Nation",
-      "published": 1768866313
     },
     {
       "title": "Let’s try to have a nuanced conversation about Jalen Hurts",
@@ -127,12 +133,6 @@
       "published": 1768647600
     },
     {
-      "title": "Philadelphia Eagles' offensive coordinator search: What to know - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnFDWHNyLTYzVXJmbzlwR1FFUGFEUmNENUlsOHh3a2ZDWENobUdOUkxiZmZFSXIyQnpPT0RUbEQyQXYybXlxZC1DcWdFb0dPeGdVZEZNZnYweHNCcDV5MlN4WVFUcGhnUU43UE1uMlVtWHloelFPdWs4bjVxMy15NVZWYkN6LTVSNWJDam5EUW9Jc2FYN204OFVxNnIzUlg0djRBdENuTFVSMzMtTTZuSDZDRTRVbzNKNk1CbWdSZ2pGZV9VdzljRG1VQWpyVzZMcnFVZXhmWklNcVBnVk1j?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768611420
-    },
-    {
       "title": "Eagles reportedly hold 1st known interview for OC job - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1ozN0YyNFkzT1BxT19vLXZOZnM2S3pZWnZfOVV2R2tSMVF2WElaZm1UaEU1a1ZKRU11c1haYjU2RnFTeFo1c0ZoRWhRV0VWdTBmRXhGdGc5R1JIcko2R3FhVVhCcXZIbjlrWmgtdHMxQ2ZQT3JOWXNnZlJILTdybXc1RFJySnNndjhNM01lTTU1VlVmM05ReVJDQ2w1blBqd3RCV0NWLUNFdEZteGJrNU9xcGJsUUlCTUNCdXVzMGtXTUFDZGd2d1hscEU0Nm50U2fSAdoBQVVfeXFMTnc0RVVVSWZ3R25UUkF3TnNKRzd2WjhtTkVIeXphWHFYck56eXlXSjl4aFFQYUJQc3dTZzlPX3hGRDZTRUVZY0ctWWlLZEVSdXU3R3p1UmpiVWh4dVpPM2VPMGVJUU1RaDg5dmVyTHJHcmIwWXM4eVhEWHl1c0pxNjc0N3JVWkx0ZjNFV1BKeXNjQ0w5cWlVTmtBVWhsV3lKRGxmX3RHZTBwRW1yZFlNcXNTcE5tUjV1MXlSUm1ubUlqUG5qTWFMelQtS25QODJobnBZZUZ5ak55RGc?oc=5",
       "source": "Google News — Eagles",
@@ -209,6 +209,18 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHFlUXNaWno1M2NpX3RjbmR2c1gwdktmajcycnBtbVR5dEsyQXhZZGlhUUhNR2VfVS0tYmNTSUlZbjU0MFpHMUZsZzZFSTN1amw5eU1JQVRqTnVFRkZNaHU3TDlDa2lmOFgtUlF5NkZhWHREcGtkY2FYVGZqdmNGWGpPZS1SaUFua1RpTWlQck9Sd1Zrbm9TN3dKMnQ2dmFsTmNBOGY4Z0h5WVZuaTB5NmctOEgzdGRUTFg5NzBsTk43VEtURHh5TTdGZkF4dVVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1768406884
+    },
+    {
+      "title": "Eagles most pressing needs following another early postseason exit - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVk2V2pzaEFPQkoyNDd5Z3ZVVjNoQ0ZBM05ES20taG5acXd0M2hyNjg3dGFXUm5kR2FkcWZCY19wMFE4TVk3MmFUM1BXQ0tLalNmMU5UZU5STFdoM2FQOXJmRlI4Ul80WmFiVDEwQkVKZ0JiQ2ZzeEhLMTNydURIYlcyTDF3UXhnbU9ZRHFjY0JpRE5NVU5QU2dMaHMyT3RXVVMzUlZ1X2lvcFhTYm9FazJzRmRjb0pwYm9LVGVfbE0zaThBVkQxYlpzNmhLRU5qb0I5TUo5WEVvZFBJODNLSTFuQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768395667
+    },
+    {
+      "title": "Who will replace Kevin Patullo as Philadelphia Eagles offensive coordinator? Here are 5 names to watch. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU0pmdDZGLTJjRHI2STRHUVFIdzd6X0s5RVdEZ1BiOXFfcnFRU0Z6V21wSXEwd3hpT0hYR2tTUld4N1ZteUVISUd3bXJ2ZndCeVNUTGpJdEpfcjU2Z0t6cWJ0SzBJZFpsVkR5dVFuOGdncE1MbUpoOV9INURjXy16YVVLSkxadWpMOEZJa2RLcw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768356612
     },
     {
       "title": "Eagles offensive coordinator search: 12 candidates to replace Kevin Patullo - The Athletic - The New York Times",
@@ -367,16 +379,16 @@
       "published": 1768182751
     },
     {
+      "title": "Demarcus Robinson's Best Plays from 111-Yard Game vs. Eagles | Wild Card Weekend - 49ers.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlpKMDVySF9XT2VZczRBYnVmZWM4VGpObFVzeGpIVk4wbGg1RjkyNWZCekV5OGozMW5HYjhsNHJrU3lka2o2UXRiQlh6MG40X3lWVllBaF9Cam8wZ3FpS3dtSjduSGo1STBrckJ0c2ZPNmI0ZUotLVExMmhuaVJJaTB6Z01LREppQTc4dTY4d1ZDX3dER1V0QjRiTGE0a2ZkRXZ5RlNPNHg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768181858
+    },
+    {
       "title": "Highlight: Quinyon Mitchell jumps Brock Purdy's floater for 2nd INT of game - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlU0dVZKZDNqbGt0RTBuM0Qyb1g3SnVQVEVrRGg0YTB5ME9MMjZaUUZPX1JYNzZMcmhHUXRFd2ZhM3k2WWs4SE5seFZpMy1PbkVReW1vaGJmODhRczFqSXkyVEhzcHhKRW1QYTdmZGRDR09BdGhmbWt0OTh4N1dOWktnUEM4NEtJUUdSbUVtWThCcGxrWWRKbklNYnhWc2RELWpqTDBUNkpIVk5CNmpqUXlVeDFzUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768178304
-    },
-    {
-      "title": "Stout Denies Eagles on Fourth Down - 49ers.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMUVlOVEyWXpBMVF0TF9ZLWUwSGt3SV9DeEtqU3otem1CdUJaYkdpU2dJdlFjUm1KQnZhU1Iwa3I3V241QUJndmRyR1lMMTNFV0hsR0htUzNKZmRsd2t0VlNzUEdqamlzbERnRGhFNFcyYnNDaURwXw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768171387
     },
     {
       "title": "49ers 23-19 Eagles (Jan 11, 2026) Box Score - ESPN",
@@ -483,12 +495,6 @@
     {
       "title": "Handing out 10 awards from the Eagles-49ers playoff game - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGE0bHg2dGtBMjRDcWREMVJvbHZXQklLV1QyM1VVZFFjc1BlVXhtSG9WMmtLNG5EYlhlcS1uNnpVdVhydEdITl9fRlpnUlpGczJUaHRiV2NMNzNHUE51a2NqY1BsZENiS19Ha3o3X19OaktQaU55SWNKV3VreXotaFY2UXRveU9CMVNGN0p3dw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768118400
-    },
-    {
-      "title": "The pivotal plays from the Eagles' season-ending bow out to the 49ers - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTVwdERxbS1SYWYyLUJIYkJQQ1d5QWdZNllqREp3emRZSzZ1RWxnN2JtMFd1QWNFd3U2MHJFdjd2NkFKcUV2Z043RmEyeVMtbzQyS3dKVV9mMDlTTmRMeGZtZDJGUGpWLVFvRmNjU3ppYmkwbkpicmZIT3JnaHNCY0V2UTZXSzFXNjB6WW9YRTM4RENqVDF1a1E3RjVaUzRuTVZNZ2lwekRaMDNIN3FYX3FSZnUwRDkzWVAxeDA5SDd0a2o4Y1BoaG9aUGo4MzM1Vl92VExOVEdPTWRuQjlwTA?oc=5",
       "source": "Google News — Eagles",
       "published": 1768118400
     },
