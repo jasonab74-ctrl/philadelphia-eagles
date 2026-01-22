@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-22T17:31:58.287247+00:00",
+  "updated_at": "2026-01-22T18:38:10.200935+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles reportedly lose Christian Parker to the Cowboys",
+      "link": "https://www.bleedinggreennation.com/news/169466/eagles-reportedly-lose-christian-parker-to-the-cowboys",
+      "source": "Bleeding Green Nation",
+      "published": 1769105814
+    },
     {
       "title": "Vic Fangio is a finalist for Assistant Coach of the Year",
       "link": "https://www.bleedinggreennation.com/news/169459/vic-fangio-is-a-finalist-for-assistant-coach-of-the-year",
@@ -103,12 +109,6 @@
       "published": 1769011608
     },
     {
-      "title": "Brian Daboll reportedly won’t be the Eagles’ new offensive coordinator",
-      "link": "https://www.bleedinggreennation.com/news/169394/brian-daboll-reportedly-wont-be-the-eagles-new-offensive-coordinator",
-      "source": "Bleeding Green Nation",
-      "published": 1769008383
-    },
-    {
       "title": "Will the Eagles trade A.J. Brown this offseason? - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWFuMTBWb2R5U1AyazBUVlNTZkRobFF3eUNXXzVUTUViLS1tcGdjaVowek5DQTNvT3ptS2o2NmV4SjdaWTBfX29JYUZ5XzR1aE1WT0luRFNrOWYxOWNwT2tqS2FtanpBYTNRQXdtSTR1ZnFZUmdhRkozRWNOY1hYOXU3Y09maTN1bHFnTklUYWF6WldFYW8zX05raHlGaUVYUFBkNXJUYndGM3FuNE83ZEFub0pva0NscGc?oc=5",
       "source": "Google News — Eagles",
@@ -155,6 +155,12 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1VIME9ub3FzQ2NhNXhQVXY3cmNhWjM0S05wTExKbWNfcDZnLV9MY0RzQVhGaW5NQ2M2cWg0VWFzNkt2eEphOVJWV2F1WlZKZUNldEkzLW56d0Rpc0c4eDZFTmpndG5adGVEOXh2YWpjZlVtU1JZa2FMRWZBNEpmOGhjMHRhYUhaNENPU0ZFQ3dTdFRuREJGZkREa0ctZ0R5Vkw0UDRxMjVzd3B0ODlVRWNNa2FQTzBiT1laOUVoX0FVLW1wX1A1UkJ2NWpidFnSAdcBQVVfeXFMT1hVYm9JVllwckVLa2k2RGZ0VkEzeDJIR3Q2UDhkS05tSzdvUDRWcnlvVm90a2l3WUpfYUFBaVVkV0dQNEhoOTJxQ0ZFcXBKSXZGSDhiODVNVDBqRTlxUU9DcF8yM0RTOV9HeERDUEVCWXlCak5zVVk3UjRmMXBYMXlYNWhvZjMzeVVJVVZIa01odS1ySUxmcVI4UktTOWtCai1UeGtqcHp4MDlsU3BJcEQyVXFmWmlVbVpKbVZNZnNZQlVQSVE0QUhzaE1QZ0xqUFdxNXh3ZVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1768834948
+    },
+    {
+      "title": "Report: Eagles requested to interview Dolphins passing game coordinator Bobby Slowik for open OC job - phillyvoice.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUJZZzUyT1BhczIwOUpfQXVxSzNTMDdkZzNmMnViaFpBNThRcmd2cWlCNFl3Q3J1UW1JUWVoR0E4RE1LMm1qUFRlSDRnQ3N0dmlodDFxMFFHYnU3SERub3pTSGt2bTRjaVU1ZVpqUnRWMTQxUG0zM3NTRnV2UlZKNlNhc0luYXk5UTFTNjZ5QjNnTUtacnVNNWlQZHlVT0JLVnBvUHhhdnVNTFVsRFZENHRLOFVjSVRmeFJtb2VR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768832576
     },
     {
       "title": "7 Philadelphia Eagles that could land a contract extension in 2026 - Eagles Wire",
@@ -223,6 +229,12 @@
       "published": 1768564800
     },
     {
+      "title": "Women's Pathways forging future Eagles success - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVVtRkpwLV8zRzU5VkhOZW90S05KU2RlYjFaWDVJbXFnOHNqck8xZHFjYmFPd0xJd3VBdEZCQXU3bGVQcUhFWU56dFdXS1NZVm00RXBBaWpycS1XNzNzVWVvUWgzV25wSHhQeHdPUnl2WlJMWF9PUHQ0ODlpUllkU2Q0Y3F4ZU9QVnlGMDB2cWw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768521922
+    },
+    {
       "title": "Howie Roseman downplays A.J. Brown trade talk, says Eagles WR is 'great player' - ESPN",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHR5U01kbFBKTjNZSXFmaTE0T2pYTFJpQmUxX2VCNElqVFZoR3lnbTB2OS1YUktrU3RFOVpfS1llRXd4bzJBeFRtR0VFMnNGVWd6ZlhrcGdrR1NHTERiNUhHRDNLTXdpWGgtVDhKVTZhdVMzcmVDRHliVHd1VEZPb3djTEJsYU1tOWMxTnpyOG5vWWdsN1cyZDRZSHIwQjVBb2hCYUVuN2JhRE5QV1lXSmczaFZRZjQ?oc=5",
       "source": "Google News — Eagles",
@@ -265,12 +277,6 @@
       "published": 1768414374
     },
     {
-      "title": "The Eagles signed 11 players - phillyvoice.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNnA5YnQwYVRsM2tIRDRoS1pUSjNvTDRoeHV3XzBwWFU5Z1M3dWVpaDd2VjBzXzM2MzlIWEtVYUt1N1hUTTFrMl9VcUQ5NE5PN0pXZlg2dzUtcWRIWXNvTkJITG8wbnYxTzJZemNPd01iNWlOQlhyVzdrZXBEUkVtM1AybnRsUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768389374
-    },
-    {
       "title": "Eagles offensive coordinator search tracker: Yet another option off the board - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXMySVF6c016MkV6VmpDQ2FhdGRIZ0tOQjF2aV9KX096TkFxU1VodVJITXcxdEpZanRyd0VaeE93V2p6Qzh4blV1Rm5KSjR0OUpxNHVRYXNqRVBEbk5uMGVaQzBoUmd2QktpajdlaTBITzFmNGozVmZIdHRubXE2cDd5VFR4UWZzemNsQTVHSWpicUdLc054YTIzMlBiR3ZLcmQ5TWxEZFN1UmV5bWRtc21VZnRCaWdxVmVKLUFCWUZ2a2tOemVTRld5UDQ1QnlxYkVpcWpaUnlyZ9IB4gFBVV95cUxNQjNGd2t2YzlSOVBhZHk1dHloYTJ5Z2pWRlh5VGNiZElMUkZ1WmFOOVQzN2xZcVR5d0VzWWtJekFpeHF1ZEtWd3c0d0d0dEY4d3NCUkdyZ3pDdmxELTVMTldjR0QwYkZXNWFQU0xZdnR3LXhxYXlnLTU3TElaWHdQTmlYRUNRVnZQY0tIQ1J5WXFuMnFpVThpZHBSbHkwV3ZFSW4tRllXUFJOM1F6TVp1TnVsNmhoUlFRNTEwY0JkRlNPWkd5TmVxaE03Qkw1UXd6Q3NscUdiZ2ZPQUdTWWwtTnpB?oc=5",
       "source": "Google News — Eagles",
@@ -283,20 +289,32 @@
       "published": 1768377600
     },
     {
+      "title": "Spadaro: The Eagles look ahead to 2026 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXYxalAyeS1lTnlkcDUtVEhZU0E0MkdNV3dOMTRRMHUzWTNCMUVyOHM0VW4xVkxodDdwanlwVlNFQVUtSWRnMlBDWFNTaHF4d3k0VC1nSV80Zk1Fb3VzaTVHMmEzV1Y0ZFhjOFQzRjEtTXpLV2JESTJZOTJieW9MNUZOb3ZpakdjUWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768291200
+    },
+    {
       "title": "Eagles announce Kevin Patullo will no longer be offensive coordinator - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0E5WlZERlVLbXBTdE5OME0tTklPcnFEZTlQVlNoZjVuUDZiYzVWdldOR3lUYkFtNG9GZldMNWdkWEZYVmxVc3daZXJzMUYyLXA2X2R1Umxfa28yNDNFbEpfczBzMlpxWmx0Z0FEeG1iNkhFRmt5NFdacy1PcG1qR2ZNNV9EOElxb0h4SkZxR1RfdXMwaWZRLTl3?oc=5",
       "source": "Google News — Eagles",
       "published": 1768291200
     },
     {
-      "title": "Kevin Patullo no longer Eagles' OC after offense's sharp decline - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0QzdHhSNjF6VnZIbFNNY2JQTlB6TlJpQVFmVWM1TzlReGpkSHVLTnp3NWd6WGRzdFVQcXJ2R0RleEtSbk5yRW4wcjFUbzhVcFpTWW9tdU1tRGNhclQ3MUd2cUp0TW9aVndTUXcxbVBnVzZMYUpSYWp1YW0yZ0NrYnlWcUR3bmxDV0xEaUtWR1VLQ2E2Y2JNc3Ytdw?oc=5",
+      "title": "Eagles make change at offensive coordinator - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzdNRE54aWJvbmdXN0VKWWdHWlVEUFZvaFJhNjlOTjZxb200WWhZWHJ4WG0wX2t4cklQc1A4NUdiUlV3TmpQck94RlFUZm1qeXQyVnlDVzNFcERTTEdxeTk3Tm9ZTzMxMmJVdzMxeGZSY25GZXJxZjh5eVU4bEY3bFRabG9EQlRoQ3NETFhfUFoybmFQMkpjVXVjVUVTZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768291200
     },
     {
       "title": "Eagles sign 3 players to future deals - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemVKWFo4UTJVTDF2MkV1VURrM0VIcHVGUHpVUk5MNVRXaUFKUHJlY0VTV1QyZF9WVlluMDQ2MFY2MjdTb1YyU3VMNlJCaGpTV1ZnanYtQWVocFpxaWRSQmZ3cXJUZUNvTUJwczNRMkptRncwVU1FV29Zd2dSSUdUQ1RtTWtqRUoyLUVJVHEwellqVVhzc0ZyUEo4U0M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768291200
+    },
+    {
+      "title": "Kevin Patullo no longer Eagles' OC after offense's sharp decline - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0QzdHhSNjF6VnZIbFNNY2JQTlB6TlJpQVFmVWM1TzlReGpkSHVLTnp3NWd6WGRzdFVQcXJ2R0RleEtSbk5yRW4wcjFUbzhVcFpTWW9tdU1tRGNhclQ3MUd2cUp0TW9aVndTUXcxbVBnVzZMYUpSYWp1YW0yZ0NrYnlWcUR3bmxDV0xEaUtWR1VLQ2E2Y2JNc3Ytdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768291200
     },
@@ -343,12 +361,6 @@
       "published": 1768204800
     },
     {
-      "title": "Only repeat for Eagles this season is offense’s dry spell, with offseason changes looming - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0pzcklISmxvRHFIQklIU1U0b1Q1MUFYSHBwZnI0bk5XNnhWdWtxOGFSbTBDcHZqbTRrWVZ2dVdZVFlkNENBVDRiVWJOT2JFR2p2R1dPYTYweDZ6OEtOUnpndWxMUlQyU1c2SGZwSFB5aTlubU5mODRGTGxJY2I0Zm1JOGh3TjZtQ1NBU1lxSVpQeUhYYXNZa2ZLWQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768204800
-    },
-    {
       "title": "Eagles offseason to-do list - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFJIeGtSN2FCdGh4NURTME1WMzRCR0NYUE5ITVEzRDA5RjJaeGlCZExsMFdSYWNDbldaVTRUVDE4MlNGZGdiRVdMNC1ydU9CbUNOak83cER3WGUxOFVTNk1xMDEtSDZ0T1phV2lVSzdSV2RsRjB1cmVNUTJIUHFkUzU2ckxlQlpVZnJ3WS1mMzA2MUIxVzhIZkJidVlIYzNUbU56WDFGNUlmZENzaGN4NG8tTmpDajBSLUh0WllwODF0TUE?oc=5",
       "source": "Google News — Eagles",
@@ -361,20 +373,26 @@
       "published": 1768204800
     },
     {
+      "title": "Only repeat for Eagles this season is offense’s dry spell, with offseason changes looming - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0pzcklISmxvRHFIQklIU1U0b1Q1MUFYSHBwZnI0bk5XNnhWdWtxOGFSbTBDcHZqbTRrWVZ2dVdZVFlkNENBVDRiVWJOT2JFR2p2R1dPYTYweDZ6OEtOUnpndWxMUlQyU1c2SGZwSFB5aTlubU5mODRGTGxJY2I0Zm1JOGh3TjZtQ1NBU1lxSVpQeUhYYXNZa2ZLWQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768204800
+    },
+    {
       "title": "Eagles players defend OC Kevin Patullo after loss to 49ers - ESPN",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW9STUgtVC1ncnkxRk1aSC1ma2ZOQ2luRjcwVXBoS2gzRk1KdHFwUkFrcUhNMzFWZ1NqNGVSRno5dmhXWG5VMmRLdGJydURzS3RCT0hMY1lxSTlQSHFMQ2lSVUlrRTlOWHV1TUhrYk92LVhUaEE2Ry00ZEhXLXRJZkUycmpvakhmQkctM2Fwc2dpbFlpOGtrR0RucjhyNWZ2LWRsaHRDWGJWUlhuT2xHRWtB?oc=5",
       "source": "Google News — Eagles",
       "published": 1768204800
     },
     {
-      "title": "Meet Sam Salvo: Viral video turns 11-year-old Eagles fan into online sensation - 6abc.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUVJQTG55VFJEODhiTUZFXzI0cnhWX3otWU9tUnEzcXNGZzJLME1MMmJyQnprdUZoekRCeXRHQXJoUk1KTUtRNUwxSmxyYTJsRnk0ZExZZ1VqVnE3QUMyTlliMXVDbEpCQnEtOGJDSWRVNE5hMzFFNWpreDMyUzlVUklpRHlfZ2oyQnpVX1lQQmRWLTBrNnNyMTNUUlFEWDR4Y0R0UGY2Z9IBrAFBVV95cUxPUW1hS1oySWttNmI4Vk1PYVRYeVJ0Q1lEeWdzZWdHQmVqOGtYc1l1RFA5dkhsSHNsWEMwTjJzMU8zUS15bXpxS01fMkxwb29SdUkyclFWdVhpU1hkNVlVM2NYVFlyV2NRTjFKOE41dEFoSUpzalUwcXVybGJoUmlld0xFbS1DR2lPQ0pZUWtRd3NkcHBMQ05PNWM1LWl2ZlFQZ2tYSUhXWDE4LVNq?oc=5",
+      "title": "As 49ers wreck Eagles' chance at Super Bowl repeat, where does Philadelphia go from here? - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQi1ZZTFjVjU5UV8zcE5DbmtTSG95SE9oa0ZXcnNWVlVHdlFKRGJ0bzJad1RPVUwzTGZadlM2U1VCZEZWeHJPdXVzRVAzSGdBdlp1bFdweEQtU1p3NmZGcjhIeEp6Q2ltSVpPTXFPX3RUVWdCYWlQdk1Lc0NHR2J3S0NEbGdKT0ZzN2xCbWNOb1JLMnQya2hySjI1ci1PeHVITktJX1RUSFU5WVdsVWk2Y3dSb20xVndfWFVoQ0RUUnFVQ0IwTklhZkdzWUlwSFlpYWg1bg?oc=5",
       "source": "Google News — Eagles",
       "published": 1768204800
     },
     {
-      "title": "As 49ers wreck Eagles' chance at Super Bowl repeat, where does Philadelphia go from here? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQi1ZZTFjVjU5UV8zcE5DbmtTSG95SE9oa0ZXcnNWVlVHdlFKRGJ0bzJad1RPVUwzTGZadlM2U1VCZEZWeHJPdXVzRVAzSGdBdlp1bFdweEQtU1p3NmZGcjhIeEp6Q2ltSVpPTXFPX3RUVWdCYWlQdk1Lc0NHR2J3S0NEbGdKT0ZzN2xCbWNOb1JLMnQya2hySjI1ci1PeHVITktJX1RUSFU5WVdsVWk2Y3dSb20xVndfWFVoQ0RUUnFVQ0IwTklhZkdzWUlwSFlpYWg1bg?oc=5",
+      "title": "Meet Sam Salvo: Viral video turns 11-year-old Eagles fan into online sensation - 6abc.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUVJQTG55VFJEODhiTUZFXzI0cnhWX3otWU9tUnEzcXNGZzJLME1MMmJyQnprdUZoekRCeXRHQXJoUk1KTUtRNUwxSmxyYTJsRnk0ZExZZ1VqVnE3QUMyTlliMXVDbEpCQnEtOGJDSWRVNE5hMzFFNWpreDMyUzlVUklpRHlfZ2oyQnpVX1lQQmRWLTBrNnNyMTNUUlFEWDR4Y0R0UGY2Z9IBrAFBVV95cUxPUW1hS1oySWttNmI4Vk1PYVRYeVJ0Q1lEeWdzZWdHQmVqOGtYc1l1RFA5dkhsSHNsWEMwTjJzMU8zUS15bXpxS01fMkxwb29SdUkyclFWdVhpU1hkNVlVM2NYVFlyV2NRTjFKOE41dEFoSUpzalUwcXVybGJoUmlld0xFbS1DR2lPQ0pZUWtRd3NkcHBMQ05PNWM1LWl2ZlFQZ2tYSUhXWDE4LVNq?oc=5",
       "source": "Google News — Eagles",
       "published": 1768204800
     },
@@ -403,18 +421,6 @@
       "published": 1768204800
     },
     {
-      "title": "Highlights: Saquon Barkley's best plays from 131-yard game vs. 49ers Wild Card Weekend - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnkyZXA1WDRxR3BSRExkaE52RnIxVjYzLWU4U2JMYUkwODVuWVRJYlV4dVFIcmJGUU85NThKb1RVZnhWVFVGSzNTNENuQVJYTEEtYnVUbEJwYXhTMGRRajVld01xYXVIbVBxRHFWTUtLT1J3SWVyVk1zQU5Xc2lPeUI5ZWJhekphcUl3S1h5UzVPdXZOc2I5R29sQk1PYVVaZlJnazduTzd5T2swMTdTajlYLUVHODQ3cEQ5QmZkMEprdU0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768184585
-    },
-    {
-      "title": "Shanahan Credits 49ers Team Effort in Playoff Win Over Eagles - 49ers.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVpMdkhNRlZkajFiNEdUdTJ1SjEzQVF2VlBGc0wzenoxaUlXNlotUVczS1k4T042VzhReEUzU19WVjFOcVNtNG1sNzJvOGprN1Z0R2FjempaZ1hqUXptSTkwUGFYMWx1cnQ3UXd4NGwtRno0UHFoRl9uMV91TnVxQk5md0VGejVi?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768183025
-    },
-    {
       "title": "San Francisco 49ers Top Plays vs. Eagles | Wild Card Weekend - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHhiODMtYjNpZjhFYXhjSFNwZ1M4VmU5WDNraDVqU1duVFF0YUoteVhKMFhtTlZEbnJncXBXN1JjZ3NZWTl6czJhR2U3TmJsOWZlb2g5V0FDSmc4V05RSE9uUXdNeWJtcmlhNkNZMHo2akZyTEExLTVRWEpjV0ctcEpXZkxFWElfVlRVVGFB?oc=5",
       "source": "Google News — Eagles",
@@ -425,12 +431,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlU0dVZKZDNqbGt0RTBuM0Qyb1g3SnVQVEVrRGg0YTB5ME9MMjZaUUZPX1JYNzZMcmhHUXRFd2ZhM3k2WWs4SE5seFZpMy1PbkVReW1vaGJmODhRczFqSXkyVEhzcHhKRW1QYTdmZGRDR09BdGhmbWt0OTh4N1dOWktnUEM4NEtJUUdSbUVtWThCcGxrWWRKbklNYnhWc2RELWpqTDBUNkpIVk5CNmpqUXlVeDFzUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768178304
-    },
-    {
-      "title": "Highlight: Quinyon Mitchell intercepts Brock Purdy's errant pass - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ25wcFBxMmNiUjRoSWg3d1c5WE9JeThYZ1FEVDZGZzhIT1NKcGk0cDZQY1U5VFk1RUpXNUlGNC1EOExWWk8xelRpVWFsXy1OUjFYcE5peDU1T05STWlEZHNWRFE2VHQ4SnRNX1NHMDN0UndIdklqUmVqX0hmdUE1aEZkOG5JQTZiSEUzWTRqZUNTY3BZOHRnYnc5eEJiUERUMlNGbW15NA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768174992
     },
     {
       "title": "49ers 23-19 Eagles (Jan 11, 2026) Game Recap - ESPN",
@@ -511,6 +511,12 @@
       "published": 1768118400
     },
     {
+      "title": "Roob's Observations after an excruciating Eagles loss to end season - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNl9WZlNwd2J2SVM2cVJlYUlvbmJTRHZVaXZlUzJkRTVFcVRuYWtfNHJ2U09pby00Z0lMU0wzdEpxZ3YxQ1Y5ZHZIbUVlVVFaTGxzSTdFaGdqX1pHUGhZQlp3NnI5QkMtSnpfZm8tdHVXYzJjZGdmN3VWcTVwa1NHVi1ta1hFeHY1WEJQTmtGSTZLc2RfMXZfSUQ4c0ZpYklvZndndXRuMGU0SFpMWVBBcHlkRlhiUkhCNFMxUEdtN0RrQlhLQzR30gHPAUFVX3lxTE9sS3Eyd0x3bkZ2QmZpYmw2Sy1IWmxCUmpXcHlzSXZnN3FZcGVwMEpxUGFUcWZHNGxEQTFRQlRYRnJwS0VDWk1kMWNob0ZTQ2hwZ3FvUEFmYUd4aHc4dXZwSzd2OVk3T01JTWcyZFNhcFprdElNdUhvMk90TExsejI5dGl4TXBoeGl0ckRNRV9tSGsxd25tM2tBOGlreV9LZV9wSzVVek50bjlUMmV2aHR5WDNuci1QVnYtTVcwR3dLRVYzM00wZllwWDBBbEE2SQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768118400
+    },
+    {
       "title": "What channel is 49ers vs Eagles game on today? Time, NFL playoff schedule, streaming - oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ011aVowUnp6Y2trcHdlZjhsbjcxc2FFVFhFaTAydXE4cDVEbkk5ZTV0bll2Z3huNHUzc0kxWGJhMlBOVVRkeXY5WXh6S1JoaXhZRFpSZDNudkw2MDV5Q1lVYTBsMC1MbVBHMXpaLTE1aGNGVlU1d284Q19Rb3VicGxaS2taQXlzZXlPUlZQc1E1bGdOcU1rdjgyd3NjeDR1RjNnODJleEEtVjNfWlBBd0hnYTZ6cW9ZQ0xHSVZrUXhNRno1R2g5dEJHUG9jWDJNaFl0S251OGR6eVdlLVExSg?oc=5",
       "source": "Google News — Eagles",
@@ -531,12 +537,6 @@
     {
       "title": "Ways to Watch and Listen: 49ers vs. Eagles | Wild Card - 49ers.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGtNMmhHMV9hUDE0eFFxMEhKdVNJdHhSS2c4MkFrVkxKbXVwamJLbEN4aGtqUFRzdl9acUtMLW9oS0YxZU9VVWxFeHhkTUgyaDV6Zk5nUXRjUjhzYjRqd2trekM3VHNFUkdESHBPQUw3RnMyVGkwdG5KRlJtbG11TnMtUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1767945600
-    },
-    {
-      "title": "Trent Williams, Renardo Green Questionable vs. Eagles; Injury Report Ahead of #SFvsPHI - 49ers.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUpuYmFyXzRxUzh2bVVEU0RzcnVNZzFjZ0xVVTM2RGIyN2NRd3hsaXQ5MXAxb1hKeVg5UjVINW1oaHpMRmVJRkYyLVQ3OW5GbzlqTHVLTEdoYlJBcUF0cjAwcWQ3MVU1empNS2xrSTN2NHhYSnFFSE1MQU1mVGQxMHl1NU5aZnd0RURmOV9ZdThKdXgtblhSLU5waXVDcGJkX015cU0zd1RKSkxjRFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1767945600
     }
