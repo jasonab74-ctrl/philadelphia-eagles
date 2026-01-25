@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-25T14:22:28.456854+00:00",
+  "updated_at": "2026-01-25T14:44:24.021383+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: An improved Jordan Davis believes he can get even better",
+      "link": "https://www.bleedinggreennation.com/news/169552/eagles-news-an-improved-jordan-davis-believes-he-can-get-even-better",
+      "source": "Bleeding Green Nation",
+      "published": 1769350597
+    },
     {
       "title": "Roob's Random Observations: Some coaching candidates the Eagles should consider - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGZOM1F0TU9tZ2RXNXRTTnMtcmFVQnp2bjVVeFQtSmZJQTQtQjY3Mkc4NzNvOXJ6ZGhuSmhqZGt6bUpkWHVGa0hJb0E1MmtFNGt1NFQxV2NUZmhvam5ReE9oU2d1TzV1MUV1bURsM3VLRFhUVDZPNUpuZVYycmd6dzgxQlRVbV9yUlBla1c0TmhVN3BtY3M4eVdKVXdBTGZ0YTdDbzluRTRhclowN00wT2U1YjJ2aGx2Z2NwM1ItbkJYS0pnRmFZeWc5bzlOUklZWFpuaFZqRDhOd9IB4gFBVV95cUxOX3dKLTZZVExGdVpvUUtMdS1HdEpDaXotQlZnN2s2TjNtVU5OQ0dWOFhSN1dmOF9tR2FfYWpmNUxob1ZpYzB2YVRDZUhMQjFmZW90clFvaGNZNzBUc1I1cnJmTnItQUdWYXEzWjRrZHExcHRTdjh4dGpGVU5fckh2b3VjUTlFeG95RlBFUnRHRTllYzRGSmVyZTdRU2ZRUnd5ZGhGRWQxeFFpaWZJOTdwaGxxNHRBQnBDeFFObHB1WUhCUUhrSFQ2d21zeHRyc2VwSHhjeXlWdHZZWVBrdXpKMjhn?oc=5",
@@ -89,12 +95,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wRGtRbi1jLWxtaXNhSDc2Wkh1bnM4Q3ljWTVrRHZtUjR4M0FZbXdGdXNPX1JqcUUwcU5vYzFtMVBDak1ObTVnU1lvWVZ4Uk9rQUhtd3EtYS1zWWFBZGpReV83RlNqVUc0TkNfTms3TUVzZWRlRTF1TWFFVmJQUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1769193142
-    },
-    {
-      "title": "Eagles offensive coordinator search updates: Brian Daboll still in the mix?",
-      "link": "https://www.bleedinggreennation.com/news/169481/eagles-offensive-coordinator-search-updates-brian-daboll-still-in-the-mix",
-      "source": "Bleeding Green Nation",
-      "published": 1769191335
     },
     {
       "title": "Former NFL Philadelphia Eagles player Kevin Johnson found dead at Los Angeles homeless encampment in apparent murder - 6abc.com",
@@ -229,12 +229,6 @@
       "published": 1768926121
     },
     {
-      "title": "Eagles to interview Brian Daboll for OC position on Tuesday - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWxTeHNNd3lhLXM1WkdURmNaeDhQZHJoU3hqMktaRHlaMnVzcW82X3A2RHJWTGoxQW5uOG8wVXk1c25qQ3dZRllLUnNrOEc2azgwTkcxa0ZzZXlVaTIzRnpyQnpMRVhkMHVHdHZSOG9Gd2EwdUk2UGhYQTd6czNMRExjSUlucjJJbzk4U3F1akVBM1VhWUNoSE5xMUc0YjdyZW0tT0hIeW4tQ09Mb1VfSTB2dkEtMnFPejB0OVZBVzdwTFp6NnlJVg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768919880
-    },
-    {
       "title": "Eagles might lose top OC target after shocking coaching change - pennlive.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGFPbkJHeUNqU1lTVjJfQU9PMl9rTmo2Z0RIVFEybjNzUEVVeV9xcHBQSmxnZTZkb1JiZGRtdDREcjRiM29rZzA0OHpJWHBXeFhCOWNWUmFZb3R6ZmNoazZlcVlSVEZhYUFjdDZmUTNlSlRnZVJ2VDdxX090d1ZFWFNsVEtwYVY4RE40UUpiaE9qUnFsMENhXzVhQlRyTUhBcllPU1B0YWhDaUtBdDg0cHRNUUpzdWQtTjdN0gHPAUFVX3lxTFBkZHZWblptZ01ob2QzVEdJRlgyY1hwbTZ6X3ExVWpEMUJFa0N2Uk1nR1lESm9zWWpSbzJ0UHcyY0lodDR0bXFKLVpHRkVUYmVSa19kM1hMUlF2V1NLMTZpNDhFaWJJbDBVSUI2QXBpc1NSQXlNTzNLZkJ4azJYZklnc0dDWUNEaWNWeGh1ajd5T0ZYLVBINUpWaWVjcjNhVTJHUW9oU09qMXMzNEU1WnAtN2hzLVJxZFpDMHZRLUJrWXZrb29IQm0wYXNLUGZOSQ?oc=5",
       "source": "Google News — Eagles",
@@ -311,6 +305,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWxicm9kdHNxQ09aSldRSXdoOG1ZSktld1FDUDdqZnN1eUFMWVRUN3Z2WS1IeVUxRXM3NHgtdW43dGE1VFFZTXNINnZKR2xwTHVPb1VYaWExdGYtMVZWcXhWRXVnamhEdnJCTWRQanJ0NDdpc1o4b0x2Tms1WGNZLXFST2o1V1UtdnZkMDdXTzNmcFBnQ2lIYjAxejAzTGFpRTJ6TGNLYzR0dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768611911
+    },
+    {
+      "title": "Complete list of Eagles’ free agents ahead of busy 2026 offseason - pennlive.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRE11YWZXeGxUeFgyNWhETU9TYUQyX2xXbnBqTFdKY09jVjc1LXBvVWktLW9QeWFxaW9MZGtfZ0J4SXVoaE1GaWRxekljVFhTZ2R5SDBhdnV0ZVJhUmk3Ykh6OUdlVGJmeVJJMWhzTkpUOW1ienRFSjdkQ3MzLXlkZTRmSDctUllWbk9uZ0xPb0lTejE3Sm1RMV9fRGhoOXNFdUJubnc4VnpYa3FBNUVfeW1SYUhJcnR4NmZDYklB0gHSAUFVX3lxTE5XcTY0SFpPbGJaZFdDMHEzYUFfSEpPM2dlLXFiX3kzeGNwTVFVSFE3a1JqU0ZWbjJBY3NOenRvSjMtM2hBWTNuRVpmZVdXX2J3Z2tkdUNjSDNzdVBldVFBX2MwRUxHYnMxcWYyX0lQcHBzY2NrNFVTVXNXbXpka2xsN1ZXc3puSWNRWHFnQmhRN0o3dVJDTVhLVFA4Zm91bUJHelhFcmdFVEdaVk1DdkxEbjAzUDFaaklqOGloVWpTSEE3NEpJUzc5RHc5UFFaQ1B0QQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768571160
     },
     {
       "title": "‘Making sacrifices:' Roseman warns that once again Eagles can't keep everyone - NBC Sports Philadelphia",
