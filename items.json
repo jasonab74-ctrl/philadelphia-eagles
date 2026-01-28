@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-01-28T23:29:33.507204+00:00",
+  "updated_at": "2026-01-28T23:51:50.544965+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Top NFL Insider Hints At Philadelphia Eagles’ Big Move - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdU94dTl0UlVtMTVoMk5zcXpHdHdaQk5YTTJmbDdkTnZDdElWNzNJbmFFY1VSTUN3VFpvOFBuWnRYR3VrbkVNaWMxTWlUOHl5YVhEd0l5V1BRVVdaSC03RG4yamFma0ZPX2pnQkIxWjZJSXM2d2tfdUtOOGx0aGtrRlJ0SWQzeWw4TmQ4?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769637254
+    },
     {
       "title": "Adam Schefter hints that big news may be on the horizon for Eagles - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekZtR0x2R3VpbUFRSldNVjE3UkJIczdkOTJRMDhlZV8yMFBsai10cFF5V1FhRm82azJKbEY0YmxCakhmQ0xmam9wY1BXZmxKRnhLSXBjYmxrVW9IQjFKV1NnaWZTQ2UycFpBLWFxTzdhTk5FQlFvRV96MzZXa0pUanBCQTl2SkZNSEROY2ZrM1FvNkkwcnlqTW1menRaTEpfa3hRcjVRTXVWNW1oQUxOaUFQV3p0cHpLa2E3UVJzWTlwNEptcWMwYXMtTVI0Sm9mNkZjQWtreS1fWVFaTXNNYV9LQQ?oc=5",
@@ -47,12 +53,6 @@
       "link": "https://www.bleedinggreennation.com/news/169734/eagles-reportedly-interested-in-davis-webb-who-probably-wont-be-available",
       "source": "Bleeding Green Nation",
       "published": 1769613290
-    },
-    {
-      "title": "Eagles' Projected AJ Brown Trade Price is Absurdly Low - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEdVMkhSQmpsZ2VNT0hyMVN1YlRQSVNQQ3JrNlVubFloeURhRzdFRFlYWVZqT3lMYWhrS3BVNERzWHVMOWNGVTdYYVNpS1VvTy0yWXZBT09EVURpWERrc25JTzhHX0NPMk1JN0lsODZHMF82MXhQallQWkc4TlNfdlJwMnpoTnVYN0Iwb1RCQU9FZFZ2TXRUNXN1Vld2aW8?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769608722
     },
     {
       "title": "More insight into Brian Daboll not being the Eagles new offensive coordinator",
@@ -325,12 +325,6 @@
       "published": 1769079600
     },
     {
-      "title": "Eagles interview coach with Philly ties who has failed at every stop for OC job - nj.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmZoQ0JmUG1YbU5qbVlwalRpRl9vOV9ZZXk2S08xdkhPaHR5V1kzU3FJM09MaGNfdGo5RExtX3FldWpiNDI2SUJJVkFod01PTjZoTnpOdUl1RGhmRlVMMkhkRXExNmlQSWtzdHh1bDBaVG45QmFlTk15R2R0RExwemxfbEFfV21DMkFIMW1QSXE0VVNRcU14dUtxR0luUHRPTVhXSFM1Sm5laFZ0ZDUxU2JoMXk1SGFnQWfSAc4BQVVfeXFMTzY0Wm5jUUthd2IwaUNwN2dLTHRwNkR1WUhqdy1ydEducC1aZW5PcjFBQXI1cWFnWGhvODRzRXlJX1N6MWR3Sm50N1JtT1czTkVQUUZfdmY2Ym1hdWxLNmplcW43UWRmNDZIdGxJV2N0LTNfeTZFUXRybVFpT3RNZklfNnRjeXJXZW9nY1NlT1dob05Vdl9OYl92dmpOekVrdFFLeURrVEktVWxoaXpCdGduSXhrT0FSOTFCR1lORVZYc3Z0QzVBZHhKUXpOUWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769030940
-    },
-    {
       "title": "Eagles interview long-time Andy Reid assistant Matt Nagy for coaching vacancy - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2FsbWxNbVdGMlozRjBKTW94T3l6MWZxTm4yLTZJaFJMcThqcmJsVngta29IRHVHcUZ3dUZiZ0FlTjdtVURQMUJOZ1h3dEdDT0xOUTRwLWdhTks1RGhhazhBSWg2RnVQWXBOUXRibGZMOTFoN19sNEgtcVJ2ekphR01mcDhRZUZsay1uMDl5ZWtodEl4MFhOSnhCQkhydzU3MHBrcWx6dmk3LTdaQm91VmRNdGlXczlYelJLaVdSbmNSaHNRd2duQWV30gHSAUFVX3lxTE5DV0hONmtHSUNaVWFoYzdHZmU5c1FqY3NjWjJrblcxbkNLbHpwa0hfYzhtUGFYSDhUakVia1liZGtNSHhUTl9WTGpGX0hTN0VaSWRmQmxnRVJRREhKZ051QnZSSnNYT09lUm15cEk3cGFhU1IxN0NoMEJlOEZmbDNuR2ctZ3BwNGJJQ1RiQ2lvM3JGWFl0SElUSkdpV3ZpREdrclIwcE5aU0x1SGpSUnB1RndtQXNCQi1fb1lYSFBBRUNUb1czSExJa3Q0SWlvZ2JzZw?oc=5",
       "source": "Google News — Eagles",
@@ -399,12 +393,6 @@
     {
       "title": "5 pending free agents the Philadelphia Eagles need to re-sign - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWQ0d3U3UDdrYmlfOHB2U1RieHlyTU9DekJXZUs3Z1BSbXM0NDZjcXF6Q25OM1k1Q3RfNmJBR29XQVQtdExxem5MQ1VhYWJTXzZWNVBsZVJOVjVJSDg3X25UVFd1cEFwaVBMUWp1NHNfX2c1b3pIaEhWZVgwV3VFeHc3bGZ1VFJ4MkxXWjRyR2w1U0UyN0J0ZEpVa0hmSXlSdDdzNkMwajFrZnVSOHNiN0dvdnJLVXlXTUZhdHN0OHFuY0JYRzJ6NUdsX0d1OU1BUGxkR2xJRlpTWktFU1liblNB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768809600
-    },
-    {
-      "title": "Report: Eagles requested to interview Dolphins passing game coordinator Bobby Slowik for open OC job - phillyvoice.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUJZZzUyT1BhczIwOUpfQXVxSzNTMDdkZzNmMnViaFpBNThRcmd2cWlCNFl3Q3J1UW1JUWVoR0E4RE1LMm1qUFRlSDRnQ3N0dmlodDFxMFFHYnU3SERub3pTSGt2bTRjaVU1ZVpqUnRWMTQxUG0zM3NTRnV2UlZKNlNhc0luYXk5UTFTNjZ5QjNnTUtacnVNNWlQZHlVT0JLVnBvUHhhdnVNTFVsRFZENHRLOFVjSVRmeFJtb2VR?oc=5",
       "source": "Google News — Eagles",
       "published": 1768809600
     },
@@ -493,8 +481,20 @@
       "published": 1768550400
     },
     {
+      "title": "Eagles GM Howie Roseman makes A.J. Brown trade declaration - nypost.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTR1OHk4djF0aEZsb0lpY1RmRURfVnFmUlVKVXI4dDVSdThRLXJMb0hUQTNLZXRhaUlxOS15YlNlU3hQLVlSYWNTQ0kxMGZwTEtZYjJQSXlnUmRfR3RucHp4XzctVnBrSjNlNDJKUDVWT0tTbHBDeG5Icy1CR3NHQ3BaZ1RCb2VDVEMzcVZxWE1KMXFXUkRsczAxaw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768464000
+    },
+    {
       "title": "Howie Roseman downplays A.J. Brown trade talk, says Eagles WR is 'great player' - ESPN",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHR5U01kbFBKTjNZSXFmaTE0T2pYTFJpQmUxX2VCNElqVFZoR3lnbTB2OS1YUktrU3RFOVpfS1llRXd4bzJBeFRtR0VFMnNGVWd6ZlhrcGdrR1NHTERiNUhHRDNLTXdpWGgtVDhKVTZhdVMzcmVDRHliVHd1VEZPb3djTEJsYU1tOWMxTnpyOG5vWWdsN1cyZDRZSHIwQjVBb2hCYUVuN2JhRE5QV1lXSmczaFZRZjQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768464000
+    },
+    {
+      "title": "Trying to understand why Jalen Hurts stopped running - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0E3QXVZV2xySzNlUmJDdjRNazVISXVuZ01ZOHo1TV9WUS1oTkg3RFVWSGd3SG5iblE2MDBQei1xSVhqTTZsN2VLVlBNaWZ0cEVQNzdXWjlNdU1wYTJSVEFCYkZkYWpwRUQwbzBzamNGb0R4NmVBd2ZhYmRqUHcyQ1hFY3IyWXFicXRIc1ZpVjZ2UmJqaVRjTEctZ3ZtVVZXdkp3eGdLWWhmb3lNaklKVm5iNjhOWWNXa1dndS1rMNIBxwFBVV95cUxOQURZZmRLQ2ZVR21yM1NuTm1lR1RhSG5zbnlzcmRzdnc2YnlabE1OQl9pZmFhbGo3bTlhSzFBeTkxVk1jSnRCLWFjY0RRcmFsM0xsTWlNbV9ZdjVINHV5RVh1MVp4bHgzbzBodW1aUDBPU2ZDRXk3R2stZXpWYzZueUlyN0xISGc2eWttVHMzQ1JfanR5azl1eTdEMF9HUUZwYkUyTDdTLWcxVDZqal8zemQwdG9hbWttVFpvcEpJYW9aOXJKN0p3?oc=5",
       "source": "Google News — Eagles",
       "published": 1768464000
     },
