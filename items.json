@@ -1,17 +1,11 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-02-01T02:43:07.627858+00:00",
+  "updated_at": "2026-02-01T05:03:14.802060+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
-    {
-      "title": "Jalen Hurts added to the 2026 Pro Bowl Games",
-      "link": "https://www.bleedinggreennation.com/news/169952/jalen-hurts-added-2026-pro-bowl-games-nfc-replacement-quarterback-news",
-      "source": "Bleeding Green Nation",
-      "published": 1769907259
-    },
     {
       "title": "11 more thoughts on the Eagles hiring Sean Mannion as their new offensive coordinator",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/169908/11-more-thoughts-on-the-eagles-hiring-sean-mannion-as-their-new-offensive-coordinator",
@@ -49,6 +43,12 @@
       "published": 1769808662
     },
     {
+      "title": "Jalen Hurts added to the 2026 Pro Bowl Games",
+      "link": "https://www.bleedinggreennation.com/news/169952/jalen-hurts-added-2026-pro-bowl-games-nfc-replacement-quarterback-news",
+      "source": "Bleeding Green Nation",
+      "published": 1769806375
+    },
+    {
       "title": "Howie Roseman will have more salary cap space to spend in 2026",
       "link": "https://www.bleedinggreennation.com/news/169946/nfl-salary-cap-2026-raise-howie-roseman-free-agency-news",
       "source": "Bleeding Green Nation",
@@ -71,6 +71,12 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzJCSS1nX3dYQ3A0RWpiM2V5SXR1aW1UMzNVZTRqZ0NwaDNUNXluYUlJdUExLUpuZjFsT18xZWFKZlh0Q2NKLUF6WVduZk5TazZnSWljajVKZVhldE83MXROOElmdjhHeTNWSS1JSUpPQVl4cTB4dDRaOHFINXgzQg?oc=5",
       "source": "Google News — Eagles",
       "published": 1769805445
+    },
+    {
+      "title": "Eagles hire Josh Grizzard as pass game coordinator - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlBORElHUlZyUkdUQ0FBWF9yaEJaeF9RVGhqMENlUGc0RTJWX2o4QUVpT3JFN0RJQ1o5dDZldmdwR0NLdldqZ3I5T0oyVTNQcnU4cTBNdm5oWm5jMEhHRkNEdUZMejdWRDJ2RkM4bV9DSjQ4QjJrQ1pjeGQ5aUd1aE9TNGFzbWxmYTBCSU4xUXhjYXFaejlPLWRobW1XUUxPeTlsdnlGeExiQlhaQkRFaTk4U3M3ajlXWmswbFpBUVBrZGFyRUZvenB6UXA5YVAyMWtKekNkSUtJZy12Sk8w?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769794740
     },
     {
       "title": "The Eagles: 5 Essential Facts About the Rock Band - History.com",
@@ -151,10 +157,10 @@
       "published": 1769729445
     },
     {
-      "title": "National reaction to the Eagles hiring Sean Mannion as offensive coordinator - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWxzSWFoZFRRemhLSWZHTEg0Vk5QSC1IeEJ4WEpzQnE2NnBWQXNkWVh1bG42Z2VWQ3g3dUlPN3JtYWEtUDRiOWtZUVpTdlZ3MWt4NFBGTUdfYzd1YzFiSnBtT2VON08zaVAyY3pEV2ZxanBVZzY5U0ZicmpsaHFyN0RjOEdYUmRoZGZjM19rc21MTi1MS1hobXl6ckxQUHY1dVBTaldnekJzcXowQ0lvTm9jU1NHWG1TOG9fSDJKbTR1emxxWEhCZ0w0bzMwM3NqNG0tWg?oc=5",
+      "title": "Birds Huddle: Instant reactions after Eagles hire Sean Mannion as new OC - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX2RuLXdLZllLZUVXWXduWnIwWUxQN1RqSTRmTVlCbWJrRGNQV09ieUQ2VW5vTlg1OUUxc0NidnpxMXFHQ0RoTWo4ZnRtVEFEU1dibWxyeVJORnFhQlpQSUdfRWY4VDFvWnJSOTNZTzhETXZZVFpDN3g2b01ZcGhwSnlDLTk4R1IxTUNUdjBvdWhKbWRFdVhCZWJxQVU4OHROTkNKU1VJbzh1S0M1T0R5RGE2LXVyLTdMaHFCZzVLcWJwTFlSeWl4ODBwU0JBSVV6QW9UTnFrQlVLZk1kZVVLamlUVkdwMFF6UlHSAfIBQVVfeXFMTjBsX21yMGsyUVVpSlZBOVgzaGlqZlFST3lXSEJaQzhaR3B6SVhjZmZkcmxrNnctUnlyYm5KYmhHUDZ4LVVOSkJKVGUzY0tfRkw2azFvQlh0LUhXV2twT25sRTZ3TjNKSUQyOWNoa3I2ZUxJT0xNai1ETXpHSURnenVZaTJmY3I4XzhLWmxDNDNHdk5lYlpObEgwUV94am55b2FfTHFZTHlheHNaMkg1bU9SOEpTUGZ0SVNoTTdubENTM3hzdTVXRHg3aHo4WjVGakZFd1REZFNZMTRPQXlZY0RIOEJkWUwzWmxSd181dlJDREE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1769728440
+      "published": 1769729313
     },
     {
       "title": "Eagles hire Sean Mannion to be their offensive coordinator - PhillyVoice",
@@ -205,6 +211,12 @@
       "published": 1769723976
     },
     {
+      "title": "Sink or swim? Latest report suggests Eagles could make bold decision with Nick Sirianni - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXpzMlRDWjN2SjBjbWw1U0ZkWERvaXdLLWhrMnJlamdRMjJVXzFWa2s5RWZMWmVWSzNjd1hvU0xFdHliOEdFOXJwUm1DWG9SOFZLSWtld1NUbWl0dENiWnpPRllvM0N2bU9pSG9ER05FRUJlWExyWENXei1kQlBib2FscjU5Mkxmcm16bWdXUGhqYUdZQk9ITWRhZkFGd1l5UEpTb1FaN1ZZamZqa1ItZm5mSzDSAcgBQVVfeXFMTVV3TW00QlJGal9IQVkxUGo5R2RyMkY4R0lUZDNPWjRJSnZQM0NXLW5idHp6dVF2Q3ZpRUVNNXlDbTRqNmVaZ3B3MjFLUnF4U1VsZjFMQkZSTE9ZOFd0TVJITzJpQWZhaHZsZFY2d01hUndneTdrS2l6WFF6UUVLQ1RSX0VPWHptNE5xMnNEUTVEUEZNUXAtd0NSaDFpS0VQdUZpdTFhTEhDTU9rWGJibWlLU3QzaXVtNEZDNTZaZGVQWnNkTUN3U2M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769713860
+    },
+    {
       "title": "Eagles insider suggests disharmony is brewing at most consistent unit - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHM2VzJkNmlHZldpbXlLdDZMbzZTRUk5cEJ4azhnb3ZjUHZpVjJzRjlVUVE5TmVwNVRVQzJXSU1MUTctX2JUWUxiTEZELXdwV2ZyZ3kxUjdONnNOcjFwOUlieWloSzFGTTBBWER1djZaY0NkM1VVd1BGZ0sycExJZDkzUE41cGlydkN4WlhyMFVhR0dHUUxSVmVZZjFhMjBTS3gtYTg1aEFhd0JyN09zTm1LdFdsVFB3TUI3OVR1UjdiVEE1Yjh1Z1EyMFZnTnZLTnZ0REF3SnJxYWd4UEZN?oc=5",
       "source": "Google News — Eagles",
@@ -233,12 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjhYUTc4Um9pR3dwNTlJVkkwcWEwYmtaVFVWc3ZHcS1TT3lHNVkwQkZHSXdWeGtqM1pFeEx5RnpNYi1YS0FfYVROdkhBY2dFaXNITlJUMmdjNU0xNU00LVpsWTJjUTRHNnV4NFhxbzFWSFVXVWE3ejRkOG5KT2NtTGxiMEdqdEpyY1hWbDBIX2RGMndMY0tzcHk4Zlk?oc=5",
       "source": "Google News — Eagles",
       "published": 1769601471
-    },
-    {
-      "title": "Philadelphia Eagles Linked to Blockbuster Trade With Buffalo Bills - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM09PVHJwQ2NSSHNNOGF0dmtEUGg3QjlWNnNzbVQ0WXIyVTdiZjRaQmh2TTJtRXZnQlo1ci1vVTBWNTFWbW0tM1cyNFdxM3pGeWtLY0E5QkxLeFpnNGlxUm0wNkF6Tlk5SzR6R1R3OGxRc1JMN0VlMHgxUlljdW0tTXVkYklVMFBpaW13MTlha2FneFJQbG1tdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769572047
     },
     {
       "title": "Broncos' recent firing could impact the Eagles' OC search - Eagles Wire",
@@ -295,12 +301,6 @@
       "published": 1769526125
     },
     {
-      "title": "Eagles’ OC options: Could Philly change the mind of a top candidate? - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm1HcHRmczZoX05QREpzTGpMeXRLVW5sMjJsV2NacUZ0dE9aTXBNRGlfeUxORUtXTDJCVHFMTkpnSWcwT2FmWjlaelotU0ZieVp1NlhOdXU2anUxLW5PbmlsYm1YTW9EdlN6c2FsYTJRYzBSMElVOWk3WENsWkMwcW9LNngya3hmM3BRRWMwVlIxZmdtelNMekx1cDl2YTBlNmlPSE42VEV2ek1VN3NLa9IBxAFBVV95cUxOeDhleHVzeU5NTEl0eV9rYjFZWFVRUTBfdmxPOWdpcTd3cUlPZW51cmJlb2FNc3hVQThTUldJckZNTHp5R3J5d2doYkFjWnBCOWxZa2o2RlRHaWdkLTYzLUtMSkp4VUVMQ0dxdGdhWmtCYmU5MmRtTGFkRWZiNE5OQ3Z2QmRPbmhKY1pLNWFKWVhWUUlsZkxSVnl6QnI4TEFnQmlCQWp3dTROaFlpSzZqNlhqYks0RVVlN01zcDlNY0c3Rk1S?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769518680
-    },
-    {
       "title": "Who's left for the Eagles' OC position? Looking at remaining known candidates - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUtvMnRqUG5oYWRFU3drQXhKb2FTNWc3SWpDREhFRlNKQkMzcmNZYS1HMExSQk5YQzlHZFVkcDM4S0dVVE9KcVZ4NTV4ZzVhb0xXVlNqYVVGaV9LU29CWkdZa1VSa2R3NV9Pc2lzazhQSHpqVHFHRnV5T0VwY1JlaTNNbmxkeDIzUFFMRkFUcTByQzkwUVJKRzlKdWQxY1dxOFJjTy1jY1dWR3JYVGVSOXFhXzNubHV4VWVlRmRlQmzSAcgBQVVfeXFMUEh3VnBmNzFvUWI0S05DbU80bjZrQk9ZTlRKa1RrdG9WNUlQaFN2cXk3Vy14eUlXQU82Z2tncnRoYjY2UmVhU0xBbGxLQ05MQ3RzcFdra0dBNDlFbjJmNTVFVnFlQ1UwU0h5WE5JRVJLemswX2NoTmtYeWVMb1kwdWs4QTd2MnRUbGxWZVZELW05WDlRQTVOM3hjWWQyendUV2NSX3poTFo5Ny1UNnBXN2E0Z0J0b2VQRWluc3lXQmNwLUFiYTNielE?oc=5",
       "source": "Google News — Eagles",
@@ -317,12 +317,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSWhWS2hWZEQ2dzJGZjFYZmkyVzRrNGg5U1ZEdlowcG9xUl9kWlExazQwN2FyaFB6Mm5ibkJvTjNqVDdYYnhQRXduZE13RHQ4dkUyRW5TNFFfSGNublVRa1ZzdFdQbXZMdWdRRldJUnppSmdvb1BGdklzOHZzdzh6UmE5NGhRaTFqem5EQm1rR0RReU53ZEE0TW5VUGswUUVkcTNlamZscXNWT1hmUGx5QVNtOE12enJqUnVTWExFUk05QmJIYXcwdQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1769464320
-    },
-    {
-      "title": "Nobody Wants the Eagles’ Offensive Coordinator Job - Inside The Star",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0trc2FaaGZaajlkUFdvZ2I4aUxZdHRLRUdsSGNrVTRwRG82T1pod19OTERLVjZmUmNqREFVOHhmWDFqZUludy1WSndpQkFaVkR1YjZpN2FvQlNCN1FZN28tSTIyb205T1NSOFZxTkg1OFBOYkRNVUN5SFc1WlRxaw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769454027
     },
     {
       "title": "Eagles offensive coordinator, offseason tracker. Latest on OC interviews - Delawareonline.com",
@@ -385,12 +379,6 @@
       "published": 1769433012
     },
     {
-      "title": "Eagles 7-round mock draft: Howie Roseman moves to replace two superstars on the way out - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMmZKTko5UFJuZDNKb0JZOHVjaGFSNVcxblhNSmZEZnRwMUVpLWQ5Wm9CcHJJQ2kzUUNJZnozUzZhVE5LZlB1WDNVakxMclFBdWpPTC0wcDVvbWR3MXVCbWhuSW9CaDdocWZGNnJlSEEweG52UUFXWEtrMlo5Y0oyNmJYSjFzSngwMjRoMkpVeFAtc0NYOTl0ZzNmM3g0dl96YVkzY2dUT1JjdGdTY2xnVFg1Mk16TmkxZjNEVtIB0AFBVV95cUxQcEFMaWRCa1hsYkF0Z3hwTUJrYXdKYzV1SHFyYmtmMGxYY0ZkTVJkN0dxbktoOUEzUXVDUzlKOHRTU0g0ZTdfalJ5T3RwRVR0VlFGZFFHbXI5b3I4NUJ6a2NDMXlTc0pmaDliaHgtWHdWaDRKUHM3ck9QaVo1SEFiWjJNT0d1S3hEU1hLRGRMeWFfUF9mZ3FwVlJCU2doWi1xa0trNkR5VEllOG9XekNxc2JvSk8zLXBpTkp1QVpXUUFLLXF6d3IybzROZnRLMUY4?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769425260
-    },
-    {
       "title": "Eagles will reportedly interview Jerrod Johnson for OC job - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFlHVXdYN1pXZE52NjlaM0VzNk83THJ6M0tsdzBPcVBDUVc5NXZ2cmdyTU1SUFNES0syTTNYaTFNMXZhTENYMmpYdFAyYm1JSzluRkN4ZUhXamU4eGFueTREQWo3bkRNVi0zLVhiTi15cjQ3RFk2TS02UTV5RFFoaHpjYVlVRnVGV0RqYmFDaVZKbzQtYjVhcF92dFVhUnNndFF5VG1jS0cxeFpxdklybVFhV3ZzN3RoZFFXcm1adVRTWVNUU2dVUU5ZWU1OZThZQ181NENtM0RZMGczc0Z2d1lQMNIB6wFBVV95cUxQcnJjZUhrMmFxaTRSbEJRbDlEdXZQMUR0dV81ei1aQVRIVUJJcjhGYlBQTDN3Y0R3UkYtWmFXczVDb2lBZkhtYmRtR1g2ODZySEQ1cUxIX25ramdwZkRCT2YtYV9MSHFyZ0oxU3RnU2JhMnJ2NEJSY3JSUlI3dDJuQTZkRUtJNVQwOVZsR2ZJNVFIYTdHNElweGl1eUFaREt6eVVUNG5Zck1UOE52a3FqUXhlZWhDUlFVQ3AxOXZWVk9jWEtaRG9GdXBqdmFTNmE2WnlPcGhOUHhTR1M4U3Rqd1RJV3VUVEFHUklR?oc=5",
       "source": "Google News — Eagles",
@@ -403,6 +391,18 @@
       "published": 1769419669
     },
     {
+      "title": "5 Philadelphia Eagles who could be on the chopping block this offseason - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcE9pSmRBbXVhMkk3cE90aWVWV3BCbUdwM1BkanozQ0ZhZU5hZkc3ZWZwX3NCeTZXMEhjbF9KUmlRRkZjcHpfWGZudVpnNVNFSm1iM0NTUkVJT0dfRWU1emxveEVxaENILUZfRGhmM1NMLXFHdkthcUFueHFjd1BOQTRGMWRKR1U1RVhKdlhGU25La1JwbnRvOVEyYU04d1BVNDBxdzNsMENscGJNOW9tR1JtczBFZXp5R2pzWEpuNmxfNThBcnFCZ2FQSjNSWE1ORjRGcWlSaThTSnVfY2pCTHd4aFI1dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769378940
+    },
+    {
+      "title": "Garafolo: Eagles are running out of preferred options for OC position | \"NFL GameDay Morning' - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHpMdXVnTmNSRDFIdHUtVEdxNmhhTF94aHVNSlFTSk9wakhOdklEMHhsQjRsVU1VWjdZV2FyNDlBS3hHR2N1MExSaWRKdzJ5YTRBaF9yb2ZVcEtaYXJiQkd4TTZPQ1FnUURQeWowRmJYWmNKNndUbjB6Y1AzV0FJOGVPMkRIMTBKLXJmTkxVOWNjQWstb2U2MFY1WDdCakNraFgyMmZIWWlSTDdDVmNhWEhQc2ZpZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769370694
+    },
+    {
       "title": "Roob's Random Observations: Some coaching candidates the Eagles should consider - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGZOM1F0TU9tZ2RXNXRTTnMtcmFVQnp2bjVVeFQtSmZJQTQtQjY3Mkc4NzNvOXJ6ZGhuSmhqZGt6bUpkWHVGa0hJb0E1MmtFNGt1NFQxV2NUZmhvam5ReE9oU2d1TzV1MUV1bURsM3VLRFhUVDZPNUpuZVYycmd6dzgxQlRVbV9yUlBla1c0TmhVN3BtY3M4eVdKVXdBTGZ0YTdDbzluRTRhclowN00wT2U1YjJ2aGx2Z2NwM1ItbkJYS0pnRmFZeWc5bzlOUklZWFpuaFZqRDhOd9IB4gFBVV95cUxOX3dKLTZZVExGdVpvUUtMdS1HdEpDaXotQlZnN2s2TjNtVU5OQ0dWOFhSN1dmOF9tR2FfYWpmNUxob1ZpYzB2YVRDZUhMQjFmZW90clFvaGNZNzBUc1I1cnJmTnItQUdWYXEzWjRrZHExcHRTdjh4dGpGVU5fckh2b3VjUTlFeG95RlBFUnRHRTllYzRGSmVyZTdRU2ZRUnd5ZGhGRWQxeFFpaWZJOTdwaGxxNHRBQnBDeFFObHB1WUhCUUhrSFQ2d21zeHRyc2VwSHhjeXlWdHZZWVBrdXpKMjhn?oc=5",
       "source": "Google News — Eagles",
@@ -413,6 +413,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanVnVVBvVnpoQ01tVEpYRTFiS2xFdkZLQ1hiekViTlRjYkdSTmcxcWV2dWZ3ME1wVVh0d2dPZ3NTX0lfVHpEeDZpcmZOa1g4NDZWcGlPbllnRGlvMU5WeHBGdlNUUjlpX3JSUkg5V0xQWmtjUEI1Ykt4VWd3dGdhZTZWVkRBbXdmNnRjWUJhckQ5cG9BeHdXSngxc09BbURO?oc=5",
       "source": "Google News — Eagles",
       "published": 1769328000
+    },
+    {
+      "title": "6 Philadelphia Eagles with bright futures heading into the 2026 season - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPck9GUTNpdmpiWDJxcDZDRkdHMXZGZ3pmQzR1ZUl1clk5S0lIVm9ud0gyRUxXa2lnRXJiOHg3Y09uSkJHdnNnb1lYOEpJRXZXb2k2VmgwckJxUW1FZmtySlQ4ZUlMYm5oOG85c0xWeXFhMXdKRG96QXF5RTNBSWhEZzBUR21LN2RNNVJnMzlfS1BSR1B3MjRDM016M1d3SUFqT2FCdEhvbWpCWk5qUkViazRwV3daaVpqWEFSZGh2X1o4Uk9ybVlMeXZjV19ob05FMzI4?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769286900
     },
     {
       "title": "Christian Parker might take another Eagles assistant to Dallas with him - NBC Sports Philadelphia",
@@ -451,14 +457,14 @@
       "published": 1769155200
     },
     {
-      "title": "Eagles add a surprising youngster to offensive coordinator search - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1NHUTBLaEU0S05xa1FIT1NLbWhjclJUazEwalNzQXJQWE83cVhyV1prdXJSWU1XWUxmcTFGQS1OV1huMGVQR3M1cGhNYUpLQVNmRjU2eHFjeGE1MU1wcFdMWWptdnExNFNaTWstZjlvelVmVXVXTGh3dkJXVGFtdHZWTGVIbW81NUxrM2RCQW91ejJRdWp0YmxWWXJjckZpaXMwQ2pCeVFVeldTbWxXRjNKNXM2VHJCYkxtWERZN3ZpYkNaY2luVV83M1RpS2xDMExXemotR015OV9TX3M40gHnAUFVX3lxTE5sdWdWUEd0QzBKZl9hOGpTR0RzamdVbl9tblRuZVJOQXRiM2JlQ3gzNU1PMHMzNlVsYlZaLVM0cWl6RHRIQW5nSXFWRWZTWEUwVFB2ek54QUx2cTBMS1RsVjhJSlc2X1RjV2tMRG9ud2VoUUlucVQ5TEpwR3ExN2ZmVVp2cUhzckhaVThINTJvdzdWRFhLaUFYRXBqSHBPQ01MS003LWdoS01uTnBDcXAzVWhWRVRTaDZYaGk3YjdSOFpWc3hxNGZoSEtyVlNNTjQ2MEVPRWRvaWNzbHFJSWtFNjRvSnIxTQ?oc=5",
+      "title": "Eagles star addresses future with team: ‘It’s up to my agent’ - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZldlZk1kZ3lhekt2bGlIZDdUdEFoVzllX0paOTZKR3J3Yl80MU00b2hkbnRXS21ZeVExMHVPcUhHdnFtR0o4Wk5zdU4wczNSOE1LXzg3T2EwWUNRcGtCX05fdnVGZDBqMlNVZk5XYVhINV9UZWtHTGI0UXpPY1B6N1FoVzBUSllDRmdZTHdaZFV1bXotQVhWNzZ1ZHXSAbABQVVfeXFMTWJPcUNTVXMwVWQ5T2oxazg1c2h5R0xSaGRuN3l5X2FUNl82ZEdGdmUtZVpSZnRMMDZtd3BPUjBOVm9CN2QteTFBWTQ1RjhiYUNZa1ptcEEwb1g4OUpnVi0tOWFPNUNYbGpIZ2g3WEdfUGdYSklVUFNIUEZLQzlRcnpxay1xcE5BeFg3enlzOUdORVR0WlNkY2FkeEtIekpRZUxPWFNaSGZqRzV6V3laZHM?oc=5",
       "source": "Google News — Eagles",
       "published": 1769068800
     },
     {
-      "title": "Eagles star addresses future with team: ‘It’s up to my agent’ - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZldlZk1kZ3lhekt2bGlIZDdUdEFoVzllX0paOTZKR3J3Yl80MU00b2hkbnRXS21ZeVExMHVPcUhHdnFtR0o4Wk5zdU4wczNSOE1LXzg3T2EwWUNRcGtCX05fdnVGZDBqMlNVZk5XYVhINV9UZWtHTGI0UXpPY1B6N1FoVzBUSllDRmdZTHdaZFV1bXotQVhWNzZ1ZHXSAbABQVVfeXFMTWJPcUNTVXMwVWQ5T2oxazg1c2h5R0xSaGRuN3l5X2FUNl82ZEdGdmUtZVpSZnRMMDZtd3BPUjBOVm9CN2QteTFBWTQ1RjhiYUNZa1ptcEEwb1g4OUpnVi0tOWFPNUNYbGpIZ2g3WEdfUGdYSklVUFNIUEZLQzlRcnpxay1xcE5BeFg3enlzOUdORVR0WlNkY2FkeEtIekpRZUxPWFNaSGZqRzV6V3laZHM?oc=5",
+      "title": "Eagles add a surprising youngster to offensive coordinator search - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1NHUTBLaEU0S05xa1FIT1NLbWhjclJUazEwalNzQXJQWE83cVhyV1prdXJSWU1XWUxmcTFGQS1OV1huMGVQR3M1cGhNYUpLQVNmRjU2eHFjeGE1MU1wcFdMWWptdnExNFNaTWstZjlvelVmVXVXTGh3dkJXVGFtdHZWTGVIbW81NUxrM2RCQW91ejJRdWp0YmxWWXJjckZpaXMwQ2pCeVFVeldTbWxXRjNKNXM2VHJCYkxtWERZN3ZpYkNaY2luVV83M1RpS2xDMExXemotR015OV9TX3M40gHnAUFVX3lxTE5sdWdWUEd0QzBKZl9hOGpTR0RzamdVbl9tblRuZVJOQXRiM2JlQ3gzNU1PMHMzNlVsYlZaLVM0cWl6RHRIQW5nSXFWRWZTWEUwVFB2ek54QUx2cTBMS1RsVjhJSlc2X1RjV2tMRG9ud2VoUUlucVQ5TEpwR3ExN2ZmVVp2cUhzckhaVThINTJvdzdWRFhLaUFYRXBqSHBPQ01MS003LWdoS01uTnBDcXAzVWhWRVRTaDZYaGk3YjdSOFpWc3hxNGZoSEtyVlNNTjQ2MEVPRWRvaWNzbHFJSWtFNjRvSnIxTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1769068800
     },
@@ -475,32 +481,14 @@
       "published": 1768982400
     },
     {
-      "title": "Will the Eagles trade A.J. Brown this offseason? - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWFuMTBWb2R5U1AyazBUVlNTZkRobFF3eUNXXzVUTUViLS1tcGdjaVowek5DQTNvT3ptS2o2NmV4SjdaWTBfX29JYUZ5XzR1aE1WT0luRFNrOWYxOWNwT2tqS2FtanpBYTNRQXdtSTR1ZnFZUmdhRkozRWNOY1hYOXU3Y09maTN1bHFnTklUYWF6WldFYW8zX05raHlGaUVYUFBkNXJUYndGM3FuNE83ZEFub0pva0NscGc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768982400
-    },
-    {
       "title": "Who's left in Eagles OC search as Mike McDaniel, Brian Daboll move on? - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ0RveEpaTmFKYXJ2MExlVHA1OVlqZURJbWJlXzQwT2hYOVNiMkhLbGIxNDdiZC1GWjE0Y2cwLVBBcGl2dTdvUkEyVzJVUHVpS2Q2WVVhTW51eGw1cmdpaW9zMThMYXZhdjBMcFlIcGMwWWhoVXBBakZILXpfX3cwNXNPdnB6WnFueGliTjk1WXNSci1lTkJSRXZHRE42cFlJck5wQzNVaXRRTHVHczRrSkRzU3lnSU9xMjRuWU9PMGFHNFdOck8wNGlEak1hQjhaaGlzaHhCUHdLVDlYeUQwMw?oc=5",
       "source": "Google News — Eagles",
       "published": 1768982400
     },
     {
-      "title": "Sure, the Eagles need an offensive coordinator, but they've also got other questions to answer - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzExRWhyN1VKLTNKdi02TkNUcm42Vy1fMXREQnk2ZHg0VzUyZWdtc0FTekhUT191OURfa0JIT0kzZ1ZWZUhrZFlzbzJFUk04bVdwcmZETTB2a0xFbnNMX2hPdGhsa2c0NVpVUFEyZjE1c1ozTy0xNFVPMkE5VThxYkt1b0RtOGZzTHo3ZmFkX1p5RVBURjFMMTZLNnNWREl5MXhPa0s3UDNZRTFSVm9OeHV0dWgxMjl0OGc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768896000
-    },
-    {
       "title": "Eagles offseason questions: Who’s the next OC, what’s on Jeffrey Lurie’s mind, and more - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDBQaEN2MVpkYnlndFB0YVFlNFZKcDVVS3IwdmR6U1ZvanZPNWFVODF5QmFYdFY5bmNndGxFUHp5MzJpYURwWklPTzRfaFpfRm5Nd3BYa2czZW00VFEtY2pOb01fbTg1NnA5Z2NPd19vUFl0Vnh0VlM3RXB1WGxmR0xkSUlyYmNCZU05SUxnaENac3VieDFLTmdGZkJHMjRnalM2UkdaRWxqeUNZX3RCQ3N2N1hjQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1768896000
-    },
-    {
-      "title": "Eagles-only 2026 mock draft, version 1.0 - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR21DdVhxbG1YLU5SRS1sY3R3WVQtMU96X2VFM1dqaU5nTWlyWFhmVDJ5b3JvWjA2eXJtdUI5UFhkbkJpRFp3alJieU9VZjVTTG0weHNoUXJkZ0FkTmF0VU5WV1N2Z3NwM1NONkl1V19QYVhGNW9zNjRYeU5kdjMtaEdSYzUybHBvYmtpaVBUanFvQ0xPVVg4cW4xUHNOckZkb1RLM21uU2VlaUdnRThIUjBULU5UUVZ6SXhOZ2s5aUk1UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1768896000
     },
