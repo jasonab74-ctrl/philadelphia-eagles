@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-02-03T19:29:05.641305+00:00",
+  "updated_at": "2026-02-03T20:01:47.981433+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -83,6 +83,12 @@
       "link": "https://www.bleedinggreennation.com/news/170019/vic-fangio-reportedly-considering-retirement",
       "source": "Bleeding Green Nation",
       "published": 1769968687
+    },
+    {
+      "title": "Legendary Eagles coach may not return next season: 5 candidates who could take over - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUR3OEtvekZRNUNpOGYwNUV2NzU0QXNVYUxlYk1Vd05yMWRIb1RsNGdoSlFDdEcxcmdlMy1WbEFCTXoxbG12MTNGNDkzNGR2cERLNktKVENjZk5Gc1lEMzc1NXM2TkFaNG50WW9BQW9ZNGdTOTFYT1JxVExOTy1rb19mTkZXTV95dGlNZUIzUWVieXlKblRaZEFvVFFrSmstb1QxUmtyYk5OYW83Q1ZBakk4QlVadnFfc2k1cE5R0gHSAUFVX3lxTFA4M0dLVTRyWEpLUHlqX0E3cEw1Mktfd25lVXJoOEY1Sy1lT3dYZGNIakFLOURsTkdYSTFuTU83eXdMSmZXLTBDazUxRFpIeC1mbG42X09yNXN6NDVVMjJ1aXdXWGFBSmNuVTN3UGU4bEJZN2drT0xBb0FZcGpScFFNTVp5Q2t5MUxscmZia19XV3R1b3lqaG5CYVBNSWJlcDdBTGFVRkJTSURfSmVMcy1EX1pSLXJIbFVSdzloMGY0OFZyejRVekdSU2plSDBOdWEwdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769967720
     },
     {
       "title": "Vic Fangio has considered retirement but situation is currently leaning toward his return as Eagles DC - NFL.com",
@@ -211,12 +217,6 @@
       "published": 1769736466
     },
     {
-      "title": "Report: Newly hired Sean Mannion will call the Eagles offensive plays - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOemtCUG1PTFhSbnk5RVA5YkYyeFRFanFlR2ZfUHRQTW5TUjZ4V0lIeUdOYVlVeFZzNFZmS3M0QjI0TUdnOFpVMDJMaXFSRmR4dDlhaTl0Q053QjIyLUcwUXZiZEFjeEtjcXNvdFl4bHlaMnA1YXFwZWJucnN1SXhhVDFhZmhMR3hiUkRsSllGOUxaMG1OOG5WZ01jenZ6YVVVeHdTbjNGX3dhNm9Ua3pyd0lMeTFhRWFlZDNKUGpTaDJqTEh6VE9IUTlFVVhPVjdraHFQaElyVQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769736420
-    },
-    {
       "title": "Schefter: Sean Mannion is the new OC for the Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSGQ3dFpOMXRqdnRKZzhCSkl0dFZYWXR6aDhFdTZGck04TElROEQ2TkVBMTZVXzJpTmw1bVBzM2FJX3J0VEpUcGhESVVFTEpJSUFraGlvWUY?oc=5",
       "source": "Google News — Eagles",
@@ -337,12 +337,6 @@
       "published": 1769553730
     },
     {
-      "title": "USA Women’s Eagles convene for kick off camp - Eagles Rugby",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlRVeFVUcXBqNnV3ZnJyanlFSm1lemM3bFo3dklWMkc0Yk9zNFJqTjh1eHc1VWk0eC1wYlozRFhobkI5WXZnQlJYUlI0NTJrVEhLMEFhX0RvRGp3cHo4dnhSTXZ6MEc0aHhnak1RUi1VbGNsTUxIc3VHZ1ByN01yRWNSMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769552626
-    },
-    {
       "title": "Coaching search continues after another top candidate spurns the Eagles - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQm5KR1pKZk5rRGRMWUo1ZWU3Q0VJcWJjQ0sydEFaT29pSTdFbGl3VzZ5Z1dHRzlZdGc4eUVuYU9KbkRGVjlFOWpoZnBsX25FdmJ1RzZkWWRFclVwLXRzbDBoUDV1WGtwdERDYkwxT1ZCQXYtWjhSQTFZY0cwVVZIZTNKaGdlcXFITmxrVktBM3VVaE5NUXRvZDZ2LW9UZTFGZmcwcTZYbF9XQ3c0aGNoR3pwdzlpZ9IBvgFBVV95cUxQaU5ZbW1GbzVGV2czeDV3X2JLOHdnblZiU2ZmVGFaZ3VpSkpOODZyVDRKX0IyVi03Z2dIUE9NcnJUenNGekhFT2Q1U2RhWWRGY0U3aGJnOUtZRlpMbXNrN0dWVzI4Y1QxN1Q5T09lcHc3dnhxX1B1ajU1cXFpai0wWTRGM3U4dDFuYXNkM1oxZkJFR3FwekFvTTVsR216Nno0cjVITHEwYjJkUnpQajRMdXRoQlJWbUVFVTdYaEZR?oc=5",
       "source": "Google News — Eagles",
@@ -451,6 +445,12 @@
       "published": 1769414400
     },
     {
+      "title": "Big Bear bald eagles Jackie and Shadow lay 2 eggs, first of the season - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXZWclBRS2xVTVpHZk5LMk5QZGMycUtRbHc1RFB4TzNjU3lYeVFOcDF3LW52TzVURmRacVRfQW52S3FRMmwzRzNyNnlzampZNHlWWDZ3UHh2cUctWlgyb21NbndHOE5oTUJfaVM3bkg3X0RBZEwwNFZMYlktWk5kSUlOdnJnNkdwUHJ5a2F30gGTAUFVX3lxTE42Z3VRaHVQbDB1ZElidGg3NW5wbnNJelEtUzRMOVBPbnRaV0lYSEQtYkNNQkxpTUFKRWQ0LWFmVm5RTDJGMDNBTTFMRzVEU2JfTlRkSjJkNlpRUVR5WjRWc1NfS21MVjRlTVBKcmV0aUJRQWtGWDNWV3dRM09mQ1VmV2t1QVFIM3VxWktoRXVRUzdYcw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1769414400
+    },
+    {
       "title": "Is Eagles offensive coordinator job desirable? Latest on search and candidates - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanVnVVBvVnpoQ01tVEpYRTFiS2xFdkZLQ1hiekViTlRjYkdSTmcxcWV2dWZ3ME1wVVh0d2dPZ3NTX0lfVHpEeDZpcmZOa1g4NDZWcGlPbllnRGlvMU5WeHBGdlNUUjlpX3JSUkg5V0xQWmtjUEI1Ykt4VWd3dGdhZTZWVkRBbXdmNnRjWUJhckQ5cG9BeHdXSngxc09BbURO?oc=5",
       "source": "Google News — Eagles",
@@ -475,20 +475,8 @@
       "published": 1769155200
     },
     {
-      "title": "Eagles notes: Christian Parker replacement; Eagles players shut out of NFL postseason honors - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYlpGMENUdk12cW1YZk5TaFFvYTZBbE9SWmJRTzRsMlhHRktYV2gyaklsampjMTUya1VPMVB2WjBQMmpfb19tMVo1M3AtSHQ4Y3ViOGRTRVlHWW9zQmtzTmJaQmxWclRJSjl1UlNMdlFYa1p1NmRVQ2MxYlVlWGhEQ2tITVFYVkIzYnotY1VLZ3hXQWs2YXVkc3R4UUxnRnJDUDFZSElzSXA1WVdrZ19Pc2QyQmd5UTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769155200
-    },
-    {
       "title": "Former NFL Philadelphia Eagles player Kevin Johnson found dead at Los Angeles homeless encampment in apparent murder - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUExX25kUjczbHFsS1BBSEZ5cDViNDNJMjJ6bGdYTXhmWVRiUHlXUnJMTG5nYm4yeFdEckY4MXZsRkRHbUI4dXpfRkdNN0ZiazlHaDlzcU1HUzlIR2gxRkx3WWtfeV9IMl9FZjVvUldtZVJyYzRwQkJsbno2dDNZU01wQlEzVUNBSnpZaWc4eUx5Sk55dlJyaUw1TWhURHFVS2czZ2F6cFFEZkpsZUlBck1zSFlfVzZlV3p6Zk9IN3lDcmJHLUhTMtIBzgFBVV95cUxPWTBFc0VPd3NzTnQxa01VZVA4eTlGWVlDZWdWM1pyX2lwanI5QXRTRmJIdEZMbl8wSThVTHpJb25DQXQ0OWZqLTdqYmtZRjZUZjFaZDhCa3ZJMEZsSjk0Mko5OGk4Yy1VeVhDQ3VPUXVYanJuUzVaeFlfVTZucU41cUVTMDZLNXNmMl9aSkxlSVB6YUR4WHItWVRUdExyajFOLU5Obktody1xSG9vdlFiMmZic0R4V0NxZVh4WDAwdVFfZGhsaks3alowSzRUdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1769155200
-    },
-    {
-      "title": "The Eagles break new sales record with their 1976 greatest hits collection - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYVprY0JqMjJ0S2dTLTJnTVp6cWhZS1EyNEJvV25hRzNfYXJrQVo5LXRYMVMzblRGdmhkempQLUJWcUJxd25wVWVibkJOUkNUTkE4SzNfUW5DS3daXzNiMFZuOGxQcFlxbndtWU82Y0xzU1VRWENINXNaUm95YWkwdjNBYkszT0ZkTzhnZVhpZXctX0xKRTl2aXdzeWRYenBmOEFSMWk1bnV1WTJDZ19NanB5RWc2S1dFQWJR?oc=5",
       "source": "Google News — Eagles",
       "published": 1769155200
     },
@@ -519,6 +507,12 @@
     {
       "title": "Eagles future signing tracker | 2026 Offseason Roster - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2l0Vzlxa3NZdUV4UldaYkFLdi1mVjlLM2oxaVpBTXpQRTZYdW5ZS2JWOUV0am94RWNkWTNkeFVzdDdjSm1sVDI0S2ZoUHVPby15R1RpRzZXNUpGYll4N2dkTWZ5VklpdHdyRl84Ri1zVE1ZUHU1cS0wUjJmWGljQnI3aVBVR01kTlZxSktmcU9sYXN4QUE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1768982400
+    },
+    {
+      "title": "Will the Eagles trade A.J. Brown this offseason? - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWFuMTBWb2R5U1AyazBUVlNTZkRobFF3eUNXXzVUTUViLS1tcGdjaVowek5DQTNvT3ptS2o2NmV4SjdaWTBfX29JYUZ5XzR1aE1WT0luRFNrOWYxOWNwT2tqS2FtanpBYTNRQXdtSTR1ZnFZUmdhRkozRWNOY1hYOXU3Y09maTN1bHFnTklUYWF6WldFYW8zX05raHlGaUVYUFBkNXJUYndGM3FuNE83ZEFub0pva0NscGc?oc=5",
       "source": "Google News — Eagles",
       "published": 1768982400
     },
