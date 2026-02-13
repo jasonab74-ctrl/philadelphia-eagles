@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-02-13T18:03:56.919101+00:00",
+  "updated_at": "2026-02-13T19:24:04.591503+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles reportedly hire former Patriots cornerbacks coach",
+      "link": "https://www.bleedinggreennation.com/news/170550/eagles-reportedly-hire-former-patriots-cornerbacks-coach",
+      "source": "Bleeding Green Nation",
+      "published": 1771007523
+    },
     {
       "title": "Eagles Fan-Favorite Reportedly Eyeing Return to Philadelphia - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHdQNzROb0FQcDBMRWNnRXRLUF8xZHZsbGJkeEtkS29nNEladWdjSUhhR25ta2VKR2ptbHp3Ti12NGtoMWpjMVp5clIwbkcxRFNEUVBncWh0emhjand1QkdJc0w3MDZYRWE2eTVVODRXTUo3R0FQbHVkZGRJbk13MnZmUlQ1dnRoTXQzSEc5WWtYWC05YUp2X1lUb3V0cXVFVVI1RkYxRE8?oc=5",
@@ -139,12 +145,6 @@
       "published": 1770758328
     },
     {
-      "title": "Brandon Graham expresses interest in coming back to the Eagles",
-      "link": "https://www.bleedinggreennation.com/news/170445/brandon-graham-expresses-interest-in-coming-back-to-the-eagles",
-      "source": "Bleeding Green Nation",
-      "published": 1770755640
-    },
-    {
       "title": "A look at the Eagles’ 2026 free agents - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGlwZy1NVnN4V1FhenRDdVpMdUpVSmM2eFA1MUdjakRBaUFrOTJXMkRmZUZhQVNHdGFLZFdTZFpVWmZtQzFySzIxUlpWbzZIVG9FR1h1UUpNeVh1QkhwLWlBd0l6eFVpamVQSkJJVG9QaVRRX1QyVHI1WWtMdHE2UWpn?oc=5",
       "source": "Google News — Eagles",
@@ -209,6 +209,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUlRWWlKWU1xVjlQSnFWMDZxcWtwRFdmZzdfanAwMlJZS0thbXBqM2ZpWDFsckpPWEM2SVc0c3N3NmNkMVNnaDdlY1hrNG9NV0pnSV8tOUF1emtJM3lvZF84RnJSbkVPaTdWcHVBTUkzdWdxZ0o2R1FFY3hWYlZfM2NkdldVS20yYUN5Q0pvSjFaNUhEdTRtaWVDdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1770674445
+    },
+    {
+      "title": "An Eagles fan played a plant in Bad Bunny's Super Bowl halftime show: \"I had to keep it a secret\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnMxM3dxbEs4WldxcnAyYkozazU5U01mV3JaakwwU2pHWHpnVVlyVExLNmU2UGxBTjJrWFNyUW83aWV0TEFMalpDNnJ1UVRrLVBKeUc3dVhnVWU2bEkwb1BXaE4tVGpReTRyX2N4WWlLc1VXMGR0UzBwS1JRTFd5ekJJamN2RmJRa0x5dWJ1Qzdrdll5Z2c?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770674340
     },
     {
       "title": "10 Things you Didn't Know about new Eagles offensive line coach Chris Kuper - NBC Sports Philadelphia",
@@ -331,6 +337,12 @@
       "published": 1770469204
     },
     {
+      "title": "Super Bowl rooting guide for Eagles fans - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHhvZExQZy1HVS1jbHBlN0R3X3ZVWFpaYzJFbmFEWUtMVXl5ajJBWjBjUU8ydnJ5eFpjazE2V2FIUjVnZjBXVmVnU3NjcHNyUEh4VEdjWkU0V3lUT1UtOHY2enFNOHBfWlZGZHZ0d0o2VG5pbkZpRjZja3hSX0Y2dXF6SVFJWV9KVmFXY01GekJ3TXZaTV9sQnhGdHlVOUItU291WW1FVVJTX09wVDNidEdsWWVQODJ5b0VjWkJQNTVya214NDd4NA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770468067
+    },
+    {
       "title": "Eagles free agent makes one thing clear: ‘I want to stay’ - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3lEcUZtZ180Q1NkelVtVjhqNEg4WVl1QWl5Q2phYm1JdTB5dnRFZVZIa3cwTURSN1NQVkhabTNOQVZsWEJDQThETFhQdUlKVmRPbjJjTjd3NDI1bG1Bc0VXRUpuWjdFNDFVNXJiOEJtNVpZeUdDQ3lOWjdwZ1FYZ2tJX1Zva2d2NFo2QVIwU3NWVEtjZnFVdTg5RmtfTzcxRVBnVVJlSkpSNnhtRW5jc9IBxAFBVV95cUxNdnptRm4xckJFUzBhVVpUQlprZ2pqbXBFaVA2UUcyRmFCODhSYWtzMXgzNk5aUjRib21kV0pjWlY5UVZhdmo5MlhDcU5pbnhpVjk5cFUydUxLTkgwNFhLdmRlTXpOY3FBLWlFMzFFWTFDNVNLcEpnMnQ5bXNvQlZRck9TMHp3YUJfZGh6bGFnc2VBczdOTGlKZXhxb0ZOdWlfbXd2bk1Ock85ZU9rbnl5ckd6Zmphenh0MVYyTld3aUw3SmQ1?oc=5",
       "source": "Google News — Eagles",
@@ -379,12 +391,6 @@
       "published": 1770387682
     },
     {
-      "title": "Lane Johnson, Landon Dickerson Updates Raise Alarms for Eagles - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBPTTdkM1lMNDlucUYtMWdQNllBNFZfVlJtVVZrUGc1SG9RVmVBRFVHNTEtVzBUTExSM3pvcHo4Um9OUFVyUkpWeGV2WXZERTlVZERVaWRoR2FtTjM5RW5KNUV2N1F0RlN2MWVydXRVUjNZSXRXckZVa0t0NFhKZ3h0UjZjaVZDQVJxR2tOeGg0bVhfWThxczZueXRuTkplSDVIbnM4a0ppdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770384360
-    },
-    {
       "title": "How Sean Mannion showed ability as an OC before Eagles hired him - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ21STDAzRVdYVGtteEVxMG1qSGNMRUdwbkRnY2ZaWndxQXRmZHEyRzRJUGFtRGFQR2ZpY3ZSaGVWcEdXV1FvWXg2a0NqSUtZNnRpUVN3VWtST21iY21WUVkxTUQ0Q3pCaXhBZWxVV2JwcnEwMF9TZHNxV0lfVFJQWUlGcUFERDA0VzhvOHpZMlZsd0ZaeEdYd2REbDRtdDZFNkE0a3RWRHZTTFVBRXVfQlF3b3A5REV1VzNIZ25keWdKcFFYMTZMOEo4RVBCQUlyakHSAZ8DQVVfeXFMUFRiRDFYc3o5Q2pGZGNybHFuOVdkazBsNldQdWJTRDhYeFZEaTBnbGhFc0p3bGc3WTNmaUt3RXA5cDkxMjNIWmNzOUY1MnNGQXcxUllKdVIzUjhMUE1nUFlpQ1hVUTduOElLc1htSFpfa3BfRmdFUjZuTlZJNF9ETFM4NjBjNkc4QVhVR2VranhLLWRWcW1aVk5weWUyRmNQRmRIMktJaEpfRi1iYXA4b1pqazh3X1NqeW91cXJpOVBrV1JfRTd3dk1FWEp5WkMtc3kyZjZTZzRzOEJCNVZzczBjZjg2Z0NPZ2pHQy1PdG9qSEgybGtFcllkS0Vwd3ZoTjQxNC1vM0hMbGNsdEhDLS1KZGU2cjdpWjNRQ0ZXSlZvSWh2V1lPd3Nma3I3MXUwYzd3cDBhVmNDeE9FUzUta2J4S3p3RHBVNVRJeFg2SWtLZ3VyU256dnBuLU8zTDVCbFptZlRJbTdDYVJTeTFiUXJVU3NnSmVoa0JVXzNZcEE1WDJsSWN3NC1TN0ZEbHotTUVFUENHMUgyS0t1eW5ncw?oc=5",
       "source": "Google News — Eagles",
@@ -395,12 +401,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalVfanE5cG91Nkt6aUxUNzFHd0g5ZkRHZUZiNlFBUjRzV3hvbklJTXpHWnZwd19kOF9GRVFJMVdFRlRRU21yeTYtQUpIS0piaTFXeUJqd0NscUxxOWpVV0g5TWlDbzJoMFd3RWFqcWFfenFYR2hRU1lJU0c4T1Q4YThTSXdVUFlSTDBvd0h5M3Q?oc=5",
       "source": "Google News — Eagles",
       "published": 1770348825
-    },
-    {
-      "title": "Brandon Graham Thinks Eagles Starter is Leaving - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkFBUVB6ZkZOdnByNzdZUFJYelhVRzJIZll6cVRyQzRKZHB6VXZnMTVBbEViSE1ZNG4tRWY1dXJZVHRaSUtvVGU5M1NxZ0dnd0FlMmtfZ016RUFlR2ozZWR4MWNEWlNmV0VCLVQ2ZDNpa3NpV2E1Vk03bTNOcTc4NzFySmFDaXY3NDNxM01pUi1Ld3ZxaTNz?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770343930
     },
     {
       "title": "Eagles make first bold move to replace legendary OL coach - NJ.com",
@@ -511,10 +511,10 @@
       "published": 1770192000
     },
     {
-      "title": "NFL Mock Draft 2026: Eagles 7-round simulation, Version 3.0 - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejVRYjFKUGdMU05ZYnh6d0NYSVE0cTMzUXpOUTM2dk4yNEtVOWVSVHJ2Z2tCUTl6X0JCOW1UamVlVzBiSjJSYVNzNVg4bS1ZLTRSdHhEeGNDNUE0WkN2NU16Y25GbWNHWENHRHZVb2phTExpN3pWaXVIYzcxOXBLR3lRUFhvdkh5MEZPMmZialBhWXZVMktaS1NSV1RieWhxbnp4MW9nRV9MN28weFhyeFVkTFFFc1pvTE5rcTVxaHBuVkYx?oc=5",
+      "title": "Trade Pitch Swaps Eagles WR A.J. Brown for Former 1st Round Pick - Heavy Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQmxRaFVFRGdDaVA0LW91UHdrRUFKZWRNRkVQU0d6RjlFZncyWlNUU3NxUEZiOEFVUFVrZlhlSGVDdEpSRnlBaVZrMXZZVGlocWhfeExwLVc3NmFVMnR6T0dseG5EalZ5RlI0a1g3dHU2eU5uVVhlTlF2SG53OGtKaGdxd0FYcFVVTlU2RzdJMTQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1770105600
+      "published": 1770192000
     },
     {
       "title": "Roob's Random Observations: Why I like the Eagles' Sean Mannion hire - NBC Sports Philadelphia",
