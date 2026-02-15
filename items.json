@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-02-15T04:56:43.570664+00:00",
+  "updated_at": "2026-02-15T05:59:50.120865+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "The Sean Mannion Offense: Part 1: Basic Principles",
+      "link": "https://www.bleedinggreennation.com/news/170532/the-sean-mannion-offense-part-1-basic-principles",
+      "source": "Bleeding Green Nation",
+      "published": 1771103930
+    },
     {
       "title": "Eagles News: Maxx Crosby trade rumors involve Philadelphia",
       "link": "https://www.bleedinggreennation.com/news/170560/eagles-news-maxx-crosby-trade-rumors-involve-philadelphia",
@@ -169,12 +175,6 @@
       "published": 1770831127
     },
     {
-      "title": "Eagles News: The Ringer says Philadelphia is “on the precipice of a reset”",
-      "link": "https://www.bleedinggreennation.com/news/170478/eagles-news-the-ringer-says-philadelphia-is-on-the-precipice-of-a-reset",
-      "source": "Bleeding Green Nation",
-      "published": 1770826790
-    },
-    {
       "title": "Eagles News: The Ringer says Philadelphia is “on the precipice of a reset” - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaThfUGhoenBtQklScVZPYXpWQ0lEVXJ2RGIwZXZoZ3R6SEx2ZnByMV9yQXNIS2tNUXNFTkUyeS10Ry1sSC1XMlFDM0FkLWVFZ1drU1lhU3BONkZtQXRDbU9CNFFvOFl6QlBONlhCQnhzZTU3aUk5MHRjNE85MzdZMUYwZVVmbUZpNjJtMHpUNGhWenllN1NwYWNFTm5TV1pqWkM5Mk95OGhHUzlGTWFoajV6VVR1X1RGSnJF?oc=5",
       "source": "Google News — Eagles",
@@ -259,22 +259,16 @@
       "published": 1770721260
     },
     {
+      "title": "Adam Schefter shared potential news that would let Howie Roseman cook for Eagles - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0w1LWpSM1pSWk0tdUZRMm54YktDWmVyaW1rUWExUkI1ek5PSXRrOHMzVzZTQVI3d19sd0llaXRrbjVmeTQwUERyT2ZzM3hTaTlUcjBvY0RPOWpwR1BOMjgyZWQyQ29xRm9TZDRmRk50OFk2YjlpZ1plNXBHeFBRTnY0R0ZTYWwzajg4M1hzRDhwMmFmYXZmSHJscXJSNk1YcWxrQWRTeVZqQzREOFJLVnYycHR3N0pkMlIwZ19R?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770717600
+    },
+    {
       "title": "Philadelphia Eagles Open 2026 Cheerleader Auditions - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEQ0MTVJWkpNSDRhT2xHYzlxZl9aajVFODVqUTVBeW1sX2tFSFhaWGVKNFZXN1UyTTI1NnBPd1NNSHBQM2dMVy1Fb0JUT09rMFY2d09KbFN6eVlSRFNiaTZLeTZIeS14M1RQdjc5d3ROV2dfQklmXzA1VDBvVmktRDJYeGxsS0t2V1YtM2wzampfNjRmWWc?oc=5",
       "source": "Google News — Eagles",
       "published": 1770710400
-    },
-    {
-      "title": "The Eagles to disband in 2026 after their farewell tour - KOMO",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUlRWWlKWU1xVjlQSnFWMDZxcWtwRFdmZzdfanAwMlJZS0thbXBqM2ZpWDFsckpPWEM2SVc0c3N3NmNkMVNnaDdlY1hrNG9NV0pnSV8tOUF1emtJM3lvZF84RnJSbkVPaTdWcHVBTUkzdWdxZ0o2R1FFY3hWYlZfM2NkdldVS20yYUN5Q0pvSjFaNUhEdTRtaWVDdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770674445
-    },
-    {
-      "title": "An Eagles fan played a plant in Bad Bunny's Super Bowl halftime show: \"I had to keep it a secret\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnMxM3dxbEs4WldxcnAyYkozazU5U01mV3JaakwwU2pHWHpnVVlyVExLNmU2UGxBTjJrWFNyUW83aWV0TEFMalpDNnJ1UVRrLVBKeUc3dVhnVWU2bEkwb1BXaE4tVGpReTRyX2N4WWlLc1VXMGR0UzBwS1JRTFd5ekJJamN2RmJRa0x5dWJ1Qzdrdll5Z2c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770674340
     },
     {
       "title": "10 Things you Didn't Know about new Eagles offensive line coach Chris Kuper - NBC Sports Philadelphia",
@@ -299,12 +293,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUNqclBTU0lTN09JOWhZcWJwOGJHaG1XbEpvZXJiQWNabTc3cmloSnNMY1JRcTFGN2p3S0Fic2VTTVp2WDlubHUyQ0twbkhGd2ZLTjViYmpaUDRCM3BXUWNrbWozcDZScGNHZG5RMjdkdUQ0OXVaX2txMXJ1RG4yd0x4Z1A2ZUtLeExkaFVIUlJmSzNnNlc4Z2U2LTNuTnR2?oc=5",
       "source": "Google News — Eagles",
       "published": 1770655920
-    },
-    {
-      "title": "Eagles make bold move in 7-round mock and still land a dream draft haul - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGQ3QjJUbGxXdnNqMWx6NG5fakRxOXU3T1RKTlU2c19GUlFRczdMNE9wWDh4cjNoVjhQdnhIcWZBNE83dVEtazJPcVAzUUVkRnRxSGg5R18wZkRRQ2ZBNEhiWXlxYzZHZkZuRl9ORmRSMmVsaWRaUkZDN1ZxT0JMU3lhOE4zME5FRFNfMlowbjE1OEFUWERRdW9GRkUtQTVEOTN5XzdFQjdxMHB1VlVsQ2Nn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770651000
     },
     {
       "title": "NFL Free Agency: 9 Eagles players who seem likely to depart - Eagles Wire",
@@ -335,12 +323,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTVMZi1icXo4Z0txd2kybEVNZGd0aC1LN3R1clUwUXRMVTd5UjctNDl1dmlpRWhxbGtrQzhJSlh3RlZTLXJ2LXZoNzRiVGIxLUVoa2Jfd3RETFB1bnpIR2FwcU00WHowbXVjMnJLaWxOVzhYVm1ubHRuWjBLTUk1LWFMdkhIbFhDUE1zbmREY2RsX1A3b0lnWk41LUludExWbmxJVkVzejkzaUJMRXpZNXJYQldNVXFlNnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1770609802
-    },
-    {
-      "title": "Eagles QB Jalen Hurts introduced with \"Super Bowl Legends\" before big game between Patriots-Seahawks - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45U0JEdzdncUQ1VE1XbXJJZ1FWZEhiQ1ZlYklNOXRNcFAxMXducU1fRlNLSkhnQ1dVaVJoaXJSdFZlM2FGWFc3bTJVbmJBNnk3eVdwcnFyQjJJRU5ESEdCREZwNFp2dy1aNVBtbmJPZUZzWFl6amFLUV9qMUttdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770600600
     },
     {
       "title": "Eagles News: NFL insider expects A.J. Brown trade talks to pick up at the Combine - Bleeding Green Nation",
@@ -391,6 +373,12 @@
       "published": 1770480540
     },
     {
+      "title": "A.J. Brown didn't respond the way Eagles fans expected him to about the offense - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHZJX1JEem1hU2huUEliY2pCSTFsNWx5RERtNXE3UmV4dFQ2a0RtY1lkTW9fcExWUWhNM0JYODBQNU9Bd05GMHJmeWlKX0dBcUpPUkQ1V0Nmb3pwd2ktSkZnNXFkc1E5ZVFwaWhXbndoZndRTzJacmdwV1JKaXNNQTlBajdwc2YyRENmQmZCa1VPTDRxR1RnME1yRlppLTJ1SjlvYmZPWXM2OUR4Nm05V0EwT204OGZzbXJ3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770472801
+    },
+    {
       "title": "Jason Kelce says exactly what Eagles fans expected about new OC Sean Mannion - Inside the Iggles",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVJla2xORDljeDRTYlBsa2VxSXBuV21HOEVzOEYzeE4tY3hVbEdGa3dEdnkyOHJjVFFFcDNjUDJtNFlHV0xpMUlETjdOTGZfTWhMZ2hqbV9OaW8wZEI0Nkk5dGZzc3BwdXFlTHNhVjhCWVo1Y3FaWTFENW5scVpOU016MFIybE5XRVQ3Yk1mWDBBTEJWYU9SZ3VPSmoxV25Ub3VaMVRDckJnc0Q3TXZTdWx2b3RmUDBN?oc=5",
       "source": "Google News — Eagles",
@@ -427,8 +415,20 @@
       "published": 1770364800
     },
     {
+      "title": "Eagles Fan-Favorite Eyeing Return to Philadelphia for 2026 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnJ1MXhFYmxwRTd2eDZWOWdxM1hHVUpOYkoxZ0p3bHhIaUVaWGNwTW5CaWpsUy1TMERURnBGdjk4VXVPMm8zT1VQZXc3aHBIczdORTRwWTBNNWI0LU12QnpNVGxJeWtQbVBuVWcwcWZ6ZXZrWEFqZ0h4UW5uaU5LbmFWb3FsWHRqX0w2alJkVFB0US16VklUa2ozVzFTR2ZmZ0tPd1dR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770364800
+    },
+    {
       "title": "Jeff Stoutland’s departure, coaching staff changes, Super Bowl connections: 8 Eagles Thoughts - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDMzWG9lQVUzajBzR01hMmhPMHh4dmtkLTJTajNUWXhJQ2l0OHY5RFY4Z0U0U2JoQWpOSG44UEtQbmdpV0ttUXl2eWRRSkZ6WDZxU0pkLW5FN1ViQ0p4M0V3V05scnYxS2lyb2ZSM011Qnh1ejU5UVJiUDJ1eTd2Q0EtTDAwX3ozQ1RhRlkwdlBXclhiZk02SQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770364800
+    },
+    {
+      "title": "A Title Wasn't What Cost the Eagles Jeff Stoutland - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeEZxY002MVd3Y3pvNDJkT2JQb2hFSURwYmFiSGVGZ29xR1kzTS1uVmctdVBvV2tDU200V0FndVVGaWRNQ0hUZVZFOGFBaFU1Q2l4aVJ0OHdfYnVadWZlRTdnOFMzbjkzQzVfS1dQRVU1Zm50aF83N25pb3NFb2tlME9TbUlJaDY3cEtXMS0wNlVQQTl5WWJTRXcxX3JJTjdjWEtCamxR?oc=5",
       "source": "Google News — Eagles",
       "published": 1770364800
     },
@@ -463,12 +463,6 @@
       "published": 1770278400
     },
     {
-      "title": "Eagles stars 'block out the outside noise' around coach Nick Sirianni amid criticism over tough season - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNThKbkhKZ2xKWGtjOEVoc3pjR0R1a2ZsN2hXaFBpa3ZyVmFRRUpFSEJPeElkdTJ5UmpuTlBieENISmdQLVZwZ0dqRUxTMmdQSW1mU0hzMGJkRzVwS0cybjhteWVwbzRxbWZuZzFIdHptRi1qUV93NVE4SThyMnpZY2VqWDNINnB0aXRBaTRmd1lzemVOTVRYVU9zSTRsMDhEZkNHVFFrU1VKRk1YQ2RkZFVpZ29ieVVHY0ktX210bnZEbDVuZnfSAcsBQVVfeXFMT0dCSjZfb0dTY0dOM0RWU1NWQ2xIQ0lPY2t3d0lpVmY3MEZaTkJuZ0JVUXkxamVtS3NSRmNmYm4xY05uT05tSGdGVG4wTGZkSkwwXzJWQzZTdmMzMzdpbURyaVZfYWs3UGk5UUJodjZZNlR5SUF0SDBCNk5XZVNVMUNyZzNrM3JtdmVUVVAxX3ZmY01kQlNGWXZNYUpQNnE5ekV4SEJrMWZraERfejNjdEZrcW9qTjBqQXo0dUJEdmw0bnFXSE1sb1o3aHM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1770278400
-    },
-    {
       "title": "Eagles News: It sounds like Nick Sirianni disrespected Jeff Stoutland - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHBOQnZoTUlRWjNKQ2xrTkt3bF9PcW5UekR4UjgyNUxQeUdTZkpWUjBFd283cThOQWZpalJZakhSTWYtRWhwTWVrMDJ0MjBzSXh4aHhIVmJDWHdlaUJEdEowb3o0WWhxNnJpMGpHODNhSE5NdlAtbURLbGM1S1prZFhjMHFGUVBVZDMzUjQ0RlBZb3RGWXRzejVQcmNXQm5KMkdfbXp6QVZOQjA3NFRlRlpjZUk4VDQ?oc=5",
       "source": "Google News — Eagles",
@@ -499,14 +493,26 @@
       "published": 1770192000
     },
     {
+      "title": "Men’s Eagles assemble for first 2026 alignment camp - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHREVEZ3S1B0b0cwSHRUV2xPMnZLTERmNk82NVRsajBONk4yTkM0aG55d2ExMUJ0TkxDYVJkekdaTFZZcm9LY2RjcGxYbGU3SDF5aTZ5MmZ2SHFfSzdNcVQtSi0zMV9oaDVBVmhOZTFpWFFHZTN5NVdsN1pGSU5aRHY0Nl85QzcyRVgw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770148719
+    },
+    {
       "title": "Here’s a Super Bowl week roundup of the latest Eagles news - WHYY",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85R1VhZTliaTlacEJLczV6d184eWJlMzBPbUJ6MlZkN3VBbjFYVWFybFJNZ2JiX0l3V0lKLUx5RXlhelpHdExVWmNBYVhzbkRzX2tWS2RlN0JUSGhweE5mWFVEbkw3ZDZCTTkzWmVaYkhRdWlZM2NJQg?oc=5",
       "source": "Google News — Eagles",
       "published": 1770105600
     },
     {
-      "title": "Eagles could potentially play in Madrid as part of the NFL's 2026 International Series - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVzMtUFNXRFNaSy1pWEo0d1puNm0wdXIyQ1dIdkxvbFVucVB0UmlNVkV5dC1JSEJYQ3dPS0thTHBQQ2s2UDJVM1NWeDRqOEQ0Y3FqZ0pSSnJMZm1QUXJMTFVqR2toZW9BNXQ3TDRLa1U1djZlZlpQYldjUVU4STl2VnZ6YXdEN2dpWnkzTndlYWNZUkRLNzZuVUpNWXg3ZzR5NXNqNTlpRWYxOGRYZ3hDNjZWX1JkVTdudk93OGZXcTZJZEkwXzhMenVlcFFZdjBBanE3T3pKdENGeGYzeUNXLURKM0tvZw?oc=5",
+      "title": "Eagles legend Nick Foles gives his take on Sean Mannion hire - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1FmNHZNQ0ZHd0VETVVRT2FEYkphTGZ3Z2tuM0s3RGRRcEU2a1FzSk5uRWo5TzZUcjNlU2tRaWZPcHJlTno3amZOUHJaMzlYZlB6OGlQNUNEbm1lUlBvYXVZZnpQSWJMM0Z0eEt6MC12Vlp6NXo1QnJrLUV4RzlDZHpteVg4WXYyVHJ0bEhUaW1tRkY2VEgwRUlnUkVsSllVYnR4a1Yxbm1ZWDh2eEVNSTdDaDBaN3Q5VVlkdk1rLVlUbndXR0Z5U3hB0gHSAUFVX3lxTFBwejhpRGhfcXMwMmxienU2NXhJdi0zNUl2RTRRcWhFN1FUenM0bFhQeVozaHdydy1oWVVXWm1fM09rLTdNMFQzRGdxMXVWOHBnUWNTT2pFdkFMaTdKaFh3M0lHOGN5aXV3ZDZSTU9NNFMzeFdxNFU2bmJpOEZLOUZBbHJkWGl1ZHY0cVlLNENja3BpQWlXOFNoOFFCNjZCM2ZVZU9xeWxoNGYwYS13TTFvQzh0UDdzS0RnaHh0OEpxSGxrcVZ4TTBLTFpHWHdaUGJ2Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1770043538
+    },
+    {
+      "title": "Eagles News: Nick Sirianni and Jalen Hurts on the hot seat entering 2026? - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQzJPTUVMVUY5U2NIQ1BlUlZ0RnQ5VHlHUF8wYmVwVUU4NmlTMG5TUkVBRWVrTHM5allyWjJxNlpvdzdiRmZXeUlqdDZFY0lQcGJ1UnFxSm1CNGd2cENOYTZONjl2NE1MWWRuYzRHZXY1YlFLQlhveWVjYmdQWkdIMmlKYWpmNHZWLTNVVm5CNWYyZnJfNmJ1c0tWQ0thTGVta0lUQ2h5Zl9MUGxfUkNvZ1hyMlZBR0RqMU5V?oc=5",
       "source": "Google News — Eagles",
       "published": 1770019200
     },
