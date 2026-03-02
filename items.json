@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-03-02T14:12:55.313240+00:00",
+  "updated_at": "2026-03-02T15:07:37.585337+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Former Eagles Updates: Zach Ertz still wants to play",
+      "link": "https://www.bleedinggreennation.com/news/170993/former-eagles-updates-zach-ertz-still-wants-to-play-javon-hargrave-trade-nfl-news",
+      "source": "Bleeding Green Nation",
+      "published": 1772462377
+    },
     {
       "title": "Eagles to add former Philly QB to coaching staff",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-coaching-staff/171236/eagles-hire-former-quarterback-to-coaching-staff-jerrod-johnson-nfl-news",
@@ -17,6 +23,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWZlY29CZVJpZVh5TGgyRE9XOExWQkVaZXRtZklncGN6X09OUWlqa1VjU3ZJb05McDF1VUR6WEJnamdLS2tHVlFrOC1ZNnNoUktHUHVwamtMcTlXQW81MmJFYlRZVWNhTWF2cmtaRUJ0QzB5WjI0R1BodFJNQWlWZ25nemhiS1JmMTJNa3hjaFJuNWVrV0xuaDhkc0R6SjczcmQ0N0ZsckzSAbABQVVfeXFMTjN4aWFRckVsZ1pFWGNzNVhaUmdQUlhrV2hMdXF3Z242Wk9wa1pKVzBZUzdVc0JaZ29VdW9rSnFHdnBLZUtaaFdPbkY2OG9TV19lclQ1d3E3RXFGOVliYUtQNmI2WGJHUWZ4YWJ6RVNjdWJXZFB0UTVrTTRMVmJwOEVLblNFcnlaM01kNUdFSFFSdzV5aFF3TDBPOThBV1BqOE9PN204UllBREpQa0JfS1U?oc=5",
       "source": "Google News — Eagles",
       "published": 1772405409
+    },
+    {
+      "title": "Former Eagles player joins coaching staff to help Jalen Hurts and the offense soar - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2pDamE4YjFoaUFBa1J4YmhvQUZrWVcxNnRCdFNZWE9XMm1RdW5tNWZGSG1DQ1FpMEh1a0FKalVNM2pvR2pRX3ZBX3paakItaDBZVmx3WFQ3V3BqYVl6SW9yRVh3TW1mNUxqQjJ0dllJd0NXNURjN3hQV2d1RERrcjd4bTE1cGc1NC15ZzBQOUdUQkJ3dm9iXzlkX1FrZmdOeFZjUHRrMVhCY1VwXzhoOW5CZUV0X0dhSVI0cmp30gHSAUFVX3lxTE90b2ljX0dFQU41NlJGNk9FeVJEUXdhRHA0dXBXUEdMN1dmM1ZwTnNNb0dBVkdFOWNLZ0xneVNwNm5QaEdjblZIa0MyeEVzY1RKemQ4SXduMmZDeXgwXzJjeHIzY2RFZmNTV2IxUl84NzNHM1RpTVp5SWJkUE4yc2tma0VFTUdwbmlyVHR3dFBaYXp0S3dHVTVabkh5N1RQRFY2NzlsV0VYZlg5YWZpNWNmTE9xSVNLQWZNY2o4M25Ib2t4YkhJY25VckdMWmQ4bFBKdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772405280
     },
     {
       "title": "New 4-round mock draft has Howie Roseman make catastrophic trade for Eagles - Inside the Iggles",
@@ -97,12 +109,6 @@
       "published": 1772301601
     },
     {
-      "title": "Eagles predicted to land Super Bowl champion cornerback - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0xxdzB4WlYtODRvdmxNV1diTWhlX1YzSWpMakJkNmVWbHNYQTVDMW5PaTM2VG42NmVHbW1jWHNUaHNGRlVBQXV6LTlEUmlwc0JEeGt0UWMwOElQQTlPVGdsMGRPekFna3V1UFZYU1FoSXlkTjVXMDB0Y29FUFo5STBMZ0hCb2ZVWk5LNktYVkpJeEJQZlFGNlVnRjJCSlNDTm9wVndBRWc5QjBIVVB2YUFtWlNWNTBWa1RVSlI5ZXFOdm9kNGIzd0VB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772300220
-    },
-    {
       "title": "Eagles star likely won’t come back after turbulent contract situation: 10 potential replacements - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGFWR0ozVjdrVlBXc1FrSWNXZmV5bkR5Rm1YQmZBQkk3SmlLLWNCMDV2WmNOd215SUU1ZjJ5QmpoOU5QQ1EzNDRQX3FIWHI5WVU2SmtJQUg0NlVqMHNfSGpibjR0dmVoM1lpQzZKN09PRlZORVhJeFpEajdGUlY3VVlHV3ROR1pIRkNCckJIcmRhejlMMS1VRXZRU0JjeXdyaTh4MS1hRTVEbnY4SGFsVGI2OWZEYWNWOE1OdjNWSjdmQXVMbDQ5ZERscEl5RmNw0gHkAUFVX3lxTFBUWXZhWkpmLXppYTJvbDNvZHp1Q3RqblFqbnpsVTBMSUxoU3NLUlZ5S2M4WVpjU21ya3ZtS3pCeDNoYjc2UzFTTzVhcXdvNHpOWnZWUmpTdms3WUtyZEhjTWtVT3Q0b2dXQlpTd1h3MFZlbVo3WFZQSldvWEpaMldsZGNwYnBzbmJzRUEtM0hWNW83UndOTUtnTVBFdXBfZE10NFJGN1BmNWpOdDIyUEU0RWdpb1pPdHpEb1ppVThET2dPTUowV3VpcmlYT2JuVjM4b2lPREs2OW5CU29mNkVabHJrZg?oc=5",
       "source": "Google News — Eagles",
@@ -157,16 +163,10 @@
       "published": 1772244780
     },
     {
-      "title": "Jets Hit Jackpot with Eagles-John Metchie III Trade Deadline Deal - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWFkb0NDUWNkMFJqdW5iUDhLc2Q0dmIzcUxFbmhIU3d0Vll2MEF5dnFTSVpDWGxYRWZJQy1WSk9ub3JSdlRpUGNFTmJVVFdwQnRsUVpRdVhyN2VQYkV3dmpvY2R6S3dLTEpTTF9hNU5CeXNsbVFjTHY2Wl9QZjVVWkJvTmVVTUZPRXl3VE5UVjlGQ1BLTGRDM21vTlBwNXJqbzhfRGIxUmJPa1EyVVE?oc=5",
+      "title": "NFL just giftwrapped Eagles 22 million reasons to re-sign Jaelan Phillips - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnRZNWMxeWRRWVR4VE5GWXBvOXRSSjhPNjNWWUFnRWxGZkIyMl9ubUZ6WUJqUTJDSkZvbW5mZWFmbUw4b3o4Ni11d3FmTWlTWmZBSk16LU1QcGRXSGdOd3FJTUIyaXhlUV9IbkpQVXppYjNMVDRzajJubzJJVlhlUnBONVh1eVV0VmMxZUQ3RV9HUUEzU3ZwN2owS0pIUm0yNE1Dek9qLXZ1eTNwaDZtbGxseHE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1772233201
-    },
-    {
-      "title": "Ranking All 32 NFL teams by available spending After $301M cap announcement - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTlpJeVg5ZnJmSVptZklBSFNlNGFVUG1MM0VxZTRudm44QTlvTFM0LUxBWE5NU0t5Y01ldlpybi1lRkU2azJWMFQ5TEd4RGlvY2gxX0Z3OE90LTk0Tmc0alUtaE9NQzdETUtwQUZpR2dNVFZ4MTVtalYwek1rVGZCYVhxS05sMFpLYXBJRUFvSEtwekt5Z1hGTW1waFNNc1hjTjJUbjJSemlFMzBnVHpYYkdwZnV3bV8tZ0syUGVKaXA1Mi1Xbmpjc3cydEF3eGV6?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772221320
+      "published": 1772229601
     },
     {
       "title": "How the NFL's salary cap increase to $301 million affects the Eagles - Eagles Wire",
@@ -223,6 +223,12 @@
       "published": 1772155815
     },
     {
+      "title": "Eagles Predicted to Land ‘Perfect’ Free-Agent Weapon - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1c0MTZMOGlPR0dGREFUYjFKNW81cFFlQjlCbmdPMEVtOFZpUGUwVHVUb0Q0c1E5N3J3THc0UUUxTmVza2hXdFFheUlBMnBubjFxaWFqb1JvTExyYnkxelFPZHVfbTdvczItcWJqY0dKM2tvVnIxaGg0ZVNDXzZENXJkbnFoTzFQSUpzNTB4THZQWFhtNFE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772155320
+    },
+    {
       "title": "Nick Sirianni earns high grade in latest NFLPA report card",
       "link": "https://www.bleedinggreennation.com/news/171126/eagles-nflpa-report-card-results-nick-sirianni-grades-higher-than-jeffery-lurie-howie-roseman-survey",
       "source": "Bleeding Green Nation",
@@ -247,10 +253,10 @@
       "published": 1772125202
     },
     {
-      "title": "Eagles Film Review: Jaelen Phillips is a classic &#8220;want to keep, but may be hard to keep&#8221; free agent",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/171000/eagles-film-review-jaelen-phillips-is-a-classic-want-to-keep-but-may-be-hard-to-keep-free-agent",
-      "source": "Bleeding Green Nation",
-      "published": 1772122260
+      "title": "Don’t expect the Eagles to reunite with Mekhi Becton - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaEEzaGp6RDViLVVNWlowZ1ZRams4cUwxOExJRHV0ell4MmhpdUxlZmtNbjFCN0xNa3VUZVk3RjV0aHgwWktmeDB3by15ZG9jWmFpV3VMU25oVXVPeXZEZ1RQbms0MXFVYXZIc0haeHUxVEFYWUNFalc3cDJOZUtPVERBZS1Ga2VvVllDSk1ad3pGNktCNEg1WTJrZ2VSZUprY2gxSl9iZ0U1U0d5emlyVHJnUmRvd3Qzc2VsTGxFT2hFVTdJWHp5dUFNT052R245ZU5ZTS0wc3kzYkVYWk5CenNKSQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772118217
     },
     {
       "title": "Eagles News: Mike Vrabel does nothing to quell the A.J. Brown trade rumors - Bleeding Green Nation",
@@ -287,12 +293,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3cwaHlveXpMRFl6bUYyTEtHSDNHZDlwZEJZSnJuWU11MHJtRmlsM2NqTmhJcGRkcGFYVkVhV2Q2RmtuRnFUTEl6cUdheDlQSXNwVUpISTRzVXBWSXdCQmsyUUFzT2s5QWpERXJWVVdPNmd6TjZKSExpdGhNYjJvZE5GU2wzU2pyVDRSME40aGYwNGdfU25raEhGODh4NlNieWtGSERuRUJoQmtaM09xWC1DNEl2UGk1ak1XTTI1T0lFUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1772036820
-    },
-    {
-      "title": "Eagles Announce 3 Stadium Dates For ‘The Long Goodbye, Act III’ - Pollstar News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWhLR2Z5M1dkaUxSdlg5dGx0bmRDdzVnWkVjUG9RV0Zyb2FrcUVicXIya1NrYk5WOG03RE1LT1hKN3FTVFBYNVR5Q2JlZUZ4b1RKZnF1elZKTlY5enVFY3BTQzVTd1pqNU1tN0xMNXpJdmxoOThGa3UtWkVGMHVJdTAxMENpb0ZmR3pWOG5FX0RwZk1BLVBBSnl2akllUlk?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772033047
     },
     {
       "title": "Eagles Autism Foundation contributes $10.8 million to fund 54 research & community projects - Philadelphia Eagles",
@@ -385,6 +385,12 @@
       "published": 1771872434
     },
     {
+      "title": "Eagles All-Pro Predicted to ‘Reset Market’ With Crazy New Contract - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUNQU2tPOWNEQmRQTnNXMTRKalRWV1VBRzV4dkRhNVBzQW5kN3pkaE1EeG9oUkgwUG9QWWdCMGZlSmZub29SdzV5bzRaNWg3MHA5YXhNRHVqTFZCY2VPR25uTmN6eUxDVXlMeWhrV29heUx2ZTR3M3VLVHNjUkEyUGJneHliUGhKd2trMkNINkM0bFh4WVhB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1771872246
+    },
+    {
       "title": "Trade A.J. Brown? Here's a 4-pronged plan for Eagles to replace him - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0ZjQWVFSm4xall0b1I4WmZYQi14M2l5LVA2eEZxYjJ0S2lDbFBPZFR0STlOLThfRndpRmUyNVBIcXBZNnBYTlBGTVJtWVJsdDUwMUVGTUZ5S2ViVG80QlRrV0JNMHdHSEc5WjJSM0p1a3VmZ0ZTMUZfYUx4ZUxYRDg4SURLaVVJaDNXamNNeFFBVW83Sml1SmR3azdydk1IRldsaGNkWkVGLVFXZHo1YTFnRkotOHpRd3BhbC14Vndodw?oc=5",
       "source": "Google News — Eagles",
@@ -439,6 +445,12 @@
       "published": 1771747200
     },
     {
+      "title": "No. 12 Eagles Down No. 10 UConn in Overtime - Boston College Athletics",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXJ4dU5GYkJnTG5qWTc0X014SVUwQkpBYmVJa0RHQ0o0bXRRVVVEOXA4OTlEZWR1MFN3X0xjMld2TURBb3lSLTFxX1l3RXFfQjNpaU5oaDI0cl9EZ3dCLWtscWFLY2k0YXgtSE90WXR3UGRLcHpLYlhCVm5NR1RlQnJpX1Z3cnIzcXZ6YWZMWUthX0U?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1771717781
+    },
+    {
       "title": "Eagles News: Saquon Barkley downplays A.J. Brown’s “trolling” - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWlDdWJuSXMyNjFaSWlPQkVseDJjSF9GVVBhZ1hTY0pxbk8xZE1tYks3aVhWdmlUTkI3aXdDMjZMTmNORlI0cWtrYjNDMm9ickRqSGxDSXkzRXU5dlB6MkNmSXhmUm1zSXFiYWJYcW1nb0ZkSjNpSFYtUlpLUEUwQTlVbVFCS3hMV3hFTFRSd3RUc0psRDlvaFdPZVhtVk9vSS0xU3B6UQ?oc=5",
       "source": "Google News — Eagles",
@@ -469,16 +481,16 @@
       "published": 1771574400
     },
     {
-      "title": "Eagles Predicted to Land Polarizing Pro Bowl Playmaker in Free Agency Shakeup - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2JOczk2ZDZ4aWdkUTVDRHBSZmZzZ1EzazltRFNpWktEU1RMVWRqRXNjemwwMy16RHlYWk00TndRblNCNnZxUjZ6TDFoMHVPQ1ZNX1d5MF8wZjFHNjlhQVJjSzhQU2tZaFZReFVJUk1pYkg0SHFjUlRWV180dmxPUEZrU1FpYW12c0pnRg?oc=5",
+      "title": "#1 Sharks Earn Hard-Fought Win Over Eagles - Nova Southeastern University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1FmenUtU2l4OGxhRzlYak1KNkxjQUN6ZGc2SUJfQWx5WUkyZkpoOHpGZFJKdjlfUmNsbU10ckVCa0JWbGNoRzlTS0xpQ29zeVNoQ280Mm1IbEpINDFacmQxdFVPRnJOSUZaalN5NHZpMlBTampkano0VUExXzZfX19JTW82SHJXU2N4VWJLVVpGTkoyMmRGR3Y0ekkxRlpOUllKNA?oc=5",
       "source": "Google News — Eagles",
-      "published": 1771574400
+      "published": 1771502612
     },
     {
-      "title": "Owls Take Down Eagles, 4-1 - Florida Atlantic University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0ODBDck1OVU84UDlsNllWTzBjajBuVVBRdmIteGhnWnJmZjVqeWJSY1lmLVR6ZHJRdGh4TV9nNnRfc1ZFZ0NERzI1RTVLU3VWMGNQaFZFV3FDYTZKQlY3VWJoNC1MQzhOMWR3OGJ5c18tZHd6Rm1MaEFReFpVZXc?oc=5",
+      "title": "Former Eagles coach didn't hold back his emotions with impact Vic Fangio had - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGZueFFVZnRTaWUwcDNIT05hTFhDaEVuX25Xbmo5TGdTRkFxS1o4XzRRTE1qZFZOVGxKME1VeHZ0c0VLeVJDUkJyQ1Z4TF9JSVM0SXAzVnBNb0VtekNSQmJzcE9VMUwxeG9PYnV6MFpHUkd3RTdJdVMzSjVXMXp4WlBMR2d4QWp6Z29BeWRObS1yU1M2enNPLWZ2RkhkMFZpTDJua2N2ajRCaV84UmJsUHQyUW1BSFNx?oc=5",
       "source": "Google News — Eagles",
-      "published": 1771574400
+      "published": 1771502404
     },
     {
       "title": "Trade offers for Eagles' A.J. Brown: Four potential new teams - ESPN",
@@ -497,18 +509,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmZ4WlRhUkFXeHVOcnJ0d1U5OXktVUVFdDhKRzVRenMxOGlONmJzRFZkc0JSbG9qWThTanZkNGJFaktodkpBUl9RTXF2OHJTUmw1NnNUdG11eExKTEVnczJEUVdmLWZsdzRFcFlyeXdkSWFYVnBleUkyczNwM00zb0JLNGFQYnhFaG9Lc01XdmJUT29XZmRUQURjNTR2WFBIYVg0eUNZVHdyRUtpTmxwUW5Lb1o1S2FrTFYxZDh0b1pudEZEaHBZ0gHPAUFVX3lxTE5TOGo0WjZQeHRRT1d1R1F3amZSakZMdXVSWWhENld6Q19YTURVYkNFYnplVi1YMl9hRUZpRFZieWxGR3dEdmNkVDdmYTFTblRHRU1TR2lvTks3T2o4bjI3U2dxdUhuWjVqbVpEYnlQcWJCcVNlSzJldzZMX2l3VFY3QnpfRjVQY1BrWjhaZ1A4UC1uSkx1S2tiOFVVNDBnbmRTdkJxQlZ2VjNqWXR5NHRpRHhNTTFIM3ctLUEzZG9NWFFONDhxUzlHTkltOG8yYw?oc=5",
       "source": "Google News — Eagles",
       "published": 1771401600
-    },
-    {
-      "title": "New Report Deals Major Blow to Eagles’ Maxx Crosby Trade Hopes - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODl3TjRLMjlPdjNqYjBCalA4TXh3bkVPX0Z2Y3dsWEwxQzZBSlVXOUMwSkdMWGJWOWgxd3J2cDl1ckk5MEtYSmlmblpDLUR2Y1ZuZE1Tb3RidkdfV0JSVFpiMFpzU3NnRWV2RXVseDFGOTRqNUVhUHRNWGVWVzdGVDF3MXctMFM4NXFIOVI4RGtJbHBvLXdWajZ2bE5lNHF4TzZySktiSzE0Sk1NTlVZRw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1771401600
-    },
-    {
-      "title": "Eagles reportedly making an internal hire for next QBs coach - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT2Vza0k5em1DYUtkalkwaU8wbFhJa2JLSmhITTJCbjU4aXc1M3hZR0dGOThUeXBwcWRaXzhqYkdDZ05idXdTaDZvM3BaNDhWMVRRdktuUENJb1BqaHk3d2t0VHhhRU0tNEJhYWl4TlpxOTM0NEtDT2NQSzBMY0M0T0FBdnZTV25qMTNLeHBqN1JhaVkxdEthSXJUQW1YaVpUemQ1SFhXbGJFekduaWNLSkxodWtOTlZmQXZRdjViUDBLbWFhQ0dpbEJlbklOckVndWRGVGFYaXdETVlrZmN30gHnAUFVX3lxTE1DNW9tSXNNUXpIN3duTEI0SEJkaWlfaXZxZVczRk54QU4zdEhyR1pOZWtPZ0xHQlRKMkFMSjNYc1BoSGdxR1R5bUpOYlRTOU54d3FRNnBxTUdzTnFxRDBuTWxnS2pzVGpBQU1LX195UV9CQkhCbXlneFE3S0NXX1E3ZUlhU1g5aTFhZUhqUVM0TVd6ZGZzWUtodERtUDB3cUZIX0Y3cm1TM0Jjam9YeWtmV2xTbVF3YkgtMnFPemNXcWJlWHJUazJCTnZxbzA5UXZPUE1LX1RXNkl5bEM0ZzVNczZvUEVoWQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1771354222
     },
     {
       "title": "Eagles to rename practice facility: The Jefferson Health Training Complex - NBC10 Philadelphia",
