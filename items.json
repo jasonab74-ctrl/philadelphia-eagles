@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-03-08T08:35:42.363289+00:00",
+  "updated_at": "2026-03-08T09:33:09.441058+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -17,6 +17,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVU1UGp5TVozeWtpSmVKb0M5OUxxQjFCZVZMcFBZRjg5aFBzVVRrQWk0U2JhNjRic3BMSm92UkhUSEs0QW1BWGxfY1R4WGtEa1dPZXZBOG1mSFA2THZ2MWh0eG5jRlJrRkJCV09BZUo5OTJnb2dVQXRJdkZQWjd6c3BicS13bHdWU0lMWW5tYzVybUctX3dtTm01UEVvdy1LMEZhNE5BZVoxLW9ESzRMWUFDMm1idw?oc=5",
       "source": "Google News — Eagles",
       "published": 1772916290
+    },
+    {
+      "title": "Eagles' D-lineman cashes in on 'easy bet'. It's not Jaelan Phillips - Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSk1PMjBZbVRzOF9YX1oxbnlYX3VUWWZRSThXRmpDSUhNMnVjY0lYZDNlME53b2p1QTZYaElMTDJCdnlHSDIzcnByZWZ0VWZUMm0tR256QjBnY1VWSTdCVVhvZjJfek82dWhqdE1SYUZJQTR4Sk53czhWMVZ5MGpZYjQ1bmVWT3lkTEwtV0JyMjJHVnh2WU9DSDFuT1doMkRDZFJTUm1adGZMMTBuYWtQLW1YajZTRkRLZlVfT0NkUUxZVTM5Z2RVTTZJZ1hmYWFGaHRqTXRUQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772914920
     },
     {
       "title": "What Jordan Davis' Massive Deal Means For The Eagles - Sports Illustrated",
@@ -205,12 +211,6 @@
       "published": 1772735626
     },
     {
-      "title": "Lane Johnson sparks wild Eagles frenzy as Maxx Crosby trade buzz hits new level - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0Rpcks3aDVKWWJrWEEwM3FzdGNkd3ZYU21DWWtjZFFaN3h1Rmd0WllMVk10TVh6UXcxa0lOaGNwVDVBVTFmczhaejJKN21HVy02Q054Z2xqQmZHWkhMdkhmNWNwNUdvVHlTdzNlUDNmSHRfZlhjY002Vk9fYXU2UUNZU21qdnRDcWNDc2JNclptQ29aWFA5MG10UDZNdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772734724
-    },
-    {
       "title": "Eagles dynasty or downward spiral? Why 2026 is a crossroads season.",
       "link": "https://www.bleedinggreennation.com/news/171412/eagles-dynasty-or-downward-spiral-why-2026-is-a-crossroads-season",
       "source": "Bleeding Green Nation",
@@ -329,12 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVU1YU05N0RCVnFaN2hDZUptVl93elhUZlc3dzZsSkN2c0RRN05GdnZVS21aNEdabUlBTXVlLW9yaGI3akRsNDVpdWlSdW9RY19QMFl0SEZDUG9VaXNIMFlOcEhyWFgwMFZpYXUxSmhicXZmUFAyWE9qTFQzeVJubl9qNW1vZmJfSWpzSVNxSHM4TURWOW9WZFVVTFBfdFYxMk04Sk1wcmlCajlLNHRuaXd1LWFaTk96NjF4U2lB?oc=5",
       "source": "Google News — Eagles",
       "published": 1772571600
-    },
-    {
-      "title": "USA Women’s Eagles Sevens take on North America for Canada and USA SVNS Stops - Eagles Rugby",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTZVWlloZ1M0LVJqTkNpV3RaQ09EMnFiWGRWZ01uMlpENmNwZG4tb3RRLUtYV0tGRkdjaGNJekJYQ0piYTNkb0FQZmZkakl1OGhOZzROXzJlWFlyMHVSQno0bDBtRjNSZEJ4bFdYalN2ZHlPS0tFbXFvcU40OE5rZDFuMHoxS1N2NnhoWVdVeG1FRDZnVXk5LUQwQ3pHSVFpWGUxOThwaHJSV3FFUEE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772566414
     },
     {
       "title": "Ryan Fitzpatrick on the Eagles OC position: ‘The standard is so high in Philly’ - Bleeding Green Nation",
@@ -478,7 +472,7 @@
       "title": "Three trades that make sense for the Eagles, non-A.J. Brown edition - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2lOaGpoN1RjQ2tEUWpiSDI4TFlEMy1YaVlLQTktbHVFN1ZfR01CUVpLQ3NiRlBaZjFIV0pWRnlLX0t6R2ZCMGNGZVVmdzE1anJmZmFqZ3RFekFKdWtHdV82S3NoZTdfSTIzRVM2YUJubU5jVFN0VDJEYW5iM2xXWHcwTXppUjRTSzZHYmdQWTZSc1lFNk1KcVhpT2NKSENvbVQySUxPSXN3eHREV1pIbGFKMXhCQUlLYjVFRg?oc=5",
       "source": "Google News — Eagles",
-      "published": 1772194053
+      "published": 1772179200
     },
     {
       "title": "Eagles News: ESPN projects a free agent signing - Bleeding Green Nation",
@@ -509,6 +503,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaEEzaGp6RDViLVVNWlowZ1ZRams4cUwxOExJRHV0ell4MmhpdUxlZmtNbjFCN0xNa3VUZVk3RjV0aHgwWktmeDB3by15ZG9jWmFpV3VMU25oVXVPeXZEZ1RQbms0MXFVYXZIc0haeHUxVEFYWUNFalc3cDJOZUtPVERBZS1Ga2VvVllDSk1ad3pGNktCNEg1WTJrZ2VSZUprY2gxSl9iZ0U1U0d5emlyVHJnUmRvd3Qzc2VsTGxFT2hFVTdJWHp5dUFNT052R245ZU5ZTS0wc3kzYkVYWk5CenNKSQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1772092800
+    },
+    {
+      "title": "Overseas Eagles convene for UK camp - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fRm1WUTNhYmtxZ2pISEFmczZ1cUZhYVlSN2lTRlR6Q3RqeGZfQ2dLTHJybTZIYWVYV3VuMk9HaHg3MGhQNkwzdUduTkxSX0FOdGNlNmdnYUhPQnJlRDNreU9qQUlWUlozendCaUhTQUktMjFF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772069354
     },
     {
       "title": "The EAGLES Announce “The Long Goodbye, Act III” - Vanderbilt Commodores",
