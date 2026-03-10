@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-03-10T08:49:48.132191+00:00",
+  "updated_at": "2026-03-10T09:50:12.730219+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Why Eagles free agency disaster will only get worse. Can they respond? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS2dZMGoyVDMyUTFrTkFqcVBNa25mTF9FY3oyQ19OT3ZsaGRhZmJQdXpmZ3RiQlNDSURIelJ0blo5MkdxR2E1MENIeWk3Yk9vUi1CSjFrczRFdkRUbk01b1BfVGRmeHJQU2xCM3VrYlNGbTFvdWFzME1TbWYtMVppVzVhc0kwaHlsOEpsd3VITUNRTHZzVlNwU0xaTTViOWRXZVRqSGNnUFQxaGtaZEpIQ2owMmxMU0VCVjktVjR5QkxKbGdyNVpSUFp0UjdYRl93QmgwcTBiMnpVal9YYThWa3BuNXNoc1g4RnBha1pGU3FVeUVmSElEeXhidzNUaFVOUTNjYThEcEc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773131708
+    },
     {
       "title": "Eagles Free Agency Tracker: Rumors, Reports, and Signings",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-free-agency/170657/eagles-free-agency-tracker-rumors-reports-signings-nfl-news",
@@ -115,12 +121,6 @@
       "published": 1773083820
     },
     {
-      "title": "Michael Carter II just made his biggest contribution to Eagles with subtle move - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW9qZzZ5dHYtd0R5eTRrUmVRRDFUT1g4RWdISnBkc1F5VlpFOW91QXkyQThUV3cySC12ZUlnaUlwYmpHZGRQZE1RVTh6ZjFMU2ljNVhCX3p5Mkc1aTRhdzNKajJRTUxPbjdBUWdncFJGOUlfUEFxTDJGUzVuZFltOF96SUdMNEhwOHhGSE1JU3JBYmJXckpBLVQ5RzctejQ2VWt3VDM4SXNLZXFlZkFLMkd3dUZnT0VwSl85Wg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773081254
-    },
-    {
       "title": "Jahan Dotson will not return to the Eagles",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-free-agency/171646/jahan-dotson-will-not-return-eagles-free-agency-falcons-news",
       "source": "Bleeding Green Nation",
@@ -191,6 +191,12 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGZPLURVRWRfYlFhVXFCUXd1MnpsRE1GdVdHOWpnb3hOV3VjUjItWUszaG5qemxqMWhtdXRGV1JiTUNfMXY2TXIxMENEM21YX3ZmMERJdFptZURQQXBDcjU5Yy1HLVlQUzR1TmR0aWFGejF2VEhMcEJrbXk4SkhvaVo0NnNUTy1LU1A5YmtOSWlWSTYtUDJETDA0eTJUUGs4ZWVBN3VhZVN0T0RWQVpCYTNFX08wYkFZLWVsOHBIaXNGNU9xcWZtdEdB?oc=5",
       "source": "Google News — Eagles",
       "published": 1773076383
+    },
+    {
+      "title": "Philadelphia Eagles lose Jaelan Phillips, Nakobe Dean, Reed Blankenship in NFL free agency, reports say - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmh1clRBVUM4elk1VHlWWmxpOXYyQmJ3NTZZYW8zamZJV2N0WGlWZy1MYVVOYkJaRkR1UzhiX1FCOW9lMzZ1YldqUnJYZ0U5TUt6SWhhSkh4Ny1YMkRVOVJteVVMeWVoMWdSR3BURURkS0l2RzFqMjRNUFFvQ21nX0hicmVtdXUyMDR5Z2gwYw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773076380
     },
     {
       "title": "An hour into free agency, Eagles lose Jaelan Phillips to huge Panthers contract - NBC Sports Philadelphia",
@@ -271,10 +277,10 @@
       "published": 1772967600
     },
     {
-      "title": "How Eagles-Jordan Davis Just Made NFL History - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjhXTjhIN19qM1V0M3lEdTRwbFJkMmFHM2VSOHRibEl6Vkw1NzloMHp1SXk3azBRQTRtU0wxaHdxSUFkLVBIVzJxR2M1cFRUNUh2QkFJNjM1U0hHcEtHRDBaWE9VYkpuQ2c3ZGVNY0FhNXRvR0xrc3o3WF91aHRnLXlhNnUyMlVWaDJWc0wyT1oyZVJp?oc=5",
+      "title": "Eagles Jordan Davis Not Done \"Scratching, Clawing\" After Massive Extension - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVU1UGp5TVozeWtpSmVKb0M5OUxxQjFCZVZMcFBZRjg5aFBzVVRrQWk0U2JhNjRic3BMSm92UkhUSEs0QW1BWGxfY1R4WGtEa1dPZXZBOG1mSFA2THZ2MWh0eG5jRlJrRkJCV09BZUo5OTJnb2dVQXRJdkZQWjd6c3BicS13bHdWU0lMWW5tYzVybUctX3dtTm01UEVvdy1LMEZhNE5BZVoxLW9ESzRMWUFDMm1idw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1772912381
+      "published": 1772916290
     },
     {
       "title": "The Eagles have made their first major move of the offseason - PennLive.com",
@@ -519,12 +525,6 @@
     {
       "title": "Three trades that make sense for the Eagles, non-A.J. Brown edition - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2lOaGpoN1RjQ2tEUWpiSDI4TFlEMy1YaVlLQTktbHVFN1ZfR01CUVpLQ3NiRlBaZjFIV0pWRnlLX0t6R2ZCMGNGZVVmdzE1anJmZmFqZ3RFekFKdWtHdV82S3NoZTdfSTIzRVM2YUJubU5jVFN0VDJEYW5iM2xXWHcwTXppUjRTSzZHYmdQWTZSc1lFNk1KcVhpT2NKSENvbVQySUxPSXN3eHREV1pIbGFKMXhCQUlLYjVFRg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772179200
-    },
-    {
-      "title": "Eagles News: ESPN projects a free agent signing - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcE1fZmpZTG9jekpMYnlzak1DeWNnd1BiYjN4cDZkb3dpMmRqVk1ZbzRBdlJGaWtOQVhLcWswNm5VaDkxYk9heFFjTld4Y1pBdjdjdjZjUHFzRDhBMnI0YVlmMzhpZm1pbGNQVUlZRG1WaDhjOGF3Q0Y1eURhc3ZSMElSTUR3dF9kZ25ZQ2RfSWJPM2ZGbGJ0YU9n?oc=5",
       "source": "Google News — Eagles",
       "published": 1772179200
     },
