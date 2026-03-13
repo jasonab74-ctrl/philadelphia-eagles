@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-03-13T16:03:07.049171+00:00",
+  "updated_at": "2026-03-13T17:06:30.521021+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Riq Woolen to Philly among “perfect player-team pairings”",
+      "link": "https://www.bleedinggreennation.com/news/172206/eagles-news-riq-woolen-to-philly-among-perfect-player-team-pairings",
+      "source": "Bleeding Green Nation",
+      "published": 1773419704
+    },
+    {
+      "title": "Eagles 2026 free agency tracker - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUFQMVVTR1Y0Z0hDZk5rYTkzcEtLbnlsU2RmUXk4ejUxZ1BtNWtlVTFRaVlKeFBGUDIxVFhSMG5vRzVZeWtYcjBCQldJaFFHdG5TdkJVLXZQaHRleGduMWlCQTZXdzl0Yi00RjZEUDRySEZndzYzOHFHVmNkd3FCWkR0azdzZmNtRHF3ZXhVZmJvdnFSRGVJMllLUnBkUHYwSFpQVGZqc0RjYVRaZWtad0VNMFRBcHBRSzFJVE5FMHFPb29D?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773416259
+    },
     {
       "title": "Eagles agree to terms with Jonathan Jones - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWZnYkRGTTgtS3pKNUJmMERSNy1HOEpBRl9VU1M0OXJHcTJEY0U3M2w5enYxeldnYVBFUnY2S2EyV2xSZ1VVMi15LXB0d2sxSUZ4bEEyYVN2QVp5U3B6U2lvRjFILTNITWpYRkxWcWlqY2pyVmJFQ2FKMmF5Y09uUEZR?oc=5",
@@ -25,22 +37,10 @@
       "published": 1773408606
     },
     {
-      "title": "Eagles 2026 free agency tracker - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUFQMVVTR1Y0Z0hDZk5rYTkzcEtLbnlsU2RmUXk4ejUxZ1BtNWtlVTFRaVlKeFBGUDIxVFhSMG5vRzVZeWtYcjBCQldJaFFHdG5TdkJVLXZQaHRleGduMWlCQTZXdzl0Yi00RjZEUDRySEZndzYzOHFHVmNkd3FCWkR0azdzZmNtRHF3ZXhVZmJvdnFSRGVJMllLUnBkUHYwSFpQVGZqc0RjYVRaZWtad0VNMFRBcHBRSzFJVE5FMHFPb29D?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773392377
-    },
-    {
       "title": "Who is Arnold Ebiketie? Can Eagles new DE replace Jaelan Phillips? - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWGJmNEdLSzZUNy1BcEtldVNuSzFUSnpoeE0zY21YNWVScDJSdm9fUUhXRmpLTDZWNEFyN0s2T0JaX2ZaTW5GZDFGM0l3U0s5S2JnRklBNnZma3NTRGFzWmFpWHdLSmlZcVF5VmdOTTF5MDlGTUtVSHdma2lJc21iZXZJUnFpSzRRNzl4MEgyZFdiNlZWSzRYSDRmVnJFLTcxeVZSVmZzeTJNOTRJQy1reFpiYW92aTVzaXpfRTBURVNrclk3U1VqRk9MbVFWd0h6cW1raEJUY2doeEVVdmJTcDZiNnA?oc=5",
       "source": "Google News — Eagles",
       "published": 1773375180
-    },
-    {
-      "title": "Eagles to sign former Falcons LB Arnold Ebiketie to 1-Year Deal - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZVFldE4yMEd6X0F1U2dmek5MRl8tOF9abXdIR2M5RHRwT0V4bE5vWG9vTTlNbnlQYXczakFrUWJaaXdQdDBST1c0ZnRIN0loZ08yVVhwQ0t1a0g2SFRTZVVGSk91VTNiT3Y0TExYekxjRWhRRHhnVDBNdVVQejZ3OGJZV1JESWptZkc4NXVSWFFsRWhYMi1qdjNrUHlQZkNUQVF5aHh5ei1HcDZzWEJMQi16eHBCd05lNkRIZVZmdml4QQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773374400
     },
     {
       "title": "Free agent Arnold Ebiketie reaches 1-year deal with Eagles - ESPN",
@@ -56,7 +56,7 @@
     },
     {
       "title": "Eagles adding veteran edge rusher with upside in free agency - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUU3aERJMVFIY2pkMktPNFlPd3MyOEs4bUZGWXJfejkxTGthalM0aTg3NG5wMi1vdTYtQ2UwYXdfZy1obnR5MG00OTA1U0IwR0dvUGEydUdSRzVzd1JGZ3VZbVBLeThrRTgzRjZoMHZMMmN5YlcwY25TT1p0V0JXRTR2QmFfeFBJQ1FvTl9QMVA2a3RlMlNJTElmYS1Wd2VKYmFGOXJETXhJdGwwaG11YU1lY0tJZHpmRFdEQ2steTd5Uml4WUHSAc4BQVVfeXFMUGQ2RFBVNG9LUHM5OVFfYmlSUjJmV25MaXBfQV9EaFJWN0t2Y1lfc0ZyQUlzRjBISGN5U0tHSjFoUEtlNkVKdGJHcUxmaU1aSFZhNmNieWFNN2lVVTVkdGN4WkgwM0RuWkYweEFXYmc1X1JtM3FjVTJUSWZIY2J1REV6RFZqeU1ib0dmekkyZW0xbS1sLUpoQ0wya3lIV21mSi1JUklYMmhfTUpDUWo0ZGZDYmxvVDFUWnk0MkxJOG9PR0pGM0E4VldjTkdwdmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUU3aERJMVFIY2pkMktPNFlPd3MyOEs4bUZGWXJfejkxTGthalM0aTg3NG5wMi1vdTYtQ2UwYXdfZy1obnR5MG00OTA1U0IwR0dvUGEydUdSRzVzd1JGZ3VZbVBLeThrRTgzRjZoMHZMMmN5YlcwY25TT1p0V0JXRTR2QmFfeFBJQ1FvTl9QMVA2a3RlMlNJTElmYS1Wd2VKYmFGOXJETXhJdGwwaG11YU1lY0tJZHpmRFdEQ2steTd5Uml4WUHSAZMDQVVfeXFMT2NlQkJKVXU0cm5BWU9LSHkzVnlVZTBpRHdSOFZXWHNZX3RDYUl5TVUtT1FpeWxQdlU5a2Q2TXZPRDZPNXA4TEFrSVpRTTVoaWdEbmVxc3BLaU9DcG1mYncyT3dMVUtaXzFrUENLZnIxZkFBNktWQm16Nk1Yc3hySXhYQmY0U3FsN1lkVklMQTZBbFFDX3JKYlJHdEtTSXBqRGtzbDh6Ny1UOVJVYzd4QUltMWFGN3hzSk9qYjlQWG5IdFA0Q0VOdjI4eXNpVFZlSHR4SUxHTVZYV1ByRmtTNE1oUXg2dkhKT2dRcjJhQkpoS1pOMnYxRVoxeVd3Rkx6TjRvemltNGQwQjFRbWxRZk4yTDNKSldBdWNNd3hzWVlHdXg2MUNheHZhMXZhLUNwRUs1QXlYVVI3Smc5X2U2UE9RMTF5ak1FRFdhYkkyNmowdEh1OUNZcGVzenZLVVJ4aF8zUktVRnpDTlN5Z1AzWlhleUdtZ0RRYzFPaUR1cS1ERE42Q1F6NGlvSnFHX0NEeFMzMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1773371859
     },
@@ -71,12 +71,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGlwZy1NVnN4V1FhenRDdVpMdUpVSmM2eFA1MUdjakRBaUFrOTJXMkRmZUZhQVNHdGFLZFdTZFpVWmZtQzFySzIxUlpWbzZIVG9FR1h1UUpNeVh1QkhwLWlBd0l6eFVpamVQSkJJVG9QaVRRX1QyVHI1WWtMdHE2UWpn?oc=5",
       "source": "Google News — Eagles",
       "published": 1773371246
-    },
-    {
-      "title": "Eagles Free Agency Tracker: Rumors, Reports, and Signings - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXMxcmh0LWljRFo0SDdGUTVRTzVLUHo0YW9CeWoxZ0JvMHBiRUJ5UGhKT0hsQi1KMWs5WmRiQXhiRVdYRy1OdWpoN1dRNEdvdkZUVTBUd2Zocm03ZHRERnJSdUg3WmZrS2pFemQwYUVzNFRaNTNFeFNka0VGaVUyX05pWE5xUXp5Y0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773363445
     },
     {
       "title": "List of 2026 Eagles free agents",
@@ -113,12 +107,6 @@
       "link": "https://www.bleedinggreennation.com/news/172163/2-players-are-notably-not-returning-to-the-eagles",
       "source": "Bleeding Green Nation",
       "published": 1773356771
-    },
-    {
-      "title": "Eagles Winners and Losers Post-NFL Free Agency Chaos - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSW9FbUFTOV8zd3gyNTFCV0JpbVNibnQ1XzVScEMtRkd0TWgwYjBpTHVrTkY3d09aMTFYVDNZY09jcGZEZWwxVDYxdW5taGJ6MkNZYUtqMFdCRUpBOGJPTjJSWHNOaGROR3BzOThYNWJ1V2Z1Uk80YTVfaURFWFZNN25aWnFZbEZOZHBQN2gyNUc3NVYza0o3UldBRTRKdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773356338
     },
     {
       "title": "Ex-Eagles DB, Super Bowl champion signing elsewhere in free agency - PennLive.com",
@@ -167,12 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcHQ1d1FIVkhJYTl3SzJHZ1FqemtzY19WTVFia1MwR0lqNTk5blRkcmxScjdzeXlXMUQwX0FQWGgtcE5NRkt1QWszbkxlVGlUc3B3Qm5CTWMtaVdzeGRJMXNDTVRuZWVRQ29TY2diY1Q5S1BnYU13QVFhMXF1b0Y3QUhGdkw2MkF4aDRFag?oc=5",
       "source": "Google News — Eagles",
       "published": 1773330127
-    },
-    {
-      "title": "Eagles Film Review: Riq Woolen’s ceiling in Vic Fangio’s defense is sky high",
-      "link": "https://www.bleedinggreennation.com/news/172002/eagles-film-review-riq-woolens-ceiling-in-vic-fangios-defense-is-sky-high",
-      "source": "Bleeding Green Nation",
-      "published": 1773326719
     },
     {
       "title": "Eagles coach reveals troubling news regarding young player expected to replace top free agent - NJ.com",
@@ -227,12 +209,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2IxdzByV0c4bnpVbnh2a2hPTWh5VW1KeWZpblA4UkpSTEhCQUI5anAtYjFZdHo3WDNRNmVCUnlIclBxYWxkT3kwbmtheFBCeDJHd3pvY1hTeERmRzNmbjFvU0lPdjdjQ2FiV0tsWUdjNHZJajYwVXBOWkMxQlMxZFRxWUFYaFQ0MU9Mc3NvOE1iUWJNQWtEZWJMS2x6VWg5Qkk4RWNNSWdwMjR5SUFJXzNEM3MzSnkzRk1HbjNDU0XSAcgBQVVfeXFMTm5JenFpMmoyOVlXRFQ3MnRDQkRLUDg1djd4OFdRVlBuMXVpSjhtZTJrSFNBT2FtVlg1SWhmX3FyektmVGlZZEktdk5HdU9jbzlQWGNwRWV1WUlZN2lYd1loTDdZa3o3RHg0VURzRXQzRUJvejhWelVLWXg0NENKSTVwLVZBbzd0amVYTDRWWGpPdV9TTVRnT3Z0ZVg3dVlHQWdGczFaWGdzeGtiQXhZb01CNnRPdkVGSGRmeTlGX1Qwd1lpN2ZwRTY?oc=5",
       "source": "Google News — Eagles",
       "published": 1773259054
-    },
-    {
-      "title": "Spadaro: Jordan Davis’ extension is a product of his desire to be great - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdU1aNTdfSXZIcDZCeF9oNVZ5ajJNeDlPV0JlTnZIWVgwVE13cnotcWcyeGdIQTJfT2RlakFqeUdEaXV3ZG9iMEFwLUVBZUZNUVVaOEpLWWdxcXpSWGl2RTBFR254QnYzMEZuVFBsVTdFQmozWFRXcHlRSV9JT1kwam1qdC1OTmJqa0l0cnNqVEx2eDRwRDdFTWM1NlBmb2dPVmZHYTVPUkFEMUlr?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773257687
     },
     {
       "title": "Eagles officially confirm coaching staff changes, finally - Bleeding Green Nation",
@@ -293,6 +269,12 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHY1V3d4YnVvTDhqTXZKSHd1eHpFR1FoaFRHaVJrV3QzbEkxZzU4aVJCVzZ3UllKNmY4c1NlcUtfbmI0UUdkRHdZMlZDRTgzZTE1UWdGczRrS3dsanNmeFVyU1BfUzBDNncyazBEVUx3Y2cwaXdSTXdWTUdpTnNqQW5EY29YQzJ1SzloMmUwRGh4MHQxUERocFhLZHZ2ZVBCOXJBNUlIZnlpTG95Um1UdUFwMG0wNGV5Q0htbNIB0AFBVV95cUxNUEl5LWxQMUIxV19PNHltVEdMTTBaN3JCMGwxaHN5NFcxajN4NVZGRkFPTVdOTENTM0VLWXlNdVpkd1VsV3IzOTdoUFkyVXJ2MEMzcmg5bDJIVUpDc2U0OGtfc3B2aDQxaWhNeGkxUVgzTlZ0M0tCN2xkLXNoemxFbTR5Mzg0WkRwQ0g1alRzdmpNRTlWdFN0RmFYVTRwRUlhb01MWkRlVV94R01hWm9lMnFPQ0VGMTdFdnUzZmFPUkE5NWVsSjFTN3Znd3FZZTYy?oc=5",
       "source": "Google News — Eagles",
       "published": 1773182520
+    },
+    {
+      "title": "Cornerback Riq Woolen leaving Seahawks to play for Eagles - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHRiNzdGNXNONTdqeFROQ3dQSWowbEpYT2E2QzNrbFdtclN5ajE2aWh6QVNKUjRQd1NTdTd1SHYwUXFJYU80RHlDUzBNckVabkpxV0tLYmRCcTdtQ1lxd0VlSEpMa08xS1hpdmU4ZXJURlhadHJVdWQ3R3dFTnJESjE5eWNKZUJoeUg1Rjk4Z3EwbFJKVUtXOTVsajlkN3JyOE5IQUJB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773182125
     },
     {
       "title": "Eagles signing former Seahawks CB Riq Woolen to one-year deal worth max value of $15 million - NFL.com",
@@ -373,12 +355,6 @@
       "published": 1773094966
     },
     {
-      "title": "Eagles awarded four compensatory picks in the 2026 NFL Draft - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTndKZUowajE4Tm0xdkIwQVR0MTlZTmFCZlExVktTVDYzTUVXSzdIcXZ2WVBzNmE2M3huYkhyODlnaFdiVXpxaWdXZzhDZkNkNy1UWVVDblZuc3U4X2VROVM0T3dHdWhaSldiUWV6WGpZWU1ZT0VzNlM0S2NHXzd3UDFzUTZoeW9pREE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1773088602
-    },
-    {
       "title": "Eagles with the most to gain following Jaelan Phillips departure - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTNKeUtSMEZDcl9MZ3hiWDV1WWZLRkJicHg3NjdrVlNoaF9LNEpveGJqVWxyZ3ZmdkdJeHlZd01SNVltZzIyWk0tVkVRV1dCUUF4WEhSTUIyVUFUa1I0ME9QUElScWpyekVsUlp2SERvS2xMakFZYUhkTEFPZnNVOGxxUDRSY3pURUNyekxxXzhHWmxtSUJQbTNQeHprNUNqaU9fWk9yeGk4XzFDaklELXFlNGg1RlFTWEw4WnNDQkFjLUFnWkxQakRta3huWEJmVlpSQ3BYRWI3Y3M?oc=5",
       "source": "Google News — Eagles",
@@ -421,10 +397,22 @@
       "published": 1773056880
     },
     {
+      "title": "Eagles News: “The most fascinating free agency period of the Howie Roseman era” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmtNY19yMnBkV3V5RXBjQV9lRUJiTEE5LWF5R1Z3U3JLZDdmQkh4LUhrMnNINjhQNkZ3NUFUT0F0OTB0TGdRWnRwRHlfVG5EMkhHVHh4b0xiR2JfcWtCWk1YaU9ydjljVHBzdEVPTU5FR2d0OWFwQ0d0cGNhbWl1d3RKdTdKd05FNXlzOHQ2SjZuUnBEQ3ZrMWRDcUpOSl9sYWtVODZrdVRlRDl5MFVweFp3eVZBNkJPNkpaVEY2bDZHdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773055917
+    },
+    {
       "title": "10 worst free-agent signings in Philadelphia Eagles franchise history - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbjZWOWhobDdGLVhFNVFZdHpYNFdnSUU2eWNSUTFvQi1jeTNYMUIxMTViY2lWOHhGWUIzdER0WGJoYU1uS2h5SkhfY0xnSXJ2TEdsQ1oxd3d5MkNuS3BIRFExVHE2LVlIUVdXSzl5QXF0Y1F3YkNXdWpsb19UT1V5bThSb0NsanR6MDl1NDgwVm14eloxQkNsRUN4a1FqSzdUZXd6YXhqZDE5aGp3elROb3A4bG1ibGVhZDFHZHI4bElzbEpNYUlpSWxuMVJpLUhkZ0hZc2tQWmowNGhLdldjeENIOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1773053040
+    },
+    {
+      "title": "USA Women's Sevens Eagles level up to take Bronze in Canada - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1ZwTHI2NGNYS0Y1RHlSSFltblJlTzNFRWtHWmdCWVFIWDUxSHhIQjZXbU5OSlhaWTdId3FfYnNBQTczaGZQTk5GY1Bjd09FOXhMVXBFcjdxRmo5LTc3eUxyNHlrTGhPMFRENlNPaVpmX3JSX0o0MGVKWDBHdVVOekRqczBNdjJsaEUxSEpEaHNaUTRaSEpra25wYU9oR3pt?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773033546
     },
     {
       "title": "Eagles thoughts: Why a Jordan Davis contract extension, what it means for Jalen Carter - The Athletic - The New York Times",
@@ -451,6 +439,12 @@
       "published": 1772967600
     },
     {
+      "title": "The Eagles have made their first major move of the offseason - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUVHRjRtZjF0UkNOdFh1SGY4QVZ4RUFsRDgtaE1HaS1mWTJVdWJlcjRlZnRiekw1cU1wR2NfcnpadzZlRXFmOXIzSzhpQXAySWZqMFhiV3dPTTVYQU04bUpUQWtrU1EzZl91T0l1YVRWRldiVVlJSEF0U1RiUFpsbkh0elA2M0NNQWFCcUZQZkVEWWZnQ1NsS05QZUNuel9jbUFSTTY2RjdORUozS2R0Tm9MSHhPM1Bh0gHMAUFVX3lxTE80QVR3Z2VOWVZIQlFISVlQa2VSQzkxelZ3dVpHSkxuZllLM3BQWWQ0dF9ybjFDdFhKc1lPMXp2RWk0UkI2V09mY1kxeHpNcm5wSUFCdkhudk5vZFg4QUx3aGVUbW83MnF5S09PWWkyZTUySUZ3R3FSaGxfczNYdnV0blc1MEFCRU41QV9XMkhSQUNQV3hLVTdvRFUwSmIxdHVjMDQtdEp2S0VqcERtWVNhRDE1Y3ZLc1YwOGZ4b2hVS29kOS0tckZFQ25XSQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772912340
+    },
+    {
       "title": "Sources: Eagles, DT Jordan Davis reach 3-year, $78M extension - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORm0tck1qWERqeWNpS202MS1McjRGUGNzeVp5aXpqYm5mcnBmazAyT3dpU2pNQ05sZ1lWdmNYWUZOejBnam55TldTSWxjXzJMRmNEM2l4Q053VlQwQzJ1bVlHTW9MU1J2VVVuZXIzMHdSUWNESUZEdFBfcUl6ajZIZlB4cnIzYzVLWTUtakl6NzFNdkZkd3h4cGJ4V3loZzg?oc=5",
       "source": "Google News — Eagles",
@@ -467,12 +461,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVkzSEJpVkZ2emhNcGFMRmZlb0lEMnNHVFFGc0tJcXRKWndHcHlSNWY1c3dZOWJqWEtjOVZWeUtCcGNfYzlNY2ZXODM4Z1V6OHdjZkVtZy11eFFRZ2tkZ1pTcHFCdmRkbXY0eFFDY0JlSzNXVXNMb2Fud05vU1JUaElyQU5XdlNhS0xpbEs4aFBZUlJ2Sy1RT1RsWGdaRzJleWg4?oc=5",
       "source": "Google News — Eagles",
       "published": 1772901850
-    },
-    {
-      "title": "The Eagles-A.J. Brown trade saga is reportedly almost over - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkJyb29TWDNjaU84enBGS2pPSFhkeDZYSjRwckgxVlZsbmRBUWthaHA4UTRmTGFoR1QtRF9hUXptNlN2MEVCaGJNa21tSDJZbnFNTFRpdzF4TDhuUEF3TjUwMkNPdHQ1WjNqd25TQUZTQXp6MGJrMFprQmtTTXJGTWpha1ZGYXg1aC1jajZoTHl6QzY5Q01SMElNTDNmQ3FaMHBXZtIBuAFBVV95cUxPQlVQVDRCUlpDUDh0OVRiVXVGYnZJcnlxdl9iOXJOT0FwQjNlWDV4elZkcHdJbE5FWS0zdEVoSTdaQnA5QmlCQ3dxZG5jMS11LTVZYlFDVE5PQmhKOS00SEs2alE0RjR6b05pY3NyU09LakFISVVNNjg4YXkyMExpMENtVTRPSUIwZ01FZkkyekZRYmdyaUc2bWo2OVRMbUVtMXh6cXdDdmpvZGRvSnhxdF9lOWF4TDdV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1772807340
     },
     {
       "title": "Eagles mailbag: WR supply and demand justifies Howie Roseman's rumored asking price for A.J. Brown - PhillyVoice",
@@ -493,16 +481,16 @@
       "published": 1772697600
     },
     {
-      "title": "The best thing about how the Eagles rebuilt their offensive coaching staff - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenM4UjJOUGVHLTZFMkpyTUJCUEJQMloyTzRvdWdwS09ONWVINmMzTWZoaXJoR3VWYXlyY1JyeGszZjFTQ3VHTkV5emFMRjFkMjRVNkpnSFJGZ0tDaDJHWEtqUDZkNS1DcW9FakIyT1liRGZibElTVUt0ZGZjX0dIRHRIaWs4cnE5QWFMSXJOMTU3d0hVZVoyQkszelBPNjdFVUpRNk0wSkR5Y0tWaTIwVVVhaTluekU2WUHSAcIBQVVfeXFMUGtJeU5OX0hZcUJmM0hRNnRLX0FnZUdsVUV6Z0VfMTZYR2pqMl9OX3JfQzJQVjVIM1I1Szl5M04tS3pleGZqaWZNSHlOeHNuaU1HUFdYdm1OQTFzNXRVMk5vSkJUN0I4cURoXzNDQndrNXJoYUVtTm9Lb01keUtYLXdHcEtwbE9zMVM1Q3RSVUQtOVF0M3hWSWhqLTRFTG8yT2FnbkdrNWdvVDZkMURPaF9QWDRsMDhtM0RZZFRybHo3X1E?oc=5",
+      "title": "These 12 Eagles players might have taken their last snaps for Philly - Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVJ1TXNaTEM0Ukd1SVp6dzdCU2xZWVpubHFETVZzYXBpUnlXemYyczV2S0UxTm1zZnJiWXJoME9va050a3lad0kwQmRGQVlwWUc0cGdTX2NDTE9NaGd0NlctMUdvZjd5Z3V4MmVhTUhqaXU0WlZYaEt2N3dXRlNWNUozVnNYRkd1MUFyMDJOWEdNOVBleWNBQU5XcHlpMmpLQ1RlbGllTmpmXzU1OWNkNExyYzNoZ3NmNC12STN5SHhoVXF6cWJrSURkQTBCd0dabDNrQ1UtYnJUdUdqZlBndDh3?oc=5",
       "source": "Google News — Eagles",
       "published": 1772697600
     },
     {
-      "title": "Here’s the Eagles’ reported asking price for a Patriots A.J. Brown trade - Boston.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPekxoUmltVnI1TWRuYVRuTlVaRjJhdHF4UnpXT1JDVVZlNVdwZXk5S1JadldseUllbmVYUkZ6TVFKLWdlZlF3M0h0VVdyblB5RU1UZ1k2cUdxWlp1bEdHaHNySnBxTldJY1U2dkdiMm5LVWhWdXBNU0pheVU4Y3dUZl9rSG1pRDRrQTZ2bUdVek1QSndYRzFpMjBTYWNGMUI4MW5XeTdEaHFKX1FJY0Y1MmtqT01JTmoyWURCOHJmdEdqMlFPYlNXbnRPMGQ?oc=5",
+      "title": "The best thing about how the Eagles rebuilt their offensive coaching staff - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenM4UjJOUGVHLTZFMkpyTUJCUEJQMloyTzRvdWdwS09ONWVINmMzTWZoaXJoR3VWYXlyY1JyeGszZjFTQ3VHTkV5emFMRjFkMjRVNkpnSFJGZ0tDaDJHWEtqUDZkNS1DcW9FakIyT1liRGZibElTVUt0ZGZjX0dIRHRIaWs4cnE5QWFMSXJOMTU3d0hVZVoyQkszelBPNjdFVUpRNk0wSkR5Y0tWaTIwVVVhaTluekU2WUHSAcIBQVVfeXFMUGtJeU5OX0hZcUJmM0hRNnRLX0FnZUdsVUV6Z0VfMTZYR2pqMl9OX3JfQzJQVjVIM1I1Szl5M04tS3pleGZqaWZNSHlOeHNuaU1HUFdYdm1OQTFzNXRVMk5vSkJUN0I4cURoXzNDQndrNXJoYUVtTm9Lb01keUtYLXdHcEtwbE9zMVM1Q3RSVUQtOVF0M3hWSWhqLTRFTG8yT2FnbkdrNWdvVDZkMURPaF9QWDRsMDhtM0RZZFRybHo3X1E?oc=5",
       "source": "Google News — Eagles",
-      "published": 1772651558
+      "published": 1772697600
     },
     {
       "title": "A.J. Brown trade talks: Eagles want first-rounder and more for WR in 'Quinnen Williams-type deal' - NFL.com",
@@ -527,6 +515,18 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR0hEc0hVaXF5SWpRczFTLUdGVkFhQUQwQW9kNERVVFpBYTBMak5DUEY2SnZDSm44TDhJUFI4b3NLejZhcmgydWtMbk1xX295VVZMZEdDZmNzSGtHME5NVk9DMTRfVWFXUVpzSWgybUJ6Szdyb0xycU9XTTJBLWw3RXc4a1gwa0VuQ3QwSFZHUG1PQktSdmQ2MEoxUHNEanJDR3M4Y0RSZTc2SjNnU1Vha1JlU1lnMXI5cHM5ekN5YTQ5WGpBWVVjODhMZ0pSdEFmc3lUV0NENjZLYTFReExHS1hKbWhBQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1772524800
+    },
+    {
+      "title": "Will the Eagles play an international game in 2026? Here are the remaining options - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZTRlSU5lSVRFWGR0d1llV0QxN2pncDUtbnBaSFYwYmRhR2RlUGZzd294SGFBdmQyLXZMSzNfb3RKRk5ON3UtTmVBdW41NklTS3BUbnVISUtLck9CQnpiNGhrMWpORzBpblVCbXhHdXdfLVhGeUlkWkpjYm9tcXJuM2NIWUFTX3BZV1Zwc1FpWFlMQTR1NEtXVWE3Z1JKZ0NpbW5SQmZtVGh0YXlIWmVJTWxIb2RVeG5YazNBZEVRaXRSRGtTZ2otUEdzTnJNVTRjSXhCLdIB6AFBVV95cUxORWpuZzZtdU5OdklLdVllZlBQbzBkYjJuVmpTMjBMd0QxSXFFOTBkVlBVM2lMcnNCclpLTDI0WXMxN3JwRFJaWUpUdERVa1NuY2pKOFhBX0gxa1V0XzN4Y3ViS0lCWXpXM2g1bWVDdG5XTU1raHozUTBwOERNUGtGWUpEaEFQbGtDcEpob3VVaXA2OWJzdzJtQW56QXZZbkh4Mk02UUk0MllkU19lZnNMOGl1b2JDZG5iQm90aVRndnRCaElublFjN1JmNlJwQlB6WHFwT2F3QU9nU2d4WXlWbWpLYXFSdVhr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772524800
+    },
+    {
+      "title": "Eagles make under-the-radar signing ahead of free agency - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0F4NjgwV2N6TVhJY2xfd2NhNGF2MWUtRWtGVXhoOGRLYUdPX3NkQlU4bHpNSm1FaVJBUnQtRDQ0cm44RU1XcFlha2FCZU1RMkVfY05tTW5YTXZxa2JuR2tzazlBalJUdzJfV0JKTGJvYTdMT09ROUl6YmZ1b3VWYzdyNEpSWmNPZk1VSThDU3pZU2RDMzRxcUhhU1hpdXlWYTN3Tno5WlVqUUlfMFZfcnpkZ9IBxwFBVV95cUxQQU1FWjNrQjBjQjF6SGZtOHM2dVR0bUZzdjB6eVgzM0x2SGNXMDNRUnZleUdvendkWXVza204Q1I2bFVLUUMwXzRiMjZvdm5rSl9rNnBYZXVqSE13TG4wQzJnLUFHTU1PcEpSeEpvSEplZWpoUnNvSkhVVlRxbmc2V20wdTUySDlmT2tPMjUwS0FJYWdLenVna1YtQ3oybmVudU9YbDhQOVRESzl0YzRWWklKVmprR2VZZGhFOERWNWg0RXFheTAw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1772438400
     },
     {
       "title": "What I heard about Eagles at combine: A.J. Brown price, DeVonta Smith breakout, NFLPA grades - The Athletic - The New York Times",
