@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-03-26T21:53:40.146769+00:00",
+  "updated_at": "2026-03-26T22:33:54.883006+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Have Competition for Vikings’ Jonathan Greenard - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXlHUmx0YTN6SjFtdDRZUVc3ZUUtZmRuYTJ0dE55RnhHeEpEQ3VEandKczhCV1VPN2hLVFhzMXhRaXVVTkhGWU1rVjBhRnZFaV9KTUNIYklmRUh6SWJJUzNta3hLWmNzLS1rSkx1YzhSZzJ4QjQ3SjdyQVRNanVqVG9Ic2oxZnFNS3J6bHdxYTBDSl8yT3A3OUtuVVRWdVU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1774558822
+    },
     {
       "title": "Eagles roster inventory: Where the 2026 team stands",
       "link": "https://www.bleedinggreennation.com/news/172773/eagles-roster-inventory-where-the-2026-team-stands",
@@ -43,12 +49,6 @@
       "published": 1774454460
     },
     {
-      "title": "Thoughts about all 10 players Eagles have added in free agency - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM25XQ2J0SlpLa2dZSzVLNl96Tm5kVmRJUGxYMVJYTE5KYWVKV2FjNlhkZHNObm9RbjhJWFhHejNVMk50NF9SSzd1UWdPaER4QnJ1SHItbFNHbDhkelhOR3N6RUE4a1RZSERmMkcyRE9FaU8yaHhWS3B3WXBDdG5JUnhKVDRhZFY3WTEzOEJWWW82bGM5aFJ3SUUzWVhwMl9jdXQ5SUVEY2tpNThkMTY1RHc5NkpydFVMai1uTHJQbGF2b1loS1JHY2JIbVZvLVd6N3RpR0dCaXpjY29iQTFZLTRaYmVVMlhoS0HSAfIBQVVfeXFMUDZac3RENncwRzQ0dnl3dk5fRHJXS01RZ0loSGtiQkdGdzNPNWpCN0FQY0JWQzlZYWFYRzQwbXhORXc3blBBRFBCUEhYbVQtM2FjMk5pNWpEYWpCRE5OMmVMM2E1Q1JtVmxjQkdEcC1Za1N3a1V0dTRNQ242OGxsaWtjeTg4VUFsZ3Ewd1UyNl90V1FfMU5yMVIwOV9Md2JEZklibXJwS2lXbmV2ME0tX0ZFWC1CODUyb1RVMm9IZWotVnhsSDU2OUZaNDM2QjZqQ0tHaG90X1hfRjNrU2NWN1RwNHRuTTNnT3ZUTXprM1RQUEE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774452774
-    },
-    {
       "title": "Eagles agree to terms with Elijah Moore on one-year contract - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWdBa191MzUzcWpBNi1Gelh4aGdsMmwzMktMZnBKZEVxa1pUcmducVppZmxDX0RWck5EUjRBNkRmdU0wV3F3cENXR2Nla0ZEZWNvc0Zuc3pPa3I1NERXUnJYTnJuWU1yUWNjMk1odFVpdEFpSnUzRVhlVlZiT2hOSXNZN3lBR2gyV0VnN3p1bTZISWhneG9ZcF9ESEQ1NmlZZ0E?oc=5",
       "source": "Google News — Eagles",
@@ -73,10 +73,10 @@
       "published": 1774445407
     },
     {
-      "title": "Adam Schefter: No ‘under-the-table’ A.J. Brown trade in place for Patriots, Eagles - Boston.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaVJCd203NV8zNHJPTGFncEhrN2ZCRnNNTzh4OWxyV2NCTDE0ZXdiYjJKWDJ1QmlQSzNWZ3VKZFphYzNQMU9CbnBqU09INkFMLVpaakVZZVBua05kblVaZmk5NElDM21ZcVdnMThhUi0wajJ2cFZib1JOS1NKUW8xRWJ3V0Qwem55STVWSkZ1YkxpVnVZUmh1NEQ4MFJlRU92YkJPOXpINzZaYVloSzRoMVhFcDFjcXlXRUVPRUtnN1ZjcEVmSGhlZ0hSNE1aZnEtcUc4aWxmV005X1ROU0E?oc=5",
+      "title": "Thoughts about all 10 players Eagles have added in free agency - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM25XQ2J0SlpLa2dZSzVLNl96Tm5kVmRJUGxYMVJYTE5KYWVKV2FjNlhkZHNObm9RbjhJWFhHejNVMk50NF9SSzd1UWdPaER4QnJ1SHItbFNHbDhkelhOR3N6RUE4a1RZSERmMkcyRE9FaU8yaHhWS3B3WXBDdG5JUnhKVDRhZFY3WTEzOEJWWW82bGM5aFJ3SUUzWVhwMl9jdXQ5SUVEY2tpNThkMTY1RHc5NkpydFVMai1uTHJQbGF2b1loS1JHY2JIbVZvLVd6N3RpR0dCaXpjY29iQTFZLTRaYmVVMlhoS0HSAfIBQVVfeXFMUDZac3RENncwRzQ0dnl3dk5fRHJXS01RZ0loSGtiQkdGdzNPNWpCN0FQY0JWQzlZYWFYRzQwbXhORXc3blBBRFBCUEhYbVQtM2FjMk5pNWpEYWpCRE5OMmVMM2E1Q1JtVmxjQkdEcC1Za1N3a1V0dTRNQ242OGxsaWtjeTg4VUFsZ3Ewd1UyNl90V1FfMU5yMVIwOV9Md2JEZklibXJwS2lXbmV2ME0tX0ZFWC1CODUyb1RVMm9IZWotVnhsSDU2OUZaNDM2QjZqQ0tHaG90X1hfRjNrU2NWN1RwNHRuTTNnT3ZUTXprM1RQUEE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1774437845
+      "published": 1774438877
     },
     {
       "title": "‘It's family:' Eagles sign Elijah Moore, one of A.J. Brown's closest friends - NBC Sports Philadelphia",
@@ -211,12 +211,6 @@
       "published": 1774256400
     },
     {
-      "title": "Eagles News: ESPN says Philadelphia made one of the very best free agent signings - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNak5KYzJnM3Z6Y2xnbkd4N2xwVDhydXRvQURXdm0tSFB5dDlIS3A1aEUtSDBwUmlJczNvLWJ5bFVUQjBfcHNCa0w1dmlaeUx4NVNHVXNqZmFzZVBDM0pPWms4eEQ0d2UtU1RnYlRxalctZWdkcmxGM1JfQ1FmVGdmaFk2blJ3cXBhU2xQbnVGRjRhOWNFek1iUWpmelVvTWNwOEdSWmE1R2Z3Q3lSbmJXaU84T1Y4dHhSMjMybGVQSHVuaUdyWUJJ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774188102
-    },
-    {
       "title": "Roob's Random Observations: Why it makes sense for Eagles to trade Tanner McKee - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXdxZEE4NU1mMlV0Sjl1UXZEQkpzcFRXNl90UUwzNEZGdUkzVTVZYm81NVRYcldPZUJMRWx6TlE4V2VIM0d0NTdNTGl0c1lyNFZnLS02V2JDdFQxdlRTdEhLVmItOGJSSEtCMWRhdFJYUjBNUVplYVdqTVFvWnJUR3NPR244anRCcUZxdkdSRDd1YVN3Z3VES0ZRM3RjRlpKeERYaTJEeUhhcnU5azdDc0NlaU82VFhRZndrcFFlQmR4OVVBbTBZ0gHPAUFVX3lxTFA2cTVmOXhtb3Iza21CR2pSb1lpemJjNWU1TXJfSHBzTFA3ak5POFZvSERwdi1kSTBSekFBT3JpV2E0Nnd6UFNBRlo5VXgtVlUyVk1xZjdlV2hXWWJ1Q2RJcVVZQk1nTnFucTlScTVhWEhjdnR0TlkwcWpwSEVJR0Foc1pCZU9xU1hldWZQdFhqT2ZtWUo2VlZhNzFDVzNHX0ZFTDctNVVJN0FoMzNLTzJ0Wm1iaVB4WGdtSGpEY0JLSjBpMzdqbEFXdUt5Uzc1dw?oc=5",
       "source": "Google News — Eagles",
@@ -251,12 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmFkX0dkVFBtWGR6SGJiTGxaSlg0NnYycEk3b215SzB0THVqdTFtMXFEcVMzRGlRcC1ndU40SjZfeFNOa21aQ09TX1AyWUpFRUhiMXVaeDkzNXh0Y01BYTlIb2Z4eUFfTUJFVm82OXlLV2RMa0x3cVRhRTJrWVRwSjYxaGpfbDMteEJCdnlzWDUyRFVwV2RKdFVQMlNQQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1774105299
-    },
-    {
-      "title": "Eagles Hosting Little-Known 'Swiss Army Knife' Receiver - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjFMMHRrTlVuUThXNzRJUjJyNk1IUkNjTFlseGZtcWJGUW1WZEhFblNRQjhVQU5OdkE4eExHdG9DeVlTcFpQVWg3OThfTW5LVHRFRjlKTl9TMkt1SE1hb2w2SWdDVmhSZTJCSXZxdXVXNVUzcjhzWDBoSmlxc2hyYjVWRVg0RTNWV0NQZjk0VVJBUWJHdmlCNDNCSGtja2M?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774096580
     },
     {
       "title": "Eagles reportedly sign two safeties after trading Sydney Brown - Bleeding Green Nation",
@@ -299,12 +287,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS092bV8tQ1EwWXp1cF9NdUZqVEkwYlU1cFFVU0NQTVgwb1dQd2RjUkdIOUZ5WklaSVdqOGNxYlZlM0VfUFhSZjhNdlRNMmktb2FIWlpMQTBFaHRmcUJhTnB5aGJNcWlSMS1XbFpJUmpqeFFKUFFiRTV0djdMVWt4am51OEZlNnFxOEIxQlg3SU0wN2t2Z3FqOC04RXZGZ1k5NG1Bc05acGJsYVk4cE50Y1B2UmRuZ1NwS1NQYXY1QmF6N1dwcW9FYTNQdk9ZMDjSAdcBQVVfeXFMUFJ0aldka19FTXMySW9Yd3Vud1F2OE1NaUNPd1JjcWZGLUFERHc2LXdOY21WSWVxdGV1Xzl2c0ppLWI1SURNeGFydVFzV2ZfMXkxMmpDMVBreW1yTkUxXzhzT2Q2X2xSTWlPckFoOU4zTW5vbU1ud2xyQkFfU0ZlbHFTRWxIQm11eTR4TXRfSC1LV3pqb19jNzNYVWxDWmNmNWRNZFAxa2ZEV0lUSVA5Wi16ZldkWG1TbkZsajFRRkp0MVNOaUNYamNlcUFJN2NFd21VaE54blU?oc=5",
       "source": "Google News — Eagles",
       "published": 1774041032
-    },
-    {
-      "title": "Eagles smacked with disrespectful placement in latest NFL power rankings - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbF9vMm9iWEdKdk1MYmo2M1BCWGFhbkdjMlVaR1hEV2VaX3pLbmZrR3VXNU9xSFRzRUU0ZW56b2EtQ29HbjFQbWIxdGxGTGhhNDZ2b3hrUnl5bzRYMV85Qk1mcWhkem16V3dBXzJETDVCTC1DYVRCV3FMZ0xNRVBybnE1LWd6U1hscTVWSWJBamVCLXlOUnBaVFljZzVWRXlQWGphRWdOQlFwM2xoUGI3Z29XSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774036804
     },
     {
       "title": "Philadelphia Eagles analysis: Grading Howie Roseman’s free agency start and what comes next - The Athletic - The New York Times",
@@ -487,8 +469,26 @@
       "published": 1773730800
     },
     {
+      "title": "Eagles sign Dallas Goedert to one-year deal - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSDZLWXZqYkRJYUI1M3lEUnVlSl9BYmxENDdHWkRZdUkza0J4Tk5LNkh4MVNjYkpTcHQxemFvcllqMks2cFpMV2hBdk03aHdfWkU3U0dxLW9ndjFvM2FBOGZYY1ZVdVhtQnhRb2VzTTU1aFZ1OV9uUEVvZ2JxUVNJbHpuX0k4TVBPdVBN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773644400
+    },
+    {
+      "title": "11 still-available free agents who could interest Eagles - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEl1dWZpS0xIRnJwV2F5NnlCQVJacGtMSklWUVo2a1NjUnc4VE1iUkJMUUlXOTljV2I3cEsya3NYcFBpUXBMc3ZXYTFTQTBHNk1JdUZjZHNJOXpZUy1HdkxSOHVGY01tT0NvXzQ0dDBXdm1KdEFXQVQtTHJCREdRa2o3MDFLWG9USU1RcVNLcDBab1FLNmtmY1dxVXNLUmtmRVo0REk5dGZyZjdYcFU5NThrU09Fbmt0LVdpQ1ZNUGJZMF9zWWJyeGw2QkVNd9IB1gFBVV95cUxQS1J2WmRRMEk1YjZsM0JEUDY0X0FfbGxydWltLXNqYWtuUlpGRnFEUGFGZ3V6LVNlQXFtNDhEOWU1Ty1HWFBuLUJDQWhHVWs5NlBGRnlhek43U1ZFMmtwMkxKSzBfSV9tYXhNZkxCLXRPMDFKcExMVXktMkNFVEU5VmNGVktWLU9MUHFlYzh0VmpLN2pOaGJveTgwWHEzajlrNTVjWlZXUDA4TXVpbUQ2UWxLR2VhQXJPZEpRdFFTcFVBNW5OZWdzUllybWQxaWZTX2Fsakln?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773644400
+    },
+    {
       "title": "USA Men’s Eagles Sevens head south for final SVNS 2 stops - Eagles Rugby",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWg5WHZiZUVDQ3VCY2dORmh2aHIyR2IzdThqcW8zQzZOOVdlcTNTNmNBSlRZdUZVZG5fRXJmenhiQUF5UGw1MlMtczRxalZfUWdtSUFTMUtWMkpXcGVkSHFodFF0OF9mMjdFTmZMbjRQY1lSSVA4dUNTVUVnTm5HX05yRS1xcnBYX01mdmY2UEROS2RW?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1773644400
+    },
+    {
+      "title": "Eagles mock draft as NFL free agency, Dallas Goedert return change picks - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTVBKWXlYcnE1elV3bEFxNjljcHZEdklKTEZ6eW9lekZtUGVRbml1d0NGT0x0bFN4MVZqYnl6TlJrUk1LMlFaejB1d3Z6YVk5U0ExQmJheERDMlIzeTVITENTb1Bjcmlldk93NHFWVlJiNEdEVEFockxDYVFGZkpVZzJMeW1nS3dqd2FmMkE4ZUppejg4LVlDWXp5andrMkYxd1ZpbE52c3FJUkk1QjlDUlBnZXZodHNSSmRmQWhURy0yR1hCVzdTVWxISk54TE1VX3RrUFNKckFYVERRdWZDN056NllCZ04zczhwV1drbmdHMEdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1773644400
     },
