@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-06T13:52:03.921395+00:00",
+  "updated_at": "2026-04-06T14:52:11.028303+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: ESPN proposes Maxx Crosby to Philadelphia trade scenario",
+      "link": "https://www.bleedinggreennation.com/news/173243/eagles-news-espn-proposes-maxx-crosby-to-philadelphia-trade-scenario",
+      "source": "Bleeding Green Nation",
+      "published": 1775483430
+    },
+    {
+      "title": "Eagles-only 2026 mock draft, version 4.0 - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90alhBcS05dFNtNzg0LU9fTzdLQkU2UHBNa1ZjelB2dzByWlpud0YwemYtdDM5TUhCcjY1QzlVVFV3am9SMUZBekRuaFRxWXN2RVBLT094Z3ZkNXFSQUpMYTdnbmlNZ1paOFFOVzJKTUlzdnk4N2hN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775479422
+    },
     {
       "title": "Roob's Observations: Can someone explain why the Eagles need a new stadium? - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVp0YlhQdi1sbmtlNkhHRkdzUnBvdjhJVHNRd2JaV1ZTbFdCY2c1MzZnWl9uVjRLTURSU29NNDZyRzVTRHd1QzhLeGgwNGF2QzNMTXhwM1lfdTJScEtlS3BZVlZueFRydXFrSVZFLWtzbUlnbDgzYm5sNnBtRzV0YWpVczFXR3JmVmtDTHJHQlZXS2N1OS10OG04ZXlGMmhwc1phcTlaYlBUS0h2YlRUamdqTElKVjJ5TWkzbVIyMUpaM2JVZ2N4bUU3T2pSRDJMSllNZEhXSXZNX1Q4VzNB0gHnAUFVX3lxTE8xQXRpS05ZSmVnbFlmamhrVW1CN1V5ZkpLd25XbVdBUnlfYTNQcUx1QlYzeHFkVThuT3haTWlTUkVhZFpUeGV2V05aYzUyQnV6bWNuM3JhNHgzZTdJWHFhUHVBaDFXMTcwWllDOW9DeHN2RTliQzc3TDdwQk1BeXZKdXJDdF9QSFlBV3dsYVJyNG1BaW1GcDQwWFhqY3JDdXFJTklWNDBxZkw3RFBldExjbmZpWVBEUVJ3V0R0QzVub3pXYXlDak8xbVktUUt3MUEtUnpnWEdmTndyeTRZSnNPdDZFQlRuVQ?oc=5",
@@ -61,10 +73,16 @@
       "published": 1775307448
     },
     {
-      "title": "Projecting who will win the Eagles' open starting jobs, and additional takeaways - phillyvoice.com",
+      "title": "Projecting who will win the Eagles' open starting jobs, and additional takeaways - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGYzbEZMS1FQU2oxZjcyMFoxUnBfQmo0Z2RvdHpjLWxHajBrWkgyeTQ1cHZxNjFhd3pwLTVJNTVHZnVxQ1Y5Yms1ZElOVm5QcFRvYm9rUno2ckdwMUxBTWRoS3o1YnBLUENUbkxOaFRyZHVYLWg0bkFmZGhLQzQ1ZTZtWmIzZy1pdkpKRVI3VVo5bnBNRXhOUXdFbGxXSDRp?oc=5",
       "source": "Google News — Eagles",
       "published": 1775302324
+    },
+    {
+      "title": "Lavonte David joined in on the Jalen Hurts slander that'll leave Eagles fans irate - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjBkSG0xbGs0bjJUNHZLMkVxQTZtQTNGZUk3YVdtUm03MWRWcjBIREVUZWYyeHFaa3FqMEdTTVF5QmhlUld6eWV2bmdhR05ENkNuNFU1Rmtzcl9tQlZZWU5fSmVUVHlnVTg2Rmk3U2tybEdoYXd6aVNkQXM4XzZldmdJQUItWkUwT2FZVzY4OUpTREladTlPMFhqcVBaSDlfbDNzNVRVdTNwcG9VT0x1emJvR0p2aE05ZlpNOWJsTTM?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775301000
     },
     {
       "title": "The noise inside the Eagles’ headquarters needs to stop",
@@ -100,13 +118,7 @@
       "title": "Eagles 7-round mock draft: Philly bets on unique talent to replace legend, adds underrated freak - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTVA1QnJRYU9Ha21ZUWpBdlplbTRST3NBcVliX3M2cFQ2ZkstQktQUVI4dWFDZ2JXSkxkTU9sNzZCalpGSkQyUHhtXzJ0Y1FsRHZpcnRYMXNUVHgtTUlJTjhnRGxSZXgxNVpabTJlczJ2ZDd0VFFINFJTUHAxcU0waTR0ekNJZ2Q0UUtJLTdZc0xySHhlSjVLUmlYRGxDTFhrT21TUUdfejBfYUZDb083aUJFSm5HSlNhWERLa25vUjFMdEtlc3ozRUtfdTBDZ9IB4gFBVV95cUxQaFg1MWpzMU9zOTg3MTl2bWIxLWp2LXZTRWhpVFJKNGFKbmtCZ1Z5dEJtMk5vR0ZiZXJqY1Bic0JJTTdBSll3bTBxNEFmYl80enhxTU1VNHNrZDgxX3dZTk9yU3VLSjhiVGZ4NWlaMW0yNkFNVWtWejE3cF92WTh6QXhoWkMwdHpvOUdVMkFyckNoVG9qSU5qUUpaTUo3V1dNcWY0M05FelllczBFV2N4SV8yS2VyZFhjTjV0ME5uWGJWYmMzR2lQU1RtOTc4OXFaRHlYS01mMjllUlVnTW5XM25R?oc=5",
       "source": "Google News — Eagles",
-      "published": 1775219040
-    },
-    {
-      "title": "2026 NFL Mock Draft: New Orleans Saints select pass rusher",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/173152/2026-nfl-mock-draft-new-orleans-saints-select-pass-rusher",
-      "source": "Bleeding Green Nation",
-      "published": 1775190999
+      "published": 1775224020
     },
     {
       "title": "Eagles News: Philadelphia reportedly has “no plans to extend Jalen Hurts this offseason” - Bleeding Green Nation",
@@ -133,7 +145,7 @@
       "published": 1775127600
     },
     {
-      "title": "Ranking the Eagles' positional needs in the 2026 NFL Draft - phillyvoice.com",
+      "title": "Ranking the Eagles' positional needs in the 2026 NFL Draft - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRE5Oc2ZldTFmOEYzTXRmSmZtdnd4aExCX3JLdUJxMWlfbW5ST1RSa0twb3lVeXFEMzh0d0Q2alE3VFdsXzdiajlwWkN4NGpmbmNrc3pRYmNvdjFjbFlEMENCS05uQXI1NmVjbWgtR25ldkk2SGVaZnhrb193VlE1NnI2MEtFbjJiM25TbFU5OUVTU0dDU3Z3QzZPRkJZTU1icmNkclVSTmkxWjR1aGpPLUNjeUttRWdvamdGTV9zdDdmRjZSWmpEOW5GcmY?oc=5",
       "source": "Google News — Eagles",
       "published": 1775125966
@@ -205,7 +217,7 @@
       "published": 1775037600
     },
     {
-      "title": "As Eagles owner 'loves' Jalen Hurts, a weird AJ Brown, Jalen Carter answer - Delawareonline.com",
+      "title": "As Eagles owner 'loves' Jalen Hurts, a weird AJ Brown, Jalen Carter answer - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQy1ud1RiLU9weVNnRlFmWlRxZTRCWm5jRDJub2M3TWtFQ1F4ZVBha0I3dGxVRXo1ZWs4V1l4NlFoX2o2SUVKbFZIU0VlUXlqVHQ4WXRJLWN2WFZ1WUV2US12WXJBM2hJdVBDamk4ZlZZMmkyRVJ5dmxFY1JMQjk1NlVjakd5SXhXOTFHdGdZYmhqYjdidGdfSU1hUWJhN3VIQXlSa0hDYUlpY3hVYnphYUVMRWhEU3BlTFF1QmxEN1NOeGpsR25rU1dlcGc2SUlsR2RyQ3cxaHNTS1FDYkNGbDdISG1wQVhhaEszVlpB?oc=5",
       "source": "Google News — Eagles",
       "published": 1775032140
@@ -221,6 +233,12 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmh5RjdzVzFMSFpKclA1ekRnbnpuaTVRajFLX2NFR0h1VlNSZUpMN0hZSmp2a1VaSVlnNEtMNEhCY2xxVVlkaXpfdS05U1dKczNTNGlhaWYyRGc2dEQtcTNNb0pqR2tHNHlpZHNQUHdhd0cxMXd0dERsTjluQm54XzVrUmJYZUFHTWZ0QQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1774993193
+    },
+    {
+      "title": "Eagles Given Even More Reason to Explore Kelee Ringo Breakup This Offseason - Section 215",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGQyQUh1LXktbURJZ2FBSHl3UVozSGtDZnpWeS1nbXFUUDdLUFR3Nl96aGZNelgzRWx2WEZ0eEtMRkd1U01YQzdhdEQzSV9sam5vMmNFUWltdGhLdnpHbEQtckFxbFZQMWNTT3VwS2Nlc3hXNERQVUZFcV9rODhQT3l2cUpaNEV1dDdMLVNNMmdDdzB4REpsZU5BSzZlOFE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1774983888
     },
     {
       "title": "Triplets! 3 baby eagles confirmed on Minnesota DNR EagleCam - MPR News",
@@ -245,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnpMMHp3cWE1WGZYOG1DSWpMbGFWWHdianNBNWZwdlJjMm9ha3laSG1CS3d1RUJsU1BfUkNoaVhNT1NsYnZENTlNSXBFMGgyS2dfdktuRV85SjdydExBNVBKb2l4bUlsQ1ktU1Z3MzYyYmdaaW91QnRUXzVFZkg1NEhraEgzZ2c5WnE2U0ZEVzUyOHpTUlJJT2dlZE53S2dGcGZHcFVJdWY4UmZvZFHSAbYBQVVfeXFMTmpxazd5Q1N6V3lCZFdEWWgxRXZ1R3pJaHJkS0lZVGp6WXFjNGZEWmJTM1JYYVVZb0htQmY1MExpTFlHYU82MW96blRSYlhJX0tFdUQzQU4zYVctNzVVM21nRUtxcUk2d194SVVwR19rbnBEaWJlTDRjT0REdVRvbHdGNTIwdVdveVdpd0RiR182LUhEUnNhY3BFTWxiMGxBb2RiXzRxd0RPb01ZUXMtcFpGUl8tTmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1774954800
-    },
-    {
-      "title": "List of 2026 Eagles free agents - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeG54N2Z5ZFVxVVUydUltbjlkeHlBakJqWlYycTJ2cXFoVm9YSHdTeE81ekxPekZveEYtOXhmVndob3hPdUZKMGJkamk5MmVTMlpIOUVScFhJVVZ6c2FOTTE1NThad2lhVFkzSDEzNDNCZ3loVElhYXJKaGtVVVAwOWJrOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774920780
     },
     {
       "title": "Eagles add linebacker depth with former Raven Chandler Martin - NBC Sports Philadelphia",
@@ -313,7 +325,7 @@
       "published": 1774832760
     },
     {
-      "title": "Eagles’ Worst Move of Free Agency Is Already Painfully Clear - section215.com",
+      "title": "Eagles’ Worst Move of Free Agency Is Already Painfully Clear - Section 215",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3hQejBHVzNLaHBDeHV4SFd2X1FCamlvZEhSMVFieE9KOEJrU1JWM045SU5lSWtWNXN2aXd5NXZrYTdWVjJhbFF4aXFNUkRLRW8yRkVyQm1acVd3Tm1idEtCZldVYTN4SkVIaFlBakpNTjVES2N4eW9wTHV5NC00MEVCWTNQakc5OWxyc2dYTzM4Z3c?oc=5",
       "source": "Google News — Eagles",
       "published": 1774809374
@@ -337,14 +349,14 @@
       "published": 1774792801
     },
     {
-      "title": "Eagles signing OLB Joe Tryon-Shoyinka to 1-year deal - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQak1NLTlQd1o2UlhaLWxjRDNSVWMwTkdoYjlycFVkRVdrZzhuVEFJMnBVWlc3WUpsVFM1MnNpQklYaGFERk5GM21Sckl0SERsN1VLWElyWEtrTks0MkQyZl9ZMHdGUnFqb0d2d09DSUZadEJVSlhWLV9qNlgtZGpRcDE3SWVHT3J0ZExoeDBKcDFHSnA0NjQ3VnM4N1NJSXpqM1FaOU85ZUlBanVFWmJtcFJxRUHSAbwBQVVfeXFMTUotSVBYaHBzdEhzYlBITktuVEZwa0NLdF9MM1lINmJDWFdWZkljTDJPRElQaEprY3h6ZkhBLTRtMFc1aGlDM3ZDWHQ5WjFyVS1CNmZ1R3JubFdZakU3NlBFd0JlQ3ZoNG1tclZoTTZXWkNNckJrMXQtSjNRV0RzMGRJcmFRcXdENndVejQzMm1uZVBCSFF6ZjFQbVdYeTk1QW05ejhqS24zZUxCUWdXSlVNc01LSm56RWt4clk?oc=5",
+      "title": "Eagles GM Howie Roseman: 'A.J. Brown is a member of the Eagles' - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3BoX2FKWk5pNHd2WVk1VjZpWmpueEpKTVRySl8tQmk4VHFldkRSbjk1Tk9fT3dmRUxPamFLbEIxTy1wR3k2VG1EazZ4ZkhWYjV0TGhCSjU5WUJDQnpoeGY1Vlk2bFBOTjBORE85MWN3M2ZGY19oU3FVMko3WkowZ1ZSMHcxOWVSaDN1a2xEeDIyTHk5NlNmZXFmU0JnMVl2UUplcDBjTjdVOER3MWVucW5BaGc5SjczalFkVFBzNnZ1eVZFYkVV?oc=5",
       "source": "Google News — Eagles",
       "published": 1774767600
     },
     {
-      "title": "Eagles GM Howie Roseman: 'A.J. Brown is a member of the Eagles' - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3BoX2FKWk5pNHd2WVk1VjZpWmpueEpKTVRySl8tQmk4VHFldkRSbjk1Tk9fT3dmRUxPamFLbEIxTy1wR3k2VG1EazZ4ZkhWYjV0TGhCSjU5WUJDQnpoeGY1Vlk2bFBOTjBORE85MWN3M2ZGY19oU3FVMko3WkowZ1ZSMHcxOWVSaDN1a2xEeDIyTHk5NlNmZXFmU0JnMVl2UUplcDBjTjdVOER3MWVucW5BaGc5SjczalFkVFBzNnZ1eVZFYkVV?oc=5",
+      "title": "Eagles signing OLB Joe Tryon-Shoyinka to 1-year deal - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQak1NLTlQd1o2UlhaLWxjRDNSVWMwTkdoYjlycFVkRVdrZzhuVEFJMnBVWlc3WUpsVFM1MnNpQklYaGFERk5GM21Sckl0SERsN1VLWElyWEtrTks0MkQyZl9ZMHdGUnFqb0d2d09DSUZadEJVSlhWLV9qNlgtZGpRcDE3SWVHT3J0ZExoeDBKcDFHSnA0NjQ3VnM4N1NJSXpqM1FaOU85ZUlBanVFWmJtcFJxRUHSAbwBQVVfeXFMTUotSVBYaHBzdEhzYlBITktuVEZwa0NLdF9MM1lINmJDWFdWZkljTDJPRElQaEprY3h6ZkhBLTRtMFc1aGlDM3ZDWHQ5WjFyVS1CNmZ1R3JubFdZakU3NlBFd0JlQ3ZoNG1tclZoTTZXWkNNckJrMXQtSjNRV0RzMGRJcmFRcXdENndVejQzMm1uZVBCSFF6ZjFQbVdYeTk1QW05ejhqS24zZUxCUWdXSlVNc01LSm56RWt4clk?oc=5",
       "source": "Google News — Eagles",
       "published": 1774767600
     },
@@ -391,7 +403,7 @@
       "published": 1774594800
     },
     {
-      "title": "Eagles contract candidates: Extend or wait? - phillyvoice.com",
+      "title": "Eagles contract candidates: Extend or wait? - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVlRQd1hScW03VUl1a2VvTVBtcDZGYm1kMTE3dHBUNGhsVlMyLTFCeXdFT2xOUGNGZUhBc3gyZzNmQnpPdER6cnExZlctV3lHWjB2cTJackNQNk8xWWUxWVo0S0g4N0xua2FYdUl0Z0o0dzYxWEZTOWJkT1FMdGMwRHBVcEwxSHYzQU93NzFXUkZFVng0YmtIOXhrUUlZT01RYjFKVnJ5RnNXdlJyUEczalJhYWRyeHJwVjJIUFVEemtteVhUMVRmN2hhcw?oc=5",
       "source": "Google News — Eagles",
       "published": 1774594800
@@ -409,7 +421,7 @@
       "published": 1774508400
     },
     {
-      "title": "Eagles mailbag: Are 2026 or 2027 draft picks more preferable in an A.J. Brown trade? - phillyvoice.com",
+      "title": "Eagles mailbag: Are 2026 or 2027 draft picks more preferable in an A.J. Brown trade? - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkw3UHk5SFBKX3FwYXowOVJxcXl4YWFuUFprS3ppNXIyYUZLdnctQnlzMjQ5cHlaZ25YWDRaWEdkNml1MXpndng1czRZbUZIa2ZsZ3dxVUE1TW92UTA4OTJZcEdDbjV0Mjhxc2M1aERfMExvOGtmMDJtVC04ZUdOcUlDUDZPMU82ZGllSF9HWUxKXzk5MkNxRFVtX2JNN2pFaFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1774508400
@@ -445,18 +457,6 @@
       "published": 1774422000
     },
     {
-      "title": "Ex-Eagles star reacts to being replaced — his comments about his replacement are interesting - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1k1dXpuTmkzYWRSSUM2RzVOcEhPVlNGaFlNWm9lU2M5UlBieF9zSnFMUXdlZm9XSFFfNGl5aFZNczZHRkIxblp0X3R6c0ViTThMQnRlY1VNUWprNW5fSHhXYWQ4MWdfMU5Vb2pPS1FlRDVhZFFUSkFYV25ZQWlSdmZORERPMC1WRDRNdDZmaExVU1k5MTF4ZzZoc29hWVVmODJGU0lEZGJMV2RMSDVmTzVmNEVJMU9uR3F5RWNzd3g4bVhjbmlyetIB3AFBVV95cUxQck1WMlIyMkNEMWN5OFFWLW5VekE2d2NWLTFYbkwzNWdsQVlYMnFMdTNMZEVQZWJ3ZC1HZTRNZkdtS0MwV0ZSTWN2d0p2SjdRZnZPOS1JUG9XUlczRFlSMWU2cmhwUjlnck9LY2pmalhWR0toLUhSaHQ5T1k0ZUlBNTFWUUt2Y05pTjl0eGVTZDF2QlBYR25WNEZORVlrRkxPU25nWldWR3RJWTNQQmJMdGNZeDJtbnFDbU9McGdoOTBxWGhSSVk4bnRMNU5wb25HM3J3N01lUFU4S3Nz?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774422000
-    },
-    {
-      "title": "Eagles 2026 free agency tracker: Offseason moves, signings - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejdNRTlFd3dYNGZIOExNWUxlOWozWnFDaFJpOHNlUVFxOWkxR1Z0dnJOcE5jeHZVRDZwREdHdUh1YmdZZ253Y081aWFhQkdQSjJsUnRxc3VieVVFdjAtanEwR0Z0U0c3VnlaOHZvUk5abDVrcEp0R2xfWHpuckVDMWpuNl9XelM5RndCSVhGMDg3MU8yQXQ1TTBOTUF1a09oZnhuWmtZY1FiSlgy?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1774422000
-    },
-    {
       "title": "Eagles re-sign OT Fred Johnson, add WR Elijah Moore: Sources - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelc3eFdJNUJESVdta1dQWU8zRFExcGtudzJLM284MEdRdjdZb2c5OG9LVjB1ZlN6Z2RjUWpVZE9zS2tXMVB1LXhTVDhSbk9ZSzU1UjZ4SzNELVh2U2REN1pSdlItdVlZcERrUDROeGdtdDYwN1lmQnlVOFNvUEtBNTFENW1jdw?oc=5",
       "source": "Google News — Eagles",
@@ -469,19 +469,19 @@
       "published": 1774422000
     },
     {
-      "title": "NFC East 2026 free agency grades: Philadelphia Eagles edition - phillyvoice.com",
+      "title": "NFC East 2026 free agency grades: Philadelphia Eagles edition - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOUpEOVBOcjh4N2ZzdlFlcXR1U2w5VGZsV2lFdXA5aGZoU3lRQ1p6LXRQTndrSnRnUkRabzBON0cxenhVVnVFN0U3RDF6aXRoVWtIY0JvaWF5QzU1OExBUmYzRk44QUlXc0s0eWIyUGs3Z09pOEt5cWxDTjFLRlJoaEJpbC16cVhST3c?oc=5",
       "source": "Google News — Eagles",
       "published": 1774422000
     },
     {
-      "title": "Andy Dalton trade to the Eagles becomes official - panthers.com",
+      "title": "Andy Dalton trade to the Eagles becomes official - Carolina Panthers",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0JjTFB6WER3ek83eG42aE81TnlJVzN1Q2tybnNpQXF4WHFWa19kb0xZVzVybzA3bWxJSXlWTXV1cFc5U3c1Qk5yRXFQUjBPRFRKakFMcmIwMlNGTFQ1d2RfUEtDdm0tLWNTODhvYkhyZ0otNWRFWWVvMl9ZRXg1bWt1c0locV9EaHIwRkxiMXp0Y2JESkxTbGRNRVphekxBNDdZ?oc=5",
       "source": "Google News — Eagles",
       "published": 1774335600
     },
     {
-      "title": "What to know about Elijah Moore as Eagles fortify 2 spots in free agency - Delawareonline.com",
+      "title": "What to know about Elijah Moore as Eagles fortify 2 spots in free agency - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMHQ4QktmcXZET1Nia1ZxaEhaenFBbkU0dmRLcEtFdE1MSHFvTWNaX2FjS2tlVTBJcGRxeW1YSVlmSkh0UTFmaGFvVm1PZTFtRUJTblVRQXh5ZmNrcTQ5dk5uMUdHb3BPZUJCbTFIYXFVUERITUl2WGVSOFhnSDhfVlJ3alRkWmhRTU1WN1pRamtCRlVTMTFTZXVGT3haeUpPN3NJQ2p5SGp5RDliZjMyWFBqQVhiRnB2Nkh0M0lHNmlkd1dHMzBSLXQ0RUI3WUNhcDR6ZVZKRXFjai1jZEY0?oc=5",
       "source": "Google News — Eagles",
       "published": 1774335600
@@ -517,7 +517,13 @@
       "published": 1774335600
     },
     {
-      "title": "Eagles to sign WR Elijah Moore - phillyvoice.com",
+      "title": "Eagles News: The under-discussed financial benefits of trading A.J. Brown - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbUJPNEprYmpWb1NfZ0hoSlRiRTRFS1dfM1RBblBhQWVxXzN1MU9qVzhsTGNZRFZDYldKNHI3aWR6SVJhZmctcDNRZ3E2bHlWMmtkNzNHLWZubUppa0lMX0F4VGlmUVRNd19naHpsczBwY0Nvd0lMUFFPSU9raXBROG1YVTFOeGJxWmd2dm1BSl9vdkhnVnA2bUdtSUtnWmphZEI2NXF0ZERGX2hVdnJRYkFqNUZwVFV0UmVv?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1774335600
+    },
+    {
+      "title": "Eagles to sign WR Elijah Moore - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54NnhlbGJmdU4wblNEeVJRSUVlNlR5Sy0tdV9Xc09kV3J0aWpVWWtyZnFCRVhuVnN0cGJRNjhHVTJadlk0cF9veTVqUkM0VTdFRXhpM1QyU3ZuVFJUSF9hM3dva180Vk9FdHJ5Y1c2YWI?oc=5",
       "source": "Google News — Eagles",
       "published": 1774335600
