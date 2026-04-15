@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-15T14:10:19.066346+00:00",
+  "updated_at": "2026-04-15T15:47:22.808393+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Mel Kiper’s final mock draft picks",
+      "link": "https://www.bleedinggreennation.com/news/173609/eagles-news-mel-kipers-final-mock-draft-picks",
+      "source": "Bleeding Green Nation",
+      "published": 1776266883
+    },
+    {
+      "title": "Eagles NFL Draft Mailbag: Will Philadelphia actually trade up in Round 1? - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDU3anNRMUtFTmhtQ1drZWlfOG5zaXVwRC16NF90WWtzSWNWZjd3c2kxbVp2RWYtOUNIQnAwQ2RVOW02M2pWdVpMNDRMWTVOdzVsYUViOEUzbWRrM183NjVvd05wUEczVHI5dFBVa3BRcUR6WWZ2RGgzLWVHdHZaUXEtUVJxRENvd2FVSXJucWRLUVA1M3NPS1ZZOTVkeC1lZmRkOVR3a0NaSk8tYjBiMkdkX3F4Q0l3U2Jz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1776261601
+    },
     {
       "title": "Howie Roseman addresses Jalen Hurts reports",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/173570/howie-roseman-addresses-jalen-hurts-reports-espn-comments-nfl",
@@ -58,12 +70,6 @@
       "title": "2026 NFL Mock Draft: Philadelphia Eagles pick offensive tackle",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/173557/2026-nfl-mock-draft-philadelphia-eagles-pick-offensive-tackle",
       "source": "Bleeding Green Nation",
-      "published": 1776189720
-    },
-    {
-      "title": "2026 NFL Mock Draft: Philadelphia Eagles pick offensive tackle - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3dFenZPZ09nc2dfV0ozMnQxUjJRajhPYlNtZUVlNlJCYUw0Sld4Z212U2xETHRyXy1BcUFMeGhTcjU0NTBtODE5elFrTmpPYkRKcDBQcmhsMHNhTGRROTEyb1ZBcFkyR1ZSOG5CS2NrU2RST3ZLejhYWnh0MkpnR1FkZ28xTGxGZHFDSlp2bERhM3dvZGR5cDBwRmNRTDNQTXZnMHJfdlBVQnVFNjRpeWJCTHlqQVZScUw1Zi1ZSy1nY3ZIeGJnc1Z3?oc=5",
-      "source": "Google News — Eagles",
       "published": 1776189720
     },
     {
@@ -121,28 +127,22 @@
       "published": 1776110261
     },
     {
-      "title": "NFL Mock Draft Monday: Unoriginal six",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/173481/nfl-mock-draft-monday-unoriginal-six",
-      "source": "Bleeding Green Nation",
-      "published": 1776105702
-    },
-    {
       "title": "NFL Mock Draft Roundup: 6 players linked to the Eagles - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjAtaE1xSU1uVzY2bGs4cHB2YjBJd1NLOGl2VkxlR2hjajhMd2Uxb05jV0ZrMXlMdENZZHotM3JBV1Y1N1JneWZTU0NuNVdJNS0wRU1ibHYwT3R6dnB5dVgycXFBNjZTYS1VQkFaNS1saEwwSW13dEY4bG1oZ0RGc3lvRlRHZm5PSnRYaU9Gajd2dHhNejlOVlNwT2RsU0JRdEJTTllMZFQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1776105702
     },
     {
-      "title": "The Eagles’ wide receiver room appears loaded … for now",
-      "link": "https://www.bleedinggreennation.com/news/173490/the-eagles-wide-receiver-room-appears-loaded-for-now",
-      "source": "Bleeding Green Nation",
-      "published": 1776100980
-    },
-    {
       "title": "Eagles News: Dontayvion Wicks has untapped potential - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTRheEJpX3VmZzJ6M2l5WmtTYlRRbGs2SXpINHBQd1JYSDFXTDhSdWJpVGQzdjV6RXEyMENWVHFHcnJOenhJNXE1V1pzUTh6N3RQbDF4TEFSelNjdjRvNEhNNnpWOFVNLTJrbnkxS2l2MXBZXzhPaEpJZXJkYkxuelBGbE1WaFZSeVJlZUgybjN6bVdwZm1WRGtmeWJWRVJN?oc=5",
       "source": "Google News — Eagles",
       "published": 1776096590
+    },
+    {
+      "title": "NFL Draft 2026: Eagles prospect visit tracker - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVE0wdFY0MkNjdGJvV1pYcGlrclAzTDgyUXpST0pPOHgzY0tkUmZIRUk5VmxzRGtPZ3pkZHU1eFdsMEFQM05Uc1dadm95SHppY0FnUG4yYlhfT05XSGYyaHZVSFVNMllMNm02VVE0dWY5YWVDdmZfTXB2MkE5XzA3SlJKRUkzTnROVUNzV3RybTVzMmFuUmlfb1RLLXUtdk9rdzFEMnFDWWV0cFd6QU81WXlkYVTSAbwBQVVfeXFMTlV0ZG9rd2lqNk1vT0lrdFJxS2xVZDJHT2EzVDgtcEVlc0tYWXVid0g0ZkRacVBJRFJCdndKM0FVQVNDRXozZUJRUVBvTWtwQ0lwcVlZZFVfVE9BRXFxUmliMVJieU1mVFRSNlk0bHRkSnhzcFdCVVFZdWloVVItNk1WWWpSbHVlbXEzQU15QjI0ODd5dVZNcWJZM1JKQklDM0R4a0Y2VkZJTUtYdGpLMjdRNWh0S08zaXU5SXI?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1776084263
     },
     {
       "title": "Philadelphia Eagles 2026 NFL draft picks, biggest needs - ESPN",
@@ -223,12 +223,6 @@
       "published": 1775879160
     },
     {
-      "title": "What the Eagles’ Trade for Dontayvion Wicks Could Mean for A.J. Brown and Rest of the WR Room - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk1GRTMtMG5mZlVXaHF3Zm96Q1JmMHNXNWtSN2dVdG0xY29aa1NCYjBoMkMyeXExNFJ1UmhPUHowcDFJTDNmbUwtenE4X0otM1ZIdVBWNXJrTW5EQjJXTThRN1lYVTdFRDNhc3RMZHI4X3NuRjNVeno2WWRoMS1fX1NWd1d5OXNjcEFZbmppc1hlcDVDVEtrcg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1775858072
-    },
-    {
       "title": "Eagles acquire WR Dontayvion Wicks: instant analysis of the move - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObVN3RkJ3QzRFTWN0Qkh4YThGaENHTG80T01Ud1JQdVplVUZuYVRnMTNnQzJxWktITUREeU1kZzZma1JaeXlnRjdDZmJ2ZDBsaERNQzFnVWJxZE9aLXFYVlJDQXZRUmpmck02eGhXalpZY2JXblZzSWZicXVpSEc1SVNZYnMzcUNnd2NNVno3dUJWZ1lMMlZxNTM2RkpuTHZHeVU4c0VfRmsxSTNnVFlPWXM2dHJEQXI3VzFsWGRDWTdiRTVOTTZzNUVSaUlDTnZ3LVFMMkd3?oc=5",
       "source": "Google News — Eagles",
@@ -265,6 +259,12 @@
       "published": 1775854149
     },
     {
+      "title": "Eagles have confirmed 30-visit that can only mean something is brewing in Philly - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY21YM0p0c2tmS254elFTbjhKTllVVUdYbEF2VVJWUmh5NmJtQ3ZxY0tWb1c0QWFNLVJNYVNiRzBGTEpfUTlqejlsWDlDRG1TbkF6MGM1S1JDZEV6STNNNmU5bWJ5cnBZQmZWcWlHQ1M3QldsU29XZFA0RV9tMjFpZ1JZNmZzeTQ3ZzRyV05WaERYWER6WHhYMGZpZUhIQUR6UXFaZ0tkenJXZmNuQ2NYVVFKdVVaV0JnMUJwUjh3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775851200
+    },
+    {
       "title": "Eagles pull off trade to acquire receiver with ties to Sean Mannion - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcGJPNFI3RElvbTh4Y1hFMnJYRGFSczF4RzljSzIydXBpQkZNQlU2cmg0NkV1UXU3X0o0WlNRZE9tYW1iV3k3X0xaeVV1Z2ZVUk5mR3VHZFh4WTFkTWNiZVBiajM4bEJvWFl3T1BHeEVrMHNLVm5Za0Y0MWhPTlNmd2IwbzlKZDYtb2lBc1BmMHJZS2NWMXlsOHRIbWJRSFVRYVFwMnF4QV8wRnFiQi1GOUM1c05MWXdPbXN2X3BMdndlcTZDU3RMa0RYblc4YVB5WUdLenNn0gHeAUFVX3lxTE5GVXhSV1Q0cVNXbUw2bl9rZzIwOTJaNXdCcFF4cDVtZTBSZ2lRcFdnLTR0WERYQVotOWRERTJFeVZnUk1udjRKN0JiNE8tWC1sejZOeVFxQXBaTDN0VFdONkl0c29qU0RvUGFIZzQ2QUR0WHRHblZMZUJITno2Ny1IcTM0WUNMN2hYckhoMlFEcEFOZTZZcXpTcHdXOGZRV2FsUGl4dG5SQTJYV0pMWlF1dlZBQlZnRHhadVlQWlFIQzRkdThuLTJ3NkFjVmI5ZXJ6ZnEtTHlHZFN2REExdw?oc=5",
       "source": "Google News — Eagles",
@@ -299,12 +299,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk9TRnRfYjJzM25ZRUs1UU9WcGtBdjF0OHRqLWs2RWlFcElpX3N1Y3p6VG0xdmFjNkFTZGhVUDNkLW5ReC1CZVRtLTZ5cWc2SEozRkY4UzQ5Skc5YVdBLVh1Y1QwRkJZQ1gzaDlmamNrcXZrYl9ReHBoMzBwRHBjenVtMktjM0Rmc2tQdVQ0Z2tOZV9kZlBPQndpekY1eDNOcnNzWk1HN1BSMl9YdElCZ2hZWjdCRTF4LUdSdjlRLV81TWM50gHMAUFVX3lxTFBHcWhVQ2pPMFJkODhkTDJtZ2daUUo3SmZ0X1hYdzk5dm02Rk5na0VWWTVaZGFWN1lWeGU1emY4d2J4QWR5QWxiVG1CdW1wY2lrT3ViSlRSNWRBZFpWYjdpQnNORDg0c0daYWRVdC0yTFdHOFJidVVmb1JTZFJNb0RpUzdxRWxKU0JJSC1meTc2NGRvWFFsem85WHJySmE3bXAxb2lCVlA5X0xqVlUzLUt2bFlZU0wzNXQ4blR5MFBUVHhBWXZ3Y1dNczFWMw?oc=5",
       "source": "Google News — Eagles",
       "published": 1775818800
-    },
-    {
-      "title": "Pre-draft visit shows Eagles are looking for speed demons at wide receiver - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVBlNlRmeXFPRVVBdlFhbFdFbmRPcUt1Vm03YVlEZ2l0NWZseWJpYUtFY21pTEd1SS1WaHNVR0tRckdjX2U2Vkp1X2xXTGZEakdyTk82TjYzT2FYMmVNNS1rMC02cDBScWZ4TU9LS2NldUs5ZVBVRFhTXzA1UERmNG9ETFNHOGJJYVYxM1J0MktTLWU0VXFMaW5Idm9kYy1WZDNrU2JuX2ZHT2Z6bGhNb2F1bV90Y2d6bWUyTkRWcXBETWtrMDFRWTRHRHpNUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1775768405
     },
     {
       "title": "Eagles News: Jordyn Tyson is “a player to watch” - Bleeding Green Nation",
