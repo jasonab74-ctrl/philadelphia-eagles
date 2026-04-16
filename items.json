@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-16T20:10:47.250833+00:00",
+  "updated_at": "2026-04-16T21:10:51.772330+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Ranking 17 edge rushers in the 2026 NFL Draft",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/173659/ranking-17-edge-rushers-in-the-2026-nfl-draft",
+      "source": "Bleeding Green Nation",
+      "published": 1776372996
+    },
     {
       "title": "Eagles met with a speedy Big 12 tight end ahead of the NFL Draft - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlFjZ3hBczk1NUVOWlhnZENmcXdEZkpMbFRtajNfSGwyLVFPVmNqUExaTGJnOWZrU3k3emxJbHMtS0V1U1NmZ3Z0UFk2ZWwwU19VZGpsNTBaUzYtSXZHUThQdzFmd2pQd2Y3RGJPMi1rMDlEOWFnYTNCWTBaQlVxaVVldUlWN0s0bjhoRUUzQ1FMVkhTQVBHU203WXlUVEM3dVJuV1RyV0NSNmIwdXBTaEFFVmpTR0ZEbmJFcjhiZG1sRWQ2T25TVjJEZUpIOW5uSWd3UlQydFVXeWNs?oc=5",
@@ -145,12 +151,6 @@
       "published": 1776187156
     },
     {
-      "title": "Howie Roseman talks Dontayvion Wicks trade and A.J. Brown non-update",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-free-agency/173551/howie-roseman-pre-draft-comments-aj-brown-trade-update-dontayvion-wicks",
-      "source": "Bleeding Green Nation",
-      "published": 1776186102
-    },
-    {
       "title": "Eagles get creative in latest 2026 NFL mock draft - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUk1UWpYWDNvUWI1WWRiaEtaYXAyWUtOaXNqTWhMbnJrbnFBb1pUNkZjWUZJR1l0Rk1FWTNrVWlNMDExM3hPMzBud3FnX2gwMklYSkNDMWFHMGdSa2RvV1ZFSnMzeG9nUW5FUWF3NmtldUtxU3lZNnR3R3hDM2h5SE4yWHJkT21zb2Z3bWI5U214TjAyTEdFRjRxcC1fNEo0NXJjUEtwY1gwVDUwY0xEOTB6Y1FNdUJCbnA00gHDAUFVX3lxTE85dHhHRGF3Z09pTFhrMnpVSlBKR3l0cnhuTWlvMEt3UVlRZUxWSGU4MW1Td0RCVTF0MVQwaXkzSzRkeFFtOEdRVm9JVGktLVdzS3lzem9oUzYtNWRYdnFtZDBKYjNnTkpDS012SURWQld2LWo1N1N2SVNFNzZVZk1rMExoTDlBMThPaXZUS011ZXBSZk9LSlNTekk4eXRVeGZTdUNWUU95a3RqVnJKR1RTN1NCYUFtNkNhV3dOVk03S0VZcw?oc=5",
       "source": "Google News — Eagles",
@@ -185,12 +185,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTRheEJpX3VmZzJ6M2l5WmtTYlRRbGs2SXpINHBQd1JYSDFXTDhSdWJpVGQzdjV6RXEyMENWVHFHcnJOenhJNXE1V1pzUTh6N3RQbDF4TEFSelNjdjRvNEhNNnpWOFVNLTJrbnkxS2l2MXBZXzhPaEpJZXJkYkxuelBGbE1WaFZSeVJlZUgybjN6bVdwZm1WRGtmeWJWRVJN?oc=5",
       "source": "Google News — Eagles",
       "published": 1776096590
-    },
-    {
-      "title": "Philadelphia Eagles 2026 NFL draft picks, biggest needs - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjlIZE9SN21aT1JyTTRlTjhGWmk2aFA1cWkyNWZ6bzk1MV9aNk5ER2xkOEswdlhrWEtTMkhYNGVIdG9zcHJIc0ZhU3ctbDhKMTVVNG03ZWFOUnF0b3hTb092aGt2dTllZVQzRzlTX2ZwR0JZZGMtM0VVTjhtTmJTWHViMXFXdWJJMWhHZjlJTG10dDMzNERDWWZaQ0ZHVDVHZHowZjFDV0FnNlFaQUxrbFpDNDViSDAzMGRuUF9ETlNobGJj?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776074400
     },
     {
       "title": "Eagles, A.J. Brown intrigue increases as NFL draft nears - ESPN",
@@ -313,12 +307,6 @@
       "published": 1775854680
     },
     {
-      "title": "Packers trade details: WR Dontayvion Wicks sent to the Philadelphia Eagles - Acme Packing Company",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUgwN195QWYwVExPbDNyNmw5b1hJNnYydE1NYk8xLVFyXzMyVWNPb0xfR1BYcTBVcW53TlI2UXEtaTlmV3cxdUVfa2Z1cERWTjkyTm1VeGhrUGJmV0V0eVBEODZ1X0xhTzBJenB1a0dGeEV1OVBSc1V1V1lMM3NKeGhUM1dqZ3lPTEo5SVRxZTJnOWEzN2ptNVJzNldFSWJlTnFEYUlJTVNkZ3ZWZGlMTnNQTVRHMnRsem0yTm5MU0pLYUlhLXRvNDBDQ3BQTmRuOTlj?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1775854149
-    },
-    {
       "title": "Eagles have confirmed 30-visit that can only mean something is brewing in Philly - Inside the Iggles",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY21YM0p0c2tmS254elFTbjhKTllVVUdYbEF2VVJWUmh5NmJtQ3ZxY0tWb1c0QWFNLVJNYVNiRzBGTEpfUTlqejlsWDlDRG1TbkF6MGM1S1JDZEV6STNNNmU5bWJ5cnBZQmZWcWlHQ1M3QldsU29XZFA0RV9tMjFpZ1JZNmZzeTQ3ZzRyV05WaERYWER6WHhYMGZpZUhIQUR6UXFaZ0tkenJXZmNuQ2NYVVFKdVVaV0JnMUJwUjh3?oc=5",
       "source": "Google News — Eagles",
@@ -367,6 +355,12 @@
       "published": 1775741355
     },
     {
+      "title": "Dallas Goedert's Eagles Exit Looks Likelier Than Ever After FA - Section 215",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzdHTFNPczl6SnlhMnlqb2MtelM4Ump4RjFyam9SMURzQXdYWkF3OTBZYlNQUnlaemoweGRBdFhTb1VOR0xDY2hlZzdCaG1iaWxYeS1sc3dCM1RuX0pQWmpnZzVzMmo3QTU4N2RaNTFDeGtSTE5kX0ZBX3pYNXg3V0tFWlYwVFo4SUItZENMcU1qaDZ1?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775664646
+    },
+    {
       "title": "Orlovsky family shares 'special’ experience at Eagles Autism Foundation All Abilities Clinic - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUVZeGs5Y3RidWYwYWlLNGhoNkJha0ZOSjBwTWh1VWxMc1NhUGlVdVY0dHRCZy1VbWg3dzdXeDlVX0kwMWJjR19ZZHdOVDc2bG5FM3dUOVo5Y0Z1c3pYd0hvREFXT0pxSGFKLW9ZWUJmRDF6MlJsZTVac2hDbHM5OTlHeUR1UkRUd0ZHcDNtQlZXaElIWmRxYTJVenIyZmJ3ZzZLa0o5M0tObVE2cTZYV2ZKVWxtLTE2a3JXUWdJUkZEeFRONDBRVkNB?oc=5",
       "source": "Google News — Eagles",
@@ -403,12 +397,6 @@
       "published": 1775545200
     },
     {
-      "title": "A.J. Brown landing spots: Six best NFL team fits/trade packages for Eagles WR - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUg1dG5HSmVsMTQ0T1FYMTZQb29DZVcyS1VoaTNSZUlTSU45ZFk5bFBJZThGeEhhVExFX0kxTXhxc2JWZHVUN01PUVJ2SktRVUNncUJxZTVYMzZ4U2pZX2VFQUF0RXpnQU1qRU5XMWw1aDg2M1pnbEVuN1IySm1EQWZlTnJBa2sxd011dTc3Y0prVkRGbm1J?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1775545200
-    },
-    {
       "title": "Eagles will agree to international game in 2026 under one condition - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUVOVEpJa0FqZC1zMEhsTVlLVFBUMlZFR3FfNmIydDBiOXpBNEtseVBNLURuN0dFWnRhQnFXSlhNdXNUdTJNSzh1cHBUYmt4U2pPSTAxT0ZrNkhxV0hadTBGc3RCVXJzQVRsRTJYMmtuaWZkZkIwXzctS2JJckNfNE52VWFFMmJzeC1nSFU0NEdQR0J2VVpzdW4yTmJDRGRIYy1uZzUyV1YwREVmMllYZGgxS1VhQQ?oc=5",
       "source": "Google News — Eagles",
@@ -437,6 +425,18 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzdXSnNEZU1fMzBndXZmRjlvNUYzRFVrbjVYUHo1NzN3NGszQzJDNmtYVzJPa0EyNTc2czFaOWZaaTAwdHJiVHNyOWo5RDZqSzFqZ3BrNkd5UE1xQlVGWnVOMzdvaU5Ia0JDSlA1TDJMOHFGTjVxVGZrRWQ0WlFCOFhFMGZFdmhUY3FYUmItbDZMRDJxMDFyQjRtc3UyUUhhd05hcXNUQUt3d2NwZHM2ZXl5S09BNTZfdWE1MGxZbDczQy1NWmFLUTl4cjVteDVOUzJHUG1n?oc=5",
       "source": "Google News — Eagles",
       "published": 1775513890
+    },
+    {
+      "title": "2026 Eagles mock draft roundup 6.0: Looking beyond the 1st round - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkp5eVp0aFV3czFSd1d3MThMMW9uZERCMC14QWoydS1GQWdldnMwV2UxeEFydTRjTTJHOUh4YldYOUZZMVlONE1YZ1U0T1BzLUI1WXBMejJHdFkwdkFWVTZlUzFha3NuWXBtaTdQZjBsd0ZOUjZrRzBUeGFTSVM4N3dxRkJja2FwdGdOMFpYbHI5Wnl2TXpzSFRqelFDSHY5emZPc3NXOTJsOURKdDIyUDFFWEVWVFM3UlB3Ml9EOFhIa0ltRlhVanh2bXFhZ9IB1gFBVV95cUxNdGNTcXRqeE5yQWNvbHRKcTgwWlpVdVM2NTR3SXlzNmQzRHFsX1V0ZGVOS0xlZXk2LVlCQVMtdHB6Yi1DaXpjV0FWa1NhZHNGZW1CWHI3eDBRei1TZnJGUF9PUW5tNG45aHNyaU1YaUVXbnhoYlZES1RaUzVJcVNva1hIQ3YwTWNCNHloOS15WkxXeHVHWlM2NnhzSG0xSGtvNTFiakl5TmdOUW9PemI3aHRrbzF5SGJFTXpyOWdmSFVRWi0wT0N1VEhNeUpfRUJsN21pVkh3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775482704
+    },
+    {
+      "title": "ESPN projects Eagles to make blockbuster NFL draft trade - PennLive",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29OT1o1MHpqbDN2MmxaSDBIa09najRPMlVHaWRxbVBEMEhfQVE0MngyNEt2SU9MM195LTF3akYwQkc3NElUQXdTeko2N09GZmEteHFRSEtVTlNqa1JSZzFCdVloRTZsSEs3TmxKc196MEEwZkdjY0c1YWp5Ny1oZ2FtMFRXZ25FRGg1cm1JWFZYTkdtbGctT2ZkdWlialJKc2xCZGNMYnA3bWlGTU9MX0YxZ9IBxwFBVV95cUxOMTloU05ERzI3MFhJVzNUeldOWVQteVFTMkVkVEswOGVBMkFWbjkyNnQ3THhFTkN0ejlQSDZaWEpnT01PaGRCdEw1a0dEWWlmbEZ1WEVPREtSMy1uNjE3cEJBRmRGY0tDRXlrNWtKMEZIelJTWTI1TjB6OTJpemZkQ3JqUGFSNkFMSFQyTlZlNUhWTHlzMVJTUGhWVkhHMFFaTG1KM2VTR1JNeTJuTFNibXVnRFFodGZuNzdQRHZUSlY4VXo4bTRV?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775458800
     },
     {
       "title": "What I’m hearing about the Philadelphia Eagles: Why the A.J. Brown trade topic won’t go away - The Athletic - The New York Times",
@@ -511,14 +511,14 @@
       "published": 1775199600
     },
     {
-      "title": "Eagles 7-round mock draft: Philly bets on unique talent to replace legend, adds underrated freak - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTVA1QnJRYU9Ha21ZUWpBdlplbTRST3NBcVliX3M2cFQ2ZkstQktQUVI4dWFDZ2JXSkxkTU9sNzZCalpGSkQyUHhtXzJ0Y1FsRHZpcnRYMXNUVHgtTUlJTjhnRGxSZXgxNVpabTJlczJ2ZDd0VFFINFJTUHAxcU0waTR0ekNJZ2Q0UUtJLTdZc0xySHhlSjVLUmlYRGxDTFhrT21TUUdfejBfYUZDb083aUJFSm5HSlNhWERLa25vUjFMdEtlc3ozRUtfdTBDZ9IB4gFBVV95cUxQaFg1MWpzMU9zOTg3MTl2bWIxLWp2LXZTRWhpVFJKNGFKbmtCZ1Z5dEJtMk5vR0ZiZXJqY1Bic0JJTTdBSll3bTBxNEFmYl80enhxTU1VNHNrZDgxX3dZTk9yU3VLSjhiVGZ4NWlaMW0yNkFNVWtWejE3cF92WTh6QXhoWkMwdHpvOUdVMkFyckNoVG9qSU5qUUpaTUo3V1dNcWY0M05FelllczBFV2N4SV8yS2VyZFhjTjV0ME5uWGJWYmMzR2lQU1RtOTc4OXFaRHlYS01mMjllUlVnTW5XM25R?oc=5",
+      "title": "Eagles' 2026 offseason schedule announced - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0NkMnhRejlrckc2ZjlEWjV3cTZBVGw4UHF2MUFvZ0hzLVNPaWVLTjZSTkFfOXVEM3FMVVhVd0dsTnVpZ3BqTjlIZkVDbVhGLUdTTVVJenB2U0k2X1dISTdoRUdBR0U0emJLNFM5QzhBU05RLUlrWjV1R2Z1dm1QcVFRUjc1TUVX?oc=5",
       "source": "Google News — Eagles",
       "published": 1775199600
     },
     {
-      "title": "Eagles' 2026 offseason schedule announced - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0NkMnhRejlrckc2ZjlEWjV3cTZBVGw4UHF2MUFvZ0hzLVNPaWVLTjZSTkFfOXVEM3FMVVhVd0dsTnVpZ3BqTjlIZkVDbVhGLUdTTVVJenB2U0k2X1dISTdoRUdBR0U0emJLNFM5QzhBU05RLUlrWjV1R2Z1dm1QcVFRUjc1TUVX?oc=5",
+      "title": "Eagles 7-round mock draft: Philly bets on unique talent to replace legend, adds underrated freak - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTVA1QnJRYU9Ha21ZUWpBdlplbTRST3NBcVliX3M2cFQ2ZkstQktQUVI4dWFDZ2JXSkxkTU9sNzZCalpGSkQyUHhtXzJ0Y1FsRHZpcnRYMXNUVHgtTUlJTjhnRGxSZXgxNVpabTJlczJ2ZDd0VFFINFJTUHAxcU0waTR0ekNJZ2Q0UUtJLTdZc0xySHhlSjVLUmlYRGxDTFhrT21TUUdfejBfYUZDb083aUJFSm5HSlNhWERLa25vUjFMdEtlc3ozRUtfdTBDZ9IB4gFBVV95cUxQaFg1MWpzMU9zOTg3MTl2bWIxLWp2LXZTRWhpVFJKNGFKbmtCZ1Z5dEJtMk5vR0ZiZXJqY1Bic0JJTTdBSll3bTBxNEFmYl80enhxTU1VNHNrZDgxX3dZTk9yU3VLSjhiVGZ4NWlaMW0yNkFNVWtWejE3cF92WTh6QXhoWkMwdHpvOUdVMkFyckNoVG9qSU5qUUpaTUo3V1dNcWY0M05FelllczBFV2N4SV8yS2VyZFhjTjV0ME5uWGJWYmMzR2lQU1RtOTc4OXFaRHlYS01mMjllUlVnTW5XM25R?oc=5",
       "source": "Google News — Eagles",
       "published": 1775199600
     }
