@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-19T15:07:09.004066+00:00",
+  "updated_at": "2026-04-19T16:02:44.866537+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: ESPN makes the case for Philadelphia to trade up in the 2026 NFL Draft",
+      "link": "https://www.bleedinggreennation.com/news/173767/eagles-news-espn-makes-the-case-for-philadelphia-to-trade-up-in-the-2026-nfl-draft",
+      "source": "Bleeding Green Nation",
+      "published": 1776611098
+    },
     {
       "title": "Roob's Eagles Observations: Is A.J. Brown even worth a 1st-round pick anymore? - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlB6OTFuOHZlZDlJVmNKY0tDeHZnbmZza2hBVHZSTjk1RlFMSHV2Mk5sWlFmWHJFdFAxZWJqUkNHajNRNGVNbVR0dVhRSEJBWTkyZHc2YS1ucGxDZUZRNFI0QkJQUTE3NG5SVW5rT2lzSzRhNGxxY2s4RkFhME1CbmI0ZzFwQ1RkV1ZhVTBJU3A5TzVVLTFBUzRnUTh1X3ZIUGZhZXJWU3pXOVhFdGtNZ0RPZTVjbUg40gHAAUFVX3lxTE1QY2JYUUpCTjdzWVVNV0haU0k1MWdaM01oU25fX3VpbGhqV2U5ZThyNlU3RUExbFRRb3VrdWk1Y1ZVcHNERDdIVm1WNVkwdnYyWVZXb1NNSmNBa0FDcTlURk52Yy03Z3NlUGhHVDhpN19GeTZrblRJeWF1a3NCN1Vja2l5WmNNMmVidEw2dDdYMUgtUkMzelI3NjFkSlN3OFVtRTB1eGxXMU1GOHo5MklxZDdrUTAwX0FqcVBJSGtRLQ?oc=5",
@@ -91,12 +97,6 @@
       "published": 1776447660
     },
     {
-      "title": "Eagles rumors: Insider reveals what he’s hearing about draft plans, and it won’t surprise fans - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFZPdnlSODZUdHVZekZKbzZhX05BdlpGeFRMaXlheDBZYTV2bGZPM2gweUoxM3JkeDhOeUJFTG9BS21xejZubi1tZnZQZkZDQkstdkEzcU5ORDRyYm40LVdaNVFTSnZBbFBZLUxwS1c0MzR5ck1BajQ2ckJ5NlM1SV9vVzJmMERwQlZHc3BOMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776447651
-    },
-    {
       "title": "Spadaro: How the Eagles are navigating offensive changes this offseason - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWVTVWFGVTJqeFZfQnhZYjN5RC1XaGpVX0RYTHBSUnNtbGlTTEw0WTVvbW1nUHZJTFNLVlIwZ0hscndxSlAzQTFha3NXc3cwN0ttVlZka0lnRVlmNzg3a2l3dlJWdVRLZVEtbTlISEF6UHpZYWZNd1BzLWNMeHBpRjZQM3JjYjhxR3hiaHZOTVFNY25QTzZGSGwxSWZPSnc0djNVVTlWbk1FLVA4Q3FF?oc=5",
       "source": "Google News — Eagles",
@@ -124,6 +124,12 @@
       "title": "Eagles News: “The Eagles think that second-year man Darius Cooper will make a big leap”",
       "link": "https://www.bleedinggreennation.com/news/173684/eagles-news-the-eagles-think-that-second-year-man-darius-cooper-will-make-a-big-leap",
       "source": "Bleeding Green Nation",
+      "published": 1776430013
+    },
+    {
+      "title": "Eagles News: “The Eagles think that second-year man Darius Cooper will make a big leap” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejRkQ081M042NjFYUWJDd2Q4ZXpXckdKa3RybEgxUzFkYWpxNnIxRGFOeVFGTGZVOURiQ21jYlhZN3Nvclk5M2h2ZXdGSFNhOFRUQl90cjJoRGJkRUx3NHNSZXUzbkx0ZVRsZXFGcXlwYnVSMWhFOWZ4eGxHSmVEdk9ldmJwc2lxQUdGLTZUSXRNVVdpMm1oSVJxVTRiNl8wODJRUlFGQ0g4OE05d0xJQnY4cUlVa1VyTWc3dUc0RjFmNHA2eG04ekRzSzc?oc=5",
+      "source": "Google News — Eagles",
       "published": 1776430013
     },
     {
@@ -161,12 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlFjZ3hBczk1NUVOWlhnZENmcXdEZkpMbFRtajNfSGwyLVFPVmNqUExaTGJnOWZrU3k3emxJbHMtS0V1U1NmZ3Z0UFk2ZWwwU19VZGpsNTBaUzYtSXZHUThQdzFmd2pQd2Y3RGJPMi1rMDlEOWFnYTNCWTBaQlVxaVVldUlWN0s0bjhoRUUzQ1FMVkhTQVBHU203WXlUVEM3dVJuV1RyV0NSNmIwdXBTaEFFVmpTR0ZEbmJFcjhiZG1sRWQ2T25TVjJEZUpIOW5uSWd3UlQydFVXeWNs?oc=5",
       "source": "Google News — Eagles",
       "published": 1776354780
-    },
-    {
-      "title": "Eagles News: Good perspective on the A.J. Brown situation",
-      "link": "https://www.bleedinggreennation.com/news/173634/eagles-news-good-perspective-on-the-a-j-brown-situation",
-      "source": "Bleeding Green Nation",
-      "published": 1776349282
     },
     {
       "title": "Eagles News: Good perspective on the A.J. Brown situation - Bleeding Green Nation",
@@ -215,12 +215,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTNrQVNMR2RlcXBkUER0TnROQW1yYjQ4ZzViT1JYd1JBU2RBWXpqN2sxN3M3XzdmWWRBem4xV0ZDN3NfakdvSDQtMXhtejJYX2dMcERMX2N5RHVuMVVoQWxXdHdYdFp3OUZpLWpSUXZYZEM0VXQtM2ItRzZDbEhwYm4wRTVXdlgzRldScm1vQUNiUWs?oc=5",
       "source": "Google News — Eagles",
       "published": 1776262460
-    },
-    {
-      "title": "Eagles NFL Draft Mailbag: Will Philadelphia actually trade up in Round 1? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDU3anNRMUtFTmhtQ1drZWlfOG5zaXVwRC16NF90WWtzSWNWZjd3c2kxbVp2RWYtOUNIQnAwQ2RVOW02M2pWdVpMNDRMWTVOdzVsYUViOEUzbWRrM183NjVvd05wUEczVHI5dFBVa3BRcUR6WWZ2RGgzLWVHdHZaUXEtUVJxRENvd2FVSXJucWRLUVA1M3NPS1ZZOTVkeC1lZmRkOVR3a0NaSk8tYjBiMkdkX3F4Q0l3U2Jz?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776261601
     },
     {
       "title": "Breaking down the Eagles picks in Dane Brugler's 7 round mock draft - Eagles Wire",
@@ -445,14 +439,20 @@
       "published": 1775804400
     },
     {
-      "title": "NFL Mock Draft 2026: Eagles 7-round simulation, Version 7.0 - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjBMbEVib0FBUFpIajdjaU83VHBCb2g1Q3owbG9QaHllVXBlOFk1TlFrWnNTdVpkeEpoN3hISlZvaUVpc21UajFwTkFYSXBqMzUwMVdiRHZBTUQ1R0hLSlkzeERZSkFWZno5YWpJbUw1UG90SExrSFl6R3F1Y0RVa3JlUnpQVDNWb00zRVpPZUVwdGNvVzZ3M0QzUmNObjlETUFHcjh5MTFzWUR4S3JZUUJqMmZuNUJBZnBBc1A3OHlsVUlC?oc=5",
+      "title": "Eagles trade for WR Dontayvion Wicks: What this means for A.J. Brown's future - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmljWGxrUDNMWVJyME9Vek9laWpyQ3NwSFFRZFptZzBlQzh6WEhQTlB1WVd5RUhnRjZGbVl3UFN3RFVvT1lteHVEY19MY0Q4V0REUi0ySE5XV3dVY3hCNDB0VjBXY2xFbTN4ZVNBajVmWE11MzFZT2xOWG9hckhtVnJ5QnlCTUtveFlpa3FXVHJCVkhRX0ZqeFd2eHFGejJrVmhWcER5N3U3Tk1USlpKSU51a3ItZHJyREpkS1o1SEo?oc=5",
       "source": "Google News — Eagles",
       "published": 1775804400
     },
     {
       "title": "Eagles add WR depth by reportedly trading for Dontayvion Wicks with A.J. Brown's future uncertain - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2xLRXp3ekdqYlVBY2Nxc1JQTGpLYXgzTVdNZm9PX3FLZ0xMcnJpaG5tRnBLSmVZWUNrOFBKcDBQdkplc25NRmlkU0dFS3Zjd0lYckltVVYzUFdsQjVGeDAtWlE4UkhMX2JqWWNmclp2UlBLQURNMzFmQkFfXzM1OTlDSnJwcEdZNmx4X0hJR2Nkbnc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775804400
+    },
+    {
+      "title": "What the Eagles’ Trade for Dontayvion Wicks Could Mean for A.J. Brown and Rest of the WR Room - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk1GRTMtMG5mZlVXaHF3Zm96Q1JmMHNXNWtSN2dVdG0xY29aa1NCYjBoMkMyeXExNFJ1UmhPUHowcDFJTDNmbUwtenE4X0otM1ZIdVBWNXJrTW5EQjJXTThRN1lYVTdFRDNhc3RMZHI4X3NuRjNVeno2WWRoMS1fX1NWd1d5OXNjcEFZbmppc1hlcDVDVEtrcg?oc=5",
       "source": "Google News — Eagles",
       "published": 1775804400
     },
@@ -497,6 +497,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjNDWXd0ODM2dVczTWhfMHY0eHQ5SUpSTE0zcHV6YnViNVA3MG9PUEtzSVBJb3lHSFptUmxucFVzNUROYkh5ZHVxUVVtQUU5QUZqbHlQMG5MOHkycHNQTy1rMnVQSHJfTUlKcExtUFFoTGJ1dlFNd0U2cXZBcWlzdlhTbGkzY3JyVDNzaUswR2dzeml6V2JFTHN4ejB0U0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1775545200
+    },
+    {
+      "title": "Did Howie Roseman Hint At Offensive Change For The Eagles? - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWk0MTV3NnNRN0lEam9PZS1YU0piRnNZcWtMMnRydzNTQTN3c2otVEp0ZEIyMGQ2bWdlbGhsYm14Z0hjZW5vWG9tdUdNc2VTSjhMM0VpTUtsWkxwZVRlNmdOVEFHVlA3OVVKOFpoSTBSc3c1NkMwcU16ejc0eEJBZDdFejNjLU1ya2Z5ZDlRby0tN2FZQV8xb1pvTWVwZjViZ3BCTGpNb21haFlkc3gw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775458800
     },
     {
       "title": "What I’m hearing about the Philadelphia Eagles: Why the A.J. Brown trade topic won’t go away - The Athletic - The New York Times",
