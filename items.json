@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-19T03:17:18.908050+00:00",
+  "updated_at": "2026-04-19T05:39:53.007970+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Did Jalen Hurts Send A Subtle Message To The Eagles With An Offseason Reunion? - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXdBRExQTGVNaDEyVlRBNWtDcnFrd0RHU2Rwd3VTdHZRdE5POU9HVW5WVlo1RlQzZ09FZnpHRmY1UHRKcmx4LS05MGh2Z1pUU2xOZUdvaTQ5Qk15bk9ia0Y5a0R6ZE5QOWd1U2UtN0hqdXlvODVmR2lLaDZsTVNYS1FIcnpqVXFnNDNZUjRCTmQtRXdiVC12ZkhTaURKMUtFdXBEQ0czUlZfajRiMTNFOTdWdFhZYW5pV1ZwX2JtQXQ3STQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1776567600
+    },
     {
       "title": "Jalen Hurts is working out with his former position coach",
       "link": "https://www.bleedinggreennation.com/news/173739/jalen-hurts-is-working-out-with-his-former-position-coach",
@@ -29,12 +35,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMC1qNmtCMzJsTi0yOGRBU1d6aVZZMFhZWGpCRXlBX3h2TTJhSE1kNkM1bU9nNzRicFpTT1FRVlhOUWljRlctY1RDc1NXLTJ3Yno3YTBMRXg2cGFMb0w4cl8wakcxSFFxMXJqTTB6SDROV0lpMDQ4Q1NSME1oZnRoeDhPT0lxRVBYMENPNFJPcVoxT09xZUNOQzVkLVhzTTlSZ0V1NQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1776532813
-    },
-    {
-      "title": "Eagles reporter has two stellar prospects in mind for pick 23 (if they want them) - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbUZGeVYwdnQ0bjd0bkhXMEg0ZVVGU19GVGp1VzRGLWpWZG10Tk1pbVl5N1dzZ0lKbDJkOXp3SVV5Rkk1TENJYzZBRmdGUnZmeTNwMGN0Y1pSajNvc2RqSEc2ZE5PMFBoREIyQTNZMk5WSU9zM2FRdnl6RmxJaWdIWXd5a0NxUUd2eUdPeFFONTZOcklHVWVrR3dSU0R5ME9NSF92TUF4SmxYWGJJTGNidEJyMUlwbDFPR2N4ZTZjcHMxOWtMZVYzUDFkSmNjUEVhVFBfUjlsWnBqbGV0UDhaN3A1QzQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776513602
     },
     {
       "title": "Some tough decisions in Eagles-only fan-sourced mock draft - NBC Sports Philadelphia",
@@ -127,12 +127,6 @@
       "published": 1776340801
     },
     {
-      "title": "NFL Draft 2026: Eagles prospect visit tracker - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVE0wdFY0MkNjdGJvV1pYcGlrclAzTDgyUXpST0pPOHgzY0tkUmZIRUk5VmxzRGtPZ3pkZHU1eFdsMEFQM05Uc1dadm95SHppY0FnUG4yYlhfT05XSGYyaHZVSFVNMllMNm02VVE0dWY5YWVDdmZfTXB2MkE5XzA3SlJKRUkzTnROVUNzV3RybTVzMmFuUmlfb1RLLXUtdk9rdzFEMnFDWWV0cFd6QU81WXlkYVTSAbwBQVVfeXFMTlV0ZG9rd2lqNk1vT0lrdFJxS2xVZDJHT2EzVDgtcEVlc0tYWXVid0g0ZkRacVBJRFJCdndKM0FVQVNDRXozZUJRUVBvTWtwQ0lwcVlZZFVfVE9BRXFxUmliMVJieU1mVFRSNlk0bHRkSnhzcFdCVVFZdWloVVItNk1WWWpSbHVlbXEzQU15QjI0ODd5dVZNcWJZM1JKQklDM0R4a0Y2VkZJTUtYdGpLMjdRNWh0S08zaXU5SXI?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776334512
-    },
-    {
       "title": "5 prospects Eagles would love to see fall in Round 1 draft - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGhtSU4tYXFmOFJOWWY2VWd3cTZucFBVSHN0Zk43TGhCRm9VWHQ2WFd6X0RNZS1GRm9DaXFlc0ZYaGgzTnlrbnAtODZPY0NBUEdCS21wNUpSUGR6ZEQ5dkZMY2ctakpEbFZrQi1zaG9uNkFrUkVHaEIya2xwRlFJLU1oWHVGMzZXN0ZSYWczRFczQzlXZTFGWlRybDk3VEFrSWpSeTNzWFFRa3FZUHdJa05HQlpyc0xEWmktM3dNZ292dXQzeUdiZnVxdlpuTHc?oc=5",
       "source": "Google News — Eagles",
@@ -208,7 +202,7 @@
       "title": "Eagles GM Howie Roseman calls recent Jalen Hurts reports ‘unfair' - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXkyVl92Xy03Tm1EZ3lNWXBUb2tEa0UtdDlHWDJDbzhwQlhsQ1VtVjNrTlBlNTZOcmk3ZEYxSU9FYVFUcVdyajlrak1LS19PQ2hac0VPaW4xdTFFalZ2QWdyajdocEpVLVRqMFEtaTh5elFBZHZqNzRlQzk1cV9EZER3Z3hvU3RuWFdHZ3lKVDNiTVNaWFE2ckI3WXhUNmV5aEFORVNhMDh4d3ZjTHpYcmxzVGdTSi14RElKQ2VWZnZ4RTBRM3pSWUdyb0V4d9IB1gFBVV95cUxOVE91R2pPNW1tbEpNdlFCeTZEMmZIMTRnLVhXanJKSG9rVnc2c0lIUzlSNmI5Y3czWlhtS0c1ZXdzNDVpU1FSUWZtdTVLdTBscVREY0tMVzVjY1BzODU1V3hZUmxhTWRxUFpGNWUwUmRLWV9iRUdrOFQxNnM4Z0dfWW8yTTA1TDhKajdnNFN6NkhsU0FMSmk3VWZYbmhvZUtqMVNlM3ViZmxqTTZaSjFyVnlzSGsyVDI2OTZyQWQ4bjBvMUM0UlRsNDA3T3VCZVpnX2pIWk9B?oc=5",
       "source": "Google News — Eagles",
-      "published": 1776189764
+      "published": 1776190599
     },
     {
       "title": "2026 NFL Mock Draft: Philadelphia Eagles pick offensive tackle - Bleeding Green Nation",
@@ -239,12 +233,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUk1UWpYWDNvUWI1WWRiaEtaYXAyWUtOaXNqTWhMbnJrbnFBb1pUNkZjWUZJR1l0Rk1FWTNrVWlNMDExM3hPMzBud3FnX2gwMklYSkNDMWFHMGdSa2RvV1ZFSnMzeG9nUW5FUWF3NmtldUtxU3lZNnR3R3hDM2h5SE4yWHJkT21zb2Z3bWI5U214TjAyTEdFRjRxcC1fNEo0NXJjUEtwY1gwVDUwY0xEOTB6Y1FNdUJCbnA00gHDAUFVX3lxTE85dHhHRGF3Z09pTFhrMnpVSlBKR3l0cnhuTWlvMEt3UVlRZUxWSGU4MW1Td0RCVTF0MVQwaXkzSzRkeFFtOEdRVm9JVGktLVdzS3lzem9oUzYtNWRYdnFtZDBKYjNnTkpDS012SURWQld2LWo1N1N2SVNFNzZVZk1rMExoTDlBMThPaXZUS011ZXBSZk9LSlNTekk4eXRVeGZTdUNWUU95a3RqVnJKR1RTN1NCYUFtNkNhV3dOVk03S0VZcw?oc=5",
       "source": "Google News — Eagles",
       "published": 1776167061
-    },
-    {
-      "title": "A.J. Brown Trade Rumors: Latest News Concerning Eagles' Star Wide Receiver - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEtWWFNETUhGNWUzb3JFWUEtSkctb2hweHVZUkdFdVpyMnlpQzRUNXJVcGVRc0dGMGtDeklOR1dEenpYRDIzS3RLMlJNM0tKcEdRNU1TNDhKMC1iSXBwSkVGM05ocGd5NGM0czJzTUVtSnhPdXNfbUtnX0JKc3FpSUxwRnVhN2d3WHh5TmFwdjk4eHE2Tjl1cHQ3SGpVYjBSeHRYRWQyQTg2dXR5RVHSAa4BQVVfeXFMUEVwM2RfSEUyTmFNTkV4WWJWUS1WLTU4blF3enBmV3B4a0lBdmdITTBaajVybWQ1STBoSExoQ01JcTN5MTFKSW5QVEtiZnFjY1BaUHJha2NSdjgyZjNTTk1XVkhabW5KaDNpYkF0U0FIUlU1OFRnVktPQVMtRlpQcGNGUFFmOHVYdUZxYzIwb3FBWjFaTnZicmN6V0FlYnczNk1RbWNCTFkyZTAtZVdR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776139200
     },
     {
       "title": "Eagles make wordmark change to uniforms for 2026 season - Eagles Wire",
@@ -385,12 +373,6 @@
       "published": 1775804400
     },
     {
-      "title": "What the Eagles’ Trade for Dontayvion Wicks Could Mean for A.J. Brown and Rest of the WR Room - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk1GRTMtMG5mZlVXaHF3Zm96Q1JmMHNXNWtSN2dVdG0xY29aa1NCYjBoMkMyeXExNFJ1UmhPUHowcDFJTDNmbUwtenE4X0otM1ZIdVBWNXJrTW5EQjJXTThRN1lYVTdFRDNhc3RMZHI4X3NuRjNVeno2WWRoMS1fX1NWd1d5OXNjcEFZbmppc1hlcDVDVEtrcg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1775804400
-    },
-    {
       "title": "Who will the Eagles take in the 2026 NFL Draft? | Mock Draft Tracker 1.0 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMklFNHBVaDhHUnJuMFFVNTRmOGVBZzlxUG4wNDE4T2lUci1QeHI0UThOblI5RllwVmtPVEx1SkZfZWtCY1JqbHRpT1VXWC1BSWQyUTZwaUNTQXZ6dUNwTXhaRkhhc1M5TTRidVZ6RUpmRjNlTk9EVmtVNGpFdmxSQUNZNkFKUjlzNEU3VDNfMFR6SWljRER0QjJsa1c1Y3pMUzdkM2FKTC1pcm9GV1E?oc=5",
       "source": "Google News — Eagles",
@@ -445,6 +427,18 @@
       "published": 1775545200
     },
     {
+      "title": "Ex-MVP Cam Newton says Eagles’ Jalen Hurts is being given a pass for one reason - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmhKemZmc2ZHS2N6dDFlek9KeW1vc1lObU1odkxuSnNQSC1DV2dXSk9wbWdjeUFndDRRT19jbXI0RGlqZUFMRlVZYTQxVzFuMzg4SkR6WFJlQWt6d0pYZGRJeElhbmFKZEpzd1BnYURUb1BoaVJ3YVI4elEyRld1b3hnUDhEVE9iUHdhRTFjRDFVYnZSdzdXZTh5RkVxdlJrV0pablRnaFpkd0tpSXBoMzV3SUNBRWdN0gHMAUFVX3lxTFBqeUVaQVBTUkdaeUk2UlBBaFRybzdZQ2ZGZlpadXN2aHR1V3ZodG1CQlFxMTQtRW1xdUh2VFd5YnFKQ0pVOWNvbVdzd2szNVcwdFo4TVhpeGtpelczNjlXdy1rdFEzM0ZVUWRLZndtamkxQkhRdlFrZ2luUFdLT242RU16M1BaaDdXVWJCanRacTJiZ0g1QXJxWVg3THMwMmtLckxWc3ZJeGhxRkYzeVhmZEstamtmYXhWejRJcDlIY3lxUmlRYXZxbUhKdA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775545200
+    },
+    {
+      "title": "Eagles 2026 mock draft roundup, version 4.0 - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR21Bc0ZWaUYtRlJ2dDQyYndKYTl4NFNzT3E1OFZ0cjBJZDF5VXFTSkZWckZBdGJzZnZadVJzZlJuamJwQnRQVjZpZlIyakdMT3UtU1FJLXA1UU1nQ0NrZHVMQlBhWjFZd1pLYkxhNkpOakd2WWUxMHZ6cnE4OUVNWjRFVVFENy10dHp3VnhxTUJaQk9oRUYxUkNPc24tcmxLLVlvRW5FaHdHdU1Hb1JNUg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775545200
+    },
+    {
       "title": "Eagles will agree to international game in 2026 under one condition - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUVOVEpJa0FqZC1zMEhsTVlLVFBUMlZFR3FfNmIydDBiOXpBNEtseVBNLURuN0dFWnRhQnFXSlhNdXNUdTJNSzh1cHBUYmt4U2pPSTAxT0ZrNkhxV0hadTBGc3RCVXJzQVRsRTJYMmtuaWZkZkIwXzctS2JJckNfNE52VWFFMmJzeC1nSFU0NEdQR0J2VVpzdW4yTmJDRGRIYy1uZzUyV1YwREVmMllYZGgxS1VhQQ?oc=5",
       "source": "Google News — Eagles",
@@ -463,13 +457,19 @@
       "published": 1775545200
     },
     {
+      "title": "Reed Blankenship Very Likely to Be a Letdown for Texans After Eagles Exit - Section 215",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemlmNnNkZ3BiR3RyMmRCaXNhSGszR1NxUEEtODM3VXNfTUFuQzdjZVlHNGVLT2VkTzhlVXMwbzNnNVpHdlg4ZTI5Z0tLZFNLaHo1MUpBelI3UTFpV3ZWbG5hMUFRcTloam00RFhZckV2VlRrdk5abld6ZzBPQUhCSVcwN25taHdRZlJqRkV6SG9JZGQyWGVF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1775545200
+    },
+    {
       "title": "2026 Eagles mock draft roundup 6.0: Looking beyond the 1st round - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkp5eVp0aFV3czFSd1d3MThMMW9uZERCMC14QWoydS1GQWdldnMwV2UxeEFydTRjTTJHOUh4YldYOUZZMVlONE1YZ1U0T1BzLUI1WXBMejJHdFkwdkFWVTZlUzFha3NuWXBtaTdQZjBsd0ZOUjZrRzBUeGFTSVM4N3dxRkJja2FwdGdOMFpYbHI5Wnl2TXpzSFRqelFDSHY5emZPc3NXOTJsOURKdDIyUDFFWEVWVFM3UlB3Ml9EOFhIa0ltRlhVanh2bXFhZ9IB1gFBVV95cUxNdGNTcXRqeE5yQWNvbHRKcTgwWlpVdVM2NTR3SXlzNmQzRHFsX1V0ZGVOS0xlZXk2LVlCQVMtdHB6Yi1DaXpjV0FWa1NhZHNGZW1CWHI3eDBRei1TZnJGUF9PUW5tNG45aHNyaU1YaUVXbnhoYlZES1RaUzVJcVNva1hIQ3YwTWNCNHloOS15WkxXeHVHWlM2NnhzSG0xSGtvNTFiakl5TmdOUW9PemI3aHRrbzF5SGJFTXpyOWdmSFVRWi0wT0N1VEhNeUpfRUJsN21pVkh3?oc=5",
       "source": "Google News — Eagles",
       "published": 1775482704
     },
     {
-      "title": "ESPN projects Eagles to make blockbuster NFL draft trade - PennLive",
+      "title": "ESPN projects Eagles to make blockbuster NFL draft trade - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29OT1o1MHpqbDN2MmxaSDBIa09najRPMlVHaWRxbVBEMEhfQVE0MngyNEt2SU9MM195LTF3akYwQkc3NElUQXdTeko2N09GZmEteHFRSEtVTlNqa1JSZzFCdVloRTZsSEs3TmxKc196MEEwZkdjY0c1YWp5Ny1oZ2FtMFRXZ25FRGg1cm1JWFZYTkdtbGctT2ZkdWlialJKc2xCZGNMYnA3bWlGTU9MX0YxZ9IBxwFBVV95cUxOMTloU05ERzI3MFhJVzNUeldOWVQteVFTMkVkVEswOGVBMkFWbjkyNnQ3THhFTkN0ejlQSDZaWEpnT01PaGRCdEw1a0dEWWlmbEZ1WEVPREtSMy1uNjE3cEJBRmRGY0tDRXlrNWtKMEZIelJTWTI1TjB6OTJpemZkQ3JqUGFSNkFMSFQyTlZlNUhWTHlzMVJTUGhWVkhHMFFaTG1KM2VTR1JNeTJuTFNibXVnRFFodGZuNzdQRHZUSlY4VXo4bTRV?oc=5",
       "source": "Google News — Eagles",
       "published": 1775458800
