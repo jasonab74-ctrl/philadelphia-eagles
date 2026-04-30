@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-30T16:21:58.446243+00:00",
+  "updated_at": "2026-04-30T17:51:10.328929+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Jason Kelce clarifies Jeff Stoutland’s perceived slight at Kevin Patullo",
+      "link": "https://www.bleedinggreennation.com/news/175114/jason-kelce-clarifies-jeff-stoutlands-perceived-slight-at-kevin-patullo",
+      "source": "Bleeding Green Nation",
+      "published": 1777569097
+    },
     {
       "title": "Eagles News: NFL writer says Cowboys will regret allowing Makai Lemon to Philly",
       "link": "https://www.bleedinggreennation.com/news/175095/eagles-news-nfl-writer-says-cowboys-will-regret-allowing-makai-lemon-to-philly",
@@ -23,6 +29,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUW1tRjdwTmVLSkoyX0lQTFBwTDdkUWhjSThEYlRJUWJXWlZQLXRhZWFtZWNQTkFXTS1sR2pqOVNyUXJyMFdDcXlKSmluUkVxS3lvek1xcFJ2TU5LS1M3T0o5Ri1ua0pnVHFseldkUE9SLVVuWFoybHhZRC1VbGtWOWdSWjI4TTBkSmtJSXRPYy1kUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1777493035
+    },
+    {
+      "title": "Do the Eagles have a Super Bowl caliber roster? - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWJCYURaSFpTUE5GTkhaU1pwUnpHZkpnbzB3bHJ1VVFXaXBhdkJNeW5tcDlRNHEzaWpYdHg5ck04ejc4TmFEUGxkcTBZZ20zOUJlUmRZejhGVHJJVTN5bW9MWTJLWWVpYlVOLUVXUktfLTNEN3VrZnE1MUNldGtlZnNzS1l5cWtVZjRROW84d2dyNVdQc0hGZHY5d3NTajk3SjRSaGFta1phMnI2Z2FOcnRsdnFlMHBoWEtXMHdzYlp4NVZzUzRZR1RkVdIB0wFBVV95cUxPQS02SW9NX3hjb1Bjc1VKYXhjUEFEUFlCMWV6UWNvbWRFU21zSjRPZExrd1dGZHNyWC1uZnQzd25MNFFnUHlmVVo3TFVTUjY1YWxDU3ZKbTU3aHJCUnVTRTA4UzBBcGZucm81WG0waVBweUMxako1NUVTU2pwdUtnV2Rab1RYeGdkYU9fYWRaZlRaVndlamxtaVFpNjJRZGlQRzR1bnRFeEFWU2JRLXp2RnJrb2ZKMHR6Mlk1bURJLUFNRi1jdzNuNlVoWHFmajhyNVNN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777482931
     },
     {
       "title": "Full details of Jonathan Greenard's extension with the Eagles - NBC Sports Philadelphia",
@@ -91,12 +103,6 @@
       "published": 1777379361
     },
     {
-      "title": "Eagles draft pick ready to battle against Georgia teammates again - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2M1RTJyWDNLbVk0NFRQTGY0cGdfYWtwSHl1LU9tNGtqcjJtejhwNGZZdE1IeHdUUXUzMGNvR080UHc4MElKYTVndkJyRzdVdU1BWDdCLWsxNmtQVUh0dUNQMmFQMUg0cFFzalczZXZQTWFJZEVNNmZJYWV1bFFyZ0VMakZZMXNUbWp0UTR5WXV6M0tvVDh0OGZpTTFmYl9zWGIxRE9KcGNmNUtJUXp5V3MwS2MtN2JxZlY5YzI2ZWNXeWdJWDJIc1BwTzdBdXfSAdcBQVVfeXFMT3locTRRZzdGTkJBMWstbnN0Z1BPcXQxUVVBbmF2a0h0d1pJSTB5RGR2a0wtNXVzeTBRMVFPYXV4dTRsY0c0ZVQxT0tEYVFYTm90aUhqdWlLOWpQQmYxLUFmOUhCdkdOMmNNXzVTR0tnWE8zOHFHbmkyTDlmOEFVNy1STmFlVmFldUc1S0RWcTBaQlR4Umx4YmhYSVdxOEdJblpRTVk2cjMwYkw2Y2djbkRQeUFRVlpoMk1xMTM1VWNWSTAtY0tNTjFMX25IS2RDNGdFUHVvTWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777374000
-    },
-    {
       "title": "Finding player comps for all 8 Eagles 2026 draft picks - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWdEeTY0VFhFdGF4QzVwOFFxWndYMWl3bVY0OVlzWkVpelJ1Y2doUmxwN2x2MWFLUHVrVVVCWUI2d2NGMEVkYW1xMlhwQnplYW1YNER1dGMxd0NTb1hfMGVhSTA5UWkzVjhaYTkwVVY1ZnR0a2hGd2JqcVZ5U3FyQVJiUGJlbW5QdU9vXzRfZ0VQUUVNZFVnZ2RhbkRjT09ESzFjbjRrWVE2aWs3N2w5bUNFLXBGMWEtSFFDLV9Bel9vZ9IBygFBVV95cUxOcUVKdktjVUh6RTB5VzZBSy1tY0NEV0NYT3NZT2FsUVlDclNjVldBQzRycV9ZeTdmM0JNZmFQWFdLWExpckpmeVZ5VHByY01wUmdFTXNvcXd2eTFSZ3phN3g2NlZoSEQtVFJ5bUFVRERjQkc1b0sxYk1aOXgzLVI3SFgzQXhvUURodEQxbEFHUWNuN3V6VUt5Yzc5UXlxMTJYbzNxZGpZYWN4bDU4bGw4UEFXdDhlYWRJVHA2ZG5tYW50S3lnY05iMnVn?oc=5",
       "source": "Google News — Eagles",
@@ -139,12 +145,6 @@
       "published": 1777312167
     },
     {
-      "title": "Jeff Stoutland gives blunt assessment of Eagles’ 2025 struggles",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/174973/jeff-stoutland-gives-blunt-assessment-of-eagles-2025-struggles",
-      "source": "Bleeding Green Nation",
-      "published": 1777302660
-    },
-    {
       "title": "Spadaro: The NFL Draft is over, but the work is far from finished - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3Roa0RBZW9kRzdieEI3dlZOUkxacWcwUWhuSWI2MTJTWVNWRDk5UDRtR3VzMTY5VjZGem4yM3ZrSWRvQnJYNEJtcWtoMUhYNGJBWTd4OEE3Q0FpcmY5T1FpODZyODN3dTlHWS1naTl1RmRVWFEzZFpxWldJRWowaUMtVnlxR0ZsMGR5amVxck90THF0aUprYQ?oc=5",
       "source": "Google News — Eagles",
@@ -175,6 +175,12 @@
       "published": 1777204245
     },
     {
+      "title": "An unprecedented pick for Eagles in Roob's Way-too-Early 2027 mock draft - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWFHeFNQMUJhNkNMNzE0YWFGaUFUV1R2V3NBXzdjQlk0WDY4dUtuQlhPdzEwelZuNC1aTnlGNURXQ0dPa0Q3cTNGZ0RLdnFFZXItTUFMQzh6aXZBbXRxbGNfSk5iZWxRb2lYZXNBMmhSSnVsOHpveWFpZTdiWExCWmYxcWFyT3hwS2dCYkJPMWtxY1BIX2I1bFJEd1dLN0g4S2YzT1VpUDR3Z2NHaVlEci1PNlNlZ3fSAb8BQVVfeXFMTzBHQkFKeGVCb2hlNlQ2d0ZPYUEtMkxpN3lXb2owT2ZHR0R5bnItTDllemNuOGJLRFBiRFlCclpmZGY2NlMxSVEyZmFjenI5WVlRUllwaUNQSEdKeFQxYmVSRTVpQ1VOYUxWOTlWVlNnM1VobU1QUUZpMl8xR0JUZThIT1luSllMSlJIdXBNOHkybDNTMzduU3gwWXZJdmlCNGNFZUtIcjRfYXAtcF9lcnRtaVpyYUVzWVJ1c2V2RGs?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777200343
+    },
+    {
       "title": "Jonathan Greenard: 'I want to do dirty work, I want to go against the best of the best' - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVpOTzF3NW9QR2xHNm42MlFPVjdZRW5ac0VUVGZMTV9Ebmo3anp5VTdmYWVGN2F3Mk9QRzlXLUNJSzA3VU1pSGVVUkdGRjRhd0RGbmF0NjJHVi1tNE9nRVJpM1psXzBVWUZrejVISVREdjg3SnNYQ0xBRWQ3U2xsdnJ1bkgxUm02b3g0UQ?oc=5",
       "source": "Google News — Eagles",
@@ -203,12 +209,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXowSmVBb2pnNS1Uc1ptbjZaSVI0dlItSkxiM1RmQ0tDbWNCcGdxbURTaWl4YXBjeWxTSml5bVU4Tzh5RUlYLVh4Rk9EOGJ3UzNZajdFZ3MzZFR2UmRmSi1CRnkwdjRxT0Jvb0xwOUNqejNkYTRIZDdaOEdEZnlJbDBVdExRUW1aOTFXWGozQWlydE1kVHlvdkVnMlgyME0?oc=5",
       "source": "Google News — Eagles",
       "published": 1777161995
-    },
-    {
-      "title": "Uar Bernard Press Conference: April 25, 2026 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlQ1aXRoa0pCc2wzZ1Z4UWdjbFhZRXA0eFZ2dkNuYzMwcXJFZ29BY2FzZUVQTGJZMmIwRG5Dekh1UWdqWnpKR0pHV3oyel9nWUNJSDVkRHk3Zk56cDh6RXJuTHRyZjQyMjRDRlIwaTAxYXhfbGJ0MnU1Vk1ORk5TZUpfaVA3bWFtdWhn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777161665
     },
     {
       "title": "Philadelphia Eagles' 2026 NFL draft picks: Full list, analysis - 6abc Philadelphia",
@@ -247,10 +247,10 @@
       "published": 1777150065
     },
     {
-      "title": "10 years after Carson Wentz, Eagles draft another North Dakota State quarterback - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHNSYWNvWnRZN2ZpNHU4NVpMV0lMRGVBaVFfSDFqbG1fUWR3WjladWZOamdzcjlZTElmS2xrdXVwNVJMRThHUV9QazRpa1BfWVZMcmludkNEYzJnWmZGVG00aTNwdW1Ibm5nY2RGenBEY1BjX0ZQYl9tSFlGX0lPcW5Icmlkd2doLVlZdzVMdjJ5ZE11UmpaaUJJbjU4M1JlLXlBYm5hZ9IBrwFBVV95cUxPVTU0TTl1LW9DSTEtYWlZMGVYQ3QzcFNjcFpZZExqcElPdGJEYWxjX1N6OGxRbHotRElGTC13UHdlREhUbld1b3A3V1ZMXzhISE9XbmhzcWlLY0dwWFQyZ08xU05MYWFQN1l4d0lGME9QVGhiMURONmpBLW5mUjcxYkVNbENNUUtjN0M0b3Bqd3dWckFiMW5GMHZ5MVB4cWhMTWtmQjdHVW5uLURBdFQ0?oc=5",
+      "title": "Trade! Eagles send 6th-round pick to Rams for 3 picks. Full details, impact - Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc092aDJ3aEEtcXhvTEtlUkF0VVdlZW1DaHI3NjBXWmlfcEJfZGFhTzVuQzhhR3FKSjUxOHZSWVlsY1JabFJicVliX2t1bzAzWFRjWWU1TlV3MHp0bFhBLXVtb3RGb1dzYVBMd0lRZWpzRzFuTEhlTXBTZUpuRFRKWWxpbVRtcUZhSUxFc053TEx6Njk0YXZENFlFemxQQV9WVC1DNzhvdzlqOV9zeGhYS1NPdFBCSXN2eWtIQzJBUEZiSVB6dkpvVGxqajBsck1jdU15dTBMUkZ4V0JqQmRj?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777147954
+      "published": 1777149780
     },
     {
       "title": "Eagles select QB Cole Payton on Day 3 of NFL draft - ESPN",
@@ -469,12 +469,6 @@
       "published": 1776841200
     },
     {
-      "title": "Eagles 2026 NFL Draft big board: Potential Howie Roseman targets for eight picks - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWEyQWhMb3lQTTRTdHU0aXJWTEZNYk9UWXhJaU9jSUxvWVkxRjlFbXZpMm9ZWEQ3QTNhV01FLWtqVUl5c3hkdzhiRUQyQXpzUlBZVVY4TE9SRUxKNnpDQklWdkxlV2U4R3pOdmlzbWhteU9fblYtcllFbkZ2UV90UmNtQjZBWU9fTHZ6dWlWU1NQVDRTaEtGSGpWSndQNWctMjNISA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776784041
-    },
-    {
       "title": "Girls Flag Football Coach of the Week: Barbara Hertline, Camden Catholic High School - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDVUVk9CbFlELUdpdTREN0NhdDFWcWpvdm5TTWQxMFFLYzgyM0Zma0dmTDNFWmt5M1h1aHlaYnB3Rmt5TEFqdUZIX25yZ0UxN214NlY4bWRfWW12RVNxVlJvcG9pNUdjT3NKQWl0N3VLOEVTcnhYWFIyZmtCdXZHMktYNG1XbGllakt4OGQ4dG5qWF8yNENZZ3B6enJ6TkRfUC1Lc2hZY2hDMTZTQ1JRTUVTbXE1Wmt4Z3l3Ymg0RWRLM0I1dXNSbg?oc=5",
       "source": "Google News — Eagles",
@@ -495,6 +489,12 @@
     {
       "title": "2026 NFL draft: Latest Philadelphia Eagles updates, intel, buzz - ESPN",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHR3NWUydnJJRVhWZ0drQzg5QmF0R0NtY3R5dFRVWFZ0OFdBUVdWMVM3ekprTkRaSWNEbWFibUtuanZnd1cwcENNLXprYml2SXRZYWoyS2M0RFZheHdoSUgyRVpFa2UwRmxEZnpOQzc0cXprYTlvR2NQQ2w3aGVwd09WNXVBdEZqcFR0aWpJbzg5d2FZZVRmMTQ1X2MwcUFwWFg0ZE1ORjlmVnBGNkp1LUlhQlY?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1776754800
+    },
+    {
+      "title": "Eagles 2026 NFL Draft big board: Potential Howie Roseman targets for eight picks - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWEyQWhMb3lQTTRTdHU0aXJWTEZNYk9UWXhJaU9jSUxvWVkxRjlFbXZpMm9ZWEQ3QTNhV01FLWtqVUl5c3hkdzhiRUQyQXpzUlBZVVY4TE9SRUxKNnpDQklWdkxlV2U4R3pOdmlzbWhteU9fblYtcllFbkZ2UV90UmNtQjZBWU9fTHZ6dWlWU1NQVDRTaEtGSGpWSndQNWctMjNISA?oc=5",
       "source": "Google News — Eagles",
       "published": 1776754800
     },
