@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-04-29T23:57:07.084302+00:00",
+  "updated_at": "2026-04-30T03:54:19.308415+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -71,6 +71,12 @@
       "link": "https://www.bleedinggreennation.com/news/175070/eagles-assistant-general-manager-is-leaving-after-a-long-time-in-philly",
       "source": "Bleeding Green Nation",
       "published": 1777391282
+    },
+    {
+      "title": "Lost In The Shuffle: Eagles Find Demonstrated Performance In Keyshawn James-Newby - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXhhaEJjMlM1dEZDa2FYc2xULURlaGh0a1pLVWNEX3I4QnpLUjc1TF9nM2RXa0dIUXZaZ2x5aDIzWlUtalkyWmExOXFadHdVTE1fMXJsMGR6U01xdUN5VkNSY1ZGTUl6dTZYbzdaUGFyZ3h3TUF0TW1Ub1phMHlMN29uOGJsbFZqWDRXYm11ZURkb1BSdHBweHNnZ1U1SkZ5WHlUbHpCeEhpcEExNHRDNGdKYzRmbF9rUU92UTNiVnZ6TGZIUUww?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777384804
     },
     {
       "title": "Eagles News: A.J. Brown trade return to include 2028 first-round pick?",
@@ -229,12 +235,6 @@
       "published": 1777161995
     },
     {
-      "title": "Philadelphia Eagles' 2026 NFL draft picks: Full list, analysis - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUxHSzY1d0ZMRHYzbDN1NnlTaFYxOHRIb3BlampSamgtVEt3cXNvMGZBUWItUVpXeWxQaTBhbWJZSlhkZlMwT3BuTWNNYlJ2ZHM2aDdGNGJqQkNSci1ZeXAtVFlWM0VwRFNuSnBUVmM4VTZPM0hldWNhMlBUUEZfRFpqbTVsR1ZkVzN2X1NzNmpRMzhJNkE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777161439
-    },
-    {
       "title": "Eagles 2026 NFL Draft takeaways: How Philadelphia used trades to bolster its roster - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEhSQ2NCVVYyQndDUDNmVXp5UzRIb2JoRFd5R3JtSkI2X2VSdlptTklVc3pJRnRTazhITDF5ZE05eVpGNVlzeWtjSVpKUHpESjF2YWNuekFDVlpYMENFMGluMmlwOWlmM3VHYzlYdGFPV3A4NmJ6Y0hUS2RTMkpBajh6NjBJRWlmQ2hYZnl6Uy04SEt6UnhfTkQ4VWgxc2tNM1FFYW9R?oc=5",
       "source": "Google News — Eagles",
@@ -295,22 +295,28 @@
       "published": 1777133510
     },
     {
+      "title": "No More Excuses: Did The Eagles Put Jalen Hurts On Notice? - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDZmNmpXdm9NbEd5MTQzTEFTdVVzMm5pR3FtTExIWXJiTERLc0RncGVJaHFtb2F2bnB2Tmx6NXowSk91MksybTByWGpDSldSYWVLZmVId3JnSl9BSHI2SjdveVo3d0YzODlpUFpxdVFzcWY3bXpBcWxQanZucUtZa21hYWIwakpOdFA5a0g0c0xWYVNZN2xHNHNWV1U5WlBZX05TX1dVOA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777122001
+    },
+    {
       "title": "When do Eagles pick today in NFL Draft? Times for Day 3 selections - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRExfTGZhMTNRZGN0YWZmNDR1Y0s5TVdOVlVlbGc2bmM2X2hRWWNyaHJocVRyMFlJXzhKQl9PREYzN2x0aUdIcWJmMHhYbWdYT3RSc3U4Ums5ZUZUWmttRmNJZ1UyUEQ3VVRVenZYWkFUYUdjb08zUGdDVkRYeVQ1UC1VUDFSeklPYnVRTnVxNVY0ZzduNEU4bThZUGpXcGtJRFJZZDkzN1FMRTVOY0pybHpGM2hSX3paWXJKd0k0dC1lVEE0OUtIS3hwUXRxUHY1SHJDZlVB?oc=5",
       "source": "Google News — Eagles",
       "published": 1777114980
     },
     {
+      "title": "Looking at 20 options for Eagles on Day 3 of the 2026 NFL Draft - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUW5BNXlJcmhHSmlTU3E2Z0pJZ3daVW1JUHFueVNpWXpReThQRGkzeTVwOHN4MmRMM1NVNC1ob3V1VGQxYnNkZVBWWXlnYjBCMDBSbkJjb21iNFNnOFRsOERRbjNrWVJ2TGZTRHQ0MFRFNi1keVZkQ0hSakk1RFFSRmJFSnRUSE03WnF3aU5MUk5WN19rMUNCS0l3aDdQaFkyOG5pYTVlUHVqYWQwcjZCLV85clczWkI5YXg4bk9VeDQyUTdQZmZ1ZlE5THBGd9IB1gFBVV95cUxQbkx2aHotcDdnQ0drSVRRTHNvLXJna3pkRE5LQ2VKOHhudDI0YkxsdlFDYzBFcUpETXVPWklxaERXWGVpZHhuTnBkeFpsdzNGZjlDR2hoLUxFS0ttN09NblNZdmt4dUxmbkFXVTJtT082VWZGTHptUm9ldllTQ29Sb2gyaHZUbkxMZzBJSk5DM3JHcDJITDdYenpuRlhoY29LNVlmTFdURm1ScUtScWdQVlBZQUNQS2NsSm1EOXN2eDhHWU9rcVdzS1JUbE9IOVotbGRDMVJR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777111200
+    },
+    {
       "title": "Philadelphia Eagles NFL Draft 2026 pick tracker: Grades, fits and scouting reports - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa29mZUh1dEZkVHVOcDl1MGlJYldMR0ZMb2JhbzQyQ09xM1VqdUhreGJ5NnRLQ3h1NDVjNlNGenNpUDBrVEtqTktlc3JLZ2g5Y3AtVnFFb2wwaXZxaEhLR3poQXdYcXh2bWNsTHBUbTEzOVpuZjJhdTQ2RldwR0VyUGJ3Rk1HNlFjMXdZdDBDSHpYUEh4SHc5OV9ReWZiSlRYVm1FYjVSMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1777108442
-    },
-    {
-      "title": "Women's Eagles drop Pacific Four Series finale to Canada - Eagles Rugby",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUxPM2tPdHBWdUxZa3Y4cHNoUGg0R0gyTUFhQnpqTUIyVGpqaUxQWnZPVGgyQjJmWnFCTjlWU3dzUTAzeGMxMEVhSFJuUkdrLVpNeDFJNjN5emxlc1RVTGZIdTFUalRnQlFDNU1jT0xXb3BTZTdnOVliUjdwdVI2djZrbjVHekdPaU92LTd6d0VCYW8?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777098977
     },
     {
       "title": "How Eagles turned major trade, 'unusual' picks into NFL draft masterclass - Delawareonline.com",
@@ -415,6 +421,12 @@
       "published": 1777078001
     },
     {
+      "title": "Eagles Super Bowl hero gives early endorsement of Makai Lemon selection - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPemFtOWhVWXZ3bS1Xb0d0Wm9XVUdveW1ZanVYdWV1VXBFM2c0MjFHeHh1eVZqUE9lWTJPRjJ1dk90X0ZuV29RSHVsQktIZ1BrZFFBWTNYUFNFblRmZ2JNVlJGMEZpcWJtQ04ybnA2UERwQ05oaE9fbnFaN3FCN0pmTEdXRGJEVm1ybkpJaVZzS3h2N2QySXdlNDZYeFgta2FPY2pXTE94c0RCTnVROE11Q3BPVFV6Ulh3bkp4YXZFZGlXYkptc0U3X2NTN0hFd2VRVm1iM01qWVV5TWE0ZE8wcXZpVklhZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777074360
+    },
+    {
       "title": "'GMFB' reacts to Philadelphia Eagles drafting wide receiver Makai Lemon with No. 20 pick - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0xJdXVMYUtvQTZsalNfWTRaM0JZd1Fhc3RZMWJ6ZzlCdHZDNXRmbFZQM3lFYkQxRTZUejRmVm9yUlVhbDhLRUhrZWwwQnpONzY1Mk9DcG1KWTRIRzdWLUQ2UWhKQjF4QlZGakxSQ0xhejdCdVI4WlliNmk3MThEbXMxaXZKbHpTRkU4d19B?oc=5",
       "source": "Google News — Eagles",
@@ -430,7 +442,7 @@
       "title": "Eagles select Makai Lemon at No. 20 overall - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUG9qdGNSdzVKNjZqVGJXX29IZlJaME5WZzhUckRVcTdyYksyemxXM3phQ0hwQkJHcFlER2VLcGZIN3B0bjJscGVWa0xNd1RzNXRVX21zeDJIcGVJakJjbGVZOGRGU1NqUlJ6cmNVOWlYWjZKRGtKVEpEdFVPWERweDNvc0NRTDRZWHNLUjAtZ3R5MDNrMnc?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777003812
+      "published": 1777003841
     },
     {
       "title": "Who should Eagles target on NFL Draft Day 2? Eight players to watch - Delawareonline.com",
@@ -443,12 +455,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazg2SWtKQVduNlRwSFowckh1MVdRWUFXa0t1SHNEUGtUV3BnRW5Da3F4NzlzeEdGbFNRUTkxWW5vZFg4YmVYbi00Z1U0cFZ1bHpNUktiQ2xFSG5Dd04tc1hBRTdqMzlCQlRYNlM3RkVWUUQ5VHB5dk9vWUVuOG1hNGRsdHp5LVVEVTYydTZCTUNDM0FjS3dPTHE5Sm96cDJXa0stVHJyRlc1MllxTXNWOFFYc053UVBseUNFNENSX19DcEJoUjI4?oc=5",
       "source": "Google News — Eagles",
       "published": 1776998077
-    },
-    {
-      "title": "What time will Eagles pick in NFL Draft? Estimated time for Round 1 - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSURicVVzeUFSLXFBOFpqdXdwRG5hSG1yZlVuenVUcTk3eUR6TGF1UnVtRkU2MmNiaHVicEdYc1Qzblg5MEdsdHJCczdGR1Q5bnVhNnBCS005a3ZVUEpfLTNvbHdQYlB1TGNMMkhGY1VJUlpaRTNreG1GeW5oVEZpelNQY0xtNnQ2RWNickEwS3BmVFBWS3p3R0lOM3BNdzNkMDNjWFdFM2FPRl82T1JaOTQxeTk3YlVPX3BCSUVnRUlOQURN?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776993960
     },
     {
       "title": "Eagles 2026 NFL Draft Preview - Bleeding Green Nation",
@@ -505,14 +511,14 @@
       "published": 1776693780
     },
     {
-      "title": "Eagles 7-round 2026 mock draft: Offensive line of the future comes into focus - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1FPdlJEcUs5TVRUZzV4aHUzWjJkV0NFQ3lFN2NFMFpOZGNuSWRmNGhraDRONW9uSDkwOUsxczZEdVE5Q1k1UWotbGVTbVFyR3ZxS0lib283dGR6MDAyek02M19ZX29uNFJPRTlPdl9CSHVLb0hQSHllLTh6MkZmdTk3cDhqSjdnMmxuS3VqUGMzdVExMFUwNA?oc=5",
+      "title": "A.J. Brown Trade Rumors: Latest News Concerning Eagles' Star Wide Receiver - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEtWWFNETUhGNWUzb3JFWUEtSkctb2hweHVZUkdFdVpyMnlpQzRUNXJVcGVRc0dGMGtDeklOR1dEenpYRDIzS3RLMlJNM0tKcEdRNU1TNDhKMC1iSXBwSkVGM05ocGd5NGM0czJzTUVtSnhPdXNfbUtnX0JKc3FpSUxwRnVhN2d3WHh5TmFwdjk4eHE2Tjl1cHQ3SGpVYjBSeHRYRWQyQTg2dXR5RVHSAa4BQVVfeXFMUEVwM2RfSEUyTmFNTkV4WWJWUS1WLTU4blF3enBmV3B4a0lBdmdITTBaajVybWQ1STBoSExoQ01JcTN5MTFKSW5QVEtiZnFjY1BaUHJha2NSdjgyZjNTTk1XVkhabW5KaDNpYkF0U0FIUlU1OFRnVktPQVMtRlpQcGNGUFFmOHVYdUZxYzIwb3FBWjFaTnZicmN6V0FlYnczNk1RbWNCTFkyZTAtZVdR?oc=5",
       "source": "Google News — Eagles",
       "published": 1776668400
     },
     {
-      "title": "A.J. Brown Trade Rumors: Latest News Concerning Eagles' Star Wide Receiver - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEtWWFNETUhGNWUzb3JFWUEtSkctb2hweHVZUkdFdVpyMnlpQzRUNXJVcGVRc0dGMGtDeklOR1dEenpYRDIzS3RLMlJNM0tKcEdRNU1TNDhKMC1iSXBwSkVGM05ocGd5NGM0czJzTUVtSnhPdXNfbUtnX0JKc3FpSUxwRnVhN2d3WHh5TmFwdjk4eHE2Tjl1cHQ3SGpVYjBSeHRYRWQyQTg2dXR5RVHSAa4BQVVfeXFMUEVwM2RfSEUyTmFNTkV4WWJWUS1WLTU4blF3enBmV3B4a0lBdmdITTBaajVybWQ1STBoSExoQ01JcTN5MTFKSW5QVEtiZnFjY1BaUHJha2NSdjgyZjNTTk1XVkhabW5KaDNpYkF0U0FIUlU1OFRnVktPQVMtRlpQcGNGUFFmOHVYdUZxYzIwb3FBWjFaTnZicmN6V0FlYnczNk1RbWNCTFkyZTAtZVdR?oc=5",
+      "title": "Eagles 7-round 2026 mock draft: Offensive line of the future comes into focus - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1FPdlJEcUs5TVRUZzV4aHUzWjJkV0NFQ3lFN2NFMFpOZGNuSWRmNGhraDRONW9uSDkwOUsxczZEdVE5Q1k1UWotbGVTbVFyR3ZxS0lib283dGR6MDAyek02M19ZX29uNFJPRTlPdl9CSHVLb0hQSHllLTh6MkZmdTk3cDhqSjdnMmxuS3VqUGMzdVExMFUwNA?oc=5",
       "source": "Google News — Eagles",
       "published": 1776668400
     },
@@ -521,12 +527,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWVTVWFGVTJqeFZfQnhZYjN5RC1XaGpVX0RYTHBSUnNtbGlTTEw0WTVvbW1nUHZJTFNLVlIwZ0hscndxSlAzQTFha3NXc3cwN0ttVlZka0lnRVlmNzg3a2l3dlJWdVRLZVEtbTlISEF6UHpZYWZNd1BzLWNMeHBpRjZQM3JjYjhxR3hiaHZOTVFNY25QTzZGSGwxSWZPSnc0djNVVTlWbk1FLVA4Q3FF?oc=5",
       "source": "Google News — Eagles",
       "published": 1776409200
-    },
-    {
-      "title": "Eagles 7-Round Mock Draft: How Philadelphia Can Get Back to the Super Bowl - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMENHV0ZmM3daYkhmenlCTk9mb1Y5aEdieVlVWG90dkRRS0w3X2JvR3dGOEhUWEN3bEVNUHZXN3J5OXhzNmpoRFU0VUs5czh1dzRyRW54NW8xVXR3NWlSazA0bDNwY015NUFrZy16RUV3YmFadm1pRkhRTHNZdk9HTVdSVlNGMUF5Zjgyc1VickhSYWt1cGE4WXhCVWhVZXpFcVI2TXVPa9IBpwFBVV95cUxOd0c3eVFrdC1XSEpsNWh4S3RxRUM1SUhiTlVnY0U3VGxlMjI4TzZrd3ZUUmJSeWdjYWg4YUFzRkt6UDI3VldTbkZoY1hNX3FVMmZPX0lrVEhGN3p6bzc2Q0pPVGFYU2tVbG5fX01ydFE5dzJyYURObGphWkVrN05hdTNKUVhxYTZEc0FBWm1xZVM1SlkzRnVEOU4wRktsXzdLTDNGbW1EMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776322800
     },
     {
       "title": "Eagles News: Good perspective on the A.J. Brown situation - Bleeding Green Nation",
