@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-05-03T16:09:37.899344+00:00",
+  "updated_at": "2026-05-03T17:25:19.574344+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -47,12 +47,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/175140/hear-comments-eagles-rookie-draft-class-press-conference",
       "source": "Bleeding Green Nation",
       "published": 1777682996
-    },
-    {
-      "title": "Eagles make $27.1M move on former Georgia DT - UGA Wire",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVEF2ZFJUSGRYcXdQX0VGYU5oUGhaX2hiV01qMDVlbTNUekFjdDcyczRmZG1XLVZ0WWZTYlBQbmVnbUlaZi1KS3cxUndiWUJSWE9pMXhhWm5zQklHOG9nRE1JanFFR0JJYnJiV0ZodWgxd3JVVjFRcE91SVE3TnQxb2RsSjdpVmZ4N2tEREtzbHdFNUtsejItbGt2UXh0WXZ0dXFWOTY3dkVGclN2ZGJaZWhwMjd6bkdtbDBRMmdhQ2JDRGJPc0VEMV9nTVdvTTBaNkxlWWtfZVdQLTkwX2tkNDdPNXFMTFNQSExWY3V3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777675020
     },
     {
       "title": "Eagles announce rookie jersey numbers for 2026 draft class - Philadelphia Eagles",
@@ -175,6 +169,12 @@
       "published": 1777392780
     },
     {
+      "title": "Eagles draft pick ready to battle against Georgia teammates again - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2M1RTJyWDNLbVk0NFRQTGY0cGdfYWtwSHl1LU9tNGtqcjJtejhwNGZZdE1IeHdUUXUzMGNvR080UHc4MElKYTVndkJyRzdVdU1BWDdCLWsxNmtQVUh0dUNQMmFQMUg0cFFzalczZXZQTWFJZEVNNmZJYWV1bFFyZ0VMakZZMXNUbWp0UTR5WXV6M0tvVDh0OGZpTTFmYl9zWGIxRE9KcGNmNUtJUXp5V3MwS2MtN2JxZlY5YzI2ZWNXeWdJWDJIc1BwTzdBdXfSAdcBQVVfeXFMT3locTRRZzdGTkJBMWstbnN0Z1BPcXQxUVVBbmF2a0h0d1pJSTB5RGR2a0wtNXVzeTBRMVFPYXV4dTRsY0c0ZVQxT0tEYVFYTm90aUhqdWlLOWpQQmYxLUFmOUhCdkdOMmNNXzVTR0tnWE8zOHFHbmkyTDlmOEFVNy1STmFlVmFldUc1S0RWcTBaQlR4Umx4YmhYSVdxOEdJblpRTVk2cjMwYkw2Y2djbkRQeUFRVlpoMk1xMTM1VWNWSTAtY0tNTjFMX25IS2RDNGdFUHVvTWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777374000
+    },
+    {
       "title": "Finding player comps for all 8 Eagles 2026 draft picks - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWdEeTY0VFhFdGF4QzVwOFFxWndYMWl3bVY0OVlzWkVpelJ1Y2doUmxwN2x2MWFLUHVrVVVCWUI2d2NGMEVkYW1xMlhwQnplYW1YNER1dGMxd0NTb1hfMGVhSTA5UWkzVjhaYTkwVVY1ZnR0a2hGd2JqcVZ5U3FyQVJiUGJlbW5QdU9vXzRfZ0VQUUVNZFVnZ2RhbkRjT09ESzFjbjRrWVE2aWs3N2w5bUNFLXBGMWEtSFFDLV9Bel9vZ9IBygFBVV95cUxOcUVKdktjVUh6RTB5VzZBSy1tY0NEV0NYT3NZT2FsUVlDclNjVldBQzRycV9ZeTdmM0JNZmFQWFdLWExpckpmeVZ5VHByY01wUmdFTXNvcXd2eTFSZ3phN3g2NlZoSEQtVFJ5bUFVRERjQkc1b0sxYk1aOXgzLVI3SFgzQXhvUURodEQxbEFHUWNuN3V6VUt5Yzc5UXlxMTJYbzNxZGpZYWN4bDU4bGw4UEFXdDhlYWRJVHA2ZG5tYW50S3lnY05iMnVn?oc=5",
       "source": "Google News — Eagles",
@@ -229,10 +229,10 @@
       "published": 1777217100
     },
     {
-      "title": "An unprecedented pick for Eagles in Roob's Way-too-Early 2027 mock draft - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWFHeFNQMUJhNkNMNzE0YWFGaUFUV1R2V3NBXzdjQlk0WDY4dUtuQlhPdzEwelZuNC1aTnlGNURXQ0dPa0Q3cTNGZ0RLdnFFZXItTUFMQzh6aXZBbXRxbGNfSk5iZWxRb2lYZXNBMmhSSnVsOHpveWFpZTdiWExCWmYxcWFyT3hwS2dCYkJPMWtxY1BIX2I1bFJEd1dLN0g4S2YzT1VpUDR3Z2NHaVlEci1PNlNlZ3fSAb8BQVVfeXFMTzBHQkFKeGVCb2hlNlQ2d0ZPYUEtMkxpN3lXb2owT2ZHR0R5bnItTDllemNuOGJLRFBiRFlCclpmZGY2NlMxSVEyZmFjenI5WVlRUllwaUNQSEdKeFQxYmVSRTVpQ1VOYUxWOTlWVlNnM1VobU1QUUZpMl8xR0JUZThIT1luSllMSlJIdXBNOHkybDNTMzduU3gwWXZJdmlCNGNFZUtIcjRfYXAtcF9lcnRtaVpyYUVzWVJ1c2V2RGs?oc=5",
+      "title": "Eagles close impressive NFL draft with two upside-driven selections - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzdsMWw0d3FmdmxOcU9VYmtYTXM3V3hKS1RUVzBub1NHaEVqRHNMYXh2YmJBaEQ4cFhwdjBnM2FMNHJNYkJJc2xqNUFZWVpFVmg1Y1Jtb21ycG9hbi05RHVlWV8yd2xKWG81WHp1eWlDTUs4cm42YmNuaS00SHd2SDI4QUNOcTdXZlVoZ3FmNWt4eEtmM3liMTF2XzN3eERVT2QyWVJtUGtkUFRuWFNfWnpkUlBsQ3llNzY4Y0Rjb3M5NTVDRGNDV0xCYnVON050RFBtLXFReFBMVWFDX0ZsaUs3VWs?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777214501
+      "published": 1777212600
     },
     {
       "title": "2026 NFL Draft grade roundup: How did the Eagles fare? - NBC Sports Philadelphia",
@@ -247,16 +247,16 @@
       "published": 1777194091
     },
     {
-      "title": "Eagles select G Micah Morris at No. 207 overall - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkFXWnA3dDQxZUx4X3NVbkZNZWhOVm1wV3htMVJGbHF1bnowRTNST0pnV180cUt4ZUFXTE5DcDZQX2lnZ2ZrVVAzaDJvZzhKUFFZRE5HOFFua0NHRkhNdVZla1lnM0plQ1NTUDFqOER5YW5hNHRMNzJtNXFaV2t4d1ZTNUtvdHpqbTJiRUJXMnFSQQ?oc=5",
+      "title": "Recapping Eagles 2026 draft haul - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdCUXdtZlVyWGRQeFViSGw0eF9tbkJFNWgtQUU1clBNMGtiQXpYLUU3eWhENW9TLV9uRGhfWVN3YVhSQjFmSzBRVUZmNnhxT1hUdm9qUDlwVFl3U1Q4eHB1YnJMalQ3OHN1YjVZY01UR0ItVUJGOHR5ZVlCdDlhNl9HUmZLU3hXWVBZUXdYSHBHejZsanBld0I1MEFRdVdhaXRTTFc4WFpPdHNxcFNBSXlGRzdXZzNSTGpueXB3d9IBxwFBVV95cUxQQ3A4dDRPYU1EcU5IRUVKM1BGTXU0OE1vc2RSUC1KWWJwM0YwVEJNWGswVVNtOVA1Njc1c1kzaExkYUpmWkNpYmlST2R4NVlGbFc1ZkdCWnFMS0tJTzJiRjhwNXNJRERRRnNwYlNIYm53NDJNVHBqVVdsc3FzcDJYV0FaSTl4OVhoc3gxQ213RGFodXJuSVN5X0ZieWRhOE9ZR2VoQ1BkZlU1aVhqT2JtX3VQWXNLVzVZUmt6bVpHb3dHRzRudzlj?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777177213
+      "published": 1777175176
     },
     {
-      "title": "Eagles draft S Cole Wisniewski No. 244 overall - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXlMbGtGeHM3cnJMSTJ1X3hFZS01bUVXVHpnRjhuWDM1WXh5aGg5WUk1VXdMYkxRVGFSMEpqV24tSVh3QjFjYklwckNWUkV0NzdFblNqMEdvaW5qMUJ2ZFMtcmp1N0VRam9tUDF5TnhSZ09ZLTAzWW40Zkx3SEgzNGt3RGNNZkFVMnJRdEZyVlg?oc=5",
+      "title": "Introducing the Philadelphia Eagles' 8-player 2026 NFL draft class - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1huektfWVNjQU5BWjB4TXpDNk5SN1c2aHVCcXZWV0JQQWJlWWliRUhRN0JhRU9ubUo4RG43STZLWG85eE9HRjY0Z3J3TkNFZXdodXRLT1k4bjI2NlY2dWEzaHRZMlVOeFhZSGlnaGtOZ2xNNTg2YUJaTWJkMVVHR3l1YmNFSnljMUFEZjI5Z3dvRGYwenJReEgtbkFUX3JBODlXRUk3YUNYbkVFVDlsU0ZlTS1Mdm5tZjBXSzZsbHFUbVMyOS1RY3VsMzY?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777157178
+      "published": 1777162740
     },
     {
       "title": "Howie Roseman, Eagles Aced The Draft With Just One Trade And Are A Super Bowl Contender Again - Sports Illustrated",
@@ -271,10 +271,10 @@
       "published": 1777133510
     },
     {
-      "title": "Looking at 20 options for Eagles on Day 3 of the 2026 NFL Draft - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUW5BNXlJcmhHSmlTU3E2Z0pJZ3daVW1JUHFueVNpWXpReThQRGkzeTVwOHN4MmRMM1NVNC1ob3V1VGQxYnNkZVBWWXlnYjBCMDBSbkJjb21iNFNnOFRsOERRbjNrWVJ2TGZTRHQ0MFRFNi1keVZkQ0hSakk1RFFSRmJFSnRUSE03WnF3aU5MUk5WN19rMUNCS0l3aDdQaFkyOG5pYTVlUHVqYWQwcjZCLV85clczWkI5YXg4bk9VeDQyUTdQZmZ1ZlE5THBGd9IB1gFBVV95cUxQbkx2aHotcDdnQ0drSVRRTHNvLXJna3pkRE5LQ2VKOHhudDI0YkxsdlFDYzBFcUpETXVPWklxaERXWGVpZHhuTnBkeFpsdzNGZjlDR2hoLUxFS0ttN09NblNZdmt4dUxmbkFXVTJtT082VWZGTHptUm9ldllTQ29Sb2gyaHZUbkxMZzBJSk5DM3JHcDJITDdYenpuRlhoY29LNVlmTFdURm1ScUtScWdQVlBZQUNQS2NsSm1EOXN2eDhHWU9rcVdzS1JUbE9IOVotbGRDMVJR?oc=5",
+      "title": "Eagles select G Micah Morris at No. 207 overall - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkFXWnA3dDQxZUx4X3NVbkZNZWhOVm1wV3htMVJGbHF1bnowRTNST0pnV180cUt4ZUFXTE5DcDZQX2lnZ2ZrVVAzaDJvZzhKUFFZRE5HOFFua0NHRkhNdVZla1lnM0plQ1NTUDFqOER5YW5hNHRMNzJtNXFaV2t4d1ZTNUtvdHpqbTJiRUJXMnFSQQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777111200
+      "published": 1777100400
     },
     {
       "title": "Eagles draft OLB Keyshawn James-Newby No. 252 overall - Philadelphia Eagles",
@@ -297,6 +297,12 @@
     {
       "title": "Eagles draft QB Cole Payton No. 178 overall - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDdJUm5zcGl5U2pBMU5femV1TzY1Z014dXlVQlozWkdndkJrWFpjcnBVODhqRHdQSnBfNDJtdVNkbERGMmptX2c3T0Y2OU16YXRwaDRzOU9BSDlmcWRNbU1tV0hjc19UOE1LMTJpeHRuelRBaG5jRjZHWV93dE0zaE81ZUNvTHBNSDQtbXVqOG9PQmhvbllqaGVtdW55cDA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777100400
+    },
+    {
+      "title": "Eagles draft S Cole Wisniewski No. 244 overall - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXlMbGtGeHM3cnJMSTJ1X3hFZS01bUVXVHpnRjhuWDM1WXh5aGg5WUk1VXdMYkxRVGFSMEpqV24tSVh3QjFjYklwckNWUkV0NzdFblNqMEdvaW5qMUJ2ZFMtcmp1N0VRam9tUDF5TnhSZ09ZLTAzWW40Zkx3SEgzNGt3RGNNZkFVMnJRdEZyVlg?oc=5",
       "source": "Google News — Eagles",
       "published": 1777100400
     },
@@ -331,6 +337,12 @@
       "published": 1777100400
     },
     {
+      "title": "Uar Bernard Press Conference: April 25, 2026 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlQ1aXRoa0pCc2wzZ1Z4UWdjbFhZRXA0eFZ2dkNuYzMwcXJFZ29BY2FzZUVQTGJZMmIwRG5Dekh1UWdqWnpKR0pHV3oyel9nWUNJSDVkRHk3Zk56cDh6RXJuTHRyZjQyMjRDRlIwaTAxYXhfbGJ0MnU1Vk1ORk5TZUpfaVA3bWFtdWhn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777100400
+    },
+    {
       "title": "Eagles 2026 NFL Draft takeaways: How Philadelphia used trades to bolster its roster - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEhSQ2NCVVYyQndDUDNmVXp5UzRIb2JoRFd5R3JtSkI2X2VSdlptTklVc3pJRnRTazhITDF5ZE05eVpGNVlzeWtjSVpKUHpESjF2YWNuekFDVlpYMENFMGluMmlwOWlmM3VHYzlYdGFPV3A4NmJ6Y0hUS2RTMkpBajh6NjBJRWlmQ2hYZnl6Uy04SEt6UnhfTkQ4VWgxc2tNM1FFYW9R?oc=5",
       "source": "Google News — Eagles",
@@ -349,22 +361,10 @@
       "published": 1777100400
     },
     {
-      "title": "No More Excuses: Did The Eagles Put Jalen Hurts On Notice? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDZmNmpXdm9NbEd5MTQzTEFTdVVzMm5pR3FtTExIWXJiTERLc0RncGVJaHFtb2F2bnB2Tmx6NXowSk91MksybTByWGpDSldSYWVLZmVId3JnSl9BSHI2SjdveVo3d0YzODlpUFpxdVFzcWY3bXpBcWxQanZucUtZa21hYWIwakpOdFA5a0g0c0xWYVNZN2xHNHNWV1U5WlBZX05TX1dVOA?oc=5",
+      "title": "How Eagles turned major trade, 'unusual' picks into NFL draft masterclass - Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZDY1SGFZR3EzRTBNYXBSVTkxT2xlTnRKOFBwbzNMc1kyMllnekN0SzIybzJEbEt4VEgwTkJ5UkNkcUEwb1lhdmRIZ1JGaDltakJ1eHc5UVBTS01IN1d3d3F3bjBGdE1GQXllc1NTMF9KOHBNZGZZY3ByTHJZaG9kTXlnZDN1Y2tfSTU1bmhMWUREbFVmMk05LTlGTDdaOG1EWUY0YzFwd3JLVElqNk9ST29sRUwteGswS084NXowSEEwTHpRTXk0NXhHV2xGLXZ3NGZMYXgydVpjZXJBLVdJYlUzUXZkVV9lZjd4VzlvOWJob3ZERWc?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777100400
-    },
-    {
-      "title": "Eagles draft QB in Round 5 from Carson Wentz's school. Day 3 picks, grades - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzdYaFZaRkxaemR1YUFvQ3ZRSFRQcWxoQUVXb0pHSDFEVGdLX2lDVHBORlJIdllHb1RETmFZdGd1V25YY1lKUF9wU1BKZjJySzlfQ3VDMi1XX0d4Q0xVbFdaUVV4Yi1qZ0cwbHNoYUdKeEZyWko5N1ZwRnR1MElMb3JEUTlJYVhNZ045RUNDYTdvaFhiTnZBS01mM3AwVnU0Znp1VlVhV2l1dk1KUDJGVzlkdzhvTVJWMnZ4YWJCcW41TldYVE1nWk03bjJtM2xHd2tEZA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777100400
-    },
-    {
-      "title": "Philadelphia Eagles NFL Draft 2026 pick tracker: Grades, fits and scouting reports - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa29mZUh1dEZkVHVOcDl1MGlJYldMR0ZMb2JhbzQyQ09xM1VqdUhreGJ5NnRLQ3h1NDVjNlNGenNpUDBrVEtqTktlc3JLZ2g5Y3AtVnFFb2wwaXZxaEhLR3poQXdYcXh2bWNsTHBUbTEzOVpuZjJhdTQ2RldwR0VyUGJ3Rk1HNlFjMXdZdDBDSHpYUEh4SHc5OV9ReWZiSlRYVm1FYjVSMA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777100400
+      "published": 1777098300
     },
     {
       "title": "TE | Eli Stowers - Philadelphia Eagles",
@@ -439,8 +439,8 @@
       "published": 1777014000
     },
     {
-      "title": "Vanderbilt TE Eli Stowers goes to Philadelphia Eagles in second round of 2026 NFL Draft - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHotMGdNMGpqbDVaSlBkVkMxckpMWXRycjZScndwNGdZOGtPV2k3T1k4X0pUdVowWGd4VVlMc0FzekE5Sjhsc0ZKR0twczQzdDllMHlLdUkwdEtvaFB1VF8xQnE2cXhIX3hOR3doYUZCc2k2V1drV0lINk1KSjFzS0N2dGZ0OGd4OXJNOGtYbmlkSDdfOVhMMnZHYnJyUW8xS3N3Zk5QQUU?oc=5",
+      "title": "Eagles live updates of NFL Draft Day 2 with picks, grades, major trade - Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnVpcVRqVF8yckYxNWxnNVVCNHA2cnhqV0VhaEdpbGJNZzhucUladUdiZ3k5M1hOVmN6N2psb21wWE9XYXdxeFJSN0xJei1heFhFeHJmYXpPT3pwaHhBU2FSMlY4VE1TMnh6MU96MXJNdUItM004S1M3QzI2LVl4aWpCVndfY2k2TEo3YmIxV0VWNGF1b2EzSDg0STJYNHJzS3ZDb0wzeXZwcXBhWS1XUVNkYWZyb2QzLVdOdkc1NkJxdW90cGhnOGNEOUVTT1hhaXo2Ng?oc=5",
       "source": "Google News — Eagles",
       "published": 1777014000
     },
@@ -471,12 +471,6 @@
     {
       "title": "USC’s Makai Lemon Selected by Philadelphia Eagles in First Round of 2026 NFL Draft - USC Athletics",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazg2SWtKQVduNlRwSFowckh1MVdRWUFXa0t1SHNEUGtUV3BnRW5Da3F4NzlzeEdGbFNRUTkxWW5vZFg4YmVYbi00Z1U0cFZ1bHpNUktiQ2xFSG5Dd04tc1hBRTdqMzlCQlRYNlM3RkVWUUQ5VHB5dk9vWUVuOG1hNGRsdHp5LVVEVTYydTZCTUNDM0FjS3dPTHE5Sm96cDJXa0stVHJyRlc1MllxTXNWOFFYc053UVBseUNFNENSX19DcEJoUjI4?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1776927600
-    },
-    {
-      "title": "Eagles draft picks 2026, live Round 1 analysis, grades. Big trade for WR - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRWl2dWZtUTN6S2doTWJwX1c2V1RlQ2ota1dCdWxnUVYxd1pQbkJDbTFPTkJIeWdtU1EyOWltbXV3cTd3OWJZMW5tbUhhQVFyc0FpTUx5SWtPbmZwWDZfVlgyU21wbnlsZmt5dnFVT1lNcDFtOUR1M3hoTFl5bDBaQ1BIYXNYT3Fnenp6U0Y2RFJlVGtXcERYUVpmVmg1WDd2RHlZVVd4UnVwSF9pejVSdnFYaVVmWUp1aVpoYWtQRG8zLTkzLWVvV21ZRGxEaC1NdG53Nk4xWkE4Mm44TEE?oc=5",
       "source": "Google News — Eagles",
       "published": 1776927600
     },
@@ -513,6 +507,12 @@
     {
       "title": "2026 NFL draft: Latest Philadelphia Eagles updates, intel, buzz - ESPN",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHR3NWUydnJJRVhWZ0drQzg5QmF0R0NtY3R5dFRVWFZ0OFdBUVdWMVM3ekprTkRaSWNEbWFibUtuanZnd1cwcENNLXprYml2SXRZYWoyS2M0RFZheHdoSUgyRVpFa2UwRmxEZnpOQzc0cXprYTlvR2NQQ2w3aGVwd09WNXVBdEZqcFR0aWpJbzg5d2FZZVRmMTQ1X2MwcUFwWFg0ZE1ORjlmVnBGNkp1LUlhQlY?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1776754800
+    },
+    {
+      "title": "Roob changes up Eagles pick in his final 2026 mock draft - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEEyaU1VWWt2aUpPMHlPQTRNdDBOdDVxYVFWN3RRZ09UajhVWUt1eGJjNUJycWFhN1R5M3k0S1EybWJGdVFFNjY4SGNMNjVsRFFUb1dMZHFXTDhtN2NMZTVIMnRwc3lxTVFueXA3LUl5MG1aWTFvZWJfal9fTU45bk8xWHM1ajczeFhEbkZjN0htZHdXcGpWZm5aX2dyam5ZNnJxTEVGYklRRUptRjBSUm4xUFEyTXFIRUprbWtHWURXQm04WEI4SnpzZXJyRVhQN1HSAdoBQVVfeXFMT1NlMXdJOXJlV3p1cWRSbzRzN3hZWDN0V0Y5UWN1ZHJreDNvMUIyYk0yT18xN3JXaWN3MUh3UDRXSUV2cUtOcmpQemlIQ0R1YjBqNnpObVRXX21QcDh4S0xtNlg4eFMzazlUX0lZZUhmQV9MZmU3ZFJmRWVaXzA1bFRXVTQ4ck9LQnJQTkg2RnRBaDdnZVRTYVN6a0ZfeVN6dGNOYWZMejlvYXlEWlNVb0NaT3VFRF96bVg4b2huTzdwa3pnWW1RMFE2R3FQYUZUMGhVUHp3djJzY3c?oc=5",
       "source": "Google News — Eagles",
       "published": 1776754800
     },
