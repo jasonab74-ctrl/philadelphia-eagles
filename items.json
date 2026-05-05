@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-05-05T16:25:26.052596+00:00",
+  "updated_at": "2026-05-05T17:59:22.166948+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Film Review: Markel Bell best summed up his game in one sentence",
+      "link": "https://www.bleedinggreennation.com/news/175169/eagles-film-review-markel-bell-best-summed-up-his-game-in-one-sentence",
+      "source": "Bleeding Green Nation",
+      "published": 1778003409
+    },
+    {
+      "title": "Eagles Enemy Draft Analysis: Dallas Cowboys",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/175267/eagles-enemy-draft-analysis-dallas-cowboys",
+      "source": "Bleeding Green Nation",
+      "published": 1777999654
+    },
     {
       "title": "Eagles waive one UDFA, sign another",
       "link": "https://www.bleedinggreennation.com/news/175261/eagles-waive-one-udfa-sign-another",
@@ -73,22 +85,10 @@
       "published": 1777846140
     },
     {
-      "title": "Eagles News: Cole Wisniewski among Day 3 rookies who could push for a starting job",
-      "link": "https://www.bleedinggreennation.com/news/175198/eagles-news-cole-wisniewski-among-day-3-rookies-who-could-push-for-a-starting-job",
-      "source": "Bleeding Green Nation",
-      "published": 1777841654
-    },
-    {
       "title": "Eagles News: Cole Wisniewski among Day 3 rookies who could push for a starting job - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalBNOFhsb0lCaV9neVNJUkQ0cWtlZEVGLXNSYnZNMW0tSUZnMkh6c2wzVEY2QjNHM0l0b0otR2x1WllkWmM5c2l2eEFqRGhxUHhuWlpTa2NsQUxuaGNQcThOQ1A4SGpaWGdXNm9uR1Noa3RjZHhZNmRlcXhiSXU5ZFQxbmZrd3UwbG9VNGxPSVhvRktWYjBCQzdqTzA5bUZ1dE5VNU5mQi1kVHdFbDk1Z2w3NXJWUGJnQUFzeWlGVTlFRE9XYjJmTA?oc=5",
       "source": "Google News — Eagles",
       "published": 1777841654
-    },
-    {
-      "title": "Eagles rookie jersey numbers for 2026 NFL Draft picks and UDFA signings",
-      "link": "https://www.bleedinggreennation.com/news/175189/eagles-rookie-jersey-numbers-for-2026-nfl-draft-picks-and-udfa-signings",
-      "source": "Bleeding Green Nation",
-      "published": 1777760250
     },
     {
       "title": "Highlights from the Philadelphia Eagles rookie minicamp - Eagles Wire",
@@ -181,12 +181,6 @@
       "published": 1777496100
     },
     {
-      "title": "An unprecedented pick for Eagles in Roob's Way-too-Early 2027 mock draft - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWFHeFNQMUJhNkNMNzE0YWFGaUFUV1R2V3NBXzdjQlk0WDY4dUtuQlhPdzEwelZuNC1aTnlGNURXQ0dPa0Q3cTNGZ0RLdnFFZXItTUFMQzh6aXZBbXRxbGNfSk5iZWxRb2lYZXNBMmhSSnVsOHpveWFpZTdiWExCWmYxcWFyT3hwS2dCYkJPMWtxY1BIX2I1bFJEd1dLN0g4S2YzT1VpUDR3Z2NHaVlEci1PNlNlZ3fSAb8BQVVfeXFMTzBHQkFKeGVCb2hlNlQ2d0ZPYUEtMkxpN3lXb2owT2ZHR0R5bnItTDllemNuOGJLRFBiRFlCclpmZGY2NlMxSVEyZmFjenI5WVlRUllwaUNQSEdKeFQxYmVSRTVpQ1VOYUxWOTlWVlNnM1VobU1QUUZpMl8xR0JUZThIT1luSllMSlJIdXBNOHkybDNTMzduU3gwWXZJdmlCNGNFZUtIcjRfYXAtcF9lcnRtaVpyYUVzWVJ1c2V2RGs?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777472552
-    },
-    {
       "title": "Eagles draft grade roundup - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Zmx3VEQ0ZDFzNTdTUEppUWZtTUlTMUhLTkRxbFZLejRRTXBlWVdWY2cyWnFzZm5MZGdOV2lmY1VlaEdsc0NxRHB2OHpHc0pWWEs3NlhZczlXTmVWaXhQZXpzdzBka29Cc1VJUXUzS1huVE5MRjA4LXVtd0YxdTA?oc=5",
       "source": "Google News — Eagles",
@@ -197,12 +191,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOF9QblN2X000OVloRGRhUXB3NUJsOTEtWFA0RnBzSjJKUjk5dU53djFxblJfUlYwTkltazBMaFAzMGZ1aGZnZDdnakx0TEUwUEI1VE5jY1VNNFVCWUUwdk9zeUU5d1NpWDAzaDRTRXRERy1UOGxhV0VFaC13NGtndVVMcGFZZkE2UjNwcDRUZWtIZjI5UUtUdHhmYkF6b083QW1jS0cwY2JxTTh1ejUtR3lTMnZoRWZNTW01ZlprSmI?oc=5",
       "source": "Google News — Eagles",
       "published": 1777456963
-    },
-    {
-      "title": "Boston Scott hints frustration with the Eagles' offense may be misplaced - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVjI3TVhkaVBVNGdjeGd3UkdGbENNVEo5RDRHSzRJVlpMYXVranNFX1ZGaEhpT0ZMUzU4SEFmVnVLNFR0cFl3THk3NmVfQmpQVjVYam5QV0FhVDlMQ1N1a2tWbWQ4UHJTaExKR19JS2FCc2NnVUtPOEllak5zajVBVkxkaVdXZWR3WVZnZ0JyYTZ6QXdQRnRydVhLRFMzM1hUNVBwcWJUREtyVjNRWWJ3LUpPbHdVcElVa2VLM0NndGtJTmNvczQ4THpFZlJ6cVZLenNWRHJIcVVyOTQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777426080
     },
     {
       "title": "Eagles waive TE Jaheim Bell - Philadelphia Eagles",
@@ -355,14 +343,14 @@
       "published": 1777100400
     },
     {
-      "title": "Eagles select QB Cole Payton on Day 3 of NFL draft - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnlTd2dYeVJrUTVXUzloQkFCTnYyTGh3VU1NZjB2MDhFbTZWNDRoQThsQ3ZRUUkzRlVxekU2dmhKSWJQa1dLZkFERUhTY0twVGFEeEpjZ2VMQl81NHdRRmlrNWhhbnU4VHJIcW03anJKR1RHdWVERmJxcFhaVm1DNkNLc1NRSWVVYnh2c29DNENkMVk?oc=5",
+      "title": "Isiah King Signs UDFA Contract with Philadelphia Eagles - University of Idaho Athletics - University of Idaho Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVZhNFpBRVZDSVRzQWF0akNlUV9ZRFVTSzdEQ1o5QVYySTZ3RGZfb2hBcTF4YlRaUUFhQ2dudlVlTlJyTlFJQzREX3NQWFRWbWhCSlNGaDlLU2ZPR0o2Y0V6bjM0OEV5RDFfMzM5emFWbmg1VFRtMkdpT2FFVWwyRTlMbkg2R2lBMkphczZRcEk2TjBDNERBQ2M4dEZjZ05fLWpkaFp6WUtnQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1777100400
     },
     {
-      "title": "Isiah King Signs UDFA Contract with Philadelphia Eagles - University of Idaho Athletics - University of Idaho Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVZhNFpBRVZDSVRzQWF0akNlUV9ZRFVTSzdEQ1o5QVYySTZ3RGZfb2hBcTF4YlRaUUFhQ2dudlVlTlJyTlFJQzREX3NQWFRWbWhCSlNGaDlLU2ZPR0o2Y0V6bjM0OEV5RDFfMzM5emFWbmg1VFRtMkdpT2FFVWwyRTlMbkg2R2lBMkphczZRcEk2TjBDNERBQ2M4dEZjZ05fLWpkaFp6WUtnQQ?oc=5",
+      "title": "Eagles select QB Cole Payton on Day 3 of NFL draft - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnlTd2dYeVJrUTVXUzloQkFCTnYyTGh3VU1NZjB2MDhFbTZWNDRoQThsQ3ZRUUkzRlVxekU2dmhKSWJQa1dLZkFERUhTY0twVGFEeEpjZ2VMQl81NHdRRmlrNWhhbnU4VHJIcW03anJKR1RHdWVERmJxcFhaVm1DNkNLc1NRSWVVYnh2c29DNENkMVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1777100400
     },
@@ -423,6 +411,12 @@
     {
       "title": "Eagles draft QB in Round 5 from Carson Wentz's school. Day 3 picks, grades - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzdYaFZaRkxaemR1YUFvQ3ZRSFRQcWxoQUVXb0pHSDFEVGdLX2lDVHBORlJIdllHb1RETmFZdGd1V25YY1lKUF9wU1BKZjJySzlfQ3VDMi1XX0d4Q0xVbFdaUVV4Yi1qZ0cwbHNoYUdKeEZyWko5N1ZwRnR1MElMb3JEUTlJYVhNZ045RUNDYTdvaFhiTnZBS01mM3AwVnU0Znp1VlVhV2l1dk1KUDJGVzlkdzhvTVJWMnZ4YWJCcW41TldYVE1nWk03bjJtM2xHd2tEZA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777100400
+    },
+    {
+      "title": "What Eagles Drafting Cole Payton Means For the Future of Tanner McKee as QB2 -- And The Position Overall - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNi1Gd05NejMyVXZKQ3pMX054R3pBOW5FVGVOOW80R2szeUU5MkNra0RzUFVXQ0FKa2NwSEtpcUR4UldSVFpwcm0zOUtENmFPYmxNYU1DMF9CaW5fb213aVdpd1F5N1BBQ0hFSXdtdGM1ZkhJVG1hWG1mNkJKRUd6dWVmMGRaNDBPNHNOMTNOT185cVc5cVZvSGVHMWVlejZoV3JXTjZfRXV3b0RSZ1dTWjdXVHNpMmxVU1hzWGhlS1htWGJ0QmFVQmNFUC1FdmVoZ0RCYUo3MnF1dlBVcDNJbmFQaw?oc=5",
       "source": "Google News — Eagles",
       "published": 1777100400
     },
@@ -503,6 +497,12 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzdkdKekNEN0VRRThUME1EUGIyVTNqQmt4d0RfakllQ0RkdVBoNHRFWExjNC1xYUZPVjlzM2JjVmNYMzNHUDY2eGxUYXg4WUx4aGdVMHZJQlctWWFoWGVRUFA0WXZ3NXlQUVRLQl9ralE?oc=5",
       "source": "Google News — Eagles",
       "published": 1777014000
+    },
+    {
+      "title": "15 players who make sense for the Eagles in Round 2 of the 2026 NFL Draft - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVZjXzk4aDlEbW1YWWNfNjNuN2hRcXFDa2xfbHlmOW9ra28zTllaZk9nMFRtVGV4UFFvTjZiTUhEWHp6TzR6N3AwWVJwc1hDSGJ0Y3lLa3ZPclNoY1J2UmVSYkdkLVhJeHBMOFFsVXVWdXFqYjdzZU9CNXYyOE9taGNybUgyTlJFbkY1dg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1776999929
     },
     {
       "title": "Eagles 2026 NFL Draft Preview - Bleeding Green Nation",
