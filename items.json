@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-05-13T16:01:40.506509+00:00",
+  "updated_at": "2026-05-13T18:22:48.629179+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Jaire Alexander explains why he left the Eagles last season",
+      "link": "https://www.bleedinggreennation.com/news/175492/jaire-alexander-explains-why-he-left-the-eagles-last-season",
+      "source": "Bleeding Green Nation",
+      "published": 1778692857
+    },
     {
       "title": "Deadzone Eagles Debate: Which Super Bowl victory was better?",
       "link": "https://www.bleedinggreennation.com/news/175407/deadzone-eagles-debate-which-super-bowl-victory-was-better",
@@ -73,12 +79,6 @@
       "published": 1778629422
     },
     {
-      "title": "NFL schedule news: Eagles vs. Jaguars in London - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblByYi16LWtELUt0TmdYMHI4X3JVWXpvcXBnTVJsNS1tdGhfMElvSm5YcjI3NHJCYnZKNTZ0bXZkVFItN2NaOGdoci1fRm5MLU1hMlBKNUhWTEdzZTRCbXNrSGZwQ2oweHJfZUQwdHUwbks1dEw5dWJYZUNsQ0lfYVNRV05UUmNiRnM1dU1LV1V1RURjaTBWcQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778629422
-    },
-    {
       "title": "Eagles schedule 2026: Tracking leaks and rumors",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/175439/eagles-schedule-2026-tracking-leaks-and-rumors",
       "source": "Bleeding Green Nation",
@@ -115,6 +115,12 @@
       "published": 1778606400
     },
     {
+      "title": "2024 Eagles Rookies interviewed two years apart - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmtkdkI2RFFVWFFGZlNZX3BVaXdHT25tckZqdUFHNnU5c3N6aTA0RktaN0RVYTRVWUxpMGFrSk1jS0ticlVrZWZzWjMtZElsX2tsM1hVQ0VHWXZqQjlYcUpJVmN2S05kY1IyaEdYeU5KWk16QWRsMHZaemlxaFlHLWNjMTRxMTJQUTlmVkZJUWYwQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778605289
+    },
+    {
       "title": "Eagles depth chart following the 2026 NFL Draft: Offense edition",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-depth-chart/175445/eagles-depth-chart-following-the-2026-nfl-draft-offense-edition",
       "source": "Bleeding Green Nation",
@@ -125,12 +131,6 @@
       "link": "https://www.bleedinggreennation.com/news/175434/eagles-news-philadelphia-has-one-of-the-nfls-most-complete-rosters",
       "source": "Bleeding Green Nation",
       "published": 1778594842
-    },
-    {
-      "title": "Eagles mailbag: Thoughts on the Jalen Hurts 'middle of the field' discourse - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUE2aGlvb3BpeGRMN1oyQWxTV3puU0p6eVlCRl9ZTGgwMlZKUy1OQV9iNDlJZlBYR2FPRjVNOXhRZFhsRGV0Vk1zYjBaTnZ5THdZSFo3MUJRM29xdE1YU05JRXliUVdzNHRvS2QxZGZBSURZSWs3T29Bb0lrTmE1VXctUlhLQ2l1S2NtcnRMQUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778584498
     },
     {
       "title": "Predicting the Philadelphia Eagles’ Week 1 opponent in 2026 - Eagles Wire",
@@ -145,16 +145,16 @@
       "published": 1778548207
     },
     {
-      "title": "Eagles Schedule Release Leaks: Confirmed Opponents and Dates as Philly Goes International Again - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGJEOEZONm9yRk0tU1NMd1IzTWpCNURXeGFRTU1wTVVDdVhlcm5KWGxUcUNRckROT2tLSUVRZUtpQTVrcjd3Tkw4d3NOSUhGck1aT2cyMlpOWjlIX3pHNTNIT0xxa1kwb29FRmc0d3J5RUk0V1MxRUhjMy1qemFsS3hzWElSa3NieXNpTUx6c1pselMwWlhuaVNJQlVZZjhkZzBFQ0ZYM1NVeEE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778535832
-    },
-    {
       "title": "NFL Schedule Leaks: Eagles-Cowboys officially on Thanksgiving",
       "link": "https://www.bleedinggreennation.com/news/175423/nfl-schedule-leaks-eagles-cowboys-on-thanksgiving",
       "source": "Bleeding Green Nation",
       "published": 1778532734
+    },
+    {
+      "title": "2026 NFL schedule: Eagles to face NFC East rival on major holiday - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVVqVi1wc180RjMxbmd0YmlJZUljcmtxT3RCLXhtWXhvd0dPOENhOXV2dHdoNW5MemZKOFFEcE5xb1hIVVc0V0tfbWZ2b3JYZHRfWXlDQlpUQW9maEdVbkZVMTFvcXZDNFpkMm9fWkF2Tnc2SUNjUmRHZmx0bjdSeDRldUNscFZmWW1sNExOczQ4WjViQWpQbnQ3aGQ0WjFEcHdmQjVORWduR1k0MUdQYXJORjZpRGV3RWdkbjNn0gHSAUFVX3lxTFBxYWNmRE00QmlOZHBFQnJtRGhZaDZwOTJ0am9veHU4a2phSVI2eUxySUJjaHlvWTFTV2Fmd2cxeEhQcEF3Wm0wQnp2andFbkdUdmtxelVxZTlNaURjWV96RHhzTmxkZnZ4Qml6UlozT21QWTNTempENGRXenF5dVlHZl9MTXVnYkRjSmx1dkxMZHNiWHNkZkE5V3lvMUpVZFJrX2ZuSVlwdlZXTGVCbzJjSzZZSC1qeF9XQ1lDRmxzVUQtXzlveTBvZEVweGZCLTA3dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778532720
     },
     {
       "title": "Eagles' 2026 schedule leaks tracker - NBC Sports Philadelphia",
@@ -175,22 +175,10 @@
       "published": 1778515138
     },
     {
-      "title": "Scouts weigh in on the Eagles’ 2026 NFL Draft picks and UDFA signings",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/175397/scouts-weigh-in-on-the-eagles-2026-nfl-draft-picks-and-udfa-signings",
-      "source": "Bleeding Green Nation",
-      "published": 1778514915
-    },
-    {
       "title": "Predicting the Philadelphia Eagles' prime-time games in 2026 - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVc3bzJSc0Fsci12dURJQW1HZE5HOVVPVWdMcVh5LVUyYzItQm1heDkzVUxuTUR5TkVrRmVXdmlGTkdsVkNUSHBBb0FlRlB0MVYtQ29CTG9zX1RteGFZbGxEbXlsQTgwUWpzS3BjNEl6Z2pqUEZjVnZWT1FmMExKdXY1UEMyRUh3d29SOV9YcnFlcHQtT2dBZmhWdHF2SnRWdkZnclZMVFpCLUMxS0g3MGJqVFJIajlxQy00ckZJX1pBMVVFdTAwdTY0Q3ZoZjVGblBv?oc=5",
       "source": "Google News — Eagles",
       "published": 1778513880
-    },
-    {
-      "title": "Eagles 2026 schedule release: A final look at home and away opponents - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHRJbi1HNkd1d2M0cFctNGJ6aEZmTkdXb1JNVXdBWU9lOV9ZYzRwTHBicHVzMGNMUWtQRlhPUDRaSWx6RDZaU1BrOUV6QnI1RjF0dzQ3cTVTMGo5Z0ZpUU1fazZJUWthdHZPS2hrOVRpTURUeEJYMGM4ZU9KWFVFemlOYzQ4Sk5oMGNxTzE5VFdRU1NXQk54NmVuVmpXS1RzbEVROHBIeFYxOUtKTmlNSURvTVVMMkQ5ZE1ERC10NGE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778513280
     },
     {
       "title": "Who do Eagles open 2026 NFL schedule against? Ranking Week 1 opponents - Delawareonline.com",
@@ -221,6 +209,12 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaXREOWdpNjB1Z1llLVRNMGNWaU5XMWFwTHFsaVVmal8zSWs1YVNCWkRXN0Fydjhubk5BMzZTNU5FSEV4TUlYbkZoQl9selVrUDdMMzZKRDFFWEZYUGpQNGQtRUlpMHlTNHJqZHJ0Z1UzRTMyRjBEcjN3azlSOGdQZjlyd2xYMHBVRHZVTEZYdlJaV2pDX19YNC14ZHB4ZmdSMkplWDZISXQ0QVA2Z1RwZzZOc2RUVGFPU193OVhOZmNrME5rVmhwekZVbnhSMXhRUmJ5M1JjQl80NElGSEZmcHV2aWFRQdIB7gFBVV95cUxQNTJhQ3Rrbm1ic3VMR3FHZGpxNFlMWFFqNTdSRUd3eHZjX3NKV1RJQndpdmliYndISTRqME5vME12T2pJcDRJMktFNzVmRmNSZ2xGWWRnQnJWZ1QxQm1HNklQa210aUVjQlIzYXRyY3Znb3otZnhkSzd2cXNpSFV1T1pYejdwTmxhTGxxMF9oRGNkQWV2em1wVlJ4cUp3cUhkOU5Nb0d6ZzAtbkU4eTJpa1QxV3ZTczdNeWNxcTZRUGhUdEh0RFVyZ1ExMjI3YVdySnRLY1libG1qd1UyUFh0aWdxb1NFTVRORU9PdC1R?oc=5",
       "source": "Google News — Eagles",
       "published": 1778410800
+    },
+    {
+      "title": "Colorado Advances to Pacific Division Final with 6-2 Win over Henderson in Game Four - Colorado Eagles",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlN0M1VMX1YxRmFhYTRqY2xzWjhsYWJ1cXRUNEFKMmhiUGhGSW9FaDd6VFVDZlJqeEZvcHYtb1l1ckF3RU1CNk4wakRvRVBBWEZsLVRZemtfS2txZ2k1T25pdWhzZ0pYUHpmU1F4Z2dlT0RFV2MwRmRqU05mYnA2Zy1PcmhfdzB3S0dPRjhUYnEzdkJhUzAyZGp3RzRlczVYYld6cGwyNlo2bzFXOEJnN1JuYWQyaGd0dDcxNm83RVRYbnY3QWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778382890
     },
     {
       "title": "Eagles Autism Challenge celebrates another record-breaking year with more than $16 million raised - Philadelphia Eagles",
@@ -325,12 +319,6 @@
       "published": 1778125279
     },
     {
-      "title": "All-Access: Inside the Eagles' 2026 NFL Draft - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRW5sSWRSWUVpMk1YZWllZmxhcFBQWnk3Yy1UNTF5Q2Z3RlJ1T0RvMXhxNnN0aEZUUnNhSHd1Vk9tVnlGZTlhcmpZZ1pLbkl4bXV6UEdtWVlUeTJmcGpfc0V1NXYxNHZXeXFQY1BBaDIzT2VoaGRENURfUlA2ZUwxY05seWVWelhDMTR2ZXVrZUlfMmVEcDdNUEJienlNWTVkRUZQMGdmeXNlVlAyZWhtM0tzdi1nV3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778112555
-    },
-    {
       "title": "Girls Flag Football Coach of the Week: Michael Reimel, Wissahickon High School - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEJjV2twbmFmbkZ6Z2Q4cUNLZERGUjRlam5TN0VCUFpvMGpLR19ScHRSVV8teWhqb3hMWjlidVNkRk9GNlA4QnZnRkZ0ZTJJaUpfaEJpTWxvYUs4T05GdDJIb0tMVlNTNVc3X1AxV0ttUHFPMTB2cXduRUY2TGpqTXFuaG9MU2NFTEpLcy15YlJYZUhmMmhJRjlkcWZXNmFBUTVPMUowcWxqMmtaWlEydXk2VVJCVFdieEx4UQ?oc=5",
       "source": "Google News — Eagles",
@@ -365,6 +353,12 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEVUUEdOV08wT29FOTljaUdFejhGeS10M1draVNVb1U1YlRSUmZzalF3M0hHY05ZLUJYYjRsZ0ZlZENQelRXS1ZKSHExTDEzbkY1UnBKZ3hpU0VPa0Q4WmxvajlydTIzNnVhTHg2bUpIanJEeDdXdXNyUmFadnhRdVNoTk5kRVhEbUhlVEFTWG9TQ2c2ZEZ0Sy1n?oc=5",
       "source": "Google News — Eagles",
       "published": 1778081128
+    },
+    {
+      "title": "Uar Bernard Gets International Player Exemption: Why Other Teams Will Have Trouble Swiping Him From Eagles - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS3hZR0ktd1I0cDlZa1VWamo3dXdHOFdIZlN1b1ZERE5kb2h3NlFiU1F4eWpMYUpHUEVzZVVaQXVuMzJDcTEtcFp6WGtvejRrOEEyaWozcnBEdEtmbjF5MjJBZTNuaGNFdXVfOFlzbmRySENCeTRiLVo5bmFtQjlXRG1ZOHA0NGJSMjJwd3B1ak04dktOeDBYeXdxWFR1R2F1amxuTE1INVJCUzZ5UlFPWEEtVmR4SDVObVRhUnFFQTRka1E0bjlxeG5vRDV0QXo5ZXFqcDFmV3duNzhCNFZqVkN1c0ljNFFP?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778071814
     },
     {
       "title": "Eagles in play for overseas game as 2026 NFL schedule release nears - Delawareonline.com",
@@ -427,12 +421,6 @@
       "published": 1777878000
     },
     {
-      "title": "Record Runs and Rising Stars Highlight Eagles’ Final Tune-Up - Eastern Washington University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUk80NUhTemRsanc5X2dCdTItYWpBUjl5cjZBclpFWXJXS0FHUTBXWU94UW5NZnRIb2lBWHB6YXl0dnVpdVlrRVJ2dktDZVc0MGJJeFpWNjRVYjdHcTNuLTF6cDJUUzYydmdrWjVWRFh1dFZrUVdQdmtFY2thTjFvd1ZuOHNmMFYzbE5TUHdoOGRzTlVaM01oTHlNRGxERlZmSG1WYkNxNXZ2WVNDSVE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777852193
-    },
-    {
       "title": "Eagles News: Cole Wisniewski among Day 3 rookies who could push for a starting job - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalBNOFhsb0lCaV9neVNJUkQ0cWtlZEVGLXNSYnZNMW0tSUZnMkh6c2wzVEY2QjNHM0l0b0otR2x1WllkWmM5c2l2eEFqRGhxUHhuWlpTa2NsQUxuaGNQcThOQ1A4SGpaWGdXNm9uR1Noa3RjZHhZNmRlcXhiSXU5ZFQxbmZrd3UwbG9VNGxPSVhvRktWYjBCQzdqTzA5bUZ1dE5VNU5mQi1kVHdFbDk1Z2w3NXJWUGJnQUFzeWlGVTlFRE9XYjJmTA?oc=5",
       "source": "Google News — Eagles",
@@ -445,10 +433,10 @@
       "published": 1777705200
     },
     {
-      "title": "Eagles sign six 2026 draft picks, including WR Makai Lemon - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWs2WktOY2tBOEtrY1ZTNVNwV3BxYnRXWnV1bDJSNVJYNE1RQi1FbG81aUt3RnlIXzJZOWYzeU90VWluaTV0ZXZKLWF2QnJvajZKM0otUTk4OUNFOWlYc09QcFlHMnhiTDJqb3Jld1hRX0N3NlpLdXFmdkNKTHlCYjFycUxBZ3k0cklmelNiaUlJQ3lZMG40MEF6ckI?oc=5",
+      "title": "Sean Mannion making a good 1st impression on Eagles rookies - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUmJRV0pTbmNLYzRTd3RSQTJZNmNtSXNqUDdpcElHR3dMb2I0UWF4eEFxYUJQU01JeEFDRmp1RWg2WnF5WmxXcGk0bk45enFNNUxwTlk2dGpLbnAxQWFqZHdaQXcxdVh0ck5sMU1zcmxZMkRqd2FjNWY0YlhvMVRzSWpKVlJaS1R1M2xONjNrdHJIdk1IQjRvQ3VYRnZYdURKTE4taE5yRERaRjJFR3JnM195bGxGUTdWS3l5aFhZQ1FNNjcyd1pUddIB0AFBVV95cUxPQ2xpVEtUVjZWQXJLcEM1ODZheWJoWVlKTy1KYmh5UkVCSkd2cVQxVHN3dGl3TWVNYmRXN0ZPSmU2ZFR6dDJoRG0zV0piQkVDU29YNGhsNXlJeEZTdUxRbE5LNGdycGhDZmFwYlRuUHBCRzR4RGJILTYzbGJET3Y3b1Q0ZFE3WmI0UlJKMHhBOGxub1VPWm9Pd016MmVBdFFHWkdJcVBjaVE1Vjd6VEd5WWxYc3dNSHo3UFFnVEhXd1BWY3E2V0hNQ2NfUjBNUVlL?oc=5",
       "source": "Google News — Eagles",
-      "published": 1777618800
+      "published": 1777705200
     },
     {
       "title": "Eagles sign eight undrafted free agents - Philadelphia Eagles",
@@ -457,8 +445,20 @@
       "published": 1777618800
     },
     {
+      "title": "Eagles sign six 2026 draft picks, including WR Makai Lemon - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWs2WktOY2tBOEtrY1ZTNVNwV3BxYnRXWnV1bDJSNVJYNE1RQi1FbG81aUt3RnlIXzJZOWYzeU90VWluaTV0ZXZKLWF2QnJvajZKM0otUTk4OUNFOWlYc09QcFlHMnhiTDJqb3Jld1hRX0N3NlpLdXFmdkNKTHlCYjFycUxBZ3k0cklmelNiaUlJQ3lZMG40MEF6ckI?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777618800
+    },
+    {
       "title": "Eagles announce rookie jersey numbers for 2026 draft class - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3U3dm45Y3V4OVRsWGNUV2RWS2NLZ0Iya0hOTG9OcjZxb2xIell4MmhqTlh6dGFOdVlHQ2tsUE1WaUpJd1dPa1pYU0d5X1I1aGgzU3E5VW9DaWg4eURPQ01tSkpSaUpnZFV1MDFrcUI1ai1HaFEyTHlQMVRRSWY3Ymt6UjB3MFdvdy1rWFI4R05OU1BqWnR1aVVZTS1wMjRpQTI3ZFoyQnVtNDFHZUZVckpB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1777618800
+    },
+    {
+      "title": "Zach Ertz says Eagles face demands, pressure unlike any other NFL team - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDI2dnFRNmhpYjMwdHBrUTkzeUx5cmdBWE5McWxzUURTX1laRDF6b0JxeU5mY0p4UnM4LW5sbXJYV3h4cEhhQXBWcnBOd2RkY25UUnVLcTIwLVR6NlBXVmFPOGtGaDZZckVLZW14SUZGLWN5Qnp2dFN3cUdQOXoxdVJSY3N6cEdRQkJYS0R0c3BraE5Ga05MSjN6dnExcHQzSEcyNG85R2pfNG9WRWt5eXdCdGdSUWhCTHpwUVlVTVRQZ3BZcVZmMlhhY1VDU3lTZGRhck04bE4?oc=5",
       "source": "Google News — Eagles",
       "published": 1777618800
     },
