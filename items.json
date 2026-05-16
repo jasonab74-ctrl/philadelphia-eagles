@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-05-16T18:31:12.799195+00:00",
+  "updated_at": "2026-05-16T20:02:04.589039+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Jalen Hurts wants another Eagles throwback uniform back in rotation - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMHB5T2dramlfRlN5NWJhZWhmNnFnYzVHY2w0ZmdlVDhMT1J4ZDBZeGtmMXFFOUNuV1pNUlZoRWtFc2UtTFFDT01VbUNxLXVpOGdIam1FWS1qczdYNDl2V3FxMVlnTi1aUEVHUzh3WGI5VGVNTXBacklHbmk2dTI5YjFVZmtBYmVjT1pCYVBpOWRkVmM1akd5V2IxeHlRTXk5Sy0xc0FTckJuTmNDSU85akloMVFqdHRvWFpCdnFPSm05NjVneXc4dVpPOTFxdGZ0cTBtNGVfaTNmWklsRmkwWg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778955900
+    },
     {
       "title": "Photo Gallery: 2026 Eagles Autism Challenge - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjR1b25UdG1nRV8xTVlkMmpjYzJzdHI0MkFvUXN0MS1WQ1prclI3dG5nOVNQZG1obTRCa2xnLWJiTjVuX29NREstY011VUswWmNvMGhqdXBFLWx5MDNOTnRKUTR3M2JtRmMycVphUm5QOWM0TnRPV3lKNUhHMlBLV3FHX3d2TUxGQnR4eQ?oc=5",
@@ -211,6 +217,12 @@
       "published": 1778767147
     },
     {
+      "title": "Who are the Eagles' 2026 opponents? - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1l2ZWdrY2lPeVBFdkNWOENXZVdBamMtRUtHRzkzSG9mamhFVlBEUFItTEstMml3R0E4UlN1cHNDZFk2M0tjY2FiakRxOHliUEdKTHk5OFdnZ2p5Z3ZTTXFScm5PRHJuYWVPWExDWmZPcE9xZ0prWUY1WFBpekZCQkMzY0hBaVJnb1k4Z0UyMHFaOGJ1aGJxN3N3ZmNsUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778742000
+    },
+    {
       "title": "Girls Flag Football Coach of the Week: Stephanie Mack, Imhotep Charter - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEtEWEZuZE1KVVBIc1dmRUYyNktDZ0JISTBZdXF3RjRWWDg5ZnpmNHhJZzZ1WWpIUGljSlJQOWdiZkZ6VXRONC1QZVcwOUo4RVVZd09aVEpsa2lVVVpWeExTdTFIMEIwMHdNZkJjeC1KcFRxUzRGekN5emZXN2VTNFMtYVJiUE5qTHFuSU5SbW5fY0JhckpPRHdBb0txTkFsanlXYV9wUEluVjJYX0FpaDJaWE5mdw?oc=5",
       "source": "Google News — Eagles",
@@ -409,8 +421,8 @@
       "published": 1778223600
     },
     {
-      "title": "The race against time to find eagles escaped from Dollywood - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yYnAyTDlvak4wVGQ1WUNadVFMMUg0bkc3NXZxbEUyN2FoVWtRSi1WU0tfQnRtSjBOeWNQYnZIS1pPX0JnNUtYM3MwNkkyTHBCaDRpN0ZIRGlIZw?oc=5",
+      "title": "What Eagles Reworking Zack Baun's Contract Means For Linebacker Going Forward - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUgxZkdldzRUTy1YRk9RbG9RaXZxdEF6UzM1VTV3NVBUZVNhc0NaSG9jVUdlTWFBWHJ6R2lXRjRrM1lnYkIxQml3X3luaWptVVJ1TzdDVmxINzFMYlFIanBYaFVJRjM2aTZEUDBYNzRmV0NHT2lhNDdyaFI4OWFYYTdOUHFlNFR3RnJ2bnVZRDZOblJnM1lBUW5RTW1WZWpSN0l3ZTBYNlR2Q3ZEVkM0Vjl5MEhFZmJFVmwtRzNDbkI0SDA?oc=5",
       "source": "Google News — Eagles",
       "published": 1778223600
     },
@@ -423,12 +435,6 @@
     {
       "title": "Post-draft NFL power rankings roundup: Did Eagles improve positioning? - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXN3bVZYcjJtTVF5QzdwNXF0UmhmN2JPa1EtY19SSFJNVnJ5RjdnVHdjTmlVcUllcVI0eWd3QUxwMlRjam5ET1N6ek43QW1BbVk0bmhBLWxOYkd6cjhGVWtyQ1pKbTNvd3BrWlI4djhfTVdJNjBFZk9HLUhPa0FmWkVXWUYtb3NwTWxMd2ZtRU1RdnRaRDRNdXFLS25oUGE1SElHRjlZc25pa1Fka3pILUtZai1BSGliVGhodTlERTJUczdUNHUtVDc0WmNmMW5RYmFsN9IB3AFBVV95cUxQNkVwRjk1Zm9xLWFHaVNteE00X0JjVWdVc1czZ2poczlYWFpMeUhVNjFySlRBU2lHQXQtVkZmQXFRbUdlXzFLdmg2UVBuaXRlVGRWc2UtMkNFaVlLVW96WXFxcUs0TzNHR1dpbzFpQ18zMDBzNVdVbkJDNXFtSkhic0pUam54YXU1OWx5UnQ0VjVpdnhXYjA1ci1JS0l5cHh4dzdQbkJfQ1NRVGNoWEJOZHdPc2hXblN1RmhMS0pVQXhteG9IaE9kQWhXeVkzeVJ6X21ReVBMODR3a0dG?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778137200
-    },
-    {
-      "title": "Mailbag: What Patriots players make sense for the Eagles in the A.J. Brown trade? - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWxDWmNDbU90cXhqenNUa0xXR3dac1hLMU5oN3l5MjdRWTc3aVNpSnJZUzcxNXd3M3c0d3d4VktMZENlLS1CcEVxWkFLWXZVYmhETm96aHFGaXNKaHQ2VVRZN2VTNGRBVFR0azhlMEQ1MFZxbDdwN3Jpcms4MG5Rb3A3dVBtcElrZnJCek9QVEtYYkk3b0lDaF9WYTVuVnk2Q2Nfb3hROEpHZV9ua2xsOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1778137200
     },
@@ -477,12 +483,6 @@
     {
       "title": "Projecting first-year roles for each of the Eagles' 8 rookie draft picks - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYV9SVjY5cUcyZDZJaWIzVVlFY2Z5XzI2TFY2QzhvWU9kZjZkS09hWU1IY25CSE5NWlJDdFZ1SlNEb0NGdTZaZk5pN2dYOGEyelJBbXRWM3BtdWxESXhlWXZKdUt2WG53V3JkdDF3QWxzQlQtdmk1MGJXbnoyQ2VfNUFZV2FEN3Z5c0YxNnhBWTN0aGd6VlVfRHRmVHlTdVZzQWM0MEtUWnJPTVhQdVlBSjZkYmZOQ3RMRjE3VERhdkk0akFJSXhIVE1n?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1777964400
-    },
-    {
-      "title": "Eagles' 53-man roster projection following the rookie minicamp - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk9SMEVwQlVieHEyWFlNMVJZUWQ0ZS1xcmtVTjdNWXdqcS1KbmE1SlYya0dERm1GVnpxVm52TEd4c0huazlzdHBITkZUb1I0T0swakNDSl9jZVF2X1U2aEQ2M0R6cDZpSms0c0VWYTR5V243R0lrR2s4Sl84bHFqNGxUOWVCN2dPZ1ZKYlFFdXY1VVpHN1laem9YblRkUEZKOVlwZ2NwU3ZfN0REbVZ6SHliaVp5VnFicG56WEJTa0M3cHNBcWc?oc=5",
       "source": "Google News — Eagles",
       "published": 1777964400
     },
