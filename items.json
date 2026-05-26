@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-05-26T22:22:30.721022+00:00",
+  "updated_at": "2026-05-26T23:41:42.649846+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Josh Sweat trade rumors: Back to the Eagles?",
+      "link": "https://www.bleedinggreennation.com/news/176006/josh-sweat-trade-rumors-back-to-the-eagles",
+      "source": "Bleeding Green Nation",
+      "published": 1779836106
+    },
     {
       "title": "Eagles News: Patriots writer says A.J. Brown trade is worth an “overpay”",
       "link": "https://www.bleedinggreennation.com/news/175993/eagles-news-patriots-writer-says-a-j-brown-trade-is-worth-an-overpay",
@@ -29,6 +35,12 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTF0LTFKT1poUlV4TF9XdmdiM1Z0ODdlcFBXSE1FTUJ6YWhOSjFpZGNaSGttaE82RDJPMjNNVEJCMkQ4WGV6bkUxYm85STdqcjVlMDd4eUpjRU9sZ1NBSVBaZk1scUFNVy1XaVI0Ym1ESkFuRkhFOGJaZGRsdEw1R3lHSEdSMjRNbTlnRE9ub3BlSVI1ZUNMc1E5M1M3WUNRNUM5Nl82MUxESlhkQUdEMlpkMVo?oc=5",
       "source": "Google News — Eagles",
       "published": 1779741540
+    },
+    {
+      "title": "Eagles legend Jason Kelce worries the NFL is moving away from Sundays - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR19nMHpZMWlKNXEtTWdlWEZRb3czQmxQUW1yX0tFS1NONi1nUVRDSEpfTHQwYTQ5UFpPSEpyVHZwSENkaU5VcEhjajJBY0lFUllCQ0tJWU42UDFCcjY3NG56NnBaZE1nZXBPWld3RWJ5ZGVPdURCd1oxcXpaNUdPSTlRSmoxS18xUlN4MTJHVUJmY0F4U29YazdVcnZQUGhUN2tVWkRoWXpMUTAyTXQydVV2NnlvdmdGcUJndXYxaS12bUY2MDRYWjRadERqamdfWDBHTnVMLWYwQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779737580
     },
     {
       "title": "Eagles News: “It would be wise to re-sign Brandon Graham”",
@@ -91,6 +103,18 @@
       "published": 1779629686
     },
     {
+      "title": "Eagles News: Early signs indicate the Jalen Hurts/Sean Mannion collaboration is going well - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2tUQjNZSDMzSXZOYW1LWTVjUnFoS292YmY5dFJPV2pDVEk0czVMWFlrQlI1ZUNEb3lBUURHRHNraFBlVHQtaXliN3Z5SlFlbG1yYTB5cEJYMXpqaDdoaUJLd0Vyd3VYbHp4alhTRDRDemxMS2ZZdUdxQVJGTkpybUduWS1sLXMtSFRjSW9PaTJGTnY1SmlWLVFHelNqeDhSM0pwZFdkOHBQRnJPd2FncjVWUWVfTzVxOFdxVDYyT3hzQ2FOOG9pSk9XNmRScU5UV2Mw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779629686
+    },
+    {
+      "title": "Eagles' patience with once-promising running back might've already run out - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkxQUk9xbWNZdUVYXzBhdHpyaFIzWUxPWEI5Z2RoU3NCd0FsZWFsaDhNZDE3czhmVTV6WTVoeWxua2phN0hTZG9xaGwxX0RSNXNCSVNDME00RW90SGZSWGJneEFTRGdNZnZsTUJoSDhnMC1yYzhjVnBqcUVpRmxTUXhwRG1sSWNoaWFuUXBOMmNkcktKTzVNUDM5c0czVm9vMkJWOWt2NEk0SXlZQXFMSEx0bEVnWmV4cy04RC1Ia0hBTTU1eEE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779622200
+    },
+    {
       "title": "Eagles fans can't help but laugh at NFC East team's rough week in the news - Inside the Iggles",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGNyLU0zenBIMVA5dWZQX1ZjVXhBeUluaTlKTExKakZGNGxsdzdtSk10UHRHSlZHZmpqZl91QmgwT2hnU0pvaGRYaDFfRTZjcjhnUUJ0QkNnMERnMTFaRUpyRW9ZeDgxbTkxWGZIbXZROWl1dzB0V3NHREhabUpOMFNFYUpjQjJxajRzY3RSQ3FCbHpsSzVqenBGTE1hZ0NLd0hwTE0wUmtub0tTZWhrcDV3eVlaOVpDWk9JREdmTnlWdW9f?oc=5",
       "source": "Google News — Eagles",
@@ -113,18 +137,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHBEYnhWTDZIQmVaUnZ4U3piQVhPQWlBZEZrTjZvREFPOEU3SUoxOW03SXNiN1M3ZktVay1FZWhfN0I2bU8ydk5JcS1pdTdFY2lxWVpzMmRVNmxzLVZ4VUVLZW5QUkRVNVpyaHZTbWdvYnJ3ZzRhSXRESDZKVk1nV3pya0x3VjJnT2ZRVzM5RGNiRVFPVUE3eA?oc=5",
       "source": "Google News — Eagles",
       "published": 1779537605
-    },
-    {
-      "title": "Photo Gallery: 2026 Eagles Autism Challenge - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjR1b25UdG1nRV8xTVlkMmpjYzJzdHI0MkFvUXN0MS1WQ1prclI3dG5nOVNQZG1obTRCa2xnLWJiTjVuX29NREstY011VUswWmNvMGhqdXBFLWx5MDNOTnRKUTR3M2JtRmMycVphUm5QOWM0TnRPV3lKNUhHMlBLV3FHX3d2TUxGQnR4eQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779485015
-    },
-    {
-      "title": "Philadelphia Eagles NFL Nation Blog - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tSkNIOWxPdTRDTk5NdDV0Tlp6dzdicmNOaFRuajFwMzRNZTVpWVBoaVk3bHZZV256ZmVQZm94ekI0MTk1NElNZ29GcFVyMTNIek9yZ2tqd2U?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779469200
     },
     {
       "title": "New Eagles OC Mannion starting out on optimistic note with Hurts - ESPN",
@@ -157,28 +169,10 @@
       "published": 1779455289
     },
     {
-      "title": "Hotel California: The Eagles Channel Counts Down Your 40 Favorite Eagles Songs - SiriusXM",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hdjlCWGZfTXRfSGh1QnV6MUZSWEJpT0p0Y0N4anBDSWJvc1NQbGxsOV9hT09obHdYRGY5Vk9LQkVWREFicjItMlU5S29vYVd3RmFEcFFQQUJMWmhndXNxdHpoOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779433200
-    },
-    {
-      "title": "Philadelphia Eagles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tblgtSWJaa3BRQjk4bEJXdnlRenlDeXpORzZjTzBnX2NkQTV4aXZGX0pmMXB5S0RIS0RxUW02TktlbXRUWGo4Nkp5UV9yZF9lUmJpQmZTbG52NzZfVnBZVUdn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779426000
-    },
-    {
       "title": "What did Eagles fans learn about Sean Mannion from his introductory press conference? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1Zlb0dyZ1JPdE41QWlROE42VjhoV055S3p5clNUQk14QkxSTXh0Wkg5RzRqa1pKWC1JaU15MWZZNFB5dFRhRzhaZ1FZTjZoUmpsNWpWeHhRYWdSRDVXLTR5c1VXREp0QkpDS1pRTi11RTA0b2dSa0NxVGRUNVFqeHl6M1U1Q1MySFJUZUVmZm5lb2tWOG9TWG50NURLVE55VGdEUnduWWtBXzl3YWdFU1VlWU1LSXJiSEstYzVkc3lNZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1779410145
-    },
-    {
-      "title": "Sean Mannion talks about his vision for the Eagles’ offense",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/175888/sean-mannion-eagles-introductory-press-conference-comments-scheme-jalen-hurts",
-      "source": "Bleeding Green Nation",
-      "published": 1779408381
     },
     {
       "title": "New Eagles OC Sean Mannion: Jalen Hurts 'can do anything we ask of him' - NFL.com",
@@ -215,6 +209,24 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalpiUzFzbXYtNUthUWYyTFczY0hjNlhBSlZCOUUtQ3ZIWG14RmtodFhfeUpGQU83bmJKQTN0Tms3T1pfR1VIZ1BoRVA1THB1MG0wNlJOUGNvRUN6V0IzT0ZEbHMwOUVnR2x5bVBBRWpHOF9mSng0enRLSm1PV0hjaWZneDVtRE42dm1mckpuRHJ5OHNaN3hrRHdLQWFuaWlIM2RQSVpLTFZjT0xUTnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1779387240
+    },
+    {
+      "title": "Eagles’ Nolan Smith Jr. arrested on suspicion of speeding and reckless driving - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEwzR3N2dmdrbjRKazlsc285Vm9uOTlNVWRuTUZnOEY3TTllTW44TE04dnRPcEJoQ29CMFRERmZ1WkVsZVlwMDZ6X25SVzR0WXVScVBBX25WYjhqWmprdkRwYUpfSkdjaFk3R3BTMVAzU19IR0hzeHR5WEVzdkNXdlA2RWdiX1lFdFd5T2lNTnlROTNiS2QtNmpyRFptQUVxZnc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779380973
+    },
+    {
+      "title": "Eagles News: “Howie Roseman is already a Hall-of-Famer” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTYyakJxN2JIbk5OVVJHcXdLVnc4WG1UR0tWME1VWG1wNFFSVEhHaXFRMExhdFJYN3dTTnhEclRDdmZxRzVDd0dfVDBZSUVTbWYyVk1KT3VuclZLTEFodk9HV0ZKUzk0aWIyckpaQmhsV2J4ZTVySDB1QUpJRTdrN1ZQOWFxYVFLcGViYm1reHRyZUdFY1NaS0lhQ3hwd0dCRWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779378695
+    },
+    {
+      "title": "Eagles' Nolan Smith arrested after allegedly driving 135 mph in Georgia - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWNSUXVNT19SeXJLY0kwaWpnQk5WRDJzM1F2RHRHanl1MlZWYnpYV2tLdlVJWTk0d0J1OHJHa210MnVYeTQ3RUpnTGE1bTZPaGllWmxtVjJiZDQyUV9yMkdpZWFBY1dEcnFLVUFDdGdmUUJYLVB0RGxvS0ZjVHpCY1ZCQjZwbWs?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779378240
     },
     {
       "title": "What Will Eagles Pass Rush Look Like After This Season Following Nolan Smith's Arrest? - Sports Illustrated",
@@ -277,6 +289,12 @@
       "published": 1779268260
     },
     {
+      "title": "New A.J. Brown Trade Rumors on Rams' Interest in Eagles WR amid Patriots Links - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmlPeGlndllOcTFsaUQ0eTI5S3RWMWxodGpKRjNoT1RmZ01aYlk4NzlLVnVDZmtSLVI5a2VVRkl1SUxrd05WTmE1WkFuSzdUazhEX1I0cTdNMThNX1VRWS1UbHJmZlI5cWNqZFJKczdfemRjOFdSYVVmZU1ya1ZDUmhYMHBmaUU5TXZLZEdSbzVkamFlMml5RjEzVVFfNGJ5SGFKMUhqQnQ3NUZGVF91TF9paW0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779232333
+    },
+    {
       "title": "Philadelphia Eagles 53-man roster prediction ahead of OTAs - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa29JTjZFdVZSZ1hXRDc5NktlR0dqcXQwOXhBcHRoMHlUZUVaV0dUMVFUUHBYNUxaWFg3eVZwaTI4RmhoeFlHV0FaQUd6R0lYellINWtabG05Z0padFNCRXVRclZSNElLM2xfbHhZQXRNc01hSVZfdHBBdXVhOVlPUzk3UUVHU2ptSTZWWV9vN2tmRV9WTmhIclZMZm1MdVI5ZmpXdnZWaUVubGpvR1BpX0JHYkloRmpjZzN5Mjl1LVNFVHdDbGMw?oc=5",
       "source": "Google News — Eagles",
@@ -325,6 +343,30 @@
       "published": 1779087600
     },
     {
+      "title": "Three Teams That Could Steal A.J. Brown From Patriots In Potential Eagles Trade - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGhCSnpnQkNNV2NGQ0U5YjdqTHRTMHhWWHY1dG1DNXR3UG5LZlVuX0NuQzEybk5uUlQ5bjlRYTRVX09zdjdYRVNUYTFaSjVwbUhTZjVZZlRCUkU1YmtFd0Z1ZzlGaHNLQm1idEhsT3pleDEzaW1pWjFkU0ZkWlRTbXFnSUtYVzh0WTJQcVBmekxPWWpReDNzTkE1N0ZWYXpUWGJQZFk0Y3ZWWGxvSG9Fenh1RkFsamZSUXdBR1Zaa0RzXzQ2?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779087600
+    },
+    {
+      "title": "Eagles have one painfully obvious cut candidate in last part of 2026 offseason - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3c3RUM5SC1YWUNwejlXalFDbHdiVHVraEVBMTJmQTA2OTFlX3l5U3R6cDJuZzZfTDN3d0U3RFpFQm03TzA2ZWd6dkVqYUozTlVGTi1sWUpvSnFFS1I3T3NRdUkwMFhMRVJQY2JUQlRxSEY5SnA3RVI5NFBMV1dMdG1fUnlqY1dPSThSektGVEVrSWVhSkduamlMQ0hwNXdackhkRjlQalFGdVpzanBPYlJMQ0VnclE2QkFBNDFnd2NjTnZaQUVKOC1Vd0hkUVQ0d0E?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779087600
+    },
+    {
+      "title": "What's Next: Eagles, Chargers Face Rest Deficiencies, But NFL Disputes Disadvantage - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVi1CVktwcXpnb2Q0dlNLTXIwaEpSdkZJUEo1VnpTZlYwRmRsSVo0TWpJb3lQWlR5T0IxSVBGVlQxRmh3bHk4eWRCVmtqMzFxZWs4OUx3NjhPOHRRa2szUHJILUxMcXJEa0VIZG8yZUNUM2ZFcXN1OEJjTHVXVGpvVkNKMDAyd1B4N1RUSC0yeEtKREpGZzM0ajJmQmxPRHVjTUF3ZmZTRGkyMkdYN1pxMTFrTdIBswFBVV95cUxOSDBpQm5ZUGJlcmpOb3U3cTgwWC02YXpHR21HY3lhZDRvZkNQeGdXRFV5UUhtSjNhWDZENTA2ckxJVXNQejRHSmFQa3BOMmRlbXh1X1diMlRzS3h1dDZGUEZfdWttN0lFTklBZGxXdFc2ZGRXalJfTTBjUlZIWDNOR19OMFdvWXBkRzNnc2xOMGJBZzI4N3h1YW9ndHBKNDV5ZmRSa3pMcFZodVA5aktlN3prWQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779087600
+    },
+    {
+      "title": "USA Eagles Experiences rebrands ahead of Multi-Year Partnership with USA Rugby - USA Rugby",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1F6S1BLb3c2cVN0bUF2OUE1V3RiZHI5UUZxZWpCWXFzLThJOXRoaFdkcDAwb2JnRGZxTDdtWEo2X05SX1Q0R1oyMEZ0UDIwcTFJSl9RSWY4NkpKN2hNREJKYTJpR1RCN2NvdXM3R2UzMTVGTWhHdzhEUTV1ekIzc1BZWVk5R1Y1SXk2a0F6RnJlWE1lY0RXc080MWs0MW5XZUhjYzBjOEI2NnZL?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779087600
+    },
+    {
       "title": "Bradley Nets Two Goals in Eagles 4-1 Win in Game Three - Colorado Eagles",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjFOX1RyMlV6d2M0aXY1cTZobVpQYkYtcGZnY0dvSmE0THFULXVQVGtqQlhfNmZyRkVpcThDUTJrajFaVl9XZXY2SHdfaGliV3l5RDdRd2ljc01zd2YtUDB3ckJLd1l1Q3dMSTNTWnV1Nk1sZTNDbGFlV1owRGM0V0FKNzIzQzYxYXhsZ0ZuRnN6TlZNWmJjdDQxNGdnUQ?oc=5",
       "source": "Google News — Eagles",
@@ -341,6 +383,18 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGloTFBLTTJ4VTBwWjlVVGlNUFNITGhIbWNBREMtN3lJbm43LUttYzFNYVphZnVZTHhVNklTT3N6M0hZcDNGMmluTEU1LVcwa1dYRXhlQ3FZUXBERElCdkRENUdjNlVfVXNHa1NSa2xoeEZfRndNeHdBZEp4WE1LY283MzY1ZEJLdldzZEYyUW9BQUZGS3BaZ0U3Mng4dEhtU0t4MHQwU1BqYl9CT1E?oc=5",
       "source": "Google News — Eagles",
       "published": 1779001200
+    },
+    {
+      "title": "Golden Eagles end OVC tenure with nail-biting loss to longtime rival Eagles - ttusports.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qMThYS2pCOVkxNlJZY0RpS2ZmSS04bHM1QjJlRmViQnluR2NrLXREZGlacmxERW5PbmFNcVJyWTZLVzVlbVlEdllnY0tHSDB2YXNlb3I1UXpoWG5VY1RkWWttRnZpdVl6TE1IM2VrdjBoa2Qwekd3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778978313
+    },
+    {
+      "title": "No. 23 Eagles Complete Greatest Regular Season in Program History - Boston College Athletics",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1NlZzJMeVdVanFrTVQwZW1nMzdESF9HTElzZjRlZG1peG5CRUYxNzI0TG43MEZsbFprZndSVXcwT2o4TlZjN3FTTndhbWhKZ0dCcFF6YkItTVZTZGtrZUVMZTRHa0ltcDBqMjFfRGR2QWtXNFdJelpTNkdoM1ZkQ09uYUVwQURuay1Rb20zOHlpN2ZWSkIyTTlvWEEyczdMZWZuN2xhdWx3VlpHVVE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778961198
     },
     {
       "title": "Eagles News: Philadelphia among teams hurt by NFL schedule makers most in 2026 - Bleeding Green Nation",
@@ -373,26 +427,26 @@
       "published": 1778828400
     },
     {
-      "title": "Philadelphia Eagles 2026 NFL schedule: dates, time, TV - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnFhcDJzMnBIWnJSajJZelp0dHZmR3ZBcDNDVm5yT0pUSlJhSTR3anBuUHNqLWtpNzg0M2xyTzN3QTVrU2ktYmpYeTV4OUpCaGI4U3JhMkxlc3lSaW5QTXZjcmp5M0JibjlwOEVyVXhxOVU5VEZjY1R2MUp5SnhUaktBS1hJa3had2dlb2lMQTZRb2ZiUlFFakFfemh6Ml91TW96ZkVzbFFibW9Rand5RjJ3SGMwbElC?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778828400
-    },
-    {
       "title": "Philadelphia Eagles' 2026 NFL schedule release: Full list of dates and times for games this season - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGozcXlaajVuY3p2Y2diOTUyVE5BTHBKQlV2VXVYLWdPTElmRi1JNWNsY2RWU3RQcHFOVGhRUnVpc1VMcnBxM2NzSXZCcWlwbUpUN05pMC14bXI3cjhWeFNxTWVxTDdLc1o0a2UyNXVrRzlwV2dtTHV2MF9hYmFCRGx0bE9fekhRYkdPV1BEeVhtbFl5RnhtMDR6bk9ySnF3ejFwd1pDNmRycEFp0gGyAUFVX3lxTE11elM5MEJCRmhDc09OWEkyUjhzNzJYSXBDZTU1ZDZDVlNtdkROR2VLZE9jb0VuVjVxOHFxaTJnMkcxSnFiSUFOTXotR0pScUpiTVFIaHlwX3lIU1VyTklQSTc3RmlTak9iTXQ0VTZYaVBPSUZ2LXpPZkd3X0kydzF6bVlCM3ZqdmJqbUozMUFVeGx2V1FPUjR2ZEpERDFfU2tlNmdPMUdwRC0tNkdKT3Vrb0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1778828400
     },
     {
-      "title": "Philadelphia Eagles 2026 schedule: Redemption tour includes plenty primetime games - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlRXdEVpekFiU2RJSFppa3FNeUFIZjhETF92eFc5TFZYbFpVa2t2NXlJRjZIR1NXWmxIS0kxYnlIY05PTGJRVXkzbm1lV2tteUhwNEZKT211QmxKX2RoeXlsWkhveEFOX1JfdDdKM19nUTRWcGViR1hDY0I2Rm5kMkZKczVLTUtMZzNtY2dnNA?oc=5",
+      "title": "Game-by-game Eagles 2026 win-loss predictions - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTM5UjBjSnFOUkEySlNGNDdVcDdLSmNCY0o4b2pnY0l2NGpPUktVT0EyVDJ4dGM5Z2FhYW9INGJYTEV5Zjg1M2w3Ui16cDVlWWlzUEhHRUJLSTZtbTNLM2ExNjFabGtkbVlvdl9Hei1MdTJDemVOOGNuT3VYWk1KS0p0cEtnTTR1?oc=5",
       "source": "Google News — Eagles",
       "published": 1778828400
     },
     {
-      "title": "Game-by-game Eagles 2026 win-loss predictions - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTM5UjBjSnFOUkEySlNGNDdVcDdLSmNCY0o4b2pnY0l2NGpPUktVT0EyVDJ4dGM5Z2FhYW9INGJYTEV5Zjg1M2w3Ui16cDVlWWlzUEhHRUJLSTZtbTNLM2ExNjFabGtkbVlvdl9Hei1MdTJDemVOOGNuT3VYWk1KS0p0cEtnTTR1?oc=5",
+      "title": "Could 2026 be Jalen Hurts' last year with Philadelphia Eagles? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaSjNQeWNtUjlOZmlLWVluUXBsb2RJZFZDZ2RVdFNZZGUyX1FWUl8wOUpCdDZTenZ6SFdjMHkydGhZSXVkeFhvWFlUY1NSR3RQSFFGd2FsRkNncTAyNzJqV0JSMEpyZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778828400
+    },
+    {
+      "title": "10 Thoughts on the Eagles’ Schedule - Crossing Broad",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHdYS3NaVTh6VlpxY0FjT3B6VXNyR3MtVEhfeXEzV2hoRWZjNW9za2Ftb0k5OVNqWmZCOW1MMVIxWFFQd0dvSXNvZmFseVZmcDRpcnlsSVQwVDB0VG1GRWtZZUYxV3BuaXgwakp2a0RFdHNFNDlfUjhMdFVBaHNnWWNqRQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1778828400
     },
@@ -421,12 +475,6 @@
       "published": 1778742000
     },
     {
-      "title": "Who are the Eagles' 2026 opponents? - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1l2ZWdrY2lPeVBFdkNWOENXZVdBamMtRUtHRzkzSG9mamhFVlBEUFItTEstMml3R0E4UlN1cHNDZFk2M0tjY2FiakRxOHliUEdKTHk5OFdnZ2p5Z3ZTTXFScm5PRHJuYWVPWExDWmZPcE9xZ0prWUY1WFBpekZCQkMzY0hBaVJnb1k4Z0UyMHFaOGJ1aGJxN3N3ZmNsUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778742000
-    },
-    {
       "title": "Eagles and Ticketmaster announce partnership extension - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVlwejhiUDJ1X2J0THlrX0VPc0YzWnViUkNQYTBjWXdnMjhWX0p1RlJGR29GVEcxUG1OZ3BENWJYNy02RWUwNmpGbWVjZ25IUXVGb2x1VThmSldlYk14M250Zy1MZFVsZ0JkTWRLRTc4a2Nuc05QRE03Tnc5TjVrT1RiZHhFWUY1VW40WFFXekRxOGR3?oc=5",
       "source": "Google News — Eagles",
@@ -451,74 +499,14 @@
       "published": 1778742000
     },
     {
-      "title": "Everything we know about the Eagles' 2026 schedule (leaks, updates, rumors) - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm5PTElKNHo1bTlfZHdUclQwXzQ0akJjS20wN2o4MVRnM21RLTZ6SExDZGY3ck1MNWswOEg4dmVENXU1MWZUUmJGRnhfb3ZDTmR0NTZVa2RtNWdKd19oZWExT281dTRCblI0aWRUX1NSekZNSkpWT2htTG9rbHd0TXFVbndiV0R3QmRmamo5M3l3b0tsUG1vNjJ2R0c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778742000
-    },
-    {
       "title": "We have Eagles' 2026 schedule with dates, opponents and holiday games - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUm16Z0c3eWZqRkVBdmdlN3dnUDBVakpMRF9naE9OcmNfa3lRVUlyZExoOW01RW04YmwxQU9Kak45bk5BWVNfbTZ3RFNzSkV1VDczb0RQc0RLcGc5TnBYU3ZXNkV3Z21ZOElPdTQ0N1FXTnEwUkFUVFNyeVlSOElUX2U1UERpZVpSUVRUUFpEUHd3QTFfTE8tOFJRUU1PTGpncUJLYnlFUWJuRFJKNmZELTFnUldWOUxHSEs2MjUteEdCbXFKUlhkU3o4UlB2ZVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1778742000
     },
     {
-      "title": "Eagles 2026 NFL schedule release, live updates, leaks, time, opponents - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMExicjJOTV9kbjBBak5Za3RvajZQWWNlTTN3bW1DUjZlNExXZVc0T1pHYWpEb2pZQmVxM0dhVWNoSy1ZYjZ3bVhvWWQ4Rl9Rb0dBckhMZEFhWUE0NDZGdzRKd1pjM0lpUWtjejB4TDI4Y3RfZGgyS2Jta2pSdE9VWUFTUTlpUVlQMVVmTG1pRG9pMElvOWRjdG14M3VRQWR0V1NVaHlfcWpFa1NyOTZaaHlWNExjRjNWZGRMMDA5RGRLX2Z3c2NlT2NHYUdvS0tSWG5Ldy1zRFhYemo5WWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778742000
-    },
-    {
-      "title": "Photos: Eagles first-round Pro Bowl selections - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWEhuRXRWNWtqSDFqbUtoZnZzaXN5Q1lYNUR1cU85a1poRGpuRXlxdmswZGVnNHdNMWtGRFl3aXdtd25rX3VPLXFpbW9TNnNaelBPeWI2dElET011S1l5ckMwWkRVaEVtYzBlWUlGSi1PRmU0WFFUNk0xenJGT0pYMEYxdHZIZHZqVmFRNTY3Sm0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778691835
-    },
-    {
       "title": "Jaire Alexander explains why he left the Eagles last season - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTVoaU0zZnAxOC02YWFpTEEzZ2ZxeFdmNWN5OTVWbUNPRkFNSzl1Nk83bGdnRVBCMS00b0J5M1Z2VkpDSEYzUWtDYVpOMWhLU1VabFp3dG1qMWxiazJHaWJSWTJad1N2TEhlbUtHbGtEWFUxRW5oSXJ6Njl0ZDhhcnFLSl9Lb0JtOE5HeVZtaDFHczUtd1dRVWNUTXZMUHhsVTE0SjJ6TklWLXc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "Eagles heading back to London to face Jaguars in 2026 season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHRTLXpqM2FKMzd5U1NFQ0MzLVRnRWozNzVRYnVsRFVvdlZQalhTd0FoLTZXcG1seUEtdkZBQ3RMcU1nNU9uaGNjTGk1TDFSQnVBZ1I1WFZpU3Y3cnJrNmNiSFBnQ3RuZ0lFMi1FWFdQMmdSMHdXZzl4WC1RWnJDLUVrN2FmeU56NjhqTTlhR2lNQ01sQXBHSF9aTjVLRXdXaWRYSzM0YnhpaklWS1ZLVEpEd19HVXVTUC0yY0hocnFaSFd3N3RtT3ZR0gHSAUFVX3lxTE5zdWZ3emtvbHVHdUZraEtQZzVOclF2NFM4MUM1NHFyMXdJQk9hVGROZ3BSeUlhSVZCQjlfTzU3bDZzeUR0TDVuUXdJRzFXc0MyQTBBZkFtWFVBc04ybzFVbEZHaUpHOURNRGdRbE4xSFBRckF2THc5X3dlbFl4cy00RzNhX09tclZIY3NNNXZWRXBTdmtEWnI3d1NvQ21Jd3kyQmVFOWs2WmZYam85MEM4bzdKQ1pzbVlyT1RpbTZ5bVVDemFJdVV5cFkxQ3VnbGlZZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "Eagles travel to London for a Week 5 showdown against the Jaguars - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWZpZnYxOXdoZGpyVklETDhfUVZnWjFHVmtQVU8wOEhwZE9zeHJGRXVpdnhLRUJfZGtORk94SmJoemNMOEhiZEVDX05ubnBTR01Vbl9IdE50b0RkVDFrYVdrQ0RCU1lhUkhnV2N1V3luTXFiUmlHX3V5bWhQLWZ6TmZfLVdxY0dUTWhUcTBub3FnaHlUbG5oOWZpTGlpdVI1eWotYzV2WGpwX0ZIcmRnMXJaODFvLTZXek80?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "Eagles mourn the passing of All-Pro TE Charle Young - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3pKV0VQVXJBcUFuX3NON3hNUFgzYVV6dzA5YzBFNkJaWTVaSk9HeW1QSVY5eHl1dk91dnRKSmZmem1VdEZMZzBzVDliRXpYcWpRdnNHQUV5VTRGMFlic2htOFprOU5GN294dGpWSF9WamF6YTlYSUFDUkEtWlJ4QjR6NmJPOEhQdFZoRllkTzVWZUV0c3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "London calling for Eagles. See when they're playing Jaguars overseas - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUnNSWGYzbUlFcUxmbE1neW5RR0hHbnl0NXgtaGxETTRVMkt4TGFNWVR2SDNLTGlTZkhMdFhiZjVCYmdlYTlqWjVNNm9JcmZuUmd6YVFndzhieTJJanFmdS1VUkFwWDZIQkVRczFIRUNtUFpfX2M5Ry1XZEJQVnBVWl9xU2J0YjBMaXlvdFdnNVRpenFrenlSbXhiaFh3RmRWZ1ZLUU5WRHhSRWl6amtDeDlOYkZ6cmdXdzlWSjF6MFc4UmVydElWZzRHSFIyUjBBc2xnVWxpOVJ6akJmZmpfNA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "Fans, businesses already preparing for Eagles game in London - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFVYZmEwVFJOVVRzbWprZzhKSlpwUnNRa3F2QnBYOU5EWU16YjNWWExjQ3Fmd3dTbjdnbHFYd2NwLV8tTjNvYnduZmI2M29XT3cxQ1pMT1BKWHZlU3h6QjYtR1dvdEE3dVJLb29uQU5MNmJQREpNa0c1UzNBME9tTUp3dHJFOWpEeGtTZdIBkgFBVV95cUxPRjh0T3RaSXZ4S0J1QV8xZ1I1T1pxOTcwNjhsZG9pdDVsRWhJWnZaNVdwb1NsN3pITVB0RHRGcUNlbHhSQ21EZXhNRW83Vi1Sci16UktsbUhNYWZ6VWVTQUsxZWRPRU1EQjU3RTNrQVhvRnM2bGFiUU1IMUFIYTVtMHE0OWdEdXh1OFJWcWpocnNJZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "Six Eagles players who should have elevated roles in 2026 - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclliZXhPb0lpZEtnS2lmUld6RHJnZXZEaXAwNk9lZEZDWlpJQUxwQmtCT1BmSlZHLWVGLXdGQVFfSThWWWZETDBQQTdTXzlfQXdURDVPYkVCS0VuNWxFZ01MSGJKODU1Z0dBcm5UVlNsVUZwQjRRVTJvdUNhZ3dUVmUzRUFmcU5oOTZPWjk0NWhIdFB5a0lQY2xzRFhpT0FkWmJ3bkRVdU0xOWlXbjVFQTJhZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1778655600
-    },
-    {
-      "title": "Who do Eagles play in 2026? Philly opponents ahead of NFL schedule release - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFJNa1BtQ2hZZXRmSm1YWGlrT0JCUU5oV3FRT05kaHJyZDBPUzNfNzVNU2U3VmszWkJ5NHIzR3ZBdTRIWGRBM0FWSmNuSVVoMmJ6QU4zalFjbjNCM3pKc2c3Uks5Ui10eVpsb3lUcXB3WTJMRWhnUUFYOXJsaWQ5UzRUUy15MFRDQllQSmY2YWcteXF4cUxUQnpUWG00T0VDLXUxT3ExWnZ1Vi1RaXZfVWViTXFFWFFfWUJzRWtTRXR5SnE4UnpEVWZWQjhfUDl6cVJCTUkwazBNUExVcm1EanVWNA?oc=5",
       "source": "Google News — Eagles",
       "published": 1778655600
     }
