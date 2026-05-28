@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-05-28T08:43:13.912901+00:00",
+  "updated_at": "2026-05-28T12:30:05.116631+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Predicted to Trade AJ Brown, But There’s a Catch - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1dKaU95a3ZYUUhwV0tfYVlnMUpaR3lXTkw1U0ZxbjltQ3d1NF9GYktVSm9HOUVKUmdJYXQ4ZXpiaGo1eXlhLS1nOFN6UUV0S2lpQ0x1andaZXNqMk9vWlBVZXNsd0hYVUx1NXpHajVNNTVEeFExcTFOVE8xb05MVU1FZjdJWjg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779926820
+    },
     {
       "title": "Eagles Trading A.J. Brown To Patriots Might Already Be A Done Deal - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3VORzN6Ti1pR1I2Z2R1UFJiLVllUUJMdHBPdDFiLWNQWDd4cWtYTjJuaXQySlRlVFdtbXpXek5fcG83cUsxQzcxSzI1SXRVd1ViOVZDeUhUWDBLMVpSRUFWdFduS2tVVEI4THB5VmJERGhkeU5JempHT0x3WFAwWllZTHZTZFloYUFSd1NUR3BPYWY4OHc2Q2RjS2RVd3RtMnBFLUJQa2pscGNxRGQ3c1JrSQ?oc=5",
@@ -127,12 +133,6 @@
       "published": 1779881707
     },
     {
-      "title": "Eagles News: Philadelphia’s most underappreciated player - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWh1Y3BFU2F0UzhkYnpPMmw0NmpBLWk0cmhMaHFDTVp5NlhsN2JiYi1oM0JZazh5MTFNdm50Zk5BSEQ5MnA2R1FDMWtManZzMk9OX1VPdmNLNGNjOUdIN1Z5TWY0b0gyV1lDRktRWHRuVzVpOWdlVXpTR20tUmpBc2xRQmxmNFJFSVdNc2pmRXdORnJ3dWtCZnRtM3FNOEc4d1J6VA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779881707
-    },
-    {
       "title": "Five Players Eagles Could Sign or Trade For With Their Available Roster Spots - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTE12b09hV3g0RW1tWVQwSkNLYXJYSlFOQjMxazU2QXpHS1NTTEg5aWQ1ZzBZOHdtQm12U055YmtrMUNhRE5BYU55ZjJMcm9YVEluQlg1OF9MOXVoelNnSWV0Z2R6ZFVPRHdRNjNRZHdBbU1KaWk3R3NhM0ZXQnZQczRjY2o2eUVrZk8yc3FPeTJic2JHUkRnMGZhaG9VYTVBdGhwSFFHRWU3amNPWG1sVWJCdE4wNGZLSm13UVA2dHVKNVk?oc=5",
       "source": "Google News — Eagles",
@@ -151,10 +151,10 @@
       "published": 1779828060
     },
     {
-      "title": "Eagles OTAs 2026: Players To Watch At Each Position This Spring - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3Mwd1FtQnV4Q3I5cjJIeGVEeXN1OXhCb3hfaGJOWEJoOHVlMVc4NzlKeEM3UlhjRzhGTWRMbDVjeExTWkZQTXY0cUExem5oQlltRWRSOWV3Y1FHREtXc09HS21nUlJOVFBxQXNFZm53bF9hZ1ltemt4WktsWDJJSmtFYkloMmdxTHNXdUxQN3AtWTI4NnNtS0E0V0dRZHc?oc=5",
+      "title": "Eagles News: Philadelphia’s most underappreciated player - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWh1Y3BFU2F0UzhkYnpPMmw0NmpBLWk0cmhMaHFDTVp5NlhsN2JiYi1oM0JZazh5MTFNdm50Zk5BSEQ5MnA2R1FDMWtManZzMk9OX1VPdmNLNGNjOUdIN1Z5TWY0b0gyV1lDRktRWHRuVzVpOWdlVXpTR20tUmpBc2xRQmxmNFJFSVdNc2pmRXdORnJ3dWtCZnRtM3FNOEc4d1J6VA?oc=5",
       "source": "Google News — Eagles",
-      "published": 1779810066
+      "published": 1779809023
     },
     {
       "title": "Eagles News: Patriots writer says A.J. Brown trade is worth an “overpay”",
@@ -245,12 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2tUQjNZSDMzSXZOYW1LWTVjUnFoS292YmY5dFJPV2pDVEk0czVMWFlrQlI1ZUNEb3lBUURHRHNraFBlVHQtaXliN3Z5SlFlbG1yYTB5cEJYMXpqaDdoaUJLd0Vyd3VYbHp4alhTRDRDemxMS2ZZdUdxQVJGTkpybUduWS1sLXMtSFRjSW9PaTJGTnY1SmlWLVFHelNqeDhSM0pwZFdkOHBQRnJPd2FncjVWUWVfTzVxOFdxVDYyT3hzQ2FOOG9pSk9XNmRScU5UV2Mw?oc=5",
       "source": "Google News — Eagles",
       "published": 1779629686
-    },
-    {
-      "title": "Vic Fangio's subtle hint shows Eagles undrafted rookie could win crucial job - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnhiVHN4aTVWS0pGaU5XZ1hVYzRQMHdKWDdsQkNacXB3cWFWZVJPRXJsRlpVLW5yRDVHYzE0UTM3VXhDZGNOWnZlSmVDeDFVNnVoOGxMTW5mLTFYZlZvXzhxRF9tZWpUUDFFSWNkdzhSYU05NExfZzRNRGVwZG81UkRCM21UUVRCelJyZVVHTXVUemNGd0pzWjk2NGJ4NklERHdKbmQ0QlhKd1NpZTA2UlJteXhQZGRJX2dPRXUtdGtOZFd5X2MwSlNfUG1qdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779620402
     },
     {
       "title": "Eagles Unicorn Could Stick Around Longer Than One Year - Sports Illustrated",
@@ -361,22 +355,10 @@
       "published": 1779373980
     },
     {
-      "title": "Eagles' Nolan Smith arrested after car clocked at 135 mph in Georgia - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0ZuU2hRQmNwZHltNVdJM0dkTG9ZSDd6V1lIWEFUZ0hpY29MYndJeVR2dlplX2dyX2hnMnZnbE5Ec0JPanZVb0d5UnFyRWNzR3pMQUpzUjZTbURua1FZaUhFZVRhWVd0MWduR0FtRW9vakp0NjctUlBLdl9iaTNCbTctTmVNMlhKdHJ4QURrdy10UU9seExaOGNwalRITTZHN3I2dDhScmQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779334620
-    },
-    {
       "title": "Philadelphia Eagles' Nolan Smith Jr. arrested for allegedly driving 135 mph in Georgia - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rRTdJcWJ0dHBBVjNTZlc1UTNtRDhqd2ZYeGVBVGZPbFpCaTBHLUp1RGtxcXlFajh5M0M0aUF5YVVhQVNyOVlKTGlNd1dtbW9Ic1d5YlREelczQzJvek5SQ2NMeTF3MkNfY05yR2FIUFJGRVh0ZVpGcGJB?oc=5",
       "source": "Google News — Eagles",
       "published": 1779333480
-    },
-    {
-      "title": "Three Rams Players Eagles Should Consider Receiving In Potential A.J. Brown Trade - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnVfTTBiZTNJV1laOUpRbXpXT2JGMlEyMUU1ajBVTlZpUjItblFjRkVrdU16Z2tpY2FMXy05OGJEVDRxNVJkeHZuVkRKd19kZWZnRzhscUd1VGFLM2R0bDJkTVZ5WkpqVng2b0xwLUZERDBZODFPQTFEUTFvRldqSjJ5dEI5Y2ItX0s0ZlpqWmZUM3hDejhzYzNMMXpZamltaFMzOG9oTHBsNmtlOC03ZlpGYnRTazJ6YzhYV3VWYVBmN05ZWHRJ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779321666
     },
     {
       "title": "Eagles Add Defensive Presence in Ayden Hamilton - Eastern Washington University Athletics",
@@ -401,6 +383,12 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjNUeUIzYlQxLXk1T2VIT25CTUJPRWVqX0hBNXBhaVk1UzJGbk1fVTNxOWVmWm1nUlVqNElFdENvZlFnbVB2SmhCZTVJS0V2LXd4MVJXUVZVV3dyQmszV3ZTV0NfdGZ4bDZ3cHRLVlFkRWlpSWVBbTBMLWgtOHVJSmtLMENNYUdKNEZjOHBJSUpHYm5aUlNHMzZmc0JLbGFWTnR1b0ZHQTJaZUI1ZmRVR0xsMXE1NHNyT0liRXFvNXZ1anVlR1pZ?oc=5",
       "source": "Google News — Eagles",
       "published": 1779268260
+    },
+    {
+      "title": "Eagles' Nolan Smith arrested after car clocked at 135 mph in Georgia - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0ZuU2hRQmNwZHltNVdJM0dkTG9ZSDd6V1lIWEFUZ0hpY29MYndJeVR2dlplX2dyX2hnMnZnbE5Ec0JPanZVb0d5UnFyRWNzR3pMQUpzUjZTbURua1FZaUhFZVRhWVd0MWduR0FtRW9vakp0NjctUlBLdl9iaTNCbTctTmVNMlhKdHJ4QURrdy10UU9seExaOGNwalRITTZHN3I2dDhScmQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779260400
     },
     {
       "title": "5 pressing questions for Eagles owner Jeffrey Lurie: Tush push, Jalen Hurts contract and more - The Athletic - The New York Times",
@@ -445,14 +433,14 @@
       "published": 1779087600
     },
     {
-      "title": "Eagles ink Eli Stowers to rookie contract, leaving just one draft pick unsigned - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0Y5TUpIaDFlSUxsQ0haZ0djQ3Q5SHZqR3JaZThEWHdJeGpkMDE1ODJBUEVjY3I4UmZDS1plcVhJNjlHV0FtRXhoNE9FdXhHRF9TS0hHaVU5aTh6b215WVEwSnJmcm9XTGFkT3lqSHFacGJycTM0ZXdidGtCTDJJeERFaE54X2VDNHVWRVlGajQ5NDBmQjVzaTkwWFJFRC0xcHAzaERVdW1LLVVRMEpWbXB0TjZWczJkQjZ5dm9BY2UzRWJ6?oc=5",
+      "title": "Three Teams That Could Steal A.J. Brown From Patriots In Potential Eagles Trade - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGhCSnpnQkNNV2NGQ0U5YjdqTHRTMHhWWHY1dG1DNXR3UG5LZlVuX0NuQzEybk5uUlQ5bjlRYTRVX09zdjdYRVNUYTFaSjVwbUhTZjVZZlRCUkU1YmtFd0Z1ZzlGaHNLQm1idEhsT3pleDEzaW1pWjFkU0ZkWlRTbXFnSUtYVzh0WTJQcVBmekxPWWpReDNzTkE1N0ZWYXpUWGJQZFk0Y3ZWWGxvSG9Fenh1RkFsamZSUXdBR1Zaa0RzXzQ2?oc=5",
       "source": "Google News — Eagles",
       "published": 1779087600
     },
     {
-      "title": "Three Teams That Could Steal A.J. Brown From Patriots In Potential Eagles Trade - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGhCSnpnQkNNV2NGQ0U5YjdqTHRTMHhWWHY1dG1DNXR3UG5LZlVuX0NuQzEybk5uUlQ5bjlRYTRVX09zdjdYRVNUYTFaSjVwbUhTZjVZZlRCUkU1YmtFd0Z1ZzlGaHNLQm1idEhsT3pleDEzaW1pWjFkU0ZkWlRTbXFnSUtYVzh0WTJQcVBmekxPWWpReDNzTkE1N0ZWYXpUWGJQZFk0Y3ZWWGxvSG9Fenh1RkFsamZSUXdBR1Zaa0RzXzQ2?oc=5",
+      "title": "USA Eagles Experiences rebrands ahead of Multi-Year Partnership with USA Rugby - USA Rugby",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1F6S1BLb3c2cVN0bUF2OUE1V3RiZHI5UUZxZWpCWXFzLThJOXRoaFdkcDAwb2JnRGZxTDdtWEo2X05SX1Q0R1oyMEZ0UDIwcTFJSl9RSWY4NkpKN2hNREJKYTJpR1RCN2NvdXM3R2UzMTVGTWhHdzhEUTV1ekIzc1BZWVk5R1Y1SXk2a0F6RnJlWE1lY0RXc080MWs0MW5XZUhjYzBjOEI2NnZL?oc=5",
       "source": "Google News — Eagles",
       "published": 1779087600
     },
@@ -487,6 +475,12 @@
       "published": 1778914800
     },
     {
+      "title": "Golden Eagles Finish Strong on Day Three of BIG EAST Outdoor Championships - Marquette University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd09vVDJnV3pJS1dyelVja25hOUxkVUtubW50MjNXM1ZISWxhRjZfYzd3NkpuVW41ZnlvOUNNNEpQMHNIcHdmam5XclVWdEJzZU5EbG9qNm56Smo4SWJtLTlrOXhRbm1pMW9DdUNZcURubHFhYVN1OFBRdjJRVUk5R0FuTlROeV9ZWlJNN1pRUTBISzZQNnFiYS1GUThKN0dtMF9adDlwcDdoMGd6VHVfQU1FSThnUk11OGF5eDBELVQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778914800
+    },
+    {
       "title": "Ranking the best Eagles road trips for 2026 - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXlCU2xWdFVBeWtfcG5CaGhKb3hXMzd3NHZ3N3NTYUxid0thSXZYdnNrM0tMWktjNVdnN2pQYmM3d1R1eno5WTM4OVc2MmhQZFBGSFVBaTJPTjhHWmduZnNqYnZYTWJILU9zZTNjTk5tYzhNSXNKbHhua05fUDRUeFhjcGFYcHFOeDNlWkNZV18tbEJKMVlBYXFCYmJneHhKTFFzQV9CYlpnTnVMMGxGYmxteHRaQQ?oc=5",
       "source": "Google News — Eagles",
@@ -513,6 +507,12 @@
     {
       "title": "Roob's annual annotated Eagles schedule - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3VKUnR0U1UwVTZQd3lDUFEybE5nR09tTkc4Rmdyb1Bmam1SYWltc0JHUkF1VUlyRTQ3VWl3YlAzaUstdFcyeTZSX1RoRTNwcGhJY0ZUOHp5V24wcXlCTVdqUFdhajl1ZFdpcTdQLU1JSjdIdzJjRk5PNkxzOGNyem81ZFphay1iNVVzeHZTb3VHTDlSSzhhQXBqc2swWkRlVFNFRWVpcVRUckNMMkg5U0lsYXBXSWIxaXFxM2ZPRW1nZGhtVWV6bGhQQdIB0wFBVV95cUxPLVBRMDBlQkh0bm1Xc05zbU8xamZDR3Q0bzlVb2UzNWJaZE5TLU8xamV4bEJzNkZlWWdNWUJJR1JwSDVBWUEtcHZUR0RNeHpWMmJOMTVicnp6dUgwXzNJMDR1RHNzWkVFaXktOEpXQzJaSFNjN2hVRTZZd091UVVRaXB5MWtwamtZTDVMNzRpTGJScjh1QUg3bktPLWIweXlhLWN4RlBCTklkUE93MHN3WnRGVjB4c1NDd3VLaDZfNENYbEFPelBDQnAxQlhyMDg2RGVF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1778828400
+    },
+    {
+      "title": "Jalen Hurts Campaigns for Return of Eagles' 'White Kelly Green' Uniforms in Schedule Release Video - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3l4RUZfcHhybXBCNlJmREtjQWtIMmt3eS1qLW5oa3E5TUFRLTZRbHhNWHVxM0RUMlFfdlVzdXhfMDlweV9XcHZicm1RQUQwVzU3MFp1anRrNEE3aGkyS3VaZXNwQ2tVVnBhbUN2OGp6Yk5NTEpXbDZyMFlMOF8wSkJCSWtOa3kzT1hrclZYSmNjZlMyc3Z4em8zd2x6RndvUFJmTTlCN0RsNU1oUG9IOHl3WDk4cXRGNi1ndlctdDVuYjU1clNzMHpR?oc=5",
       "source": "Google News — Eagles",
       "published": 1778828400
     }
