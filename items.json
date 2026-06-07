@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-06-07T09:47:10.825595+00:00",
+  "updated_at": "2026-06-07T11:49:48.232945+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -11,6 +11,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDRvRTZnaE5pWGZzOW1YejdEYzlUM2NkRnBNbGFLNklWQkgwYlZWYWVzRF9yVUVnT3Riam9GYUdhZ2JHTW9ScVpTQjl2bzlWVHFvQkNEV2lGM3ZkaTFNR25zdVMxMlFtX25tek5iRGR2RDFnWGVXTHRLVnhpOXJHRVpLUTdkbFU?oc=5",
       "source": "Google News — Eagles",
       "published": 1780778609
+    },
+    {
+      "title": "Roob's Observations: Even with A.J. gone, Eagles are still loaded on offense - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0daWlB1ZmIyaENFZ29SSHNQc0U3NGFpV0xoNmU0NGtnZkp4S3RaRklrXzgzZDZXaXF4cnB6WXpxa2tIRmphQW5ILXRKUTBGc2labVdSb210S0RJVjFTX29iMGtSdFM1cDF1M3pfUldUeVRLX1pMS05CLXExT3FTQ0VRQXB5TjdHVnZOb09kNVJMbDFKWEh2Y182bFplWkdZa25tLWdOUjNWZGI3VWlGQtIBuAFBVV95cUxPTHQtRVF0QlZsdktCc2JfMk55WGkzZjNSSm9VZGl3WFZ5YjNlWGQ2SGQ0cUhRcDBqNFVRa1hPUm5NQng0OVctUEhCQ0JIV1BJaEMxTlRLR2Q3X0twMGhDRWlvbVN2ZjYtVmZ3eld5dWhRUGZKdnUyUDgwVklVcnlqZGFIcTlaUlFVWUVmdVNTX2E3b3h2eFRoZlZRbU52d2JiaHU4WXJTX3B5M2FQUFlsaEUxSDRxM0Rv?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780770131
     },
     {
       "title": "Eagles News: Jordan Mailata says Sean Mannion is an “evil genius”",
@@ -127,12 +133,6 @@
       "published": 1780573024
     },
     {
-      "title": "DeVonta Smith Breaks Silence on Eagles' AJ Brown Trade - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTNUdURhS1d5TzF6aUhhcDFxdHQ2RzBsMTgzM1RiTGdsVVRzQklLemw3ZnZ5ekc0SFRiYUhIdXZtMVF4YW1RdElDb2YxTm9UeUlYb2hyZ0s1RHUxZXRUWlM1V1hHekd2VTQ2Mm84eGgxSWwweFdLbEt1R2JKZHJMelE4YVZRbFJNdmd1eg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780540800
-    },
-    {
       "title": "Eagles release Brandon Graham as procedural move, re-sign Chandler Martin",
       "link": "https://www.bleedinggreennation.com/news/176366/eagles-release-brandon-graham-as-procedural-move-re-sign-chandler-martin",
       "source": "Bleeding Green Nation",
@@ -223,6 +223,12 @@
       "published": 1780436220
     },
     {
+      "title": "Eagles-Patriots joint training camp practice dates announced - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3QyV2hNcHRfNHVaOEJuaVRrNmV5OF84UWtUSXFScDgxWkNiM2VwanZ3al9RMGowNkhnWWZZSldETUIzVllQVkp0czJpb2VPTDg2UWpLU05MenA0ZTVPSXZ2VWEyNkF5R3owQjJ0d2JXdS1OTlNtdGhab1ZDYVhfblVxZ0JBRUQ0VzNFSW1UWFUycWxEb3dTYkV4Vy1DcXpWSjlwbXAtUEkzUjZJ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780428685
+    },
+    {
       "title": "Eagles sign veteran running back ahead of OTA practice - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeG12c1J4d3RWajlva1pvMXJLaUFBYUdUTTFyclo2SDhzM2lfREViY1lkU28xYmNhaTJkdFdHVWJQVlVJckRrZUFzVFFaVV9xQ0RramdFM2ctRGg2U01LY2tMTENYWDZCWWlVcXZTbm96dG4tUnJIRDBteV8zVE5SOXRDX3lmU01YLWhKSVdEWXhGdUs4eFNJY21GMW5jRjVDRHpXeWVuOHYzSDNGM1RIcHp3aXNFcFNnYUHSAcIBQVVfeXFMT2tpYTlHdVBYbmM4aFdPY3JPUmlPcWhkd18yUGpjNzBsak5IcFdQUDZnWFMySXh5OElxcUR0Z2JSV0dQSDItaHFGNGFtSmxtcEZTWkZxM1ZSSjJPTmdPQWp5aXFKc3l2MmFmNXBpMDhoVzlWeERNUUEzYUxZeFBUdV9uZUNfcjZQYV9zWGJzOFppU00wdl9qR2hPVzdienNaTngtdGNYazBIUW4yUnF1OWhQMjBlQ1dvem9JVjhqSWtyR0E?oc=5",
       "source": "Google News — Eagles",
@@ -257,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEs2TnhRZW9yUWFUSVpVanowbXFNTk5uYjdnaGJsTEhhRXJVU1AtLUVVNmRadmRZY1VRZndtT0xFSE41UWVQVFJTWmRvQTlYQVlZTFpvZEVIUXZKT1lMR3M2UldSZzdzT2ZXWFN0cWk2cmhEaVI2OFgyTWx2am9ENkNwYjI1ZFl4MldFTA?oc=5",
       "source": "Google News — Eagles",
       "published": 1780366194
-    },
-    {
-      "title": "Howie Roseman explains why the Eagles traded A.J. Brown - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1M3VTB6Y1MxY1Q5VjliUWZJSGtmeWpyZlh4d3JkWXYzZjMtZ1p2ZEtyaXV6MmJFSmRUV1dVeGM3aFc4azdaZG52TlY2MC1rb2pfVUNTMU9Qc2pKaUs4dDdZLXQ4ZUVtWEtHX2poam50QkM5aHc3bTJxbXFrREdMYmtRRGRLM1pHX1QtM0x3SmJjZFg1bDBteG5TQXl6SjhHcEhVX3Fvem00T3lDTXV1NEZMbmlBTjFfaGE0Wk9VWFDSAcgBQVVfeXFMTnBuc191VTBlcFpHYW15eXVsQzN4LUNfeUQwaDNyd1pDYTdlZWg3QUJuY0xnWHUyc3g3OEtwTGIxQ0g5YWRlZ3hKWDFLR2t2TURIVDE3aGFnNTl5Y1FiYU9vdFhEOURmbGVsTzY0MXVYeGl6ZDRRTFo2UVpBZUtuUGlZTUFVOXFlUFFyS3JXSUdIZzR6cVVQbW90WnJYejRPM3JYMXdscjJ2aDNCTkFRbXI3TXh4RkpGMEFRRlUtenE1RGt3NGNrQ28?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780359941
     },
     {
       "title": "Eagles GM Howie Roseman explains why he traded A.J. Brown - The Athletic - The New York Times",
@@ -311,6 +311,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmJhU0tKNFVra3BQS1I3bkc5bi1NWXRoaVZvb1ZWdXY5clNuUkJuNko0Y01FbzdmNVhkWnl4WDBmQjhYd0JIRzBuWFIxcGNEZ2xjdGg2b1dmbVI4NGI1dnU0UHJ4eGxTQlZZemhtamJvRUxkTzBjT1d1TTBYM0VrVkxocFpYNm0yU2hCMkNqWWg0ZnA4MnV4X1FxQXZPQUpmdUVOYUJFQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1780345841
+    },
+    {
+      "title": "Howie Roseman explains why the Eagles traded A.J. Brown - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1M3VTB6Y1MxY1Q5VjliUWZJSGtmeWpyZlh4d3JkWXYzZjMtZ1p2ZEtyaXV6MmJFSmRUV1dVeGM3aFc4azdaZG52TlY2MC1rb2pfVUNTMU9Qc2pKaUs4dDdZLXQ4ZUVtWEtHX2poam50QkM5aHc3bTJxbXFrREdMYmtRRGRLM1pHX1QtM0x3SmJjZFg1bDBteG5TQXl6SjhHcEhVX3Fvem00T3lDTXV1NEZMbmlBTjFfaGE0Wk9VWFDSAcgBQVVfeXFMTnBuc191VTBlcFpHYW15eXVsQzN4LUNfeUQwaDNyd1pDYTdlZWg3QUJuY0xnWHUyc3g3OEtwTGIxQ0g5YWRlZ3hKWDFLR2t2TURIVDE3aGFnNTl5Y1FiYU9vdFhEOURmbGVsTzY0MXVYeGl6ZDRRTFo2UVpBZUtuUGlZTUFVOXFlUFFyS3JXSUdIZzR6cVVQbW90WnJYejRPM3JYMXdscjJ2aDNCTkFRbXI3TXh4RkpGMEFRRlUtenE1RGt3NGNrQ28?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780345674
     },
     {
       "title": "Taking stock of Eagles' receiver room after trade of A.J. Brown - NBC Sports Philadelphia",
@@ -519,12 +525,6 @@
     {
       "title": "Agent's Take: The Eagles and A.J. Brown are headed for a split. Here's what comes next - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDh2RF94aWpQWlJRM2txZWczSnA4R0R0UGM0SlRURnY1QzVZYjZrTnFCbFBDWWdXeUR5aXFxc0dGR1Bjd2I2OV9IZGd4YWNGSWlYelhiUko2X1pGMHVnclpic1RleFZzYko4dUZ1a2RYS0dpVm13UlRrT1lUNGJXdEVQbXFaZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1779865200
-    },
-    {
-      "title": "Eagles OTA Observations: New Look Offense Unveiled; Veteran CB Steals The Show - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTc0RFNlWExpN2o1MTMxME9nek1sWGJGMEtvaXplblIteWFrSzNvS3ZSSjBwUkQtZkJrRy1fdUxLYkdIM09rWENsWXVoWDFsZ1liUklhSzJ6cXlpNTR3cXc2YW9kWHpsNnZBek1ZWW1RcERaTkUxTWtqTnE1cXBxSEFaRU5GLVhOMXc4eV9ZRXZtaHdNRGxiSFV4aVFJeUZfMnhJT1VjTDd4Vy10M1hic19nSmtTZFlzUV9JWFdQUjN2UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1779865200
     },
