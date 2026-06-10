@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-06-10T08:30:53.761041+00:00",
+  "updated_at": "2026-06-10T12:23:14.630828+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Nick Sirianni addresses Eagles trading A.J. Brown",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/176474/nick-sirianni-addresses-eagles-trading-a-j-brown",
+      "source": "Bleeding Green Nation",
+      "published": 1781090671
+    },
     {
       "title": "Lane Johnson is not done yet - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNERNaXhpS1djOG8wa1RSWTJHVUxyR0hseC1ZMzF2ZUFqMmxhNkh6YWZlc2luZVNwNjNQVHpFSG94RTdBUjBWRU84cE9aRmVacExVa2F0V1liVkk5Vk1KTzZ2Skxrb3hUcURKelJDamlTOFRuWnVJ?oc=5",
@@ -19,10 +25,10 @@
       "published": 1781049647
     },
     {
-      "title": "Eagles minicamp observations: Recapping a busy Day 1 - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0hXVktmLVpadEVTX2R3Rl96QXhWNkFPaE02dWVJWTREencwTHp4X0dOY19jR243VlNJcVJyQ2QyNlQzTUF2UGFtdjNmX00xUF9qbU9GOUVlN2RmYzZQSHJORzBvRWpNZXc4UkhQRUVUNmRxRmZIaHFYZmpTQXJvTHFkTE9YY2ZTU1ZzLTV5Y1VNNHRqLWNjaVRJTnlSblp5ZVFBbE9SWXMwd1ZXU09SRl9FbWJRVm9FZ0QyYkVR0gHGAUFVX3lxTFA3MnpQUFp0VW5NcTR5cTFJR1dxM0t4UzRLQ0Znd0U0ZXRWczkyZ0lsQVJ3bEhCZUhwLVE3THJnZ2dEQW5sbEwwM3NJVUcyY1pkS0Vra3JLdkg0dkRmbFBKRUUyY0RxVU80UmQ0V2hyTGFOdHktR2x5UjF0VEk5ZHlVbllaeVZMdDdrVDVibU5UejEyaXA1NW9nRklXZVZMU0wxdXN3bzdORjZhYl9mT0FUZEFQTFFLOFBMd2xIMU9hWU9LQVoyQQ?oc=5",
+      "title": "Pats WR A.J. Brown leaves Eagles message in final visit - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGh4VFpMcE9MUm5STktwRFJIeElYVGpxWHZfMUtfa19WSU1NT3JfRUl4bVpGVVBjM3lEZmIzdGN5SFQ1XzJ2NEZ5WFNhZWhwM0RrTE9aSFk0V1JrRTZXdnZqbndXaVRMa241bGplaDA4MFcxM1BxbWZ6dmxuYmJLODh2dkVaNTlaYTNKaEdqRy1LMUpVMHJNTUdkV1RfZE9sVUxPM3ZEZ2JjUXRiWHFadU80Tkw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1781049497
+      "published": 1781047481
     },
     {
       "title": "Eagles Minicamp Practice Notes: Defense ahead of offense thus far",
@@ -41,6 +47,12 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVjNaN2hFZlJtUkR6OUxkaE44bmF0eGx2LXJmQy1XNC1CdGRGYldCY3VKdk1kYWZQTDQ5QjE2WjkxbGdSQkRRR19qOHJVS0JYaFN2X05DUENyZFdCcGxuNktIeHU0WWp4RnhzUDJuazNnMUJ3c3hpRlZVdW0taUFrYU10bDJlUDBLX0NGZjdhcXdJcWtZNW5Pc3Q2SVNsd1hMTG9sb2xESkI2SDFWM2VIcTJyZFpIYjh4amdRV3B0M2pQcnpBN2dBcjRmVEtsOUhaLVhuYXZ0RjVQTlN0RG92c0NGMmxrU2FoazB5WjRqU0JSY2ZIQm5z?oc=5",
       "source": "Google News — Eagles",
       "published": 1781037600
+    },
+    {
+      "title": "Eagles minicamp observations: Recapping a busy Day 1 - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0hXVktmLVpadEVTX2R3Rl96QXhWNkFPaE02dWVJWTREencwTHp4X0dOY19jR243VlNJcVJyQ2QyNlQzTUF2UGFtdjNmX00xUF9qbU9GOUVlN2RmYzZQSHJORzBvRWpNZXc4UkhQRUVUNmRxRmZIaHFYZmpTQXJvTHFkTE9YY2ZTU1ZzLTV5Y1VNNHRqLWNjaVRJTnlSblp5ZVFBbE9SWXMwd1ZXU09SRl9FbWJRVm9FZ0QyYkVR0gHGAUFVX3lxTFA3MnpQUFp0VW5NcTR5cTFJR1dxM0t4UzRLQ0Znd0U0ZXRWczkyZ0lsQVJ3bEhCZUhwLVE3THJnZ2dEQW5sbEwwM3NJVUcyY1pkS0Vra3JLdkg0dkRmbFBKRUUyY0RxVU80UmQ0V2hyTGFOdHktR2x5UjF0VEk5ZHlVbllaeVZMdDdrVDVibU5UejEyaXA1NW9nRklXZVZMU0wxdXN3bzdORjZhYl9mT0FUZEFQTFFLOFBMd2xIMU9hWU9LQVoyQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1781036469
     },
     {
       "title": "A.J. Brown’s parting words for the Eagles were dripping in arrogance",
@@ -127,28 +139,16 @@
       "published": 1780936247
     },
     {
+      "title": "Eagles have a clear salary cap edge with NFL’s second-cheapest defense - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT1dUX3AtT3lDNEJyVUZtMUk2amlzbTFzQUhFbnFoMUFqTnFJUEN4ZW51MS1nTkUtLUY0VFZhQldLTXVrcXQ5ellFT0Q2UFY3NjJoOFVGLWduRTRCV29HVzVRLUJwNWNOTHRERTQ3c29jVk81MFY2Vk1QMHJ4aTZVQkVob3l3WFJKbmtaa3cwYXdIWjR2amFmelNVQkhuNTlNY0FveTNGZzBGWDJBVEZicHludGU2WTYzclVUdmp0UDNtY3ptNHdCV3pRaUpUTTA2aDFaVU9OdVdBdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780929420
+    },
+    {
       "title": "Why Josh Grizzard still decided to join Eagles after not getting OC job - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV2RsRW9LUTFEeUdaMVdUWUozVi1vZHoyVTZON0tTY1c4WThjTjJZUE1lbmE1WFlsRjRWWENGcTVZdG1nU1RtMW9mSEVXUTJRdUI1MzJDdHZFWk5HSThONDQyN2IwbmpyV2UtaGV5OTNzc0U5RVhJenNWeVVrZFd4d1NzeERWemI4MGVZa1dMT1NINzhNLTdlU2c1VVBHaWJ2SjFDT2I4LTNveFloclJYMU1iZ2ZVY0tVdnJ2SjEwUHluR21zdW1vcDYxdENuUHpvQzR0LXZMQk0tV0h5VHpjMkdnUkhJNU9tYTh30gHzAUFVX3lxTE51S1ladDczYzlKZVZVMEwwclhMYzhsTTlTUndIeEpVR182c2hGQ3lXUWd3Zy00b0VVMzhhZ3g5SFEwa2hrSDZSWlVVZmR1S2JELXp4c09ZeHhoRi10NnRleERHRXlRQVo3Z0tqY2loWlp3WWMzajB4d2hETmlCZnFxbWp5RkRPdzBMRnE2OFdOYmhLdzhmYXRrRlpHSUVTRDN2ckk4eFJzdVdWR3MzbXg0YmZtdS1takZTVXJnWTFSUWRsbnA0ZlIzUllaTUE4RFBwZ2tRRVN4MGlKSTJ6a1FHWV9ka2FZUHVXVTNDejdjdDBINA?oc=5",
       "source": "Google News — Eagles",
       "published": 1780916400
-    },
-    {
-      "title": "How Eagles 'Evil Genius' is putting on 'a show.' 5 to watch in minicamp - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdGk2bmtGUXpkYVNrMG1DWDZNTzlXbS1HdWxLSmF0SWxYSG5JU2hfLXowYWhCT29NWk9hUUthdTc5bzBSV0xpdV9MN1JTbjRDYkVNaS1IZm9MSnE2X0E4WnZYREJWSGE5ejE0WTRZZkxTcy1BVi1icC14YXU1TUY1QlZFNDdOM05adTVleXNJcXBCQnRGUW94dE00N2N5OU9tRVItTlkxMjBUM0ZVblJyLU9JYU0yanc1eEdjT1d5WVpzMjE5Vm5DMlFHSDduVlg1RjYwVUprMDA3NmVnbGZ1aU82Smx4RDR4?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780911660
-    },
-    {
-      "title": "WOLVES RALLY TO STUN EAGLES 3-2 AND FORCE GAME 7 - Chicago Wolves Hockey",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOak96cE95dU9jc19abUNURnlNUGlxcUxiNDkzazQwQ0thdTFQZmxfVUpHYWFBMTVnaHlnV2R6UjNfdy1fSlduWEFCQV9GcC1vNU5qem1lUHFDQ1JyVWlUaHhMdFUzbTdhbjlIRDhEVnotNlhabmNFLW9yM2ZZbWtkRzQ1UVp1dG5IRUtleF9SWkxjd0hO?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780891555
-    },
-    {
-      "title": "Wolves Rally to Defeat Colorado 3-2, Force Game Seven - Colorado Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3V1aXNiVlNDTFY0SW5JRjgwZUZlT3hEX0Fic2VTWXRHajJJWEdNVWctMHp2RlhuMWZvWkt3QlI2UE5OYU1jZGM1cDFxdmVXYUtBcmkzeFJsU2FuOUhub3ZuTFF6anhPbEVnX18wa1l5QTRoQWtYT0hiVEx4Y2xEX0IzcEdCS1V0NnllaktmMmNIRWNtd3F5cXdvRQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780887469
     },
     {
       "title": "One Surprise Eagles Cut That No One Could Project After OTAs - Sports Illustrated",
@@ -185,12 +185,6 @@
       "link": "https://www.bleedinggreennation.com/news/176414/eagles-news-jordan-mailata-says-sean-mannion-is-an-evil-genius",
       "source": "Bleeding Green Nation",
       "published": 1780757773
-    },
-    {
-      "title": "Eagles waive Brandon Hayes",
-      "link": "https://www.bleedinggreennation.com/news/176408/eagles-waive-brandon-hayes",
-      "source": "Bleeding Green Nation",
-      "published": 1780755272
     },
     {
       "title": "The Eagles signed a few guys - PhillyVoice",
@@ -301,28 +295,16 @@
       "published": 1780416887
     },
     {
-      "title": "Eagles practice updates from OTAs - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZG9JYkctQ0ZLRV9hRUdCQnZadElaX1pWRlRjT2gwOWtLbDltQk91RlRDUklja1JuWTZuMXAwLV9GWnlkdXo4YnVBVjJCdjd2T0duYUJyMTM0ZS1NYnZoVVlWTmFiQVo3ZzZfc2l0MVIzTTIzMC1HM2VzNWhkSFR2WXNETm8xQm8y?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780413411
-    },
-    {
       "title": "A.J. Brown breaks silence on Eagles departure, relationship with Jalen Hurts - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1dKbm5FT3B0Q2g1TE5JME5ZckFaVW8yeXVfTE1nQnRsNHF4VWJTcGx5dmVmRm9xSmdZdU9OWmsxRjhSX3pRalJ2ZHNWTjRYX1FXaVRIT2UzSC1rbkZrLVJsazlBMWtpYVlPZDhJMUhoMjlwenZzWUtoaTRQRERXd190OFg4WTFLZ0sydmY3M3ZzeWlzdl96ajNqWVhwM1lQSGdKRUZ5bjNQMWdwQ1YtX3UycjZxYUh6QjhaYTlFMS1mWDhLVUREWG5qR0o5NkXSAdcBQVVfeXFMUE5aY0lpV0F1VkZaQk5oVmRUNHV4N0QxY2tzNFpkZzdETXVPMUFCQ0UwQnNmS1hqTG1GREdkOGw4ZTVQSlFveHkweU5odXFJVUdybHJmQVpvb1hTZnc2OHVaZmVtXzRRZ3plQ1poNmZ2bjNhMjNua3pubnk1NjdlUXNiOEVEbk9TYUFXTW1ZYWdmczJWNWxDWjBNNHJMVlp1NEx5S1pqYkg0UTlaUWRJTUpvUVFmZF93Q2huQXhmTjZvckdoSlF0bV9wcndUb1ljZjBnNUFHN0U?oc=5",
       "source": "Google News — Eagles",
       "published": 1780408146
     },
     {
-      "title": "Eagles News: A.J. Brown trade grades - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQU05cW1paTlReWJLQk5BMGFYVnRqS0RDQThSMHBYZm1keWFnS19HeVBYaDdBOF9hSnY0MERoLUlsaVFQak5OTXA3b3p6X1lVX3Q2Ym1UcnNibDNGWlM3bTVuS09Ibm5kVmhlY1oxek82R19taTlLMU9sY2RaZkwwd1NGcmYxMm5NS0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780407376
-    },
-    {
       "title": "The Eagles prepared for an A.J. Brown trade. They’ll still miss the superstar WR - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1h3T1pOYTN3MGhBbHYxNXotdDBKcm1VXzcxR2trQUdGNnJyc2VkMFZXOWtkUjZZU2U4WFJJa3F3ZEYxSjdlU3ljYlY4NVlkSEx0NU91ZWlZRUozMHVOMXQxY1MzYWR0Z1lhX09KeUJKaVR0T0h5aFF1WExuRHVpWHU0dUJWWVBDSTJmQUFPZm5Ddw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1780401322
+      "published": 1780383600
     },
     {
       "title": "Eagles GM Howie Roseman explains why he traded A.J. Brown - The Athletic - The New York Times",
@@ -439,8 +421,20 @@
       "published": 1780297200
     },
     {
+      "title": "Eagles trade A.J. Brown to Patriots in blockbuster move - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXVQQWxvcFVBRzdvY0JnS19NTmVDU3hMMk9ucy1uS2ktaVYxckVlWC1yWTluUDBlTzN3R1dpRElvYmR5YmVrQ3hweTZ2S19VcW50enBvZm1mZEx5YlBMTm9ESldzLXdOaDJGWnkyRjFyLXNiR1lrd1I2Ykk3ZzBXTVhxZ3E0VExnc2lpcWR0ekpvSGU1SXFiUlNhM3VoR3lWVXlXczJJYw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780297200
+    },
+    {
       "title": "Eagles trade A.J. Brown to Patriots in exchange for 2028 first-round pick, 2027 fifth - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlNNRDNtQWN4cUFRRTN2eVR2VUxFSWp5aVZ6cXhJdmpjVlhRUGNfLXBHR3RydkI4bjBDNlEzcHprUm9RZkxPWC14dV9rejZDYlV0RFJDUTV1Z2dPS2dkMzBfbGRLRGpkdzRyU1lXUV9DUlE4a2VKdGFmanRDdlRCZm1IeUZaRWpVNWxXcTVsRHdVdzFhdHJkSWdHSy1xT19LMDhzeWZ3ajRuQzVQcExJMkJETUpfNW1LYnZqQm9SWmhyVHpRckp5ZWJTQjh4RTEyTWZXWFF4NXZ0aFRsYXNB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780297200
+    },
+    {
+      "title": "How A.J. Brown should be remembered in Philadelphia - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlJWcjdNMDlvbmd0RDEtX0ZfZ2U0NGdILVM3ZDZZYVRET0M3NGRPQkRZc1ZyVW5KdmxfcDl1X3AzeFdZWU5peTVKQTJSR21JRHg1bnVqREFOQXFqMTRwMFVrNWJWOUVxbmxyZm1CM2E1dUxWb1NDeUJJZlU2a3BkNzdNS0xXczRseUV3bV84WDdtamtpaW10XzVjd2FvcTBZa1RTR1ZxNDBMOVhnSXQya3RkeVk5Q0htTmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1780297200
     },
@@ -457,12 +451,6 @@
       "published": 1780297200
     },
     {
-      "title": "Eagles trade A.J. Brown to Patriots in blockbuster move - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXVQQWxvcFVBRzdvY0JnS19NTmVDU3hMMk9ucy1uS2ktaVYxckVlWC1yWTluUDBlTzN3R1dpRElvYmR5YmVrQ3hweTZ2S19VcW50enBvZm1mZEx5YlBMTm9ESldzLXdOaDJGWnkyRjFyLXNiR1lrd1I2Ykk3ZzBXTVhxZ3E0VExnc2lpcWR0ekpvSGU1SXFiUlNhM3VoR3lWVXlXczJJYw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1780297200
-    },
-    {
       "title": "Eagles add another former Packers wide receiver to the roster [UPDATE] - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2ZCVmFuRjFMNlFZdWlzUHRGR1hYa0s1RzZMZlhlX0d4TWV4cXBPQ1VBY05PVEgzU21neG85amxtUHFpaE9kZXRfTzNvWE5jUGxTaFczTm1yeDZ2R2FERDdyWFhYU3NscVVlWktDTlZpV1NuMURDQi02aWRJSmFmOTVxVldhV052UUtmYktZUGhYcnpKNWZLcExicVpmTGltZzkyclRNeUdaelZmLVE?oc=5",
       "source": "Google News — Eagles",
@@ -471,6 +459,12 @@
     {
       "title": "Analysis: Patriots Acquire Star WR A.J. Brown in Blockbuster Trade With Eagles - New England Patriots Official Website",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmJhU0tKNFVra3BQS1I3bkc5bi1NWXRoaVZvb1ZWdXY5clNuUkJuNko0Y01FbzdmNVhkWnl4WDBmQjhYd0JIRzBuWFIxcGNEZ2xjdGg2b1dmbVI4NGI1dnU0UHJ4eGxTQlZZemhtamJvRUxkTzBjT1d1TTBYM0VrVkxocFpYNm0yU2hCMkNqWWg0ZnA4MnV4X1FxQXZPQUpmdUVOYUJFQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1780297200
+    },
+    {
+      "title": "A.J. Brown trade official: Eagles send wide receiver to Patriots for draft picks - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDVKdXlPSGVHNGJSYWlHZWxra2FrYjRIenpJWkFMSFNkVlB1SkQ5Tk9CeHpmTFdDNHNGVmdGRXYtd2c2dkM3dXdabVpkWW9ZQ2JKVEszbnFISjUzRC1mR0lfdlZLRWxaN2pBRlZGUjRvR1EwbFZidGphaTJzSGNhZGxSb1ZUMUpQbXJtc1pZVm11dmJjRTZfbFBuNHhCWUpUZnF1cWJabXMtT0o2azU4SlpiTmd1RExpYXV4N05ONm0za0Nj?oc=5",
       "source": "Google News — Eagles",
       "published": 1780297200
     },
@@ -531,6 +525,12 @@
     {
       "title": "Eagles OTA practice notes: Birds football is back - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHVSY1pzdVNKR3YzaU1XOHlQVkhaSXhMQmticTVQZ2ZWN2MyZi15T3hieUFHSnhSaTBlLTEwb2ZTQlVlNVE1WmpfV3hEeUpCdUdCRDg4OFE4SWl3RG1fXzRMX3BucGRXbXR2RHVuLTdmQThHUXk3Xy1IOWwxRDYyUlBmUDJYdWlFd3F2UElJaG11eE16Y2FRcWx2VkFFWkJXX0tIR2VvNXR4M3JBai1DSHpDYlpKTGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1779951600
+    },
+    {
+      "title": "Eagles practice notes: Updates on Jalen Hurts, a new offense, the depth chart, and more - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDhscjhxVVF5QURqWWdwcUlTdTFLcWtQZHpHRXQ3c193bDZ6XzlZZE1JSEVnZm5fYjNPSHdsWDYzN2JDZlpPakZpRGNzZWhMNHVrNWo2dnUtaWx2SFgySjFXUDlDeW9WakNiNTVPenB5eVNrbXJyOHN5UnRLSm5GSWYxcWJkMkpkenNjZ2VBSi03U2JUQ2cxMHpFQWJiV3dRelIxSVhMNGdYRHo1Q01HN3hzcnZBZ2N6cU5zb0NUMDFRX1llNThjQXFxaw?oc=5",
       "source": "Google News — Eagles",
       "published": 1779951600
     },
