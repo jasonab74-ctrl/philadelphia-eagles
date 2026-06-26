@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-06-26T19:18:58.577824+00:00",
+  "updated_at": "2026-06-26T21:06:29.421303+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles scouting report: Moro Ojomo",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/176906/eagles-scouting-report-moro-ojomo",
+      "source": "Bleeding Green Nation",
+      "published": 1782497202
+    },
+    {
+      "title": "Perris-Redding to lead USA Women’s Eagles first ever Tour to South Africa - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDdLSjhPWlllUHhwcDFiS0QzakRjZllnSjJ2dWJTQ3R5a2dYRDgxR21fZzE4UjVHc0YzMkNlVmJhb3BBSGk1V091MTgxaWRlQWFtQ3V6eWU5THFUM1NKNUFjNGRGZGQtTlRDWnpWbzRqWVQzdUk4UnMyQU9pZUs2QjkzUmpHbUhFYlQwUFRUUVhNWW9tRjN4MTNLXzJTbWRWbkxJcnJ2bnU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782491488
+    },
     {
       "title": "Cooper DeJean Gets Honest on Eagles Trading A.J. Brown to Patriots - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW4wU1hHbUROSi1qa1pCeFZ6dHE4MnpWNzctMlFjUmlMOHN5SUpRdmFlZDN2Z1J1Wmg5VlEzTmg1aFM2RHFicVdONnVuUTlWWG1xSEU2ems0VHZFS0pQVzlESGNFVWh4ZGQ3UkJrRUNxVHAyMGlfS0NBRG05SFhobVgyQnV6Zlox?oc=5",
@@ -25,16 +37,40 @@
       "published": 1782479983
     },
     {
+      "title": "Eagles 2026 most important list: Jalyx Hunt - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3NNS3Rua1FEbl80bEZqZklTbHJCRWZJdlJHSHJIa2FKeTZxSDRCRldYSEtFdDVYdW1oX3M5dk53elpFYngxcm5zT0E3QXMwNzFHNnV5NS1LYm5iaWJwM0hmeFhac2tWaXpyWnZyU1poeEVlRlh3Z0xpOG0xS3AxTThwQ0taT05lbW9uV3R3RWhESmNZeHpZVEsyV0dPT19FQWZ1RzVGaU5fS0NMOG9DSDVB0gG6AUFVX3lxTE96eGlMbWNweHd0Q0Rkb2hpTnBKTVRBenBCaF9TWkt0MXI3Q2NRTUZWTzJ1Z21SZjZrY1dkNHMzcnpTbFNYLUgtNFFJZjZmWVZYTXVuQXhzY3VvRlhHNDZBWmwtVWtISE9PLVVRRjBOTTgyVjc0MTlxVFhPWGVqVHZ4dmE4dzhoNHNzLXFsTVEtQWNqMUJNWGY4MGFsaVFxVmJldXNRS01GOTJ0MUMwcFhrZm4xYkc5NU5mUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782471600
+    },
+    {
       "title": "10 reasons the Eagles will be a dumpster fire this season - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnAxRVpEdXhzYkQtdk1GWUozNVRLRXhKSmNFSjgycWtWcWFzZ0dnZjRzeTJlSXR1aV9YeU9zMVdpd3Uwa3FvdzRUNnUxTU9vTDQ0VDBpTFJOS1lzQjA1blJXRk9yNDgtQkwxRzNQOUl0R25FYnV0RkdJRExpUl9KTkNYaFlHcWM?oc=5",
       "source": "Google News — Eagles",
       "published": 1782469867
     },
     {
+      "title": "Riq Woolen makes strong first impression with Eagles - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTVWMnVJd0R0RndmeGczVHZZdkJucXVxQWxmYzlXdGFlMEI1YXpkMTM0YVVLMUhabExDSEd5NGQ3VWhNejdLdFc2SHBJSXBVZ1VJeEdQel91b3ZRUmJwT1RObXhGNHdSekxZQzVuX2QyTjVQd2NoR0JHV0xlekpyMVZBVmIwOUZJZ0QweXJSdlRTOW1PQzhqSnVpZm9VOThPLXcxNHFRSktLREF5cWNmS1ZaaGg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782468000
+    },
+    {
       "title": "Photo Gallery: Jason Kelce hosts 6th annual Team 62 at the Ocean Drive fundraiser for Eagles Autism Foundation - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMUxPeFF4UW5vM0xNSE5KRnhoUHBodDltNGF3UWl0UnVxREtqa1hzZ250Y19ZaDBVaDhzeDZEdXhXQmQza0puYS04YlpkY0FHODdzYTJLSDZ1T19lUTAtOXczdGdCZlBMZ2lKYjlud2tOSDRGRHRnd2tKRE5JaDFNNzhEM2kxeUZyNTg5N2YwQk9vM1JyX1U3MlNGMFhXaG80VVpDemxsQV9EalZ6WE1NNjZ2NGtaRFB3U0VQN0lQU2NaS1JMTzVKTWRPZklRVGtOeUpVQU9wSlIzZ1ZJYjBwS2Y4TERSUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1782430990
+    },
+    {
+      "title": "49ers Trade Rumors: Potential Cost to Acquire Eagles DT Jalen Carter - 49ers Webzone",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzlnbzlLWVlpOEZzMHdBdzdBM25lbTJGdW5LNTJBcXpmbFBiaUc0b0FWSnV4cFJ5T3lFQkVfRzBtOVpwRmwxSzViRU51UXFuZlpkRGRuUG00LXZiQmJSblgzcHBZVGRNTFczc1h2WlhER0dyTmpoY2lJaDVuQWZ3RzZOMnFlV1Vfcmgydw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782422460
+    },
+    {
+      "title": "A.J. Brown's rankings freefall fully vindicates Eagles trade - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2NRdGVoZWZRQTBfbmlQM1Jfc3k2NFhaZHE1dGM1RFhqZG9iWXJFYjM1U0xBX2hzazNVTWFVUzRmWjM4RGEwbWZ0S2JfNjgtYUNiQ2FiSFh3NFNCLTRQMnpnWmFtTUlvLTNZblFsQWpfc1F3Tk1tQUFZYUpTdUhCWXR0OHk0ZkYtY0xKY3h4QmZxTXdqZjRjZEdnbDR5UQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782417600
     },
     {
       "title": "Zach Ertz gets emotional talking about his time with the Eagles",
@@ -55,10 +91,40 @@
       "published": 1782403311
     },
     {
+      "title": "Zack Baun embraces change, sets high expectations for Vic Fangio's Eagles defense in 2026 - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzdTSFJBbTRfWDFiZWw0dHBwRjl4d1VmejVTU2xUTVQyMTZXb0dCendTcWFQd21CbTRob1JHWDdZeFJGZ1VzTUF0WnZZZlNwSDdyWW80bFVYWWoyVlRLWmZsNnNXaER4Nk9wbGRKaVk1MDNZNVFqdzJSQlFTQldqMmJsazI4WG5mUVRFbzByX0R3SzVPUXYydjN3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782391500
+    },
+    {
+      "title": "Eagles 2026 most important list: Nolan Smith - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0NZbkxlRng4UVZyOE83MGgtRnNFZ1NTUy1OcmV6TGVGXzVTOEMxSHZNYWdtRUd4eXVMaVhFZTE3b05jUjRnWGU0Rm1RQXlYbVJPalpoUEd1a1kwU3VHUzJ5d09ZMTdaZzFuYmxXLVh5VG00MUxINmpvcU5paUdlSldlaEVHVktXZFA0ZnhiRWlYUFpSeXBxNEJBSDM0bmg5TUJqVlE4TmlpYTB2VHExRXk4d9IBuwFBVV95cUxQQWt2WUtETGFJLWVkNzNWM2l5a0h3Yi1qNGYyVE1fTXJDVFJrRVVrdW9keDNFVEZjZ2FVaHI0Mm11RUFTQjBYVGVya1JDX2c4YXZ4RHJCeF9mTTVBa3ZxMFAyaTY5VFlOejZyNEVSbnVvUThBSnhNMjZ6VlVpMk00Tm55U3NtUlA0d2NYamU2eHUwNTcwUVRVU1pqX2o3X1Joc2lEWHZzbVpLSUFLbmdaVGY5STFlMHVoNktN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782385200
+    },
+    {
       "title": "Jason Kelce guest bartends at Ocean Drive in Sea Isle City for annual Eagles Autism Foundation fundraiser - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjBZQk0zNHJaRWlZVEtlelBqTkhrMnZHNWxrUklyYlNIS2JpeEN4Z19JekdVVFlXOGU0LThPUWhwaFViVWE5eGVwM1J2Sko2ZVFpOGdydW1yeUxaWTZQUWc2ZEJmT3RzRkQ2RlRFRVNxSkxndWVreFhYSXpCVExIMC1zNlNpdFlmdjVsQmFlX3RNakVkMVcydzBxSC0yWnVlR3N5X3EtRmJXbVhobkotTHZ0dERSdWs2ZmY3WDMzZ1lfSDE5Wmk0cNIBzgFBVV95cUxOWVVPeE1CZFg4eVhSclR2YnlFNERObGlhZ0x0dUNPelc0dEg2VE9QdXJrbk5pNEYtYWI1bEFZa1prS0VBUGN1U3B4b3BCdndPSDFxRU5JU0xvekM4a0hxTkhWb2hTV1hNeVkzT2Y3Rnp1T0lwVFNweWg5Z3hXM1BIbnlGVmh6T2ItYmI2WEdqQnBKVUZia1lPdjRvNkZjS3FYd2xpeGhHSFI4VzAzRXU4ZThub3BHWlJSY3RON1VyMWw0c2dkeXVjWDlsZHlzdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1782345260
+    },
+    {
+      "title": "Watch Jalen Hurts, DeVonta Smith Line Dance in Trending Video from Eagles WR's Wedding - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDB4ZG0wc0Y3UGFOM2lDX2FYUGRDMWtFc0pyS0lLTkt6NDFKZVZXWW1NTzZDRmxQLUpRc2ZuR2RLT21wZ3I2S1BtLUY5OFUyTFB6YkNUbDNITzF1VHJZR0Q4bEZUMXFMb2tMU1p3bkpmNHI3SGlaX3U3MU5abUlRRVFFUFhEaENsMFl6TFRZZUh1S2RmbXJra3p2THpNNEZOdTVNTHB0czQ4ZVZia0p3Y0w4VTcxNUQ4Tk9IeEpB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782333745
+    },
+    {
+      "title": "Third-year Eagles defender won't hide in the shadows much longer - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXZkRU9oeWRIN3JKT3haQUNYbVJkcjJCZDJtRFhtcHZXdWNMdzh4aVRneGd6WnZPTEMxS3BkTnR3cnNfdUxzbzdLZ2lzSzVxc3VzMmRneC1MSG5sM1FjZjdjUFBpbS1sYnNYb0tjWGJ2QW1iakJyUEpsc0FnS0xIQkE0UUlUN19FNFJMT0NGbWhrUWxfTHJxNHAtNEdxOFlWQTBGNnEwNW5SNjlU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782331202
+    },
+    {
+      "title": "USA Rugby Women’s Eagles To Take On Italy in Mansfield - City of Mansfield, Texas (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12YnFtaFg1blFRSzZkY1VuUTJ5WEMwQTVKenhKNlZaMktSWDZEUF9wX2FYdWkwbDFUQVRYTkZxOFRMa0wyOExkd2VqRnlXb1h6Y0ctR3ZudloyR2wzOEs3VWkxN2o2R0U?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782329922
     },
     {
       "title": "17 IDKs from the Eagles’ spring practices",
@@ -103,6 +169,18 @@
       "published": 1782315528
     },
     {
+      "title": "Eagles fans get the Jalen Carter contract extension update they needed - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem5ock1CQVFRVFlodExxZWtEMWZGdDBNOWhCZ01tdk0tUk42ck55YktfeXc4MEpzRTJnZGhVbUpLdjdwTEtKa2tpOXVVY29oOWQ4dWdZdFUwdEZ4M0VHQVpYemZaQ0ZHSDNCdTZEY1FBSWhLSW03MTdybDJRMXlIdXRmRjR5Tjl0cWoxYkZrNnZGT0E1SnQ5YXFIeWZCU2ZWMnRaUjRra3hiRXM?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782313201
+    },
+    {
+      "title": "Realistic expectations for Cole Payton won't surprise Eagles fans - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0Q0TVZrSHJPUFMyRlBBS29FbjM0N2lqMUtxZGZxMEtRYy12TkxDZ0c2MUVYV1MtTWxheElTZXVXT1I1X3A0amg4NFhIQ0lEalpiSUt0eDBBdUo0aWJrbDdBZXA3UjdLRDVtZ0Fhb19RUmdQU21mZTV4LUdRb2hCNnF5eDJELWtVVlBraUlYRHo2WDNOUFFKblFCSnZ3NjQtRmtR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782309606
+    },
+    {
       "title": "Inside Parks Frazier’s quarterback room - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnpyMWlqc04zWkZicEtIWTNWeS0wVDNGX2JXRXVleExOd2ttdUxvV1hUS2h2QkNiUG1lMHRKZWFlQW1uUmdDTnNOUjE2X3RnTS1nNXpBMDE2bXU1SEhWYlpPUjdIMDBDNVdOX3pYM3pna3lPaF9ZOHMxb3Axc1J6Qmhfa2NJQQ?oc=5",
       "source": "Google News — Eagles",
@@ -121,6 +199,12 @@
       "published": 1782306592
     },
     {
+      "title": "The Browns should stay far away from the Eagles' latest contract dilemma - Dawg Pound Daily",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHpVdElBTmx0a1F1YUs2bTd0M0o0N1BFMkE1Z0J6LU9JVF9STHdDVk05end1VkhRekxsd0VqNFU4d1VtRzkyUG1hTkM5bTl6azN5cTkyT0s1X3Rlb3kzb0p2T1lud28yUlVWMHlqZFVMTzNDNkozd2ZjOTNrMFVzUC1LOUYzNkZOSjNZcHJkNjJIbE52TkJGODBrTEZnc00?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782306003
+    },
+    {
       "title": "5 Eagles Bubble players under the most pressure ahead of training camp - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX21LXzFETUJtekxTQkdEc2pfaWduM185ZEJCRU1wTWtpX1lCcm9NUTRLYXZDblNFdDBUT0Q1V0h0QVdUaWVSVV9SdUV2RThTUFY1YUFLMjhvek9DbXFJVHJhTm1JMGh0TmtJeFlEcm45LS1WTGdBV09nNWhVQ0EteFY0aHctUjhya1ZXYW1SWlF2THdjZUFlQkZIZGRRT2FuT19HbnZqdWJ2dzhIbnVQTkdVUmozZGFvNi1nVHkwVU5ra3QyNGlKeGNjSWZ3WEVKanBCSUpkcGhzMzhkMEpQaE9Ud1NhanNDLW1SeWpnenNBUQ?oc=5",
       "source": "Google News — Eagles",
@@ -137,6 +221,18 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHJnMFdORXJ5bE9oUGZ1cWdua1dtM0NxaHBjbkRnTXFWU1FmbXEyN3BSLV84RWxlamhVdHZGMlhPeWY4cVkwek5nc2tWdG9kM1RiQ2VFZ2NrRlhKMEtteE5OR3VzcDdMbV9qY2pTRGQ3aVhBaU5qLXJoXzlKdjVYZEhaY0J1OWxJa0Jnc21zRjk4dmNtZVBibW5aUVlndEU?oc=5",
       "source": "Google News — Eagles",
       "published": 1782295258
+    },
+    {
+      "title": "Jonathan Greenard didn't mince words about Eagles' defensive line - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlNqdUtNeEVnbExzSlVxSXB0bko1M2ZxWlVnYmNZOF9QUUh1YXM5NTBfSnhxLUVramtJM1Exc0h0OTczZG5MUjBHQVE2UDFRSm9JRXAxRkFHUWJQSlozdkdiZ1pSeXdQbTRKbEhER29yTnB6Q2xJN1dqVHJxYU4yNHAycTdiMTByX2dxT0JETUhCQlM3eUljZjFpQXpWQk9RSUdsbU1tWQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782295201
+    },
+    {
+      "title": "The Eagles made a bold bet on this WR. Now he has to prove them right - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0cxUGtSZmxvekZmWm5ZRTNoNzR4VllpdEd6dEd6akRBTjJtdWs2b2h3bDZjeEJSZlJKaDVvSTNENUFUWGRDcGZBcDlqN0lLU0lmckhTSlo3cWdjVHFESGxDQWRxdlRKaHBOQXZ3emtVVGxSZVZfUWQ4VW1LVnFJMzJ2VVY0T0tMdUZiVURabkhCMnJmQlNjYzVyS1pKWXZJYXhhdXFDSW1TZ1ZqQS10elNxSV8tUkQ5OXJvWmVwM3RIYjQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782295200
     },
     {
       "title": "NFL news roundup: Buccaneers announce new play-by-play announcer; Eagles sign third-rounder - NFL.com",
@@ -181,6 +277,12 @@
       "published": 1782236530
     },
     {
+      "title": "Three Eagles Earn CSC Academic All-District Honors - Georgia Southern University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXNvUmc4SjVDaVVydHlWRUVWWHpOMl84bVdxbHYwdFpkWTI1WGZLb2loeTRWdWItN1hJSGVzb3RScU9pUjA3WHhSNUlOOVRhNnNHUTNUeVdxQlFoVF9hSERKaVNxdDAxZ2FQUERtZzdrVUJITEZqbEp1Y3Rmc19sWlk4VUs3NXBwYl80TTJxckRrTGdPenowWUc0eGhydldBM1FN?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782234863
+    },
+    {
       "title": "Eagles News: DeVonta Smith steps into covenant",
       "link": "https://www.bleedinggreennation.com/news/176957/eagles-news-devonta-smith-steps-into-covenant",
       "source": "Bleeding Green Nation",
@@ -203,6 +305,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlNxQzYtazYzbUZSQnBLeDJNMEZXV3VvOXM1LW1wbG84UC1Dc0cwenRJbGQ4eWhHTjNxZ0ZPUzdPckZrRThaUkdRZlgxM2lNc3I5NzR6OXExcnlJMmRIMkRPV3NlSF96c0tGSmRFa1FYb1dNTmVJRGxOd1h0NXhWczMwYUh1OGtBUnU1TlpOcnJWekNUWGw4RG42WFh3MFVKR09vX2dqaXVBc2xUSXFiZjl1VERhVjZuYlhldGZsNNIBxwFBVV95cUxONmN5cnhSbk5WV0ZMbVliQ2pEVFotX2pCdUgxOFNGVHFIcnVuQTJCekhTRE9ha1ZxYU5QZmwxX0Jicjl3WlNiRmxpTllfallCTG84UEZyQUZXdFhHclR1U0VkMmItV2JLNmZYU3g1YXkzbU5majQxN2RKWlBnOV9nX3R0eFRESGhST2cwX2J3QW9VTnpFSnc5LWNoTE1oU0FZUXY1WWdNa05DVkpfa2pKSDNKTGVEZFJIXzNMMVhsWmNoSGZubHZB?oc=5",
       "source": "Google News — Eagles",
       "published": 1782212400
+    },
+    {
+      "title": "Latest 2026 Eagles projected 53-man roster after OTAs concluded - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2hmdG14bmFCMlVQTUFLWk1ILUpjdTRyTXJfU1owYjk1bUIzU1J0Sl81T2l2VGN5ZEFvXzI1NXEtM3VCZ2tfTGVRdUJBYURNUW92cndWcnF1djVlTWVHbUdtNWZTUTktNnFXdU11YkpVS01zU1F3YkpmYkhuQUNCa0tUUDlyVUxQUXpYU1NwNlNJZ0pzMzRNUUpsTFlzS0RTOVQ4WGxybw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782207000
     },
     {
       "title": "USA Eagles tour stateside with Tests in Texas, Tennessee and New Jersey - Eagles Rugby",
@@ -253,12 +361,6 @@
       "published": 1782148209
     },
     {
-      "title": "Eagles News: Zack Baun says Vic Fangio is taking Philadelphia’s defense “to the next level”",
-      "link": "https://www.bleedinggreennation.com/news/176917/eagles-news-zack-baun-says-vic-fangio-is-taking-philadelphias-defense-to-the-next-level",
-      "source": "Bleeding Green Nation",
-      "published": 1782146349
-    },
-    {
       "title": "Wicks working to show he's ‘worthwhile' for Eagles with a bet-on-himself deal - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakFyZ0tJeUlwcTBHRTM0WndmUVpGVkFpZGRJVEtGbkZDdW1LMEs1ZTQwdzdOQW9pX3VsS3g3UTdRV3FaTVh5c3NwY3NWVGYyRU56UHJkLVp3MkROaWRqVV90RXJZQ2hkcy03eUU3OUxYaEdJZ1U1WkIxaXJ6Y1MybUNJR3BpS3RWNGp6azdGY1pQdzRRVU01azNqSEFVeEo4MnpwaFA2d3lBV1g2YkgyQ3BDRUNsNnNxTnVpMXg4ONIBxwFBVV95cUxOa09qM2hNQ3VPY1Z2dnczM24xaEJ6Q2Y3VkxVRkVlb0YtZGNVNDhsM05zT0RWZ2lvUTVTdDI2WkVzUVoxaHlJbDlNcVJUWDU1WU8yemVzUF9lMmI1cWwtY1lLamdCdEZJYjhuN0VvZXowSy0wczd3RG9MSUF0S3ZJZlNFdExxYWN5eDVxOHY0Q0w1R1FhNFBWUXh1QTBNS0t2WFZwMnRCUVpnV3dLOTdrZk4ycm1ReDJjajdoS1FXSzBBVnBnbkU0?oc=5",
       "source": "Google News — Eagles",
@@ -271,6 +373,12 @@
       "published": 1782144000
     },
     {
+      "title": "Jason Kelce is raising money for the Eagles Autism Foundation once again - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0liaTdiT0xFN3hOTlRSb3ZyaWoxY00tdTNmMXE1bUxSMGRqX1IwZ3JJZVFmS3FpdXpXYmJSeXM1Tzk4aEE0X3dHaXFiVFRZOERXVndjQ3ktb1lqVXJzV1JGOWZlclFQME80UC1nYlFLbXdZYnI4eXQ1SDVXSDQ2VVRCdU8ta2VVcmJKcFU5dHJFeEkwNW9CNDdibFAxUnd0eDJIQi0zYVh1MEIzQ19vaWNINHhsYVZOZjFrZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782141488
+    },
+    {
       "title": "Zack Baun inspired to lead Vic Fangio’s ‘next-level’ defense in 2026 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUNZemdhQlpCUjUyNTFLay1QNUl6Wk4zM2xFMEthd2JPa3JFWkVoR00tMHdDTW9GZ0loZml1X25ucGk0ZVRZNEFUUU5sd2JQbjlWQUxBWGlzWmljME01X0FRSVk0RHhfVGhzcmZsWUxwTmNTTFhFYTJRWHBPM0FPVm9PSmplSm9Zd2d0ZFRyaVBPcy1LT1VvUHdQUlVkOERYU1Rnc3lJUHBTUQ?oc=5",
       "source": "Google News — Eagles",
@@ -281,6 +389,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUhQMTZKMzBMTkZhdHhmMnVxV3hvQWRCRlhRbmNteTZZT1h0ZkVVbXhDZFo3NkJfV3FMYkVZeS1XWXJCMUQ5Rm1kZkNULXE4eEh5Y0hJUEYwWDE4MzViWGFIdjFuaHp6MjFMT0E4RmlfaVBJckFuaFFrbmtXbzBDUlRXQnhQODZJQ216enZ4SHlNcGx6blVoV1Z6WHRHc2QtdDRXX0tFcm00NDBULUZPalM2WnFZVVk4LWJISXVHQdIBxwFBVV95cUxPU3ZIYlZVYVFhMzdGd3FjaWVIM2txbEtMd1NCamNXTTRrWXJ6V2V4TUplbklsWC1mVEQwUmw0SlFacWpoRzNHR1JpNnlSckNVWGp5RFdLeUJlaEZfaTI0ZkZkSkJFNHliOTRYcWx2VTBHT3hrZFY3ZFNVMjNObzdjb05BdFpKYlZRVmlZODhQTlZCcW5KMFVTbjZFeDVEdm1RQlp0SkkzV29sVzhmaHg5TU9iYXJFZjlKaUhZZmxmR3hDVk0zY1lF?oc=5",
       "source": "Google News — Eagles",
       "published": 1782126000
+    },
+    {
+      "title": "Future of Lincoln Financial Field Remains Uncertain While Eagles Consider Upgrades or New Stadium - PHILADELPHIA.Today",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzRUa2tsQnlkRWNpYjRVZEd6WnRIcUNUbDhZS0JVdTV4bGIzUEl5ZC02U1ZiQTF5SHBaOWx2NmRfakVwbktOWGxsZnJhWElFTE4tVXpTUTZKbU9XbmtRbDNWTHZaM09rQUJiR3l6Q205RVBGand1cVdnZGFGc3RLVXZB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782118860
     },
     {
       "title": "Big Bear Valley’s famous bald eagles are under threat from a development project - CNN",
@@ -307,6 +421,12 @@
       "published": 1781973360
     },
     {
+      "title": "Eagles News: Is Philadelphia too late to the trend on offense? - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFvMDI0QnIwVG5aRnJGNXd0Sm1lUVNrcFdKMVdaZUtWRGVPaU9uNlZscXN6R2dqSldySlZtdEMyZEhtZXBpcmRqTkljamRUZ0RVMGZ1WmxyRzMyeExSNG9paXVSeXY2YnhVUk10VHVxeUNmbnhCWWJycVJzcVFsU2ZHakhzTlRjSU0tdmN0TnZENms3MUVUMWUybjZPelZ0LVF1N0Nsdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1781970395
+    },
+    {
       "title": "Jeffery Simmons contract extension holds meaning for Jalen Carter and the Eagles - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVmMG1uTjRjalVtaU9ZZzNTNW84aXFsOW1aT2lDVmdTcGE5OTc3amFtV1liNm1acGtTWFdXX2x6XzZhYy1Wa3VJM3h4a2Y2UlhyT0FBNmFxNFpmV1RrRk9UVE1NRGxhMlBOTXk1SERJWC1INUZNbUp4c2hNQlZndkEwVmtnMjlqT0ZoRVZsdENOZ05lTXV6dEZjOWJtZ1RpZHc3NlFzLTFfbmhhM2dKWU94Z3B4Nzg0bFNVdGVQSXluZnhKVUhj?oc=5",
       "source": "Google News — Eagles",
@@ -325,28 +445,10 @@
       "published": 1781892990
     },
     {
-      "title": "Golden Eagles Sign Saint Louis Transfer Emmerson White - Marquette University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWpNNU5JVmtrNC1BbzVCcmUyVV9sMWo3bUpaZl82ZU51bmdtbERsUWZJRmhZU2ZlSDI3X3ludGNqaE10SEttaGZQcWJJS0xXUEI1THFVX1drck1NTi1zQzVmbVFCbkw3VTI5Y0hoRzBmdVJNUDJhRk81a3JFRFZmTm9pbmNEWjlMWEpLTzJESkdpeWxiYllwazhWX254cm5HMXdabzBSQUdBek0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781885078
-    },
-    {
       "title": "From holding the tackling bag to coordinating the Eagles' passing defense, Joe Kasper is ready for his new role - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlBYeXBQc3lNWW5wa0FWTHhXWXQtc0p1MGNQeklNRGhvRVdMNmhuYXdRbU1GYW1jSUlnTEU5OUVfd0E5dzExRTRqSlRHc2FncFpSS1JsZUVLUUpOU3ZjSjdMX2VJaWtoeEFnQXFSNzkwZ0M5a1huZ3ZVN2F6X3pRLXhmXzVBTDBlRFJiaFJiT1dkYWpDOTZNSThwMGVkZi0yV3gwWGZtT3lnUFVhejRCRXJzNGVENHVKSkludzBLanB2OEg1Y2lmUkNINWx3ellIbE1BeG1NWWNWLXVsczdlYUk5VQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1781884897
-    },
-    {
-      "title": "Eagles S J.T. Gray joins 'GMFB' to discuss entering Year 9 - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS25ISE1fRHBMc0Z0b0E5cmNZNWRsTThnbXhtSWVIdkFsd0NlNGZmYXdKTkI4SmEwUmE0T3VjQnFzY2g5aVNEckRsRi1uM2J3VXBEOUs2Y2tZWl9PUTRoaE0ycU5qS2hVTTF1VTFiQUUwN0xhUzQ3VUJMc2daN2hyR2ZaYXN1M002Qmc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781876978
-    },
-    {
-      "title": "3 Realistic Trades Eagles Could Still Make in June (And One Involves Maxx Crosby) - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVNzajkySDcxRnVpbmJ1ZEJpX3JxRElhVGV2ZUlzQTNuX19PcUZORzhsa2t4TzBjbHltcUxaX3kzZmwtRHBRSTloa2dleklCaTBaOE9SdlFubi1VQkxoa3pPdjhNYW5pSFY5WlA2SXFVbWVFYUkxcUNTUmRHd0pnWnpBWnNaN3ptMUJMalpRRjQ0Nk5HTDJSNnJWLXBGQ0ROTm5qMWlMZFNNUWE4cEV1T3R3bGc4OW5HSnV5dGxqUm0waGpJU1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781874674
     },
     {
       "title": "Eagles 2026 most important list: Tyler Steen - NBC Sports Philadelphia",
@@ -361,10 +463,10 @@
       "published": 1781866800
     },
     {
-      "title": "4 Eagles That Struggled The Most at Minicamp Enough To Raise The Red Flag - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0VmM19YQ0tNYkM2MXpEc1IzUFN6X0R1SzZSTjFyZmV0Qlk1S3FfM0lubVJNSjVHQ3dZcjBNcDFxYnpIZFRXeGRGVzNTOVhYZ2hMcnFHWWtZVXZic0FkdmhfZEQ4N2g3ZHRaSDdOSnZ5MHA0UThaOE41bERIZ2RGaGFoQk1rLU9GOEdrUml5Zm1WTjdkdDVHcXlIS3piWjRiTDMzcUkwWkd4X2I2a1FXS1RFdmc3Vlh0ZXNaMndR?oc=5",
+      "title": "Why the 49ers Need to Trade for Maxx Crosby Before the Eagles Do - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk9IR29NWXRab0pBMlBJTVE4Nnd4Rjkwa2xoU1dFZWpORDBscDBTZmJFRmJBa1pNZTZ1M192M3FpVFQwTGhCbWs3eFN0NmZIWkhKOEpTTThmRUJNRHFJcU0xN1FZNXk2UmJma0JLeTY0Vmh1ek9pR2tucEJBVlJodVVOQjliSkxEU293?oc=5",
       "source": "Google News — Eagles",
-      "published": 1781823600
+      "published": 1781798403
     },
     {
       "title": "Eagles rookie NFL player comparisons: iDL Uar Bernard - PhillyVoice",
@@ -379,64 +481,16 @@
       "published": 1781766000
     },
     {
-      "title": "Jordan Mailata: ‘I feel like a rookie again. It’s great’ - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzVhbTZoa0RxN0N0VmlfNksyNjJHUXYxNGNiZjlhMm5OVGFTNS11elU1Yk1nbEE1cHpIekxaS0ktcXVtYlJFdG4zbldPcUJtbkpZS0VZWmpjc2N1d09QU0gzN000alhnc3FVWEM0Tng4MVBqT2FRS01mRHJfbXdMcHp6UUZlcnh0U1paLTZyNGVNNU5MWndV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781766000
-    },
-    {
-      "title": "Why Veteran Players Are Suddenly Retiring After Signing With Eagles - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXhoaDhaLTRVM1hIRmkzUkNRMXFsdkc4RUdVbUllM2VKSjNfNmhRZDNJSEg1RHAwRTBWN0xOb1QxUWhNTnhSNjVyR253N0hYS0ZENG9MaE5JR1dYV2xKUkIyUXNyNUYwcERGRHFIT3d5bnVkZTRPaUNPWmhzUk9lS2ZjQTF6WS00aHlHUHJVcVB6aE5ZUmpMckFJY0tRZ1JkaktOYzZ6ZXZYMS1JTGFhYkwzVjRkUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781766000
-    },
-    {
-      "title": "Eagles Are Set At Pass Rusher -- Even If Maxx Crosby Rumors Won't Go Away - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmNQT0RkRDFqSC1lMHI3R0ZVYnlBZjVXYUd1VUQ0cGNGNF9lMTQ3LU44WnFxZEx1em9KNXoweU40VzFuNlQ2c0dXNXdLVHFtTVktZ0NOejZoenR2V1JsVlZMMDhhcS1MMk9vWjQ0R2wwT0Y5LV9US1R5S3k2QTAyNERMaUZZbmsta0ZndlZGZFdWT0VrWVVreG9GNmZ4bDZReG9qbURqb3AyWlV6d2s4aTljWnNuck9VMXc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781766000
-    },
-    {
       "title": "NFL Trade Rumors: Eagles “nuclear hot” for Maxx Crosby? - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEhBUEh3NmFSUzIzXzBmUHFPTktiWVhGQ3lVdFBfVEpoQjRRdHRjdmdWbG1DbV91Snh2Umg5NjNFMkFaak1nS004NjJBOVlZNzYzeTZoZ3JwVU5TajBlbDNZZUJaZEJ1SzZfYkRBZVh5UlVGUEVHVGw2VUx6cmlSZDROdDBIVGVjN1pUalB5UFNqbW9NSEdWLUVidnR6N2V1?oc=5",
       "source": "Google News — Eagles",
       "published": 1781766000
     },
     {
-      "title": "Eagles' 53-man roster projection: Philly cuts ties with notable player, dumps 4 recent draft picks - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa1dOU2h4QzNWVGdESEF1MXFhRmduN2xMU09IYkhqSFlreS12RGJvMGFGeE1sclFManBJZVpVRl8taFE4TTBuaGRyTWljQmJOSENNVjloUzVtcFZUbWJEb1AtSE5VQ0FSc1lnclo3Y3h3NzdxRVdmN0V1RHBPVDJVeURDUm1KT1JTeUs0bnJ3b2VZVFl4b19nczN5cjZYeGxkMEUtSkxxSk4xTU92bFhfRkpER3hyT2gtaWZ4cWxYUmtIaW9GaGlqaW5PTEVwcE0?oc=5",
+      "title": "Eagles 2026 most important list: Dontayvion Wicks - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzFiSHprUjR2TXpXdl9OMDFYaUdndFhDd2dqYzJjaXN1WUQ1c2N4akhhQ2xGQklBYVdVM0RUVVQ2OUNWcUlTVzVjQ1dCZmxsaDRHRGZibnBVX20wbUJDLXlORVZYSm1TTENaSnJFVW9ibHpDRG1rWlV2VWVMbmJNNG1oQUhwUWNib3JmRmRrUlllZm1CY25ITHJpeTNlMFh0RkNGelBISnlpQm4tcERQdEJTSnROZFhJMHfSAcIBQVVfeXFMUHk4T3doYWc4aGcwNWxISHUzbGxSRmUzTDBYZndteVZKTUlWa0tzTnB1T3NySk5NdGVkbjBPeW1QSU85anNzY3Y4M1VYSlRXZk5DdUp1WFFsbHlKOXJYNjc1YTAxbnJSc1AxenhiRzJsOW4tVWxMeTVRaXlDR2htb05fNXhHUXNMZG01SWlfRnRlSVlhSXZtRHlkQkJHbjVuaHJGTG8zcFk2WkxDWXpVNnlsd1BJTVY4Ti14NTdHTzJIQXc?oc=5",
       "source": "Google News — Eagles",
-      "published": 1781715120
-    },
-    {
-      "title": "8 Eagles That Struggled the Most at Minicamp (And Hurt Their Roster Chances) - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGFFcUo3ajFiWkliQi1lM05NYXJXMTl6Tm1YLWVxOXlPYVNVdXh3QVRwN3Y4TXhPb3RxZUVQXzNjYURvNXk5M1FERW9rRm5GWDJHU296aHU5QjlqdDdNR2hXSTh4cHhqNUlxeFV2cDNCSUI1Q1Nha0NISnh6akZ5aEJsaFpaS0k1YkxkYldmTS1fQVQtZC1xcnMtOTAxVFZhN25JeU45RjM0REx6NTQtZzhQRy1jS29wV05lVjRQWQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781694004
-    },
-    {
-      "title": "Eagles 2026 most important list: Marcus Epps - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdU9jZjYyNEs2MWFyQ0Z0SU10MlEwbU93ZkFDNFRuRkoyNGMxMGZWMjJZTVVUYlVveHVoSURSSnZiMHg4U3ZDVFByRkRKMzlhM2xJLXlaWDg2bUptaTJnWUlrNWxXaWNCc2d2ODlvekRVdlZVTllQS2lIUUxuOGltMTl5Y1ZoWG91YUZ3dmpkVUVSZjhUXzFtYUV2V2tNaHE1RXAtMHZMWEh6TVpJVlNDTFZrMNIBuwFBVV95cUxOWFQ2eVlPQVJ1c3dvc2FsaUt1VG5SSFN3VU5zanNkaUlJbDQweFdkSlY3TE5mUnhxM3ptOWkxM0trSnJrcjdPYkF1Y2xjeWdubkFmbzdVd0p3R0FYSUtKUlRoOUZzQ2JrcVFQVEFULWh4N3AzVi16M181Z2FlWVpwWW9heHZIS1cwbTZHcDB4Wk5yQkNHaDZIZUcxbnN1N1p1OEZKaTYwTDNLajA0bEVpWmxkWkhXQkNZM2Fn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781679600
-    },
-    {
-      "title": "Eagles News: Julian Lurie is inspiring confidence as the team’s future owner - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1A5eXd0eTRGbkhBTWU1a3g1ajJUSnJIb1FkM1ljNHVQc3FwY0ZtR1BSZnk4MzFvSkxMV2JhaDN6SVhPVXVIM3lsOThuRE5LM2R0dGR0ZndBN3EyRUdwQ1RpT3BBNllYMDBOenVrd1RnSllEblRDMzIzYWlyaHljaEZ6UU5KVU5ubndsV0h2YTBEN1NoMmhveHJ5TUM3WmtOM1g4S1NpSkJlV2o1elVjckZRMFB1b0l3TnBuMTNhdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781679600
-    },
-    {
-      "title": "Eagles veteran's retirement just swung the door wide open for rookie - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS2E1S2pHZEhvMmZHNUdFYUM5dmplVGYzSlg1Wk80NlVlYjg3Nkgwa2tQeXJpSTVNbHFZdE9zbVBlX1hFdll3QWJHU2U4dDR6eS1uckRDS05NV19venR4V091WW5vQzFjVTF0ZDd1d0lMakR4akNVaFpfZFNfNmhMUW1PejVYd2VNb2VVbnVsRUI3TTBidWVWNWRlRVFWNjQxVElkeloxam5GbkdtWVV1TUVDUnhtbHE0MWhrVU1JbUI5NXBReU9Z?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781679600
-    },
-    {
-      "title": "🦅 The future of Eagles ownership | Morning Newsletter - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjBjdy1HYS1rN3pocEk5ZUI4Y0xrX1VOZDFoSmlOSlVLSmlSbUdLSnlveFp6OFM2SU54MkdsRkhLWmJrcEI5Rkx0NG1XcFpJYWhXQi1MdGVEOHd1Wi1RV2hVWGo4YUU4ZGRvRkE4WVN4S2JNTVZ0NTlfSkd6UVVQa2pQeHlkLWVlYm50RlI1YTlyZUFDREp0VE1ZWFlEQ2FQc0V3TXRRa29uVEFoN3ctdUVsU1JxN0FOczRXOENLU0NqS0pZeVdnQk5iZkNUQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781679600
+      "published": 1781766000
     },
     {
       "title": "Eagles mailbag: Better season in 2026: DeVonta Smith or A.J. Brown? - PhillyVoice",
@@ -451,58 +505,16 @@
       "published": 1781593200
     },
     {
-      "title": "All-Access: Everything Philadelphia Eagles Rookies Do On Their First Day - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWUtbnJ5LTRxcEJUZXJhV0J3d0hkbHg3dVhUOE40Q3NkdVp0dWd6bU5aS3BidE1WMnBUcmI4Qkl5ODVoMDcxNDkyRzNWT1J2OHJGUFo1Ml9QUTV5cGpYZmRDSjFWX0FyYU5VTHdnbGxZXzhvZzF1eHRyLXkyUU0tb0hTSmE3UV8xRnU4S2ltbDV4RWozYjBhZVZxSTZxWG05VDRGeDZVYWFiQWM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781593200
-    },
-    {
-      "title": "Eagles reportedly signing a couple of players from UFL - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEt0SGE2MHNuaFJYYmlZMExTZHM3NTB3c1dPcmxFcnpoVV94cVVHcUhrWHVkZmlyN0VMT2RoTnExSTBBZnF6RzJ4M0lKVFJHbGh6RWh3UFRGNzZfUUVqdXlxN3g2WUNPRW9nb0J0ekJCZ3pQTG0ycUF5bHAtU1czVzdyWTRYeUh0ZUJ2NUNDZkJYMktRd3ZEUks5eXFaMl9LTWlXQXpibmJJVTYwSFRGbE80Wjh0bUpXU0Y40gHDAUFVX3lxTFB0NzdVNnJoR2xkV2dieTlLb0JBSjJub2ZRTmpoTjlNWUVYOHJoNGtmYmFvU204dlBWdlFJaUdTYUY0UzBBRVRCNnpWR1dmM0VyTDlSVEhNckRldS01ellWQkctUUU5eWZMU21qMEtYNEl4TjRfWFRVLXl0eEFhR0EwRU9QSEZRclhkX2NNcmE2TkZ3elJFclYtNlhhRnpIVVFRa3hsbElsYThYbVAtN25UcUFtajlVb1dCSXhNbVZzZHd4RQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781593200
-    },
-    {
-      "title": "Eagles 2026 most important list: Eli Stowers - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXpKeUJwUHBQc3NidHRmWkQ3cXBoVjM0d1VNNEJ1U05DRHhhSWZkTzdYLUtHOXdYUndtS3RBZXZYT3lCQnFvVkthejF5dDhQZi1ZTUdnQ0FQajRGdnhSSDA2eW5QbUtUVmtHQ1JlM2NVbnFUUERuVzREeE40U0Q2VUN6eHhYb2hOMHFnekhYclduY2pxdElyTnVQclpRQlpyeFM4WXg3RG1ubHE5M3BIY3p3c9IBuwFBVV95cUxPZ0RBU1NZTEJUeW50cElSeFByMlE1cFJycXBGSzRqMjlvTDZ5a0poUy1jRlJnZG1EWW0teV9SbDJNSUV0OHdaZXZNYU5SVWRqTEkyYUZaVTRtUG1CbXQtNlZ4bjlJbnhWWExOenV1RERoNTloRkM4NGl1SWlQa25XNlBqV1JQMndxQ1otWnFBSWpwdWFqMVpWMWJUNDM4cGtCdlRkNFYxY2xXZkY5eDl6d0lwaEVhOEN0Zm5v?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781593200
-    },
-    {
-      "title": "Eagles place veteran edge rusher on reserve/retired list among other moves - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObUlXakJOcllodkNiNXhkRE1vSFRHSFRIR1E2SWx2WDB6M2tsQ0s1LWRxMGY2c2hqNzNsN0pJNElORGxpc2lnOWR4c2tienNmUUQtMnh4Tm9NWUhtQng3SGRSVFFrNk5Ub21lUEJXN256dkNBSWxsMHhWN1A2S2xTcXRxS21sLUMwQlRFRUJWaDdfR2trR051WTQwX3FrakJUNE1uZDdyQmZOQ1ZQc1ZBbFd2U01ncThUSm0tV0tEWjBWUURHb0twWjhB0gHSAUFVX3lxTFBGYmR5cmFZUlN1a0VFUnhsWFM0R1ljR29fM1ZIbkdSNVpyRnozcmY2bW5WYVlIV1hNNlpFTC1oTUlFeERZendzWmlKTDkxRDFITnM2MHBvaDl5Q2JlLXlnOGVxTDRnT0hHSl84RUFIc3lrZVk5TFhvT3R0a1lyV3RjVjIwU3VRRXZEOFdfclF3U2wtNDdsOWVTcS1yaV8wQTRvaWRmVkJ1NUw5OGd6QzdudzhuLUpZeVI1RjU5aXZyZ2c1WmhUN2NIUW8tTWdFbUt1QQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781593200
-    },
-    {
-      "title": "Jonathan Greenard can't wait to play next to Eagles' stud DTs - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcS1sdFRCdkQ0SVN6d2h2eHR1aFd4Qzl2WEpsN2FyZXFMMVZtTmRHUjU4VkR5N1o3YVkyOXJxLTMxbFM4VF9FMUxDUkJoZXJMT0RLeUIxUlFHYlhNaDdfZlMwQmV1WWFJVDRvNWRsbENzNXFoa1JOVW81S0trN3piT2JYYmpyd1JxeTVSb1dJY1JLWTZvQ1JoRUdiNVhodEdCSnN1RTIwSWtURHlaZDZ5VnRCWmxReEZnOEtqSENEd1NNX2RaQmZtSkZYQVg0Qm02WEgtdjEyR2Mzdmx4MFo5TkljbDdvOTdhcHfSAfIBQVVfeXFMUDRKRFQ5YW5GbU11dENGYlFBVUJ5NlFLYVR4WF9ScU5oZk9CTzIzUXVCUVRPTms4R2FHLVNIbWNJNEJFWGZFc0NhTlczc0kybHEwdHVtR2lpbnVnN3pneTBfZy1IU1JKdGx1NHVLaFN4eDNDWXlPQWI2R3Q3ZFhodEVxSVVsYWFmTUVMcmZ2WFpxNlg5dnY5Z1RQNS1XbVlYUHFUcVdJa0Fvckc0Z2pmeW5BWmlrM2MyM0JjRmcwMXRycUNCN3JsbW1IeTRlcEItZ0hrRVVWdm52dk9JbUR6UTM0R2RTT1d5TWxHaXNSN2c2R1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781593200
-    },
-    {
       "title": "Eagles roster news: Joe Tryon-Shoyinka to retired list among 4 moves - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk1XMnhOeDU3VVB5eTRmN3FmM3FWRVBHN2JXcUdLaEMzaDFjUDRwTjdlcmh2d3k1UXBMM0Itd1hjT0l4dzVaYkRCZ1JlVU5oZ2NJZTZCQzlGeG81TUpDVG5VT2Q1UVZoQjk3MThwOFV5cGhTcTc3RkYzUEEwcmVkY0dDb05KZ08wcTNKZzR4UXhYNEJqX0ZfcUxiQnpreWhwTUx1XzFyb0ZwaHdnSGZHUWp3cnFCZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1781593200
     },
     {
-      "title": "Eagles News: Saquon Barkley says Nick Sirianni “doesn’t get enough credit at all” - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXFzdnVRT3h6TW9TR3pEQ3JYLVFUQ2huMDhKOVktNjZlZDVuUGlJWG5vQ3JpY1E5NlBWUF9acU1IdUJtbllKY0NxTTF5SmwzUldGbWVaZ2RrMjBzRjVsTlFBVGtmdXFORlNHUE9KMWkzWlpFUkR5SHpKV3RBMktQOUh1WEFuazRJWkNRT1R6WEQ2YXBVWGl6X05RdDNLUEwyZUhZRjFLeHZ0V3MtMW9aT1ZpN3N1b2ZvZVJCaEdhTTZ5N00?oc=5",
+      "title": "Eagles coach Nick Sirianni is a hothead and a lightning rod. Just don’t call him a phony - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEU2ZTh2dmNEU1NycEZ0MWxyYWpDN3NVR1Z6X3h4TnYwZ056MmxBTkN4UmxGbGd3NDItTGU5WTdrYzd6a1g2TzlWWmZsRlRCUUxoRXpvRUg0b0ZfX2VzYTRBWDFSbldXNnp6azd0dXJFZFB1MGJib1BpZHFOMl9DQUxkbm8yUEdhcDJWS3k4T25PeXZiLWx0c0t3bmRTRFRKdVNn?oc=5",
       "source": "Google News — Eagles",
       "published": 1781593200
-    },
-    {
-      "title": "Concerning new Jalen Hurts report could jeopardize future with Eagles - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXpJamtaSnpQX0xQUzhSYjQxeV9YRjYxYUQxWE93YVk4VmtkODVEVGRJQjdRS0R4NHg3YjNXaGk3UERVRFlQcXpUY0VkS1JLWGlRQlpIeVNJU0Uza0dRMGxLT2NLODFPTVNEZExWMXVFcmN5NFI5X0ZzOVRyQWJxTTZKMUVLd2lJM0w2V0hRa3BPTEI0b3duUThPRG42YnJGcjVxU2owZ3RGWEEyM19F?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781535784
-    },
-    {
-      "title": "Eagles linked to former MVP QB to replace Jalen Hurts - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUtENEl2OEF5cGNDSHI0UnZydURidUx2bE4yMWpCT0F1R2xhcXh5bERQZWVMUTM1d2JmLUw3ZjlGNUV0TDdMSFVvUkVOTVU1a3BHWXU0YzN4MmF6TWlTX2lpbk9KRDVHV2sxMGhVb25xckhUWmpndThNVUN1TTNCMEtB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781506800
     },
     {
       "title": "13 winners from the Eagles’ spring practices - Bleeding Green Nation",
@@ -511,20 +523,8 @@
       "published": 1781506800
     },
     {
-      "title": "A.J Brown just proved yet again that he can't help himself when it comes to taking shots at Eagles quarterback Jalen Hurts - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUjNfREVCazgwV0xCR3duN3F4ZGN5MmI1Z2twdDJuV2NrZHBrZW1LQVRhVW9RNk1KMmtmNjMxODV0OUoyS1ZiSmtSeHM0Q3ZqNFlwUDhlQlY2RktkQjRqRHZxc01FLTh1RFRRandNYWs4bWFoV21UMkUyb2c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781506800
-    },
-    {
-      "title": "Eagles News: Philadelphia has one of the NFL’s most versatile players - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjFJamhWUTJKS09FVXBBZFNkRW55U3UtNDRwNXMxZW81U3AxNmVnZE1uczZNYlFLTVpOTlNaTnJEa3ZHckdSLVZVYmg2a2h2Sk9YTmxzRGF0UHRTbmlqS0JEblFueXplV1poLXVacnlmTm1wdl9jV1AtemZFbGo0STNhcVZ2b2VOdmQyZzk2dlEzdGFSMDNoLUdBZS14ZEhiNl9tRmNGVG1kbnBnRU50b0lNNlhaZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1781506800
-    },
-    {
-      "title": "With the punter position set, Michael Clay seeks stability at long snapper - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDJqUHVjeWZLS1l6NVNpbFF0N0tGVkx0TjZOS3E2SnBJRmw5NnhUWDhJamtpMjA5ZnJQZHVRRzQ3SVZaYmJRWHhNa0VJaWRkT0FKQVY5bUR2amF4MlpxdW1abnlsaTZ3eGU2SHRQbVlvOVpfelVRYVNITGo2ckJBdk00cUxpemNiU1I5aWVabXVKWGxsNl9KZUo4UGZMQnVwQjhmSU93QWh3LVFPWDdyalVyN1RxaUZHZnQ0Mw?oc=5",
+      "title": "Drew Mukuba is the American Dream the Philadelphia Eagles need - Go Long | Tyler Dunne",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mWFJOd19GMEwwM2NpZV95RmFOSGFZbHduYlBHQzh3VktCeU1WOEdCbWh5QU4yczFIcno2ajNYcWhfcDhGYWJQaW5GdFRtOTdJSzZlbmNJVXAxMFB5YnlmaGV0UDJhVHNMWE43Rg?oc=5",
       "source": "Google News — Eagles",
       "published": 1781506800
     }
