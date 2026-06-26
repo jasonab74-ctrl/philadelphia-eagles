@@ -1,16 +1,10 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-06-26T11:45:37.634705+00:00",
+  "updated_at": "2026-06-26T14:30:52.789777+00:00",
   "sources": [
     "Bleeding Green Nation"
   ],
   "items": [
-    {
-      "title": "Zach Ertz gets emotional talking about his time with the Eagles",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/177047/zach-ertz-gets-emotional-new-heights-jason-kelce-eagles",
-      "source": "Bleeding Green Nation",
-      "published": 1782412440
-    },
     {
       "title": "Eagles News: Bryce Huff calls out Philadelphia fans and his former team",
       "link": "https://www.bleedinggreennation.com/news/177059/eagles-news-bryce-huff-calls-out-philadelphia-fans-and-his-former-team",
@@ -64,6 +58,12 @@
       "link": "https://www.bleedinggreennation.com/news/176902/jason-kelce-is-raising-money-for-the-eagles-autism-foundation-once-again",
       "source": "Bleeding Green Nation",
       "published": 1782141488
+    },
+    {
+      "title": "Eagles News: “Expect instant excellence” from Makai Lemon?",
+      "link": "https://www.bleedinggreennation.com/news/176892/eagles-news-expect-instant-excellence-from-makai-lemon",
+      "source": "Bleeding Green Nation",
+      "published": 1782068248
     }
   ]
 }
