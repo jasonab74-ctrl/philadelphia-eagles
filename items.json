@@ -1,16 +1,28 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-06-28T11:09:39.828712+00:00",
+  "updated_at": "2026-06-28T12:56:21.381930+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles News: Jalen Carter, Defensive Player of the Year in 2026?",
+      "link": "https://www.bleedinggreennation.com/news/177100/eagles-news-jalen-carter-defensive-player-of-the-year-in-2026",
+      "source": "Bleeding Green Nation",
+      "published": 1782648529
+    },
+    {
+      "title": "What is being said about Eagles undrafted rookie no one saw coming - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHlySjA3NXlmNU1LeWpDSTN4NDJFcDlpSGN0akNNYUVGejRCczE1dlNpRmttSURtaWpDRWYwdWJHRF9NeTBYVy10MkMxSWlPX1dwUEw3eWdxTENQRHJkQmlpSmdFZ3VjLS1STjlQVXNCeFBVQmVqazE5aHpTOHF2VXR2dm1mdEx3dGZGeGlTWU1tWlJGa1dUaFQ1aWtqcHUwQTA0RlROVlNpT1RoREJqZktJOEc0a1RPNVRR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782648001
+    },
+    {
       "title": "Nebraska natives growing in NFL with Philadelphia Eagles - WOWT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1UteVJxM0pWY1VpNl9qeTNCaTZSbm9neXRhTUMweWVteFNJQkxDTW5wYjlMUkhkaWZPUFoxTDBFY3dvcjVycHYxdHh5cjhyV1c1MWZtZ2d4anRwNDc0Nkt5T05odTBYSzdNOGpwZWJGY0lKTEk2Q05IcTJnRWRzZVZuLU5raTVqTndhM1FXRk9EODVDeTNV?oc=5",
       "source": "Google News — Eagles",
-      "published": 1782607395
+      "published": 1782618164
     },
     {
       "title": "Bryce Huff Upset Over Eagles' Super Bowl Decision Is Outrageous -- Given How Little He Contributed - Sports Illustrated",
@@ -155,12 +167,6 @@
       "link": "https://www.bleedinggreennation.com/news/177059/eagles-news-bryce-huff-calls-out-philadelphia-fans-and-his-former-team",
       "source": "Bleeding Green Nation",
       "published": 1782403311
-    },
-    {
-      "title": "Zack Baun embraces change, sets high expectations for Vic Fangio's Eagles defense in 2026 - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzdTSFJBbTRfWDFiZWw0dHBwRjl4d1VmejVTU2xUTVQyMTZXb0dCendTcWFQd21CbTRob1JHWDdZeFJGZ1VzTUF0WnZZZlNwSDdyWW80bFVYWWoyVlRLWmZsNnNXaER4Nk9wbGRKaVk1MDNZNVFqdzJSQlFTQldqMmJsazI4WG5mUVRFbzByX0R3SzVPUXYydjN3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782391500
     },
     {
       "title": "Eagles 2026 most important list: Nolan Smith - NBC Sports Philadelphia",
@@ -325,12 +331,6 @@
       "published": 1782241202
     },
     {
-      "title": "The Eagles&#8217; entire 2026 draft class is now under contract",
-      "link": "https://www.bleedinggreennation.com/news/176977/the-eagles-entire-2026-draft-class-is-now-under-contract",
-      "source": "Bleeding Green Nation",
-      "published": 1782237197
-    },
-    {
       "title": "Eagles sign OT Markel Bell - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wNGVZbkVPbEo3VlE3ZXdiSkpEWkMxSzBEUVFoelBGd2xqTXNCVm9qZHlQeURnYWJwZUZFMjBWejJQTWRLa3d2bGhteGlUYi14SXBqWkxTbHl0aE83U0N1cWhhM3BKSGZUeEdKZlB3YUxfQ25X?oc=5",
       "source": "Google News — Eagles",
@@ -409,16 +409,16 @@
       "published": 1782158404
     },
     {
-      "title": "Wicks working to show he's ‘worthwhile' for Eagles with a bet-on-himself deal - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakFyZ0tJeUlwcTBHRTM0WndmUVpGVkFpZGRJVEtGbkZDdW1LMEs1ZTQwdzdOQW9pX3VsS3g3UTdRV3FaTVh5c3NwY3NWVGYyRU56UHJkLVp3MkROaWRqVV90RXJZQ2hkcy03eUU3OUxYaEdJZ1U1WkIxaXJ6Y1MybUNJR3BpS3RWNGp6azdGY1pQdzRRVU01azNqSEFVeEo4MnpwaFA2d3lBV1g2YkgyQ3BDRUNsNnNxTnVpMXg4ONIBxwFBVV95cUxOa09qM2hNQ3VPY1Z2dnczM24xaEJ6Q2Y3VkxVRkVlb0YtZGNVNDhsM05zT0RWZ2lvUTVTdDI2WkVzUVoxaHlJbDlNcVJUWDU1WU8yemVzUF9lMmI1cWwtY1lLamdCdEZJYjhuN0VvZXowSy0wczd3RG9MSUF0S3ZJZlNFdExxYWN5eDVxOHY0Q0w1R1FhNFBWUXh1QTBNS0t2WFZwMnRCUVpnV3dLOTdrZk4ycm1ReDJjajdoS1FXSzBBVnBnbkU0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782145399
-    },
-    {
       "title": "Zack Baun inspired to lead Vic Fangio’s ‘next-level’ defense in 2026 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUNZemdhQlpCUjUyNTFLay1QNUl6Wk4zM2xFMEthd2JPa3JFWkVoR00tMHdDTW9GZ0loZml1X25ucGk0ZVRZNEFUUU5sd2JQbjlWQUxBWGlzWmljME01X0FRSVk0RHhfVGhzcmZsWUxwTmNTTFhFYTJRWHBPM0FPVm9PSmplSm9Zd2d0ZFRyaVBPcy1LT1VvUHdQUlVkOERYU1Rnc3lJUHBTUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1782139639
+    },
+    {
+      "title": "Wicks working to show he's ‘worthwhile' for Eagles with a bet-on-himself deal - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakFyZ0tJeUlwcTBHRTM0WndmUVpGVkFpZGRJVEtGbkZDdW1LMEs1ZTQwdzdOQW9pX3VsS3g3UTdRV3FaTVh5c3NwY3NWVGYyRU56UHJkLVp3MkROaWRqVV90RXJZQ2hkcy03eUU3OUxYaEdJZ1U1WkIxaXJ6Y1MybUNJR3BpS3RWNGp6azdGY1pQdzRRVU01azNqSEFVeEo4MnpwaFA2d3lBV1g2YkgyQ3BDRUNsNnNxTnVpMXg4ONIBxwFBVV95cUxOa09qM2hNQ3VPY1Z2dnczM24xaEJ6Q2Y3VkxVRkVlb0YtZGNVNDhsM05zT0RWZ2lvUTVTdDI2WkVzUVoxaHlJbDlNcVJUWDU1WU8yemVzUF9lMmI1cWwtY1lLamdCdEZJYjhuN0VvZXowSy0wczd3RG9MSUF0S3ZJZlNFdExxYWN5eDVxOHY0Q0w1R1FhNFBWUXh1QTBNS0t2WFZwMnRCUVpnV3dLOTdrZk4ycm1ReDJjajdoS1FXSzBBVnBnbkU0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782131008
     },
     {
       "title": "Biggest Eagles questions by position in 2026: Offense - NBC Sports Philadelphia",
