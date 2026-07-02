@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-02T17:51:03.460173+00:00",
+  "updated_at": "2026-07-02T19:34:32.719101+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: PFF quarterback rankings have Jalen Hurts in the middle of the pack",
+      "link": "https://www.bleedinggreennation.com/news/177262/eagles-news-pff-quarterback-rankings-have-jalen-hurts-in-the-middle-of-the-pack",
+      "source": "Bleeding Green Nation",
+      "published": 1783015959
+    },
     {
       "title": "ESPN gives the Eagles the best offseason grade of any NFL team",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/177249/espn-gives-the-eagles-the-best-offseason-grade-of-any-nfl-team",
@@ -187,6 +193,12 @@
       "published": 1782813699
     },
     {
+      "title": "Jake Elliott, Super Bowl champion with Eagles, former Memphis kicker - The Commercial Appeal",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPODRnalM3Z3NodXg1SnpOX3M2Yl8xc1RuRnNOSVk3aWZyaWpzV0xQVWJlMVFlQVhnSWFFT0ROOUFJVlNVTUx2NHZRTDVKQjMxaC1oVVpSZE9OWDRGQ3JEMUVESWFGeUc1YmNLcHlUMXphV04tSUYyTmJqaENjQjMwLTJlcGROUVVld25Fc1hRQlBIZWRuZGN2YW5pNEdwak1hdnB5cTB6ZFpVekpGUkJMWWdHZUVEcVMyeWhBVEFfbGhXb0lUNGtSWGctVGxqSjRob3k0dVU5WTA1M1FCQ3REUG1SUlI?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782813600
+    },
+    {
       "title": "A Congress of Eagles - American University",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xaUQweGcyeU55Mms3QktoV2ZhajNRYWlYb0t1SVhVTk5hM0V3RGFuSHBiSTh2cmdtZ0lTX0Fpb0xpNzVPYXQ5TW56U1VRN1JzQm05eGhSNEJYNVpFZXVHV0ZHWFcxYlJ0b0w5NlJGbDdJeFNB?oc=5",
       "source": "Google News — Eagles",
@@ -211,22 +223,16 @@
       "published": 1782765381
     },
     {
-      "title": "Three Eagles Named to Men's Golf All-ACC Academic Team - Boston College Athletics",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm5GSW5fUEJiV09pVmdKLVJ6S3FiaUdhS3ZVYU1PaFlUUDZSNGNycFA5aDVDbE9CZ1lCdlliSUdtZF9QYkdJWTBPSmlEN3BuMTVuWGg5ZnlYX2E5emJkUHViVDJ3NGtHeHBOaDh0UDRmbVlzVllUa1FzUm12RlVUTERnT3NSeVRoQmI1NXRITk5UUFU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782765222
-    },
-    {
       "title": "Eagles Earn Three Selections to Women's Golf All-ACC Academic Team - Boston College Athletics",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmV5T0NPZ0pXaHJ6bWxZdGVzejdhcl9UTzlmb1NJM3ZJajVVd045RGpIU2ozeDl6S0hWczZKNWUyZXdCTnBleGZxUGY1Z2xBRTgtVGVhVzBXYlFIWW1Ib19YT20wOVZScWxGYlRZeGxXYzUyMG5NU1g2OW5maDE3VkJVbUtteU0waHExVWhYaGtwQ3JpSzZMV3o5aFhMX29Na2tr?oc=5",
       "source": "Google News — Eagles",
       "published": 1782765222
     },
     {
-      "title": "7 Eagles whose roles could change the most in training camp - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTEtqNzRnSXRHbzE3RTNMdGVzSVhzNUE3c3pjcm95ZHNVLXk2bnRKMDJxX25jX2hqZDBXQXFsekRVdHktMG5adXZBUHB3T29oWmNsRUczUTJzUHcwUzlmZWlXX2FFdEVsSWZoQWkxVGRUM29MTVh6Nk5IWW5wSTk5RXFwTHBnX1FFck9VQmd4V1Q3VlFxY3NRYkhTcGNvcEk2cEhZOGwxYmJVQW5vU09QSDBzUmVZRmxEMmJPWnVCR0NIUVFsQ3ZQa096Z1hDT0J0WFpaN0lnTGZ4X2tmMm40dDQtcw?oc=5",
+      "title": "Three Eagles Named to Men's Golf All-ACC Academic Team - Boston College Athletics",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm5GSW5fUEJiV09pVmdKLVJ6S3FiaUdhS3ZVYU1PaFlUUDZSNGNycFA5aDVDbE9CZ1lCdlliSUdtZF9QYkdJWTBPSmlEN3BuMTVuWGg5ZnlYX2E5emJkUHViVDJ3NGtHeHBOaDh0UDRmbVlzVllUa1FzUm12RlVUTERnT3NSeVRoQmI1NXRITk5UUFU?oc=5",
       "source": "Google News — Eagles",
-      "published": 1782756720
+      "published": 1782765222
     },
     {
       "title": "Everything Eagles Fans Need to Know About Open Camp: Price, Date, Location - Sports Illustrated",
@@ -283,7 +289,7 @@
       "published": 1782744361
     },
     {
-      "title": "Philadelphia Eagles Lineman Fred Johnson’s Ex Lyss Okada Welcomes Baby Girl - yahoo.com",
+      "title": "Philadelphia Eagles Lineman Fred Johnson’s Ex Lyss Okada Welcomes Baby Girl - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVlZc0N2MGZTdGp4cVdMaWFNOHVIY3NiVG9YS09NZDFZNS1tSzZUTmgxRW9ISXZMbjZJaGlLOUtEcVlYaEZVYU1hdlR2cVdVUFJ3U3g2MWdrU1k4bFJ6b1BMOXRDZWpvZ1F2RGNPb1QwQ2ZJZVRNS3ZJTWNJZFZIeFRZMW05QVo4R0k0RFd2d3J5T29pdkhFSGVGRmRCTlcwVGV0UEY3TGdod1JTbWNj?oc=5",
       "source": "Google News — Eagles",
       "published": 1782743796
@@ -361,12 +367,6 @@
       "published": 1782605120
     },
     {
-      "title": "4 Eagles Who Won't Be on the Roster by Week 1 -- And How They Can Change That Fate - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVHp6OFRrT29VVGZKNEtCcktwMU42dnc3ODJYcHpKYU9VSlJLa3g2QVhldFd4STc4VENPWThQZWd3Y2ZQQVJXblc4UEUtSlVkOHJHR0kxXzQ5UTNTbkNSZ2RfbXZsWFZzektLMWtZUVREaV9VMmlLWU1rWXRCNUlxeGNmTTVvNThpOU9Tby1DV05reHVaZXpSdHR3VDNXdi1XRlBfYzA1WmZSLTZyS25IYVpCSVRaQjdvdEtSX0Y5dFpiaGw4QlE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782590400
-    },
-    {
       "title": "Ex-49er says San Francisco contributed more to NFL culture than Eagles - Niners Wire",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa1VKTi1FV0wxTWxnR3pLc2FFUnFySDJYWVBXVVFHaElucUVsaVFzT0pPUUZkRm5zRG5TT3RGdGxRbkhjX3N6ckhCMWNCMXNTSmpNOGRpRWpOblJkSlVtbEdzZDlFWU9STGZLT3FLc1haTFdqMWdrcjI1S0tVdFpjWTFGWHlfLTF2MEVmMWZ6Y2h1OWxlc2I2TzFZUWk2WFRmS3NaNTc5ekJXdWR6Y0pscXZ2Q3hDSzl1LWNUbGVPY2dLcmhKUTkwUklCMDVweDh4QXR4NGNoeERQVS12RXBXOUJXQzg?oc=5",
       "source": "Google News — Eagles",
@@ -377,12 +377,6 @@
       "link": "https://www.bleedinggreennation.com/news/177083/8-eagles-named-cbs-sports-top-100-nfl-players-of-2026",
       "source": "Bleeding Green Nation",
       "published": 1782585240
-    },
-    {
-      "title": "Eagles News: Nick Sirianni&#8217;s &#8220;messaging that punts are OK is just mind-blowing&#8221;",
-      "link": "https://www.bleedinggreennation.com/news/177092/eagles-news-nick-siriannis-messaging-that-punts-are-ok-is-just-mind-blowing",
-      "source": "Bleeding Green Nation",
-      "published": 1782578523
     },
     {
       "title": "Eagles notes: Jalen Carter's contract, Brendan Sorsby, Bryce Huff, and Quinyon Mitchell - PhillyVoice",
@@ -469,12 +463,6 @@
       "published": 1782298800
     },
     {
-      "title": "Jonathan Greenard didn't mince words about Eagles' defensive line - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlNqdUtNeEVnbExzSlVxSXB0bko1M2ZxWlVnYmNZOF9QUUh1YXM5NTBfSnhxLUVramtJM1Exc0h0OTczZG5MUjBHQVE2UDFRSm9JRXAxRkFHUWJQSlozdkdiZ1pSeXdQbTRKbEhER29yTnB6Q2xJN1dqVHJxYU4yNHAycTdiMTByX2dxT0JETUhCQlM3eUljZjFpQXpWQk9RSUdsbU1tWQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782295201
-    },
-    {
       "title": "Clint Hurtt vouched for Uar Bernard. Now, the Eagles assistant oversees his NFL transition - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHJnMFdORXJ5bE9oUGZ1cWdua1dtM0NxaHBjbkRnTXFWU1FmbXEyN3BSLV84RWxlamhVdHZGMlhPeWY4cVkwek5nc2tWdG9kM1RiQ2VFZ2NrRlhKMEtteE5OR3VzcDdMbV9qY2pTRGQ3aVhBaU5qLXJoXzlKdjVYZEhaY0J1OWxJa0Jnc21zRjk4dmNtZVBibW5aUVlndEU?oc=5",
       "source": "Google News — Eagles",
@@ -483,6 +471,12 @@
     {
       "title": "17 IDKs from the Eagles’ spring practices - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYy1KRlpvdkh6azE4STRJblE4QWlzMlp6UldtdHRmU2xLQ0o4T2kzeVNUeGJBZlY0Q293dUpJSTB4alFzanFCdzlWU3JPUEIzeDhsUmZHbThGNFVkc25WVUQ3Z1JjbHBhTmVSTld1dlRWbHlkYzRGOF9TMThOVWY3TkEtTU1JdHJRZUxZTUgyWldBVUljeGZsZTVHbWYwTXU5TXRGQ1MzYmQwZGJWWmJkcW5n?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782284400
+    },
+    {
+      "title": "Jonathan Greenard didn't mince words about Eagles' defensive line - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlNqdUtNeEVnbExzSlVxSXB0bko1M2ZxWlVnYmNZOF9QUUh1YXM5NTBfSnhxLUVramtJM1Exc0h0OTczZG5MUjBHQVE2UDFRSm9JRXAxRkFHUWJQSlozdkdiZ1pSeXdQbTRKbEhER29yTnB6Q2xJN1dqVHJxYU4yNHAycTdiMTByX2dxT0JETUhCQlM3eUljZjFpQXpWQk9RSUdsbU1tWQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1782284400
     },
@@ -507,6 +501,12 @@
     {
       "title": "Eagles' DeVonta Smith marries Mya Danielle at Disney World - ESPN",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEtrM2k3bGNPZWxXMEl5QmJKNy1UdFVSbHg5Rlhna0tkNDJKd20wNWczYTkzOUhxc3I0QTN0WGV4V19vamcxN2g3UzBNc194bnpIMHY5UVBjbTRaMlprUnlRWkZjcTJ4a3VoZWxHb1plR1JRS24tVTdibXU3cG9pSHhpSGo3SXFUamV0NXhxSU1hNWlyNjhtOUJXcGZKXzVGYXFRZUw2c1l4NG1s?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782111600
+    },
+    {
+      "title": "Philadelphia Eagles' DeVonta Smith Marries Mya Danielle (Wedding Exclusive) - People.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFJSZHdIRUxLaVhiRm5nOE5Pb19reTE2TVE1MHhabDllWnVSNVk4Wkh0WnItaUhOTUVQczhfWlpTb3BocGhTdENmc1NubkloQzc3aW4wZUszelBEQjMyMnBQelpmekR3d2J0VzlodEJPaTNEYURIWElmdzFEX1RwZnpRYTFLSVVoUjZDT2hzS0dWYUpKcnNNZEJlTVhPUnh3SlE?oc=5",
       "source": "Google News — Eagles",
       "published": 1782111600
     },
