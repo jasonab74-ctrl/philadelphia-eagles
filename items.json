@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-12T21:54:07.080749+00:00",
+  "updated_at": "2026-07-12T22:53:00.167931+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Cooper DeJean gives Eagles the ultimate defensive chess piece - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTC1CS0hieThlU3Y0azFYTlk2VzhNbWE2U25wZ1drTndlSUtDR1NxeWxXNjQyRU5zQ2N4OE9CTGdmOUYwZmZsaC1ZQW9CZWpCUXVyaU5mSVVxVHA0dnh3cV94bUh3OFJobnRuOXl0d1dtNGt3TERqX1hzamZneVJGU3F1cWNPQl8wOHZLUkVFMmFjUTVqZzhkYWRuUFpFUFM1QjFENndpbjcxX3poeUtpWVpBV082VjlKYlotQk1jUDNOdEd5SGNPYm92OVRBMGlUZGdWVzBR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783892520
+    },
     {
       "title": "Eagles News: Makai Lemon among most exciting Week 1 debut candidates",
       "link": "https://www.bleedinggreennation.com/news/177523/eagles-news-makai-lemon-among-most-exciting-week-1-debut-candidates",
@@ -17,6 +23,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVG5jRGhpamJLY0pYalBsbWhrN0F1R04xNUVWNlRxbUdqdzVGZ2JPZXpDU3d0ajRoU0MzdXc0eHkxQmZVV3Q3UHZUc2EzaEJLS0lQOEo3X1JwUWdKZ0s5UEFxQVR1UzRGOU1zN0xLZjBrbE55YVNEZmxnb2wyZzhGcnlDTE8?oc=5",
       "source": "Google News — Eagles",
       "published": 1783887852
+    },
+    {
+      "title": "Eagles may eventually have to choose between Nolan Smith or Jalyx Hunt - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObW14U2ROUGRtdm40Y200Ti16VUZXMVVzY29tUXFUU1FJU1JNSVkwUUk2TXJPcVhRZWhfSnB4VzJXd1lSZWxKT0NZMHpEUGkxYkdTaDdfMFR2ZmRXY1MybV9SMk9wOGpRT1dqeTFvM1R6M3lCZHdNMXFkTTFORlE1bF9wQWowWThGeFYybTYybXVpMmpLenNOMXEwZUwtTmZKTWpyZnhtOGlYV25uemFpVVR2M1VvWjI4blhoSm5hbU0xWkotaWs2N01jWjhtT2s?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783878420
     },
     {
       "title": "Brooke Henderson makes three eagles on Sunday, including ace, at Evian - Golfweek",
@@ -355,18 +367,6 @@
       "published": 1783521006
     },
     {
-      "title": "30 Most Important Eagles of 2026: No. 24 Tank Bigsby - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFJtaFdNYzFJQjNzS1NQamZITnlUNGF5WGhMOF9SQ0hiZ1FtbDVfbktuQ0d4LW1OTnRHQWZoSTNzOHEtQXVDRVhBM241THdUTkY3dkZxa2NCZUkwMDlyQWVCYXpBZHlfMDlmQkN1LTZ0Z2VJaUZaN3VLSDg0QktacXZzdTIzZUFvVzVnRjRHOHFvNzFadjNodzNuTHNHSE1lZXBoOW55b29QeE00N2R1RnhJZkhBVWo4V2F3V0t1REk3SlNKWUdlYlQwY3o?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783520340
-    },
-    {
-      "title": "Vanessa Bryant gives social media a preview of new Kobe shoes on the horizon — including an Eagles colorway - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWVueGJYOU9DX3NNNDY0WUdfR0pHRnl1V0pmRGF6b0hDOEcwMlY1ZGEtTzhWeF9LWlZPQ1I5SGIyOW1zc3ZXRDlGbWpac21jNWxOekxlR0ZiSm45c3dGblBaV3d5Q1o5YkxXSzRiVDFjQm50RUp2VlRIVzNUMWRwT2lpMHlOZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783518339
-    },
-    {
       "title": "Eagles News: Jaylen Brown and A.J. Brown discover that they’re related",
       "link": "https://www.bleedinggreennation.com/news/177406/eagles-news-jaylen-brown-and-a-j-brown-discover-that-theyre-related",
       "source": "Bleeding Green Nation",
@@ -526,17 +526,17 @@
       "title": "Clint Hurtt discusses Uar Bernard and the talented defensive line unit - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHhHR19NX1gtX0NBRkhBVVJiVl9FREdpMm4tdWlLYTRvVEw4NHdGU1gta1RqbnFhOUw4RXRJclZnWENhRGxOd0g1YUZZVmgtQUMyQVBiYjVkS3pJNmo2NTZ5Z3ZncUZhVmo3b05VSnVrbThHRGJuSVJYVlIxUmkyWHp0cEJDOVpsUTk2ektkVldUQW1WZm44Q3VWMFh5dnRuWUNOQTgwSnRWU2Rqc3dV?oc=5",
       "source": "Google News — Eagles",
-      "published": 1782997506
-    },
-    {
-      "title": "Things to watch for at Eagles training camp: Wide receiver edition - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR21CZGRMUGQxUzF4TDA3SF9VcF9pdWpVZEphZTNyd0NfVE54a1NhbTl2XzU5WGhQdmVGZkpUWmxsQmdYOGIyQV95dEVoS0pENjVUOFhnUS1kRF9rM2J3Q1dFVjFoTHhtMUNmUldUQW9EWTVxSmdpTHFaenU0TDB3RjZDYl9pdVZoenN2MVZCTTFXZUhXLXJfeVNnSEw2bjNnTklBTHRkMEZSeUdEYzk0TDdKam55Qm9YeXhxdUN0QVlHTEZURGc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782994797
+      "published": 1782975600
     },
     {
       "title": "Eagles 2026 most important list: Cam Jurgens - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmozMjdGemU2Z1d6bGtjcUpGbGh3TmlYX3BVYTd0VWtmVUp4SktOR2FjWFdzYWJydjR0NmJaNlI3cTdNNjhLQ29FZUh5RHBlWDNQTnlsNzJWT1BBSHRSQlFoZjBlaXdEWWxCV1hsOGM0cXNKcmZyZFpVUVdGQWRXWThldDRIOF9aSVJXeGNsUmNWRlF1NkpYQlprUUk1cEZ1Sk5IMmVYLUhrckVLeWItNURTMNIBuwFBVV95cUxOUTM3SFVJSW42cnhiMGt0SWdJNF9KM09JVTM4c1AyNFY3Q2Q0TUJ5RV9QT1FWUUtJTUxyRDBNU2RoRFg1QjR4cmNyMDRUaG9wODZOV0xFMW9xMkRRSzJUWV8wa2UyT3JPaWFKNEc1ZXI4ZTZxZnUtMmszUkR5aTBSSWRlQ2pYOEhVamRHMzhJc3VjaTg1MmhWaTNaTllCSjhPeGFuODlYanRVT0dWaC1JVEJQaDhCSUk5ak4w?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1782975600
+    },
+    {
+      "title": "Things to watch for at Eagles training camp: Wide receiver edition - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR21CZGRMUGQxUzF4TDA3SF9VcF9pdWpVZEphZTNyd0NfVE54a1NhbTl2XzU5WGhQdmVGZkpUWmxsQmdYOGIyQV95dEVoS0pENjVUOFhnUS1kRF9rM2J3Q1dFVjFoTHhtMUNmUldUQW9EWTVxSmdpTHFaenU0TDB3RjZDYl9pdVZoenN2MVZCTTFXZUhXLXJfeVNnSEw2bjNnTklBTHRkMEZSeUdEYzk0TDdKam55Qm9YeXhxdUN0QVlHTEZURGc?oc=5",
       "source": "Google News — Eagles",
       "published": 1782975600
     }
