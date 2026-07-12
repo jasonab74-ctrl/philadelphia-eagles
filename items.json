@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-11T23:57:51.663133+00:00",
+  "updated_at": "2026-07-12T03:44:07.045960+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Men's Eagles power through to second half win over Zimbabwe - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVVoblFIbzNmNWlseWM1WXBuQ3o5WENhNXlWWXo1bzdqcFdaT3E2WG5JUmNtcjVCWk0xaTByUXgtVFE2WndiUzg2SXNrOTY2SEk5SC05VWw5bWc2cHk5M2x2SDhpSDNHcHhEWU1yTk9GeEZld2NLRnNpWVp1UTBjZjg0UGhIT1kwd05JelRpT2pKeDFLZXNZ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783824438
+    },
     {
       "title": "Eagles News: Multiple outlets rank Philadelphia’s offensive line second-best in the NFL",
       "link": "https://www.bleedinggreennation.com/news/177503/eagles-news-multiple-outlets-rank-philadelphias-offensive-line-second-best-in-the-nfl",
@@ -61,12 +67,6 @@
       "published": 1783710002
     },
     {
-      "title": "From Picks to Pillars: The Eagles’ Best Draft Selections Since 2000 - 97.5 The Fanatic",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzF1NVNHOGxzQ3RjelRIRmlQT25wQU1Ha0QyMUlmSFRnZG1COTJ0eTg3RkdfRkpNUm81ZnNxMmlGR2xUdlRFX0tibjlrcWhvWHdRR2w0TUlpUzA3RnRPXzMzQ0FnY2Q4ZE5Tb0x2dVdXVkxSZEVMOHNHQUxjZTZWT3IyTl9TTm5HMGNaUVhncUxRRTNpUEdEX0JhMkt1SjVoTFA5a1lR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783697640
-    },
-    {
       "title": "Eagles News: Saquon Barkley makes the case for LeBron James to come to Philly",
       "link": "https://www.bleedinggreennation.com/news/177482/eagles-news-saquon-barkley-makes-the-case-for-lebron-james-to-come-to-philly",
       "source": "Bleeding Green Nation",
@@ -107,6 +107,18 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZloxdDl0SDdMSk9WSUN6cHBKRG9FU0F6YWRHMVpPTTI2alN3YlBiWEtvcU5jSzRfczVJVXdINGx6Ump6V0t3enNDWUl5YVY5enRQeFlhdl93YkxXSHV5Yld2b25YeUhmY1dad0FfNndtWGdOMUdOVzJEZE1hcHV4amJZWkJxTlE2ZW9iU1dnOFhsbl9iLUs5dEp5U183SWhoNGhiRjdTby0tQ29QNU55WDB5NGllZDdGbVQxSlpWTFRoQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1783681096
+    },
+    {
+      "title": "This Eagles All-Pro faces massive pressure to perform in 2026 - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkh3aE5HUEJoZEtqa0huQkNrMWl6Z1dyN1U0Y043MW02bW11WXVBSWNJaU5yRndaRUdaSk81bEtaZmRVMmdralBUdGI1YWEzcnNnQVFxWV94VTd2M1lxMEkzajRLcThZc1RsSlNIWWx4YmlIVmtrdEw5NUQ2Wl9wdU5zR3FIWTFZS3ZpNGR0QXpBZVhhWmpyOVJWbUdZY29kdUNlekNBSnJWRGM0a0NwZVNDSzlod2hoYmc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783677600
+    },
+    {
+      "title": "Real Football: Brian Westbrook on defying the odds, McNabb-TO, Hurts-AJB & timeless Philadelphia Eagles memories - Go Long | Tyler Dunne",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuYVpjY1M3Z2YzWl9Hc08zU1B0TW9rTDRMZEljQlVISXE1RWcxNmZGVUhFUS1oa1FfVEVtUlpseVF2SWYzcTBnVDVyQm9RTTB5SzIyaGlXbWMtemZCNEhHQkF6bkJDZ1k4T3pn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783673175
     },
     {
       "title": "20 Days Until Eagles Training Camp, 20 Questions That Demand Answers - Sports Illustrated",
@@ -155,6 +167,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdEo3QkczS1hJaklwVXRZWmgyS3lMZFYtZFJTNkhsWGdzWFVzLWZkNkVJR1JKUnBZclhieW9uQUNEUm54cDIxcWNsZFBNMW1NOGx0Q0JrUlQwbDhwN0dNa0RSejg3WDAtUzRkQ0ZXLUE5eWRvU2doY0dpcG1LcEJUUlpqMW44MkxXbWFaVWhCd3RnWWJoR2NpeDFvcm94c0M1S0lSU0x0MXZobHdUTTlLYkU1dVVfWEhZMmlfT1J5Z3ZuR2c5VEQyUDJWTTN3UnV1bk5pR3BvbWVxRm1fRFJZeXZGa1FZQ0luZXJZT2l5bUhpbDBxRndCc0FFVjRtVUNKNlN5UERQVdIBjwJBVV95cUxNTVdQOTgtSGxtdWxjQTZSWnlKRjRBYkFLZ1ZqcjlPXzR2OTdDVC1kdjBuelZxc01tX2FPSGU0dmFvUUdRd2V0dHRpNGl6a254RThrUjA3bmJNX1laeW5vZHA4U3MxRGdBb1VrSlNEei1vVkZFVmJmSFdjenlMZmRSd3BNSkJsNXJzdnYzWlU1S0RvNXI5NEdrTGpEaTNJRlJYSFVmaEpQVUpsdHdpNWpvZzJJeTdVMy1pdlA1dmQwcW9yMWkzY3FuSjEzcm1WQWtwLXJMd3ZGMGJwbFU0bEk5M21SMWY4N1hwaVR4bDhiclluZDNJODc4ZUF1ZEdxSS1jNF9SSlA5RzNjR3VvR2s0?oc=5",
       "source": "Google News — Eagles",
       "published": 1783623106
+    },
+    {
+      "title": "This Eagles veteran could have left in free agency. Why his return is so important - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFVMLURkd1lnTUtIdXpfdFZJMkRuVk01Q3R1ZEhwanVRMHh4ZkFNMDdHdFowUTFMcjFhQzFLdjFmdWdlbjZQOFR1UjNSWWdidklWVlBBY2x6Y1I3YkwzTEhWZXM0eEZCR21YTHdsWW9DS1BTUUtaZ29ta3NTaDAwYjJEYlZmal9YdHNDUUw0SEpLMkZyZ1kxLXgwNFVrbUk0UElRX21ZamNHMk1rMF8tQWtVS0UyNzBsYXBOSU0wb09BYVhiR0dtdE42cmhmZXNMTHdYcg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783620960
     },
     {
       "title": "Eagles announce 2026-27 Season Schedule - Colorado Eagles",
@@ -319,12 +337,6 @@
       "published": 1783506327
     },
     {
-      "title": "This Eagles veteran could have left in free agency. Why his return is so important - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFVMLURkd1lnTUtIdXpfdFZJMkRuVk01Q3R1ZEhwanVRMHh4ZkFNMDdHdFowUTFMcjFhQzFLdjFmdWdlbjZQOFR1UjNSWWdidklWVlBBY2x6Y1I3YkwzTEhWZXM0eEZCR21YTHdsWW9DS1BTUUtaZ29ta3NTaDAwYjJEYlZmal9YdHNDUUw0SEpLMkZyZ1kxLXgwNFVrbUk0UElRX21ZamNHMk1rMF8tQWtVS0UyNzBsYXBOSU0wb09BYVhiR0dtdE42cmhmZXNMTHdYcg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783504800
-    },
-    {
       "title": "Top 25 Most Important Eagles in 2026: Year 3 for Zack Baun in Eagles defense - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXdETzFQMHVvelFyTVpNTjd2UHFEUERkUXRLSzQySlA4d3VrX2dEaVF1cHB0RU9ZRGlOU1NfQTJGSl9JMzJfVVZOXzJwMnczNktNWEU0cnVfakhVeUhFeWw5bVNOYk1qYVhOSi04M2RGeDNFa3BoTTZSNkY0bjZudUR6bjdvY0EtYmcwOUxlRk1NbXF1Sko4NnpuS1c1OHAyQnNoTmNxS2p0NEhBd0ZKNXc3TXUyNFdSNl9xcHFOdjlrdmpsWGZRSnVIeVd1TDlkTHZ2dC1Jdnl5OU1OZ0pSbjRlUW1Ud0l3UFNlUDFVbFZRYzB6ejFmMdIBgAJBVV95cUxQZlJ6VUxKV3ZURlZTMXkyajBET0EzWjlEYUphUkpoeGgtd3F1emRQdnF4QmZmRTVhM2JyZ3RMa2lrdzMtYTM2LTRUMmMtVTR6UkhVYzgyYWEwbmNJbVUwZnd0QzZfZEdlZlJzRGk3bDRseFRqQ0dJVUYzYzhKbWFFdjlXd2ZFRklhQ0VzYkJ6MU91MkIwRUNtUUtWTnU2Xzc4NHl5QmdwZFZpTXZpWkwzRlQyX29DWUc4RXFfNzRNXy0zeEZTd1huRUNXZm1oVTBGaHkyOTdkUk5WeXlMOTk3VzJUM0N3T2tfV21iM0xBSGNWSzlObnVteWh1MGhEUDRD?oc=5",
       "source": "Google News — Eagles",
@@ -383,12 +395,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3FmdWllUUtyZ2EweHFoQ0l4d0hkM1RCdk0wQjQ0eFFCS3ltSzFveWdPLTl5ZVNoWG9XVlpJWmhCbEQtWnRfMW1rZ2dJR1JKSWdJMDMyWk5VS2JKMlhYRko1R2tQU09lOGZKaTJWX2d1SXpnOVE5LVlaQlh3OHdIOHpTWVQ2X2tabnhKZEdMTmxjSDNjT3Z1eDRSdi1jOHQzOE9HSDlUYXotOEhJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1783436613
-    },
-    {
-      "title": "Latest A.J. Brown development makes the Eagles' biggest offseason decision look even better - A to Z Sports",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3kzM1hYWVhqRFlRRk1oZDEzcTZibHIzUWRVNFBNdkhBZGpwSmpETjZrTjNGa0s0b1c2c0lpbW1acFIzZHdJcjh5WGtNRVpVWS1vYUtfWkJKc0UtT2d6Uzh0YWRsclA5U3kzd0szZUx6SzcyeDRMblVMQ2I4RDdmeElWQzRtRm92bmFwelZB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783436400
     },
     {
       "title": "Eagles 2026 Training Camp Position Preview: Running Back - Philadelphia Eagles",
@@ -519,12 +525,6 @@
     {
       "title": "ESPN gives the Eagles the best offseason grade of any NFL team - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDdKMmxhSDdyM0NDWkRRdEdXcDNWWGsyQTF6bllNLWc4YmpzTWV6ZFhVbVkwOGdMV29abkZWMzRZeGw5QVRvLWI4SVU1dXlFTW5nbVBaczJkZV9aSzlWNGhTYjFLUGNzR3c0cW5xWjNEWFQyeG1faWw1dFU3Vm4yazU4YXdvMWl3X1h0MFgtSkNjVTFVaWRrQTJaSXRXWlpxbW53SURES0Vjel93SzA2aXQ4V2Q3UDBjd1B1dFRPaG1yWEVqMmdVUl9kWkRBaE0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1782975600
-    },
-    {
-      "title": "Greatest Comeback Wins in Eagles History - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVk9kbW9fMXZheTZKM2d1RkJRWS1IcW1MSTR2QVM2ZXBDUThrbEowQnNwUzV6UkJvSmJHV0QtUF9BUGNWbXZuNjFxXzIzYUJmb21iNEczbUx1YjJKWUZkYVN3RlBjMzYwNUdiZnpYZmVuUzVVVmhZc2VLWW9FbGFHYUxQZHhlUXFt?oc=5",
       "source": "Google News — Eagles",
       "published": 1782975600
     },
