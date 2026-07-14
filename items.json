@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-13T23:27:56.168770+00:00",
+  "updated_at": "2026-07-14T00:55:03.319149+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -10,7 +10,7 @@
       "title": "Men’s Tennis Named ITA All-Academic Team; Six Eagles Earn Scholar-Athlete Honors - North Carolina Central University Athletics",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3NDTllsZ3psRC1ZNW9ZX3hJM1BWX0VOTkFVMlplVTYtd2lyRDdaWnFRTWNpMy1ibGJJWVU5UzQxeEV0dkhhMl9lVVpOSVFQaUt0YkZZWVdNVVVaTGZzZXpiUG9TaHVFUWFiQzVTSnlVVEtoeW4xWnZxRFFnZ1lOYkkxSE95c21hbnM5SEVKcFlfa0Z4NHdUd0RQWl9BNTJFNG5JREtHa2Jzb3V2RWJQeVBFTklMQ215MS1wZjNVb2h5amdaLU51dFZCRWM3SlVZZlhZ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1783970660
+      "published": 1783988084
     },
     {
       "title": "Seven Eagles Picked As Preseason All-Sun Belt Conference - Georgia Southern University Athletics",
@@ -47,12 +47,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZQUGRZcWU2SS1ZRXNDVEh5RlJQUmtfcGFubnM5MTBISXZFR2hlTlBrTlpQaFVTQ0owa3lvLU1XamV2YTRyVVBmd0NUS0RwcEFWb2hzOGxqajZzQ2JVUlI2dGtheFVMeGhyUmdBcVg2eDl3WDVMT2VwUFpLSFZ6WFZqbUNGckFYa0cwYXkzYkd4blVnZEprTnBHNGcxVVctOVhoSk53aXRNRDB0d0dB?oc=5",
       "source": "Google News — Eagles",
       "published": 1783950306
-    },
-    {
-      "title": "Men's Eagles power through to second half win over Zimbabwe - Major League Rugby",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnJodFBtYXpWeE1KZGxQX09YU0RrR1BMRU5lQXFaMzhDRzVUX0lNNl9Ub1JGd2ZMdUlKUlc0MjZGSzVSQXNPRldETFJmTTF2ZjI1bkdsbHF6MmF4ejRiMVFYOGx1VGtYRjhtRDB6ejM4Nm00LTZGYzdWMndmSTlNY2U2NWNxUEx1V0lNcVZCUnpvOS1wNGFqcg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783948625
     },
     {
       "title": "Eagles schedule preview: Commanders",
@@ -215,6 +209,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUVdpaG5QZVlEaFNOXzlRenlhX2ZIczBWNXpQNG5nZlVzeG9yQkExbGZtOURrRjZDTHhTUUdLZTFLSWZXNlhkOEU3X1RueUp1YUQzZmVFdlFTS0pWUHFna3FaR0s2azlVRVNwbGtOZjBuTmtKbllXc3NFU1lQcXFNSzdlQWk5aERhXzdJVVNoak05MHc4SVVpRTdZTWlzSWhmRTlmY0xTX2xHNWxrTjJlR19LXzF0bElyXzZpTTRCSHhFN29XSGhZY0RmX2NGTWZTR01SVGxES1YwbDVtVHgzV05xcXNoQXdaUnNRNmlaOHVqLWJHcFRYNnVlRG5KUFdhRmtucGMyOS1HdkFHdHVFVWlJT2tTVEtBV3U1YVlyMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1783716060
+    },
+    {
+      "title": "Men's Eagles power through to second half win over Zimbabwe - Major League Rugby",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnJodFBtYXpWeE1KZGxQX09YU0RrR1BMRU5lQXFaMzhDRzVUX0lNNl9Ub1JGd2ZMdUlKUlc0MjZGSzVSQXNPRldETFJmTTF2ZjI1bkdsbHF6MmF4ejRiMVFYOGx1VGtYRjhtRDB6ejM4Nm00LTZGYzdWMndmSTlNY2U2NWNxUEx1V0lNcVZCUnpvOS1wNGFqcg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783711036
     },
     {
       "title": "Eagles have 2 of ESPN’s Top 10 ranked defensive tackles in 2026",
@@ -461,6 +461,12 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0M5cHBMZ3RkMFdmbmNxSFY0OGRqaWNrZWZrNkFCWVhPWGVvU2JCQVpNTFI1SjBWcEp6NDUzYk92UUMzN1JMWG5DeXJGVE1Ibld6NFpJbUlQNzJPM0FOWGVxaWpHYVE1ekoyYXFIdWpjZ3o4MWwwcmhvZWtTMlFIU2xZUGdNTTgwaW4zTjAyX0liT0g1bDBKU3IxZmZDbDVnRWJrVVJyR1A1QzJQWmh6Qnl2dW9pb1A5cXEzY2JiekV3c2s?oc=5",
       "source": "Google News — Eagles",
       "published": 1783416922
+    },
+    {
+      "title": "Eagles blockbuster trade rumor could lead to surprising deal with Falcons, Browns, or Cardinals - sportingnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZVFqYXNxQWJMbUNPZ25VRzVBZV9lQ0pGMFlYNUlVeGQ5WlE4QTFfMnZwQ2VLcWtiZWg0WUZVcVZReWJLRS12YXV5YklBb0ZsTUEydW9fTWk3VzRaOEVzal9ucmZLYjFNYTlzY05hS0ZvUnhVT0RtQnlrdGpscUgtZS1yMnlKVElWMEVfSmx5RG5sejhzdXhCdE9UelJ2YnVKX2JqSTZ2R3hVXzAwZXhnWmZRS2lObHlpQlhNcFM5TFluZFRPMUhsOWd2eUk0ckN0aDVES1NxN2lTSkJRR01ucE40QzJ1UXFMb1Nz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783354137
     },
     {
       "title": "Eagles 2026 Training Camp Position Preview: Quarterback - Philadelphia Eagles",
