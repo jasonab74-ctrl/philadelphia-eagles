@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-17T18:34:02.847974+00:00",
+  "updated_at": "2026-07-17T20:06:38.509246+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Goodyear Racing Eagles to feature refreshed sidewall branding in 2027 - NASCAR.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWx2MnJ3UlM4ODlxMGxOOUItNHFTYjRVaXNsbDRhZFg4RjJqdlE2amRIbnFORl9QSHpJbUVfQjhZeEZyb3d5azRpQkVQQVRmVkhNZmJ6V3p5emx3Vnk5QU01NzhrMEJVSkVNR1ZpQ0FhZkpQVzVtX1I1Z3dQVVRNaG5wUlZpbUljNjFJY2U0Um9QbVA1UXVBM20xRlY0Z2NYcXJtQUxfeURKUDRjQllYeF9PT2tlUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784314352
+    },
     {
       "title": "JUSSI AHOKAS NAMED COLORADO EAGLES HEAD COACH - Colorado Eagles",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGVVc1kyRkxfLTFHUHhpWkpDZ05hNDh5RHFPQzNBcGNXRmhvNVc5aHg2TG1FaDl0dzJZWUh0bEZzRnRLM0dfWU54X1o0cExNTVdoS294M2FSbmM2SjljejJ2UDk1M3dkRHZjbFpEaXE1U25Xb3F2Zi10YS1WMmNYN25XWURkMlAxT1cxcFY0c2dMZw?oc=5",
@@ -211,12 +217,6 @@
       "published": 1784135497
     },
     {
-      "title": "Eagles Blockbuster Trade Pitch Lands Ex-Super Bowl Champ Back in Philly for Jalen Carter - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTVGcm1mZnRFU2NINXdmZ2ZQaUpHbmJ4RV96VDQwMjlENVhSTlAtbDdCR3FSNldERXlxZ25PR01Xek50Nlg2c0tDX1dTdG8yS0JJaVNfQ3ZHeF8xLWdMSU5ISTVQUWFUSk1LYlRuVElDR1ZtTzhiaTF0SEp3THJIZDZNMDB6THFOSjE1VERn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784135157
-    },
-    {
       "title": "Bald Eagles Celebrate Another Successful Nesting Season on Channel Islands - The Santa Barbara Independent",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX01QVFI5bjctZVVDeW9hYi00VE5acVhZczM2U05ub1ZKX1ZpM0hlcDk2Nkk5ci12X3BSMkZtOGFNQkNFQi1XR2JqRTROUFlXaTZoeVVjRVM5bjJwLXFIVkNqNGliWG9nSDliUTcxT0hCQWRXTmtvTl81blZLUHpZVHZ5bFRaenJJdnl3SU83QVdVR3pvVGRPcnVUOUxTOUdOMFpaRG40dXRoLXpWcEhwNk9fTVQ?oc=5",
       "source": "Google News — Eagles",
@@ -265,10 +265,22 @@
       "published": 1784123913
     },
     {
+      "title": "Eagles Blockbuster Trade Pitch Lands Ex-Super Bowl Champ Back in Philly for Jalen Carter - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTVGcm1mZnRFU2NINXdmZ2ZQaUpHbmJ4RV96VDQwMjlENVhSTlAtbDdCR3FSNldERXlxZ25PR01Xek50Nlg2c0tDX1dTdG8yS0JJaVNfQ3ZHeF8xLWdMSU5ISTVQUWFUSk1LYlRuVElDR1ZtTzhiaTF0SEp3THJIZDZNMDB6THFOSjE1VERn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784123220
+    },
+    {
       "title": "Eagles 2026 Training Camp Position Preview: Defensive Tackle - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ01Ib2NGc1R2VUo2UkpnQmNZTHpQX2hjSWgwWlk1aTNLanBaeGR1NnRnVzFvWndONks1cTA5d0xKWUxNUVc1Y1l6RjVQdkFtTHkyZDdBazA3OWR2WGhhdDAzQmN3TEphLWZjdTZwVjhvY1AxcWJfRWlXM2VxQW40c0RmS3RMeWZYbXhYeHo1a3JqU0JYbXRxUHdiZFFmWUFG?oc=5",
       "source": "Google News — Eagles",
       "published": 1784118837
+    },
+    {
+      "title": "2026 FSU Schedule Preview: Boston College Eagles - Tomahawk Nation",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMVc3MWR1eEg2QUpENkhZQUltVDlhbkZIamh1cG9sYzF6S3lwOVFVSmtkM254ZC12UHlwd1prbGsyX012c0hBUDViMEUyZl9vLTAtWXN3VWZTczd4SEJpNVRTMkEzdDlvMWZXeHpPYXFnMU1QMm1YcjZXSjBKQ25JbVp5c292VXBSWGk1X0o5bFFXT2JTZkcxalJwY0hiTEl2WXVPTWZiVDUwcFhoR2ZiWnNuNVVvVDlDX3NQWE4yMFRZRjFNQ3RGZWNrdzUzdW80MHc2ZDZKUFZnYURWTm5qdnJJZUNRSGU2Z0JyeUVQMy1fdUtrc3JkRlp4c1k?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784116800
     },
     {
       "title": "5 Eagles heading into 2026 poised for Pro Bowl jump - NBC Sports Philadelphia",
@@ -421,12 +433,6 @@
       "published": 1783936800
     },
     {
-      "title": "Eagles’ WR room has real competition after A.J. Brown's exit - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOEhsbUtRRE1FY2dkZ3VFUG1FSFFDZkhjaXA3V0RzOVBEd0tvTnR3dks4bnhBazFLemJzQ0hjWlVOaXRjWmg2SUFHanNHajdPWTBUYU5VemxwNXdHclhpU0Z0XzU3d1JsdTJjUlQ0UXljdnBKUHZhV1ZBZWJ2Y1pOeXVmbjVKbXc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783928965
-    },
-    {
       "title": "Brooke Henderson makes three eagles on Sunday, including ace, at Evian - Golfweek",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVJTX1RFU0YxczBIaWZ3Y05QWUYwN0VxNUplcXFjV1hVcWVIZ21SVFlZNXdJbkNZeElQb1F1dUczX1hxVjZRelF3R1lqSW8tUF9lSWlpZGNlRVdlMFpoWWtMdk5TTnRqbXNnNkZFQ0VOMkc2eEFFajhzUVN3WFZySFVURVE2LTI3NjNNRDVkZFI4VENTSnN4MW5Db0o1V0ROVnp6ZjlaOE1EQXdIRmxtM3dUMGtBUQ?oc=5",
       "source": "Google News — Eagles",
@@ -489,12 +495,6 @@
     {
       "title": "Eagles mailbag: How Howie Roseman would fare in the NBA, Uar Bernard’s roster spot - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUi1nVXRHeWFjZ0lkb1M3MVpfZGZzcDRNU1pDTHhhSEtPbXB1cW9jdndqQXlOWDRXQWhfcUx5eXQ4NXB0NEdxVklIRUZWYkx6SDdGR2w3MDB5RzA3MF9BUDZMRGlwRUhBNGFpd0R3bDA2S1FIZ2ZrMFNlc3htODFOVkxVLXZ1bXNlWW5URllYQVBQSlNCVTZTM1lGQVFlU2w4dFYyZ0hiUDBlVjQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783580400
-    },
-    {
-      "title": "A look at the Eagles' players over 30, and their succession plan for each - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOFJURWxENkZJNTZtWXBPR2o1Y2ozaEFVUG9YLTU0WHgtWmY5czZ0R1VoMWRwdU00T3NCWXQ5RmVHeGV3T2xzQ2M4YWFMUHJUdFVQMnJWLVRLbDdTcXc0Z3pqaEdBVjZ1TFY2aGNvWkR5cjRrbEtTZzctampyZWI5NE9ERHl4TjVoaVVoeXZWQXlyVEtPVWZBNHBoa183TTBCM2RMQlFBZ2VOdmtVVUo1aGRKVGZXOHdkckxoTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1783580400
     },
