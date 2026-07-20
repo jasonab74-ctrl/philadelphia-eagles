@@ -1,11 +1,41 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-20T10:14:28.290345+00:00",
+  "updated_at": "2026-07-20T12:32:06.370607+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Nick Sirianni using AI to help prepare for the 2026 season",
+      "link": "https://www.bleedinggreennation.com/news/177742/eagles-news-nick-sirianni-using-ai-to-help-prepare-for-the-2026-season",
+      "source": "Bleeding Green Nation",
+      "published": 1784549603
+    },
+    {
+      "title": "Eagles 2026 most important list: Jalen Hurts - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGtzUW9mX2hUeVA1eURIR0ZLTUV3emV5a1YyNmQ5V2EtQWhEdGRScnVySUJrMllULUtsZ0dVUXk3QU4zcXZ6S2VXZFJIWU5VZzQydWh6NUdyZVpyRDBWd3JGQkFzSTNNUVZJRTVDV2RLSWVXRkxxbTZzenYydHR6T2ZZWkdIRGxiSzByMHVYNGtQVVNrYnZzc2xLR1Q0RkNJLS1BTnlQUm56NTRqeElJanNzY9IBuwFBVV95cUxNT1JJaGJfUGp5QW1Qa25YdlVBVU45LThNMzN2dlc5ME5mUUhWU2NCNkNQTE5xQjFDOXRMQXd6aUxZelhRenFfUWxsNGhYUDFrSTl0Q0VXM25FS1MzVTA1Nmo5WUFhMktBY0NsZVlSQ2Q4NTdrcHc1T2o3dzRNSS1fYmFFdTc0RkZwNHR1WXNsY3Jfa3luNHF6emlmeXZFZnFiSjFaR0ZKa3VIYnFnSEZWeDQtTWFrQVFuQWt3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784545200
+    },
+    {
+      "title": "Everybody loves new Eagles CB Riq Woolen - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFZmYVBiQUJDQTVTNElfVmNVY1ByVF9hMUtkT214UVpFY29Bb2hoMHJpSU4tYjdRQVZQM3l0eVpodnBnaENvZ0FEaUtVRmFIWVF2OXhRZ3ZEXzRJRk5OZ19yQW16M0lmQ0hiOG8za29tUlRxc1lBRWMxUzhmSncyRlpWRVBybEEzNWxoWW9FbmlhYzJFc0tpNXRR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784544917
+    },
+    {
+      "title": "For Nick Sirianni, AI offers fresh material entering another pivotal Eagles season - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHJ0ajRac0NwaWlocU5MUnlRNU5QUHRGaUIxeC1GZzJmeHlIaUZmOWViTGJQZk00UTFLS0FtSDUyTDhWXzVBbmNlbVVxN3RXMEFQeXl5RFFPbC1NUEc2Vi1hd2FSaVlzSFNjY3d1Q3NQQkxfUklEY0owU1psNWxaQ21JYmpPM0RONmNTVzBoQXdubFA1dVRoNA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784542217
+    },
+    {
+      "title": "Should Nick Sirianni and the Eagles be more appreciated? ‘Who gives a bleep?' - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUotLTFlZV9mUS1yWVJiQXN6UkRPRFl1aXhwaEc4dmdkbmRGaU1Dak9BakZwX0R5ZE5OX0REWndYRDVxOHhOemh6bTRic0xZakgzVGdIbXNFNEdJX0RpOTNDUVlSUjVmV3hlb2Y1WHc1bnc4TXhUYlpwZVBkRnBBcWk2Q290aWhfTTAyUG1ucF9TVFY1VGg1ZzMza056Tzdid1RyeHhXNV9Gd9IBsgFBVV95cUxORW52TXJ2SmxNR184WkdWZl81SXB5SHZuSzFzYms2TzZyMTk2ZGtkemNNa1luTkdueFkyakxZVWR3SDByOUpRUVpNc0dIRmNpSE43aHZIc1ZsYWV5V1lJQ3BWTEx2ZXFvSEZ0aDFZQ1pPZVJTdDlnVnlTTGpDajJNOTJpMWxYNi1ZU1plNk5FeWY4LVBjbzAzYzI0SU03c09wbXZEckV4SHhGU0t4akJIRlVR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784541600
+    },
     {
       "title": "Eagles No. 5 most intriguing puts off retirement because of this word - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU1M5VU9wdG1PV0ppcXZvaVhyc0ctd0dRVHkzVklDdUdGbDlvRzJSY09vWElLak1ENnZlMFUxQmwtN1JoS0JEa1M5ZW1xaHZHZGlMYl80TTB0c3dkWEJ1TGJkS0ZPcU9EOHA4S04yZHR0dThmMU1JeVFVa1ZTbzZjQnV3VGtkN1NKV01iWE9vaEhBVmNadHRPUXMwSmhCTFVfTF9sckZHNnlrMThTMFA1NmQtQjlodEtUV2NTWWkzcW5BMlNXcmlmOUJwdEtlLTZzWUtHb0xxb2QzcGFkamFicHg5Z00?oc=5",
@@ -28,12 +58,6 @@
       "title": "Eagles schedule preview: Panthers",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/177499/eagles-schedule-preview-panthers",
       "source": "Bleeding Green Nation",
-      "published": 1784481780
-    },
-    {
-      "title": "Eagles schedule preview: Panthers - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHMwWHQ4UkJITzF6Sm0zUXdoa0ZHT0tweklTdE9uOHZ3SUxiZl9kN2VjeUdFamcyQzYxZDRjQVJyT3UyNVJIQ0dIcGFMUU5jYnV4OFdvX2wtQ0x4YlV5aTAwYUwzVnFSOGFzWE1CZzlELWxrdmxURTNfbVphYkE4c1RzVHVjUXVs?oc=5",
-      "source": "Google News — Eagles",
       "published": 1784481780
     },
     {
@@ -89,12 +113,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3VLa1hVWmxiTXpfMDlkUzJEWm1wWjJ5TExtSDZuRkxqM3pPVmFNM1Z4dUJ6UDBENUlOV3p5NFVBLTJTcU5MaXA4Ykc5WGRSNkI4Yk54UDdmR1ZJdjF1WnNuaEpCTmxETXBFZ0tZZG04YmxWRmhlbUdxZDFscGF4OUQxcWx2LTBEWmlGaU50TkNpMnd5WXdaNVM2Zmp2MVdaRkpTX3gzRklHZldKY3R5U0JpbU9LeVYyMklBYi1USXhQQdIBygFBVV95cUxOczl0NUM1WWs1aHBVSVZuM2JoZmM3X0MzMjR5SUNoY05KZUEwYWZwZ2d6SjdvaF9Qd2h6amJmdjVpZlFiOS0wRUVkRmpGN0RuakdGS3R3OGt1WWFNUkdNSjIzbE9DZmlab0RyaWF1b2dsYk8tTU5XRzEydVBSQ04yb2w0ZXRCOXhWVHRFbTRRYXZvRGZDSXNTdkY1X25Rckc4Q1c1VU55WHBWcEZUeFc5WDA5TG9jQ1FtZ1RmaERFOFlaTElNOTljTVhB?oc=5",
       "source": "Google News — Eagles",
       "published": 1784414149
-    },
-    {
-      "title": "Eagles News: Saquon Barkley and family unharmed in home invasion - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1dhUkZTVEp0SEJFMkRkcXhWNHhNZjRrTG9XMGtOYUpod05LdUp6MFhONm0zZXItbm5aSmFxZUpUb21GSjdfXzJhcDFkOGxaUC1jZTlwMUlCRWlSZC1ZTDFWYThTalFkNHVwSG9BLUZuQl80Y2lmNVRydUQyVndxVVJDSUxmNFYzOU0tRk9HOXd4dXk4d3hnN2RiNjZtSGwwRFVxRm9wTmVtVXIxLTVVTg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784405056
     },
     {
       "title": "Eagles WR Makai Lemon is 'feeling great' ahead of camp, eager to learn from offense's many veterans - NFL.com",
@@ -217,12 +235,6 @@
       "published": 1784289119
     },
     {
-      "title": "Eagles News: NFL survey shows that DeVonta Smith is being underrated - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0xBclFWWVZoVVN5U3ZHN0FQV2FRSzNYekZtT2x0cEdqWC1NMGVsMGZxS1VZbk9sMlhHN2ZvMkY1U2lvWXhDQ0VCTE9XM0M1clJCaDQzVTdDcmdPcGJ2emRGSzZVZ01JNGZSZVRkWEhkTC1rV1lJNFZyWjZMdVExR0R6ZjhDSFhwdjhoZGdaeUlLckJQeVFqUXJzeEUwTGhoWVJnUUtTMkxLV0VybTR4R0ZBNlRhUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784289119
-    },
-    {
       "title": "ESPN survey shows that the Eagles are both loaded and underrated - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWZoOHZUQkxRTDluOFpZSkFGZFByeEZpcG9Sc0tEWW0yeHU4N2c0cXJDZmtvNUptRXM4cmZLWkZYT3Q2djc3eXRzYUVTNW5rVWY1YWtKVzliZHI0RzZ0eVlYNF8yWlh0SFpWaTl5U0pKUDJRRmZuZW4yajI0aVU4ZEFaRG5SaXo5S2pCYQ?oc=5",
       "source": "Google News — Eagles",
@@ -283,12 +295,6 @@
       "published": 1784235729
     },
     {
-      "title": "How Many Eagles From Hit-And-Miss 2025 Draft Will Survive Training Camp? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHBYM2t2c3VYYkVPZHBTcGgwb3kzNE5TVjJ4RlE1UmhHMVhmQ3hGUEFDRlJ2NXJZbUhWZTVHV1FpU05LSm93dmtHOV9SaHVhZFduaUZ6T2JUVDYtanhGZVQ4TnIybVNPNFJVVjNqTVd3RExFSDN0OWhQTzNFSVh1cHNQS05Kb2hKUXNJQWI5Tm52MG9LMzEyZTRYb2VDQ0tPYzZoRkxncTF0d05TdVJ2MUlxb1lMUWU0N1RJ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784224803
-    },
-    {
       "title": "Adam Young Named New Voice of the Eagles - Georgia Southern University Athletics",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXhkd3hlTHh4ZWxMakI1TFUtZ1FiVVZJZW1pQ3lfc2o1VmNiSlNXSFJDaW9DSlI0dS1SN04zOC1CQXI4Rmk2R2Uxc0hfckhrQWd0eHhIZFo1Rk1GYkY5U0xVeldhc3BJbFFHM1ZzRUowRmgyTGluOG9iRHZPVUVhMXczNEEwMVlXRDE3aA?oc=5",
       "source": "Google News — Eagles",
@@ -335,6 +341,12 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDZIck9UVmUwVm10cTd0a0RTZElLenM4MkJEdU96M1pvRjRSaHNLN3RXS2pIZTRtS2RnSlpFQ1ZRbkRKR1Z6LUVUVHJtUFgxb0JoTG5FNG81cnJvWGdNdUNDLVNNVXpFSmhwVDV4bGxUVXVybW5ycU9qZllTSmhmN0pDOFdYdFBCemhra25PYWp2aU1uUUpYUFlNN29xQW53d1M3MkNZa1pKak83dDN4MHBB?oc=5",
       "source": "Google News — Eagles",
       "published": 1784210897
+    },
+    {
+      "title": "Why Dontayvion Wicks Has More Pressure On Him Than Anyone On Eagles Offense - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGt4dEZJLVhvbWcxYU5PWEpvLUp3aWVRbG9kNjhZZmJiS2xGMmU1NElNVFg2NU1zSWZNOUdPeVdBQml2MTB5NzNQSXFURFo5MFcyZURzeFVFTEdTSGJHdW0yYWh3Y0NJSEVRSEJldkFRdmdReU5mMWljb0FFb1VJeUdCQUFsMkZoWGtzRTI2VW1SbHJKM2dGT3FHa1JfWS1FTGJzcTVZZVRoTFBsVFFuV0F1eHFMaWF2X1FkdnJGY3M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784210402
     },
     {
       "title": "Eagles 2026 Training Camp Position Preview: Edge Rusher - Philadelphia Eagles",
@@ -397,22 +409,10 @@
       "published": 1784149560
     },
     {
-      "title": "58 Eagles earn Big Sky All-Academic for the spring - Eastern Washington University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZTVFI2YXYtdWpjbHJUZ181SGl6czRVVVdSeEhWTHZWdTdVZzQzVWxKSmZJdGozR0VyMHcxNG5DR2lOZXdocGhoWTVEQXpZNFJ5RF9FWV9CU3FqcndmV2dLMER1WHJxNXg0X1pTUWo5XzF6T29QTkZvQ2U0NE9jRlJSaElibkVRLXJ1UXM5ZkNPZi1OamRzbl9McGJaZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784145965
-    },
-    {
       "title": "Dontayvion Wicks looks to reward trust shown by Eagles - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1F4X1dxX2NoeDV3T3d3X2pMMEMzWm9NcENnbUN6anhySm5hQzNZaU9KYXEtWFR0dEk3QWZZeFI5VlV5SmpXVHNHTE5ZbUdILUk0SU82UlI0X29hQU9ZRDJId3JLU3ZGR0hYeHFzTFlQQVZ4cjZlR2dBVkMtbzJ4Y2hWblYwQ1dWMjgtY2pHZXVwUmhvMjlWem5n?oc=5",
       "source": "Google News — Eagles",
       "published": 1784142086
-    },
-    {
-      "title": "Zack Baun unanimously considered a top 10 linebacker by NFL coaches and executives",
-      "link": "https://www.bleedinggreennation.com/news/177630/espn-nfl-top-10-linebacker-position-list-zack-baun-eagles",
-      "source": "Bleeding Green Nation",
-      "published": 1784138520
     },
     {
       "title": "Eagles News: DeVonta Smith among Philadelphia’s first-time Pro Bowl candidates - Bleeding Green Nation",
@@ -481,16 +481,16 @@
       "published": 1783936800
     },
     {
-      "title": "Eagles News: Makai Lemon among most exciting Week 1 debut candidates - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVR5TzZocHhtMGlkdC1fdVltdWFTNmpBSl9YTVU2NDFROHFrcnJoNkZEdDZ0aWVBLTBBbUp0bUlnNE1jRDR5czBTZTlQQ1NXNU8wd3l1bjNiQnFGVlVZWndQcWpsWVZHZHVabGJVNV9meks4UHk5WUZpOXFFcEJVZ3pVUXdHU0tvdW9pTktyWWRYMXFBMWZRRGZNY2h3UnRQZ0V1ZXR0RFRiU0hhTjUtTl9SRlkzZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1783887852
-    },
-    {
       "title": "Roob's Observations: Understanding just how predictable the 2025 Eagles were - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWndITFhEeDN5REszR2wxYWdQdXpKeTV4Um5BLW5QVDU2X3dOT1hmRnV4eWRHd2NzTnZIekpLSUNGbUdxbWVZZFY1Q3Vma2VUVFVTbW1ydmViQzBHMEwtT21jVWpiSFNTM0ZlQUcya2lnZGt0bmVEQ1VCTGFHWnl2Vnh0Z1daNjRyU0t6Z3UydmluVFdjVXdwYldTS1prRjBCS0U0NE9FWnpld0dMUXhmaXpEb3JGZDBSTWdab29sZ9IBxwFBVV95cUxOa3A0RU1tX3h0cHVWWnJNOW5YVXowbXVjdEhEeHluNjZIWDRqTkF4NXBuSlozYUdmX05zZ0Y1TGZBbVlkdTNlM2FaOFRiSFp5NEk4dTYwclRsdm12MEdBUGtFcVQ2cnkwS05kV0xMNWxOTEdnLVBYeU9OMmtKRHE2Z0wwSmxFNDJtT0FILWRCdWl0X2FVR2lDUmNlOUw5cWIyVFFaektDZ2JmazF6Y2dOeXRKZkM3MWowMkFzZ2Rha0s3V01fX1k0?oc=5",
       "source": "Google News — Eagles",
       "published": 1783854000
+    },
+    {
+      "title": "Eagles News: Makai Lemon among most exciting Week 1 debut candidates - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVR5TzZocHhtMGlkdC1fdVltdWFTNmpBSl9YTVU2NDFROHFrcnJoNkZEdDZ0aWVBLTBBbUp0bUlnNE1jRDR5czBTZTlQQ1NXNU8wd3l1bjNiQnFGVlVZWndQcWpsWVZHZHVabGJVNV9meks4UHk5WUZpOXFFcEJVZ3pVUXdHU0tvdW9pTktyWWRYMXFBMWZRRGZNY2h3UnRQZ0V1ZXR0RFRiU0hhTjUtTl9SRlkzZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1783839600
     },
     {
       "title": "Eagles mailbag: Create an NFL starting 22, choosing no more than one player per team - PhillyVoice",
