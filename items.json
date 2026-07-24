@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-24T22:06:29.864066+00:00",
+  "updated_at": "2026-07-24T23:33:00.282152+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Big Bear bald eagles habitat saved; OpenAI president donates $5.5 million to reach goal - San Bernardino Sun",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXViRXpYcV9FODBoRzZyMGd1T2dtSk5sc1A1eHMxdFhFV2JNcjBOVkNiUEhRTkJveklXNGh0dXdkZVRuNHNtc0VLalBCUXpRdXE5ZFJ0V0FBbG9WOTl0V09jbjlZOWFjTWt0Wk9TdmhkZlBvSmpYQW1DbDNNWVRVZExERlhrVUZ6dVNGbjctRV9UZkJCSzN4SzRQb1l1a3Z2bllROWpWV3U5M2NDMjc0YXBrVndwVmxYUUJ2Rjg1UXBmRlZBQW9YNUYzLTJYQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784923449
+    },
     {
       "title": "Eagles schedule preview: Colts",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/177753/eagles-schedule-preview-colts",
@@ -247,12 +253,6 @@
       "published": 1784735854
     },
     {
-      "title": "Four Eagles Named to Shriners Children's East-West Bowl 1000 Watch List - Boston College Athletics",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2N1T21GRWd5N3BzVVJFMzYxNWpzSW9keThNSUdhZnBlbWtLanlRY0tDejZycUVKeTgzZnZELTE5VkdtNmE5c0N3ZVZDc2VCMEVJNHBQSUQxWGVqa05rSU5RVVRtUEFSOTgtSTBuSEhzeUg4dWs3U082WFZvb09sRndtUVFFV1diVURjRjA3d2xtRDVlMW9YNzkxM3BkRkFyRzI2WDlZUnhnTnpUSEp3MTF0NmVfdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784734898
-    },
-    {
       "title": "Viral bald eagle presumed to be Jackie in 'critical' condition after fight with other eagles - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTlvaGVCNF9rS2hfRjJLdVl4OEhnelRtNkUzRnhta1dQVkhsN05BYzlfalVLV1pDQ0ZjVmdnMnY1Z1p1Ymt0eVY4VnpDQ20xVlNuMVdRM0ZCbzczaTNJdXlBanY4MVRlOHI5VzhIZExhSEZFSTFXODZ0Vjg1Y2pSTXhHaU1GWUlBTzFtSnNqaXpUX2x1d0lGbFUxc21ONFQ3U2JlekdoVjNRM2PSAbABQVVfeXFMT1Z2OWxyc2RDMnNFV1RIcUJ6eUNwOGQ4VGpRTHlPVDN3eHZkX1A1OXdFM1plVjhNWnVad1ZYaXdRVHZDUzZBM19zY0g0SmJKXzRoeWw3dWhCNUFQYXZKdVFaUkItN2l5YTFoUEFlMWZ6eFpCNDhlN0JVZXhNLUU1dzVOZ3hYalNjVkxibFdpTEhpdmxNaWtkdGFjT3h1REFLNkhaZjdHZXV1UGprSTNuTFc?oc=5",
       "source": "Google News — Eagles",
@@ -481,26 +481,20 @@
       "published": 1784282405
     },
     {
-      "title": "Eagles’ undrafted pipeline has produced two of the NFL’s best players - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTlJub3RsbVVPTU5SN2tRZm1USERVSHVFNktDN3FHV1dTc29SZmpQbUZnaE5JaEJZaXJCaXRmWC1GNGs1ZkZxWlFzNGgyUFhyN0t3RG9Hd3M3N2JlTDl4UFcyUTNfdnk4M1ZOTllLY3ZJbzZ0bU01bDVndVd2REM2MVc4a2JIczhfVkFxazVGcEl4MDJLU1R3OXVEWmxqSmRMQy1TZG9CbkxFY1p3clI3SHRCRVh5d2J3Y3IxcVJ5OW9Fc3BMSW02ZUhWOEgyWklWMHN4ODVXdFd0X2hkZkFUNmQ4WQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784211840
-    },
-    {
       "title": "Eagles 2026 most important list: Lane Johnson - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHlyLTJ4N2RYdVg4WVltNlJjQm9JbXNHLXg1eHE1U1dicEQ1YkV4NWU0R28waHlMUGdJSEFFWml2Vi1hM3JrVmFIa2ZaWHpMeEtHSzRsRUtUVWo1T2NZT3JnM1dGOW5VbkJlUThqdkxEM2o1dzhhUHEtRWRTaU9jR1B4SWFxNWtqZkx5OVhOXzBmVmUzdDBLNGhyNG1WWDJoZGRsU2liUUtOdUxSYzlDT0w0OWbSAbwBQVVfeXFMUGp3al9qcWNvYjFQbThBcUtTdi1IdExBNjVrbkJrRzV4UlVjc3JLVjc3V1NkTVZ3VUN1M21tdGNhREp2dEhnQ1NfbjdtdVNaYWhvWjNFQjYzeEppcnBNV0NYRmdIUVByckxuQjktUEZmTjVBaXlubFdiek9rWmFSeExZMjVGc0dGZmdkR2xnNFJpa0UtNzZ4NmlKeU5JaTdzRFBtcERZckE1VHl6Q2JhTy1ZekRzNnZrVjZhQ3A?oc=5",
       "source": "Google News — Eagles",
       "published": 1784199600
     },
     {
-      "title": "Three free agent signings who make sense for the Eagles prior to training camp - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2s3SXFITW1oSlZ5VkNacThJYzdBTnVZYVVlRjE1Y2VpSUJEQ0kwclhzZENmQ0FmNmlZUFAzMmRQck5lTFpZa04tZkVjTHdtN2tJZHFCZVpkbEFRS2gwX2JXYkxuRnVNUzZUVndVdjljVHNpNVRsZ1A4cllEdE1ISzBURXlxWEdCbjdTaEEwRzh3dU4zb3h1NDVCcXVTOUxnNTdiSEVvdUh2d3dQMEJzaTJIenNCTjV3YnVv?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784196760
-    },
-    {
       "title": "Eagles 2026 Training Camp Position Preview: Edge Rusher - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkRNaW9UazJjejM1QnJ5NVNQR1Jvc0hBekF1NmZWazZ4aFVxbWszb2FVWV9MNERCRy1rSkZDdTlaTzFKSXZSdXFiYkRqcy1vSEpwaW55MEtTX1dKLU9vSEhxcDFUeWpXVjhCZGpxY0JEbWRrTG13OEhNVlZMc1E3amxsOEVqQ3hPNDFyRXVlN2RKbGhWdXdienN3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784185200
+    },
+    {
+      "title": "Three free agent signings who make sense for the Eagles prior to training camp - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2s3SXFITW1oSlZ5VkNacThJYzdBTnVZYVVlRjE1Y2VpSUJEQ0kwclhzZENmQ0FmNmlZUFAzMmRQck5lTFpZa04tZkVjTHdtN2tJZHFCZVpkbEFRS2gwX2JXYkxuRnVNUzZUVndVdjljVHNpNVRsZ1A4cllEdE1ISzBURXlxWEdCbjdTaEEwRzh3dU4zb3h1NDVCcXVTOUxnNTdiSEVvdUh2d3dQMEJzaTJIenNCTjV3YnVv?oc=5",
       "source": "Google News — Eagles",
       "published": 1784185200
     },
