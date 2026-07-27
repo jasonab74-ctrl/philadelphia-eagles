@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-27T16:59:41.664215+00:00",
+  "updated_at": "2026-07-27T18:41:55.708324+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -10,6 +10,12 @@
       "title": "Eagles schedule preview: Seahawks",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/177887/eagles-schedule-preview-seahawks",
       "source": "Bleeding Green Nation",
+      "published": 1785170040
+    },
+    {
+      "title": "Eagles schedule preview: Seahawks - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNS01emQzVFlRUVI0dTVCcXJqWldURHhpTEdWMDJILVo4VloyZ1lNajdXdWdzTUt2ZUZqUHBpUnlER25KWTE0X2U3amxmaE9PZzlaMHF4eENSSXprT2EzQVlTYkNDOVFzMURPODAyWWZMOFNBN3dQUWJUWWN5YlFmZ1FhUUdTemtz?oc=5",
+      "source": "Google News — Eagles",
       "published": 1785170040
     },
     {
@@ -289,12 +295,6 @@
       "published": 1784739897
     },
     {
-      "title": "Philadelphia Eagles QB Jalen Hurts Has Drastic Fall in NFL Top 100 Players List - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVW45aTFPVHhPS0NlVkh4RnJQRGhPb3ptUTJZd1J0ZC16OGI4cjNGZnpXYnRIMU1xSEFhSVVLMmZoM05mOEtSZW1Yb3d6YmtIbDY1cWp3bVNkaDRvNHQ5bTk3X3d4b1I3cnJTZnBoWF8xS3Y5YTJldTVCcWRrSHloaHBqeGlYRFRwSGpZ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784737821
-    },
-    {
       "title": "Eagles' Jordan Davis to offer Big Man Camp for young athletes - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTy00LUVmN1B0Nmczazl3WGF4LXc2c3dzc0lLUGF0YXRXWUExOGpkdWVHSGxHV2RadjFEaFVZalZYOTNEazVhTG5oU0xXdUxFLXRHS0dHVTMtWkYwd0VHNW1WZ2FSb1BVTlpteTQ1VUp1cTZON3dyQnJEeGVCRUVuSUhZcGpUNDNITV9VRldWQTdTOE5IUXltNGczRlBYLTBpaGhhSjZodm5pSF9vUXhCT29ydGdnNmNyQldfdkpMUFg0VF8zNlJhazc2ZWZjYkF1c1VBTXU0ZHcwSE3SAeMBQVVfeXFMTXQ5REwyNnJvQ0lucVhHOFh4eWsxUUlfZjBEcHRVLXFtR0djRC0tUVRRUXNsUHRNSE1fcjh3ay1kZTJMVmN5YkUwSlpVRnNucDVSR0tZRjg5Qm1ILTBtTFN4MlJHUFFQN3FtSnlseERfZ3dOcVBCeGNpQ284dklTa21Cb19aNFU1bWRFT2tMRjNnNU00U0MtVFdMbFRtbnQ3MWhCM3lRZ2dfblNTTXhGUWwwREI2YkdKMmU0WGZmeGs1MDVUVjczbWMxNVNkVkNMQmdPWDVrdFd2eEpnXzBtZFJsNTA?oc=5",
       "source": "Google News — Eagles",
@@ -439,14 +439,14 @@
       "published": 1784541733
     },
     {
-      "title": "Eagles' Saquon Barkley, family OK after attempted home burglary - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHc4RjUyR25vX2d3d1RUbXRrWVViaVduUjNGYTNwVkhLSW5GV3MxNU5QLUF6SzdsbnVKZWJsOGZoZDl5SzFoeURPdXFnX25UTEt6Z29jX0ljWmNOZ2tLTWVGYVFzbk9zd3FmQlFoU1o3bHI3TkRXbGk4QmZ5bWt6dWROWS00d0RGV2hybDZoRGhyd1poVEpjV2VybHF4dVNlX0E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784468760
-    },
-    {
       "title": "Eagles' Saquon Barkley, family unharmed after attempted home invasion - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkt2WmZRRWV6V09YWHVlOHZIdWxrMTIxQ29qRVdaeVFxQl9ac3A2Um9XLURINmN5a0VHV01qcmFaRlZXWDdzb09CTndZQVZZcWFlOWx0THdSM1dhTEhveGprX3ZRWE14RXNtUXIySVBxNW5aVFBvVVBTdllpT3V6NTh3S280QUhNdFktVFhsdjdRS2xEMjNxa0JIRndEUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784444400
+    },
+    {
+      "title": "Eagles' Saquon Barkley, family OK after attempted home burglary - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHc4RjUyR25vX2d3d1RUbXRrWVViaVduUjNGYTNwVkhLSW5GV3MxNU5QLUF6SzdsbnVKZWJsOGZoZDl5SzFoeURPdXFnX25UTEt6Z29jX0ljWmNOZ2tLTWVGYVFzbk9zd3FmQlFoU1o3bHI3TkRXbGk4QmZ5bWt6dWROWS00d0RGV2hybDZoRGhyd1poVEpjV2VybHF4dVNlX0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1784444400
     },
