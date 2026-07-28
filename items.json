@@ -1,16 +1,46 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-07-28T12:21:04.410571+00:00",
+  "updated_at": "2026-07-28T14:59:46.620067+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles News: Darius Cooper among training camp trade candidates",
+      "link": "https://www.bleedinggreennation.com/news/177992/eagles-news-darius-cooper-among-training-camp-trade-candidates",
+      "source": "Bleeding Green Nation",
+      "published": 1785245897
+    },
+    {
+      "title": "Eagles training camp: Storylines, position battles, concerns and potential trades - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHpVQ3YyTTNGM0xGSERWSVpIYzBFU2tja0pZS1BsaGZzZUhwZVhjenNoX0hoRTVzY1VQelVlTDF0LUlFNkU1dTBYUjJaNDJGeEt6NjJpWXFneWRLcFlBNHZWa0M2RUMxNXVLamROMm5GczA0VU5NUTF1Z3lTUjlGbE8zc0QyTzNT?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785243163
+    },
+    {
+      "title": "Spadaro: 6 storylines to follow as Eagles Training Camp is here! - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlFtVDYyRDJ0TWpsQl9pWEJhM3d3WS1tdlJkZW94LVd3cjMtaTZ1Z01fUTJ5em0tdEMzTi03cEpaSmRYRnYwUjBldWdvTG42ODJtQjdhNlZmSFA3WnIyemlIS2VVeGEzNlZiVWZGRGYxc19sUUZ3bzQ3N19fenNZdzNWMDRSdFljUjh3WWVqWkVteFBuTndiVmN3cmhRbDZPUDZsTg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785241979
+    },
+    {
+      "title": "Five Eagles players on the trade block heading into training camp - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVRwc2E0cUMxM08zUUt1VnV5RE9UbS13Tm5aX0lZTm9PdUljSWRLR0kydkJyNTRKR0lIV05OQ25lZ2ZDRmxiWjBPOTVJNnc3VVZvd1NlVXlhZGdsOGxQcGRwQ3JYSktqYVZDZGVOM1h6bXZzNUlqaW16aUJ0THFOMmw0OFVlLUR5RWJDMklaUTM4VV9BU2tHQUtsdzVCUmpUblIwMmdwWkNBcF9jS1FMMTR3ZDhISERBQ0Z5MDV5U214VnExQVJr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785238489
+    },
+    {
       "title": "Everything you need to know as Eagles begin 2026 training camp - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSF9Kcm5GT2lWa3YyVnV6MnlQTEZPaEVad3k0XzQ2Nl8xMm9jYTZQSndOalRBenpzMUR5N0JrdzctY1ZraUhidDZ2aHpNMVlKbHNVTmQ4RjB6NFdfMi1oaGpjYkU0aThwU2Rid0lBRUJLOWI5cVdFTy1QNGlndmdoR0NPbm5LWEV1WGdSS0lwT0Y2RXNBQnU4MF83aTZVeE5xZE16VmtZYlkxMDc1Sm54dnVIeGxFR3RiNE1LVy1FX3AyeXgwQUFIUHFRZTLSAdQBQVVfeXFMT0p1TXB0Yy1oUER3TGUwbmlad2Y3eHAyUmNKRGZsTENtNE5hZFJURTA1TnNpUEZOcnRZVC05aVVsNEgxNlNMeV9wbnpicGE5OTJsb2Z5d3o0SWExeUlHejAwQ1dJa0x5VDZVQm1iOHhWcWFUdXlMaUYxN2Jvd3ZFWXRaOV9BajRHdDliN1paaVVjRkpleUpKZi1teEw4VXdsOUhDWk1tWGdXTHg0VWlnb3NrQlVpTlA2T1RCaURrVmNDeG9Ldi11R0ItQVptOFZNdjhTY0s?oc=5",
       "source": "Google News — Eagles",
       "published": 1785236400
+    },
+    {
+      "title": "2026 Eagles training camp storylines, players to watch and more - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KRUxMX0Z3bHRSQl84SHJLZDJ5QjAyUXdzUnVqb1Fhb0Q5WEd6Z1RsajN6T0JUdndzczRNRlF0MmlRQ05KaUFmekpURUMwejVDUU4wUy1aWW42ZVRHcllBNWlWZ0stN0xtTkpmcXp2YlBodHdFc28w?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785229208
     },
     {
       "title": "Makai Lemon is a versatile player",
@@ -47,12 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHd5TkZoSlI4RVRjWGdhX2pSbGFNV2ZaRHRWU0VkMnJtYjlYVFB4d1dyNXluN0FFdVkwRmJXWnktOFV1aUVCOEQzUWNscmNlSGcxalZndnJFY1NzUVE2eDhhamh6N0hWY3VCWWpWYjFqNE1SZDlXZEhxRGQ1VEpFdVNSdHBFaVVZMHgxeXBtVkV6YUVyZ1dsZFZ2UW5PR3VSVUFLRVFwZFctbGs?oc=5",
       "source": "Google News — Eagles",
       "published": 1785162001
-    },
-    {
-      "title": "Eagles’ Saquon Barkley Didn’t Hold Back on A.J. Brown - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzNrc0ZVSzZCbVk0WDdkbmpvUTRQblVOZ3pwMXRkM25FUFpqZXhwQnFmSTVOWTVPZndiQUdXN2xRbTJJVU9WeGtoWTlyVnU0WmtRVG53dVBXeWI5c3k1VkVDNEZ6bGtmODBOcjF0WldNWGVwRFFfcVBjZmNydDk1SjF1NXNwV0pVRFpUbVNIanpFSWVHYmN6VQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1785157592
     },
     {
       "title": "30 things I'll be watching at 2026 Eagles training camp - PhillyVoice",
@@ -95,6 +119,12 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVmdrS0Zxak1UYmhNM0N3ejQzZ0xIZm1hQkRIV1BQbVNva0x0NDc4SkpOcnBGN2lPLW1UMXF0UWYweDU2V3N2MElWcl9FVGxUY1Y0RkdKUU1nQVFTaWcxTGpVUl9KM0dDODN2ZklIRk5hZzIwY2ZCNld3NExGNXdQRTM2Y0N6aUlmb3BWTnBOYlVheTRodVRUVjhLYWFOeVVpcEtCRGhZVnZ6Uk9IUHdQa2ZMOTdkVExnSl9DWUxhdVhBX2xEWUFOR20zSjRMNUU?oc=5",
       "source": "Google News — Eagles",
       "published": 1785101782
+    },
+    {
+      "title": "Ex-Eagles Defender Takes Brutal Shot at Jalen Hurts - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmltNjR0U1FKcDFIUk4wSzVxQk1teGZjcjZWMUxTOHJ3TWJLZ09JMFNkbWN0NDdyZFotRU5DVHBIYm81ZGRQeGRZMEIyTVJsZFNJV0FnWHBLTGlGUHRmZV94cnljejRzdGZHQ3dxWlZMNExhUDBxOWtiOW1tM3R6dkVSOTVBcGg4X3RhS25fdjlVcFlaQTRJaEs4WQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785090429
     },
     {
       "title": "30 Most Important Eagles of 2026: No. 18 Jalyx Hunt - Eagles Wire",
@@ -167,12 +197,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdzB2U1QwQ0ZzU2taVzhHcG51eVhMYXhZNjQ4TVpSS0ZMZkxjWGx6Q1JVaUFSSXptQmZnZ0VkVTB2Z1h1UmZQTkp6RlNIcUhpTk5nRld5V3g1a0d4MGU3c1RZOFZsWWpQZi1odXA4dWpoczk2WDJqWHBnR1dIS3M?oc=5",
       "source": "Google News — Eagles",
       "published": 1784911440
-    },
-    {
-      "title": "Eagles News: Philadelphia’s top non-quarterback MVP candidate",
-      "link": "https://www.bleedinggreennation.com/news/177901/eagles-news-philadelphias-top-non-quarterback-mvp-candidate",
-      "source": "Bleeding Green Nation",
-      "published": 1784907379
     },
     {
       "title": "Chandler Martin visited the Eagles ahead of training camp - Bleeding Green Nation",
@@ -379,22 +403,16 @@
       "published": 1784718000
     },
     {
+      "title": "Why success of Eagles' new offense rests on No. 3 most intriguing - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV0xQMG5zaDBjX2YxeVFxLXdxWFdQd2JpTXpENElRT1FyTzlmeEZiSFRob1pKWmhSZ3RUZjhrYXBhNmhFYVFIYng4VlZERXkxQkFPMHY3b1BROHU1TEdDSWlMaWFxSFVXckctNGhQaHliWlhSVEQ5d09CcENXVFJOU2ExNTFBakg1bGNHV1lHWFdNNWd3TUlYZWNiTks3aGRqYzZxZWs2Q29aWUtOUU1yOGJIYzNMZnc1T0xKMkd4a2J4TDVrdTd2SHdSc0NSZ2g4bmVjY3djX1RJWHdiOXZyX0paZF9OUWdPNU9pZUJwTmh1UQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1784709060
+    },
+    {
       "title": "Eagles Bengals Preseason Game Center | Cincinnati Bengals - bengals.com - Cincinnati Bengals",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uaFk4bm9ySEdISGFIZlNLdDQ3SzhkNzh5QXN1R1k3ekdMa2hrZm94SkpHZjdjMm1OM3BxckY5NGlJejlsNDlsbXo5SzlPRFdlRXB5QUVLclcyUVVRQnNFOER2aXBTbld0V3UtaU16QQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1784704766
-    },
-    {
-      "title": "Grading The Eagles Offseason Acquisitions In Terms Of Impact Heading Into Training Camp - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTW1BMFVxdmhjZjQ4d2VCRE5ucldEckxUek02LXI4STlBNDVIaVJOSlZaM0tOeGE4LWhDdDhJSnA3dU8ySDByQ1JZeE45TVlOSlJHcGdjNU9QcHByQkl4MkxFV2hZYkJpeFZ1MG9JSXdPbTh5NXk2M3loYnJLczhNenJLMlZzTTl5aDJoYTYwUExrRHRjYWt5SlNzTF93RGNZT0hkV2JHaDVpRnc1SnYyN3laLWdjNF9NLUFJRWR6Q296OEo5eXJhTEpvTU42QlNF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784682000
-    },
-    {
-      "title": "Eagles' Nick Sirianni Reportedly Facing 'Scrutiny' Next Season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2MxZTJyckExY1pvdGxobGxRRTUtdlRZSEdYYjUzRkhUR2pFYUUzenhfaWt6TVV3QmdNTmhzalVRaTZ6VWM4OWdabjQtQ21oNGRqblMyYjVpdEtOb3lSZE15UGNCRkYzQWFyWlhqYnFleGFfQ01qQ19vZC1jV3RJclp5UlVwcVAydElodGZ0TGw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784678400
     },
     {
       "title": "Camera Roll: Orcas, Glaciers, and Eagles on a 7-Day Alaska Cruise - Matador Network",
@@ -463,28 +481,22 @@
       "published": 1784545200
     },
     {
-      "title": "Taking a closer look at Eagles' safety battle in 2026 training camp - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDg2aFJWUGwtZnp4cGd1N29fRVZrVHFqczFiWlhaR2JKTThQUkpLQjdsZUFad2h0bk9SblZiakM4bk50NDd2dHBCZmZvYjRVLVRkaUxjLXBHMzZvTnpXLV84RTlRNXplZi1OWHl0NFRlcGZmcXBEQ25fNmF0SVhhWWxqeUxnREozS3hfU2dnWWdnYk0zdmdMUnRHRENKYk9EZnd0eUFMMFJQS1JoYVHSAbYBQVVfeXFMUC1lMDZJWU41MnpDR3F1aDIyTllyQnJ3RGNFakFEdUZ5MWU3aDlqZ0JFb2hRRUI1b0E1bDNRY2tScDNYR2EzRWNJYmVWUHV1TFJMRHNqX1pJdEVPN0owaC1uTmhyeURibkZiNUU2RWJTSUpRelR1T2JTeGtuUzVzcEc2NzIwaWZMaUxfSzB0SkRpMGdOaEdBRGhJcV8tN1cwQmM0OHY4S09ZaXZ6Z2s1eVJmX0piTXc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784545200
-    },
-    {
       "title": "Spadaro: Nick Sirianni reveals the secret to team success - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2c2aUE2MExPT0ZONC01T3YyZnpWbFJPNHFxS2NDbzNWaFJXbVJjdTdodWVHQmNYWTZuczdlTHZ1bEZHa2RpREN6bW8tcXJVU1ZjV3lkbXNDSVZ2THZIdFNPNTJ4enU3N1FKMDVCVXlTOUNNVG9vRTByRG9sQVA0TkgzaWh2Wmd0UE83SWxXMWQ1dw?oc=5",
       "source": "Google News — Eagles",
       "published": 1784541733
     },
     {
-      "title": "Everybody loves new Eagles CB Riq Woolen - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFZmYVBiQUJDQTVTNElfVmNVY1ByVF9hMUtkT214UVpFY29Bb2hoMHJpSU4tYjdRQVZQM3l0eVpodnBnaENvZ0FEaUtVRmFIWVF2OXhRZ3ZEXzRJRk5OZ19yQW16M0lmQ0hiOG8za29tUlRxc1lBRWMxUzhmSncyRlpWRVBybEEzNWxoWW9FbmlhYzJFc0tpNXRR?oc=5",
+      "title": "Taking a closer look at Eagles' safety battle in 2026 training camp - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDg2aFJWUGwtZnp4cGd1N29fRVZrVHFqczFiWlhaR2JKTThQUkpLQjdsZUFad2h0bk9SblZiakM4bk50NDd2dHBCZmZvYjRVLVRkaUxjLXBHMzZvTnpXLV84RTlRNXplZi1OWHl0NFRlcGZmcXBEQ25fNmF0SVhhWWxqeUxnREozS3hfU2dnWWdnYk0zdmdMUnRHRENKYk9EZnd0eUFMMFJQS1JoYVHSAbYBQVVfeXFMUC1lMDZJWU41MnpDR3F1aDIyTllyQnJ3RGNFakFEdUZ5MWU3aDlqZ0JFb2hRRUI1b0E1bDNRY2tScDNYR2EzRWNJYmVWUHV1TFJMRHNqX1pJdEVPN0owaC1uTmhyeURibkZiNUU2RWJTSUpRelR1T2JTeGtuUzVzcEc2NzIwaWZMaUxfSzB0SkRpMGdOaEdBRGhJcV8tN1cwQmM0OHY4S09ZaXZ6Z2s1eVJmX0piTXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1784530800
     },
     {
-      "title": "New Eagles WR Dontayvion Wicks wants to 'show what I'm worth' after trade, extension - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1k4aTdVeElwa2hMQnNZaExldmdaOXVzTDF6UkVKUEVGelJZY1Q4MlhCZnU3ZVBzb1NwUDRYNG0tU2ZaQXhEc3B4N084RnZkUFdjU3BGVzV1djY5a3RLak00X1pEQVI0VHFPV2xjTFRIVDVSQ0hGTDlTd3IyNkU2MVp6dlZJT0ZiMHZuT0FSLS1iUjA1ZlctUmtxNVdCSGxaa1R3bzJvNmN3UQ?oc=5",
+      "title": "Everybody loves new Eagles CB Riq Woolen - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFZmYVBiQUJDQTVTNElfVmNVY1ByVF9hMUtkT214UVpFY29Bb2hoMHJpSU4tYjdRQVZQM3l0eVpodnBnaENvZ0FEaUtVRmFIWVF2OXhRZ3ZEXzRJRk5OZ19yQW16M0lmQ0hiOG8za29tUlRxc1lBRWMxUzhmSncyRlpWRVBybEEzNWxoWW9FbmlhYzJFc0tpNXRR?oc=5",
       "source": "Google News — Eagles",
-      "published": 1784444400
+      "published": 1784530800
     },
     {
       "title": "Eagles' Saquon Barkley, family unharmed after attempted home invasion - CBS Sports",
@@ -499,20 +511,8 @@
       "published": 1784444400
     },
     {
-      "title": "Things to watch for at Eagles training camp: Specialist edition - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1N5X2M0clZfa0laTzREVW9ZVlgtY0UtZ1JXSEF4OWVTaVVha09mb0hJUGJVRGYxeUFhRmRrdGNkeUpnZ2FMV1hmbmZVTlg0LUMtNFNndHZyemE2R2NTem1pU01MdTRXT1FlTWkyVEVMaEtPR0xycEZVZm13RkxOLVFYUXk3Tzg5ZjE1aG9uVlhQdkhuYWlJamN1R3ZBb3pJLU00Yk84MWpyYm8xYVRhMDFCZ3hsdURRSXhBbGdxaw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784370900
-    },
-    {
       "title": "ESPN survey shows that the Eagles are both loaded and underrated - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWZoOHZUQkxRTDluOFpZSkFGZFByeEZpcG9Sc0tEWW0yeHU4N2c0cXJDZmtvNUptRXM4cmZLWkZYT3Q2djc3eXRzYUVTNW5rVWY1YWtKVzliZHI0RzZ0eVlYNF8yWlh0SFpWaTl5U0pKUDJRRmZuZW4yajI0aVU4ZEFaRG5SaXo5S2pCYQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784271600
-    },
-    {
-      "title": "Eagles offseason review, Part 2: Should they re-sign Brandon Graham, trade Tanner McKee? - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXhxQUdOLUtaQ2pQUUhsODZLVGpISjZHSm5udXlCRHY0ZkJDNGpFd1o5MjdVdlY4YjVZVDhTN0c1M3lRc0hlazNCcHd1UVpSRFFUYXJNOXhzUXpJcUVkQnNUTVp5TUZHSDUzaG9UcjlBYWtTTEpYQjdGUHBuNl9NX1NhZGoxc1B3al9LMjJpUXRnNTR1NDY0V0pJd01nRDZzREFvQUozbw?oc=5",
       "source": "Google News — Eagles",
       "published": 1784271600
     },
