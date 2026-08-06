@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-06T04:14:18.954347+00:00",
+  "updated_at": "2026-08-06T07:15:56.479643+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -47,6 +47,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTllXdFpjYW5BMDVkY0ZqZnlwSkpLQWMyMU52UEUyRWIwOGRwUG1pOTNQMGlnaTNyb2Z5ZE0tbTRoN2J4X0Jhb2dlLWR1UmNpZmVGelQ0OWNCN2NtbGdud3p6Y3lYeEI2MFJlU0hYZl85UXF5TmN1Q2hIajRWeDBRSzZFdUl6YzMyODBkTFR3RHNtNk1Sdi01SUFIX0dLd0doMlNZSlBUcWhSSVRfWkFn?oc=5",
       "source": "Google News — Eagles",
       "published": 1785950397
+    },
+    {
+      "title": "Eagles Announce 2026 Cross Country Schedule - North Carolina Central University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEotV1pfWnJkSnBucUJRMzNJM0xLS2RNcnlfSXZpaXZJeHhZc3prWWRZRXpndzgtVW15TVZid0ZmanBDeFdhel9FNHA0QWdrY3c2TEdvMXF1cEp1WjJCX0tSdHNWOFJRQ202bGM0WmZFN0RVcmZSS2JCTkFSaTBSQ2JTZnY5WmQ3S0t5aGVqVG9OTVk?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785948196
     },
     {
       "title": "Heroes and zeroes from Day 6 of Eagles training camp: Jalen Hurts looks solid during short practice - PhillyVoice",
@@ -137,12 +143,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdjhDdXZoRzFLUDV5RTJtd0wzR0VTY1liNWc0QXdiUURDMW9ZdHRUaFQ3U2g5ZHN2N3RweXpGQVdKOGxKb1AxRkdRRl9wczJNUjMtSWwwZ09PdkNRYzJYRGxrU1Zhd3J6djg3N0huc1NadzdmVUtURE1EczdMSmtoUFdoUUVjcjRDSWp0MVA0S0ZCTzh2eTJ1TlRKdnptaTVqcTMtbzhNWXNUTlNBdll3QTJ0S0k1bzZjU1BqSjhHWFlvenFuTXc4UXlidl8?oc=5",
       "source": "Google News — Eagles",
       "published": 1785860863
-    },
-    {
-      "title": "Eagles fans' hearts just dropped with scary Cooper DeJean news - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUE3ckhBWXN4UkdTcEFXLUV2cGNudTFYZkJ6dHBfaGNjLURwZXN5b3VvUmkyQlFsNlhQb0NvM3VOMUx6bzZDcnh1emNqa1hHMHAzRVpjMWJDXzBFUmJCZTJ0ZUZud3FaWF9XaUp0VFFLcFRQamVaSHBJODQ5WHp5WDZNZWNual9pWDV2cUR5QVdPR1ZPRk1sbGx3M3Z4RVR6ckVZQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1785859061
     },
     {
       "title": "Lane Johnson has missed three straight practices at Eagles camp for non-injury reasons - NBC Sports",
@@ -421,6 +421,12 @@
       "published": 1785332640
     },
     {
+      "title": "Eagles News: Jalen Carter contract extension draws praise - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFhqVVpVZ0x0SVMzSkpYXzQ0NTA2M2xkTTY4bXNnWWl0cXlqdUhxZ2RhS1FTSGhxdldwcXN0SjZ5M2x0SkUzWURKbWVObV9ORWlYU0NYRm11M2xmOTVQOTZTUlVpb2dQeU1JWkZ1OFFHMEVmM08xVzBUQjdObWJVV0pQTW5Tb2lTa0hIS0g4WDlXaFN6T0ZVdjV2RHFuYm1WTS13VUNtRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785323148
+    },
+    {
       "title": "Remembering the biggest story at every Eagles training camp since 1986 - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGpIZWxEYnZYSC1SUG1XUXBNbXJqN3ZGMUk2NmVZaEplZ21Ubjd6RHdmMkE1MGRlUGtic1pfelM4ckJCbXF3cmhCSlQ5UXBmUlBBSkJlY0tWc3c1Rk1IdWJPajBZUGI5emJLc0Y1Y2JQcVJjakozRWFJTFRmSlVteGxkZHRka0x6RUM3elRoYmFiemk1a2ZRVDdIRllJcFd2bFpteG44VlR5ZGxveS02QU91bkdxdVFSRTBKVlI4a1FtdFBtemFYN21ERHdFUGsxS3fSAdoBQVVfeXFMUGFwX0QzNGktQjRFanJVSVZtWGtIcGNEUDJIdWZHRGYxS0dvU0NQaU1wYnBIRWlrOXV6T21iN2M4dU0yUFNBYm9ycUdzZGIzeldqSWFrR2NBZ1ZETldCTWtQQjR4alBCUnVlZXYtdF9oRjFiR05pNl9od2VwMFNNcEN1YXRuTWswNXc5d1RfQXd4b2lNMGdpOExjWEVHamRGbW1PUUU3QWNWVmwwMThCcFhYcFJvLXhsdGhBa3R1c2ItV0Y5MVF6UlJkdUNjWVhEakJyRUlnb2huOUE?oc=5",
       "source": "Google News — Eagles",
@@ -431,12 +437,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1gxU09jcFVaZnEzQ01EX1BUVkstZ3g4Q3BkX3loQ3poZDFNandkUHNNaGIyQUo3TE5pdXpyVmYxNlI5dGtEYzVuMXI5VEFzdEd1bmp1cU5jNE95bHE0S1AwTkJxNVZIbmdXSl85TlNnMlJnUHpWME1WcnRVaExWbkRKN1JiS0E5Z0duOVRHTmt6dHUzZi1yVC1zX1h0UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1785284985
-    },
-    {
-      "title": "Eagles, Jalen Carter agree to extension reportedly worth up to $160M, making him highest paid DT in NFL - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXdOVmZkSzQ1SFpUZmJpM0tobGJDYUxIQU9odmxPQVI3aGVaUnBweUgtbGt6bmxTNUpjc3RaTjFTSjI2U1N1T21wZXN0ZGk4ZjUyQ0VPYkJEdUcwelY0TmxERzFhaE5JbDhSaHVhaGZwVTR1ZWc3SVJyaTAxNkMwUTE2TllOcFFuT2FiSWE4WkZRWHlXOXFGaHN6OFhuNUVOLUFQZkZGbzlMdHd0RU4wYjhQMjVHejU0d0hCcVBkaThpRGdKelF1VDN0YjZxNTZxYnZ5bGw3ZTdTZnlTNl93SU02YzBxcWNieENXbFdGUVNfd3NjUjVCM3B3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1785258365
     },
     {
       "title": "Spadaro: 6 storylines to follow as Eagles Training Camp is here! - Philadelphia Eagles",
@@ -465,6 +465,12 @@
     {
       "title": "Eagles, DT Jalen Carter agree to four-year, $152M extension - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFlVREpxUkhILWM1Z0xJSk5jWHFEOW5xejdwZFB2LXFlVlV1WWFrYWhfVWxTSXBRbFFnMUdyTmdMNExHZGEzVllyOG4tYjVmczJCaFlSc3FGdVljWmFTRk8tYllRWmhuc0ZMZzZGMFVsaW4wSWNTS0JhT2xiVDdyLWQtTVJkbzNkUWJlaDJkdDRjdW9oSGprTmU5eVRBdUk?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785222000
+    },
+    {
+      "title": "Eagles, Jalen Carter agree to extension reportedly worth up to $160M, making him highest paid DT in NFL - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXdOVmZkSzQ1SFpUZmJpM0tobGJDYUxIQU9odmxPQVI3aGVaUnBweUgtbGt6bmxTNUpjc3RaTjFTSjI2U1N1T21wZXN0ZGk4ZjUyQ0VPYkJEdUcwelY0TmxERzFhaE5JbDhSaHVhaGZwVTR1ZWc3SVJyaTAxNkMwUTE2TllOcFFuT2FiSWE4WkZRWHlXOXFGaHN6OFhuNUVOLUFQZkZGbzlMdHd0RU4wYjhQMjVHejU0d0hCcVBkaThpRGdKelF1VDN0YjZxNTZxYnZ5bGw3ZTdTZnlTNl93SU02YzBxcWNieENXbFdGUVNfd3NjUjVCM3B3?oc=5",
       "source": "Google News — Eagles",
       "published": 1785222000
     },
@@ -509,12 +515,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTJRTFVWeklqUlhheHZFSkhwN3FIVm10ZUwwZE56OENNQUJ2b0dVRHNhUTRMMmhCX2c0cHM5eURpOVBZWGppM3N3M1VOSXN3MzAwNG5BcTQ3X3N5X3FZZkZ3OENPZkRnZ3hiUjg5cHFmbk5hWUJvZThYOWF2NnV6N3lmZW5VVnlQRi05SnY3QWRSQjY4VzNnQVE2ZUtfUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1785222000
-    },
-    {
-      "title": "2026 Philadelphia Eagles training camp preview - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0NocHNzWnBFWUpRNll1T2JIUFZuaFFEZXRNbFJrSVp5elBWcU1aRHctTFFiaEFPZFVBVXlpbzJGc2t1NUpOaWM4MGJ1a241dGcyUnpFYWw1XzN3LWdXSEFUYjRYZjNvR0REbW5Fa2JuN2JGbF9hWkZLcVhxRHJ6SXNsOUsydllRempBWmEyZzhYd01uV1l5aEdGNA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1784790000
     }
   ]
 }
