@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-08T18:40:27.134785+00:00",
+  "updated_at": "2026-08-08T19:31:45.950961+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -11,6 +11,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWEtMzNMNG9lYTdnQWMta3RDbUs3eVZDNHF3R2NTM2pVQk9DY0JqdlF1b25sZlcxTExXSFQ2YkZYemh1TWwtd0VjY0FEMGRyMXRvcXZsTmZ5YTAxTmZZbVUtQ2E2ZFRtSTJROFdwbTBneTJOdm5HU05wZmJjUU8xOGtpc0o1N1MxT241T0wyckk?oc=5",
       "source": "Google News — Eagles",
       "published": 1786210117
+    },
+    {
+      "title": "Eagles training camp observations: A long scrimmage day in the heat - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRDlGSmhvMTlXNE1FQi0yd3BmUnQxSXV1b2VXTGlNNkdNRUZXVU54VFFxQWM5MHdfc1ZoMW01S2dMVXV4S3kzM1k2V0M0NFZEZDB0LVV6YWxqeURWZ0NlbHJMWlVsbl83dUhqSDROYXVHUE1HdHd3WEVLd1puQmtmQU5uSkNyT3pMR3VpU2s5cGY3eTFJaENEZFNqek1xX2ZBYTR3YmhQN0pHQzVMWnlTSm1MdTFCVHpoYUlyM0JtZko0OWt3aUgtZHI3dU9pbVo3REHSAdoBQVVfeXFMTnY1N0tIUTlObFVaakpkNWhjdjJPNkZMZ01ZbXd3cDd0NVdHM2JFV1BkY3l4eXpOQjZ1OUtIVFJUSjFyTHhiZlpYWXRDamh5TDJYT2FDcFJISDhYZ3hvRHE3UlkxWHZzNUpuRXFmaWVubzg4MFF6QWMzZXl0dGFwNlBPdzAtSmRNbkpjanNPODhJVWJmdmhOejZObUNNWGJBdVZwZC1pV2JyQ0NRMlRPYTRINkhQUEZURDNRTWNFTk1qZlBWLS1taDR3SWZwVlA2aDBCUFh5VXpJZGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786209843
     },
     {
       "title": "Eagles all-timer Lane Johnson expects 2026 to be his final NFL season - NBC Sports Philadelphia",
@@ -34,6 +40,12 @@
       "title": "Philadelphia Eagles practice updates live from training camp: Day 8",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/178895/philadelphia-eagles-practice-updates-live-from-training-camp-day-8",
       "source": "Bleeding Green Nation",
+      "published": 1786193940
+    },
+    {
+      "title": "Philadelphia Eagles practice updates live from training camp: Day 8 - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUV0UWdERnhFbVRJXy1HZmdGcE9sNFcydW1PNnJzb0ppc3BsaXhLMjF1VVhKRkZKa2d2OEhDRUhsZUMyMGhRdmV4d21SdlNIRGxwTm43RWQtWVRiWGR2d2VnN0hkUElIN2NhanFZaUNOZklMa0xFb0hKM2E4VEloTGNZdWViYVpWZG94aUV2bWF6MExCR0VCQm45RzBnSFp3Q2llMzVJck5aclphcWxLMHlHOVZTd1JUS044R2F6Mi1oOGs3SWlnNUgzdTR1OVd2T1ZEaGJ3?oc=5",
+      "source": "Google News — Eagles",
       "published": 1786193940
     },
     {
@@ -229,7 +241,7 @@
       "published": 1785955113
     },
     {
-      "title": "Mattern Earns Preseason All-Big Sky Honors; Eagles Selected Fifth - goeags.com",
+      "title": "Mattern Earns Preseason All-Big Sky Honors; Eagles Selected Fifth - Eastern Washington University Athletics",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmZqVUI3ZGVtUldTMF9GVHdaakoyaTJaak5GUkRUQ1VyQTl4SDFNLUU4UnRIX0swVGxsSmVHZWNQcWtILVZwUm15Vm1pNG91aGdfT1VWZWQtQlZ4VVlUeFUwQmpxb0lQdjlPazRzMWk3Ump0VVIyOUkxZkE2UWprQlJZc0Voc3hzUXF1ZWNObmtIbzJQaUFIYjlVMTdpMjhCblZ1MGJ0Yno4VHRwZ1ZfOEs5cnkzbHM?oc=5",
       "source": "Google News — Eagles",
       "published": 1785954863
@@ -257,12 +269,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTllXdFpjYW5BMDVkY0ZqZnlwSkpLQWMyMU52UEUyRWIwOGRwUG1pOTNQMGlnaTNyb2Z5ZE0tbTRoN2J4X0Jhb2dlLWR1UmNpZmVGelQ0OWNCN2NtbGdud3p6Y3lYeEI2MFJlU0hYZl85UXF5TmN1Q2hIajRWeDBRSzZFdUl6YzMyODBkTFR3RHNtNk1Sdi01SUFIX0dLd0doMlNZSlBUcWhSSVRfWkFn?oc=5",
       "source": "Google News — Eagles",
       "published": 1785950397
-    },
-    {
-      "title": "Eagles Announce 2026 Cross Country Schedule - North Carolina Central University Athletics",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEotV1pfWnJkSnBucUJRMzNJM0xLS2RNcnlfSXZpaXZJeHhZc3prWWRZRXpndzgtVW15TVZid0ZmanBDeFdhel9FNHA0QWdrY3c2TEdvMXF1cEp1WjJCX0tSdHNWOFJRQ202bGM0WmZFN0RVcmZSS2JCTkFSaTBSQ2JTZnY5WmQ3S0t5aGVqVG9OTVk?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1785948196
     },
     {
       "title": "Heroes and zeroes from Day 6 of Eagles training camp: Jalen Hurts looks solid during short practice - PhillyVoice",
