@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-10T19:31:23.443107+00:00",
+  "updated_at": "2026-08-10T20:44:35.562556+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles Training Camp Practice Notes: Darius Cooper is undeniable",
+      "link": "https://www.bleedinggreennation.com/news/179125/eagles-training-camp-practice-notes-darius-cooper-is-undeniable",
+      "source": "Bleeding Green Nation",
+      "published": 1786392083
+    },
     {
       "title": "Sean Mannion says the Eagles will still “lean into” the tush push",
       "link": "https://www.bleedinggreennation.com/news/179108/sean-mannion-comments-tush-push-play-calling-preseason-expectations",
@@ -28,6 +34,12 @@
       "title": "Eagles sign 3 players, including their former draft pick",
       "link": "https://www.bleedinggreennation.com/news/179100/eagles-sign-3-new-players-including-their-former-draft-pick",
       "source": "Bleeding Green Nation",
+      "published": 1786383844
+    },
+    {
+      "title": "Eagles sign 3 players, including their former draft pick - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjhOek5oaG1mT0hfMm53VHBLRmNkU0pUbTJKb0k1Nmc3TXVsR2Vrb1MwN0xNbzg5QURQdWFTcFpzNFpNdGl2OFo0MHF5ZGg1WkhLT3hFelN2ODRtS1g1UUhQZmNNSV9Mdkpjcl9IOXBka2NoMG1GY19Hd2psTm9HWFBZWGxrQmJ0azF3SXFfZGFMT3ltbnhBdnJuVk00Ynk3UTJ5TG9Ca19mczQ?oc=5",
+      "source": "Google News — Eagles",
       "published": 1786383844
     },
     {
@@ -109,12 +121,6 @@
       "published": 1786359600
     },
     {
-      "title": "Eagles training camp: 6 pressing questions after second week of practices - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmx4Y084WkFGdm90LXkyOWg2bkxvV29FQS1lcDV4Q1lNdThUcFVPQ21VWjItc3oxbFU4d1VfeEhYR3Z4NUpaNl8xekQ0VFlrc1lwMmpFYkdhYmRTaW45QzluT1pBUGlUNUlfb01zX21FSFRIVHRrbF80UzF2MUZXUkpPMHFwSFItQU44?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786356005
-    },
-    {
       "title": "Eagles work out 3 free agents",
       "link": "https://www.bleedinggreennation.com/news/179056/eagles-work-out-3-free-agents",
       "source": "Bleeding Green Nation",
@@ -149,12 +155,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-schedule/177953/philadelphia-eagles-2026-schedule-scores",
       "source": "Bleeding Green Nation",
       "published": 1786286837
-    },
-    {
-      "title": "Eagles News: Willie Lampkin impressing teammates as he pushes for a roster spot",
-      "link": "https://www.bleedinggreennation.com/news/178983/eagles-news-willie-lampkin-impressing-teammates-as-he-pushes-for-a-roster-spot",
-      "source": "Bleeding Green Nation",
-      "published": 1786284408
     },
     {
       "title": "Eagles News: Willie Lampkin impressing teammates as he pushes for a roster spot - Bleeding Green Nation",
@@ -433,12 +433,6 @@
       "published": 1785850380
     },
     {
-      "title": "Mailbag: What simple improvements can the Eagles' offense make? - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXN5UGZSTHpxX3JQYWc2ak5FcFJNZWl1WHhyZTJSbTFHS1BOM1hER2NGYk43VjQ0bkZzeG1wR2IzQ3hwa2RNaVFKa1JOS3k0ZTZvVlNmWUsyTGpVVEpZOXBxUGxrcnBXUzdDcUV0WUM3QktqajNzX3p4d243UEdzUERWRW5sUFEtVnhKam9n?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1785844129
-    },
-    {
       "title": "Eagles Day 4 Training Camp Observations: Everyone Can Breathe: Touchdowns! - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPak9oYUh0VGRVQnY4MEk4NVFMR1pyVHgtVkpfcFhmSk12eWRnQUp3WjQ5MVRXcldNZEVTSnNpaXhnVUppQkZVSlpGQm52dnFrak1Mb25sY2h3NTZwLWpRTnpfcDZxbVJFTjFfVF9ES3M4aU1JNk5FZ25VaTEweTRISFZBem8zc2JDRWVpMEhqQWhfRGhLazlyQlRfTFlTZGtpSjV6bUFLYzIxeDdzaEloNm1OVWNaR2dUb2dNeWZwSlJ3NmpRQ2c?oc=5",
       "source": "Google News — Eagles",
@@ -451,7 +445,7 @@
       "published": 1785786828
     },
     {
-      "title": "Eagles' Nolan Smith took apology for his 136 MPH driving arrest to team ownership and now makes it public - Fox News",
+      "title": "Eagles' Nolan Smith took apology for his 136 MPH driving arrest to team ownership and now makes it public - foxnews.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3lOSzhLX3p0ZElicVdHRzN5LTdhU19NS3RLRlF5TGwzb2dzM1d3Y0JRaFpGTzJocWhSOEJ3LWhvTmlVVHhfSlJjSkZ4SlNvZUpxZDcwcTFiMHZ3Sk93a21hTi1JeTVXSktHY29XTWt1MmJhMVNxZDB5TldPYkxCZXBMTUdWV21US0FkRDc4M0pDakFBdFVVOGdNYWFIQjNCSzQ5djVzODFEbVg4dFNz?oc=5",
       "source": "Google News — Eagles",
       "published": 1785782936
@@ -467,6 +461,12 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdW96NzFoWTlVcmJsZlpZNTdsdnRaYm53cnRfblRQYkcyZm9rcXVSSk4yNVVQcU45X0N4YXJuYmZlc0ZNS28xYkZPNEQtdzZKdExkbVMxampUTzFFVlBrY2ZWZjQwVmViWmthazdKdFl6dlJuR3RDR1RONElRRUtPMm9jREZuV3ZQRV8yQjB5eFBadjZqVVZCOGE4V3VXZGkwN3J6ZDZwRnprbEFnbFEzSjZHcGZtT1hVYmh3cjUwVFVtNUszeGZOTFJyRWpRSC15RTNnS3JB0gHeAUFVX3lxTE1wdTZoWDl3OGIweXRUS21teVJLX1ZqSGhhNHY2ZFJVRUQ2bjFTZ2VxZDlRT1BSYS0zWUY3aTdsQ0pSNVNGdURCQXVjRTgzb0JiU0t0dEFFNlZFLVF0RFN2dExsWmw2T2N4ZDhvemkzMktISkNtMDdkV0EtVzA3akFGN1ZJajRNa3ZpT0xsMUJuS2pzdGNSbTRCRnRCb3VsU0o5UXhSaHJLeUJISzc0SmM5bGtpeW5vYmZOckNmc3JUdGpfejRyLWFsclBTSkR6cDFXR2FKbXdNUFZTSjNOUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1785767624
+    },
+    {
+      "title": "Eagles News: NFL defensive line rankings have Philadelphia in third place - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdFFSQnMtdGNNejdMdG9wVXh2cDEyRVR6QU5uV1JfSkU2bC1hUGllQjNaSi0tZFMyNDg3SnR2bUxveHI0eUFMcFVkTlBCZU9yWm1TZXZMVzdYM3daWVRqTUV6SVB4c1RidERuZG1SNHhCNWRuZklmZXRQeEIzdjJteFpBcmR5TW9jSlN1LXBvZ3NBS0ZmZ2tiSllrdFRpSkVRSXlxTEVwb21ITXg3bEI1OGdxMHlJNjNlZkFNOQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785762820
     },
     {
       "title": "Spadaro: The joy has returned for Hollywood Brown - Philadelphia Eagles",
