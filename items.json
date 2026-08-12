@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-12T13:14:46.374478+00:00",
+  "updated_at": "2026-08-12T14:36:10.359803+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Two former Eagles quickly find new teams",
+      "link": "https://www.bleedinggreennation.com/news/179243/two-former-eagles-quickly-find-new-teams",
+      "source": "Bleeding Green Nation",
+      "published": 1786544236
+    },
     {
       "title": "Eagles News: Jonathan Greenard expected to miss “another couple of weeks, at least”",
       "link": "https://www.bleedinggreennation.com/news/179228/eagles-news-jonathan-greenard-expected-to-miss-another-couple-of-weeks-at-least",
@@ -89,6 +95,12 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMk1zOHlZX3VITUVwRFJkY3JOR1FHRFFXd1NmQWFHdHZuODFkcmFlOWNIRHUyX0Y3ZGlwMU43SUFqcnFlVU03MlNaY2tEcWxxTDRBYzQwbXlfZjZYWkFNRzVpcnNCTUgwcjMzakd3Wk5aWV8xNFNMNmJtZElycmJKZ3dRbnoyY3NqengwTDlSQmZKVWM0aDJ5eWNod1NBNDU5RHRockpVX0tqZVE3RVFLTVRMSExzLUhPc3ZuUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786465477
+    },
+    {
+      "title": "Eagles Pads On: Quinyon Mitchell and Darius Cooper Shine! | Sixers Opener Set - PHLY Sports",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZndnN0JWQzYzQlZWUWNlS3JuNlBTSFRaTlVpY1RSNVdScXNWVU9ZbG1PMjFyTW5LRkcyQ1ZxUjd6ZC1pSlRkTWxkdXBFRi1odVl1OG9XN1E2X0pCTEZQc3luUWVyM0FJclpTSkRWUGp4THFSd1dXSDJIVzhGRlZoeWRfR1g3OGxnbV85ZzB0eUp4eG9ZT1ZISFJMeGNOTHJPX0VzR3ZTS1ZlMWNEWTFoNHA1Zm9nbThNSk81TlNldGlrcWh6U1E?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786463433
     },
     {
       "title": "WIP nixes Eagles sideline reporter role after laying off Devan Kaney - Inquirer.com",
@@ -271,12 +283,6 @@
       "published": 1786365246
     },
     {
-      "title": "Eagles News: “It&#8217;s fair at this point to doubt that [Makai Lemon] will start, at least early in the season”",
-      "link": "https://www.bleedinggreennation.com/news/179073/eagles-news-its-fair-at-this-point-to-doubt-that-makai-lemon-will-start-at-least-early-in-the-season",
-      "source": "Bleeding Green Nation",
-      "published": 1786364355
-    },
-    {
       "title": "Eagles News: “It’s fair at this point to doubt that [Makai Lemon] will start, at least early in the season” - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV1lfTXp4d1VRQnJRZXhpX04tU1ZnOGg5VUl2OTRqbFRDTERVN19uRkN5T011bTdYZWxyMWpFcVZXRW9IY2VFR3Q4UHU2X2U1N00wZ3R2RlM4Q2hVWFEtNFQzSGVYci1jVDI2LTZTR0tBY1l2d0NBV2d0dXk2M2RYYnJtSmFNUlkzeVNLUERKblN4QWV2UlZqWFRoS2lSdENIWkQ2SThSTGVxWkRTd0QxSXZ6eXJIQXV5YUNLM3NFTzJZQUowaU5YTjVyMGFwM2xvVmxmQkphMkl1V0ppOUYzSnBn?oc=5",
       "source": "Google News — Eagles",
@@ -427,12 +433,6 @@
       "published": 1786116073
     },
     {
-      "title": "Eagles News: Saquon Barkley says getting Dontayvion Wicks was “a steal” - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX09sWnJMVWFLeHlLRHpGV3hWb0g4aFBnc0pCM2hUTG8zb0hSTzhJYTZMSlpaOEozQnlwZlptUV9CSzdRU09rUG9JUkFIcUZaUUIxOTVWT0tZaHVCTUNPd1U1SGhLa3JYcmdOU3FqVTF2bGRCS082QWpfdTN3akpndXBzM21JN3VtRDl2bVYzcllybjE0S01nWVMzY2p3N2NCb2RLVWMtNmhnc2NXVUtDMFBOalQ3UUU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786106176
-    },
-    {
       "title": "Analyzing NFL executives' perceptions of Eagles QB Jalen Hurts - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVhsU3hpcTRYSzNwb1Zac3VhU0YxZk5uZ2tKbWhoUmVKdVByVU1WZFNVYi1XT3VJcjcxTk1DSHA2Y0lCSnc1S05LWWxWOGpnekZ2c3lRZTVJc2ZkYXpKdXh4ZTNpRkVfb2xkQVFkNzVUWExDanNXTlhwanYxU2RYa0VVeW8wUk5oUUpUSHRfclRDRWVNZ1cw?oc=5",
       "source": "Google News — Eagles",
@@ -443,12 +443,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFpwZU1ZNV9oYVllZ1prbUxlM0VJOGdwUVcxSkd6NWRvMnJmdGhnUk5oVkJjYjdaTEtoLTNRWkhIbFN2aGpzVHhITzJDUzdtaFhDSUVXSjBlUHhQYXdUdHJJaTZBMEFWNUN5dzVhRTNnbFJGMXRLelk5OVZIMEZRazN3TlhYX2FCMDhVanl0RlRrUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786104211
-    },
-    {
-      "title": "Eagles training camp: 17 winners, 8 losers, and 5 IDKs from the first week - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT21iN0Zia3FpNTJHc1JmeS1meVkyaDEydmRLbGlfOXZCb0NxN2RHTmdkUS1TVy1JOUNrS20wYUZIdGRJcHhKeHVkWVJDd0tSVk9mVktJaWNJRDdJclBCOER1eDNxQUhaN2tPM0tLeHZ5MWwtZGFqOUx1VmpHYk5UWU1ucUV3cWhrR3lleU42ZzRrV1cyY2ptUUdHODd2MUR5ME9CSFZaWDUwbmEwT29MWmc1cTA0RGN0WVhxNC0za2lfcm5ENGdPa3BjQk1KN2YwbmFQMGNURWo3NTdW?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786046436
     },
     {
       "title": "Saquon Barkley ranked No. 34 in NFL's Top 100 Players of 2026 - Philadelphia Eagles",
@@ -481,7 +475,7 @@
       "published": 1785944581
     },
     {
-      "title": "Lane Johnson misses fourth straight Eagles practice - NBC Sports",
+      "title": "Lane Johnson misses fourth straight Eagles practice - nbcsports.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHVkZEFCS002a0VXb3NXN1hDdGJxRllxRjlVekdQSTVWd1hqNENueEt4UllGU1hTWFd6alRFN0tLOFBQSm11eGF5WUZfZWhVcWo2andabGFfNlM3OVdKOV9vdUpzUHdxVDlZcVNrdlpyQjJFaDV3aTJFVXk1blcwY3NRNkxXeUQ3aDN5M3J3OVRnTTNIbnJ0VXJVRU94VTFtUUhXdGFwbHQwQnJQU0Z5bkFKMA?oc=5",
       "source": "Google News — Eagles",
       "published": 1785939917
@@ -503,6 +497,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWVLMWNVLVlseDZTYlhKR0E3VDhWd3c4eWNjRXJYX05meEVfMGJLcDlpdWhEMTlITDZuc21uV2RaRnNNT2FNMGJhU0dmYl85NHFqUWwxVjhIUWFwNmlpLTdmTGlRVHltTjJTdi12ZTNHb2hQZTRnUGZxajZ3ZFJYaGJ6RWdKUEgwMFhlY0FvcElaTC12YmdDenpQamk5dnFHWUJmUGZEM2QyYWNGbmlGY2J2RHNwdTFxc0J6Z0NHTVdLNGJuN29NaHRvT3JHb1VaSXRxamxrTUvSAeABQVVfeXFMTkNlMzRnQ0prRFlicXdoeVY2bXVHelNqb3N3MS1SdF96cmdwYnZTU0wxUTc2ZTJlSkVsVVBzR0FjSTE0YlJkVEF6TjhuR3RLa3lGT1hYZ19RcWlkSnVPakdBcEMtWk5BU3czNHRHVTVvUTF0MGNRX2lnaFl3b2xJQ0VNcElqcURPMzlPR3dOZEs1N2F2dmNiejRLVXBmS3lqWE83QXJUQkl1cmRlQkVuaE9kVllTN3E1TFNaM25oWGtPTmtfRHpaOXZ6ZjgxX2RMenh4cTgxem5kVWl5TnExY18?oc=5",
       "source": "Google News — Eagles",
       "published": 1785866770
+    },
+    {
+      "title": "Cooper DeJean ranked No. 38 in NFL's Top 100 Players of 2026 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE1acVdRX3VER2lLU0J2NXZla2VQMTJSWERaR0Z4dVZfemVRc2phTV9jb0ZnQ1JuNW54S0c1RGdZVm11OU10VEhEN21reU8tRGhNbzU5ZWNGNjhlSVRfSkpNVlZxaXlyZUNydThhdmlTWlZuTGlwLWg5S05LbExuU2JrbWlZMG9vV3FnUE5vZGFBMS1GQWg3LThCdFZFQWpI?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785852508
     },
     {
       "title": "Eagles' Nolan Smith apologizes for 'unacceptable' speeding arrest - ESPN",
