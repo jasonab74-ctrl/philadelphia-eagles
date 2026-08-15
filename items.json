@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-15T14:24:51.088947+00:00",
+  "updated_at": "2026-08-15T14:49:38.080367+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -23,12 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXpfbFNkcG5XOUhwWTVFa0lldDVueDhOVW9RZ0ItdV83bjN1MVFiMl9ueTd4dHJXMmVrbUYxNE1xc1Ixd2x5X1R1dFhzZmxRaU84TlU1d2ZTY1M0R1dIVjY3MmZ0QXBpdXBOZGF1cFJvaXdpdHBzeXo0QW9oRWRsSVg2TnF1M1V2MmdKSThNbmR2TE45NS01YlB3SmtMWm9OYW1rMjFDTG5DeDBYLTdYbGIwS1ByVl9VMXpqUnJMZ2FwU1hNUVpUanFUSzJuXy1wUEl1SG1vMmw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786787400
-    },
-    {
-      "title": "What channel is Ravens vs. Eagles on today? Time, TV schedule, live stream to watch NFL Week 1 preseason game - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2xCaUpkYlJMYTdQSElSazRlQ05IOXEteW1hY1FCbDBHcUhXS3h4SlJXSkFsaldfWVlzZElkUkZtN1daMmRSVjdldjNEOVFEenVNZlYzTTNFWmlEaVg3cHRmTFR5WUhfYzNDcVZTN1J0UDVmVUdWX3hPaWliWmdqOFRkdzdWZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786773600
     },
     {
       "title": "Eagles vs Ravens Predictions, Picks & Odds for Tonight's NFL Preseason Game - Yahoo Sports",
@@ -139,6 +133,12 @@
       "published": 1786641720
     },
     {
+      "title": "Ravens Left Without Answers On Eagles’ Starting QB For NFL Preseason Game - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanlRY2dPdGhPYlZKY1NteHNyUm9tLS1ycTFEcV84ckxEbVBCMEFJVWRGWWJOcVdXdlhJWGQyVC1MYjF1OWNuWUtIWFNldy1vWGxoeVR5QkNQVUhSeDYtZUYyOUliQVN1N3hRb0RXcEFtLWlWa2hoV1JSY3p4SnBCS0dzNmladVdZWXhn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786640879
+    },
+    {
       "title": "Eagles Training Camp Notes: Practice ends after a fight breaks out",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/179299/eagles-training-camp-notes-practice-ends-after-a-fight-breaks-out",
       "source": "Bleeding Green Nation",
@@ -211,7 +211,7 @@
       "published": 1786578788
     },
     {
-      "title": "Golden Eagles Shut Out St. Thomas in Season Opener, 4-0 - Marquette University Athletics",
+      "title": "Golden Eagles Shut Out St. Thomas in Season Opener, 4-0 - gomarquette.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWV95THJEcjlvOGp2Mm9WZDRFc1ZqV0N5RFdETkptckpxc3U4Q3NkOEg1Rm9EdkI1cHpoSnN4WTdIa0djVE5sQXpjZGN0enFJY1lxRHlOYzAtQ0R0YjNJOXo2MEl0VHhHcGQtdDJXUTVCaDk5YUJSTi1RdU1TRHFueENVMHpwbmRFMjNLdWtkLWE0QXdVSWZJRzM2eWRHV0M1ZXY1dTBmNXNJZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786574472
@@ -241,7 +241,7 @@
       "published": 1786556146
     },
     {
-      "title": "EDP445 is Not From Philadelphia and Has Always Been a Fake Eagles Fan - Crossing Broad",
+      "title": "EDP445 is Not From Philadelphia and Has Always Been a Fake Eagles Fan - crossingbroad.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHE2UlVCMlZpWXJUeVFfdHFSaVFVYlFtWHZpMkc4d2V0V1c5UjB1QzNTZ3dOd2Foc2FXZW8tbjNGd1UxU25Zei1uY2tFcDFLZThVSHF6Y1ZtSE9FSzV2Z3IzSDhkT19ZRk9PZHBMQ2puYVc1RHBYODZ0SW9INVJmSG9GM1BRelNtMzJULWNuRDVqaTZMZGdQM2ktOTV4dWVUTWVSYlRkUkJSa0ZwMDBFVG1B?oc=5",
       "source": "Google News — Eagles",
       "published": 1786547820
@@ -295,13 +295,7 @@
       "published": 1786482178
     },
     {
-      "title": "Eagles Players Press Conferences: August 11, 2026 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlNpSDRHMjJZejVnbG4xaGU2UE85Z00zMXFQVWNkNTI2SnkweXpGT3psOVpuX3lxNi01bGZWSXlhdHJ0UFhqWFN5VHlvZ1BRZTh1OFQ2d3pvMmVZMWhLV3REcmE3RWhHU0pOeV9qR2JWcmlRTkFnb0pCaTNpbHFacnRvRUFkakdRUjRJRzczVVJadw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786474998
-    },
-    {
-      "title": "Eagles release first unofficial depth chart ahead of preseason opener - Eagles Wire",
+      "title": "Eagles release first unofficial depth chart ahead of preseason opener - theeagleswire.usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnUyeExySWJZeXRWZl9nSXFxdFpmLXJ6cVJkMjBLb3pWM0tUUElZZzQ1YnQxQTR5QmxuZTc0cTlpZGtQbjVHWUR6OUdZY3V1eVdyS0VMN0JCOVpYOXNVcTg4Z1pGaHIxN1dBMjNKdE1pMTZJRTdDUzlrZDBmaF9oV3F6aGtpS0JHZUswdGFwTXVoZ3dNeGJqeEFZRFh0SXFvM1FtWFZZOVhrZ25lM1NyOWwtYU83WWNaRjNRVUFFQ3huNF84Sm5TaUNucmJxZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786474980
@@ -349,10 +343,22 @@
       "published": 1786442400
     },
     {
+      "title": "Eagles' updated 53-man roster projection says goodbye to former starter - Inside the Iggles",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM1l0NFM2cEp2U1B4UmVnTFdoMk1wQTNCWW0zRUNCdTJVUDloelJyMnFjS0NJSXNsWmx3Q2p4LVFIQ2RYNDBWbGRmVnFZd19OcmJCTWNmQnZLTDB4NVYxR2N5NnlYZXZpZ0t0NUNja1NUVUNqdk5kMUNVeExWbHE2N2FNOWlmN1RzampWcGNBVVhiT1EzV2Rfal9La1NKZFQ4SkNQNjQ5WUdZV2NRcHRsdg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786438800
+    },
+    {
       "title": "Eagles Training Camp Practice Notes: Darius Cooper is undeniable - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVgxYngyTnJfMnBENUhaWmxNT05ibkVaOUg0Z0lRRE1ibVE0UVY1Q1RQbEdmR3N0R1A3eHpTeGZ4b0lZMjU3TmlWXzJ3a0FGVnBXX2hzVkZ2d2xTNEZkdTN4TE1LTjBaN1NXeUpoNUJYQzhxcElIZGR6TXRGd19ZYlF0amJVLXU4ckxPck5VcXFUaGpXUVFGaTk4VHUtS3pqcDNOMmZWU3ZUaGh1ejFYSA?oc=5",
       "source": "Google News — Eagles",
       "published": 1786392083
+    },
+    {
+      "title": "Eagles Day 9 Training Camp Observations - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNekY5VGQxX20xSi1LelVOSk9HLTZMVE1wY0VXTjFjMFJ2TW9zTWhwNFZTaVc3X2lnV2JUdGMtaVRRR0lJcnFKMV9uM29XZDI2dnVNdXVMMFZwdWQydjFQNlU3eTRpLV9zUTN0bWdrSjd3V3R4MmxwWWxYOUl4dlB3b29TZldBM2xrSDlHU1gxNmVjVEwxY0VxUWFkRTRvaXNoVnZLa1M1dHo2bG1uV2JjbWNyY053QXUxeE9heGNoOHUzSFN4OTlwNVRxOHRrVTljV1BMeTRoRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786388977
     },
     {
       "title": "Eagles sign 3 players, including their former draft pick - Bleeding Green Nation",
@@ -400,7 +406,7 @@
       "title": "Eagles work out 3 free agents - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0lndGpvSTdjZm9DNVN5VVFXX2lTZmtaTFYwdkhnUWR4bDFPOWl4ZDlOQnloMzZodHd3VWVBR2RoS0hUdU9KMEN4ZVZQOG5BVnduWHE3aVRLWEdweTdJYWhmU3VpRFdGRHM4V2tIS3pxaVFMVkNEc01HdGhhZjJUcGdpWQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1786323478
+      "published": 1786323420
     },
     {
       "title": "Eagles 53-man roster prediction: Training camp updates - Bleeding Green Nation",
@@ -475,13 +481,7 @@
       "published": 1786192417
     },
     {
-      "title": "Eagles News: “Darius Cooper has been the third-best receiver on the team throughout camp” - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUR1LS15MllhcE5jUnY4TWhzdVJqV0xpR0xXcVNsaWhYNG10bDR6X1B1Q0tjcGxPUkphV1lRTTRmcVdOd2NGcDNadTBqYUhQUGhRY3piNzlHQ1QxS3NIeHM5VU9oazRJb1h1QjFMSXVZRTNfaXM1Y1pVR3hvNU52VWJSSGR6MjNIRlFvUE5xR1NjUmJXMzRIOFZqVi0yNnp3cVVJc0FNbHhhcXB4anczLWZTQ09NZF9ZVGdvam5ZR09OUmgybU50WlpyWUUxWWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786190474
-    },
-    {
-      "title": "Eagles stole defensive weapon for almost nothing: He’s one of five underrated players making noise - NJ.com",
+      "title": "Eagles stole defensive weapon for almost nothing: He’s one of five underrated players making noise - nj.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVWM3Vrcy1WZmlOUUdpVUM1am1LS09JQkJpRm4zUnh6T21Hc2pZNUpVZ1VIOEtGZDJNT1ZZei1FUU9EZmRFaDFpMGxGN1ZRVUVyR0hSemJLQXRDZVRIY1hjTVJLdDhBZDdHNHdvQmdIN1lITjR5djBPbWVCOEFYVUJxYVVvOFpvUUg5SXNIc0c4T3c5a3BIOHNfcE0zMUFZN25nTDZiMHNFZWdnSFZlNlEyQVltWDFjdVBmbVpqTlhaQ3kweXJUMWdpMG1EVHp0?oc=5",
       "source": "Google News — Eagles",
       "published": 1786186800
@@ -499,22 +499,16 @@
       "published": 1786116073
     },
     {
+      "title": "Analyzing NFL executives' perceptions of Eagles QB Jalen Hurts - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVhsU3hpcTRYSzNwb1Zac3VhU0YxZk5uZ2tKbWhoUmVKdVByVU1WZFNVYi1XT3VJcjcxTk1DSHA2Y0lCSnc1S05LWWxWOGpnekZ2c3lRZTVJc2ZkYXpKdXh4ZTNpRkVfb2xkQVFkNzVUWExDanNXTlhwanYxU2RYa0VVeW8wUk5oUUpUSHRfclRDRWVNZ1cw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786104619
+    },
+    {
       "title": "Andy Dalton: ‘You've got to be ready for all of it’ - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFpwZU1ZNV9oYVllZ1prbUxlM0VJOGdwUVcxSkd6NWRvMnJmdGhnUk5oVkJjYjdaTEtoLTNRWkhIbFN2aGpzVHhITzJDUzdtaFhDSUVXSjBlUHhQYXdUdHJJaTZBMEFWNUN5dzVhRTNnbFJGMXRLelk5OVZIMEZRazN3TlhYX2FCMDhVanl0RlRrUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786104211
-    },
-    {
-      "title": "Eagles News: Saquon Barkley says getting Dontayvion Wicks was “a steal” - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX09sWnJMVWFLeHlLRHpGV3hWb0g4aFBnc0pCM2hUTG8zb0hSTzhJYTZMSlpaOEozQnlwZlptUV9CSzdRU09rUG9JUkFIcUZaUUIxOTVWT0tZaHVCTUNPd1U1SGhLa3JYcmdOU3FqVTF2bGRCS082QWpfdTN3akpndXBzM21JN3VtRDl2bVYzcllybjE0S01nWVMzY2p3N2NCb2RLVWMtNmhnc2NXVUtDMFBOalQ3UUU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786086000
-    },
-    {
-      "title": "Analyzing NFL executives' perceptions of Eagles QB Jalen Hurts - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVhsU3hpcTRYSzNwb1Zac3VhU0YxZk5uZ2tKbWhoUmVKdVByVU1WZFNVYi1XT3VJcjcxTk1DSHA2Y0lCSnc1S05LWWxWOGpnekZ2c3lRZTVJc2ZkYXpKdXh4ZTNpRkVfb2xkQVFkNzVUWExDanNXTlhwanYxU2RYa0VVeW8wUk5oUUpUSHRfclRDRWVNZ1cw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786086000
     },
     {
       "title": "Eagles News: Jalen Hurts praises Darius Cooper, unprompted - Bleeding Green Nation",
@@ -523,10 +517,16 @@
       "published": 1785999600
     },
     {
-      "title": "A.J. Epenesa 'happy' to be with Eagles after 'weird situation' with Browns this offseason - NFL.com",
+      "title": "A.J. Epenesa 'happy' to be with Eagles after 'weird situation' with Browns this offseason - nfl.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmZEUXE0cWxQdEJNWHF6ZkFqVzRkYUFFeXc3eXFvMzBmeDNDTVlkQjFfY1JQeUpsYl9rTGthSHdRZmJVMTdjekR0WXc3cmRiWXJzTWJCU1lvaFlDSUxxOTBZX2lJRGUtbXRGN2hhZzB1V01tSUxfMHRiUmVqbHQxRWJPNmMwUFFRSHc4ZF9aWno3bW5mTjc4TG9R?oc=5",
       "source": "Google News — Eagles",
       "published": 1785913200
+    },
+    {
+      "title": "Eagles' Nolan Smith apologizes for 'unacceptable' speeding arrest - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTIxS25kT3Q2bG93MWFqTGdhbFU4Z1RhbUVGS1NDbzJ2bllNSTVrUlN5ZTRwTlE5al9Xd0RZLV8tblZrejdqT00xNjRmS1pfWDBySlpFMXNCbUY3S1BlT2F4elNUYTZOVVJkdklfWEZwM0ZkZmZ6Wklwcmg2UkQzLW5KMVhnLXFGZGtJVEcwR1ZlOGJQT3N3YnNRTjAxbDRmTjFiUWxB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1785826800
     }
   ]
 }
