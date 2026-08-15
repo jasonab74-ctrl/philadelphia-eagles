@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-15T01:21:49.829470+00:00",
+  "updated_at": "2026-08-15T02:33:53.196145+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles reportedly sign Brandon G.",
+      "link": "https://www.bleedinggreennation.com/news/179405/eagles-reportedly-sign-brandon-g",
+      "source": "Bleeding Green Nation",
+      "published": 1786732612
+    },
     {
       "title": "Eagles Film Review: Tyler Steen is a perfectly capable starting guard",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/179354/eagles-film-review-tyler-steen-is-a-perfectly-capable-starting-guard",
@@ -17,12 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS2pIN3QwenA1SThrNzdVeEkwNmZiNGFYZzZyMUZZZFhXejZ6RmF1SVlPZlUtNzY2R2xwUWpERnRjckFZSGs4TWx5UTd0RERxSDJjWTEtTkNPQ0FCblJyemRLemRhb3ZWUWJmWHV1NmNEVW1DcjJfX0FaNzR2S3Ixa1otNVJNc3NOaFlvSndZWmtmUk1VM2pDZG05TUFDSW5HX0Y1QUlwa2lQNFFra3lnWTV6NU5aYmFWZ0J1OFoxT241QW0wSi1YbVpYUDNBOUg4bFFLWnBpbw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786725240
-    },
-    {
-      "title": "Ravens vs. Eagles preseason game: What to know, where to watch - WBAL-TV",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dyS3Z5ZFJ3Y0kxekxqMmtteDBINThVcEROc0VmTDFnTmV1QzZ1dzVBMzdaSmUxRTh1NWpfc05ENHU2WWpjY2hCZ2RJSDdzbktQYzVPVkNIbHROR0tqQXNTRkFTZ1BjbEVlZEJjc281MVBiVlRONzJtSVcyUktvWDN5Q0pDVERNZ2w2UTQyVTE5YWRCYnFCSXVNaUZlbDQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786723860
     },
     {
       "title": "Predicting Eagles Starters vs. Ravens in Preseason Opener - Sports Illustrated",
@@ -53,6 +53,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUllNUVkZS1HbmZ5Wl9Rc2JkYmJCa0hFMFprWE81Wnh6OHNSZzk4S3dsNm9uX1hPc2tsSm1FX09iOXdveVB4TjBIbzdDTWVlMkNkTzV6NVpMRE05T0tJd2xtWl9Pb0ZIRW4tR0pfT1B3Tl83NS1BRy1YY3FzOThwU01lZXVWdG1SLURleDNuOEFiX0FlODhEM2tLS1pxMzJELTdpM1YtbV9Odw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786713716
+    },
+    {
+      "title": "Ravens vs. Eagles preseason game: What to know, where to watch - WBAL-TV",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dyS3Z5ZFJ3Y0kxekxqMmtteDBINThVcEROc0VmTDFnTmV1QzZ1dzVBMzdaSmUxRTh1NWpfc05ENHU2WWpjY2hCZ2RJSDdzbktQYzVPVkNIbHROR0tqQXNTRkFTZ1BjbEVlZEJjc281MVBiVlRONzJtSVcyUktvWDN5Q0pDVERNZ2w2UTQyVTE5YWRCYnFCSXVNaUZlbDQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786713300
     },
     {
       "title": "Nick Sirianni talks Eagles’ preseason expectations",
@@ -124,6 +130,12 @@
       "title": "Cooper DeJean, Quinyon Mitchell added to latest Eagles injury report",
       "link": "https://www.bleedinggreennation.com/news/179297/cooper-dejean-quinyon-mitchell-added-to-latest-eagles-injury-report",
       "source": "Bleeding Green Nation",
+      "published": 1786639337
+    },
+    {
+      "title": "Cooper DeJean, Quinyon Mitchell added to latest Eagles injury report - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2JfNFJWZ19MaXdJSDJuU3U4bXluUEpfLVY5cVg3Y2NOY01MOS1WT05ZYjNnTmlzc0hFQXotdkNkY2hYQVpWTDhGNWZfNHdhLW5sdV9wTV9CVjRLUTE3d005dnFvQVpPRlVKV1hSWUczeVlDckYwaVJFN2UtMWxqM2llbVRaQzluWlVCTHZhZHZ2YUhwaFFRRGR3V3N0UW5taWJFVUNCM3BNNDZLMUlRZTE2TjdlQQ?oc=5",
+      "source": "Google News — Eagles",
       "published": 1786639337
     },
     {
@@ -211,18 +223,6 @@
       "published": 1786556146
     },
     {
-      "title": "EDP445 is Not From Philadelphia and Has Always Been a Fake Eagles Fan - Crossing Broad",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHE2UlVCMlZpWXJUeVFfdHFSaVFVYlFtWHZpMkc4d2V0V1c5UjB1QzNTZ3dOd2Foc2FXZW8tbjNGd1UxU25Zei1uY2tFcDFLZThVSHF6Y1ZtSE9FSzV2Z3IzSDhkT19ZRk9PZHBMQ2puYVc1RHBYODZ0SW9INVJmSG9GM1BRelNtMzJULWNuRDVqaTZMZGdQM2ktOTV4dWVUTWVSYlRkUkJSa0ZwMDBFVG1B?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786547820
-    },
-    {
-      "title": "Eagles depth chart revealed ahead of first preseason game",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-depth-chart/179253/eagles-depth-chart-revealed-ahead-of-first-preseason-game",
-      "source": "Bleeding Green Nation",
-      "published": 1786547122
-    },
-    {
       "title": "Two former Eagles quickly find new teams - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVRBMXhOcGpMdEtPR1pYS2F5X2ZjSENub0pGQ2FySUkwM1JUWUUzSE5xSmVzbkdBSWJLV2RxdVJKXzB6MlFHVU9HNlpnMkFVOXk3WVY2MW5TbzVIc3BvOHczMG9SX0J3MWNEUF9RM1QyWGpnNjNBT2VQdUtrM01iWWxJQm9SRXZhSlNwa0lVU0owdw?oc=5",
       "source": "Google News — Eagles",
@@ -263,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnJKdERBMUNZeGxqTDlIcks1czBpMy1hc3c4RDZrT0ZscVFQX09EQUQwbW51VUxMMU5WeGlWWHZCNE5BemZpQmVDUE5YNmwtZnZJeElEQW8wSFJ0WFhRMWdMOW04UkNsUmZxTGRWdlJ3NDFESUE5djl5ZG5tdUJkVDNZVUoyTEhCX1dRWnhNbUJ5RWR6N0VFQlZQVEFBZlN0ZU54VEVFOUxNb1Zx?oc=5",
       "source": "Google News — Eagles",
       "published": 1786482178
-    },
-    {
-      "title": "Eagles Players Press Conferences: August 11, 2026 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlNpSDRHMjJZejVnbG4xaGU2UE85Z00zMXFQVWNkNTI2SnkweXpGT3psOVpuX3lxNi01bGZWSXlhdHJ0UFhqWFN5VHlvZ1BRZTh1OFQ2d3pvMmVZMWhLV3REcmE3RWhHU0pOeV9qR2JWcmlRTkFnb0pCaTNpbHFacnRvRUFkakdRUjRJRzczVVJadw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786474998
     },
     {
       "title": "Eagles release first unofficial depth chart ahead of preseason opener - Eagles Wire",
@@ -331,16 +325,16 @@
       "published": 1786451615
     },
     {
+      "title": "Eagles News: Jalen Hurts looks “quicker and faster” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnNnWE0zb0t2QW1VUVk3LUwzTm1PTjFsRXJfREZNWW11ZS1LQ1NwMG9JV21hYkY0WEd6Ny1tcXpkX0FtNjBRaWFJS0tIOVpkT2huZ3Y4dHNidTlJYXdweTdyUVNjNTZkSTgyWHUtTXRQb1VNbEhiNE5HblNHUDktQzJMSTVoYVFGLVpXNEptV0F0cnFGbllmWXFLUVQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786449827
+    },
+    {
       "title": "Eagles have bought into new offensive system - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXE0NE12RThiODRPbUVTVFB4XzlUdVRZYW90YWxlQ1ZoUnBpWlNmeFVQSm5Jb1RKLXE5eDRBUlp0RmpQekVqUjZSV2JIUzdOdWlxLVA5STEwYVI5VTB5V0JIM3g3NU9BaEhOb0FQeVB3eVNTajVUZl9RYnE3NWxsMHhULXZ4ZUNOWjBMQVVSOE9pN1o0RUd5ak1XUUhhcGhzWXVWNmNMVkFlS1lsMDVRcjNJbE5JVHlz?oc=5",
       "source": "Google News — Eagles",
       "published": 1786442400
-    },
-    {
-      "title": "The Eagles cut some guys and signed some guys - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU20zWFM4T2sxSFNKV1VxRkxyLXV3TXJzY1JWa1p0N2V2eXUza0VETjVEcG9mM29xanhuLUFjVUFNekNYdUlhdVRrQ3JoQ21IRl9YcVZGbER4N3Z2N25UV1BDVmFzMFA1X05MR1puUVpYX3JsRWlrWDFqV1VBZWF0bFhyLTVNNkU3aE9JRllIUFY5T2NkdnlnV2diTXZfVmVxMllCeWRNWWxXVU8tdUVBS0FrY0ppZVJDY0Fv?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786442070
     },
     {
       "title": "Eagles' updated 53-man roster projection says goodbye to former starter - Inside the Iggles",
@@ -353,6 +347,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVgxYngyTnJfMnBENUhaWmxNT05ibkVaOUg0Z0lRRE1ibVE0UVY1Q1RQbEdmR3N0R1A3eHpTeGZ4b0lZMjU3TmlWXzJ3a0FGVnBXX2hzVkZ2d2xTNEZkdTN4TE1LTjBaN1NXeUpoNUJYQzhxcElIZGR6TXRGd19ZYlF0amJVLXU4ckxPck5VcXFUaGpXUVFGaTk4VHUtS3pqcDNOMmZWU3ZUaGh1ejFYSA?oc=5",
       "source": "Google News — Eagles",
       "published": 1786392083
+    },
+    {
+      "title": "Eagles Day 9 Training Camp Observations - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNekY5VGQxX20xSi1LelVOSk9HLTZMVE1wY0VXTjFjMFJ2TW9zTWhwNFZTaVc3X2lnV2JUdGMtaVRRR0lJcnFKMV9uM29XZDI2dnVNdXVMMFZwdWQydjFQNlU3eTRpLV9zUTN0bWdrSjd3V3R4MmxwWWxYOUl4dlB3b29TZldBM2xrSDlHU1gxNmVjVEwxY0VxUWFkRTRvaXNoVnZLa1M1dHo2bG1uV2JjbWNyY053QXUxeE9heGNoOHUzSFN4OTlwNVRxOHRrVTljV1BMeTRoRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786388977
     },
     {
       "title": "Eagles sign 3 players, including their former draft pick - Bleeding Green Nation",
@@ -406,7 +406,7 @@
       "title": "Eagles work out 3 free agents - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0lndGpvSTdjZm9DNVN5VVFXX2lTZmtaTFYwdkhnUWR4bDFPOWl4ZDlOQnloMzZodHd3VWVBR2RoS0hUdU9KMEN4ZVZQOG5BVnduWHE3aVRLWEdweTdJYWhmU3VpRFdGRHM4V2tIS3pxaVFMVkNEc01HdGhhZjJUcGdpWQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1786323478
+      "published": 1786323420
     },
     {
       "title": "Eagles 53-man roster prediction: Training camp updates - Bleeding Green Nation",
@@ -449,6 +449,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXFKeThSYk1EblVlQW5tNHc2RFlOZGlvZ3U5NTdGVDc1eEZKUzNLZTVJTVkwWFhtYW9VQWRFWWViNlYwM2tqRS0tSEw1YzE0ekp5dUU4aFY5YmpQOEl6eWUwbjRGbVZFRTdOZmRQcUI5azRPMnVFN2UxQUpTMkYzOWpXQy1GNzBieU5IOGFydXlhMFFzRmx2YkxJZW1mS1ctbmlacHdGQkZtWEh0WGfSAbMBQVVfeXFMT0lZeE10NEZDUTFmQVAtd1NvXzZpc1F4R1JDVHhxUkM0UnMtUWo4MEJwQktyRVdid2dSZXlGYkxmOUNXQV8wbi1EbEtyaVJ3Y1ZfZ01UV1pMRmU5Q0M4dXNOVzk2N1RuWFg0YUhpeE5SSkpmcmRpWThiakxFZHBCTVF1V2JhMVgxU2lvX1p4Unc5Nmluc3dUZWJ0M2MtR3NJb0xYUF91OUdKWktQX2o3MEszYW8?oc=5",
       "source": "Google News — Eagles",
       "published": 1786208879
+    },
+    {
+      "title": "Eagles all-timer Lane Johnson expects 2026 to be his final NFL season - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXFqRmdNR0d0RzQ1MnU4NEpDSklpZndGMHc3NnRsTEozY21DZHBlZFJDRVRDc3hZdk45NHJVajZKMExvdEJuTU5NQW43M3JaNEt4cEVuaWZVVktjeVY1dmF1cDhBNFdHcUlvNW1BNjFYQlBlcTI2SWFxRTRvaUg1UFB3ZGxDeEdkdEpnM2ttb2JYYThZeGQ2V29Wd21RYk9venRoTlRVZkMtQTY0RTlvbDJ2aXJoUVRZZmfSAcIBQVVfeXFMT0lHTDM3RmVTbXdUWTQzMGFKSDByTURHNXNDZ09VU0tDZkRtSFdCbF9WdTFhVFhOSEJZd0hsRTJwcFNpbXpoT3o1TGdKWVZiOFZ2dmI1dGpwZkkydUEzVHFoalAtMmFFcTdZd3Z4R1pMQmdFS2piM0FGdWtWd29lUW5jMmJKTEZnRGdNMlNjNV9EX2t6Y2l1VVpUSlg4REVBV3EtSzB3UTRHb1NaV3J0RlBPVWhFSVVjR0VFQjNFR3NoYnc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786208224
     },
     {
       "title": "Eagles RT Lane Johnson enters season with farewell mindset - ESPN",
@@ -509,12 +515,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFpwZU1ZNV9oYVllZ1prbUxlM0VJOGdwUVcxSkd6NWRvMnJmdGhnUk5oVkJjYjdaTEtoLTNRWkhIbFN2aGpzVHhITzJDUzdtaFhDSUVXSjBlUHhQYXdUdHJJaTZBMEFWNUN5dzVhRTNnbFJGMXRLelk5OVZIMEZRazN3TlhYX2FCMDhVanl0RlRrUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786104211
-    },
-    {
-      "title": "Spadaro: A.J. Epenesa says signing with Eagles 'a no-brainer for me' - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGlRenE2WU5XZVpQeHBjYzItWlpwZHBUREtWM1R0ZkFsNnJaWm96NjZWdnVoMWdqdVoxbFo4Uk9qQm5OcXRkT3p0RnlNcUdOOXJXSXF4QnJuUC15NkFITHM2RmcwOW9kSUNXNkstbGZ4UHJJV3l2ajZ0d281VmZkUHlJV2FTQ2lTWU5uT2lCX2JxSnl0V3RQZTJNVE43N1NCMW5UMnZTQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1785999600
     },
     {
       "title": "Eagles News: Jalen Hurts praises Darius Cooper, unprompted - Bleeding Green Nation",
