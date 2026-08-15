@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-15T15:22:58.356516+00:00",
+  "updated_at": "2026-08-15T15:46:24.387318+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles News: Did Philadelphia tease a new (old) helmet?",
+      "link": "https://www.bleedinggreennation.com/news/179428/eagles-news-did-philadelphia-tease-a-new-old-helmet",
+      "source": "Bleeding Green Nation",
+      "published": 1786808434
+    },
     {
       "title": "Everything You Need to Know: Ravens vs. Eagles - Baltimore Ravens",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDVucENsRVBjNjhySFVPVVpxQkVkQnhYOVFtVFhiOFVQTmFmbEJrNGNNQWVjeW5YRWRJOWdWY0dGZWFOWEJnYWM2eU1LYVJFWTVxRVdmbDFHTXJOYlJWMnUzNDlWVndnc2J4SEJNaDVLWE5LWk5rUFhlTDgzNmZ6LWUtYjVRRXRBdzBZbERISVJCakxtSjNJaWFGRUtXUFpPUG0zR2s3dDNpSmxNWUlr?oc=5",
@@ -145,12 +151,6 @@
       "published": 1786641720
     },
     {
-      "title": "Ravens Left Without Answers On Eagles’ Starting QB For NFL Preseason Game - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanlRY2dPdGhPYlZKY1NteHNyUm9tLS1ycTFEcV84ckxEbVBCMEFJVWRGWWJOcVdXdlhJWGQyVC1MYjF1OWNuWUtIWFNldy1vWGxoeVR5QkNQVUhSeDYtZUYyOUliQVN1N3hRb0RXcEFtLWlWa2hoV1JSY3p4SnBCS0dzNmladVdZWXhn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786640879
-    },
-    {
       "title": "Eagles Training Camp Notes: Practice ends after a fight breaks out",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/179299/eagles-training-camp-notes-practice-ends-after-a-fight-breaks-out",
       "source": "Bleeding Green Nation",
@@ -197,12 +197,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1QtYXMtc19Rdk1IdzZqN3VoeFhMRHU0WTMtbTdFQ3A5UVNFMzctV0RxcEtNRTVWMU5uaHdmNHBhLURlWlJOQkV2aUJZYTVycy14dDJOTlhpX1FPUnlPX1dVNXBYelpIZm4xY25OTmJZd0pyTFlkSWdna2ZpTTF4YVQwZWtRTFN3SGVVQ2psT284cTlKeVROMVQ2RlYtOUhsc0wzM1ZpdVNpUW9w?oc=5",
       "source": "Google News — Eagles",
       "published": 1786622616
-    },
-    {
-      "title": "Eagles News: Jalen Hurts becomes first player in NFL history to throw an interception in practice",
-      "link": "https://www.bleedinggreennation.com/news/179281/eagles-news-jalen-hurts-becomes-first-player-in-nfl-history-to-throw-an-interception-in-practice",
-      "source": "Bleeding Green Nation",
-      "published": 1786621569
     },
     {
       "title": "The key to staying patient for Eagles' other international phenom - NBC Sports Philadelphia",
@@ -361,6 +355,12 @@
       "published": 1786392083
     },
     {
+      "title": "Eagles Day 9 Training Camp Observations - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNekY5VGQxX20xSi1LelVOSk9HLTZMVE1wY0VXTjFjMFJ2TW9zTWhwNFZTaVc3X2lnV2JUdGMtaVRRR0lJcnFKMV9uM29XZDI2dnVNdXVMMFZwdWQydjFQNlU3eTRpLV9zUTN0bWdrSjd3V3R4MmxwWWxYOUl4dlB3b29TZldBM2xrSDlHU1gxNmVjVEwxY0VxUWFkRTRvaXNoVnZLa1M1dHo2bG1uV2JjbWNyY053QXUxeE9heGNoOHUzSFN4OTlwNVRxOHRrVTljV1BMeTRoRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786388977
+    },
+    {
       "title": "Eagles sign 3 players, including their former draft pick - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjhOek5oaG1mT0hfMm53VHBLRmNkU0pUbTJKb0k1Nmc3TXVsR2Vrb1MwN0xNbzg5QURQdWFTcFpzNFpNdGl2OFo0MHF5ZGg1WkhLT3hFelN2ODRtS1g1UUhQZmNNSV9Mdkpjcl9IOXBka2NoMG1GY19Hd2psTm9HWFBZWGxrQmJ0azF3SXFfZGFMT3ltbnhBdnJuVk00Ynk3UTJ5TG9Ca19mczQ?oc=5",
       "source": "Google News — Eagles",
@@ -481,16 +481,16 @@
       "published": 1786192417
     },
     {
+      "title": "Eagles News: “Darius Cooper has been the third-best receiver on the team throughout camp” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUR1LS15MllhcE5jUnY4TWhzdVJqV0xpR0xXcVNsaWhYNG10bDR6X1B1Q0tjcGxPUkphV1lRTTRmcVdOd2NGcDNadTBqYUhQUGhRY3piNzlHQ1QxS3NIeHM5VU9oazRJb1h1QjFMSXVZRTNfaXM1Y1pVR3hvNU52VWJSSGR6MjNIRlFvUE5xR1NjUmJXMzRIOFZqVi0yNnp3cVVJc0FNbHhhcXB4anczLWZTQ09NZF9ZVGdvam5ZR09OUmgybU50WlpyWUUxWWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786190474
+    },
+    {
       "title": "Eagles stole defensive weapon for almost nothing: He’s one of five underrated players making noise - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVWM3Vrcy1WZmlOUUdpVUM1am1LS09JQkJpRm4zUnh6T21Hc2pZNUpVZ1VIOEtGZDJNT1ZZei1FUU9EZmRFaDFpMGxGN1ZRVUVyR0hSemJLQXRDZVRIY1hjTVJLdDhBZDdHNHdvQmdIN1lITjR5djBPbWVCOEFYVUJxYVVvOFpvUUg5SXNIc0c4T3c5a3BIOHNfcE0zMUFZN25nTDZiMHNFZWdnSFZlNlEyQVltWDFjdVBmbVpqTlhaQ3kweXJUMWdpMG1EVHp0?oc=5",
       "source": "Google News — Eagles",
       "published": 1786186800
-    },
-    {
-      "title": "Nick Sirianni: ‘Looking to perfect the detail’ - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3pkcmVGZEM0WkhVNGZVNjlBYWtKOXlfZWtfSGdiTGpIV25ySnhrcVBTSUtQMnlxakdZYVRVdXV0TTdlcXZkVzlvd3ZsbTVhZlpqMUVTOUtLRkJ6RHhBZ2lYSXdwVVRDWFVsQkp2V1lrU2lZNWNTUFFYU1J6UFBwMV9GOGtQYmZwYVpR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786136616
     },
     {
       "title": "Eagles training camp observations: Big day for couple of depth receivers - NBC Sports Philadelphia",
