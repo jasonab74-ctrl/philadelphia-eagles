@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-15T22:24:10.420113+00:00",
+  "updated_at": "2026-08-15T22:48:43.263578+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles vs. Ravens preseason game updates",
+      "link": "https://www.bleedinggreennation.com/game-day-threads/179444/eagles-vs-ravens-preseason-game-updates-discussion",
+      "source": "Bleeding Green Nation",
+      "published": 1786833180
+    },
     {
       "title": "Eagles waive wide receiver to make room for new LB",
       "link": "https://www.bleedinggreennation.com/news/179460/eagles-waive-wide-receiver-roster-moves-linebacker-signing",
@@ -13,13 +19,7 @@
       "published": 1786830964
     },
     {
-      "title": "How to live stream Ravens vs Eagles: Watch NFL Preseason, TV channel - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWtSRzJVaHc1M0NFaUNfUFZKSFpBeDZuZXcxVW5TTnhqa09TTDJRVU9xd3pSMVZjQmJRbEh3TXRVenVtcVF6Nmc3djlSUlI2UjRIQV9obXJKLU5ia1JwaU9iRkdqWkxJQmF1ZXNmeVN1VDJTaXB3Z1lvZ1k4djAwT1dUOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786826619
-    },
-    {
-      "title": "What channel is Eagles at Ravens game tonight? Time, how to watch live, stream - The Courier-Journal",
+      "title": "What channel is Eagles at Ravens game tonight? Time, how to watch live, stream - courier-journal.com",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSmNLc1R3c3lYUE96SEFzNmlBZ1hhVHZONmVRMUE3VnNzWktMdlJyM05vM1gyYjZnb0xUOW5CVUl5OF8wLUFycEFCTUN0VkRMQ1dseVREeV93dFl1UnNxaC16eTBYeHN4TXNjY3dHTHJycExGRDNrNW9na0lsTFoyOGxFMHVYTll5UFNkbUxyQm15NEpiMW15TTB6UzhoakxaMUJMWmtKQ0pTWlYwTlpMZ215SmVYdVM3Wkk1TzdEWHVkdUVESl91RVMyUUlySVltNzEtSHlnbllBdkFCZVp1LWhuajZFaEdDbHBCMmpTeFNkNVFDRU1FTVB6MEFyYmRrUXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1786825260
@@ -61,7 +61,7 @@
       "published": 1786802258
     },
     {
-      "title": "Everything You Need to Know: Ravens vs. Eagles - Baltimore Ravens",
+      "title": "Everything You Need to Know: Ravens vs. Eagles - baltimoreravens.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDVucENsRVBjNjhySFVPVVpxQkVkQnhYOVFtVFhiOFVQTmFmbEJrNGNNQWVjeW5YRWRJOWdWY0dGZWFOWEJnYWM2eU1LYVJFWTVxRVdmbDFHTXJOYlJWMnUzNDlWVndnc2J4SEJNaDVLWE5LWk5rUFhlTDgzNmZ6LWUtYjVRRXRBdzBZbERISVJCakxtSjNJaWFGRUtXUFpPUG0zR2s3dDNpSmxNWUlr?oc=5",
       "source": "Google News — Eagles",
       "published": 1786799002
@@ -157,7 +157,7 @@
       "published": 1786710000
     },
     {
-      "title": "Eagles 2026 training camp bubble player power rankings - PhillyVoice",
+      "title": "Eagles 2026 training camp bubble player power rankings - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnM1a2FVQXZ3UXFvSUhRM3ZweV8xOURxUU92NlZwS0duaGNHWkdyOWFORG84ZkFsMmI2SV9iSkdMVk9ZTU0zVTU0Z1Z6UWtRQzRpS0dUN0dXTWZDUXFwQkNxQnFSVU5yRVVpTmVBY3AxSER5Ym1UcER6M3poTEVCc1hkV3FvcVVUYkozS1RNWllSOUJyVTl4aTZ1bmxWQVJqdjVBRUs4dTY5VjBuSGROV0dIanhKV2xucHNYcWtQbw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786704580
@@ -175,10 +175,16 @@
       "published": 1786698168
     },
     {
-      "title": "Eagles Players Fight at Training Camp, Full Details Revealed as Big Dom, Roseman, Sirianni Intervene - Bleacher Report",
+      "title": "Eagles Players Fight at Training Camp, Full Details Revealed as Big Dom, Roseman, Sirianni Intervene - bleacherreport.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNmZCRjlMSGJNYlo4Y21wVExyc2hZWlZhajlUb2dkUHZ1S1owVnYxdlV2d2hGZ3N4ZVp3c3YwTEFYM0ktUUFrU0FZajRJeXNra3o3WUN6cjY1MXNRcFVmQnpZSXgzemI2akNZU21PZHFhWVRJNTVZTlUzTFJWaTRVUWpGNEZQWDc0ZjZzenY3RmlSU1hiSGt2aDdlS0oxWW5hRkY2cXlNQVNqNUN3LXZwZF9iX0pLTThLZC01YmZiTnktcW5tR21uczBTeEI3U1c3V2c?oc=5",
       "source": "Google News — Eagles",
       "published": 1786663710
+    },
+    {
+      "title": "Eagles vs Ravens: How to watch & key players to note in preseason opener - Metro Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmOXlvRVBUbXE4V1N2X2cxekc0NGdpZEx6NXMyNWllOU9HMjM5aGo1WlJyWGVxdjBoN0xTTHl0clVMdkh2WU1EZ2UyR3RJNWw4czZwRWxycjZGUXZjMURVMFdvcmZRSkhsX1RZZ1JZTm96YUI5aU1XRmpB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786662000
     },
     {
       "title": "Meet the 12-year-old Eagles fan who inspired Jalen Hurts and Saquon Barkley - Philadelphia Eagles",
@@ -205,19 +211,7 @@
       "published": 1786639415
     },
     {
-      "title": "Cooper DeJean, Quinyon Mitchell added to latest Eagles injury report",
-      "link": "https://www.bleedinggreennation.com/news/179297/cooper-dejean-quinyon-mitchell-added-to-latest-eagles-injury-report",
-      "source": "Bleeding Green Nation",
-      "published": 1786639337
-    },
-    {
-      "title": "Cooper DeJean, Quinyon Mitchell added to latest Eagles injury report - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2JfNFJWZ19MaXdJSDJuU3U4bXluUEpfLVY5cVg3Y2NOY01MOS1WT05ZYjNnTmlzc0hFQXotdkNkY2hYQVpWTDhGNWZfNHdhLW5sdV9wTV9CVjRLUTE3d005dnFvQVpPRlVKV1hSWUczeVlDckYwaVJFN2UtMWxqM2llbVRaQzluWlVCTHZhZHZ2YUhwaFFRRGR3V3N0UW5taWJFVUNCM3BNNDZLMUlRZTE2TjdlQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786639337
-    },
-    {
-      "title": "Punches thrown as fight breaks out at Eagles training camp - pennlive.com",
+      "title": "Punches thrown as fight breaks out at Eagles training camp - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGlSLVFWZnpZdldybEozOVl3WmduaFIyVzhmZlJlTDYwZlg2d0RzQnI4ZjUxeWJzLXdhWE9fUmt1b3FIR1RBdjNvaGx3MGN2TUxJQzBBdF8wZUNFYmZhUFMxS1F1Y0ZGMjhTejJkSjRRYjdfMEpfV2lZcmphRHJCMTBXWEQtM2pHYkJRMDhBV3lBS0xxZ3FEdjlMNVdaSkRwYlI2Y3ZYVkRqbnBkSkJ6aTF5VFhfQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786635900
@@ -271,19 +265,25 @@
       "published": 1786572000
     },
     {
-      "title": "How to Watch, Listen, Live Stream Eagles vs. Ravens, Preseason Week 1 - Baltimore Ravens",
+      "title": "Colorado Eagles Mourn Loss of Les Borsheim - Colorado Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRU5fYTRfVXVqa1QxcDllSTVRaXd5dF9xSEJza2REeElvckZFenhybklCMzlZdUdCSkF5czRmbXVZaC1OTV9YTFpPcTdlXzJJbHY2bGMtNnI5RjFSd1FtZzVUal9seHRlRTYyaktnRkdBMDdRakg3N21UQ0FrUjY3TmVBZmFnd1ZMMExLTXl3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786571424
+    },
+    {
+      "title": "How to Watch, Listen, Live Stream Eagles vs. Ravens, Preseason Week 1 - baltimoreravens.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGowc1ctMEJ4dHZJTjBGYTRTTjNqTmRpejdCQlRIR0VNUjBZNXc5Yk5DdG9JUnRnOEtlRXplZEN0eUhlNnpMSHNfTHZPS1o4Q3FkN0Ytbmxianc4Ym1Ib1JYdXB5MVJEYzZVR19ndW1VTEhKcmVqNi1FVmxsMDJOYXJzbFRVX0lYd0dHV2x3?oc=5",
       "source": "Google News — Eagles",
       "published": 1786570463
     },
     {
-      "title": "Did the Eagles just casually reveal a white Kelly Green helmet? - PhillyVoice",
+      "title": "Did the Eagles just casually reveal a white Kelly Green helmet? - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTYxbVRIU1B1VjZXWTZNUE15YnhRLUFhRGlqNi1ieDBZejVhbjNZUjJ0R2RzdnllbmhMdDB4M2VkcS10aFQzNkZQTW5TTmFCbFJ3MllmNzRMbEZkdERhckFjVS0yV01ONnlrUVlKcmc4LThYZm1YWlBqck4wRVBDZ2pnUG1KbmNiT2dtRk9YM0d5SkRsdVVKQzU2QTFxeHhi?oc=5",
       "source": "Google News — Eagles",
       "published": 1786564649
     },
     {
-      "title": "Eagles Appear to Tease Return of White Kelly Green Uniforms in New Video After Hurts' Comments - Bleacher Report",
+      "title": "Eagles Appear to Tease Return of White Kelly Green Uniforms in New Video After Hurts' Comments - bleacherreport.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkdjMlUtVzBNYmljZEhNZDBMR3otaXRiSzUwUzVYWjc4czdlaDBpUWlWOU10c2VZcXVBbkRjcDJLWkQycXREMUpvbWVhbWtseGZiRGYtMlJKSDB3dzlqSlRQSU9kTS1lR3pDUkJzSFpsWlNrcGMwdlZwMm4wY1NKaGJGOGdrUHJNNnEzQTMxTUNyS2gwNkVOMjN6OHdONDNGWVJMeDhxM0trQ2VXd05tWEQyNUlfbC1iSXViajkwdGtxcnRya3R2Tg?oc=5",
       "source": "Google News — Eagles",
       "published": 1786556146
@@ -463,7 +463,7 @@
       "published": 1786217917
     },
     {
-      "title": "Heroes and zeroes from Day 8 of Eagles training camp: Saquon Barkley still has slick moves - PhillyVoice",
+      "title": "Heroes and zeroes from Day 8 of Eagles training camp: Saquon Barkley still has slick moves - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXA0eXBNQ1pEZUdERERzNkVNeHl5dTRuUm8xSE1kZTR6R2g3UF94YUZMaERPNDJYcm9YaDhJX25DZkdHUHBfUDRaVzZYX1RmcmxEdHkyb2JMalZfTXByaGlrVWVqRDM3NDFLNHFUZTdlY1gyTjJrR2RoYWFsdDIxRUVKQkZTNkhHWlh0dTlRc1hlbHFiR09BMzFCMmRkbEE5Wmc?oc=5",
       "source": "Google News — Eagles",
       "published": 1786213404
@@ -511,7 +511,7 @@
       "published": 1786104211
     },
     {
-      "title": "Analyzing NFL executives' perceptions of Eagles QB Jalen Hurts - PhillyVoice",
+      "title": "Analyzing NFL executives' perceptions of Eagles QB Jalen Hurts - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVhsU3hpcTRYSzNwb1Zac3VhU0YxZk5uZ2tKbWhoUmVKdVByVU1WZFNVYi1XT3VJcjcxTk1DSHA2Y0lCSnc1S05LWWxWOGpnekZ2c3lRZTVJc2ZkYXpKdXh4ZTNpRkVfb2xkQVFkNzVUWExDanNXTlhwanYxU2RYa0VVeW8wUk5oUUpUSHRfclRDRWVNZ1cw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786086000
