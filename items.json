@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-16T05:30:20.548918+00:00",
+  "updated_at": "2026-08-16T06:42:42.829176+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Game Recap: Ravens Take Care of Eagles in Preseason Opener - Baltimore Ravens",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamx6UnJaSy1aRngzLW1jam1sdnEtRUVvZ0Y3Yk1fT3duUFh2MVdxemY3Zk1uZG9YSUR3N01zeUxMRHEyaVYtb0plZlhhM2dVSkp0Zmxta0RGT2EwdGVaS2ZvaFpNRVBjZU9VUlJ5dXhxUldwVEZCaXQxYlFnUFA4V21ORWdDWDhKOUFqRm0yQjg0b0xORmNR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786853702
+    },
     {
       "title": "Final: Ravens 24, Eagles 7 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0tMQmx1bUFKd0U4Vk5sMnNuX1JCOWd0Um8yV1R3aXV5Z2lCdVZaRHROY0FYX2RlUDF6MkRvZjEyTzgwbjYtR2hsT3k3M2dORVRLWExnQ0hjVHJ6R2o0RGxuX29ETUFnLVB1VkhXSFItZHQ0c2x6WmhOTl9GV2pXOU1OeENwWmZISENaSGQ2ODZGb0VualYyd2Q1T2xaSy1MTUxWc0h4UENvY0hIQVlPYW5n?oc=5",
@@ -17,12 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW1pa1VOTWMzYkpiQ190c3ZLd3MyeEMzQURwNU5HVmRDSzJfSUdlWkJ6RFpscUZGV0xtblIySHhLaVEtMXlWWHNvb19UN1pJeVZsWlNiT3FBanlsZDRVZDFKeVV3T2FVZ0RIRmR5bWhhSWZyaXhSTDRjUkRDQTRibVN1MUpreTA2bHFuUmdteUN3WTVCQ05NSU1Xd3VHOHZ3TV9IOUlYcXlYNlF3aHN2SQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786852020
-    },
-    {
-      "title": "Stock Report: Ravens Rookies Shine vs. Eagles - Baltimore Ravens",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVm1tc0RGOHRZb05LUUdGaUM2TDZMb2lNU0J1UU0yRkFQUXNueV9OQXJua3EzYWNRaDZCdEk2NUVtLU51NDFDU2YzMUktV1RwVXY3c2xCY3RISFFzRnhUVVBkanh2Z1JFRjk1VkxVRzlXeXdSZTVycEhwWnlqR0Fqakd0V2lnRVdkQjVvOWpGSDNjY0taci0zYWpKTUx0b01Obk1BamxhYU9vcWczbGpEdVk1QVZtazVxTV9OZkVRejk0N2tURWc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786848602
     },
     {
       "title": "Eagles vs. Ravens highlights | Preseason Week 1 - NFL.com",
@@ -43,22 +43,16 @@
       "published": 1786847268
     },
     {
-      "title": "Game Recap: Ravens Take Care of Eagles in Preseason Opener - Baltimore Ravens",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamx6UnJaSy1aRngzLW1jam1sdnEtRUVvZ0Y3Yk1fT3duUFh2MVdxemY3Zk1uZG9YSUR3N01zeUxMRHEyaVYtb0plZlhhM2dVSkp0Zmxta0RGT2EwdGVaS2ZvaFpNRVBjZU9VUlJ5dXhxUldwVEZCaXQxYlFnUFA4V21ORWdDWDhKOUFqRm0yQjg0b0xORmNR?oc=5",
+      "title": "Eagles preseason opener exposes plenty to fix after loss to Ravens - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnZKM1p1LUNOR1FXUDhmcnFYWFE4Z1RuX2hPdUg3cTd6aEhhend1ckVRanZJM3ZnWkRTZlppdXQxOThEYUx0OEg3djdpakdfT1E4XzlxQ2g4LU9lbmhyeVQwNjRVM2lQWGNqbU1GR2hZTVd5MlN1VHdpZGUtZWJEZ3hEVzB1WmZDVEVtcjdaT1pPQlR6TGlEZi1YOVZBMXU4enNidUNJdWNUNnJnSnN6UWwwZHJFajRQNDMzWE9vR21kaVZ0RTluaTR0WFRJQQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1786847175
+      "published": 1786846320
     },
     {
       "title": "Eagles vs. Ravens: Philadelphia drops preseason opener 24-7 in Baltimore - Eagles Wire",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc0ZpY2psYzJ2V0h3YUgtbzQzU3RObkt4djViSFYtZ1lBdzRmOHQtMWVhaEJoM0x3dnhROWZfOXVDcWRkTHg2Z1hDTUtrdElzNTNLeHVMMjM5eGJrRVA1OW9GeWNLSDdoUjRWMWR4NnRJMWNtc1lEcFMtbHFtOVA4OUROUUZyXzBOMmphWTgyVUtJaWlINXV1RVZsczl5SzFwb2otMi1kUzJIVGczdVNJT3BKM2k1dDFYMWtlOEs3eVplNG02bTBPSUs2dTdHNmdKMkFjalZPUEIyM2s0cDNaazBkR21iSVBMNVE?oc=5",
       "source": "Google News — Eagles",
       "published": 1786845600
-    },
-    {
-      "title": "What We Learned In Eagles Preseason Opening Loss to Ravens: Rough Start for Camp Standouts - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakw2cURCeVIxWEpRV180YWpqLXBnVVZaNkpYalVnNV9CY2lfQ0N3UDJuYVNsZ0dDS2pMTWl2WTZjR013TThYYlFkbzdpQ3VEdFlDeDJIZ3JkMHdJSVc5UDFkdW55N1V4N2NOUmJ5NXdnRFpLdEFPSTR5SUw0LTJfSFpCTVRaT2dzbXVSWWh3a2NoZmphQUI1b3drWEZyam5LYWFaNmY4RnpBZlU0cDd2WkdMcTIyMWdGZjlQNFpmX3p6VjdzR0lWSW1KblNmNzRYd1Zj?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786845465
     },
     {
       "title": "Eagles-Ravens preseason observations: Position battle updates, injury news, and more",
@@ -143,6 +137,12 @@
       "link": "https://www.bleedinggreennation.com/news/179428/eagles-news-did-philadelphia-tease-a-new-old-helmet",
       "source": "Bleeding Green Nation",
       "published": 1786808434
+    },
+    {
+      "title": "Eagles depth chart reveals 4 positional battles to watch heading into preseason opener against Ravens - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZDU3MVNra3VoYlYwLXBQc19uUUxDbXJMZGtCOG5sdklERFdVUVlKeEl4ZFo4dkdTOHFBbHlmQkhfbVpRb2pvdTFUVUdHRjJtMnQxb3dSeUdQRTk1RDhORThuVHZXRml6Z3RiYmx6NXdnVDcwakNVV2RWbHBEYzF4NkRRRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786802400
     },
     {
       "title": "Eagles preseason opener: 6 pressing questions ahead of Saturday’s game vs. Ravens - The Athletic - The New York Times",
@@ -247,7 +247,7 @@
       "published": 1786698168
     },
     {
-      "title": "Eagles Players Fight at Training Camp, Full Details Revealed as Big Dom, Roseman, Sirianni Intervene - bleacherreport.com",
+      "title": "Eagles Players Fight at Training Camp, Full Details Revealed as Big Dom, Roseman, Sirianni Intervene - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNmZCRjlMSGJNYlo4Y21wVExyc2hZWlZhajlUb2dkUHZ1S1owVnYxdlV2d2hGZ3N4ZVp3c3YwTEFYM0ktUUFrU0FZajRJeXNra3o3WUN6cjY1MXNRcFVmQnpZSXgzemI2akNZU21PZHFhWVRJNTVZTlUzTFJWaTRVUWpGNEZQWDc0ZjZzenY3RmlSU1hiSGt2aDdlS0oxWW5hRkY2cXlNQVNqNUN3LXZwZF9iX0pLTThLZC01YmZiTnktcW5tR21uczBTeEI3U1c3V2c?oc=5",
       "source": "Google News — Eagles",
       "published": 1786663710
@@ -325,16 +325,10 @@
       "published": 1786564649
     },
     {
-      "title": "Eagles Appear to Tease Return of White Kelly Green Uniforms in New Video After Hurts' Comments - bleacherreport.com",
+      "title": "Eagles Appear to Tease Return of White Kelly Green Uniforms in New Video After Hurts' Comments - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkdjMlUtVzBNYmljZEhNZDBMR3otaXRiSzUwUzVYWjc4czdlaDBpUWlWOU10c2VZcXVBbkRjcDJLWkQycXREMUpvbWVhbWtseGZiRGYtMlJKSDB3dzlqSlRQSU9kTS1lR3pDUkJzSFpsWlNrcGMwdlZwMm4wY1NKaGJGOGdrUHJNNnEzQTMxTUNyS2gwNkVOMjN6OHdONDNGWVJMeDhxM0trQ2VXd05tWEQyNUlfbC1iSXViajkwdGtxcnRya3R2Tg?oc=5",
       "source": "Google News — Eagles",
       "published": 1786556146
-    },
-    {
-      "title": "Two former Eagles quickly find new teams - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVRBMXhOcGpMdEtPR1pYS2F5X2ZjSENub0pGQ2FySUkwM1JUWUUzSE5xSmVzbkdBSWJLV2RxdVJKXzB6MlFHVU9HNlpnMkFVOXk3WVY2MW5TbzVIc3BvOHczMG9SX0J3MWNEUF9RM1QyWGpnNjNBT2VQdUtrM01iWWxJQm9SRXZhSlNwa0lVU0owdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786544236
     },
     {
       "title": "Eagles News: Jonathan Greenard expected to miss “another couple of weeks, at least” - Bleeding Green Nation",
@@ -515,6 +509,12 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmJyblRXOXUtdUlTMHZXR3BRVzhRS3Y2bVBaMWJRelo3TWtLUE1xUXpJVnNYdWF0ckxjOGd4MzJrRDVPRUFMRFVXLUxEVnBseVY5bFJDWmNiOXJXR0VYd1FZMVRlS2xSY2dVNWhYVWx6Zk9yZFNoTXF6b0NVQjFLdGVCN2lOdVVLYXFjNWpDNDdLb0xQYndOeTcwQ29zOVlMZFJKYXY1RGdKdzhk?oc=5",
       "source": "Google News — Eagles",
       "published": 1786192417
+    },
+    {
+      "title": "Eagles News: “Darius Cooper has been the third-best receiver on the team throughout camp” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUR1LS15MllhcE5jUnY4TWhzdVJqV0xpR0xXcVNsaWhYNG10bDR6X1B1Q0tjcGxPUkphV1lRTTRmcVdOd2NGcDNadTBqYUhQUGhRY3piNzlHQ1QxS3NIeHM5VU9oazRJb1h1QjFMSXVZRTNfaXM1Y1pVR3hvNU52VWJSSGR6MjNIRlFvUE5xR1NjUmJXMzRIOFZqVi0yNnp3cVVJc0FNbHhhcXB4anczLWZTQ09NZF9ZVGdvam5ZR09OUmgybU50WlpyWUUxWWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786190474
     },
     {
       "title": "Analyzing NFL executives' perceptions of Eagles QB Jalen Hurts - PhillyVoice",
