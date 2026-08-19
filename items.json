@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-19T10:30:47.987730+00:00",
+  "updated_at": "2026-08-19T11:27:03.056826+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -23,6 +23,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVEdGotLXJnNWFqZ0JRWEo2aVQxUjVBYjFLandlS19iREFTdnloNGxXMkJjVUlIekNWWF92MGY0MklhMVhYeC1ubnFwLXJGbHhZUUZKQVpaOUVzSzVfcHpRZVA5V3ZRVEU0c1UwZlpvZGZIUEdRNkNaWW9CWGJMQ2JGTGFTcTVIbWlmTEJYUGcweDg?oc=5",
       "source": "Google News — Eagles",
       "published": 1787086348
+    },
+    {
+      "title": "Sean Mannion talks about what the Eagles need to do better on offense",
+      "link": "https://www.bleedinggreennation.com/news/179753/sean-mannion-talks-about-what-the-eagles-need-to-do-better-on-offense",
+      "source": "Bleeding Green Nation",
+      "published": 1787079146
     },
     {
       "title": "Eagles Rookie Report 3.0: Updating On How All 15 Are Trending On The Depth Chart - Sports Illustrated",
@@ -247,12 +253,6 @@
       "published": 1786886973
     },
     {
-      "title": "Eagles News: Uar Bernard and Joshua Weru offer intrigue in NFL debuts",
-      "link": "https://www.bleedinggreennation.com/news/179591/eagles-news-uar-bernard-and-joshua-weru-offer-intrigue-in-nfl-debuts",
-      "source": "Bleeding Green Nation",
-      "published": 1786885136
-    },
-    {
       "title": "Eagles News: Uar Bernard and Joshua Weru offer intrigue in NFL debuts - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGctRUhkUllnaEo2NUg2UFNMNVZBOTFEXzg3cUx1YlNJQ19yb1VlOGFtSWNTbE9RRkpDUUoydW5Wbmk1SFNPQVE3ZkM5U2hvbkJEcTRZY0tSb25QdmRPOWlFQ2JYUXJ6NUxCelgzdnMyXzZRRkdnZGRweXFhY1ZMZTZtTU1fTmdxLWl3OWxiYTdsMGhBZ01lMEIwX2xtVU1HcGw2MnQyQ3RpaDBYNWpUUU9SazFaUXM?oc=5",
       "source": "Google News — Eagles",
@@ -283,7 +283,7 @@
       "published": 1786874401
     },
     {
-      "title": "Eagles’ undersized center Willie Lampkin continues to impress in the preseason - nbcsports.com",
+      "title": "Eagles’ undersized center Willie Lampkin continues to impress in the preseason - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3FxcHh5MzZ1VUdKM2poaURMbUcxTVBjT2Nfbjh1YzhMTlBIV3JHdU5ZUjZnOUVWZ2l3U0RfZXpjVWhxaG1PTEVNX3VsVEt3c1E3QkZvUVU5Vkw2cUdEczh0bHZGVkY1UlkyTnRjQVBVc2xIZnNTM1BoMl9xZk90R1E5YTZuRTRITTl6akhDY2tMQ3p6ZkF1Zm1VMXlfQllxZUo4Y194N1ROUE5ad3FUdGVSUF9rZ3J6OGh2MmZYcVN3eUxTdU5qTWh5TVdaVlZyQ2VWbjNB?oc=5",
       "source": "Google News — Eagles",
       "published": 1786869923
@@ -295,7 +295,7 @@
       "published": 1786859441
     },
     {
-      "title": "Game Recap: Ravens Take Care of Eagles in Preseason Opener - baltimoreravens.com",
+      "title": "Game Recap: Ravens Take Care of Eagles in Preseason Opener - Baltimore Ravens",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamx6UnJaSy1aRngzLW1jam1sdnEtRUVvZ0Y3Yk1fT3duUFh2MVdxemY3Zk1uZG9YSUR3N01zeUxMRHEyaVYtb0plZlhhM2dVSkp0Zmxta0RGT2EwdGVaS2ZvaFpNRVBjZU9VUlJ5dXhxUldwVEZCaXQxYlFnUFA4V21ORWdDWDhKOUFqRm0yQjg0b0xORmNR?oc=5",
       "source": "Google News — Eagles",
       "published": 1786853702
@@ -313,7 +313,7 @@
       "published": 1786852275
     },
     {
-      "title": "Stock Report: Ravens Rookies Shine vs. Eagles - baltimoreravens.com",
+      "title": "Stock Report: Ravens Rookies Shine vs. Eagles - Baltimore Ravens",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVm1tc0RGOHRZb05LUUdGaUM2TDZMb2lNU0J1UU0yRkFQUXNueV9OQXJua3EzYWNRaDZCdEk2NUVtLU51NDFDU2YzMUktV1RwVXY3c2xCY3RISFFzRnhUVVBkanh2Z1JFRjk1VkxVRzlXeXdSZTVycEhwWnlqR0Fqakd0V2lnRVdkQjVvOWpGSDNjY0taci0zYWpKTUx0b01Obk1BamxhYU9vcWczbGpEdVk1QVZtazVxTV9OZkVRejk0N2tURWc?oc=5",
       "source": "Google News — Eagles",
       "published": 1786848602
@@ -379,7 +379,7 @@
       "published": 1786802258
     },
     {
-      "title": "Everything You Need to Know: Ravens vs. Eagles - baltimoreravens.com",
+      "title": "Everything You Need to Know: Ravens vs. Eagles - Baltimore Ravens",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDVucENsRVBjNjhySFVPVVpxQkVkQnhYOVFtVFhiOFVQTmFmbEJrNGNNQWVjeW5YRWRJOWdWY0dGZWFOWEJnYWM2eU1LYVJFWTVxRVdmbDFHTXJOYlJWMnUzNDlWVndnc2J4SEJNaDVLWE5LWk5rUFhlTDgzNmZ6LWUtYjVRRXRBdzBZbERISVJCakxtSjNJaWFGRUtXUFpPUG0zR2s3dDNpSmxNWUlr?oc=5",
       "source": "Google News — Eagles",
       "published": 1786799002
@@ -439,7 +439,7 @@
       "published": 1786604400
     },
     {
-      "title": "Eagles’ social-media team highlights a Jalen Hurts interception - nbcsports.com",
+      "title": "Eagles’ social-media team highlights a Jalen Hurts interception - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWg0R2VwS0l5V2NXM3hyNVlKRUlncURkZ194UUhSYnJVYnhHREpwSEoza1JpajRqY2hBdHotYndiSS0zUFgxNEFCSFRVdUJqaUUxOU5CVWhhdUIwWXNaNWNOU29FQVhGaVM1b0JldTFwN0xuUkFPRkVWVlBsZTJXUElCSXlpeWE4VGFLYWRFZHVEMEVueG12M1VqVGV3SGhOUFRrdXZTLTZTc0xOclQwTkhESUkxbmQzaVZTRENTdEVvUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786578788
