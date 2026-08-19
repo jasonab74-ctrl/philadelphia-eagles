@@ -1,16 +1,34 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-19T12:51:35.661493+00:00",
+  "updated_at": "2026-08-19T13:45:45.286686+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles-Patriots joint training camp practice updates",
+      "link": "https://www.bleedinggreennation.com/news/179801/eagles-patriots-joint-training-camp-practice-updates",
+      "source": "Bleeding Green Nation",
+      "published": 1787145060
+    },
+    {
+      "title": "Eagles News: Cool POV video of Jalen Hurts throwing a touchdown",
+      "link": "https://www.bleedinggreennation.com/news/179795/eagles-news-cool-pov-video-of-jalen-hurts-throwing-a-touchdown",
+      "source": "Bleeding Green Nation",
+      "published": 1787143882
+    },
+    {
       "title": "Spadaro: Joint practices vs. Patriots offer marvelous chance for development - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVUyRXVzalBHdW1LdjFJNGJ4NWJSbVFsTWxJenhNaDN2bTVsNS11Q1B0SXRoSGViMm1lWk52a0JfU2FBZ3FlUzFoYlVlY1ZtQ0dmRDJfQkk4SVM5MHBFUk1mTXZ5M0dsV2E4NXhYWjltaldrNmlaaVBJNnJEM09ERUF5akNsMmduN3JuaHlJSTBpclF1ZVlsNlI1X21LTzN6MDc3WjNuWnI2R0JvZzBnUWY0NlQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787102249
+    },
+    {
+      "title": "How to watch, stream, and listen | Eagles at Patriots - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWpKR29RMHRuMTI4M3hwYmxzMVdPanQ2YlJuZnp6RENRQU5ySkpjdDRhNG1vNjNlYXgxSkJVcEs1aXVtN3dYMW1EanpVZE5RNlBhcWMwYmluZ1ktS2FFOFdrcG1uMUNXS1MwTF9Eby14OTJFLTVzVzAtdUdWRVJVckdwNEFReFNWMHRjYUVTZlNSQmpPUEY0cGtIYVNWV1lhLWVuX3NSQktjRE1LcW1xcQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787101981
     },
     {
       "title": "NFL 2nd Round Pick Projected To Lose Eagles Camp Battle - Yahoo Sports",
@@ -19,22 +37,10 @@
       "published": 1787092005
     },
     {
-      "title": "How to watch, stream, and listen | Eagles at Patriots - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVEdGotLXJnNWFqZ0JRWEo2aVQxUjVBYjFLandlS19iREFTdnloNGxXMkJjVUlIekNWWF92MGY0MklhMVhYeC1ubnFwLXJGbHhZUUZKQVpaOUVzSzVfcHpRZVA5V3ZRVEU0c1UwZlpvZGZIUEdRNkNaWW9CWGJMQ2JGTGFTcTVIbWlmTEJYUGcweDg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787086348
-    },
-    {
       "title": "Sean Mannion talks about what the Eagles need to do better on offense",
       "link": "https://www.bleedinggreennation.com/news/179753/sean-mannion-talks-about-what-the-eagles-need-to-do-better-on-offense",
       "source": "Bleeding Green Nation",
       "published": 1787079146
-    },
-    {
-      "title": "Eagles Defense Brutally Rank Themselves - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYk1ubWl5THZqQzVsX0JRUmxaZ0lINGYyektzSnBvT2Uwa1dlSUE4YmRWX1VBdDdLSXJkcDlRNVBZbWtvcng5NzdvRWxBYWlDUXhwY2NyY08yMTVjYzJwVklyWVREdDNqMXJRcUpjWmZvSmRPQ1VYUjRmTzFBZVVOVlB4eUh6N1E?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787076041
     },
     {
       "title": "Eagles Rookie Report 3.0: Updating On How All 15 Are Trending On The Depth Chart - Sports Illustrated",
@@ -139,12 +145,6 @@
       "published": 1786983663
     },
     {
-      "title": "Eagles News: NFL insider says members of the team are raving about Jalen Hurts’ effort to improve",
-      "link": "https://www.bleedinggreennation.com/news/179672/eagles-news-nfl-insider-says-members-of-the-team-are-raving-about-jalen-hurts-effort-to-improve",
-      "source": "Bleeding Green Nation",
-      "published": 1786983586
-    },
-    {
       "title": "Eagles News: NFL insider says members of the team are raving about Jalen Hurts’ effort to improve - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEtONlZaUHE0R00wUmtNYUpydDdHWVhmbUhxczRUaU9ZVm1rdDVDSE42ZHh3cGdZVi11UG94UEhRSzNUOE9QazRDb215eXgzS2lJcEdQZE9WbFk0eTViZElSR3dTcmppT3ZKd3R1MDF5Zlk3QVpDNUNOb25wNWUwUUNMN0NhaTRqcER3aTJreE5wYXJHOV8zVUhrUFQ2bDNIYkRsN2RQQ2JzaHBzd1RtdXFtOE9QS09EMzdLQUt0VlZuM0h5MEhDR3h5Q3Q2RzdfekdsZ2tDZkVZNlU?oc=5",
       "source": "Google News — Eagles",
@@ -161,12 +161,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWdOWHRIUE15Wl9zcnRmVVhwODh6S2ZlakxWeTZidjVaLWhoZ1hTZTlLcFZGZnhIMGVaTkllNExtc0l2MVpLLTBhbkp2b1VmNWh3bmJfSXVZVEIxN3phRzg2b1Z1X09TaHd3bXlhQ18yYWJHc3M4VDQxTm5QQ3hoV1AtcDI5Z2Y1eGg2akVOQ1BIN1h6VXRCQndJaTEzT3VKT1ZPdUtDX044TDN0dlE?oc=5",
       "source": "Google News — Eagles",
       "published": 1786982573
-    },
-    {
-      "title": "Eagles-Ravens snap counts: Jihaad Campbell, a starter who was not rested",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/179614/eagles-ravens-snap-counts-jihaad-campbell-a-starter-who-was-not-rested",
-      "source": "Bleeding Green Nation",
-      "published": 1786982233
     },
     {
       "title": "Roster Move: Eagles sign CB Isaiah Bolden - Philadelphia Eagles",
@@ -289,7 +283,7 @@
       "published": 1786874401
     },
     {
-      "title": "Eagles’ undersized center Willie Lampkin continues to impress in the preseason - NBC Sports",
+      "title": "Eagles’ undersized center Willie Lampkin continues to impress in the preseason - nbcsports.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3FxcHh5MzZ1VUdKM2poaURMbUcxTVBjT2Nfbjh1YzhMTlBIV3JHdU5ZUjZnOUVWZ2l3U0RfZXpjVWhxaG1PTEVNX3VsVEt3c1E3QkZvUVU5Vkw2cUdEczh0bHZGVkY1UlkyTnRjQVBVc2xIZnNTM1BoMl9xZk90R1E5YTZuRTRITTl6akhDY2tMQ3p6ZkF1Zm1VMXlfQllxZUo4Y194N1ROUE5ad3FUdGVSUF9rZ3J6OGh2MmZYcVN3eUxTdU5qTWh5TVdaVlZyQ2VWbjNB?oc=5",
       "source": "Google News — Eagles",
       "published": 1786869923
@@ -325,7 +319,7 @@
       "published": 1786848602
     },
     {
-      "title": "Eagles vs. Ravens highlights | Preseason Week 1 - nfl.com",
+      "title": "Eagles vs. Ravens highlights | Preseason Week 1 - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkxpNTRlaUw4SEtkOWJpV0pjdXMwdjZJQkF2elNOMFgzQTNBZlBYQlhscTltZFFjXzJZTmlxTHlkN0NzZ0FpTXVJS1dLVlU4eEtnOFNWSGQ4LVpPN1dqalR4Z1ZIMmdpTl9lNGxRYVFMajJJXzAwbWQwWVQwdnVKLUZoUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786848050
@@ -355,7 +349,7 @@
       "published": 1786846502
     },
     {
-      "title": "Can't-Miss Play: Kelee Ringo steals would-be TD catch away from Guillory, notching an INT for Eagles - nfl.com",
+      "title": "Can't-Miss Play: Kelee Ringo steals would-be TD catch away from Guillory, notching an INT for Eagles - NFL.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVZ0V1oySVlGMlVIWW5BV3hMNDZzS0JtOXNwSzN1M2ZCSUV0QUNLOHV6STNjZGRFc0JrQ0dnQi11d1NaUEhVUENkc0tKWTNGcnJydUVzeGNyM0VuLUNSQk1vMWUzbVhqZHJwTUNCNkgzZHlESFlKOEpPcGJxOUx1MmstTV8tOW5wTnNJRkNTdHUwUDlsamxrMXVQSlhlc25LQmZuNHR2MXh3b1pEV21tLVFIVkZXQkNLM2NFODhvZDB5OWs?oc=5",
       "source": "Google News — Eagles",
       "published": 1786841127
@@ -389,6 +383,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDVucENsRVBjNjhySFVPVVpxQkVkQnhYOVFtVFhiOFVQTmFmbEJrNGNNQWVjeW5YRWRJOWdWY0dGZWFOWEJnYWM2eU1LYVJFWTVxRVdmbDFHTXJOYlJWMnUzNDlWVndnc2J4SEJNaDVLWE5LWk5rUFhlTDgzNmZ6LWUtYjVRRXRBdzBZbERISVJCakxtSjNJaWFGRUtXUFpPUG0zR2s3dDNpSmxNWUlr?oc=5",
       "source": "Google News — Eagles",
       "published": 1786799002
+    },
+    {
+      "title": "What channel is Eagles vs. Ravens on? Time, TV schedule - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXpfbFNkcG5XOUhwWTVFa0lldDVueDhOVW9RZ0ItdV83bjN1MVFiMl9ueTd4dHJXMmVrbUYxNE1xc1Ixd2x5X1R1dFhzZmxRaU84TlU1d2ZTY1M0R1dIVjY3MmZ0QXBpdXBOZGF1cFJvaXdpdHBzeXo0QW9oRWRsSVg2TnF1M1V2MmdKSThNbmR2TE45NS01YlB3SmtMWm9OYW1rMjFDTG5DeDBYLTdYbGIwS1ByVl9VMXpqUnJMZ2FwU1hNUVpUanFUSzJuXy1wUEl1SG1vMmw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786787400
     },
     {
       "title": "Eagles News: Ty Robinson among players on the roster bubble - Bleeding Green Nation",
@@ -433,13 +433,13 @@
       "published": 1786622616
     },
     {
-      "title": "Eagles 2026 training camp battle tracker - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVAwSlV2OVVHTDZoZzJoakZHcFM0QXBVRTZ1X2R0UWRfSHVyZmhNSjJnVWM3WEZmRms4SXV2OFN2aWtadHFvbjhnN29zbjFUM2NCX3AySGlTbWF4QVVBeFJWUW1Vc3RnSjR6emQ0NU9zQVBYRmZaamV4Z1lfSkxJa01jb1dCcWtSajJ1alN5SEFsdklxTU9DbUF4ekZyYTM0Qy1BT3lmeDlOMGEtR3c?oc=5",
+      "title": "The key to staying patient for Eagles' other international phenom - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSVI0Y2xPLXpQYXJJdkhjaDhZSTdXX3RjVWRjZ2tBRjB5M01rejFwc09YaGdtakoyOGZCbFRzWDdBeGw3bkpIYTdEek5lenN0R3ZwVndYU011Y2o4aEg0dE1XVHVBSmpqMnNudHhpUWdVMENyWHJOcVdLYlhubjhmSzBzYnFTdno0Y0JmOVVucUtxU1BUVEFKT1BxeHJrM3dUb0l3QXZqd0g4eGVZelZ4TlZIc1M5WVZOVzA1eGw3eFFsRWRqRWtsMUVxS29JbTROVmVubm9EQ09vamhNWFE4VzZZSTZXUV95LWh0c3p1N1hzbG9DajJEbW1uYnQ2NWYtRS1QSmZzblBQQdIBkgJBVV95cUxNQTdzX2VHVHFxc2NwZTJtb1dmRzM0WWJ1amxEWUtGVHctZWFaZlY1bnNqQVVnREgwaXBWOEwwaTg1bnlMNENIVVh0MmtDT0pQWC1TWERoNGRWNFRjLWNiOEtRX1NOajViV0ptOHdDSlZfenZGLTU5UEd4MXBSSVRvaExuY2tCTjZlc3RjTWM0Q3o4NTEtU2pJS3VWR1dHaElRX3RmZUFJT3hSMHl2NXZOYXQ5eDNLbnpJYXpkX2JHZURVYU52QzZWRVo4THo5a0ZJdm9rNGN1bU5EOVJ2SmxMeHpmWmtQdTFxT0U3dkRpN2g4cGxZVG53NmRENWdNUm5INExGXzhtM1dWS185NS1TU2RR?oc=5",
       "source": "Google News — Eagles",
-      "published": 1786604400
+      "published": 1786618800
     },
     {
-      "title": "Eagles’ social-media team highlights a Jalen Hurts interception - NBC Sports",
+      "title": "Eagles’ social-media team highlights a Jalen Hurts interception - nbcsports.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWg0R2VwS0l5V2NXM3hyNVlKRUlncURkZ194UUhSYnJVYnhHREpwSEoza1JpajRqY2hBdHotYndiSS0zUFgxNEFCSFRVdUJqaUUxOU5CVWhhdUIwWXNaNWNOU29FQVhGaVM1b0JldTFwN0xuUkFPRkVWVlBsZTJXUElCSXlpeWE4VGFLYWRFZHVEMEVueG12M1VqVGV3SGhOUFRrdXZTLTZTc0xOclQwTkhESUkxbmQzaVZTRENTdEVvUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1786578788
