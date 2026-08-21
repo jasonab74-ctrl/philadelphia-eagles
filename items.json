@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-21T13:47:41.544117+00:00",
+  "updated_at": "2026-08-21T14:37:11.270189+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "The Eagles need to win back the fourth quarter in 2026",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/179643/the-eagles-need-to-win-back-the-fourth-quarter-in-2026",
+      "source": "Bleeding Green Nation",
+      "published": 1787318280
+    },
     {
       "title": "Eagles News: Patriots reporters were very impressed by Jalyx Hunt this week",
       "link": "https://www.bleedinggreennation.com/news/180181/eagles-news-patriots-reporters-were-very-impressed-by-jalyx-hunt-this-week",
@@ -133,12 +139,6 @@
       "published": 1787180789
     },
     {
-      "title": "Eagles-Patriots Joint Training Camp Practice Notes: Day 1",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/179845/eagles-patriots-joint-training-camp-practice-notes-day-1",
-      "source": "Bleeding Green Nation",
-      "published": 1787179971
-    },
-    {
       "title": "Eagles Corner Martin Named to Aeneas Williams Preseason Watch List - North Carolina Central University Athletics",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkRKZzZKbWMwMC1oRlFsSlhuUnhKWFM4WE1YZDZPaWNiS3hSaXg5OUk2d1RlWXlJNUFfWUJrMTJlWkhVdzZnenRhcFN2bEFsYWZGNmRUcXFETktoNmZmaG1VSlA0eGJZZlpTMXBkS05fckdfSlJQVkVGMGxjX3lJN050RjBfUU82OWptbGt0eHNRek5Sb1hIbDVjeXRzaWdzdWpIdkFkaV91cFN2R2JONWpLUHFZQ2ZCb29ES2Y3TQ?oc=5",
       "source": "Google News — Eagles",
@@ -157,7 +157,7 @@
       "published": 1787169748
     },
     {
-      "title": "Eagles 2026 training camp notes, Day 13: Eagles-Patriots joint practices, Part I - phillyvoice.com",
+      "title": "Eagles 2026 training camp notes, Day 13: Eagles-Patriots joint practices, Part I - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmpRVm5OVWpCZm1fc0IwbU5EYWhTaERIOHlIdUxtUTUySmhrcDRzUy12VGRnTUxFV1BNS09NdmNlMGJaNW5LcHR6REcyQ0tmYjdDNVVrRmhONVg5STUtcV93Zk1DVDZpM2U2Wm9CNEIta18zeS1jY0YwYTBLMC0yeVhHZTRlTGRqNVlNOWF5LUQ2U3dqNkdrQ0hxT2ZxOUZnblhOSmZNOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1787169137
@@ -223,7 +223,7 @@
       "published": 1787144400
     },
     {
-      "title": "Eagles 2026 training camp battle tracker - phillyvoice.com",
+      "title": "Eagles 2026 training camp battle tracker - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVAwSlV2OVVHTDZoZzJoakZHcFM0QXBVRTZ1X2R0UWRfSHVyZmhNSjJnVWM3WEZmRms4SXV2OFN2aWtadHFvbjhnN29zbjFUM2NCX3AySGlTbWF4QVVBeFJWUW1Vc3RnSjR6emQ0NU9zQVBYRmZaamV4Z1lfSkxJa01jb1dCcWtSajJ1alN5SEFsdklxTU9DbUF4ekZyYTM0Qy1BT3lmeDlOMGEtR3c?oc=5",
       "source": "Google News — Eagles",
       "published": 1787122800
@@ -349,7 +349,7 @@
       "published": 1786885136
     },
     {
-      "title": "Eagles 53-man roster projection, after the first preseason game - phillyvoice.com",
+      "title": "Eagles 53-man roster projection, after the first preseason game - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzc0bnhZcUR5OVR2ODVxSVFlYVVTeGRURFE3STI2NFBKdkMzNVJPV3NaR1NUYmdnUEZTT3dtQm9QeWlyZkpDdTJvUG9vWG9wODVwajRfTlNKTmVFMUFiVXpmaTNheFNWd05ZSEdwS3VrUWhsQ2pkdkFCYWFTalZ6TXFkNHBrTUxHZFRFbHRIaEtTeVd1UGlr?oc=5",
       "source": "Google News — Eagles",
       "published": 1786880467
@@ -457,7 +457,7 @@
       "published": 1786725240
     },
     {
-      "title": "Eagles 2026 training camp bubble player power rankings - phillyvoice.com",
+      "title": "Eagles 2026 training camp bubble player power rankings - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnM1a2FVQXZ3UXFvSUhRM3ZweV8xOURxUU92NlZwS0duaGNHWkdyOWFORG84ZkFsMmI2SV9iSkdMVk9ZTU0zVTU0Z1Z6UWtRQzRpS0dUN0dXTWZDUXFwQkNxQnFSVU5yRVVpTmVBY3AxSER5Ym1UcER6M3poTEVCc1hkV3FvcVVUYkozS1RNWllSOUJyVTl4aTZ1bmxWQVJqdjVBRUs4dTY5VjBuSGROV0dIanhKV2xucHNYcWtQbw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786704580
@@ -517,16 +517,16 @@
       "published": 1786431600
     },
     {
-      "title": "Eagles 2026 training camp practice notes, Day 10: Depth in the trenches is looking good - phillyvoice.com",
+      "title": "Eagles 2026 training camp practice notes, Day 10: Depth in the trenches is looking good - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTZ4MVkwYVUyZmhIV0xBejdOc1RNak90TjVyZTFkdi1GdjY5dDRkM01RbjJtTVJVSzcyQzFyTXlzTkN4WWRwTUN3Z2g3QUxUQXE5WE5NOF9mWW81QWdZM3Q3Y1l5VjJrU0RhYlRFd1JObGZicXpra28tRWdYMkpkYV8yX2RIZFAxT2FCRHZEb0hZaE00Sm1iQWN4dEFVREwtSC1jejZnU2hQbGs?oc=5",
       "source": "Google News — Eagles",
       "published": 1786431600
     },
     {
-      "title": "Eagles RT Lane Johnson enters season with farewell mindset - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1U3a1JyYmV1RW0wbl9DUmlxVmI4MlFpNGtSaEJNZU51WHJSOElaSWJySjVoa2ZadVpwQ0RlWUl0TjcwSFVaUlVHdmxsTVFKUEdubnBVSFduVHJuRy12ckstVkwxbXVUSnkwR3J5SHp4SWpmYThMX2pURThKSHRNTWF2U3BiaTRRODl0REZVUE1IamhVNTdKZzV5cDBzYms?oc=5",
+      "title": "Eagles Training Camp Practice Notes: Uar Bernard is showing some promise - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmlvY1d2TWhDV1RJTzVGVmZsVUhOWW44OHFxdFk4NEpsWHY2cVJQYjBvaUFNVkJBNkxUQjNxUm5sNHhWb0pYUDNVUTJOVU1EQ1JuV3l1RElxV1dGTjJqR1JRSUs2aVBndl9Lc1JRMTVoNjBMTzZSemctM09nWElvOHdKNkEwRWJkeVVFS1I1LVZuWS1HUV9IUUJwYVlEUW5PYWdFb3dpREw3QXMyaDl0ejRXSGp6d2xzTXpYeEJKOWU3d0dRckpKeXozUm1xSHlCSDVkU245TGljY1Z2?oc=5",
       "source": "Google News — Eagles",
-      "published": 1786172400
+      "published": 1786431600
     },
     {
       "title": "Eagles will 'lean into' tush push, new OC Sean Mannion says - ESPN",
