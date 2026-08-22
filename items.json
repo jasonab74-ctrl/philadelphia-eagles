@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-22T10:25:55.572174+00:00",
+  "updated_at": "2026-08-22T10:50:21.280923+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -71,6 +71,12 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUWxLdjdSamdoREZ2eDduUE9GM2RVanBzSF9xNlBqdTg2QjZXMlhPMFJ2UzZ1b3BvdkVwSWd5Nm1BWjNGQVVLNExpbWFNc1p6N25UZk5SUk80andoUWctdTVydG1jaVJxR3V3NFZVcFV0Z3lPbVZmOXRhX0x4WFnSAYQBQVVfeXFMTnd2NEM4M293WHJjT0NNeHlRTnFXQWhVbC0yVnFpNTlpWUlHOG9FZFdEYU5XcWE4bndZNmdXOF9Yd25acXZVbU9KSmtWSFh0THFETGJvemx6dkZwc0tFbHYxcTRWTGFrVk50UVRkMFhPSi1OVmJNM2JadHlxbkNBeE9mSHNS?oc=5",
       "source": "Google News — Eagles",
       "published": 1787330388
+    },
+    {
+      "title": "Saquon Barkley explains his mindset for the 2026 season - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzZpWTh0YnMwTGJUV3hIYXlkU2EwbFd4SWNDYURHZUk0RlR4aGlQdVl4dXJwQlFSRTg0SDQycERpejZVM0xQVVNfS05kdEtqS2IxMUJuMHVIcHVoYy16bkwzMUozYUw3X2NneGZwQ1lvRS1IYllYOVAtNGdGRkxOeGd5TVNGYm9xMHYzZkVmZURHWF9wZTROd3RwRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787324736
     },
     {
       "title": "The Eagles need to win back the fourth quarter in 2026",
@@ -457,12 +463,6 @@
       "published": 1786821469
     },
     {
-      "title": "Eagles vs. Ravens preseason watching guide - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODBfd3VWZFFqcXdQNHRKQ2h0Q1RuMk5nYXQzZTFkYklOWVFKUV9lbnNmbjZsLS1vengyd2lyOFk2MjlPVG80aGtiVEs0bmlfMmRNVGVzb1N1ZFg0RW1PYmYxMmEwdF9hRVR4bVB1My15SnFvLTNaNTZtUjFoYWZhRlBuOXYwNlZuMVdpajVWSU1CaER1eXNRbmRRUGNxMkU1bjlScFRFdWJsU0NETmhiU3NsRjhUc0stcUFQUXVB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786820272
-    },
-    {
       "title": "Preseason Week 1: Philadelphia Eagles at Baltimore Ravens | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBray1TbVl5RkxpeXlRWXZPZFFyaTNnYlhUaW45QUh1eUlHUHRMLUU3U2ZjNzdnN0tzaVRKZlhLTHk1a2tmQXJiTndSMW5YY3NvVXdYNU9vcW9OZGdEdGJMdzB3Tm94RzMtSzBOVjRiZWZldDdCZ3JVUTJn?oc=5",
       "source": "Google News — Eagles",
@@ -505,10 +505,10 @@
       "published": 1786632381
     },
     {
-      "title": "The key to staying patient for Eagles' other international phenom - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSVI0Y2xPLXpQYXJJdkhjaDhZSTdXX3RjVWRjZ2tBRjB5M01rejFwc09YaGdtakoyOGZCbFRzWDdBeGw3bkpIYTdEek5lenN0R3ZwVndYU011Y2o4aEg0dE1XVHVBSmpqMnNudHhpUWdVMENyWHJOcVdLYlhubjhmSzBzYnFTdno0Y0JmOVVucUtxU1BUVEFKT1BxeHJrM3dUb0l3QXZqd0g4eGVZelZ4TlZIc1M5WVZOVzA1eGw3eFFsRWRqRWtsMUVxS29JbTROVmVubm9EQ09vamhNWFE4VzZZSTZXUV95LWh0c3p1N1hzbG9DajJEbW1uYnQ2NWYtRS1QSmZzblBQQdIBkgJBVV95cUxNQTdzX2VHVHFxc2NwZTJtb1dmRzM0WWJ1amxEWUtGVHctZWFaZlY1bnNqQVVnREgwaXBWOEwwaTg1bnlMNENIVVh0MmtDT0pQWC1TWERoNGRWNFRjLWNiOEtRX1NOajViV0ptOHdDSlZfenZGLTU5UEd4MXBSSVRvaExuY2tCTjZlc3RjTWM0Q3o4NTEtU2pJS3VWR1dHaElRX3RmZUFJT3hSMHl2NXZOYXQ5eDNLbnpJYXpkX2JHZURVYU52QzZWRVo4THo5a0ZJdm9rNGN1bU5EOVJ2SmxMeHpmWmtQdTFxT0U3dkRpN2g4cGxZVG53NmRENWdNUm5INExGXzhtM1dWS185NS1TU2RR?oc=5",
+      "title": "Spadaro: 6 things to watch in Saturday's preseason opener vs. Ravens - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFF4cjV6UEk0anJSM2lmWTFlWjlPbzVKaXhWb2VtckRITElCRDhqckEwOU92dnBIZDk5NElTbHhORmxta1I0dE9CemJpSVRDMjI2UV82YkU5WGlHTWZZaEY4VFpwaFB5U1QtaEJCZ2s4cHZFcDhUTGNvejR2QnBiQ3FvWDJFVzRNdkV4WXB5M1BPdmJRWFYxTl9fMF85Ym5xa09zQVZKTkwtUQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1786618800
+      "published": 1786604400
     },
     {
       "title": "Meet the 12-year-old Eagles fan who inspired Jalen Hurts and Saquon Barkley - Philadelphia Eagles",
