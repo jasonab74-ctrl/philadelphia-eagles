@@ -1,22 +1,22 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-23T10:26:09.623823+00:00",
+  "updated_at": "2026-08-23T10:51:17.873084+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Carson Steele ‘steeles’ the show against the Patriots - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnJYa3lzQWMzYW91OTAxSnVZV2lOQXAwb0E5bGtIT0cxZFZ0em1BOV9YOWhLaTVsVmgzZVhFQ0pSVHhWbmZvUEwxa1ZmMVFXRVpZSUt5NVlQRjMwRXN6T3NyUjJnN2JvbTdwcEswT2FScC1TODRjcEI2ejJiZHMyNEFSVW80aXdvMDJtQ3RNbWlYYTdfb3c?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787462957
+    },
+    {
       "title": "Eagles provide update on Ja'Quinden Jackson - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqNEZVT3RKZ3dvamJlN0RLODNZUXYzYzBiT0U1UFZjVjExeE9RUDc3eXNoUXd2dEx6ODJlUTBzcTcwaHpJWDk2c2UtcVNjRTNrT0JVei1aUmVobUh1NTdFYlhRNzFNTDAxTUlhSWxpanRkcHc4Z0xubHVn?oc=5",
       "source": "Google News — Eagles",
       "published": 1787462438
-    },
-    {
-      "title": "Carson Steele ‘steeles’ the show against the Patriots - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnJYa3lzQWMzYW91OTAxSnVZV2lOQXAwb0E5bGtIT0cxZFZ0em1BOV9YOWhLaTVsVmgzZVhFQ0pSVHhWbmZvUEwxa1ZmMVFXRVpZSUt5NVlQRjMwRXN6T3NyUjJnN2JvbTdwcEswT2FScC1TODRjcEI2ejJiZHMyNEFSVW80aXdvMDJtQ3RNbWlYYTdfb3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787461567
     },
     {
       "title": "Game Observations: 9 takeaways from the Patriots preseason victory over the Eagles - New England Patriots",
@@ -47,6 +47,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFY3VVVyX1dUOXhKbHB1WEM4OGdzRzJXc0F2WHRIcDloajdSb3QwSWhSZ0JpYVR3bzNUNTVnMnVKbGxPZmxKMG8yLWt4V0U5S2g3QU56WEFUOVZxOHRFUVlOY2p4VzFxeTd6VXVNc0lGOVZzY2pTdEozdkVWN3FJeksxUW5EZktBanNBNGI4UlNobEZfRjhLSFFOV00zMERueUw0WUZ3N3hkaXhzdmhNVkJySWRHS29hejhFNEhJeEUydHh5NjZ2dk1meXRiNnVxdks0bllMLUU5ekU?oc=5",
       "source": "Google News — Eagles",
       "published": 1787454600
+    },
+    {
+      "title": "Eagles stock up, stock down after preseason game at Patriots - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzZPNnppN1lHMElNU1NxY3ZhUUdtZWdhUjRNYmh6Vm9PdnFGbmFhaG44YjB3VC1zNHYzYnhJOHllYjFQWWplZHE5S3VkWlFRdFJ1UU9MX2dqOW1kSUV6UUtPc0I4TFdSR0tLNm1QRVBvV2ZETXhSSGpwYXpFcmVVVmoyWWVLZ09VTHBZYVJUUGE1Y21ITkxhRzBpNkw3STJpaUpWb3h6ZS1ZbGNjMS1KRHRvU1RSalAyb2l1MVF1aUFJTmNaeFRoQ9IB0AFBVV95cUxQdTlSdHF1bG9jenRMVkZFYnh2SWU2VVYwYmxkbmtUUWIwMU4tMjVZbG5PY2V4enFUVWwwdEtyd09uVnRUMDVpVnhxOEZOMjlva2Y2LUZ6TFR5OWdfVGI0SnRuZElZYXppSlU2OXl5c19MdGZ6dkV0RmVzb1ByQzNLRUpxX0FUUDFZY3BhX3pKWk9XTlUxSFdKVGpfWGZYeFF3clBXUjU5YUF5NXUwRENSZlgtNlZGMzJISkVCMkxhRzhqdDJ1UFNuWXA3UDFySTRU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787454495
     },
     {
       "title": "Eagles’ Ja’Quinden Jackson taken off in ambulance, has full movement in extremities - The Athletic - The New York Times",
@@ -94,6 +100,12 @@
       "title": "Patriots vs. Eagles recap: Nick DeGennaro game-winning touchdown seals 24-21 victory - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHdHT3RnRm9TZ3RySUhJWjFxSW4wMmt6OUdPYlRMdTg5UnM4UXlQaTdmbm94emdRNFBsQmh5d2ljVTlaT3BrZWVzb0VRVTFvUGtfOWpxQjlQck1udmtSZjZDVFNIVi0wTFhGTzQ0dXg0MnBtcWdKWHZQSGFOS1UtNmRFRDZZV1U?oc=5",
       "source": "Google News — Eagles",
+      "published": 1787451223
+    },
+    {
+      "title": "Patriots vs. Eagles recap: Nick DeGennaro game-winning touchdown seals 24-21 victory - Pats Pulpit",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRkFRUklSdG5fcm16RXhjVHg1NUlabVEtMmk4Uk1MSnhWOEVaMnlGeWw2c1NtOGZXbTlZUHBRY2ljanJCbGdvM1oxWFJuMnYtb21Xd0pzVXhXWnpaejVWRmFBa2lVbVgyUFltalhqT0kxWldraW9DZERPWEQ4OEpwb2d1bXFuQm1pbHFMSzM1eGRmNy0tZm1TZHR2Y0U0MWF0M1I4NFJOUXg3Qm5kM3BoeWwwZF9WVDVCRmExOGMxQ2xEbGQ0TVZFRTNQd1BDakl0ZW1PZ2pCTDFXdmJSUzA0Y1Q2VQ?oc=5",
+      "source": "Google News — Eagles",
       "published": 1787451180
     },
     {
@@ -136,12 +148,6 @@
       "title": "Eagles vs. Patriots preseason game updates",
       "link": "https://www.bleedinggreennation.com/game-day-threads/180254/eagles-vs-patriots-preseason-game-updates-information-discussion",
       "source": "Bleeding Green Nation",
-      "published": 1787436000
-    },
-    {
-      "title": "Where to watch Eagles vs Patriots: Live stream NFL Preseason, TV channel - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGZkX2Eza3lIU0NibjUzTkI1V0FYd1pxbnFSbGlGQ3kwRmwteDR3SE13S1B4SGxSazVUVGlfTHhHcmR6RmY0UWo3MGwycXp4aFVEZDRBQmtBS0NwN2RUc194ZFJkVVNRa3QtMl80YkU5ZXg0Nmk1cjFtU2JMTFU5WmhwbUtVQQ?oc=5",
-      "source": "Google News — Eagles",
       "published": 1787436000
     },
     {
@@ -251,12 +257,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbERacGFsTVZxbXc2T2ZlYlI2Ri1tMDhRY0tQN1lYMGZkRG4xMlpXY1Utdkotc1d6MVcwZl93Ny14MzZNX2NYXzI0VmkwdVhVUFAzWVREajFGVWg2a04tdkhqUkl3Y3lkS2xXMGhYOE5QYVl2MDBkZ1hwOXMxeUJXN3NUTWJUMjBCOWhCSVM0eFVDaG43U2lxak5BS1lCUHVSeE1JRE9tY1dwS2YyUTEzX0x5eGpWazc3ajF6RGpQOHNyU1VpdVJ4STJienE3eF9Fd1Vr?oc=5",
       "source": "Google News — Eagles",
       "published": 1787315860
-    },
-    {
-      "title": "Eagles trade candidates: 5 players who could be dealt before roster cuts - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnJvMzRLc3hqS0htdFFKeTFFQUZQZzhZa3VoWnRDZjlYTlNSeTN4Tk4yaHRyY1ZXcHhjZFZKWnlnUW1jbDdQdTBfUkZUZUxVbW9oYWhFUHh1dDB4MXNmZ0Q1OHF0dVhsREZ1dTFsbExVLURLUHRqNzIyYVpya3ZzVm9SNGFkN0JWeXB3RFBsVHN4OFlnTEc0cVFuZ2VqYWJiRzZ4NWRzemlxR0tqWUt3dmQyN0kyMTBmUy1WaWVOaXVfQ1Zrb3JV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787306400
     },
     {
       "title": "Spadaro: The Eagles’ young defense has been put to the test against the Patriots - Philadelphia Eagles",
@@ -463,12 +463,6 @@
       "published": 1786848050
     },
     {
-      "title": "Roob's Instant Observations after a near-disastrous Eagles preseason opener - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVFuN29Lc1ZXZE1zWS04TU5YUHllUjdxWWJGZGVJbUhyQk43VmtWdjRtX3ktcTN3aWxQTDBPSlQzOWpwSXpGdkZqNk51Wk91cS1hME5GWUx2bEp0RnpsdTdCbzhfdVg4V0dYWVc2Ri0zaE5meVY5V3FwS2w3aEM3VVloSUtjQllOdVRGS1ZvNll0d3h5SGdMb3BCX2pTUGlxR0d6LVVaTEJPWkRZY3Z6cmpnMlFCNFBBdVlBblhlNnhsQkxkdEJEYWJ6NUlObnJUb3BjV3ZBMnFCY1lP0gHkAUFVX3lxTE1sY2VsX2wwclg0YTBqZ3Q4Y05makNSUXp0dVBpSHU3RVY0TUt6Qk1uWXA1eldoTVhOX1JqU3FxelczWFo2ay1GZ2M3cmFPRVJBSDBFM2xsaTQxZmhoV3RfcUdtSTE2emJYOUlLQlBfUHJuUGI1b0hRQ2pFZDZGOHIydzJscXg0LUpmZmJ0X05jandFcXltZmpCNmVoNGpRb0VLWWh3MTRibjlCWU05WS1rTl83cVZLR0ZhblJNYUxYQmNrVzVsWDFIYU4wTF81RFAzTkk4Qm5iR1hPcnZ5T1VsdERWbw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786847355
-    },
-    {
       "title": "Highlight: Cole Payton finds Erik Ezukanma for the TD - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHFxV0YwQVo0MmNyeVZtbGN1emY4ZUI3YXpNUGtBQjN4RUZ1YTZyWFY5NndmdklJN0gzXzJESE5lSWg1eGhZN3o3c0ZDaGtDOHRwMDVsRzZIWE9pdE5uclJpa3pnaHRLUmItU1RIOFZlcW8wYUhBOG9YcHVjQncwODBYbmI4SF9YT3VXZlNDX0l4bWxjNnFBbw?oc=5",
       "source": "Google News — Eagles",
@@ -497,6 +491,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDVucENsRVBjNjhySFVPVVpxQkVkQnhYOVFtVFhiOFVQTmFmbEJrNGNNQWVjeW5YRWRJOWdWY0dGZWFOWEJnYWM2eU1LYVJFWTVxRVdmbDFHTXJOYlJWMnUzNDlWVndnc2J4SEJNaDVLWE5LWk5rUFhlTDgzNmZ6LWUtYjVRRXRBdzBZbERISVJCakxtSjNJaWFGRUtXUFpPUG0zR2s3dDNpSmxNWUlr?oc=5",
       "source": "Google News — Eagles",
       "published": 1786799002
+    },
+    {
+      "title": "Roob's Instant Observations after a near-disastrous Eagles preseason opener - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVFuN29Lc1ZXZE1zWS04TU5YUHllUjdxWWJGZGVJbUhyQk43VmtWdjRtX3ktcTN3aWxQTDBPSlQzOWpwSXpGdkZqNk51Wk91cS1hME5GWUx2bEp0RnpsdTdCbzhfdVg4V0dYWVc2Ri0zaE5meVY5V3FwS2w3aEM3VVloSUtjQllOdVRGS1ZvNll0d3h5SGdMb3BCX2pTUGlxR0d6LVVaTEJPWkRZY3Z6cmpnMlFCNFBBdVlBblhlNnhsQkxkdEJEYWJ6NUlObnJUb3BjV3ZBMnFCY1lP0gHkAUFVX3lxTE1sY2VsX2wwclg0YTBqZ3Q4Y05makNSUXp0dVBpSHU3RVY0TUt6Qk1uWXA1eldoTVhOX1JqU3FxelczWFo2ay1GZ2M3cmFPRVJBSDBFM2xsaTQxZmhoV3RfcUdtSTE2emJYOUlLQlBfUHJuUGI1b0hRQ2pFZDZGOHIydzJscXg0LUpmZmJ0X05jandFcXltZmpCNmVoNGpRb0VLWWh3MTRibjlCWU05WS1rTl83cVZLR0ZhblJNYUxYQmNrVzVsWDFIYU4wTF81RFAzTkk4Qm5iR1hPcnZ5T1VsdERWbw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786777200
     },
     {
       "title": "Eagles 2026 training camp bubble player power rankings - PhillyVoice",
