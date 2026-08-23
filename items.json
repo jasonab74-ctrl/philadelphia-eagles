@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-23T17:47:01.046775+00:00",
+  "updated_at": "2026-08-23T18:32:20.009082+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles: Jackson returns to Philadelphia with team after hospitalization from scary injury - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9aLW44N2oyRzdHWEc5TmlZWTRIZm5UTldLRFJObWxnUEVhQUpCU1VyQjB1QmYybWVqTXRPZzQ3by1Gc1dGNFZmSlVEZ3JoVlExTXZrcmFlVnVBSmZOVUY2TUd2ZVdsRDJTU0lfUC1PZFBUNVA1M0FLdnh3WFcwUEFNX21nRk8wSXlhRWdnU2w4NFU?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787494254
+    },
     {
       "title": "Eagles News: “Tanner McKee has to be the Eagles’ backup quarterback. Andy Dalton just isn’t very good.”",
       "link": "https://www.bleedinggreennation.com/news/180455/eagles-news-tanner-mckee-has-to-be-the-eagles-backup-quarterback-andy-dalton-just-isnt-very-good",
@@ -31,16 +37,16 @@
       "published": 1787486206
     },
     {
-      "title": "Game Preview: Patriots vs. Eagles | Preseason Week 2 - New England Patriots",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXo4N2NZUUVid01Mam1Mbl9ubkJLOWo2RlM3OUZtVUVqWDhfVXJ6Q2t4anM0bXJuSmtnVTJ6ZkFQSml4ZEM3TEZQdVFWSTZ3ay1VZ0hzOEZLTF9ZS2xnYkhhdlY4b2lyOFZCZnZiV3JYb1ViYWhuODlvRmtxZE5qTTQ4MEc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787481038
-    },
-    {
       "title": "Spadaro: 10 observations from the Patriots preseason showdown - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzBJZm9qclVDRlZMM0VhR29GUnViSFl4WjBWWUNGVWFBcnFMcDkwRnpYOTc2ZmJVNnIzdXhrU0I5YkpiMDEzbzZxWkdzcmNWaEVlbTM5b1dINFVtRDlzcGtuV29WNkd0dUN3ZzFvT0o3UVFULU56MmQ5Q21hTTJLQlpNNWw0ODlXMFhYQzFKV0JZUmdQdFB4aFZRckY5cS10T3NMRW04ejdlYlliYjZOME9NVFJUUEl2YXZBN3ltQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787471441
+    },
+    {
+      "title": "Carson Steele ‘steeles’ the show against the Patriots - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnJYa3lzQWMzYW91OTAxSnVZV2lOQXAwb0E5bGtIT0cxZFZ0em1BOV9YOWhLaTVsVmgzZVhFQ0pSVHhWbmZvUEwxa1ZmMVFXRVpZSUt5NVlQRjMwRXN6T3NyUjJnN2JvbTdwcEswT2FScC1TODRjcEI2ejJiZHMyNEFSVW80aXdvMDJtQ3RNbWlYYTdfb3c?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787462957
     },
     {
       "title": "Eagles provide update on Ja'Quinden Jackson - Philadelphia Eagles",
@@ -91,18 +97,6 @@
       "published": 1787455200
     },
     {
-      "title": "Eagles stock watch: Risers and fallers from preseason Week 2 - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFY3VVVyX1dUOXhKbHB1WEM4OGdzRzJXc0F2WHRIcDloajdSb3QwSWhSZ0JpYVR3bzNUNTVnMnVKbGxPZmxKMG8yLWt4V0U5S2g3QU56WEFUOVZxOHRFUVlOY2p4VzFxeTd6VXVNc0lGOVZzY2pTdEozdkVWN3FJeksxUW5EZktBanNBNGI4UlNobEZfRjhLSFFOV00zMERueUw0WUZ3N3hkaXhzdmhNVkJySWRHS29hejhFNEhJeEUydHh5NjZ2dk1meXRiNnVxdks0bllMLUU5ekU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787454600
-    },
-    {
-      "title": "Eagles-Patriots takeaways: Tammer McKee strengthens his case to be QB2 - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObkhZZUdsY1hVWXNESEtDYjB4UkNSNWNkT0JoUzdNc05MaUdXa0lUTFFGb2tlbi15WDBsNXpqc2lCVlU1SXBEVUs4dXpWdG1DZFJmVnBxQ0wxeUJNdnZvUVEwYTNSZEZNcE5mcGZ5eHkzTWtPcXVPMGtOTURDMVVySjNOS3Exa2lyUTZTQ0E0Y2ZaZDkyOGFDWHVGWTZhMTlOT0N5cmhFSGpGQ2p4Mm5vWW95Qk9wVFZSRUpOaEVCMEtpYy1OREFabG5ad1I3Q1dvdmRRdmlEb1BNcWk3dXotVzRMZG9hZw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787454540
-    },
-    {
       "title": "Eagles stock up, stock down after preseason game at Patriots - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzZPNnppN1lHMElNU1NxY3ZhUUdtZWdhUjRNYmh6Vm9PdnFGbmFhaG44YjB3VC1zNHYzYnhJOHllYjFQWWplZHE5S3VkWlFRdFJ1UU9MX2dqOW1kSUV6UUtPc0I4TFdSR0tLNm1QRVBvV2ZETXhSSGpwYXpFcmVVVmoyWWVLZ09VTHBZYVJUUGE1Y21ITkxhRzBpNkw3STJpaUpWb3h6ZS1ZbGNjMS1KRHRvU1RSalAyb2l1MVF1aUFJTmNaeFRoQ9IB0AFBVV95cUxQdTlSdHF1bG9jenRMVkZFYnh2SWU2VVYwYmxkbmtUUWIwMU4tMjVZbG5PY2V4enFUVWwwdEtyd09uVnRUMDVpVnhxOEZOMjlva2Y2LUZ6TFR5OWdfVGI0SnRuZElZYXppSlU2OXl5c19MdGZ6dkV0RmVzb1ByQzNLRUpxX0FUUDFZY3BhX3pKWk9XTlUxSFdKVGpfWGZYeFF3clBXUjU5YUF5NXUwRENSZlgtNlZGMzJISkVCMkxhRzhqdDJ1UFNuWXA3UDFySTRU?oc=5",
       "source": "Google News — Eagles",
@@ -125,12 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTTVnTUpqOEI0NzVtSUFYZldPNF9ISmpLUmw0ZUw4LW5PM05XcnZ3SFNCbWNvT0J4RVNCUnYtNjRKc09sZ2JieWJMb3ItQ2tLSFJvcjZtQzhDTUlLZDhQNXREVE5UUkFMcGJ4d3lYLXRfOTNZajh4OEdwQUlUdkhVQ2NlenFtQVNMQUVtOFZnYzZGYllUejh2SUhVS1FLTk4zQ1VYTUNaWExVeU42ZmQ2dHVnNVBoaHhHM2o1UWZSSnBpcXZkenh3T2RtNHoyOVgxZVFrRE5xOFByV2ZV?oc=5",
       "source": "Google News — Eagles",
       "published": 1787453115
-    },
-    {
-      "title": "Eagles RB Ja’Quinden Jackson has full movement, CT scan was negative - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0N6MTQwOElKRUw1REZmTmFheVZjQXlZVU05dWZPczVGWlNjZUJqeno0ZFlMOTJ3VFFPUFVQd0JidjF0U3BxbFl2QUthNWVFZ0NnZG1KaUI4ODZuN25NV1Voa19JMVE0QWl5ejl0Ml9ScExnTmRfNklTRWlFVmpLOUhpZkJYVzZVSldsWmw5QUdpV3pBTjBlWDMzbm1YMDhuemJaMzlUTWwwYlBKdE9qWTBGM2U2ZWFBcW5vZXhqcHlITkNFaG9N?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787452403
     },
     {
       "title": "Eagles’ Running Back Gets Carted Off After Scary Injury Against Patriots - Yahoo Sports",
@@ -169,12 +157,6 @@
       "published": 1787442341
     },
     {
-      "title": "Eagles RB Ja'Quinden Jackson has 'strength and movement in all extremities' after scary collision vs. Patriots - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWw3M0htNkxTMTYtTzQxc19TdGFWQlhXdzZZRU5sNDRjOV9pZmg2VThLTDZCWVBJRU9wbEtMOHNaYm1tSlB3Y0J4NWNhRllGeEhWY2RWZFN3MHRIWFpnQ3hSRTBLazhGNmpIczRGcGVmMTBvbi0zQkgtR3hCMUVaM2IzeF8wMkVsbFBQSHcxM2ZDTThMaDBIV0VnaFhBMUM2SVdJMmZObWJERnhPazhaaWtZbHMwczlMakhHUmEtUDJ3ZTEwUzQxSDlHbHd5WWVNeFd2OTA2ZmVfNlRKZE9UUFB6NEhWREFHeEFGckFMQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787442315
-    },
-    {
       "title": "Ja’Quinden Jackson injury: Eagles RB leaves Patriots preseason game in ambulance [UPDATE]",
       "link": "https://www.bleedinggreennation.com/news/180313/jaquindon-jackson-injury-eagles-rb-leaves-patriots-preseason-game-in-ambulance",
       "source": "Bleeding Green Nation",
@@ -187,13 +169,7 @@
       "published": 1787441440
     },
     {
-      "title": "Eagles RB Ja'Quinden Jackson returning with team after scary moment - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjdMQ3BRVnVweHJXNVphNk4tU1ZaZC11WmxFbWhkVFFxUDdVVlpTNEhpNExvVXA5UGk3bmNiYk8ySEVVSW80N3BWM1pHTWpXYzBzUVlnc2tRdnNYS1J2cnpaejRHckdPV2ZCWlZmTDNwcWczQzNlSUwtOUhkaW0wWFBPZF9iNW9aSXI1SVBjOTJ4cGxiaS02TVJZY2tWUHp0Y2NtaUFJb2RjaXA0aTNUSFhJZ2xqeWhTN1ZvVUJkVUZlT1Ra0gHMAUFVX3lxTFBFdnVOUFVsV21ORVNMMnlXM2RjMlFPbzczMl9RNHgtUDZvaVpOZzIzQTJMOVNpMWNLQkpJakNaMUloSWI1YTNGaFhxb1h5TFZXSnhUOHpwWUowcUkxb2tJb2o5Qkx3azQ4R2pBbFRqTEdINHNjbjlKaHpSUVVUM0Q3WnRZeC05OTBTWlJqNTAtZk5QR0Zrb1NGWkpBeEhVQVVtZkdRbzdkN21EbktkM2pvalhoN2N4bHNMd1duS0FQRUJMLXpnZ3Z5TXNMcw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787441402
-    },
-    {
-      "title": "Philadelphia Eagles player leaves in ambulance after scary collision on opening kickoff - MassLive",
+      "title": "Philadelphia Eagles player leaves in ambulance after scary collision on opening kickoff - MassLive.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTFXQU5NSm5nWE1oV1dfRHFVdlBfa21pZkdwN3F0YkxhN1NpcnhCd1JwTmMwV2N5Q19UMW9YWW5QZjN2T3Z3ak02UUsydUhxaTRKdHNjOE8yYUVFRExnWVI2NFFyLTRqaHVXV2hWZ3hkSUtVM2tGMC1wZlhINlRiVVE1cTF0OHNKN0Z3MWFoWnpWUXg5SDFjVHhUdUpoNnhUQ3pmRXdnVllaWDdWS3gzS0JSOFR6V1VKWVpOOG94QmE3RzhzUi0yaG8zbldWLWPSAeMBQVVfeXFMT2tXZEF4SWN6S1lnT0dOaDVWNFBKT1VvQnZuVHdiVjNsLWw3Wi1pZFo1bVVmUkJMaUVKdEFBYmRkaFdhOXNQbzl4ZmNYMURnWjFpVm5adHRNZ0Q5Y0pCYVJXQzh4aWx0QldkOUQ5NVI0VjItcmtoQ2tWVDl4dFpPNHRFYWhlamJiUF9WamNmMllqUDJKYmdSRzhrUTlJamN6VU82WmZsYmxxMV9qSlB3b2hUNzdSMGJCNHZIWFNpVmJWRnl5MXB0dDJHV3Fnc1hTNDRlTWVNQ0Y3TmJFdXBRYjAtRTg?oc=5",
       "source": "Google News — Eagles",
       "published": 1787441220
@@ -208,6 +184,12 @@
       "title": "Johnny Wilson reverts to Eagles’ injured reserve list",
       "link": "https://www.bleedinggreennation.com/news/180290/johnny-wilson-reverts-to-eagles-injured-reserve-list",
       "source": "Bleeding Green Nation",
+      "published": 1787432505
+    },
+    {
+      "title": "Johnny Wilson reverts to Eagles’ injured reserve list - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2NNZTZZbS1IQWFrVGVYWmhNUG9uelZOQTdSRHdhV1BGeUUwRGZheVlfMzNFUW5kRk5iVVN2ankzbXNpVWVFR3BoQlNMUVN1Wk94S1VISHJNNUViVzlOaENZdXhmdEMwTXh2YlQ5Tk1xa1hkc3BfMURaUzZEbEpPQ2EyNjh4bEYwcnNicWVaZ2Q2MkZjYU94NjJmSDk3U3d0OUE?oc=5",
+      "source": "Google News — Eagles",
       "published": 1787432505
     },
     {
@@ -239,6 +221,12 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODNVNXpISm01MmxRR3BJWWViOEIyeUl2REFyUU5SamdER19QSFJzT1UxT005XzVvTU9SY0lzOFBwZHg4Vk54b1BrTUk0T2E1alAtcFVHcThwc0xVRndCZ09VeHBtWHpGWnNSNXBrZml1T2I2RG5fa3NCd3ZobzZzNHF0dDc2TU9FcWM2YzJEQzZCRmtZc2ZmLTFfRmlOOV9Bc3Q0eFUxcU5NUWZtd0hPVGZPbnRRZ1lBeHfSAcIBQVVfeXFMUFFFNWtxZDNGOEN2SUVXS3RqN0tsU0FSMU5ELUh0NkgtRnB0N3NvVURnM01vLXhOVzhMWVBVUmdCdnR5TlRodHlIZ25jY1R6QWF5ZXIyRUJaaFd3ZHRYY2VBSkltQW9icEozZnZTOEZsNmd4bTI2WjBFd3lQYzVKUVh4OW1wLUdvNTNqMnpHakk0RDhwRXd0SnltazlQMUIwWVdDRlNHWmFEUDVQRTVfaW1UQjBxblJoT2lLQU1xNWExV3c?oc=5",
       "source": "Google News — Eagles",
       "published": 1787396400
+    },
+    {
+      "title": "Game Preview: Patriots vs. Eagles | Preseason Week 2 - New England Patriots",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXo4N2NZUUVid01Mam1Mbl9ubkJLOWo2RlM3OUZtVUVqWDhfVXJ6Q2t4anM0bXJuSmtnVTJ6ZkFQSml4ZEM3TEZQdVFWSTZ3ay1VZ0hzOEZLTF9ZS2xnYkhhdlY4b2lyOFZCZnZiV3JYb1ViYWhuODlvRmtxZE5qTTQ4MEc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787382000
     },
     {
       "title": "Eagles Make Another Series Of Roster Moves, Waive Former Draft Pick - Sports Illustrated",
@@ -281,6 +269,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbERacGFsTVZxbXc2T2ZlYlI2Ri1tMDhRY0tQN1lYMGZkRG4xMlpXY1Utdkotc1d6MVcwZl93Ny14MzZNX2NYXzI0VmkwdVhVUFAzWVREajFGVWg2a04tdkhqUkl3Y3lkS2xXMGhYOE5QYVl2MDBkZ1hwOXMxeUJXN3NUTWJUMjBCOWhCSVM0eFVDaG43U2lxak5BS1lCUHVSeE1JRE9tY1dwS2YyUTEzX0x5eGpWazc3ajF6RGpQOHNyU1VpdVJ4STJienE3eF9Fd1Vr?oc=5",
       "source": "Google News — Eagles",
       "published": 1787315860
+    },
+    {
+      "title": "Eagles News: Patriots reporters were very impressed by Jalyx Hunt this week - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkNGVlhMZG5YZ0dybjRNOEZFNVRYZEY5Y2ZKakJXZjBXSWZPREdLS3RrN0N6cERCREJac1B1R1RjME0wNnlyN2d3YlhzcUFaN1A1b2JHWXFpS3BtODAtSHVMbDAtakVYYXBzaGxOelN3S3c3UG1VMlFRQnVXT3hLVmwtbHBLXzVIcEprOWs3YXdzSlRTQzAyYkdYR2ZZQkdnbmswdEVWWGhYdHhEelVVeUY2cHl6RmxDSWFtLXg1dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787308112
     },
     {
       "title": "Spadaro: The Eagles’ young defense has been put to the test against the Patriots - Philadelphia Eagles",
@@ -337,7 +331,7 @@
       "published": 1787168849
     },
     {
-      "title": "7 takeaways from Patriots impressive joint practice against Philadelphia Eagles - MassLive",
+      "title": "7 takeaways from Patriots impressive joint practice against Philadelphia Eagles - MassLive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekdTWjhQb2lwSml6RlRVa3R1dlpUSlZqOFNpcWlDZTZwQ3FDWDlNaW5SaENtamw5NUtlb1lpVl92YlVtcVU0WC1DMVUzV1RtVVFEN2ZzM01xMVdBUF8wSnpwS3BsVlBjNXNsZ0VFbmpacm8wQmJfdEE4azgyRDFLaFl2eDlla2R6TU5QNVpNVjR2N2ZROFRtT2Rwb21HZHg2WXVYVllsTmFIWXl3Ti1QTjU5ckdKRzRTVmJhOC10dGNoZVN00gHYAUFVX3lxTE1paHc0Yk45ZW9rZ2ZtcUJyZTEwTU5LZ0tvMFVCQm05TlB3amphZ21RcUJFU05zRGhNN09lQ0ZOZk1KZFc3ZVA4cnhuNFZuaDM3c0pmdzJtWGpmc0o5R1BBSFJaWkhZOXF4R0U5T1hOUDk5V0Y0R01XSlVGVEFlQV94dG5vMnljVW1QbWFFUHkwLXRhanMzanhabllQY2xVT1g4enBrUjJFVVhYSXNvZTdPQ1VEbUZYWVNzQkpVM1JwUE1WRGZ5ZVNiVDB6dElnYjg4OVhuZWdqSQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787167680
@@ -383,12 +377,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMW5xbnctNzRHUHo2SHpLR21FbHYxZUpEMng2M2g4T1U1cXBPMWJXME9mWWJoUWNsRW9BbUZVSkRzUTFYOGlpR2M2d3VZejNTcl9iaEJwbW0zbTU2Q2dGLV9MX2xVSFdRQ1o1NlVuUmI0V3p1dHRhS3hDUVo4YUxpcjhTRVFERTU0U1hnYjMtUGZhWHlPVGNrNVdCTmJLU2lFREluck1LQTVuam5CODV3S3NCVnJSNmJ0dlh1SjF5MEUyanlKdXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1787043717
-    },
-    {
-      "title": "Eagles News: NFL insider says members of the team are raving about Jalen Hurts’ effort to improve - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEtONlZaUHE0R00wUmtNYUpydDdHWVhmbUhxczRUaU9ZVm1rdDVDSE42ZHh3cGdZVi11UG94UEhRSzNUOE9QazRDb215eXgzS2lJcEdQZE9WbFk0eTViZElSR3dTcmppT3ZKd3R1MDF5Zlk3QVpDNUNOb25wNWUwUUNMN0NhaTRqcER3aTJreE5wYXJHOV8zVUhrUFQ2bDNIYkRsN2RQQ2JzaHBzd1RtdXFtOE9QS09EMzdLQUt0VlZuM0h5MEhDR3h5Q3Q2RzdfekdsZ2tDZkVZNlU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786983586
     },
     {
       "title": "Jihaad Campbell: 'Everybody is striving for more and more' - Philadelphia Eagles",
@@ -475,12 +463,6 @@
       "published": 1786821469
     },
     {
-      "title": "Preseason Week 1: Philadelphia Eagles at Baltimore Ravens | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBray1TbVl5RkxpeXlRWXZPZFFyaTNnYlhUaW45QUh1eUlHUHRMLUU3U2ZjNzdnN0tzaVRKZlhLTHk1a2tmQXJiTndSMW5YY3NvVXdYNU9vcW9OZGdEdGJMdzB3Tm94RzMtSzBOVjRiZWZldDdCZ3JVUTJn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786818901
-    },
-    {
       "title": "Eagles preseason opener: 6 pressing questions ahead of Saturday’s game vs. Ravens - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFpDWktQdWNoZ1lWTUFyb3VYZUs2aXlYQW5YV2w0WnNoZHdiYWprRGZyR05CV0xLV2hjSTBJUDByMUpudjdveTR0c2s5VFZ2QnlEZDVBN044LV9fNnl4VlRneVF2RzhWWWlUaEYtUHc2dFJubUJrbGVyT0xfNXdYSEpHZHNvQW9IM3BEekRIQzVKOXhlamU4UTRMVU9jbDNqSmhjUkdTVEhrczQ?oc=5",
       "source": "Google News — Eagles",
@@ -499,6 +481,12 @@
       "published": 1786777200
     },
     {
+      "title": "Preseason Week 1: Philadelphia Eagles at Baltimore Ravens | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBray1TbVl5RkxpeXlRWXZPZFFyaTNnYlhUaW45QUh1eUlHUHRMLUU3U2ZjNzdnN0tzaVRKZlhLTHk1a2tmQXJiTndSMW5YY3NvVXdYNU9vcW9OZGdEdGJMdzB3Tm94RzMtSzBOVjRiZWZldDdCZ3JVUTJn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786777200
+    },
+    {
       "title": "Ravens 24-7 Eagles (Aug 15, 2026) Game Recap - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibnI5eFNXbFNsdGZfczhwX0VBUHg5dVcyUnFLYVRlS3V2b1lJVFptLVZCenZ4WXhkSjJQa0k4Uzl4bkNTZWVDUllsS1lsMllMeU1UMnpSRDJueXM?oc=5",
       "source": "Google News — Eagles",
@@ -511,6 +499,12 @@
       "published": 1786777200
     },
     {
+      "title": "Eagles 2026 training camp bubble player power rankings - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnM1a2FVQXZ3UXFvSUhRM3ZweV8xOURxUU92NlZwS0duaGNHWkdyOWFORG84ZkFsMmI2SV9iSkdMVk9ZTU0zVTU0Z1Z6UWtRQzRpS0dUN0dXTWZDUXFwQkNxQnFSVU5yRVVpTmVBY3AxSER5Ym1UcER6M3poTEVCc1hkV3FvcVVUYkozS1RNWllSOUJyVTl4aTZ1bmxWQVJqdjVBRUs4dTY5VjBuSGROV0dIanhKV2xucHNYcWtQbw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786704580
+    },
+    {
       "title": "Roob's top 10 Eagles who have exceeded expectations in training camp - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUpoUkZSM0JXODBUR25ZazlVYWVpblBNNmZ5STByeGYxMElJZDVYTGpmVW9xalE0dGJrSWdHQ3A0eHJJa0loWTY4NW1iekxmZWluek04V0N5RzluM2RtTk91SmJ2TDAzLW9QR1NJdFRmbkI5OUZTYTkyUFByRnpUWEh0a1FZRVlPZ2lnLUpUZ2J2b09VaWJEVFJmRWZ4NmFEb19LOFg1QncwakNHM09hV1pYUUc0TFJ1Rm1NdFh4UWJrTzRyckplQ1l3cFVHNWZqUzFxSDUxQ2s5a2pVQzVsdnZn0gHqAUFVX3lxTFBZbVNJMWZ0RWpRUDdCVms4TkRXYVpTdlY4cHhRTC05MG9mMWJPSF9NUUVRU2tibUZIVWdhV1NqTjBFb19LMHN6aVFUQ29KZy15OEl5YV9jdXZ1QlVHMm9GRDFaOEZFczV6WUxJa0lHbW9wbTBpSXUteVpaZG9Da1M2c3NPOWUwNmdPTFBzMmhzUTZfU01mZlBHMXUybkpoLVVGQlZxekhMWXA4ZlRzS2hvUHhUN0x0OWpMVkc0VXJkWC02WTlPTW84ckFtakdXME5jS2lobHFmOFJreFNDMVNHcExmaUNHVFc1QQ?oc=5",
       "source": "Google News — Eagles",
@@ -521,6 +515,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUNfSHZMZGRvYUpOLVJJcVNWVzR0b05MNEdpcmhGTjVvLUlfUkpNR0hBOG9LWmU4YnlaN1QzR2pFMGFUeTRQSGVHRDlTd1FwV1YxS05DRkVHNks3SG1XQzBUZlVSRHJUM0hoc3JDajQxNlR4a0FnRHNnTWJza0Jtek9uVHh1cElfSXN3bU12ZV9oZw?oc=5",
       "source": "Google News — Eagles",
       "published": 1786604400
+    },
+    {
+      "title": "EDP445 is Not From Philadelphia and Has Always Been a Fake Eagles Fan - Crossing Broad",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHE2UlVCMlZpWXJUeVFfdHFSaVFVYlFtWHZpMkc4d2V0V1c5UjB1QzNTZ3dOd2Foc2FXZW8tbjNGd1UxU25Zei1uY2tFcDFLZThVSHF6Y1ZtSE9FSzV2Z3IzSDhkT19ZRk9PZHBMQ2puYVc1RHBYODZ0SW9INVJmSG9GM1BRelNtMzJULWNuRDVqaTZMZGdQM2ktOTV4dWVUTWVSYlRkUkJSa0ZwMDBFVG1B?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786518000
     },
     {
       "title": "Eagles have bought into new offensive system - ESPN",
