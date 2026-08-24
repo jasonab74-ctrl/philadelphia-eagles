@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-24T13:53:15.275601+00:00",
+  "updated_at": "2026-08-24T14:44:28.755385+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "2026 Philadelphia Eagles: Projecting final 53-man roster - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakFoTjhYVnFRSWM1TGVuT0UyTGY4TkEyYXBlQ3JTYk5XcG9uNEJSYnB3WnVrVkRkYUhBR1ZFTnBiMkxibmUwM2lPSjRWazlsbWs4V0ozb0JUUTVSX0NvZlNrUTcwRWloU2hRMExhR3NrYTVTMXFNNE9oWWFvdTBRdjlXQXY2MzQ4U1NYM3RyWHpPWHlwUjZiLTRIcXFmc0g4VVRybmJjM3JvZGlDZmxKZXdNcVVtWm8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787565600
+    },
     {
       "title": "10 Eagles Players On The Bubble Who Could Be Cut Following Latest Preseason Game - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHFBZE5JTDlta3E1eTctcV9WUGF3TWxtX0ZsTEhCREtuYUhiZE9sNTRMOHo1ZHB4YmFncE1JdU1oWWQ0MDI3dTMtWUw1ekxRTG5ka0Q2YVQtWDlvSmYxYldldW85cUpJX05hUk04c2YwY2V5a0JhR2JUVDJqdF80MGZVNkxFaHIzTkV6aFUwb0hQVnlSd3pGcXFsUjFnbWtkaGpLRkJwdURsT0ViTU1TTmQtc0NHdndiS1l2UVVlanhxZ3NGTUR3?oc=5",
@@ -25,12 +31,6 @@
       "published": 1787494254
     },
     {
-      "title": "Eagles News: “Tanner McKee has to be the Eagles’ backup quarterback. Andy Dalton just isn’t very good.”",
-      "link": "https://www.bleedinggreennation.com/news/180455/eagles-news-tanner-mckee-has-to-be-the-eagles-backup-quarterback-andy-dalton-just-isnt-very-good",
-      "source": "Bleeding Green Nation",
-      "published": 1787493513
-    },
-    {
       "title": "Eagles’ Ja’Quinden Jackson taken off in ambulance, has full movement in extremities - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYm41UGVsWDFpR1VvSFpuMS1jbnhpU2hGcExHSmpPQ2VvZDZ2M2VLajZIV1NJdHBydFB5aVo1SDc3SFVfWlk5TXFaMWx5aVB3ck51WWlxUDFmYVloTVk1RURneHpORkxlQlBpTnp2NXN5a3VYVlpkZGtpLWxjTjE3cnVwdWw0c3lKdXdQa21nS2JDTzk4MDNacFRGWU5iX1l0elhV?oc=5",
       "source": "Google News — Eagles",
@@ -47,6 +47,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUhsa3k3WWxtdDg0LXA4U2V2NjZpbVc3S0h6eVIzMU9Ld2FiNGN3a3dhNzIxWWtaVFFtRFNoMzZvaFF3UUZ4VWRpbG5lUlhlQjdQeDlYMkhKc0VJbmlHRTlMQ1VyQXZraC1icUVnTWZlQlZXT3dlNnBIZDh0MkYtTWRqV0tXLXFnTDdVNDBwNXdQbGoydVkwYV9xeUVLd25iYVlmbWJUMjI1OVBobWFuanloSWZMamFBQXJ4Y2MzRGNHTXdNU09LWjU1MklUMWlVT3JFU1lhUUR2NWFaWjR5UVZB0gHqAUFVX3lxTE1jWEFkZjVwRGhYWGxFb3I2TjFwbzZIRXladFZLVE5hVDJaUXQtRmVLUl92eXJWaFN6aGZqNGI3WXZNRGFEaFBMSGEzX00tRmNfd2JJdVZwWE1xclRKbFU5WDdhVE5acVVsd0MwXzBWRnduaTB6eEd1bXNmTUZZYXc4eUhjODFkdzRzbXVLM0tHWE14MW5jem5hZU9Nb1FZNnJGa2dkS094LVFoMWVWY1gxSWRqNlkxeXdFd29mdXdJRU5QdnRpNTBHNmRPWTJ6dmc1bDVuTWNXaHFBbm84NjIxeHB1TE9ZZE90UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787483492
+    },
+    {
+      "title": "Three trades that make sense for the Eagles - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGhmNDFpOHRCNDI3OHlFb3ZmX1czWjgzb3UyYTFFbzJleW1ESXhyVjh3c0NKTkk1aUJLdGkyY0lNNEJiM2VUd2FfVGhhekczazFmZnZaYmxQVEk2cjZZcEJiNGNkVXhPSFA0clh5eGdiM0xYXzVCdWFvV2IxbklqOWxkelZZQXpLOEljWE9TcFhkQUdsOFpNVTA4LXJUQVVETHhsSms5akVmZ0FuOG1HU2JTZTFnQ2JYb2hpcF9VU25ZTThmdUVMMkN2OU1ZQ1R5?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787480536
     },
     {
       "title": "Spadaro: 10 observations from the Patriots preseason showdown - Philadelphia Eagles",
@@ -95,12 +101,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVEb1RTU09HeEJNa0tIaFVidlhyU0hxUVdldENOZFpkQ3ZQQkNyc2R0TzlRNy1oblNTREpteFJDM2s0aFhWV3Q3blkzNW1FZjFHTGtVOFI4ZjBsc194RDZtUmhvNmVpQkREZzdSdmNpU3pLc0I4VzVKdWxNSkx4cFRnSEt5SnY1VVlfS3BIUjVwZmZQZHFSdWI3TFZDOUx5TGc?oc=5",
       "source": "Google News — Eagles",
       "published": 1787455200
-    },
-    {
-      "title": "Eagles stock watch: Risers and fallers from preseason Week 2 - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFY3VVVyX1dUOXhKbHB1WEM4OGdzRzJXc0F2WHRIcDloajdSb3QwSWhSZ0JpYVR3bzNUNTVnMnVKbGxPZmxKMG8yLWt4V0U5S2g3QU56WEFUOVZxOHRFUVlOY2p4VzFxeTd6VXVNc0lGOVZzY2pTdEozdkVWN3FJeksxUW5EZktBanNBNGI4UlNobEZfRjhLSFFOV00zMERueUw0WUZ3N3hkaXhzdmhNVkJySWRHS29hejhFNEhJeEUydHh5NjZ2dk1meXRiNnVxdks0bllMLUU5ekU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787454600
     },
     {
       "title": "Eagles' Ja'Quinden Jackson taken to hospital after tackle, has movement - ESPN",
@@ -181,12 +181,6 @@
       "published": 1787441687
     },
     {
-      "title": "Eagles RB Ja'Quinden Jackson returning with team after scary moment - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjdMQ3BRVnVweHJXNVphNk4tU1ZaZC11WmxFbWhkVFFxUDdVVlpTNEhpNExvVXA5UGk3bmNiYk8ySEVVSW80N3BWM1pHTWpXYzBzUVlnc2tRdnNYS1J2cnpaejRHckdPV2ZCWlZmTDNwcWczQzNlSUwtOUhkaW0wWFBPZF9iNW9aSXI1SVBjOTJ4cGxiaS02TVJZY2tWUHp0Y2NtaUFJb2RjaXA0aTNUSFhJZ2xqeWhTN1ZvVUJkVUZlT1Ra0gHMAUFVX3lxTFBFdnVOUFVsV21ORVNMMnlXM2RjMlFPbzczMl9RNHgtUDZvaVpOZzIzQTJMOVNpMWNLQkpJakNaMUloSWI1YTNGaFhxb1h5TFZXSnhUOHpwWUowcUkxb2tJb2o5Qkx3azQ4R2pBbFRqTEdINHNjbjlKaHpSUVVUM0Q3WnRZeC05OTBTWlJqNTAtZk5QR0Zrb1NGWkpBeEhVQVVtZkdRbzdkN21EbktkM2pvalhoN2N4bHNMd1duS0FQRUJMLXpnZ3Z5TXNMcw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787441402
-    },
-    {
       "title": "Eagles stock up, stock down after preseason game at Patriots - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzZPNnppN1lHMElNU1NxY3ZhUUdtZWdhUjRNYmh6Vm9PdnFGbmFhaG44YjB3VC1zNHYzYnhJOHllYjFQWWplZHE5S3VkWlFRdFJ1UU9MX2dqOW1kSUV6UUtPc0I4TFdSR0tLNm1QRVBvV2ZETXhSSGpwYXpFcmVVVmoyWWVLZ09VTHBZYVJUUGE1Y21ITkxhRzBpNkw3STJpaUpWb3h6ZS1ZbGNjMS1KRHRvU1RSalAyb2l1MVF1aUFJTmNaeFRoQ9IB0AFBVV95cUxQdTlSdHF1bG9jenRMVkZFYnh2SWU2VVYwYmxkbmtUUWIwMU4tMjVZbG5PY2V4enFUVWwwdEtyd09uVnRUMDVpVnhxOEZOMjlva2Y2LUZ6TFR5OWdfVGI0SnRuZElZYXppSlU2OXl5c19MdGZ6dkV0RmVzb1ByQzNLRUpxX0FUUDFZY3BhX3pKWk9XTlUxSFdKVGpfWGZYeFF3clBXUjU5YUF5NXUwRENSZlgtNlZGMzJISkVCMkxhRzhqdDJ1UFNuWXA3UDFySTRU?oc=5",
       "source": "Google News — Eagles",
@@ -241,10 +235,10 @@
       "published": 1787382000
     },
     {
-      "title": "Eagles Make Another Series Of Roster Moves, Waive Former Draft Pick - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWp2aEhqN09zZjNudkp4bXVKUE1sYWJWbDY5SEQtZXM3R3AwNkgzZEZRam1fZjhMZ1dVUHlrTnhiYzQzYl9tT05ad25rN3hfM2c5ZWlYMXVBVXRnZmFYVVdHS205UERoU05Yc3ZHQmZTbDF5MG1BU01WMWhYblozemJmYXJwMVhpbWZvTmJhOHQ2RU1pOG1Id0tmZjZlcndXRGlQUC1IUjI3Zm1VZmVqdnNyRC0?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787348347
+      "title": "Johnny Wilson waived/injured among Eagles roster moves",
+      "link": "https://www.bleedinggreennation.com/news/180210/eagles-make-more-roster-moves-sign-center-injury-updates",
+      "source": "Bleeding Green Nation",
+      "published": 1787349335
     },
     {
       "title": "Roster Moves: Eagles sign C Zeke Correll, WR Brandon Hayes - Philadelphia Eagles",
@@ -455,6 +449,12 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzc0bnhZcUR5OVR2ODVxSVFlYVVTeGRURFE3STI2NFBKdkMzNVJPV3NaR1NUYmdnUEZTT3dtQm9QeWlyZkpDdTJvUG9vWG9wODVwajRfTlNKTmVFMUFiVXpmaTNheFNWd05ZSEdwS3VrUWhsQ2pkdkFCYWFTalZ6TXFkNHBrTUxHZFRFbHRIaEtTeVd1UGlr?oc=5",
       "source": "Google News — Eagles",
       "published": 1786880467
+    },
+    {
+      "title": "Eagles-Ravens preseason observations: Position battle updates, injury news, and more - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbXVRdThnN3M1aVZxYnlSUm9HdEFtRDFXYXRKN2d2bmRXWXFndkpTMGZGa0g1eXJJcUJmbkxpM2NrZU9TblJkNkhCMkJCaWJvZmR4T044ZkMzeXJIWnZVOWtON1llbmV6cldMd0ZVUEVZdWF5Y0YzXzFkSU92MzNuWDduaFVSbDRFemtLZ0w1b1I1emh5TEx2WDJsN2twY2ZpZ0RsTkxSS0g4cm5QYmlidU9ZNHdNZDRrZkVMaHV4WmZENXlEZ1lTMDBDdFhjNW1JNm4wYl9qQWtfNFJ1R29XMFJqeXNoTTlEUmNhZ2lrSkc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1786863600
     },
     {
       "title": "Eagles News: Uar Bernard and Joshua Weru offer intrigue in NFL debuts - Bleeding Green Nation",
