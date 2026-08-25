@@ -1,11 +1,17 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-25T21:30:34.786758+00:00",
+  "updated_at": "2026-08-25T21:55:31.066458+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles training camp: Live practice updates from Lincoln Financial Field",
+      "link": "https://www.bleedinggreennation.com/news/180721/eagles-training-camp-live-practice-updates-from-lincoln-financial-field",
+      "source": "Bleeding Green Nation",
+      "published": 1787694066
+    },
     {
       "title": "Sean Mannion talks Eagles backup quarterback battle and more",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/180602/sean-mannion-talks-eagles-backup-quarterback-battle-and-more",
@@ -157,12 +163,6 @@
       "published": 1787580346
     },
     {
-      "title": "Eagles-Patriots snap counts: Joshua Weru records first NFL sack in second-ever football game of his life",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/180483/eagles-patriots-snap-counts-joshua-weru-records-first-nfl-sack-in-second-ever-football-game-of-his-life",
-      "source": "Bleeding Green Nation",
-      "published": 1787578980
-    },
-    {
       "title": "Eagles 53-man roster projection: Undrafted rookie makes the cut - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2FrZzlndXF1UWh0Tk13djNPeW9nT25jUnVfYl80RllmSlBsVVRiLWhzSEVsdUxvQ2hjbGlzY2R5UHpxeVJ3eXBTR1pVUlh4R1pnZkw1RnBIOHFVVDFuWEhLY1QtOEdXVFUzc2tGMkxSUG84blhGZmtHdEVkTHBaM0JHM212VDg?oc=5",
       "source": "Google News — Eagles",
@@ -179,6 +179,12 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSW9QLUNLYWs4aE50TFVnTFVodXJiSVJLZ29pcFF5eWp4ZjVfR1lLX0JpWHc4ZlZLZDBFaTBnOENKbVhHbXRXa1FrZnFsVWVmTjNoNUFpbzd0TG9GTWFmT1F3ZzhiZ05tR0NZQWQyenBZZ1ozOVc4VGFTc3E3aWw4MlJhNjFmRUtPM2xyeXhLWVJMU2ttNGpSMUZVYlNiY1EzR1VFZHc4TExjTmF0bC1aX2h6TXBKSk5HOXRsMEg2Q3JKTUxIdFNJYlowTUJITnFKdDcyctIB3AFBVV95cUxQb3RaM3pNVGEybWI0X0Z4bDFvdUlFSjBCeHdTcEZHYVZHMzZJY1otUlJPTXBtckVsMHA0YTBLWmVQaFJ6bWtoTEg2OVBFb2k4UnhlX3Vnem9iTVo3ekpfejNYbkxKUnE4ZUk0NEJDOGlOcVZWZHhkemxpMFR4VU5hWFlUbXFTRXI3dlJiUkFjSDA5SG1wM1liUVl1MkI2STQzZkU0LWVjN0g4aDRLZ3BWVl9aNnMtU3k2RVlxYk9WNVFMQ1ExZmxDS1M1TkladzdqeFJEdE9uYVZjM3BI?oc=5",
       "source": "Google News — Eagles",
       "published": 1787569200
+    },
+    {
+      "title": "Eagles 53-man roster projection 3.0: What will Howie Roseman do with Andy Dalton? - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0QyeXNKSDVpNGJTQk5NY1R3N3FEQ0N3MlROb2dTelFuVmtQS1JRVUUyUmVud1VWRFBKQkJlcVluQTZ2Qi16SE5TcnJJZmcwMEtqazAyRVAwenhnckxlUXoyM2FTOEhKTmlCLVVrcG1WVDN1RFJoMUZFM0JMbmtPUHhpLVBJTnJFblYyOXQ3bVRZcTlKQWFMUnNucjc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787565607
     },
     {
       "title": "2026 Philadelphia Eagles: Projecting final 53-man roster - ESPN",
@@ -227,12 +233,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUhsa3k3WWxtdDg0LXA4U2V2NjZpbVc3S0h6eVIzMU9Ld2FiNGN3a3dhNzIxWWtaVFFtRFNoMzZvaFF3UUZ4VWRpbG5lUlhlQjdQeDlYMkhKc0VJbmlHRTlMQ1VyQXZraC1icUVnTWZlQlZXT3dlNnBIZDh0MkYtTWRqV0tXLXFnTDdVNDBwNXdQbGoydVkwYV9xeUVLd25iYVlmbWJUMjI1OVBobWFuanloSWZMamFBQXJ4Y2MzRGNHTXdNU09LWjU1MklUMWlVT3JFU1lhUUR2NWFaWjR5UVZB0gHqAUFVX3lxTE1jWEFkZjVwRGhYWGxFb3I2TjFwbzZIRXladFZLVE5hVDJaUXQtRmVLUl92eXJWaFN6aGZqNGI3WXZNRGFEaFBMSGEzX00tRmNfd2JJdVZwWE1xclRKbFU5WDdhVE5acVVsd0MwXzBWRnduaTB6eEd1bXNmTUZZYXc4eUhjODFkdzRzbXVLM0tHWE14MW5jem5hZU9Nb1FZNnJGa2dkS094LVFoMWVWY1gxSWRqNlkxeXdFd29mdXdJRU5QdnRpNTBHNmRPWTJ6dmc1bDVuTWNXaHFBbm84NjIxeHB1TE9ZZE90UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787483492
-    },
-    {
-      "title": "12 Winners, 5 Losers From Eagles Preseason Loss to Patriots - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekhnSG0zSUp2Yk1fTmxKSXMyZzVPdFZUU21Ca0J4MVYwaUFCUXZNbUFFQmxNWWZBdm1CVVlDWHg0RWNSS05iRHd6NjRNVHJ4aGRBNGkzNWwyZkNmeEZaclpTN0tmcGJlOGlPaXB0N3lHOHRmZnplTnAwX0hRb0NKeUcwZS03TzdfYzM3ZWZ2RExXakNGLTZFUjJXVGlhM1pjRUZJQ1kydXRhUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787479203
     },
     {
       "title": "Spadaro: 10 observations from the Patriots preseason showdown - Philadelphia Eagles",
