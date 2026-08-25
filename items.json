@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-25T09:37:28.994233+00:00",
+  "updated_at": "2026-08-25T10:34:59.287690+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -43,12 +43,6 @@
       "published": 1787610060
     },
     {
-      "title": "Eagles sign two free agents - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFQ2M2VOcUxfeEg2SkhsQmZjSHdJb2lsMjhMYUozVHdkazk4SWdzX3NSUjhvb2ZGTHAzQ0ROOUpvb19Wd3lZUWNsTjVTak9FUU5pM0lla0RfTFFjRTdrNjdSQXdQUVVON2E4dFRxVk5MaEF6YkZJWlhOaHQxdmttag?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787610060
-    },
-    {
       "title": "Makai Lemon returns to full participation at practice - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDZvbVBNdEU5MDd2STU3Ym43QVIwUlU0a0Fob2Y4ZkNMTFBSRTdOQ3M1WWpKTHNKYUN0bzY5aDhXelBSWlAtQno1WjFpNFh1eFV4S1d1VTQyR3NTMXRXVjgwT0c5NWhMZGhFdzhZNWN1anl1eXFsYmExY2h4NGFqRTM4YmxRMmJpc3NuWEFPQzh6THZjWDBJcGI0aE9WU2I3d2c?oc=5",
       "source": "Google News — Eagles",
@@ -85,6 +79,12 @@
       "published": 1787586120
     },
     {
+      "title": "Eagles training camp practice updates: Day 15 - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3BtUUIwdDY1c25CRk9jUWMxbG9KUXNreFJmLW1kOXppOER4TnVYeXRuNTc0ZFpfUFItQzNIV29temYtX19uTEs4NEZod09xdjlHNk9MSHREZ0hkR0dObnpjUGs5TERhbUdiRmdSZHhqSmRVdUtBSndDamtIYy1SZmZZMi1GdjNhR3huSnNDM0V5OUp3bmtn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787586120
+    },
+    {
       "title": "Eagles injury update: Good news on DeVonta Smith and Makai Lemon",
       "link": "https://www.bleedinggreennation.com/news/180473/eagles-injury-update-good-news-on-devonta-smith-and-makai-lemon",
       "source": "Bleeding Green Nation",
@@ -97,14 +97,14 @@
       "published": 1787584394
     },
     {
-      "title": "Addison Bay will have female Eagles fans elevating their gameday fashion - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGlzeXF0NDV1bEg0Q1FQNXBaQmR4bDhMSVp5V3cwbEdKNnlKVF9Mbkx6cUREQVU0enhCV0RuUlFoenZFajgwVkRYM3o0NUs3bDZ6b0IzSHd3aVJIVTZpYmxJYmpGMzFVajI2YmJiUTNsUDJ0YU5PakFOdHFwNnFFS0V2dWMyQ3Y4ZXhZYWtCTmtvRDVCUkhKRjh1NVdxSlZydkZJTUNIeDBhcVFnX28wdVlB?oc=5",
+      "title": "Philadelphia Eagles announce 2026 Eagles Cheerleaders - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzNhRlpxd2wteGRxYmlidHMyalU2N25YWF9NOGUyOGJpakRzZjQ1MFoyY3QzYXB1cU85a1o2UHFIamhndGMyOGhPcnJhcjNIY1d1Tm1FeThycjI5LVRNMzZMX1ZSSzhJOUVmUVFsNTk5Y1NrUl9UTkVXNl9Qc040N3NZT0t3VjNUSWlNcXlhYlk2MzJ1d2lNSA?oc=5",
       "source": "Google News — Eagles",
       "published": 1787580346
     },
     {
-      "title": "Philadelphia Eagles announce 2026 Eagles Cheerleaders - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzNhRlpxd2wteGRxYmlidHMyalU2N25YWF9NOGUyOGJpakRzZjQ1MFoyY3QzYXB1cU85a1o2UHFIamhndGMyOGhPcnJhcjNIY1d1Tm1FeThycjI5LVRNMzZMX1ZSSzhJOUVmUVFsNTk5Y1NrUl9UTkVXNl9Qc040N3NZT0t3VjNUSWlNcXlhYlk2MzJ1d2lNSA?oc=5",
+      "title": "Addison Bay will have female Eagles fans elevating their gameday fashion - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGlzeXF0NDV1bEg0Q1FQNXBaQmR4bDhMSVp5V3cwbEdKNnlKVF9Mbkx6cUREQVU0enhCV0RuUlFoenZFajgwVkRYM3o0NUs3bDZ6b0IzSHd3aVJIVTZpYmxJYmpGMzFVajI2YmJiUTNsUDJ0YU5PakFOdHFwNnFFS0V2dWMyQ3Y4ZXhZYWtCTmtvRDVCUkhKRjh1NVdxSlZydkZJTUNIeDBhcVFnX28wdVlB?oc=5",
       "source": "Google News — Eagles",
       "published": 1787580346
     },
@@ -269,6 +269,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VrWmNwUHJTNnN5QUhZWVBsRkstMGFNcWdYbG9JU284MUhNMHQ1ZU9zWEwySFhpWS1UNnc4YXIzNXFPZXVwNUZTajRHbXRYOVVSNkdlSVdjVjVTM3ZGOU5VT3I0bGtXWHFMTm5yMFJuaG9yclZfVm15SEdxS0k3Q0kyYzVmT0YwNkNaUW96TQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787451468
+    },
+    {
+      "title": "Eagles-Patriots preseason observations and notes - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUU5idzhhaWIxeEhnUnN5aXFiV19ybFRVM29rM2NkX0pvS0F4VjNTa1RFSUthSmdVT3A1bkRUUDhPQkdIdnB3dzRoM0xaODVtM01aUEk4VWdKWV9oRFpzellMOS1SbmFnR0dtWVFveU9YNXd6RUxzWHo3VzcxQ2FiZGtPOW9zNlBrVm1CU0FvZ1RadXpIbHlYTk9zS2k?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787451373
     },
     {
       "title": "Can't-Miss Play: Major hurdle for TD! Philadelphia Eagles running back Carson Steele leapfrogs Pats defender for score - NFL.com",
@@ -525,12 +531,6 @@
     {
       "title": "Eagles-Ravens preseason observations: Position battle updates, injury news, and more - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbXVRdThnN3M1aVZxYnlSUm9HdEFtRDFXYXRKN2d2bmRXWXFndkpTMGZGa0g1eXJJcUJmbkxpM2NrZU9TblJkNkhCMkJCaWJvZmR4T044ZkMzeXJIWnZVOWtON1llbmV6cldMd0ZVUEVZdWF5Y0YzXzFkSU92MzNuWDduaFVSbDRFemtLZ0w1b1I1emh5TEx2WDJsN2twY2ZpZ0RsTkxSS0g4cm5QYmlidU9ZNHdNZDRrZkVMaHV4WmZENXlEZ1lTMDBDdFhjNW1JNm4wYl9qQWtfNFJ1R29XMFJqeXNoTTlEUmNhZ2lrSkc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786777200
-    },
-    {
-      "title": "Eagles stock up, stock down after preseason game at Ravens - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT2ZCNXVUWE9URzBCbWl5d1NPZzhGRU1mb3RFZm1fN3gwczZ4M3NtLWhwamdYR1VEYl9WeGN6VlVVWThmNEYzMmRJMk9kenNiQXN6eW9uT09DNlJUSGRvUEsxZUFyanEzX3FQWDJQdVNPNE1HRktXNm1ia29XN05WZk5hTE1iYWFrSEE4MHZ1U0FzcTdtRUFUSUtYTENJcml6RVdXa0JDcFllR1NiX2VZZHdjX1g1SXl6bm9DdFNfMmFpTjBtSVHSAc4BQVVfeXFMTnQ2cWRteUxoaVNaZF9YU1d3R3lfQ2tZc0Y2djlKa3hQZUNidVNDM3hUWXVuNm9keWl0bzlPeFBpRHZGZ2dIVGZkaVlTUFkzVFowVHhVUnV5T2l1ejFsc3hiRTFVQ1o5SXFhZ3hxS1E1Rm5DSTU5ZDZGTVVwTnVTNUF3N0hJSTVHVnVZenFmZEFwV3l0UEdhX1JvY2lUa1Fwd3ZfX3FTWDhUZWMyd2M5MFpTYTlZQ1psRVpEcFVBeVNHX3c3bGExTGotNHJ0amc?oc=5",
       "source": "Google News — Eagles",
       "published": 1786777200
     },
