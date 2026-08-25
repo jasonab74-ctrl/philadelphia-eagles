@@ -1,15 +1,27 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-08-25T15:21:41.334649+00:00",
+  "updated_at": "2026-08-25T16:08:41.408510+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles 2026 training camp battle tracker - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVAwSlV2OVVHTDZoZzJoakZHcFM0QXBVRTZ1X2R0UWRfSHVyZmhNSjJnVWM3WEZmRms4SXV2OFN2aWtadHFvbjhnN29zbjFUM2NCX3AySGlTbWF4QVVBeFJWUW1Vc3RnSjR6emQ0NU9zQVBYRmZaamV4Z1lfSkxJa01jb1dCcWtSajJ1alN5SEFsdklxTU9DbUF4ekZyYTM0Qy1BT3lmeDlOMGEtR3c?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787661718
+    },
+    {
       "title": "Eagles News: Makai Lemon talks about being “more professional off the field”",
       "link": "https://www.bleedinggreennation.com/news/180681/eagles-news-makai-lemon-talks-about-being-more-professional-off-the-field",
       "source": "Bleeding Green Nation",
+      "published": 1787657166
+    },
+    {
+      "title": "Eagles News: Makai Lemon talks about being “more professional off the field” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDVndkhDQ2JZazRjYU5wYnJIMFQ5LWJfUXhDMlVaTkx3ZEt5NUhGeV9YODM4VWtnR0NKWkt1OTJUbEJaSF9lY1J1TFloMmp4R1VYbENSRTVJaWhPZHQ1T3ZId0FxRUZZaWktTVFLODE3eVJNSnJOeDhwUG5HQU9tNHpPSDZqeXQwRjB5QlgtbzBURnRONXQwc2hCZFJTRzh5ckV3OGtnM29lY2ZVQTF2RGpCdGttZ0NMaTdvQktB?oc=5",
+      "source": "Google News — Eagles",
       "published": 1787657166
     },
     {
@@ -49,12 +61,6 @@
       "published": 1787610060
     },
     {
-      "title": "Eagles sign two free agents - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFQ2M2VOcUxfeEg2SkhsQmZjSHdJb2lsMjhMYUozVHdkazk4SWdzX3NSUjhvb2ZGTHAzQ0ROOUpvb19Wd3lZUWNsTjVTak9FUU5pM0lla0RfTFFjRTdrNjdSQXdQUVVON2E4dFRxVk5MaEF6YkZJWlhOaHQxdmttag?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787610060
-    },
-    {
       "title": "Makai Lemon returns to full participation at practice - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDZvbVBNdEU5MDd2STU3Ym43QVIwUlU0a0Fob2Y4ZkNMTFBSRTdOQ3M1WWpKTHNKYUN0bzY5aDhXelBSWlAtQno1WjFpNFh1eFV4S1d1VTQyR3NTMXRXVjgwT0c5NWhMZGhFdzhZNWN1anl1eXFsYmExY2h4NGFqRTM4YmxRMmJpc3NuWEFPQzh6THZjWDBJcGI0aE9WU2I3d2c?oc=5",
       "source": "Google News — Eagles",
@@ -64,12 +70,6 @@
       "title": "Makai Lemon is back but now some other Eagles rookies are sidelined",
       "link": "https://www.bleedinggreennation.com/news/180580/another-eagles-rookie-dealing-with-hamstring-injury-report-update-eli-stowers",
       "source": "Bleeding Green Nation",
-      "published": 1787599939
-    },
-    {
-      "title": "Makai Lemon is back but now some other Eagles rookies are sidelined - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDJTNTJibkZpS2VqRW5UTTg0cFVsT2Vac3hHaU1mMkhnUzRBRmxLWkZtaVFuUjI2b0xJSGZ0d0hKRmlqeUlFMi1MLUQyX1ZkQnVxbE56aUZELVJlRGJibnZwME55UEdhYzk3eXZfS05XcW80ZzFibDZIbGwtRThEWFVCY1M2RjFsQnZiVXlJYW56ZE13UWFuXy16cUdNR0dqZGQ3azVDcUg5TUxvaHhXS0N5bE9fZ0NyYWZwS1lYdWwxTzQ?oc=5",
-      "source": "Google News — Eagles",
       "published": 1787599939
     },
     {
@@ -139,6 +139,12 @@
       "published": 1787576543
     },
     {
+      "title": "Updated Eagles 53-man roster projection after loss to the Patriots - Eagles Wire",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZkEzSmlqeTdMbjk0ZGxvb1V3NDN0eldGSnZ1WldObDk4NXZiZTNuTzYzMVFDM05jS3M5UzhHZzNXNkJ5N010UFBpOWQ2eHQxVC00N19hSl85ZWcwNFl1T0xpVU83ZHVKZnhBYjVwME1yVkNhX0JESFBxMU9qbXJUV3NqSlFVeWx2Nmp0V2Y4OXB3ZDBOaWxWMEhMdEpoV0h4VFJac2ZfY3dSb01YVk1BNGpiZE1WSUZaLWVRV29GeEMxNEFabkwzeUxEMFRBdm04VFhPVkNTMEI?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787572440
+    },
+    {
       "title": "In Roob's Observations: Mike Vrabel's insight on what makes the Eagles elite - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSW9QLUNLYWs4aE50TFVnTFVodXJiSVJLZ29pcFF5eWp4ZjVfR1lLX0JpWHc4ZlZLZDBFaTBnOENKbVhHbXRXa1FrZnFsVWVmTjNoNUFpbzd0TG9GTWFmT1F3ZzhiZ05tR0NZQWQyenBZZ1ozOVc4VGFTc3E3aWw4MlJhNjFmRUtPM2xyeXhLWVJMU2ttNGpSMUZVYlNiY1EzR1VFZHc4TExjTmF0bC1aX2h6TXBKSk5HOXRsMEg2Q3JKTUxIdFNJYlowTUJITnFKdDcyctIB3AFBVV95cUxQb3RaM3pNVGEybWI0X0Z4bDFvdUlFSjBCeHdTcEZHYVZHMzZJY1otUlJPTXBtckVsMHA0YTBLWmVQaFJ6bWtoTEg2OVBFb2k4UnhlX3Vnem9iTVo3ekpfejNYbkxKUnE4ZUk0NEJDOGlOcVZWZHhkemxpMFR4VU5hWFlUbXFTRXI3dlJiUkFjSDA5SG1wM1liUVl1MkI2STQzZkU0LWVjN0g4aDRLZ3BWVl9aNnMtU3k2RVlxYk9WNVFMQ1ExZmxDS1M1TkladzdqeFJEdE9uYVZjM3BI?oc=5",
       "source": "Google News — Eagles",
@@ -193,16 +199,16 @@
       "published": 1787483492
     },
     {
+      "title": "12 Winners, 5 Losers From Eagles Preseason Loss to Patriots - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekhnSG0zSUp2Yk1fTmxKSXMyZzVPdFZUU21Ca0J4MVYwaUFCUXZNbUFFQmxNWWZBdm1CVVlDWHg0RWNSS05iRHd6NjRNVHJ4aGRBNGkzNWwyZkNmeEZaclpTN0tmcGJlOGlPaXB0N3lHOHRmZnplTnAwX0hRb0NKeUcwZS03TzdfYzM3ZWZ2RExXakNGLTZFUjJXVGlhM1pjRUZJQ1kydXRhUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787479203
+    },
+    {
       "title": "Spadaro: 10 observations from the Patriots preseason showdown - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzBJZm9qclVDRlZMM0VhR29GUnViSFl4WjBWWUNGVWFBcnFMcDkwRnpYOTc2ZmJVNnIzdXhrU0I5YkpiMDEzbzZxWkdzcmNWaEVlbTM5b1dINFVtRDlzcGtuV29WNkd0dUN3ZzFvT0o3UVFULU56MmQ5Q21hTTJLQlpNNWw0ODlXMFhYQzFKV0JZUmdQdFB4aFZRckY5cS10T3NMRW04ejdlYlliYjZOME9NVFJUUEl2YXZBN3ltQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1787471441
-    },
-    {
-      "title": "Eagles 2026 training camp battle tracker - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVAwSlV2OVVHTDZoZzJoakZHcFM0QXBVRTZ1X2R0UWRfSHVyZmhNSjJnVWM3WEZmRms4SXV2OFN2aWtadHFvbjhnN29zbjFUM2NCX3AySGlTbWF4QVVBeFJWUW1Vc3RnSjR6emQ0NU9zQVBYRmZaamV4Z1lfSkxJa01jb1dCcWtSajJ1alN5SEFsdklxTU9DbUF4ekZyYTM0Qy1BT3lmeDlOMGEtR3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787468400
     },
     {
       "title": "Carson Steele ‘steeles’ the show against the Patriots - Philadelphia Eagles",
@@ -259,12 +265,6 @@
       "published": 1787455200
     },
     {
-      "title": "Eagles stock watch: Risers and fallers from preseason Week 2 - Eagles Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFY3VVVyX1dUOXhKbHB1WEM4OGdzRzJXc0F2WHRIcDloajdSb3QwSWhSZ0JpYVR3bzNUNTVnMnVKbGxPZmxKMG8yLWt4V0U5S2g3QU56WEFUOVZxOHRFUVlOY2p4VzFxeTd6VXVNc0lGOVZzY2pTdEozdkVWN3FJeksxUW5EZktBanNBNGI4UlNobEZfRjhLSFFOV00zMERueUw0WUZ3N3hkaXhzdmhNVkJySWRHS29hejhFNEhJeEUydHh5NjZ2dk1meXRiNnVxdks0bllMLUU5ekU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787454600
-    },
-    {
       "title": "Eagles’ Ja’Quinden Jackson taken off in ambulance, has full movement in extremities - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYm41UGVsWDFpR1VvSFpuMS1jbnhpU2hGcExHSmpPQ2VvZDZ2M2VLajZIV1NJdHBydFB5aVo1SDc3SFVfWlk5TXFaMWx5aVB3ck51WWlxUDFmYVloTVk1RURneHpORkxlQlBpTnp2NXN5a3VYVlpkZGtpLWxjTjE3cnVwdWw0c3lKdXdQa21nS2JDTzk4MDNacFRGWU5iX1l0elhV?oc=5",
       "source": "Google News — Eagles",
@@ -275,12 +275,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNjRhQ0ZfSDdFTENLMUpFNmVRRVBPSk1oWkpOMF9YUmF1WUxrNkpoMUxTNG0ySnNLRGlKVDhzZHNyRFZ2WUNPZU5icEt3ZHhScjJ6V2VJLXVvUEhlWDFZOTQzbVBMenM1OGRfdzNfNWQzS1d2RlZNakVvWDU0OW0tQjdWTy05Z2Yyb2I0UnFBTGtBblB4b2pibDBtTkxlbGFJZFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1787453760
-    },
-    {
-      "title": "Philadelphia Eagles vs. New England Patriots highlights | Preseason Week 2 - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEdGVUI3UzVEOGRxZzJzZmRUWHIxOFljMVBudHZ5eFhwUlBLRGRWZmlxV2h4aW0wdFFhLTgycXNERTd5VHhXbzJCalFtclQ5NXdhOUp2VmptdUxsOHhRUlVLM2UtclZuS0F5aWlqWjgyTG5pS2lrSk81N0JOMjVFMS1KM01pUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1787453344
     },
     {
       "title": "Latest on Eagles RB taken off field by ambulance after scary injury - The News Journal",
@@ -305,6 +299,12 @@
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYjBMZVpscnVMVE1rLThSTS04bVdsbGltUnhFXzZ2SVI1UU5PRmQ2S0RJS3prb1pSTW9ObERTM1pSdUtWY1BMSmh2VWhMVy1ZM21PWnpqX1RueFhJOG5rOTZHajRRcTEwZGR6LW9hMF8waGtHbVZLeURnY0xfLU5OVUMzWktkdXpGLTYybl9YbHl1QV9DR1JVVWpnOHNsdG8wNGk0Y2ZWVEdHdXhaQmNRRTZHNFE2bE5sdWpIS1lOd3NIbDJ0YkdNb0pGcHJhNDdobXRzQVlRZXozVFl5a0NoTi03c1JNS3pjaUJWS1EyYmJpUDBzc3BQdnJ1bWpQZThBdUlhcWctT0RVY1ZHTW13Zzd5M3dRSXJtdXJGbmt6aC1CamVk?oc=5",
       "source": "Google News — Eagles",
       "published": 1787442387
+    },
+    {
+      "title": "Eagles RB Ja'Quinden Jackson returning with team after scary moment - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjdMQ3BRVnVweHJXNVphNk4tU1ZaZC11WmxFbWhkVFFxUDdVVlpTNEhpNExvVXA5UGk3bmNiYk8ySEVVSW80N3BWM1pHTWpXYzBzUVlnc2tRdnNYS1J2cnpaejRHckdPV2ZCWlZmTDNwcWczQzNlSUwtOUhkaW0wWFBPZF9iNW9aSXI1SVBjOTJ4cGxiaS02TVJZY2tWUHp0Y2NtaUFJb2RjaXA0aTNUSFhJZ2xqeWhTN1ZvVUJkVUZlT1Ra0gHMAUFVX3lxTFBFdnVOUFVsV21ORVNMMnlXM2RjMlFPbzczMl9RNHgtUDZvaVpOZzIzQTJMOVNpMWNLQkpJakNaMUloSWI1YTNGaFhxb1h5TFZXSnhUOHpwWUowcUkxb2tJb2o5Qkx3azQ4R2pBbFRqTEdINHNjbjlKaHpSUVVUM0Q3WnRZeC05OTBTWlJqNTAtZk5QR0Zrb1NGWkpBeEhVQVVtZkdRbzdkN21EbktkM2pvalhoN2N4bHNMd1duS0FQRUJMLXpnZ3Z5TXNMcw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787441402
     },
     {
       "title": "Eagles stock up, stock down after preseason game at Patriots - NBC Sports Philadelphia",
@@ -433,6 +433,12 @@
       "published": 1787166982
     },
     {
+      "title": "Patriots training camp notebook: Drake Maye shreds Eagles defense in first joint practice - Pats Pulpit",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdzktc2VaRUktX2YwcGZaWW1HQXZwUEY0RzVYQ0kyODZLT3JTbnQzcnpsUDF1MjAwTGZwbV81MDUzMko1ZkxldURHU1c3bjFfc25SRGZieFMzQzdEOGhDUFVtcXpFSEVfSlNsVW9JMEJaYmY2YlhocFA5Qm9NY0NfNU5zWE1mV190YU5xelZWZFV5eWdwdzgtQjdhNVAtZGFialhIWDZVM0dqNEk4RGJ6YkpCM09Oc0JEMHh3N1V5LVRfaVRvUXNtRDNtOTN0VUJLbGxGb3ZjVVNlYlNiZ284M25QMmFieTl4WGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1787166318
+    },
+    {
       "title": "Spadaro: Joint practices vs. Patriots offer marvelous chance for development - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVUyRXVzalBHdW1LdjFJNGJ4NWJSbVFsTWxJenhNaDN2bTVsNS11Q1B0SXRoSGViMm1lWk52a0JfU2FBZ3FlUzFoYlVlY1ZtQ0dmRDJfQkk4SVM5MHBFUk1mTXZ5M0dsV2E4NXhYWjltaldrNmlaaVBJNnJEM09ERUF5akNsMmduN3JuaHlJSTBpclF1ZVlsNlI1X21LTzN6MDc3WjNuWnI2R0JvZzBnUWY0NlQ?oc=5",
       "source": "Google News — Eagles",
@@ -497,12 +503,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGctRUhkUllnaEo2NUg2UFNMNVZBOTFEXzg3cUx1YlNJQ19yb1VlOGFtSWNTbE9RRkpDUUoydW5Wbmk1SFNPQVE3ZkM5U2hvbkJEcTRZY0tSb25QdmRPOWlFQ2JYUXJ6NUxCelgzdnMyXzZRRkdnZGRweXFhY1ZMZTZtTU1fTmdxLWl3OWxiYTdsMGhBZ01lMEIwX2xtVU1HcGw2MnQyQ3RpaDBYNWpUUU9SazFaUXM?oc=5",
       "source": "Google News — Eagles",
       "published": 1786863600
-    },
-    {
-      "title": "Philadelphia Eagles vs. Baltimore Ravens highlights | Preseason Week 1 - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkxpNTRlaUw4SEtkOWJpV0pjdXMwdjZJQkF2elNOMFgzQTNBZlBYQlhscTltZFFjXzJZTmlxTHlkN0NzZ0FpTXVJS1dLVlU4eEtnOFNWSGQ4LVpPN1dqalR4Z1ZIMmdpTl9lNGxRYVFMajJJXzAwbWQwWVQwdnVKLUZoUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1786848050
     },
     {
       "title": "Preseason Week 1: Philadelphia Eagles at Baltimore Ravens | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
