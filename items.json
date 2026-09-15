@@ -1,16 +1,52 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-09-15T11:31:13.572211+00:00",
+  "updated_at": "2026-09-15T16:32:52.940345+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Jordan Mailata says the Eagles’ offensive line needs to be more “stout”",
+      "link": "https://www.bleedinggreennation.com/news/182873/jordan-mailata-says-the-eagles-offensive-line-needs-to-be-more-stout",
+      "source": "Bleeding Green Nation",
+      "published": 1789484228
+    },
+    {
+      "title": "Nick Sirianni explains why Eagles WR Hollywood Brown didn’t play Week 1",
+      "link": "https://www.bleedinggreennation.com/news/182786/nick-sirianni-explains-why-eagles-wr-hollywood-brown-didnt-play-week-1",
+      "source": "Bleeding Green Nation",
+      "published": 1789473016
+    },
+    {
+      "title": "Nick Sirianni explains why Eagles WR Hollywood Brown didn’t play Week 1 - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNExDeHBaMU9oWHhxVFJXSnZjUXB6b212TWcxS0pwdnc3U0tnei1pOHRsZnFSNTdmRWIyMkNnUU5SX1k1OTlzdkVkay1ocDNDLU9DQkw3U1hDeVpqZmNkbTlXMDV0ZWU0ZGNaVWNMdHNyWF9VbU5odXRiUExqZm41aWk2Wll3eEpDV1VtanNVaUhTeFU1cV9jVndCeldXbDQ2LXYwY3lveVlfY0xSemg4dDNWWGpabzFSNkE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789473016
+    },
+    {
+      "title": "Roob's Stats returns with all the numbers and trends from the Eagles' opener - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWNseUFMZUVZWnY5SVAtdnlzVlUtUUdUU0t5d2dTSjlYQVMwaHlOUWo0MGhqaTQ4M3BoWnlBbml1em1YT1lOMDFmUjB4V1NxNDBaSk1MSVUwWUM0WHVNWVZUR09EVHZiQnR0VmdxZjdvWm1KNUVNZDFrU0ktMEhXNDY4NGlkOWVPQW44bkM1bzZYRWJDYlZzYm9fc2lES0QzSEZEYWM2UFZHdjZZdkNrWUVzQkhYMUlRVjBfeFhQNjbSAcgBQVVfeXFMUDBzRG5WYVpkUEpYYTFEREh4UjBwdHFDeS05UmFJLVBVTV82Z2pob21tc3F1QTNVV0xxT01lOC1TdkFsaTVFNDdzeWdGSXRmam81QjBGVFU5Z0ozcDVGWXhUYmxFdGkxTW9XTExaZmxvckF0aGZKVHZpZ3haMFMtNU1pOXJTaEx1RFFMbDNzZkNtaHVnbUEzN0FjUDdEcEpBdHdFbzZoOGN4dU41UnlsOWpRMDEwRmVJcDU5djEteFB4N2xsS3N2UFA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789470000
+    },
+    {
+      "title": "How will Eagles replace Landon Dickerson during his IR stint? - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOempDRWQ0Um5aWTRrRk8zS0p6MHpydWtmWkN0N0lKRHBzbDlhUnZhMzBuTmVHMDk1WXROOWI4R2p1RXVvcy1fSENpd0NWZXlpR1NOODBTUDJEZi1ySVlTOWp0YWVvM05UcDhGdEJyZVFIT2pjYkc3M0lPZGo3Q25KOEpfUHNzaUdRcnJMRk9XNmN4Y0ZlTlUxVUluSXZJYlFnR0gwRDM1THZlRzZHNTcxdGtaa2xiYzBYUDR5YTk2UEhHYUcxUjNLM0w1Y2VGZmtpUUlWSEhRYlZrcS1BVFIzczBlRDJIZ9IB7gFBVV95cUxQQkNyUFpqdDhmVXdRZUZUTFg2eUZjSm1BTzFxa3BSTFVQYnNQc2ZrVzRTeS12VDl0Z1ZGSzNxMk5TRzVIM3NqcmJhUFZHREMzRGJqZDF6dWZ0UGRwQlpieGstTzlra1VrUEpocDNmRFRMYkNHQUtLS1RYRTJabUJvcVNmdGNqYS1HSUo1dVYzZmxIUFlWZmc4UmZjc1cyd3lTY1g4RHo4aEZvSlZLbXZILS04NkVNYTBLUXhicHl4eER1Z2lXT0xLU21fYzZpVVpEdU5aYklxd1daYjVnQnpyNldiQmpqeGVNejZ3NExB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789470000
+    },
+    {
       "title": "Eagles Will Get To See The Future At LG Following Landon Dickerson IR Stint - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXhKNVV6TnktMkxqWXI2VmxDaXRnNTUtUW1vTmxZYkdxbWpCQXlZV0ZyQXBFT1lRZl9WSkNfMjVFMkxqQmdBVHJ6bUVEQndxXzNrS2NTdUpPVHp2VDZQS1FmakQ2dUdXTlVrd0J3WWJab015R2pveVVySl9Jc0xobm03Q3l3NTlCZjdzLTJGY19hajZQbzJrMXNhNFpNVTRSckIzTGVmSXJKOTBiZkItRlBhSVJnSEdMN3ZmdGZHazA?oc=5",
       "source": "Google News — Eagles",
       "published": 1789431344
+    },
+    {
+      "title": "Eagles placing LG Landon Dickerson (knee) on injured reserve - espn.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHd2YXZWSzBfZmVwTmpQWkJQYVdxNnVBdWpZdjN4ek9XQ2lINk1PcGFHak5sNTYtbXpJUE8xM1NPN2szTHFxR05yT0FsYndiUUozbTBIUUMtZWFCai1RTmtBTXg2NjQ5SFRkMjFGRWN5YndYMW9VaWo5OUlhMWdYMU85ek9JMko3Nl9aRWQzWDA3Y25Qb2xXUHZRRF9rbjUwQmRNLXlyRGFvZzZvNDZOZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789428840
     },
     {
       "title": "Landon Dickerson injury: Eagles guard headed to IR, admits he “was a complete liability” in Week 1",
@@ -19,31 +55,19 @@
       "published": 1789427935
     },
     {
-      "title": "Eagles put Landon Dickerson on injured reserve - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOelBZNTF2TW0yR3Z4OERCNTBkZDB4bnBBMDV1azNTOW1mbVRRc0tsc2JnMWN3YkdObFBWQnhKWXZxSEhkczFudVFDdGFzVm8wS2xjVElIUllJMTZ0T2dFTVNJdmhvR2t5WjI0MmhJMDZ2cGtMdnN6SEkwMHZGVGkyWWJUWEJZeWhiTnlwMzIxSmZ1eWFEQkQtMlpuSnJvNE9qdkdCSWFnTUJycV8y?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789427292
-    },
-    {
       "title": "Eagles place star left guard Landon Dickerson on Injured Reserve - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlZFS2t4RTgyTDhJdmx3SVZVemh0emVOaFJHN0VQd1dadlRqbzRnVEcyaElNRkNKV2phdHhhOThKOVB5T2dPeUw5MTJHVkxlRjE2RGFBSzIyMWEwQ3B1ekp3MU1USjVyUnZxWWQwcXBNVVdnUHJ2LXZ5OXQyeldRLXBLTQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1789426392
     },
     {
-      "title": "AAA Official Review: A Jalen Hurts appreciation post - Philadelphia Eagles",
+      "title": "AAA Official Review: A Jalen Hurts appreciation post - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjFwYkkyRVU4RzlPeVdZZmFiMGdhMVZXZDVIbXdsNW94OHlCZkpBZVpTdkdaNkEzYW9JeHhGbWtqdjZjeHQ5aXBoOXN4dEtkajMzTUhnN21Xb3premg2dHAzVFhIZHhuTTQwdUYzcGtub1hNTlc0TEpabUF1UkhvbGMzTE84elAxZDljVU05TGgtWVdzV1VUeUxmSzRtM3ZfN3RBVE9LN3h1cURkczZOR1dUSHY?oc=5",
       "source": "Google News — Eagles",
       "published": 1789414158
     },
     {
-      "title": "Eagles placing starting guard Landon Dickerson on IR - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVnF4SGE3a0tSMXpiQ1otOFNGaWRqb1ZhakZ2eUtEWlBqMVJhUngtcmY4NUwyTTMzRVhpLTZ0T1g0S3FNUGhlODJFal96NF9pZDY2bXR3YlNkQS1qRG9IaFgtd2VPamdZeW13LUlQTnRnZ1l0UDFURW1RQVpfSlkwSlN2WUxDZUtueFk0Z3pQTnpWWVgyUE9Oa0ZOcTFIS3ZDQXNmWGhEU1ZOQ3BNOEhTVUFIcmtiLXFnbDJxbUtvYXktVGZpb3p4aEFEWlFtd1VhZkQ3MjJNTW3SAeABQVVfeXFMTXRlSi1ocl8zU0NMenY3eGhmU3dwdDluaExpUy1YbnlLR3g5eHB0MnBQMnM0VVRzdFdOQ3drdG4xSjBEdGh0VHNadV95MC1OUTVya1QwLWllZExvUXRyVmE0U0ZqTTNHaDdNSXVpNU5tRlQwVkcwdC1BaDhhVWlFalJJd2NMcjJnSW1qVy1DQ2FEc3k4bW55RFJ6MkVPbVY3d2REaHg4aWRXcW5JZ0NydG92azlwazBtNHZxbERMaWNpbFVYdmxvZlZLcEF2cTZlMUFNSDQtLXpxU2NDeVZ2ZF8?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789412400
-    },
-    {
-      "title": "10th Annual Eagles Autism Challenge set for Saturday, May 8 - Philadelphia Eagles",
+      "title": "10th Annual Eagles Autism Challenge set for Saturday, May 8 - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVBEZUgwOUVDSlNoOXJEUzdWa3hnMU1GVVJPUGxRekhpNEdmNnJlcW8xU2s4dDM4cEtJT2FvX2VEQUdjZ2dwY2ZRbzhrbGdYa3ZvdVFnVmI3R2VQWG5TZG9xR0pzdDk3cEFfSmRwc2FTc0t3NXo0M25pal82dHN5ZGp1MDZkVnFYWHdlclNxbi13X0sxaFZRRkJPd3Nrb3M?oc=5",
       "source": "Google News — Eagles",
       "published": 1789409951
@@ -55,16 +79,16 @@
       "published": 1789402676
     },
     {
+      "title": "Eagles-Commander snap counts: Dontayvion Wicks flashes as WR2 - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcU9EVG9nbjBNbFBNa0xhbm9wQlRKVnZXLUxUUVFaWjhudDRuRkR2dFpiZ2xacDUxLVU5Y0dQWW9MWG5HWFM1UEZnZjRIWkRDNXNLR2M1bmV1My1naU82bUY4eVB2M0c2X0xTM0ZZUmtaUERKVXFqZVJhVUlHNFU0cFNnOEJidFhPQm1zOGJ6V2NSYTB1RkE3NjZSWFFVRGFQYy1ITHJWcFRnaHct?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789402676
+    },
+    {
       "title": "Eagles vs Titans picks, predictions, odds for NFL Week 2 game Sunday - azcentral.com and The Arizona Republic",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlpYLXhtZjQyZXZoclRVSDhFTWNjLVdRNGxsYnJkM01nejRaUXM3Z2hLZFdmR092RUxRdzZJMWc1U1pmMGFxMGdBMVZiQWdYRzU3OUhhQ3A5T1UwTEFXaDkyNUVlUkVDX2tzNnRLaFYtSXJFYzRwOFUzTUc1dnlRV1VzNW5IRy1VLUtFeDhaQlFtTHhKN3QzMm5uM1M1U1drUkVDMVE5RUdIYzVyR3c0MTA5S2pVVHJHT2RoWjBFRUVLUDdHQTJKMzNreWpvazEtbkZr?oc=5",
       "source": "Google News — Eagles",
       "published": 1789402440
-    },
-    {
-      "title": "Eagles Coach Nick Sirianni Spares No Words for NFL Ref Following Rough Tackle on Jalen Hurts - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3lENXdpeFVscDhwUlBwRnN2QkpIUUVRaHFNUXJjd1U0UVFvVXlRdUFKZjhpbldxZmphT2c2MnBLNkhsUktzUWs2SGZDdFlnMTYyQjdFWHRIVEZRVm15elM2VHFGeWhCQnRsWTlZcTVuWEJhTm5LVHI3elVIRmdoYTZ6cGoxWTk3YUE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789401284
     },
     {
       "title": "Eagles Snap Count Takeaways: Makai Lemon Needs Significantly Less Playing Time In Week 2 - Sports Illustrated",
@@ -76,12 +100,6 @@
       "title": "NFL Week 2 odds: Eagles open as big road favorites against Titans",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/182827/nfl-week-2-odds-eagles-open-as-big-road-favorites-against-titans",
       "source": "Bleeding Green Nation",
-      "published": 1789396290
-    },
-    {
-      "title": "NFL Week 2 odds: Eagles open as big road favorites against Titans - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UcURfMjk4dUhwaVl0ZjFGaE1wbktDa25PRW9GNE5oczdaR2FVcDhPTHplZmF1N0RvRTJ6M3RGakk5Vm5sOHNkdnZoOHJ6bWtsYnFGY3FOTExkN3paOGhKTGwtMXVrTXZ2cmFSbHRjMnZtRTJfQnk4TW5Ncw?oc=5",
-      "source": "Google News — Eagles",
       "published": 1789396290
     },
     {
@@ -109,7 +127,7 @@
       "published": 1789389498
     },
     {
-      "title": "Eagles Players Press Conferences: September 13, 2026 - Philadelphia Eagles",
+      "title": "Eagles Players Press Conferences: September 13, 2026 - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmFFNEY0eDI1bE90ZWt3c0VOS1BfVjRvbHR5OTZQYkE2MjNFdmxhcTB0N1FEdWRRR3RvYXRoc2VIS3Z0ZnJ3cTlVUmkybWp0cW9JUFMzWHJycVBRaGtlWlJfV0ZKdHJ1ckZvTkdRMEdQWXktbkR6cEQ0Tm4xUHVLaEhGVUZYdF9SXzVfeE5JeThtSUNabVE?oc=5",
       "source": "Google News — Eagles",
       "published": 1789358347
@@ -133,16 +151,10 @@
       "published": 1789342499
     },
     {
-      "title": "Eagles vs. Commanders Week 1: Scores, updates, and discussion",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/182577/eagles-vs-commanders-week-1-scores-updates-and-discussion",
-      "source": "Bleeding Green Nation",
-      "published": 1789342422
-    },
-    {
-      "title": "EAGLES BACKUP QUARTERBACK REVEALED",
-      "link": "https://www.bleedinggreennation.com/news/182625/eagles-backup-quarterback-revealed",
-      "source": "Bleeding Green Nation",
-      "published": 1789326349
+      "title": "Eagles News: “Jalen Hurts enters the arena as once again the most polarizing player in the league” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRk9FdHdqM2xFSVRmR0hlaG9CNVNxcWphZjRHVmVldGZsM3NJTGVMQUc1VmF0UmtlVVN0UUx4dnE4UnlWU3VialFJRWlENV9vYlRxZWludWFUTE9PYjRYMzgwbm1fMWk0czhrVWVTb0FiRmhVV3pGeC1USGpBeFpMVTlUby01dnRJQy16dDFnblBCa09UOG5VLU1mblRzY2VsWHVDdkNLek1VdFFpb0dfZGluamtyLTZHUFJHYVZnT0ZrQ3VPemc1bk5GcXhlWWhqWjRLNkVOMlJjWU0?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789301783
     },
     {
       "title": "10 Eagles predictions heading into the 2026 NFL season - PhillyVoice",
@@ -157,7 +169,7 @@
       "published": 1789244490
     },
     {
-      "title": "Eagles elevate WR Britain Covey, place TE Eli Stowers on Injured Reserve - Philadelphia Eagles",
+      "title": "Eagles elevate WR Britain Covey, place TE Eli Stowers on Injured Reserve - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEFUVmk5OUlxVkQwbHRQYlJSOFNHSF9paEFvaHZ1VktHU1Rmem9nT2liOS1fVm4yeW9KVDZPZnVhMEk5MmxDQVB2b1htanpLRGpyQ2JpclRlSGU0Ti1tLVZMbUplX1J0N0IwYkZxaVh5cVJnb0VrVUtzVk9FZGVvY1pGSldpenBsTlEzYjhUNS1rMzBUeWRjeWZCV2NtM29wZVdTeFlaZk95Rlk4VlBydg?oc=5",
       "source": "Google News — Eagles",
       "published": 1789243433
@@ -187,19 +199,19 @@
       "published": 1789163972
     },
     {
-      "title": "25 years later, Philadelphia turns tragedy into day of service - Philadelphia Eagles",
+      "title": "25 years later, Philadelphia turns tragedy into day of service - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzFBcm1qTDBid2g4NnFtX1g2RDl3ZXVYQ2F6anJSN3RJd2xibXlBMUFVdHNnTTJVbEhkZF90ZjVGSGdPZXBwWEtWWXBDMTJkTDl2TVlmcUJhZEFsSGFXUnVDaTBTb1N2QmJmMGxlLXlEc3J2Z1c2ZndmeUV2MTdIUDJhcDN5NDUtTmtiSUZpaHc1eGI4dHdXei1lWkZMakRDUl9n?oc=5",
       "source": "Google News — Eagles",
       "published": 1789142929
     },
     {
-      "title": "Eagles fans attending Sunday's game can get exclusive Inciardi Prints - Philadelphia Eagles",
+      "title": "Eagles fans attending Sunday's game can get exclusive Inciardi Prints - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHpDWHdQTmJ6WTE4eGdlWlNTdDYwdlZvVVB2akxlbUFQaFBJMlRKWlRkci1tVGZod1hBZG00RXV0SEdpNzhRelBzX0ZYYUd5OWRZT21MeE8zNUZzeUlfRjdNWktJeWJTLXlWVGZ0am5Lb3ctdzZjNkNOWmNydDVONWN2bmhEM1A2Y0VhX3ln?oc=5",
       "source": "Google News — Eagles",
       "published": 1789136027
     },
     {
-      "title": "How the Eagles built a new offense - Philadelphia Eagles",
+      "title": "How the Eagles built a new offense - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSXdoS3IzNTJCWndXajVDUGFfWW9kTlBxN3Zvb05NeVJCYWY1VndPdE9NSEtkb3pGVURUZ0hKZU9BWUE4OGdMcVNpaWZFb0FGU0I0MmZvTnJZMzdTNXlHbnBjZEhNNzY2UEE1OVZabEhGSzdma2t6VnVoblY4RkE?oc=5",
       "source": "Google News — Eagles",
       "published": 1789132727
@@ -211,16 +223,22 @@
       "published": 1789066138
     },
     {
-      "title": "Eagles welcome Kraft Heinz as Official Partner - Philadelphia Eagles",
+      "title": "Eagles welcome Kraft Heinz as Official Partner - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0dRcFAtSzY3SGN2OTlOVmRuelBTUTlYZHJQOVBOdDMtQjZ1cHdFSXlEbTdYSGI0WXZUNGM2TVYxNVIxMVE0V3pja3pGVVl6Q3F2SWQ0dHViNFppVEg3VlBRVlVKb2RyV05MRVJrZDFxV0p6WEtmeTc4dG5TWFNlM0dqT3VWUHYxNVRHRC1tcw?oc=5",
       "source": "Google News — Eagles",
       "published": 1789059809
     },
     {
-      "title": "Spadaro: Jalen Hurts knows past success against Commanders doesn't mean anything - Philadelphia Eagles",
+      "title": "Spadaro: Jalen Hurts knows past success against Commanders doesn't mean anything - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW9DUjFNeVNuRUZVdXN5Qno5NTY4QXl2dHkxS00tUjZ5TkoyN3psN0hrN2VjcThOOGpzWEJ4MmdfZFdlWTM1aWtUc2VQRmJWaUJObVNUdXI1N0dHZlZjZ0piYW16SXptOTVuWjhLUUhFUjZrOHN3TGUxbUFGRHZxQ3ZXUWlqaDFBOEI2bkV4a2drZ0FRWU9oYmtuR2dmUmloX2lPODBQQ0Z5TXBRMmtJblhfWHdXa3Ru?oc=5",
       "source": "Google News — Eagles",
       "published": 1789055909
+    },
+    {
+      "title": "Reviewing Lincoln Financial Field's new food items for the Eagles' 2026 season - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTdhQTlSXy11UmZPZnowSmtFb2JGRUdNRUVvUTZ1ZDJpOTNCSU8zdy0taXF5R211UTJGRXhuQkhKVTl4ZXBFcWFldG5DOFF0RDY5OWQtVE05YldwRWpOZ0FadjZjNnZSSWZjU1lLTG4zM3c0Z21VRHRtVTZrM3lfcGlFVGJJMnQwUlpPM29ERmxaYnJvWWFQT2d0SlVmQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789044314
     },
     {
       "title": "Predicting the 2026 Eagles: Can they still be the NFC's best? - PhillyVoice",
@@ -229,7 +247,7 @@
       "published": 1789030862
     },
     {
-      "title": "Eagles Week 1 Quiz: The past 10 starting quarterbacks - Philadelphia Eagles",
+      "title": "Eagles Week 1 Quiz: The past 10 starting quarterbacks - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1UxLU5oWTRneXo2dzNTYUpvazZTbHZoLXUwODJtSFJVT1E2WXJ2cVZaOU15Vkd6dXpDVm5vdGdGSm9TaU1UdXRJeFBEUkFOUk9JUVR0UEdUQTNUMXMyODF4N1pZcFdCYVlKNWpObzZzQURxTXRrdXpNT2NIcEloNGVHWV9IV0xLQ1U4SGZFNXQ0RVFVLXhN?oc=5",
       "source": "Google News — Eagles",
       "published": 1788987807
@@ -241,13 +259,13 @@
       "published": 1788982894
     },
     {
-      "title": "Spadaro: Jalen Carter, Jordan Davis highlight an outstanding defensive tackle group - Philadelphia Eagles",
+      "title": "Spadaro: Jalen Carter, Jordan Davis highlight an outstanding defensive tackle group - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS25nSHhfVElkZ1dzTGpQd3U0b1NpT1p0dWtLNFJvYU5ncXpNOEh0ZUJoOS1feHhCbVQwUjJiMk43cHd1ZGVfaDB2aThNQ0VLWGFPcEEzNUp1Z0RQcFdLMWM2UEdlTF83RTJ3S1RKZ1hSTW1kRDdWSFJqZVkyRFVwM1EtdU9vNlhuamQ2Mi1EMjh3TEQxall6Qy1TNVBrbGVCUWViclZObnlaSE1WVXpxVXhRNl9HbVFxOEZBN1FsR3otUms3YUVIRDdLUENWc0k?oc=5",
       "source": "Google News — Eagles",
       "published": 1788980908
     },
     {
-      "title": "Spadaro: What is the common theme in the Eagles' season openers? - Philadelphia Eagles",
+      "title": "Spadaro: What is the common theme in the Eagles' season openers? - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODdBam1FdkVETmhoUk1YRE5YUW9Eb0VKLTgzSE1ZSzdKT0gwaHlLNG5mMngyN3dFUW1jRUlFVDdWLW1hdnpKR2o3bU0xcHFlZW1NU21QTjNMRUZxaTQ4a3JEaXI4S2VFMVlVRTFNYXRhOVhFXzlkQlMtQkVJTUkxRkZwa0twcU82LVNHeHdwb3hia0s5aXRwSnZVbW45c2VWX3N0LVZ5YVliVFE?oc=5",
       "source": "Google News — Eagles",
       "published": 1788905191
@@ -259,7 +277,7 @@
       "published": 1788886716
     },
     {
-      "title": "Eagles' Brandon Graham announces he is retiring from NFL for 2nd time - ESPN",
+      "title": "Eagles' Brandon Graham announces he is retiring from NFL for 2nd time - espn.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXU0Y2JJbWo3Wk9IOHZ3R1BDSzBvWUlISFd3TEZFYnRnZnl3V3RhdS0tRUY1X0lRN2lkMzYzdlRlcjF5dFh0Mk9ZNHVRY1dJOHJ6ckY2NkY3QVF2b3R1UlFjS1ZNMjBKWHhraF9weUpReDRyckRFam5SNF93NnM4dDltSU9uVHQwWlVSckNwZ1U5M2VpRkFN?oc=5",
       "source": "Google News — Eagles",
       "published": 1788886200
@@ -283,12 +301,6 @@
       "published": 1788865200
     },
     {
-      "title": "Adam Berry: From Wall Street to the Eagles’ front office - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkNfbTlYYjlMUWFUQ05Pb2FicEFuUXEtcVZMUXpVZ19FV1ZMcG9WcFNLamxvcDlNSjFFejNScE5CQnVVT1Z1dllRVVBCUWJFNVN5OWZXR2hqWW9JT25JblQ3V0NvcFhBblNEY19xR2dfbkJrODBoZl9ZcE1FSDU5Ni0zTksxa2tpSjVNRWRQaDZ6TmcySDdPRzdn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1788715076
-    },
-    {
       "title": "Eagles News: Philadelphia’s X factors for the 2026 season - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmtJeHVzTVBWYUF4allNOF9PTDNadVJpQnFnN0EtWWtubFlGZXVQZGsxdWxVSWVzMm5FYlkzY0M5ZW1oeklFdk85SS1TZzUxSDJ1TWNkYWkzNFhScVh1TkJmay1oY3NmQ2hqTTNESzZnOGluT1NXSklxSkRMSGdWM04tcDhFOTBGLU5jczMzb2hicUJUclpCSzVJdzFLRXN1MEJaVC13?oc=5",
       "source": "Google News — Eagles",
@@ -301,13 +313,13 @@
       "published": 1788606000
     },
     {
-      "title": "Eagles announce all Kelly Green and Black uniform games for 2026 season - Philadelphia Eagles",
+      "title": "Eagles announce all Kelly Green and Black uniform games for 2026 season - philadelphiaeagles.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjU5Ti1qc01feV96dDYwTXRJMFh4WnBCQ1lnZXFsNzhnNlhWN0V5SThnZFFpUE5hb0lqeHpUTzBUODZpSWFjcFZEamJvRlhWeEdDM2xoZUItSHdrTjR6SVJ4RU5ZckVFajg1MVNzdVNGVXhPNDNlUS0yandWZEU2WTNzNjZKODJLcTIwNW5sbG16a1dNYjhJa1Fxazg5bzVVNGZzVXo0NF9nQm41TE9vWUxlNFBzX0d6ZEdrSVA4NkgzYUZ1?oc=5",
       "source": "Google News — Eagles",
       "published": 1788505200
     },
     {
-      "title": "An Eagles Q&A: Is Hurts acclimating? Will Lemon contribute? - ESPN",
+      "title": "An Eagles Q&A: Is Hurts acclimating? Will Lemon contribute? - espn.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1FJM1FkQ2stRlR5X0V3SVRQemx5OGJZclJVZlBZSnlTdlZjT2U1RlZBcU5zRUFOOU1MbGQ0QU9xa2dVR3dWSGxFOHpBekFjUkk3SEJmNUFTcUdVU3ZULWExaG1LaW05WnlqYzVjSF94UUNpT3FldnE2QmxrbGRnb1hyNVFjZVkwOTFTQ0lXTWRib293OXRvZFc5LTh1UmFPZ2oybFVKdFVDN3NXa3ZlMTVsNHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1788505200
