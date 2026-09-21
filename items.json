@@ -1,11 +1,35 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-09-21T19:07:36.022748+00:00",
+  "updated_at": "2026-09-21T22:44:31.264511+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Zach Ertz is back!",
+      "link": "https://www.bleedinggreennation.com/news/183780/eagles-bring-back-zach-ertz-signing-roster-move-dallas-goedert-injury",
+      "source": "Bleeding Green Nation",
+      "published": 1790030493
+    },
+    {
+      "title": "Dallas Goedert injury: Eagles tight end will miss time with MCL sprain",
+      "link": "https://www.bleedinggreennation.com/news/183744/dallas-goedert-injury-eagles-tight-end-will-miss-time-with-mcl-sprain",
+      "source": "Bleeding Green Nation",
+      "published": 1790026026
+    },
+    {
+      "title": "Sources: Eagles TE Dallas Goedert has MCL sprain - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzhTZEZnS1NXN2Fqc0d1Y1ZveDFnZzUyenJKaDRXZ2lkZ3Y4eTItcWd3V0dtbi1qRjlZWGZSSlhFNXliVEg4VjlYOGFuZWhYNURoc25VeGpqbFJVSzhfMTUzUzFUOVg2eHhSRHliaTNsdGxfVzhGeDhxcTJqVU5kamF4YTVDSXpKVGFnWlhQZjA3dw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790025473
+    },
+    {
+      "title": "Jalen Hurts finally beat Robert Saleh",
+      "link": "https://www.bleedinggreennation.com/news/183709/jalen-hurts-finally-beat-robert-saleh",
+      "source": "Bleeding Green Nation",
+      "published": 1790018739
+    },
     {
       "title": "Eagles-Titans snap counts: Darius Cooper makes the case for more playing time",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/183746/eagles-titans-snap-counts-darius-cooper-makes-the-case-for-more-playing-time",
@@ -37,7 +61,7 @@
       "published": 1789999678
     },
     {
-      "title": "‘I needed an IV’: shoes melt as turf temperature reaches 157F in Eagles-Titans game - The Guardian",
+      "title": "‘I needed an IV’: shoes melt as turf temperature reaches 157F in Eagles-Titans game - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXhxWGpBQlB4aWhNSUE4MjFfamRKZ2FmcXRrVE1fOGllVlJ4YTV1NXl2WEtwUTBrZW9sZ1pNRVVlTVdmMjNoSWEtN0xJTUdCbGhJNTVTZUJ4SUFfVmtOVDJMRFkyYTJqSHk3Z1ZUdGFVQVg2bDFaMERyVHJscHdYWjdBbk1IM19hLURFWHZQcGR3WWYxeDU0Q1phMVMzUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1789996320
@@ -91,16 +115,22 @@
       "published": 1789951980
     },
     {
-      "title": "Eagles vs. Titans: The good, the bad, and the ugly",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/183624/eagles-vs-titans-the-good-the-bad-and-the-ugly",
-      "source": "Bleeding Green Nation",
-      "published": 1789950889
-    },
-    {
       "title": "Eagles vs. Titans: The good, the bad, and the ugly - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM29Wb1FuOVBwS1NXckpSQzgtc3hNN3V0X3dPaDJhOHE3b0Zkd3M2Q3FyRnRaUmR3YmJIRk8xNzBiMTYtWFI5bVF0Tk1wOUZJdDB4MXktdGVhSzA4ZVVGQUpwQU02N1BjNmdpcmFld3Q1R2RTQ0M0SXJJVU9EcEIycFZiNWdsTlpjWk5ONENKNVV2NDFJdmFOVW5kMkk5bHdSUEhvdWRZc0NHSnZnTW5wTnhDSzUzRGhpMC1ubjRkSURwOWQ2?oc=5",
       "source": "Google News — Eagles",
       "published": 1789950840
+    },
+    {
+      "title": "Jalen Hurts was composed when it mattered most - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVVrWndTSWMtTTBCQ1hGRnFNWk1weWUwLU9lTXRxWnRJWElHZ2RPazk3bFRjQXZzNDh5RDMwVU5xSEZtQ3l0WEFzemRjdldMTWR6UEZTQ09KcFFUcjZXcmhyYXpWT1dJc0VPY0Q1czZTSVpkVzM1SVRfRHpMS2tnTTlaa2VZLVJpb2xYNHRXYw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789949843
+    },
+    {
+      "title": "5 Biggest Takeaways From Eagles Win Over Titans: O-Line In Big Trouble; Philly Needs Zach Ertz - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2lZSFozRUJLVS1WM002R042ZTdhYzBHc0lHNmk5ZEtNYjBEZVkyVGhVYkxpQ3V5WURjVlozdGlEaHZSdjluaVJCUnV4MGxzcFFPbEhWd09SS3VtaHdxbTFvZDdWTldLeXlma3lIY3N5RlQ2UjJ5NFdqRUdZSnB3Xy1Jalh1YTEwU0Q5SlkxN2h1Z3dpQzh1RE1TaEh2NkJVZjc4SHVGZVhUYWwwTGs1YXF6aG0yVFE3bFVOeHlIT3BXX2lzMWlYOWk4OGN0TEFiREdHbGdXWQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789948800
     },
     {
       "title": "Spadaro: 6 takeaways from an incredible, come-from-behind win over the Titans - Philadelphia Eagles",
@@ -115,19 +145,13 @@
       "published": 1789948500
     },
     {
-      "title": "Eagles 24-20 Titans (Sep 20, 2026) Game Recap - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HdUgwVnNqWGoxZ3FrbEpLQkZXNnUwTDk2TjFydDlzeUdCNnVjOEE1VU1PS1NPLW9aSDl4SEs0Uk9CR1VNX1dlLUFDOEs1OEhfSjNRdk1pUndUOHc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789947290
-    },
-    {
       "title": "Game Recap: Eagles 24, Titans 20 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVgzQ3Frc0VnMkhHdnJ1VldNOWxTSjFJTjNFY0toWGd4S21SeEpvZmJJbDVfMXJZTkdDVUNzc3R5XzVrd2VLajFTLVFIRE4wd0RZSnNULUFXZXpOT29xaDY1dG9BRkxtaFNZMzJxQ0pmangwUGttNnFaUmQxVnF2SmJTb1g3aWdlQ0ZWUURJUDY0NG9PVlpEUm1pZjVFRGZUUXBrZVVDZ3c4RXhUVEpNRA?oc=5",
       "source": "Google News — Eagles",
       "published": 1789946543
     },
     {
-      "title": "Handing out 10 awards from the Eagles-Titans game - PhillyVoice",
+      "title": "Handing out 10 awards from the Eagles-Titans game - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05bURVb0M3TjlMZlVwXzZlT2RWR1JhVUxGM3hBcEEtZWZXNkNZbzVDV2FzcWdrNl9FYWxYaE8tTFZhOXItMTVIOTl5YTNsSWFCM3ZoMmdRdkxKaXJOaFktZlhqWm1FeEtySDR2NEFhTVQwVTJIU21HendBaE5xTGc?oc=5",
       "source": "Google News — Eagles",
       "published": 1789946215
@@ -163,18 +187,6 @@
       "published": 1789942750
     },
     {
-      "title": "Saquon Barkley injury: Eagles running back returns to Titans game",
-      "link": "https://www.bleedinggreennation.com/news/183477/saquon-barkley-leaves-eagles-titans-week-2-game-injury-stinger",
-      "source": "Bleeding Green Nation",
-      "published": 1789941387
-    },
-    {
-      "title": "Jalen Carter injury scare in Eagles-Titans Week 2 game",
-      "link": "https://www.bleedinggreennation.com/news/183565/jalen-carter-eagles-titans-week-2-injury-concern-leg-cramp",
-      "source": "Bleeding Green Nation",
-      "published": 1789941303
-    },
-    {
       "title": "Jalen Hurts saves Eagles from ugly upset as Philadelphia escapes Titans to remain unbeaten - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHZiSjRFOWRESlY4QW85WjVWdGY4RkF5d1E2VGgwZ1RUdnZwZ2NaNkhjS1VwTnRLYjVXdDBnT2N5Qld4SHRtNEJpZDE2RGY3aEtjcU13MVFjNkpNVUNkeW5kd3ViSlRwWjUwLTJNenR5YkF6a0l4QzJzZTVQWTNzUkw1OXItRnV6SG51eUJhTHpIZjJCUW1KZE9ZN0Jub0diRHRxazFjSTgwb0pqQjJvbUp3eXBkTENOVmc?oc=5",
       "source": "Google News — Eagles",
@@ -193,12 +205,6 @@
       "published": 1789938288
     },
     {
-      "title": "Eagles-Titans final score: Jalen Hurts leads game-winning touchdown drive - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEdtd0NRalRXdl9BS1J0OTFnbXQ3M2tuUDJtcU4xY3U2SVRuZWZDdzNCaUNLaS1zOGdveVhveFdrQVpfZmo3UzA0LWdla3hRTkR1dS1mS3FWSEVzWTZ0WkprdmtaWmVRVUVZZlNfMGRnRjhVQXBPY3NzRUwzX2ptQm5ycDEzbVNoaVA3QVYzNU5BU2VYRGZaalltcmNkUEpnaUhfXzV1d1dFMHNtUDJqMHBPR1VNUkVxU2pNNTJsdUhSRll2ZXo4RXpoVTIzMnBhSEo3aA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789937448
-    },
-    {
       "title": "Eagles grades by position after close win over Titans - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUw1ZXI2cnBmVWdtbTE3MXlUeHgxblk5Yks4aWp0eVNlSFlUSU1LbGl0aHdDTFZKcHlfLVZNQk5vTHJ4RnN4UkZKaTNMcjBfbXVBd1pLbi0zTm12SXhmOXJud29KOTVkSWV1ZGFMRlc4UmRjR3pMNUdIbE11dFVIOGptNHZ4NDZCSTJHd3RlTTdpSjF2RzlJRnQ5WWVaMlZmRFlRcXBnT1lQd3JseWFua0V5eEJ5ZnJQSV9wX3pYSXbSAcgBQVVfeXFMUE9xRVVnTGRfWlh1RE1XUnFNMm5GSkU2N1ZoVXR3Mm5BYlhtX3BsZzBhbWpkUmlPeGw1WkdFalNlNkstOTdlS092emEwNlBxazA4MDVfV0NLZHdNM0hVVHo2SG5Wc204alNaeTV5bTlnaVYtWnEyUmhHUTlpOFJuaGJPRGZtUGF6TENULV9sNWIzTGx1cUw4UnhCNGtxcVQ3cDlaQVIxWWR3YXFfb21VYnQ2eTF2YnF4TnZpVTc2WjVJZjByZmYxanQ?oc=5",
       "source": "Google News — Eagles",
@@ -209,6 +215,12 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZXJxS0dRa1VxSkFFMU1wMHRkbEdCRlQzYlpySFhxN0NwQWN3aC1hVVVNQkFmUUdWMHNLb0ZxQk1KUHZ2NlYzck02OUpLNUFYU211aG1sc1FwZ0hmeno5M05QenYzejd5c3pSSzRFVXZHd0Z1blNUbkw0TG1Dci0yMXdzTVhoNHFZVnM0Y3piY2VTVlJQMHNjUHR1TGJuRWxhdU9pZWxIaFlGUVBHcXgxbWFMbWFJNWNSV3BGWFNFUjNvd3k4ek1Lb25rSkVrYVphOUFZRWVWaWMwLXRNSFZ2cGtEZE5oY0I1Y19ReXdiUE94WDJDZUpSMmQza1TSAYQCQVVfeXFMUHZ5V1IzSmY3MDgzZ0c2MDBRWWdHUGJQMXlwOVZkbUQzUzNnSlpvSDhZQl9xd185UUJtWGNhWldOLW5KcnRKWUFrMWNJVmZIak5jZkhCcE5QMjBBQmh2ZG8zUTNWS3d1a254UUNoLTMtelQ4TTdwaXQyaGstanZ1Z1hrZ3hWWHMtVTloei1qRWpwZzFZNVF0UnNHUGhOOVdrOG9jb0g1MFd5eHVBWXlIQkhBUGlTazU5dGQ5djFpeG54S3UyRjBucGhfRktOS3paMmxVNXFJMjJET3JxOHdSeDZ2WFV5enJMbVJHMGx0dzNfMHhLWmI4NjI4UVU4QmZkUEd6X00?oc=5",
       "source": "Google News — Eagles",
       "published": 1789936481
+    },
+    {
+      "title": "Eagles deliver GUTSY performance despite losing Saquon Barkley and Dallas Goedert to injuries - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvTC1xNUJERVAydXZfU0dEa0YyekJvNldPZV9GamtQMTlUWXBDQnQzRktwRUpKSTVla3FkZjZSZlo3aEE2NnJZeGd1bWdybmdVUDl0ZHhudTRWdWY3cVp2dzVn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789936218
     },
     {
       "title": "Philadelphia Eagles vs. Tennessee Titans: Game Highlights - ESPN",
@@ -223,7 +235,7 @@
       "published": 1789935721
     },
     {
-      "title": "Eagles-Titans Week 2 report card: Titans made Jalen Hurts be a QB, and he schooled them - PhillyVoice",
+      "title": "Eagles-Titans Week 2 report card: Titans made Jalen Hurts be a QB, and he schooled them - phillyvoice.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnhmZmN5Z0hOZkF4WnI1UUZ4elBENWlENHhIY3p4Q2tIcFpFRHhaeVJMcnVYNmo4Wm1idUt2bnBPOEUwMHhjcVEzUmx0VURhbTRTVkd4b2hxX2dDbmRPY0pzWXBpdVpKbTRSMlJDd3pQcmh0anpjalpTUk1abjFMeExrRlBZbWdYbFNjRnNaUEtiamdta25oMDVSQU85Uzl5YTM3aTlR?oc=5",
       "source": "Google News — Eagles",
       "published": 1789935711
@@ -251,12 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUJSRkthcjdRZGhPR3JlU05mWXV0anRyemdSSHJzd2FKc0dSU1NpN2tlSjVLei1mNkE2V3dsN0NEcHdsM2RiNXFJTDZ6T3piSEQ0QTZvQ0l2V1BWUlROcVl3dHNFRTc0MzQ4YmcwcC14SmFmNUdFLVpUS2M0Zmsxcw?oc=5",
       "source": "Google News — Eagles",
       "published": 1789918689
-    },
-    {
-      "title": "Philadelphia Eagles at Tennessee Titans | Philadelphia Eagles - Philadelphiaeagles.com - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVpTM2tfcnlmdERRTnE3SHFwMjl1RWducmJIekdMeEt4Nk41dHdKVFBWRGlhRkc4TElSb3Y2Wl9xdXBlbUJDMnpqSjlqaGo0Sjd3ZjhVS1NIa0lwNXhXNE9lbmZvQ05MX1RtM3A2YU5xU0FrdGpYYlNBa05IaGI2dzlweExUbF9FYklYenRFVGtQdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789915687
     },
     {
       "title": "How to Watch Eagles vs. Titans: TV Channel, Live Stream, Time - FOX Sports",
@@ -319,6 +325,12 @@
       "published": 1789753253
     },
     {
+      "title": "Yes, It’s True that Changes are Coming to Eagles Tailgating and the Sports Complex - Crossing Broad",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjY0RVJSUy0xSmN0QTRhemVmdC05NjJZM0VReW90NnZiQVJmUDBQak1BelBzRTZoeFZ5OV9QRGtmaVdlQ3NpNVJ6MWFjMWdCYllRZk9IOVh4UGxvYTcycU1zYkJwd25vV3hnbHp3T1hITDY2ZlBZU2NFVTlRZmIxRERMQkFINTdtWTF2SzlhMnVxVXZuMWNXaTRiRVlxNE96UXJEY3JCd2M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789742880
+    },
+    {
       "title": "Can you name the Eagles offense from the last time we faced the Titans? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPemt0U25jdHBqM0p0dHpQNWsyWGNTajAzM0xtX2VvbjBvM1kyQjNKUFZOaGNibzNDQURqTlVtdWl5SzNzWXVIbWliVVlQSWl6TDZ1NERpQjlZbmsxaUx0cXFPd2RwWW5ERV9LS2JpNkJ6M09rXzJ3ZEpEQmtSMUFNSjVvVWlHNF9TYm1ZUjhhX2N3UnR1VEwxNXNCRGVCZ0UyaUJQRk1JLVM4cFVuRF9V?oc=5",
       "source": "Google News — Eagles",
@@ -329,6 +341,12 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0p3MjViRnhWVWhnQUk1cG9malZpY2lNVFkzcm1PZlJuTURPQkVpYVI5a2I3QWJyVkhRQ251VjNSTnREZ0JSVUthenMwQzNmdjNudmU4RzhEN2p3R0tvRi13d1VEZ25qMHNzQWJ0bUJSUVpzd1dSQUZvUTRHbWt0WFdLQ2w5VGY3ZGJzS2tpMzVVRTlUbW83blFlbjFyNEgwaEVRQUYxZDg2aHJJQThqQjlxOVpza3R3SHdtb190R3dYZWtq?oc=5",
       "source": "Google News — Eagles",
       "published": 1789657226
+    },
+    {
+      "title": "Eagles injury report: A couple defensive stars miss practice - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU2tPZ1hTSkJwWC1qanBUdHgzYXFibTdKRXhsQkJranF5dFpOZ1ppcEhaNkFzNkZZQ1lkbDRXcEtKMmdjdGFTWXNhdDB3SWhzQkJkUEtEMXdrLVowd240S0xKNzBnOE1Fb1JGNkF6SVdmbWVuczBWcmZfMFZmMDRWeDdYanljTlhMMFFKTFEzLTlnaTk5emNuV0l1dy1NS2FUa0VJSGdBaF9NM19Oam1jRnl4WjlpMm9sSHV6OXhINmNsMVRudVRNcThNbERtYWVRVDkzVklEbEZ1d9IB4gFBVV95cUxNNTVEb0FlNEN1dGcwTnZkVVJZNFVxU1U0RkRnYUwtQVN6Q1pTUEdSV0pEVWd2SG1IeThvLWFwalVFempsRm1PZjVhdUZHcHV5Q1pLc0tQQ0JoWjNwU0oxMGxZTlRaVDlBOWFjcHBGbWliZl9wVDFsZG5hbDZhb2I2LTRHUTF3bXN3U09NaFV2c1JFSzB3emF2Tkk2Ti1tZDJ1YTJfSTN4SU9kdE1YRjRJRDN2dkhtWmFnRXpDWlFQdmI5MTVpZmdReU1QZHJXOXoxREpabVZ5VmtOZVppQWM0Zlhn?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1789584336
     },
     {
       "title": "Roster Moves: Eagles sign WR Britain Covey, place G Landon Dickerson on Injured Reserve - Philadelphia Eagles",
@@ -367,22 +385,16 @@
       "published": 1789389498
     },
     {
-      "title": "10 Eagles predictions heading into the 2026 NFL season - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tTVRmTzNvR2N4MXdZdjlZa0dIX0dBSndfVnF3Sl9IMVJpaElzUEg2dlVVX3JJN3EtQk9Bc053MWlTbVZKeE45LUZzbGhtS1ZmVGtwcWIzR2pKMlByb05veDFmR0J1UHFybXBqY0J2eGE0SGtHaGNKRkowVm5rT1U?oc=5",
+      "title": "Eagles stock watch: Jalen Hurts does his winning thing despite defensive miscues - phillyvoice.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0loOUZLVTV4RWxsQWd1cFFBRmlaeTNNS0VsWTFScGxGeTBFRjlEckdkV3hlZ2FfQ202OTFPSW9qNWhaS240d0swbndrOTdISzRFaGpsWXdlMnVWT1JBZVZXdnRySWFOTWlBZ1l3Zy1zZ1p4VldpdFdBWGpSaWRlQTJ5QndpTGZJYzRuYkJDcTg1WEltMS1CQlk5amt3TnFEbU5FVExBU3Fuc0Z5U2NWckJ5Rlo2UWF5ZDduQXV0Znl2QXNrbUlaSU5Ka29RUQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1789298866
+      "published": 1789342499
     },
     {
       "title": "Eagles News: “Jalen Hurts enters the arena as once again the most polarizing player in the league” - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRk9FdHdqM2xFSVRmR0hlaG9CNVNxcWphZjRHVmVldGZsM3NJTGVMQUc1VmF0UmtlVVN0UUx4dnE4UnlWU3VialFJRWlENV9vYlRxZWludWFUTE9PYjRYMzgwbm1fMWk0czhrVWVTb0FiRmhVV3pGeC1USGpBeFpMVTlUby01dnRJQy16dDFnblBCa09UOG5VLU1mblRzY2VsWHVDdkNLek1VdFFpb0dfZGluamtyLTZHUFJHYVZnT0ZrQ3VPemc1bk5GcXhlWWhqWjRLNkVOMlJjWU0?oc=5",
       "source": "Google News — Eagles",
       "published": 1789282800
-    },
-    {
-      "title": "Eagles elevate WR Britain Covey, place TE Eli Stowers on Injured Reserve - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEFUVmk5OUlxVkQwbHRQYlJSOFNHSF9paEFvaHZ1VktHU1Rmem9nT2liOS1fVm4yeW9KVDZPZnVhMEk5MmxDQVB2b1htanpLRGpyQ2JpclRlSGU0Ti1tLVZMbUplX1J0N0IwYkZxaVh5cVJnb0VrVUtzVk9FZGVvY1pGSldpenBsTlEzYjhUNS1rMzBUeWRjeWZCV2NtM29wZVdTeFlaZk95Rlk4VlBydg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789196400
     },
     {
       "title": "The Biggest Game in Town: Inside the Eagles Media-Industrial Complex - Philadelphia Magazine",
