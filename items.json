@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-01T19:43:36.720311+00:00",
+  "updated_at": "2026-10-01T23:45:50.810176+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "DeVonta Smith injury: Eagles wide receiver expected to not play in Rams game [UPDATE]",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/185012/devonta-smith-injury-eagles-wide-receiver-legitimately-questionable-for-rams-game",
+      "source": "Bleeding Green Nation",
+      "published": 1790896214
+    },
+    {
+      "title": "Eagles Injury Report: Zack Baun in danger of missing Rams game",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/185036/eagles-injury-report-zack-baun-in-danger-of-missing-rams-game",
+      "source": "Bleeding Green Nation",
+      "published": 1790892088
+    },
     {
       "title": "Eagles-Rams Game Preview: 5 questions and answers with the Week 4 enemy",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/184989/eagles-rams-game-preview-5-questions-and-answers-with-the-week-4-enemy",
@@ -37,12 +49,6 @@
       "published": 1790852400
     },
     {
-      "title": "DeVonta Smith Injury Threatens Eagles Offense - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0IzMTdwamlSY3h0LVVRbG9DbFNLbURBWlVPR1RaRmNjWmJvUjM4VVlYUFBrSWNfcVRySUsyVXlLa1FER0lBMnB0VTZ3RWtpVlhULXpRSVo2bUxmRXhzOWlkd1pwYVIzTkNOQW9BOUI3QW9jTmlXdUowZXdCYjhQV2FHNEQzaFNIX1lZMVZMSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790822220
-    },
-    {
       "title": "Rams vs. Eagles Injury Report - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnNTandDWHNiY0VZMDItOTNIeXhmT0duYkdtcnYySmJfWWI4ZVpfckxLOElxbXFKOTRqZ2FOOG9TWEhLUFF3ZWNGUlJRUjRjanp3c1VyZ29xaWZObkxsTEhZU2NxaXNRa04zbjdKbjkxZ3l3ZHRoN2R1Rmg0NnJlVlhYMmRad1R5Skh5VTQwN2pLZ2dZdVZZOWdfdVJTUlUxR3QzXzhrc3IwMmZsbXc?oc=5",
       "source": "Google News — Eagles",
@@ -53,12 +59,6 @@
       "link": "https://www.bleedinggreennation.com/news/184918/eagles-injury-report-devonta-smith-among-6-players-listed-under-did-not-practice",
       "source": "Bleeding Green Nation",
       "published": 1790810860
-    },
-    {
-      "title": "Eagles Players Press Conferences: September 30, 2026 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZERWNF9XWVRmZXhJS0ZBNm41SkNkWVNET0lGUU54cElXMEp0Y1U5alVoMFV3R0JJNDN6V1lpSXZJUTBhc2xNZDRDUWp3b0RaSnNEZWpmaFRSaXhqbnVHVEJZOVFXMGFLaFVHWnFFTk1OeXRFN0NSZTE0SUo4SnlFRzVCUnVqZ1ZEUUJBYjNITGdPS0VLUGc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790810161
     },
     {
       "title": "Eagles-Bears Film Review: Rough game for Vic Fangio",
@@ -85,6 +85,12 @@
       "published": 1790796968
     },
     {
+      "title": "Nick Sirianni Press Conference: September 30, 2026 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkEwQjRUNG5sdEprLS1RNHlLOG5Ib0VEMHJhei0yenJYZUFxVXJoOEp2RUJVV3paWnZFejd0elJDc3lnNE5xUktIaTNRNXNFQjJQbEdjQXJZajQ2QU11TXE5RVFzSnltMXNZZnl3SFhBVm5oMVN0WHA0bU9tUTcwNUZheEpuLWhETzFyRGxES1BUekJDLVhsODg4dzI4OXlvRk5fcEJjT1NIR29icTJHMFpoRnVxUzlPNGhCTTFndkcwSGJpV0ljTWRGd05GU25HNzJWSXI4NjVmckla?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790790961
+    },
+    {
       "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Sunday Night Football Week 4 - Rams",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUnJoS1BxZF9qYVNNcDdsVVVTR05uakY1TDNwc0FTUGFsRDJRMHFJaDl1YVhxaGtPbDhMVWNoUGV4WTJoa2xHaHpOREJKSjQ4VnhrN0pyOTdYNk90MlVBRl9BU0xpX2dvNVFXQ013RjlsNmV4enI1LTcyUWk2WmRiNFlySGZEODBDWWpSVmFFTDhQaGF4aDRBa2xodzhMa2N4aGxyZEtOTlZUYjNRQWZyVkd4N0tNejB5amRfcVBjQUJLN0FDU2FWdmxPWGw3Q21PU254ZEJDNWg?oc=5",
       "source": "Google News — Eagles",
@@ -95,18 +101,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjA1V1haM01SRWJkaW9sNmVKVUQ0ZzYzNWxZV2JSR2lBUGc2SGVPdENBZDRwYU13eUlIalFvcE8xaFFZdGlZV21SMkthMGxuc1hsUUpxMkxYV3o3M3pXTVpsaEg3THdBSzVyQWJpWkMyWVNRVkFCLTBKX0dIc1p1OUpjNDdXS0NZUk9tLThNMm9kZzVENXdNQ1ZzSVR4MktXQVdVUk9sajhiWkZSTGVKaXdYejdMamd3aHFVbXBueVpSM3pXZ21wRVJxdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1790786462
-    },
-    {
-      "title": "Eagles News: An undesirable new franchise record",
-      "link": "https://www.bleedinggreennation.com/news/184823/eagles-news-an-undesirable-new-franchise-record",
-      "source": "Bleeding Green Nation",
-      "published": 1790770821
-    },
-    {
-      "title": "We finally learned what makes Jalen Hurts really mad",
-      "link": "https://www.bleedinggreennation.com/news/184801/we-finally-learned-what-makes-jalen-hurts-really-mad",
-      "source": "Bleeding Green Nation",
-      "published": 1790767925
     },
     {
       "title": "Here's this week's Roob's Eagles Stats: Proceed at your own risk - NBC Sports Philadelphia",
@@ -145,6 +139,12 @@
       "published": 1790708784
     },
     {
+      "title": "Trying to Decipher How Bad This Eagles Defense is - Crossing Broad",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnlnMDhlQ1E0YmVrek9iUlRyOHpFNV9GWXM4OUV5Skl6bmpocHVQejdkQ1Y2cUNEMVBvVGFIUkhkOVhSOE13aFRxc1BLYWstc3ZkWFM3a2JaR3Y2UXVwQ2IwR2pNdnZQMUVuVkpqOGZRUnUyME01NmlWZ1QwLW9JWTdZcGFfOXlEODloSThwd3RzbzBDRXNF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790708400
+    },
+    {
       "title": "By the Numbers: Bears' Monday Night Football win over Eagles - Chicago Bears",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVzBDUlAyQWlFNVg0a2pFZHJzNkpfSGxidy1NYmtIWUtxMVhscFRnYXZYZ0RIVGkxVTYwZl9hSlNoaS1ad0UxSkNPSlJQZFVBT001UlBtbmN5bkJ3TjlUTkNZbThhVEhWRDNObnUtcjkxdVkyeVhnTmdaLU0zQ0NBNmlFQ2NmQldVQnRjS0pxWGFxZGh1U29B?oc=5",
       "source": "Google News — Eagles",
@@ -169,12 +169,6 @@
       "published": 1790680566
     },
     {
-      "title": "Inside the Eagles' strange and disastrous sequence in Chicago - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNHBjME12cXRydlEzRzlEVE53VWFocUFqVG55NkVtcmUyazFGZDlGZWFmakl1eFRuaGxEMzVwN1N5T0lzeHBlM3pPTmhzdkozTGtQak5GUkRta1JMcVlEVV8ycVV3ZlVBWXV6cV9Cb2RZT1FVbUplQzBxSGt3RFpyQ0N4dlZyV3d0d0FoYkwwQXJKa0xtUGpZU0RINm9IeUlRUFhnVjdhZWR1dlNncnJxU1dGbTVBZ0ZPX01UejRUUi1aY3RhYWlFRm8wNWxIRTNlQlZhSDdXdWFZMTBteFpjZ0VtZl9sd3kxR0xQY0lsS0FNTEFyaHV5WXc5S3JmQdIBhgJBVV95cUxPLXNxdURuakZNQmNfQUt6MXNKQkI3ZGlyRGphWU9uSXgzYzZIa1lfT0NVZWk0VVZiMHBPMU5rOXJ1UWc5b3pjWDVkODVLMEZSLXFydEx3bm1aQks5bDJ6SkxpRjB1SDFKeDc1Qkd1M3drVW5Odk12Q2hXRl9KSHZtdW5oRTRqemNOb0ZoMVlXY29qanBNRWNXVFR3azYwUGYzSk52TXlvSTJKYmwyVjhTRmViT2F3SmllbVBaSjJBNlJuUURxYnV0ZjlYSm1WNVRUVEd3M3JRVEEzY3UzeHFIaWhxWDdVeTE1c29HS3lKd2xJcGs2dHlFanFYaVhTZWhIdFR1TEhR?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790679600
-    },
-    {
       "title": "Bears call on QB3 Case Keenum in rousing victory over Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUlQeERDSXMwMGdhYlhYcXBZWWg5UWYzR0NjUklWVE8yZDNLVWVDVWl5WnRwREhFd0phRVZWNmZNNUIwUGh0akZlYnhOR2F2VWNxeVo1emdFV2UtTG5kUDJXXzlTUW5ZNEI2RXgxTGhFYUNwWE1jV3NMMllEZGJ2d28yQndJOEw3ZV9IZ3AzUWl2b2dxVnBBdGRn?oc=5",
       "source": "Google News — Eagles",
@@ -191,6 +185,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVV6RTdRa19oNVU4REVOdVRULTFPSGg0VEZ4UDBxXy02THpWcC1Kanh6UGlzUk90Z2sxeDRYR0tJbExYU2xEN2tVQndIeXF5elByeDg4RjZvQ3h0dVNzOERINlUxYjdiMXN4ZjJoZ2h5NkxSRWZoZUlfM0dYcklvSGF5UXlZaEJublBMc09pV2xsS3gtX1YyRmNSOA?oc=5",
       "source": "Google News — Eagles",
       "published": 1790664155
+    },
+    {
+      "title": "The Bears' grades are in. How did they do against the Eagles? - Chicago Sun-Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOODgyamxOVWRSeXVGdk9Ba1RuRWRzS3dScE1veTYtTlA2RnV3cldzY3otOXNpUlh0a1luaUZwblEtVUYxOU5rTnVTNElLQ1JfNHlKUmxvN3RjU195Y1BxRkJ1cFI3RmQ5U3N4TkNHU0xkUkdRNlZpWW1sYjZ0ZkNEY1NiNDN4VE90V3htbVFnWG1WOTlIMjl6Wnk5MHZMSDV6b1lvNnVBTHJBWlBad21WOWdFU1R5a3FocklJeTlWSjdTQVN3aTYxTzhB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790662500
     },
     {
       "title": "Game Recap: Bears 27, Eagles 7 - Philadelphia Eagles",
@@ -307,6 +307,12 @@
       "published": 1790595141
     },
     {
+      "title": "Eagles-Bears Week 3: Six Thoughts With Final Score Prediction - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUdpalp5Y3ZyNER4dy1BdDJHNjhKamdhdFVYMUctVzAyV0tZNVNjY3RDejRzc2xFQjJJSjY3Xy1qd2FoVmxDamx0aU9NX3NzcUtib08tdEFvZjlVWWpsLTVSZU5YRFV5cktvQl9vZ3FZNWNUeDd4YW1tYlIxa2FSUEpzdlEzZnlWazFMWFhvTlowMTFTZ3RmTkQxNC1FOWtiUG9WR0N1VHJVNlZFbTBwbHQtV3lZakxrUzNtalBrLWlOa0tXbGRR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790589603
+    },
+    {
       "title": "Eagles' DeVonta Smith is headed into another stratosphere - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFJIb3dpemsybDdyM3RlYm4ya0tWQTB2dnkyTEg3QTVFUFJZdVNldzRUc25OeW9BY2drTFVpaVdBN3A3RVY4TUZWSnNEWVRpT05GRnhMZlBsU2NORWEtSTFWc3dTMHVTNFBhUTc5b0xrUE4zdWZsNldlVVUwbjhUUmg0ZDl2V2RzMFhuNV9zMzhBQ3lGT29VdW5FLVRSdzFjMmc?oc=5",
       "source": "Google News — Eagles",
@@ -323,6 +329,12 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWW9KcDhiNE9TWWZTRzhISk16cFU1MFVNQk81Mkhya3JRQUxqMS1jNHQxSHNENFMyU2FGT0lmUFVBTFRxUzY2S3RNbFBmWGdGWXBvbllBc2c2Nnl0SWpidnNDa012ZF82aTlDekpTRF9BZ2w4SktCclA4NHZKaDA?oc=5",
       "source": "Google News — Eagles",
       "published": 1790563785
+    },
+    {
+      "title": "Chicago Bears vs. Philadelphia Eagles Game Picks and Predictions - Windy City Gridiron",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmV0S3hNU0l2dnduem9KZ1FLcjlLd0dVZDdnR2tvNURDTGFwRUhzeEMwcmVnMDhvY21YZXBhYy1OZEN2RGZ3alpObVJ4LXhEdlNBMGprcVZXREo5NEZtMndJSi1VdmRFanAyeUdKczlkNFNVRl9GNWpVR0tPQ0NNNjk3eF9adi04MjNSbnh2Rk5pX0NuZGJZbzdGbENmUGtZdDNxY1laT2RldDAtM2ZXTjVDdUxvdS1VVEJrcEJzT19GN1BfNkE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790539200
     },
     {
       "title": "Eagles News: Philadelphia’s top priority against the Bears - Bleeding Green Nation",
@@ -421,18 +433,6 @@
       "published": 1790247900
     },
     {
-      "title": "Sean Mannion: No accident Jalen Hurts looks comfortable quickly in offense - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOUpDWTdXV2VrY1BKSElhdVhVNXZvR3RPUm5pTndrVEVaSzRpc0JTSng0NnZYWVJxVW9aN0lXZXhMNHlxSEhqTi0ydmpzZTZ1MjhQazZZN3ZRdkR5RVdSQVViaUJJc1c0YWNpaFJKcFktNmFRQ3F1WjNmNkt5YWU0emdXMWg4SkltemJsTHdDOWZtMlpyMktmbXVEUWR6VjVuSDRBYmE0MFk3TV9hcXNVQXZ5R0o3RkJjVmc0dXYtVU9SUEhpY24tc2pLYXdlaDUwYkw3S3V5MVpEYjNjUmFtd0hqNGk5Z9IB7gFBVV95cUxPYjJZQVphUG03aHpoMlJkcEQ5aUdNbkwtTjF5RnNRM01FUHluZXdDMU45MzRZUHFzdnZ6LXNMeDB6UlZUZzVsV1R5bnVtMGZ5MUY5MXJUdkthM1FqQjV5aXk1X2tnZUdac20tRXpPZlNnYXNKeUJSbHR4Y0lRTkI2NlR6cGlNYTJMc21TWks5Q1UwNU1KWFFXa3U5WmFoa0tPOXVENGpqdld2M1JXUnQtVFlmLUlDWWlPTkl6bmx2ZURJbDJPanBya1J1eDREZ0R4QnRuek5kYTVXWE9DTGdNd3RNeXBqM3lLNGlfV21R?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790247600
-    },
-    {
-      "title": "'We're ready to fight': Group of Eagles tailgaters expresses concern about new tailgating guidelines - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjI5REVvUWpGcDJlZ3R1aWl1V01LRXZ0WGNMWGRmWFRia21rRlBuSmpTejNiaEJPZU1XMTRwWHdzdU14c0RfQW92aGZoNmpzVkwzbTVIZGlpYlFKci12NWtPWWlhX3YtVHl5X2FlZWFFVTBCbWtBb0Vwa2hHS3N6bUc0d28zS21fVE9KUUhpZlBOLTJyejNPcldnaW5sczdFOXp4UGd5WUQ2bUJZcFREWk1KOExGOG_SAbwBQVVfeXFMT2NNWDd5MjhRZ2ZWZW5xYWN6V1ljRG1PbWNrczNlSGRMR0VpNU5NWnFlcHgzVmR6MG4zZHNXd3p3RjVvbTVyRXRoTHZaT0IzSEhKWUJaNEx0MFpPa05oUl9ONGZMZV9vLWhUR2FxVDduTWZsSjVBdTRBZ0RJLWRlVGRDMmlmRndnQ2hKVFJKWDhZRTJwa2tEWjVfNGpxZEVGdlY3QUczNzdrcnpOazdtRlZGQW5QTDFDRF8wWjg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790221352
-    },
-    {
       "title": "Rams sign S Maximus Pulley to active roster off Eagles' practice squad, place RB Ronnie Rivers on Injured Reserve - Rams",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZWE3ZnVVaVpwdmJkbXdRb3cwUi03R2tvWjRFV1NjUHVpRDZ2bTd0WlBlV1JQRUU2SERLQ1Z3LWZ0Y3FwcmNWaVRjS0JDaXQyR19VaTlGVXN1Y2tKNTUxdW1OaE0zd2t3S0tTTFRBckRTVTJNRmtRYml3X1ZYcm5jMW1EM0RNTDdBVU5HT2JUUEhMRHRER0J5amtYS1JFOFZuc2ZWTC1LdWZQcDZjSkppTFdpOUlZTGpyeVVaLUpGb3FEVVNkUVRqdWxtZVRrRE9qb2NYV0NNVQ?oc=5",
       "source": "Google News — Eagles",
@@ -453,6 +453,12 @@
     {
       "title": "Eagles-Bears preview: 5 things to watch - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnV0aDBIU3lQSVQwOURJXzJsSjk1S3lZZTE1aFBSSF9OdF9tOXNaLUJWN1lTaEtOYTR6a0RnZWF6QTZNVVE2aEV1aGZTY1pJY2lLbWhSSVE5dG1Rc2FLZUc0cGk2RzEzcGstRWJXalhQdmpLMHptRzlpNThTTGpfdXR1MUliYktYYm5tLU9VdmlkcUo4c2NFVFFLOA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790146800
+    },
+    {
+      "title": "'We're ready to fight': Group of Eagles tailgaters expresses concern about new tailgating guidelines - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjI5REVvUWpGcDJlZ3R1aWl1V01LRXZ0WGNMWGRmWFRia21rRlBuSmpTejNiaEJPZU1XMTRwWHdzdU14c0RfQW92aGZoNmpzVkwzbTVIZGlpYlFKci12NWtPWWlhX3YtVHl5X2FlZWFFVTBCbWtBb0Vwa2hHS3N6bUc0d28zS21fVE9KUUhpZlBOLTJyejNPcldnaW5sczdFOXp4UGd5WUQ2bUJZcFREWk1KOExGOG_SAbwBQVVfeXFMT2NNWDd5MjhRZ2ZWZW5xYWN6V1ljRG1PbWNrczNlSGRMR0VpNU5NWnFlcHgzVmR6MG4zZHNXd3p3RjVvbTVyRXRoTHZaT0IzSEhKWUJaNEx0MFpPa05oUl9ONGZMZV9vLWhUR2FxVDduTWZsSjVBdTRBZ0RJLWRlVGRDMmlmRndnQ2hKVFJKWDhZRTJwa2tEWjVfNGpxZEVGdlY3QUczNzdrcnpOazdtRlZGQW5QTDFDRF8wWjg?oc=5",
       "source": "Google News — Eagles",
       "published": 1790146800
     },
@@ -483,12 +489,6 @@
     {
       "title": "‘I needed an IV’: shoes melt as turf temperature reaches 157F in Eagles-Titans game - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXhxWGpBQlB4aWhNSUE4MjFfamRKZ2FmcXRrVE1fOGllVlJ4YTV1NXl2WEtwUTBrZW9sZ1pNRVVlTVdmMjNoSWEtN0xJTUdCbGhJNTVTZUJ4SUFfVmtOVDJMRFkyYTJqSHk3Z1ZUdGFVQVg2bDFaMERyVHJscHdYWjdBbk1IM19hLURFWHZQcGR3WWYxeDU0Q1phMVMzUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790060400
-    },
-    {
-      "title": "Sources: Pro Bowler Kenny Moore II to boost Eagles' DB group - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2g3ODIzVEFZZWluV19lanhoSGxHY1F6RlBHY2lpVnlkb3hPaklxN0w5alpUUk1jcjJxbVA4cjFtdE5QTEhhVnlpbUdNRTRUcFRuM0wwXzZmdTRZbGJ3WGlhNTN6WHc2TGpLa3B0cFI0b0xjLWVGMHBTeHBRTjh4cV9la25Td2pDb2YwX3kxWVE3LXRCc3Q5MTVXQTI3WmJvTHc?oc=5",
       "source": "Google News — Eagles",
       "published": 1790060400
     },
