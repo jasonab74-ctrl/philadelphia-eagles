@@ -1,22 +1,40 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-05T06:38:54.192734+00:00",
+  "updated_at": "2026-10-05T15:39:52.463790+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
-      "title": "Game Recap: Rams 24, Eagles 20 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXNBWmdqMC1UbmhoMDVFSVBVMjNmRHJfX0ZOZjl4TDlWV21PWEI5c3FxUkFFMC1CVTE5LVZqTlBMYWxGaDI5Tnh4SW54NjBqWl9yRG42YW1mLS1vcnZlak9MWU12VVBhOFdsSHBNek1FbGR1ZUV6anpuazZRMGNhbUk2eE1MaHlhMmNrOVZDRXktRWRzNmdTSW9KMnNmRlo5RzNONGJLOG1DV1RhamtvTElxeWFyalFQTjVZZkFnY1p0dkJNSlRONVNCZTJFR1B4?oc=5",
+      "title": "Eagles News: “The Nick Sirianni hot seat is real, or at least it should be”",
+      "link": "https://www.bleedinggreennation.com/news/185621/eagles-news-the-nick-sirianni-hot-seat-is-real-or-at-least-it-should-be",
+      "source": "Bleeding Green Nation",
+      "published": 1791207820
+    },
+    {
+      "title": "After 3 1/2 quarters of outstanding football, Eagles' defense falls to pieces - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkdnbFdGa3RFNGs1Q2p3VzJwLWczVnZqdEtmcG9yTGp2MTV3N3A5TDF1WFlhTllEbWdoZmRXY0ZCZUNsRVB6Vm1TQzUwV2lGTUVzb3gxTmI0c3ZVVTlya2FTVGFPZVlzNnFUc1JzUVowYm5ONkNlaHhValVtZzdxajd3TlZFUmN3cDdUMFJJd3FfdXdhSklNUXBncGdoNFhFOGJWQlUxQng4TDF5VF9EZ29zTm5LYm1VZTBaX1VoWUttbzMyek1Ick5tMEJkd2YyMDBR0gHbAUFVX3lxTE01UUkzRTI2Z2NabW1FMjRWYzgtUVh1clNiVUZrODE4ellOQUtfUW1ZaEdzS01VR2gzandrWjZzR1Vrb3lCV3o4RzVhY09Ub2lsMDZxRjIwMWk0TzVzbmVtTzFhbnhtVjNraXdXS3NuQVB4Q3oyZHg2cGdBTG41d2otUUVkVF9NNXBZZ2J1Nl9HbDJXVzRiQm1GcGhRekg4ZVA1THBhd0V2Mk9oTmR1MHZHeU9fTTFjMHJUUnI4c1F3QW1hSHhIS2FhV2EyWU5MazFTb0I5eENpM0hlZw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1791177975
+      "published": 1791198000
     },
     {
       "title": "Game Recap: Rams rally for 24-20 road win over Eagles in Philadelphia - Rams",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak5OTXFWb3NFSmdaaUxmdW1QakR3bERKbE9lampiT29oMC10Q0VXd3Z2ay1EU1FjeGlwYkNRSHlUQnY1RnBFeC10c183cUNFejRvVzVXSlZoaC0wZ2lvcF9YbFM0eEY0LV81VzlYdXFEdXI1emdCdFBhMTJKMXlTcTV6Y05WYkU2RF9DZUM2MUJNTEZCR0Q1aEV3MTd4Zw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1791173585
+      "published": 1791188100
+    },
+    {
+      "title": "‘He Cost the Eagles a Very Winnable Game’ — Emmanuel Acho Blames Nick Sirianni as Philly Blows 10-Point Lead in Loss to Rams - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkdLRXdsSWFkT1hJcG83bVAxRkFET0hwSjBHTUVQU0ZqRVpMYUNtazBWU2RBb3FRZTZBaElzQ09yTFJiOC1GQklDckVCNEx1eV83OXppcXk5TDZkc2Exbl84WTV1UmhvWFdlRjROb0F4aG1YaEVOTHplWjFObDFsME5Ob2FvZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791187833
+    },
+    {
+      "title": "Eagles vs. Rams: 9 winners, 9 losers, and 4 IDKs",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/185561/eagles-vs-rams-9-winners-9-losers-and-4-idks",
+      "source": "Bleeding Green Nation",
+      "published": 1791185512
     },
     {
       "title": "Eagles vs. Jaguars odds: Opening lines for Week 5 matchup",
@@ -29,12 +47,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekk2SG1MSEltZktDQWdEWHNGa0pCay1JTDZManZfVW92djlVVU9yRnZJMW4tUGFRd2wtZ19rUERfTWFGOF9oSFJxTE1aVThMVHZ4dkIxZG9YRlBfVnVTdkI2X3hwaGxXd1cxY1V5OXM4U0E5TmRxTU9nb0R0UUNDeHVOV0FScmtHWExEY3JjUElkV3lkYndmSWxWZWYzZVBKM2c?oc=5",
       "source": "Google News — Eagles",
       "published": 1791171900
-    },
-    {
-      "title": "Eagles tailgaters navigate new tailgating rules - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcnhCNTlyT0pQaldiTElpWkdNOEpsbjlmTEZZT2pyM2pTLWU3Uy14Y25DVmZrbTNrdEpWNXdSa0F2WVhmUGQ2RUJuVEkzem05TUxLOWxVNk93OHBPZ1dkWkFkUXYyb19OWUNyX1piTGVnUjg2NEZsSGhlNlBNOGdwRTltcGc4QWdOOTdYSHdOZ3hIYmpGa3JWWlYzONIBoAFBVV95cUxNQUs1VUd3VTFxbldNNXYyOGp2b1hXT2NJeTd0U1RIS2lTcWJWOU40Z2pseVpJOGZUM1A2ak1GdDUxU3UwOTlXUl82cFZnbDNuZWhsc2J1UlZxRGVpM1ZMTE00Z3RqckRqeDdmdjhZb2lFWFUybVZ2STA3REJIam95Y3RrMERtMGFZWndLdmFvSG9hRVdsQVFQRDNpNWp0YUVG?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791171116
     },
     {
       "title": "Jalen Hurts cited “poor execution” for the Eagles’ offensive struggles",
@@ -59,6 +71,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdml4UUlwQ2Y5cXFfY2FnbFkwcmQ0YzEzd094VUtQTkY5TVlBd0JkYWRCQU5GeGdHSE9EQ2lUOU4xTU4tbFVJaGhHdnZfQkliQkdpNmNUR1RaT1lqVmpDOXNuZVJNb3NGVmdoNmw4dlY4UnBrSWdQZGpHaHN4cnJ1cmdvTFN0emlsMTZFaE5OaDhEd0VvOWZfbkNFTTZ4WTFuczZ3aU1OMmd0SVBZelE?oc=5",
       "source": "Google News — Eagles",
       "published": 1791162450
+    },
+    {
+      "title": "Philadelphia Eagles Run Out of Gas in Week 4 Loss to Los Angeles Rams - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkdhU2ZJTUxVTlBKUnpoanpVdEhaTnVzTVRWcVBFT0RxamJtdXptWDhLYnB2QUtkZVBjRUxEUkJGaE5oWHBFaDJ6Rzk2c3pJRTVJNnpjQXVOdkllZFNPaTg5V0FjamJUOGpzOFNoVU8zRkFXVDBDZWNZRGl4V2dJZTlqMHkyWXFQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791162060
     },
     {
       "title": "4 Biggest Takeaways From Eagles Collapse: Letting Jeff Stoutland Go Was A Mistake - Sports Illustrated",
@@ -109,28 +127,22 @@
       "published": 1791151925
     },
     {
+      "title": "These 4 stats show how poorly Eagles' offense played in gutting loss to Rams - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzk0TldhNHlkZ0xLdWs2c196M0E1cW01U3p3bEtiWmNhdEVWYl9sYnNxVWUtVTBQak9YRGtzVmZNX0VfNFNjTDg4SjlJRlYzWTJFdF9MV3lHVUJ4UHBpdXNqTHZZZHVOREh2ZTBDN2NheU90Z2hzX1V4dlE5RGFGOQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791150786
+    },
+    {
       "title": "\"THAT'S HOW YOU STAY CONNECTED!\" Sean McVay's victory speech after Week 4 win vs. Eagles - Rams",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1BmaGZrdjJ2ZXNUeXRxZ3BtZmtRNlJ3LUVMb2dzS1VjMjBBLU10Qy1MWDZYMGQtLVhwcHh4OWVFdVJIZzVxNHlqbnlyUU9GV1RVSUU0Z0pxSENfdHRnZUlfVWp6dmJwSm1oREd3SzZvczg2SzdnZldiYkh4UDZiOEtISW1jWHZueDJBeDRMSzJQa0NEMnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1791150063
     },
     {
-      "title": "Colby Parkinson, Jaylen Watson and Aaron Donald among Rams' inactives for Week 4 at Eagles - Rams",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONV9lRmd1V2RHaXhHeXd1VzhJMkh4T1R0OVp6ZjVqLWVZOXdpTjhDYXlVbFFmMFc1WVNONUd4WUd5dXloMDFxWWpmTmNTNkpBdlFiU0NSUWZZSE9EXzFHTlVfRUNkbmtzVjBkenJYZnZYOGVHa1hlRnR5amhDVml5VlBhbjJQZWxCNGNoMGxIMGtud3pqQkgzNUViYjBBZjFqY1hhVWxTLW1LSExC?oc=5",
+      "title": "'Not good enough': Sean Mannion's Eagles offense has an identity crisis - nfl.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0ZXbHEyU3pBWFNmZFFQcjNGY2VBQkN1bVF1dzBYQmZMYTdENlNtRlpDbGVZTjViUWRZdGlvdHFNejdjeFNLSUZoODBHakZtNkhocENXX0FCSU9xMVRwRjFFeEcxSE5yb08tMmRyNVh6cmxaX2xyX2RfTXNfSmFNTG9uejBiMjFQamQyRW1aM3Fkd09MNnN6ZQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1791149735
-    },
-    {
-      "title": "Inside The Eagles Collapse: How Nick Sirianni Instigated The 4th Quarter Disaster - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHQyb1RmM3l1Q1BtcDZvbEVsWjZ0NlNuTGx0NXpxNWZ0TUt5b2dtWUpVdll6cUFJTFNhaEZKdWlUTGpxR1dYRUI1a3JuWlJsaE9xR3N6Z285T2NmMTE4TThSYnNqeTduTjdvZ2d6YjBac3VZcVdGY1MtYjBGMUQxbnF3MVNpNEFCV1FCNV8xT1N6dGhKLVdiUWtja1RkbHE0U1NxQ3JjZjNOR2dMcXlBRjBaUVJUWmQ2Y3JVVVdQbHhaY19pRjVB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791149729
-    },
-    {
-      "title": "It's time to apologize for blaming Eagles' offensive struggles on Kevin Patullo - Inside the Iggles",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUdwZ0hJb0dLR2xjXzZMeHltMGtGWkVDUFNSMlZTSmlScnViNENpa3Axbl9EVE1yV214MDQtWHdCNU5OTjBKeHVKSWxfTl90dEZhNDY2SHBSRGFHNlNHZFdMQm9sWVJ2UWppMWc5TmJtZGEyOXhXOUFuOUNWSS1qQ3J2NnI1d2Z3akFOYWdwOGIyekpUcFhaRWtoT0dVYXhjdWhqb1k4U2Ewdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791147460
+      "published": 1791149460
     },
     {
       "title": "NFL Week 4 Late Games",
@@ -145,6 +157,12 @@
       "published": 1791146507
     },
     {
+      "title": "Instant reactions after Eagles blow 20-10 lead in 4th quarter to Rams - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUDZ4U2ZnVmJSRGt6M0VXMjhJQTRET3c5bUNXQjFnQV9iRkFKTXN4VFNHcllpZVV4Nm5mWFhlVFpPd0tGSDROXzJ1dzFqQkNfNzktekJJcG5xaWNFbWxJdTl1TFk1Tzg3QzB4WWZvYUFYRkg4ajE4RDZOLS1zTGs1Y0pSaEdSV0p1Z1l6a0JyZVliVDNQOFo3X3lNUnNTdllBSHdFRGt6NGlOUHlIWjNKRV85Rm9pajZXck9wZmxlQW9HbWdRQXA1eGh0UjVpeGhxUEZESkhNWlJzT0pRUEdybzA1QW81Z3fSAe8BQVVfeXFMTTlTZGhtNmQwcTB1a3JpSEdnczZ3Q0phc05LaXRXdWQ4U2RFbVAtVkVneU1BMG5fdEd5eWJtMk9TOUYxTEQxRUNFX0pOZWIwOFppWHdmQTJWeE9qbVFoMHloQm1BNk1FUmExejg5WllWSXMxQ2J6UmEwNm81NlROQldqYzFpajNMSk5PWG5MeVE2NklRTXFNQjVLNE1CRVdianVvTDVXd2ZHYWY3QVVEa05BRC1IV1JEWUF6UlloU29sYXZOQ0RIaS1xSGJ6REdMd1E3d042NXlHOVV1ZGdGMm1CYS1vQ2plWGpnelJ4RFk?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791146073
+    },
+    {
       "title": "Los Angeles Rams vs. Philadelphia Eagles: Game Highlights - ESPN",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50TjA4ZTZENTFWQW9yeWNnNGkyME1JMHQ0QmNKMHZqcDVNUXMxaExjNHgzUzdhV2Y1WTB5b0NXSTFGME9Gd0hLRHdZZ2FidkhpWWdUbWJBU0hKd1BaLU94Z3VfSjNTbUtGVTBUTFFB?oc=5",
       "source": "Google News — Eagles",
@@ -157,22 +175,10 @@
       "published": 1791145358
     },
     {
-      "title": "Eagles-Rams final score: Philadelphia blows fourth quarter lead as offense sputters",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/185378/eagles-vs-rams-live-score-updates-highlights-injury-news",
-      "source": "Bleeding Green Nation",
-      "published": 1791145266
-    },
-    {
       "title": "Roob's Observations as Rams take advantage of injury-riddled Eagles - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEVlT1M2QkQ0c0ExVnVabi1VVDU5M0drOWJNTUl6R2lqV3p3MWxNUDg4U1k3VHA3azhYS3FyTjRYckFmVGVrcDFlV0Y3c294Tml6anlXYzVPNkF3YVdYc0V2QW9zd2lSaFBnUTBQRlFLM2lhTU9yOUdBTWlKVE1sNFFHY0VSLThnSDVlNTZKZVNKOGIyMXNQUDdJMmIxc1hweWtoNTJ1dmlNQ21PUEw1NEtlTDVFX1kxb2lMM25QcWhfT3preWRkMll0T1NNaDl3SkHSAdoBQVVfeXFMUG9mY0pTY21OYTVMcU9fc3Z5MV9LZS1TUVV1a3JJRF92TUJ6UEhIQUhDa0JoUjlkeVQ2Ti1sY0J0a25xUUdZd1lSNHpRbUthRHlXUVhJQWVUN1RiX05NNHZUNnNSMEk1X2ZhcnhCZGxtX0NMSVl0WFBKYkwyMmdENEFZYTBmN2JjS3pOR3FKM2QxT1FUZVl6NEJtMEt0VDFBOWF0N3ZSQnhpTUpTMVdtaTVmM3lPTjFsZXVVaHRSa2pTQnNyemVJNFQwczdzX2x1Rlc0bDFzS0dMMUE?oc=5",
       "source": "Google News — Eagles",
       "published": 1791145067
-    },
-    {
-      "title": "3 Eagles defenders injured in second half against Rams",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/185472/eagles-defenders-injured-rams-quinyon-mitchell-jonathan-greenard",
-      "source": "Bleeding Green Nation",
-      "published": 1791142728
     },
     {
       "title": "Eagles grades by position after losing to Rams in Week 4 - NBC Sports Philadelphia",
@@ -193,16 +199,16 @@
       "published": 1791137827
     },
     {
-      "title": "Saquon Barkley leaves Rams game with injury in 1st quarter - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFpaVEt5VFNZVF9TYkpNOTJRRjkyMHV5cUNNSTVOWkctQnFEakJSdVE2MUJyTlcwVW9kWm94NlBUZUVpM21aaW5DUkhnWGQ1X2U0WGt4M1FtS2xjVlFzYTlROFY1c3piQXdrZkFUWkN5QVc1ZlB2b0xuVFRMR1Ftc3JXVVdmMVZlSVZ5U0lQTkVEWkZQMXN2ZjBkLXo0c28wQWxyQjFKT1dIbHhocFFv0gG3AUFVX3lxTFBYeGp4dUVnMWUtb3U0RzN3WHAydXAxTmZtLXVuNlZfZl9fUnBKSC1td1JFZmFZNEdLQzF5cmN5SXlZNXdITFJjUkJfWVlzOGNIdWNYV2MyVGJ3V3JDbWpOQlR0MGlSWl9fQnY5WGJ1WHRSbml2VTZOcFBXenFScEtWeTdfX2FKV0RrbHl0ZG9CMFJ4QXFoZHNvaXpiZ1NSN0I4RXVVWnlEdzYwc3VYQmRNZHFVU1Z6WQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791134885
-    },
-    {
       "title": "Game Preview vs. Rams: 6 storylines to follow - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbmUxUTJwQXVyNTduelZMZF9LYjBvYlJhX1R0UkczUXZORHIwR3B5ZHp5cDFma1dkcU03SzNaNGVpYlMycW4zQUdqZDZ6OGRkWE5EcTdxZnphdUdvV3RIc1VqNWtfc3Fvald6eDhzYllpLWpqSnJnSHdDbnlTVXV2RUNsYUhlZVJ5SHp1UE1vc0pXMWlkNVJiZUpCdTgxbTJCY3JUczREazNfUElCLXFtUG95OFh0Q1Y0RTk5T2JPNTFkNlNwZmM2djBZbmE5Q3d1cVlTUmE4RmZUVDBtQnlRaDVweHJYQ3BXR0lvZHY0NTN4WHJNY3JEMg?oc=5",
       "source": "Google News — Eagles",
       "published": 1791134520
+    },
+    {
+      "title": "Game Recap: Rams 24, Eagles 20 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXNBWmdqMC1UbmhoMDVFSVBVMjNmRHJfX0ZOZjl4TDlWV21PWEI5c3FxUkFFMC1CVTE5LVZqTlBMYWxGaDI5Tnh4SW54NjBqWl9yRG42YW1mLS1vcnZlak9MWU12VVBhOFdsSHBNek1FbGR1ZUV6anpuazZRMGNhbUk2eE1MaHlhMmNrOVZDRXktRWRzNmdTSW9KMnNmRlo5RzNONGJLOG1DV1RhamtvTElxeWFyalFQTjVZZkFnY1p0dkJNSlRONVNCZTJFR1B4?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791133406
     },
     {
       "title": "Eagles RT Lane Johnson surprise inactive due to personal reasons - ESPN",
@@ -227,6 +233,12 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmphcG9SZU52T2lkb1BGTnVMZUxSOEYwa20zRjFZV3FMLVBPeGo2ZXplVFpXTHhtTGRjVVdXNDNhWm5zMFpXYVkyWGxBaFA2VVhoV3phbm9ucHp2bU1GR19BUUVpRjBqeFJnWlJnUHcydXZpMFZ4eGh5eE5Td1RZTHljRTQxeGZrdmpOTTJEa1NLUlNPWUhhTTNOTWdqSFJXU0cw?oc=5",
       "source": "Google News — Eagles",
       "published": 1791066136
+    },
+    {
+      "title": "Eagles News: Too early to write off Jihaad Campbell - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTdyaksyZmxnMEEzbEVJMlNRSTFYRzR2SlZPLVhJdmxQbTVyQ2RNUzFVZ25JSGpGck80X19VZjRNS3d3dllJajRJNUo5U29LaEhWSmNDQjZwWmI5Q1ZfRmFZTzJDb3FNbjd5VldTUnR5dFlwdWkxRm1LRGc0QUF3TXBOcWs5V3dubEdjM0tXTnpkM094YTUyQWVCUE5BWWs?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791056855
     },
     {
       "title": "Top Rams News: Previews and predictions for Rams at Eagles in Philadelphia for Week 4 - Rams",
@@ -293,12 +305,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb1RHd2hPd3R5Z3h3M1JhWUdEaEN2Q1plSVpBakJ4SEU1S19pNG1EbHZ3dUtTeVQ4Wlo2MVFqXzh5bHhrRHpjbDUyeHlTcGszcnNlMk5vNkVFVkZFTEpLSkRVdXBnbS1tUF83Nzl2TmpOZjktREhVR3hESXN4Mm41eEI2VWg5OERKRHZ6SDgycURid2JIbDAtM1Q0N1U1OG1Ubjhld2tPOXJiM3J4OUFQNl9BTWh1TVltZEhNU2c5WWVkc2Z2MEtoREQ4eVk2NjlBRmVPdW1id9IB3wFBVV95cUxOSzQ2SVo5VWtKVDNsM3dnS3BlMWhCM3VkUzIzNHhYRVByWHB0MExxRy1QWGR1QnZpZDFlQmt0aXNidDhrM3BRSEJ1Q0p6Qmx2THR3YTdpM1FTaGdoaE5PVE53ZXFWbVgyVjRabTVUS0pjVWFNeGI5TWFyUEVHS1R2ZXY0Q0U3X2o2QUNXZlFwUFUyRzRSd3FSUXhaY0lmZ19xLUpsaFM3Ri05aUhTbEM4X1pJaHNBV1UtVHJySTA4Z00ycHVGZmRhTHNuOEExTXFfekFrMG85WjUtbm9ma3Nz?oc=5",
       "source": "Google News — Eagles",
       "published": 1790958119
-    },
-    {
-      "title": "Eagles News: Too early to write off Jihaad Campbell - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTdyaksyZmxnMEEzbEVJMlNRSTFYRzR2SlZPLVhJdmxQbTVyQ2RNUzFVZ25JSGpGck80X19VZjRNS3d3dllJajRJNUo5U29LaEhWSmNDQjZwWmI5Q1ZfRmFZTzJDb3FNbjd5VldTUnR5dFlwdWkxRm1LRGc0QUF3TXBOcWs5V3dubEdjM0tXTnpkM094YTUyQWVCUE5BWWs?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790957692
     },
     {
       "title": "Eagles News: “This season can get turned around if Nick Sirianni has the right messaging and can push the right buttons” - Bleeding Green Nation",
@@ -379,12 +385,6 @@
       "published": 1790703080
     },
     {
-      "title": "Root of Eagles’ problems revealed by decision to punt in ‘true team loss’ to Bears - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVozanRwUlVtRk5HWFFYc1RYM2ZlNjRSOWNiazNXNkt6VjIxVnFpQzhEazB3TGFpWGZDSnhxX0UxZG9PakhEVmVkRDFpNU5qR05QdGRTN0YxSWc1Uy1SMnBUbnlPakFZYXhpSzk1cEI0S2lGcUttN2lvYzlVYU1vcVBMWS1mNEprVXZBVWg2bnl3QnhaSVdEUTdUZ1c3WEJGM25PcVlWUjk?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790693193
-    },
-    {
       "title": "Bears call on QB3 Case Keenum in rousing victory over Eagles - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUlQeERDSXMwMGdhYlhYcXBZWWg5UWYzR0NjUklWVE8yZDNLVWVDVWl5WnRwREhFd0phRVZWNmZNNUIwUGh0akZlYnhOR2F2VWNxeVo1emdFV2UtTG5kUDJXXzlTUW5ZNEI2RXgxTGhFYUNwWE1jV3NMMllEZGJ2d28yQndJOEw3ZV9IZ3AzUWl2b2dxVnBBdGRn?oc=5",
       "source": "Google News — Eagles",
@@ -445,16 +445,22 @@
       "published": 1790644500
     },
     {
-      "title": "Eagles-Bears on 'Monday Night Football': What We Learned from Chicago's 27-7 win over Philadelphia - NFL.com",
+      "title": "Eagles-Bears on 'Monday Night Football': What We Learned from Chicago's 27-7 win over Philadelphia - nfl.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWU0clkzRzh5cEhEZ29PMkp2bU1STkhCay1wUlZDUGVzY1FHNkUxMndqdE5Oa09LY2wzb1pWb3FPN0d4NHhxTGM4dy1aWkhqRVNacmxoeHNrdjFMUmZWa1pENHlXc3lJUHpyNHN0Yjc0T2VrMjgtOGNVMUdsMWQ0YnZSRTZaV2FKamxtYWE2S3p5Y2pJd2FyeFY4dElzN0hBMlQ5R0Q1YXVWcGl5dWRyMXhKZUFMMHhUMzFueQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1790640660
     },
     {
-      "title": "Week 3 Monday night inactives: Philadelphia Eagles at Chicago Bears - NFL.com",
+      "title": "Week 3 Monday night inactives: Philadelphia Eagles at Chicago Bears - nfl.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2xIMVhRV0hMWHVfbkc1RUgwcWp5S2V1eUp4Z05iRFFFSm9DQlQzQlNVMndDY2xEVnA1ZFJPaUFKQjdFNEFsNjRWbENpUHhINTBaMy1STThVOWw0aGVva191VkFFYWZjZHJrUmZTQUt2UnIycHdBTWhNUkExcGMwOExfY0NFNzl4aHBHaFhJcG5DcjYwMnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1790635669
+    },
+    {
+      "title": "Philadelphia Eagles at Chicago Bears Monday Night Football betting odds, picks and predictions: Best bets, player props - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRnladWlYRm1mYUNSSDAzclNXaGgxUkNHb3ZaZWdxWXZrTEFNLTNDSEJXLXVPY2RDdHFaSDFFNXprWERSUXFlMkxWZjI1SDBHM2UzTW1lcVp1MUhyd25qLUc3ZDZaa2NBcDFkOGJuMlJ3c1ByQUZHLVE0cDVJVmV4VnZEU1Q5N1JIeWl1VkJfSGE0M0NhME5kVlA3eTlTeXJWVG0yeGsyMlNTX0ctcHFBNU1vYVhsd1NaOVcwcktBZ2E3aEZMb19SOVpNYzcxSFBBTE1TbExCLWJZSVRpdllfT0REQVo2Nl9TWG9QOENXb0cxYWZHQkFaWk5HREVTb0pJYlM5TmtnOA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790605363
     },
     {
       "title": "Eagles vs. Bears Week 3 game information - Bleeding Green Nation",
@@ -481,12 +487,6 @@
       "published": 1790578800
     },
     {
-      "title": "Eagles News: Philadelphia’s top priority against the Bears - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDlRMXhWdGRPLXFyNC0wZHRYU0J6OG9DNG0yWV8wbDV1MDNkVnJQMlNaclphbUdkcFE5TTZjOU9CZ1FXUE1jSGhmVzh0TkVnQ3RxWm9mM3QycWhITm9iR1Z5RGtZR2ZMNndKN2t0eDNOUWJWeGFxNG1NNWstYWpJelo5XzZoS2diYW4tWXdzT3hQZEhwS2FJdFB1eEdsVXpzQ20xSWN1OA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790527373
-    },
-    {
       "title": "Eagles at Bears predictions for Week 3 of 2026 NFL season - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSU5sa0J3TVVQRmtNMnl6dndDdWxXcEswMmMtcmNOeDM2SnRWOTJOdzR5cUNMZVdhY0phUjVqV0pkbmFEcWd0RlotdURrQjNNUUZ6VXMwMmkzSkVRckRfMWNmdzhINGNkU0lxVEw0ck9sQjVFZUY2UUxfSnVTaThZT2cwX3NwSEpqNUFhNzZrZ3RtX3Rfb3hYTFdEU3JmVkhDWHJ2Nk41QnJGM3FENWdkVGEyQTNlNzBPVDI0TFNJTUJTZzhIMUHSAc4BQVVfeXFMT1ptTFNuTTY5OWtpeGhNUWtkSExSY0g4b3hfaTFHRVY1b2VNVWdsZXJXdFZIS2tUOW9USGxmbHc2clhXRllxaXJsVDdVaURybkd1QW12LXNod3RPc0VlRm5GdkEyNldnTndtR3hkcnZ5MnUtc0VPaldpdURhRmEtZFJCdlE1Vno5WGVTMUE5VDJTQTJGZ19aMVJyck9va01YaC1DZUdNU3BlSTBkc2Y1d0xCR2V1U2RVcVdDT0ptaEd2b1VxS3ZMUXIzYnlVNkE?oc=5",
       "source": "Google News — Eagles",
@@ -496,7 +496,13 @@
       "title": "Eagles at Bears Injury Report - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkZ4OHVYdW1ZeWc4ekVZcGhNc1hfa1lDV0pWLVlCUEFObkFHZnZaY3haQ1FMYmYxcldEdVdocm5tOFVBd2VibWFUM2M1Szg4MFJqcTQ2aUhudnhkTDJGdGRjd1FaSldfallFNnpVQlV4T21qZkNjUjNaWWRtUWxqQWphUWZ1NTlOX3V5d05qcFdMT2JBMHlQQzFRWGN6ZUhnV3FmX1U5Q3NWR3piNzNlRGxNX0ZRNzhPNXhGWFVNMUFDRXhYRHBXZVhtS3lkYWI5NXo4?oc=5",
       "source": "Google News — Eagles",
-      "published": 1790466232
+      "published": 1790492400
+    },
+    {
+      "title": "Eagles News: Philadelphia’s top priority against the Bears - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDlRMXhWdGRPLXFyNC0wZHRYU0J6OG9DNG0yWV8wbDV1MDNkVnJQMlNaclphbUdkcFE5TTZjOU9CZ1FXUE1jSGhmVzh0TkVnQ3RxWm9mM3QycWhITm9iR1Z5RGtZR2ZMNndKN2t0eDNOUWJWeGFxNG1NNWstYWpJelo5XzZoS2diYW4tWXdzT3hQZEhwS2FJdFB1eEdsVXpzQ20xSWN1OA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790492400
     },
     {
       "title": "55 years later, Veterans Stadium is memorable for one reason - Philadelphia Eagles",
@@ -505,14 +511,14 @@
       "published": 1790451602
     },
     {
-      "title": "Zach Ertz: 'It's special to be back' - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1NhajNYSFZCZy1rUVloOUYtTy1nM2NaeldUU1l0MVpnX0wwelBacVhnVW9KbzAyNTlYdUZ2aEk3cW9GbHpNN3N4Rmd0NlZKRnEtOElCSXhsdnNtY2dma0xyLVpyUzJCemlzT2U5QTRFN2FyWTFId2gyTmhmSkVPczdDMDZIU1M0THBoZFRhV2NRamhma0hkZlRsTjVWZVJWb3hYM2JzeVRtOUhZY210UzdITXRtRkJFT2ctNjF0WG41djVfUXc?oc=5",
+      "title": "Eagles' Saquon Barkley to be 'fearless' vs. Bears despite stinger - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlFPMWczNDdXbnloQk9OOE5UMXpsQUZpY01Ic3ZiQzVBQnVlWDhzOFJMLW5Ua205MnA1czlqU2dJYkcxMDd2RTVFMnQyRnZxMWFIUVJzR2VUSW5ZazIxR2xya3FZWC04ZWw4MUZsSURGaHV1alU5cWFUMzVzZWJzX1FpcmVESTNlRmlKQ25DcU1rX2xDZmNB?oc=5",
       "source": "Google News — Eagles",
       "published": 1790319600
     },
     {
-      "title": "Eagles' Saquon Barkley to be 'fearless' vs. Bears despite stinger - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlFPMWczNDdXbnloQk9OOE5UMXpsQUZpY01Ic3ZiQzVBQnVlWDhzOFJMLW5Ua205MnA1czlqU2dJYkcxMDd2RTVFMnQyRnZxMWFIUVJzR2VUSW5ZazIxR2xya3FZWC04ZWw4MUZsSURGaHV1alU5cWFUMzVzZWJzX1FpcmVESTNlRmlKQ25DcU1rX2xDZmNB?oc=5",
+      "title": "Eagles vs. Bears predictions: Our writers pick a winner for the Week 3 game in Chicago - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0x4RU9ERm5hS2FWS0JXVVIwVTFjbUNrUW96dUw3elpkcEg1QUVaVkF0SzQ0TnY5Y3FIWXkxVENiU1dVNmQwenVSVkhncFJESjdTLVpLdEowRUtINkFTQldQRkdlaGUzLWhrT1ppcU5HNXI0a1BUQk9Td0F6NUNNUXJGNjY1bWJoc2I2RzJGdXB5cDBjdDRQRk84YndwT3N2Tnp6OTk2bS1ISUVGT2ljYjBWczhiS0xpSGZ6SmhiSQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1790319600
     },
@@ -521,18 +527,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjI5REVvUWpGcDJlZ3R1aWl1V01LRXZ0WGNMWGRmWFRia21rRlBuSmpTejNiaEJPZU1XMTRwWHdzdU14c0RfQW92aGZoNmpzVkwzbTVIZGlpYlFKci12NWtPWWlhX3YtVHl5X2FlZWFFVTBCbWtBb0Vwa2hHS3N6bUc0d28zS21fVE9KUUhpZlBOLTJyejNPcldnaW5sczdFOXp4UGd5WUQ2bUJZcFREWk1KOExGOG_SAbwBQVVfeXFMT2NNWDd5MjhRZ2ZWZW5xYWN6V1ljRG1PbWNrczNlSGRMR0VpNU5NWnFlcHgzVmR6MG4zZHNXd3p3RjVvbTVyRXRoTHZaT0IzSEhKWUJaNEx0MFpPa05oUl9ONGZMZV9vLWhUR2FxVDduTWZsSjVBdTRBZ0RJLWRlVGRDMmlmRndnQ2hKVFJKWDhZRTJwa2tEWjVfNGpxZEVGdlY3QUczNzdrcnpOazdtRlZGQW5QTDFDRF8wWjg?oc=5",
       "source": "Google News — Eagles",
       "published": 1790146800
-    },
-    {
-      "title": "TE Zach Ertz reuniting with Eagles, signing to Philadelphia's practice squad - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkl0amZ1TWpna3Jva0Rkb054UHlOd05POFdNU3ptZTRnOW5oWFF1VnlrVTVoY0I0eU5RUGZKZ2IwNkI4YjhfMmg3d1pBNFVHVk93dHV1d1h0ZFJjbmJ5S3cxUXh0R0NtQk9PNk5qY3EyUHNCNG5vaUFaTTBrMEhPYlVPYTlwZFlreEM2SkNSdEI2TldEeTN3bm5GSFo3MzBvM2c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789974000
-    },
-    {
-      "title": "Eagles reuniting with Zach Ertz as Dallas Goedert has MCL sprain - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzhTZEZnS1NXN2Fqc0d1Y1ZveDFnZzUyenJKaDRXZ2lkZ3Y4eTItcWd3V0dtbi1qRjlZWGZSSlhFNXliVEg4VjlYOGFuZWhYNURoc25VeGpqbFJVSzhfMTUzUzFUOVg2eHhSRHliaTNsdGxfVzhGeDhxcTJqVU5kamF4YTVDSXpKVGFnWlhQZjA3dw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1789974000
     }
   ]
 }
