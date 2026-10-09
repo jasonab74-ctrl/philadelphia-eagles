@@ -1,16 +1,40 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-09T00:34:09.503220+00:00",
+  "updated_at": "2026-10-09T07:12:15.598495+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles at Jaguars Injury Report - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmo5d3VYQnAyMTVaZkZLNTlNTE9icUxJNzlvSFg1Z1Y1WVVQYzRUSmN0UTJDVW1IMUYzS21jaTJzTjhKa2dIRUROUGJhQTNGT1dOTE5IVWlIdGVyN3ZPODdyb2RsNHVYRmdEazZkMURlWG5hd1VQT0w4MDlsR05ncHBwYkk4V1lDbGZMZEIxOG9kbGJYUGM0MGdrczFSTEN0bHhGY3RzcThJU05UWWZ6dVRRM0x2LXUxZGd0RGNtUkswd2Fxc3FSbzB6c0hyVThxN05aNzNISEg5UQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791513686
+    },
+    {
+      "title": "Eagles wide receiver faces injury setback during practice - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXhJWm15UlV1cTlCdGFnYmZuU08weTYzZy1oZ2Z0M0c3NTJSVktNS2w3SlczWFItT2lUMmVTMFhLcXVBX2dlN09oT3N5VnAxUDU5OVp0bWhwR1hCQjJsanQxVHFHQzNfc2Zrd0JlbTU4Uk5rX08wSFRUWEN4LVh6ZFNxa2IycjFPVUE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791497842
+    },
+    {
+      "title": "Saquon Barkley, Drew Kendall, DeVonta Smith remain out of Eagles practice - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkhaTkZtc2EzTHp6ZFc5OFhnbWEyaHdmVUJGYnNkTkRCT1BWVXg4OWp2VmFkUmFIbmJVWWNMLWxraHBESHVnaUk0NWVhQUItLXNfaUxKWFltYnFOaWRIQTk0dndkYi1VUWx6QXRCRGljZ05DU0F1LXRIbzBzcmhrbXd0UFI5cXIxaDAyZWgzbTZkaGlNNm1DM0xyVHFnWFcxN1VsZ3hQdmUxTUl5ekJES1hxTk5YdFNJUEp5NW5fUlNIem8zbkc3dnJpLVJDUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791497297
+    },
+    {
       "title": "Eagles Injury Report: Dontayvion Wicks injures hamstring, Drew Kendall misses practice again",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/186079/eagles-injury-report-dontayvion-wicks-injures-hamstring-drew-kendall-misses-practice-again",
       "source": "Bleeding Green Nation",
       "published": 1791494393
+    },
+    {
+      "title": "Another blow for Eagles' o-line? Drew Kendall misses second straight practice - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2pQMGhLTGxQbW9xOF9HOUpMWEhBRTg5d3dSZmc2d3lrdVNsZE9XNTI5THRkR1hiUUlZcDVxLUpzczNnT2dFczB0TzRidzJFYXg1WWxsZWdtY0VtS2o0anBkZDdKZUFEdnRrQ19VQ3RUVk5NLXBWQjFhR295a3FiY1BDcTdMVEpicjlWbzFaOTlNcVg4SXAtU2xkVzE5V0drRmp3eUJOdl9vZjZBcUU0VUxuR3AtMGgtVjdKbUhENHc5Q3VQSTV2WmRaZm7SAdQBQVVfeXFMT01VaHRYcWFFZEpkRUtDdGxram5HaDVBQUZsZjh2THhpY1M2TVQ0eEx3QmlpVC1RMVBYdG9UQ1BpNnEwU2dXbDhyOUNVSDM2anpMOEs0U292azg2N3RPLVFnWDJHYXM4aG54eHlqVGY5YmI0YXJQV0ExSFoybGUwWkZ4ZUJfZk1XVFlHRk5FUExNNDNGS3J0OWxyNDZLNDNTODFzcERZb1ptVS05VU5aNTB2NHpDMVhTTTVwVnRVbjdObWVsZVdGblJaS3YxQmZxdElEWF8?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791485100
     },
     {
       "title": "Eagles-Jaguars Game Preview: 5 questions and answers with the Week 5 enemy",
@@ -49,12 +73,6 @@
       "published": 1791417189
     },
     {
-      "title": "Eagles at Jaguars Injury Report - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmo5d3VYQnAyMTVaZkZLNTlNTE9icUxJNzlvSFg1Z1Y1WVVQYzRUSmN0UTJDVW1IMUYzS21jaTJzTjhKa2dIRUROUGJhQTNGT1dOTE5IVWlIdGVyN3ZPODdyb2RsNHVYRmdEazZkMURlWG5hd1VQT0w4MDlsR05ncHBwYkk4V1lDbGZMZEIxOG9kbGJYUGM0MGdrczFSTEN0bHhGY3RzcThJU05UWWZ6dVRRM0x2LXUxZGd0RGNtUkswd2Fxc3FSbzB6c0hyVThxN05aNzNISEg5UQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791413871
-    },
-    {
       "title": "Eagles Injury Report: Saquon Barkley, DeVonta Smith among 7 players who did not practice",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/186017/eagles-injury-report-saquon-barkley-devonta-smith-among-7-players-who-did-not-practice",
       "source": "Bleeding Green Nation",
@@ -64,6 +82,12 @@
       "title": "Eagles bring back wide receiver on the practice squad",
       "link": "https://www.bleedinggreennation.com/news/186028/eagles-bring-back-wide-receiver-on-the-practice-squad",
       "source": "Bleeding Green Nation",
+      "published": 1791410373
+    },
+    {
+      "title": "Eagles bring back wide receiver on the practice squad - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFZoWDBaQjdyNGRXaC12MHRBaUprTXJpVVNCOXprV3lHaE9icXZHSVU0bkxVdElrUDV4VU9KMjRuWkhKUlZWNXVtZU1zZTlGOUVtNnN1eWQ3QVFmRUdubWFGVW5NaUE2enhHNnZQZndEMEhycUw2NjFEbGg5YkkxZ29YaVJOd3AxeHhnSkd5TE5sSkExbE9xV3FrY09PS2NYblI0?oc=5",
+      "source": "Google News — Eagles",
       "published": 1791410373
     },
     {
@@ -97,22 +121,16 @@
       "published": 1791403560
     },
     {
+      "title": "The Eagles’ Cam Jurgens Trade Could Be a Soft Tank or Just Typical Howie Roseman 3-D Chess - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDZYdFk3ODVvUUdwcWdBanRJZ0JXSF9SeGpfbGE0d18wa05aU1RhSWN4b21rS01oSEN4NnR4RG5KdWhOdkxqVUhYeUw4cGtDRVhMVlJHMjlFbUlfaW53M0pwa25nQ3F2c0lwc1F6ZzJmQTcya0VJNWx1S2pKQ1Jrb1dVQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791402118
+    },
+    {
       "title": "Grade the trade: What does dealing center Cam Jurgens to Ravens mean for Eagles' Jalen Hurts in short and long run? - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORndHTXZzUGdiUTFSVmlwOThOdFM2eTUtRWR5clcwUlJGeHBQTndaUV8zOEd3bUNtZldhcUU4TDhNVkhwOTJhal9hTHZtSDdtOU03aUdrOFNLNXlHVk8zN09zY1JtZjFRM25kMjZLbW5BampjLUZxeXpzQzh4UG5BdXlESEdndnpkaC1YSXF2aVZGZEdBZC1zZTRMczFoNzhWeDRVTGdSY3FaTkxqY2JIR28ySTgxaXQwbDU2dUYzQjFTYzBldWRfY0xGajBXaWpLd2RQZFM5RjFzYmoyVDIwU0t4NkRMQVRwNmpheVI3bVZGMG1tZmVB?oc=5",
       "source": "Google News — Eagles",
       "published": 1791401488
-    },
-    {
-      "title": "Eagles trade C Cam Jurgens to Ravens for second-round pick, further reshaping O-line - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUm00WklFZjdkVkRZMmNZZGx1c1Q5dXIwOHAwS0RkdVB2TXFpdjhuak5ibmRPQlZCMlFLRHdaenNuaXFiYms0VlNveXpmYmEycHV0ckdsWEtEN25Na0pQVFUzZ1VDUklyQlFkLXFtYUpIdC1YYXdnS09aeXpVYS1ubVlSd3VHcVZsY3JaOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791400773
-    },
-    {
-      "title": "Eagles part with Cam Jurgens one day after losing Lane Johnson to retirement in roster shakeup - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWdqT3dqQUlRTGp5RVRUTnlwSEFaUXJOamo2MGpQQkJxd0JUUkg0VVZ4X1Uxc0kxZmdoTEFCRnFlUXZSZVFSallfV1F1TWdZd0lFZDNVaE83NVFVM2FUcmlZaDRvMHYzV1FuQy11aVBfVHQ2SGdXNUVFY0hieTBTM18xNGtiYThtMmcwd2VEUmY5cDgyYjJVVk5YZExqWE9ic2x2ajdkUGZpMUROVTQweWljaXJ3QTlZcUE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791397372
     },
     {
       "title": "In shocking move, Eagles trade two-time Pro Bowl center Cam Jurgens to Ravens - NBC Sports Philadelphia",
@@ -145,28 +163,10 @@
       "published": 1791384789
     },
     {
-      "title": "Did Eagles' defense play too many snaps Sunday? Here's what Vic Fangio said - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUNGQXB3MGMtXzNOMFJPeDZfeENBTjFGaTFOa1A4ai1NWF9MU0JuQ1ZsQTJZc0ZKc1NzQ1pBbnRfTEMwNzJsaWYtRkVPcTdwdDJkaHBlUkVvaTRHS1h6cnRvOElfYzRneVdOdDdpR20tdGJyQXJybWtwbkFEdS04Y0dSZEVKYmdLd1dUYXFYRmItRllULWNmLVloeTFLbXh3UmVXaVpUTjlOSENvMzNUZ3ktMlJjUEc1REJLUWVDeGZjWW_SAcsBQVVfeXFMTlJuZ3dpM0dkNWFpLTdkVDAwb3hVc2VyV3JVZHRWZVhmQ3NRYTYyb3RnRzYzYXNjVndqZzlWNXplWllqVXh5TWYwUHU1emtJT0dSRGp0Uks1Rk9TQkZBV0FER3E2aEMyZEFtVDdEXzAxRGhyQV96VDhFN3F2Z2hGQmUyVWNDUEhDWU8tbVMwdmxuVmVDLWF0aEFFRkpuVXd5aFVVOWNsM2JtN0VLdmxhOUo2UTZ4V0VrRTZZb3VzUWFxZGdKUnA4dGhDVFE?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791370800
-    },
-    {
       "title": "Eagles place RB Tank Bigsby on Injured Reserve, release LB Anfernee Orji from the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmwzT2NhNEJDeU9SSDFHNTN1bzlFNm92UXlKNXhfbG1Qb21vcFQyOHZvMDZzWHh1RkZidk12Tm51QnowcWxIbjNrYURzaUsxY2NyMDdzd25NZGk0UlViNkZ4TkxDV0pjNkFPd20yYk5WX1BiTk5DZUlacGwzZ1NfTTVzRDd3WGlEdmpIRjZNM0xPWTFVZWRvYU1aU1k3ZjdoNnBIYk1wU2Q2OUhCeWhzdVZRTjhUQVU1ejE2ZXpQWTdCamxySjhQV1A4X3NqbGQ4?oc=5",
       "source": "Google News — Eagles",
       "published": 1791330771
-    },
-    {
-      "title": "As Eagles RT Lane Johnson announces retirement, one number captures his stunning impact - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcGtqR19PeGpLbnhsNWhfM2pVVUxZWnN3dTI5NFBKWmtVNndqTmQ4akt6QlNicDN2WTRmX1dOWjBPQTRiTnV5c010d3pjNUQ4OUNtR1V5bXhHdXNVOXRVLTZVR01IMzgzOC13SzM2cVZDQVJxbU5PX2t2UnBPU2dzbE9xTG1yc3JxWWlYUlUtVUM2RzNHbzRsQW9qbDN3SjhWTkNWZ2lNejF1SnJHanp3cFEzUG1kTlByZi1xQWlqVXdUN3p6R0ljLW1Nd3RTX3g4LUZoRQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791326915
-    },
-    {
-      "title": "Philadelphia Eagles great Lane Johnson abruptly retires citing ‘mental health’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDBfQ2xEQVpGOEhQUU1CcFFkUDFtWDdXNU1QTjVINWVhZ010eWhJR2tHV0Z6WFZkZUF4el9qTzA1c05id0t5ZWxmRVJkTG1UTlhtams4VXBxOVFiX3d5ZEJyaURpWkNkRlBkRWlJaGs5QlRCZENfSnBZOWlKXzdlVzI1aFg3RFNfQXg1anA5TTA3UGMyNjhCcFN4alBuNExfS2V2MEV1c2QyR2M?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791319320
     },
     {
       "title": "Lane Johnson announces his retirement - Philadelphia Eagles",
@@ -259,10 +259,22 @@
       "published": 1791185512
     },
     {
+      "title": "Jalen Hurts cited “poor execution” for the Eagles’ offensive struggles - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdDVZSVVBOVNkNDVfMzR4bkdfQmFfRl8yeksyeDlXZG1fVEFmdG1PUXRGMTZPWHV1b01IQkx0SEhKTzBGNUNzOENELUtYaDFyOHRBbzJ0Y0Zqakl4SUJfM0Q3b2kxOXQteThQTkwxbFlGNDVNN2RjTFQtR0JDY205QjhQWGw4cFNZeTVsMUsyejVuU18tXzZPblc0U1Rkcnc0Q21zN01Td1BIOUJvZ0VTdzJUQWxhRjc1Q3dVSDNqMFdXbTlpM0tBbU1iOC1waFlnTXpBMjczbnlGbVpZUHB4SktWcUJhZw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791169500
+    },
+    {
       "title": "4 Biggest Takeaways From Eagles Collapse: Letting Jeff Stoutland Go Was A Mistake - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb0t5N0ptdHZqMzItMERabDRSZWg4ZG9yS3VGNUcwbkVKVk9pMnhDX2pmd3h3TEc4UXFrUFAyTzlWZ09aZFdpbURIMm9nVTFjQ1d3QjktX3BRTkdkcEo3eEJvUHBmak5RMG1Zc28xQkZfY0JMQWRxY3dBRFFndXNkT1BWOU0yQzM3Z3NMMkw1WXgwUnRZNlJXa2VrT0VlZGhES0RHTjQ3WnhyN19HUmlSdnNaWG9uNWRBaXpGT2FaMjgxOUd2YnZJ?oc=5",
       "source": "Google News — Eagles",
       "published": 1791162000
+    },
+    {
+      "title": "'Not good enough': Sean Mannion's Eagles offense has an identity crisis - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0ZXbHEyU3pBWFNmZFFQcjNGY2VBQkN1bVF1dzBYQmZMYTdENlNtRlpDbGVZTjViUWRZdGlvdHFNejdjeFNLSUZoODBHakZtNkhocENXX0FCSU9xMVRwRjFFeEcxSE5yb08tMmRyNVh6cmxaX2xyX2RfTXNfSmFNTG9uejBiMjFQamQyRW1aM3Fkd09MNnN6ZQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791160264
     },
     {
       "title": "Eagles went for kill shot, and Rams made them pay in stunning loss - The News Journal",
@@ -293,12 +305,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdml4UUlwQ2Y5cXFfY2FnbFkwcmQ0YzEzd094VUtQTkY5TVlBd0JkYWRCQU5GeGdHSE9EQ2lUOU4xTU4tbFVJaGhHdnZfQkliQkdpNmNUR1RaT1lqVmpDOXNuZVJNb3NGVmdoNmw4dlY4UnBrSWdQZGpHaHN4cnJ1cmdvTFN0emlsMTZFaE5OaDhEd0VvOWZfbkNFTTZ4WTFuczZ3aU1OMmd0SVBZelE?oc=5",
       "source": "Google News — Eagles",
       "published": 1791150796
-    },
-    {
-      "title": "'Not good enough': Sean Mannion's Eagles offense has an identity crisis - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0ZXbHEyU3pBWFNmZFFQcjNGY2VBQkN1bVF1dzBYQmZMYTdENlNtRlpDbGVZTjViUWRZdGlvdHFNejdjeFNLSUZoODBHakZtNkhocENXX0FCSU9xMVRwRjFFeEcxSE5yb08tMmRyNVh6cmxaX2xyX2RfTXNfSmFNTG9uejBiMjFQamQyRW1aM3Fkd09MNnN6ZQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791149460
     },
     {
       "title": "Rams Come Back For Dramatic Late Win: 3 Takeaways From LA's Win Over Eagles - FOX Sports",
@@ -463,6 +469,12 @@
       "published": 1790910073
     },
     {
+      "title": "Eagles make some practice squad moves - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVZoQ1lMZmg3Q3FSR3kyTFE5OUh6RzVFcFhnSHc2Y2Noa3I1NTBISkszRXl5LVJsRTI4NGozVVZSZW03UU4tV25zSUxERnlrZnlDVTV4YVRTQWpEaFFRMUtiU2tkaDVyaFlMR2xRMkxiQUFMR202cWgyNHNqUnFaY0tfUHhiOW5INmRYWGpOc0tCRDcxWVgwQzhtV04zLUpPZTNCY3VxNkhvN2Z5dVRv?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790871829
+    },
+    {
       "title": "Game Recap: Bears 27, Eagles 7 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2gwalluaUtNSDhrWGE5dURISzItOXZHR0RzRW9ZS3N3d3IxcFI0TDU1YnZ2RmZjQk1YNDR5ZHBuZ01xUHpMMW9TN2VLUGhhSDM3a19ORHQ4UVhGMjJVdFRRa0N5N2VmWXVRQndDTFRUdERIZ3BPLXl6Rl8wY1h1WDZjRmtUVkhmeEx2QjBSMk51MVZ3azhrWE82ZGFjNzVwYlJ3NTEwZGMzakdnNTB5TTZMV3dpS1d2MEo3bjFUZ0ZXNzRUQ2hUTXUwMm4?oc=5",
       "source": "Google News — Eagles",
@@ -505,22 +517,10 @@
       "published": 1790578800
     },
     {
-      "title": "Bears vs. Eagles preview: Philadelphia looks to remain unbeaten against Caleb Williams-less Chicago - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUhVS0toSklSeEkzemExSEJMdjZHamdtQzV1eVgxLWZvODRqMVZWQkhvbUdKNmNGSm1hWjFfRVp3OGZORzlrUE5WTHpwMGY2VDFTNndLVjJFb0hrQlN2NS1ael94U1lFNFM3ckh5SnU1dFZ5SUllVjNDSUN6anZOd0Q3cjlPeWJRVFdmVUZqQ1VNdw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790578800
-    },
-    {
       "title": "Eagles at Bears Injury Report - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkZ4OHVYdW1ZeWc4ekVZcGhNc1hfa1lDV0pWLVlCUEFObkFHZnZaY3haQ1FMYmYxcldEdVdocm5tOFVBd2VibWFUM2M1Szg4MFJqcTQ2aUhudnhkTDJGdGRjd1FaSldfallFNnpVQlV4T21qZkNjUjNaWWRtUWxqQWphUWZ1NTlOX3V5d05qcFdMT2JBMHlQQzFRWGN6ZUhnV3FmX1U5Q3NWR3piNzNlRGxNX0ZRNzhPNXhGWFVNMUFDRXhYRHBXZVhtS3lkYWI5NXo4?oc=5",
       "source": "Google News — Eagles",
       "published": 1790492400
-    },
-    {
-      "title": "Eagles' Saquon Barkley to be 'fearless' vs. Bears despite stinger - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlFPMWczNDdXbnloQk9OOE5UMXpsQUZpY01Ic3ZiQzVBQnVlWDhzOFJMLW5Ua205MnA1czlqU2dJYkcxMDd2RTVFMnQyRnZxMWFIUVJzR2VUSW5ZazIxR2xya3FZWC04ZWw4MUZsSURGaHV1alU5cWFUMzVzZWJzX1FpcmVESTNlRmlKQ25DcU1rX2xDZmNB?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790319600
     }
   ]
 }
