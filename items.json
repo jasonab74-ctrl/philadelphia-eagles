@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-13T01:08:50.315303+00:00",
+  "updated_at": "2026-10-13T08:12:07.720901+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -34,12 +34,6 @@
       "title": "Eagles vs. Jaguars: 8 winners, 8 losers, 6 IDKs",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/186563/eagles-vs-jaguars-8-winners-8-losers-6-idks",
       "source": "Bleeding Green Nation",
-      "published": 1791830366
-    },
-    {
-      "title": "Eagles vs. Jaguars: 8 winners, 8 losers, 6 IDKs - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUJuRlVFMklROHpnX29EVlFMWHg4bnlQRENjOERmSnhYYXU1WU1BWTdtYVFRZWRLS1BtSGN1SjRCb2VEZ2NsblZJMVQ0STd5QUF5bW51VVFaendGenpGYnI3d01ZQmJrd3pUc2h2TkJuV3o5NThVSUoyZ1Q2NVVWbHpwX1UxX0l3RFRsX2hnSndaR0d5dTdPRXMzZnFXcmI1blV5VmM3bGp1YUYxZHd1M0lubkZhQQ?oc=5",
-      "source": "Google News — Eagles",
       "published": 1791830366
     },
     {
@@ -80,7 +74,13 @@
     },
     {
       "title": "Eagles grades by position after crushing loss in London - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzNvYTR4SndwOEE2Zzk3TnJoTk51TS00cWhKWVlybXowNGhvaXhCYWZVVWJudDNWaGJaZERhenlaY09wc2x3N0RuZGphWmZ1V21uVkQ4Tl9kbTVZYlJjMjl5OVR3YktWcWN1NXZHbE85NzJ1Y01kbXE5OERfd0JQWGFUYXR2VnVaOWlfRjZ6MW42MmtmWm1uVXBTckhPMXJBODVmOS1jNG9VX1hlYWFzR2lWSXVIa3d2UlFDb1JiWXpvb2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzNvYTR4SndwOEE2Zzk3TnJoTk51TS00cWhKWVlybXowNGhvaXhCYWZVVWJudDNWaGJaZERhenlaY09wc2x3N0RuZGphWmZ1V21uVkQ4Tl9kbTVZYlJjMjl5OVR3YktWcWN1NXZHbE85NzJ1Y01kbXE5OERfd0JQWGFUYXR2VnVaOWlfRjZ6MW42MmtmWm1uVXBTckhPMXJBODVmOS1jNG9VX1hlYWFzR2lWSXVIa3d2UlFDb1JiWXpvb2fSAcsBQVVfeXFMTVRQMURJOFZDMm9YMExGX21iRmtSdDB3QW9mSkc0MjZKa3ZKemdGQ1NFUmxha1h3MjJZUGo5blNOOFhOUlRUMi1IUzNJdDE1clRSVS1xVnd4YVB0a3lRak9PTlgxQ3BLb2lpWkdoWUpvRl90MEdQeV9ydkJqZHJaTjdaMmVaYkVRaHdWRGpMRTVwY2l3VkpzSFBia1lKaWROSmJqbEd3dlZoU0IweE5OSW9tZXZuYjhsSWN6NEF6U3p3dElqbXMzSzlfWjA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791802800
+    },
+    {
+      "title": "Eagles try to explain the kick return that never should have happened - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM3F3SUhfNVhxbEwyeXNmbnZtSmdPR1BFUGxjZDNfX0g5SUxMTlhjLVNJTERWb1p4Q19xcW5URmtmb240Z2hiR1EybTRfd194VXYwTEJzWUNWNTRpOVlJUjc4MXBOYnZzRzBIWTZOblFFOVplNWVPbGpwVmZvUi1pejluLVM0VklhTlN5Q1h1YnVGVDNxb2Exc28yaGJmZ2MteTc3SXotMlI4RFdqdXdtQzFRYzA5MXdLQkNKWWdxb2JfMDhDTk1vWWFYcmtTWTBac2lUaGlJNXRXZVN1SWxoY9IB6AFBVV95cUxQX29vUjV2bS1pWThGd3otZm9RR3BUMmdOcUtJRGhVbXhScE5MNzVUU2FkOUE5S21uaW5scXZTNTc5Nkt0TE1iYkNrUURBTXRhcFVldVRGYm1CWS1ObXZTckE0eGltX19ac3FXOU1WUlZ4SVZOcHkwY3hvUVpNM0wxRTRiUUhGRlNhS3hVY1pvaDA1ZTc4d1A3X3U2U2xER3RtbERiUnNCaFZ5cXV2cjhmV204ZUw3aF9fT0Z6ZF9TbFFwclY1akV0RTBEem1YemQzdnEtekJKS01MeWdLVE9rMzdWNDZrQzRw?oc=5",
       "source": "Google News — Eagles",
       "published": 1791802800
     },
@@ -103,16 +103,34 @@
       "published": 1791800559
     },
     {
+      "title": "NFL Fallout Week 5: The Eagles Aren't Contenders — And Should Start Rebuilding - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3llLWZPeG9QNkFFVFBZRF9MV21rbEk4YXYtcFRyNXUyalNKSEJHc2FLOWdtcThXRjBMZk1HRFVqRjdpMkc0ejNZdGRkV1JnUHpadWJfM0FKdHFSdEVXcHc0c01YcVB1dTltVzNtMWZnNzRXRXRxNktnUnIyTFgtQmhKcjkwcU12Ym5Cb3AtRVpaazR6ejJtbFRpa1R1bXZlVjBGc0dqRdIBpwFBVV95cUxPS2twRkZ5SjlUVkxqcmNka3plUVJlUXdPcWRLaS0zdF90Y0xCU0tad3pKWGczX3pXRWt5QzU0QTFYWFMybFJ5b3Fkcmd3NGV1ZVd3MVJoMUxEVXUzZWdXdkJqRHZ2YjRWeWh5RVU0NmNaVWpacEhBenQ3Y0c4eXBPbnoxaXlMR01GcGJ3OXVadURmQXlzREMyOUxpaWp2ZHZZR01Gb2p4UQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791772608
+    },
+    {
       "title": "Nick Sirianni: “I lost us that game”",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/186482/nick-sirianni-eagles-jaguars-london-game-reaction-comments-explains",
       "source": "Bleeding Green Nation",
       "published": 1791767981
     },
     {
+      "title": "'This one hurts': Inside the Eagles' locker room after shocking loss to Jaguars - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFdvZGhrUGUzMTZkN2RYS1lzNVdDWExtcmgwTDFaNHFZeXdCTUFfbU1BOGxzQzRTcXB1QnBSeDNrLVhaT296NU15RkRoaFRvRDlQTXI2V2MtRTBTdEVReFJtNEZEY0xnRUdROWZ2bnV2T292M2F1akJjR2prVnhUUXd6cUJfZ1ZtU1A0eEJGTTlQVWlnblkwSkJvUmIwTlhHTGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791758768
+    },
+    {
       "title": "Spadaro: 6 observations from a hard-fought loss to the Jaguars in London - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2lHaVU0TXBVaXRlRlMtTlJjWk1xdHVyTVdJbEJSblgteHVpbHR2TDllRVpaV28wdHlWNmRJeS1IbUN4dmZ4OVdtekh0aXZSWGV5ZU02cnRyakxiZzVYMTRMNkV4VHJjLXhNSDctUm55Y0E1UzFiVmFWcEJDOWRlSTE1ZHNMdlR6MjJLaXBfUFprUzJWX0lBWS12UXBZTUNvaElIYVJmNWl5SVhWZmh5Mw?oc=5",
       "source": "Google News — Eagles",
       "published": 1791757355
+    },
+    {
+      "title": "Jaguars' emergency long snapper plays unlikely hero in win over Eagles - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDNvbDJudFB1TW1XbTA2aGpSNG54eXdRWW5VUk03a2dQd3J2cEJyU2x1ZW9uNUxhUm5udUFGYnBYb3VQS0lGNHg4UUwySXZiZHFfVnl0S3E3YlZOQXh3b3ZrVzRONlFLYjlFR2JOOW95YjZKeW1NT1l3TmRiYkd2T0ZzdTY2UXduNEt6X0thRDJVUkJvMmx2WQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791752220
     },
     {
       "title": "Eagles devastated as Jaguars hit 57-yard field goal in final second. What now for Philly? - The Athletic - The New York Times",
@@ -131,12 +149,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DRkE2ZE9TakVZQ3MyaWg2Rk1naVF0bHdyZXVNRDhtQU4tYjVSVWRhWlZBY0M0QUl5S1poSnpSNUc3Tm9NeThibk1ZRmUyRmo1d0VuZ0J0LWIwRDlWMTJrVXcyaHl3TF9nLVg1TUVyZTh4UmFSRWtlNksxcUViUQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1791750050
-    },
-    {
-      "title": "Handing out 10 awards from the Eagles-Jaguars game - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFJmXzdBTUQ5NFloeVd3Y0k0V3JjN1QyZnloMHNDRkNXMDVscWhEMk1yc21mdWdCT1Z6SUNUWUVDSFRobktfOERpbDFiaUtUcXh3ZUQ4STdULTR5YXhrUmMxc21ZWHo2dUlXQjVsWUlkU1ZxTVZWUlJjakRxcFVhU1ltTVMyUkFlUVhjcm9YYlZGblY2RGYyaVVSaDZzbjdYRmc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791749994
     },
     {
       "title": "Eagles Players Press Conferences: October 11, 2026 - Philadelphia Eagles",
@@ -181,6 +193,12 @@
       "published": 1791739683
     },
     {
+      "title": "Eagles vs. Jaguars: 8 winners, 8 losers, 6 IDKs - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUJuRlVFMklROHpnX29EVlFMWHg4bnlQRENjOERmSnhYYXU1WU1BWTdtYVFRZWRLS1BtSGN1SjRCb2VEZ2NsblZJMVQ0STd5QUF5bW51VVFaendGenpGYnI3d01ZQmJrd3pUc2h2TkJuV3o5NThVSUoyZ1Q2NVVWbHpwX1UxX0l3RFRsX2hnSndaR0d5dTdPRXMzZnFXcmI1blV5VmM3bGp1YUYxZHd1M0lubkZhQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791739340
+    },
+    {
       "title": "Eagles, already depleted at RB, lose Will Shipley to foot injury - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFA1and6SXBxTjctZ1BNNTdpdk4wa2ctWllCWkpPTEdrM0luZFkyN2NkYW9jODNmczdjR1hnQTY5QlFJaVNMalJnSDB5OUJjN1BsdmZoVUxJT3c3OUoxMUt1bzUxX3BXSmlucVNEdVNEa21QS0tBR0YzaEdKU3k4ZkRESmludkJxWUJ3Q25mTi1mSzQtNWoyeW1leVA?oc=5",
       "source": "Google News — Eagles",
@@ -209,12 +227,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObl9oZFMxZXBsTm9tUEVZZi1ZUm1BT3Iya1R2enR4cDZOYnRDYk5MYWJHS2tDenphbFBHNFlNNGlpMDVYYlZ5LUV3aHJ1VWxxRDVDT3gweGdaVjRjZXlxaml1YnNZdU1XYVM3ZXBMdFBPbC1Fa0szMFUwUG1OVlZPbE9EeVotNU9OREE3TXlILTJNS0hnZVFheHNBSnk4Z0VXMzNpNzNMeWxPNUgtVUpiTWVuOVNJT2FSQnk3TTgxWmU4U1NtT1ZnT1FfdVNPQ3BFeFV3ZXZvdERfMDRMWXY3OGlEUEliSHRYMXVzcmtNQWZuWHFZOEVFQUdOdEpzN0gxMkZkVzF6QkNKd1U5YXAyQjc3Z1ZZQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1791709200
-    },
-    {
-      "title": "Eagles vs. Jaguars in London: Kickoff time, international game history, injury updates - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEUwVHZOY3ctVHNRLS1ueWxEcTRGOUJFTUlOd3NBU2ZBUjRHTDBLWGdLSFpCNEhDOE4tdjFabGZBM0o3WWlQbmZ3Wmg2TWNxcGZYRjdNazRxZ3I5bl9KaVA2VUhMWUN6VGo4UmFHV2pQSjczRTBDSHd2NDRzakN1ejBMWFlGdF85eUFmMWxQNVE3aDZoaFRnZ1NPWWNCeUdUQWRV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791691260
     },
     {
       "title": "Eagles elevate Zach Ertz, John Ojukwu for Sunday's game at Jaguars in London - Philadelphia Eagles",
@@ -269,6 +281,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWURyNGJFQ0U4SmdTZFh0d0dYa0NUOEVteThqc3BJTXBiaC1kZWNHVzBTT0ItNEF4VUQxMmtaOW9YXzNyX29wanRySDBIX2JHN3BxWTlFYzBuazRiNjJRb1BpelgxYVpQejJ2RGVDejVsVG1WT25NN2dnLVlJZ1A3NUpNLWw3QVdkQlJaSG9feC1fdU50UVFFOEItOUI4M0lZWXpXbkpXR0dNcEc1R0NkY1hxNU9WMzg4?oc=5",
       "source": "Google News — Eagles",
       "published": 1791577740
+    },
+    {
+      "title": "Where to watch NFL London Games: Eagles vs. Jaguars - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2k0NjJVTHpnN2hrUEFkeTVSMHBFMklQYTh4dWFtdnVNbWxmdGozLUE4ZlFfMWhiLTRFdjZPOEM0bXpiYW5wX3ZRUVlCeTdKcENZV3ViWFhjN0k1NXNKRjJJd1ExcXQ2dnBxQjhXTUhoUGdmdmRleVByT0FlYVR3TkJNcXRzSHZaRDFOWVpock1reWt2?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791576000
     },
     {
       "title": "Eagles release QB Andy Dalton after costly pick, demotion - ESPN",
@@ -433,22 +451,10 @@
       "published": 1791185512
     },
     {
-      "title": "Spadaro: Nick Sirianni reacts to Sunday’s 24-20 loss to the Rams - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdml4UUlwQ2Y5cXFfY2FnbFkwcmQ0YzEzd094VUtQTkY5TVlBd0JkYWRCQU5GeGdHSE9EQ2lUOU4xTU4tbFVJaGhHdnZfQkliQkdpNmNUR1RaT1lqVmpDOXNuZVJNb3NGVmdoNmw4dlY4UnBrSWdQZGpHaHN4cnJ1cmdvTFN0emlsMTZFaE5OaDhEd0VvOWZfbkNFTTZ4WTFuczZ3aU1OMmd0SVBZelE?oc=5",
+      "title": "Game Recap: Rams rally for 24-20 road win over Eagles in Philadelphia - Rams",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak5OTXFWb3NFSmdaaUxmdW1QakR3bERKbE9lampiT29oMC10Q0VXd3Z2ay1EU1FjeGlwYkNRSHlUQnY1RnBFeC10c183cUNFejRvVzVXSlZoaC0wZ2lvcF9YbFM0eEY0LV81VzlYdXFEdXI1emdCdFBhMTJKMXlTcTV6Y05WYkU2RF9DZUM2MUJNTEZCR0Q1aEV3MTd4Zw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1791150796
-    },
-    {
-      "title": "Eagles RB Saquon Barkley leaves loss with hamstring injury - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN19pSVdPcHBDZmFTWEZ4a2xRV1NzYjh0X3o0SXNDSzdaWjhObHVSTEh4M2FvVEtuX0sxUVJqWjhBRHEydGNlWElQVkZtdTd5Q195UFZqQ3ozSVlkTkxzbXp0WUdTVm1fa1NzYU9WWDd5TTJDUWFTaGUwSGxZdHlVdGVMaWZYbDh3QmFKVXNjN19Hblp3clUwc2k4R0ZURGs?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791138180
-    },
-    {
-      "title": "Game Recap: Rams 24, Eagles 20 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXNBWmdqMC1UbmhoMDVFSVBVMjNmRHJfX0ZOZjl4TDlWV21PWEI5c3FxUkFFMC1CVTE5LVZqTlBMYWxGaDI5Tnh4SW54NjBqWl9yRG42YW1mLS1vcnZlak9MWU12VVBhOFdsSHBNek1FbGR1ZUV6anpuazZRMGNhbUk2eE1MaHlhMmNrOVZDRXktRWRzNmdTSW9KMnNmRlo5RzNONGJLOG1DV1RhamtvTElxeWFyalFQTjVZZkFnY1p0dkJNSlRONVNCZTJFR1B4?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791133406
+      "published": 1791097200
     },
     {
       "title": "How to watch, stream, and listen | Rams vs. Eagles - Philadelphia Eagles",
@@ -457,8 +463,20 @@
       "published": 1791097200
     },
     {
-      "title": "Game Recap: Rams rally for 24-20 road win over Eagles in Philadelphia - Rams",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak5OTXFWb3NFSmdaaUxmdW1QakR3bERKbE9lampiT29oMC10Q0VXd3Z2ay1EU1FjeGlwYkNRSHlUQnY1RnBFeC10c183cUNFejRvVzVXSlZoaC0wZ2lvcF9YbFM0eEY0LV81VzlYdXFEdXI1emdCdFBhMTJKMXlTcTV6Y05WYkU2RF9DZUM2MUJNTEZCR0Q1aEV3MTd4Zw?oc=5",
+      "title": "Game Recap: Rams 24, Eagles 20 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXNBWmdqMC1UbmhoMDVFSVBVMjNmRHJfX0ZOZjl4TDlWV21PWEI5c3FxUkFFMC1CVTE5LVZqTlBMYWxGaDI5Tnh4SW54NjBqWl9yRG42YW1mLS1vcnZlak9MWU12VVBhOFdsSHBNek1FbGR1ZUV6anpuazZRMGNhbUk2eE1MaHlhMmNrOVZDRXktRWRzNmdTSW9KMnNmRlo5RzNONGJLOG1DV1RhamtvTElxeWFyalFQTjVZZkFnY1p0dkJNSlRONVNCZTJFR1B4?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791097200
+    },
+    {
+      "title": "Spadaro: Nick Sirianni reacts to Sunday’s 24-20 loss to the Rams - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdml4UUlwQ2Y5cXFfY2FnbFkwcmQ0YzEzd094VUtQTkY5TVlBd0JkYWRCQU5GeGdHSE9EQ2lUOU4xTU4tbFVJaGhHdnZfQkliQkdpNmNUR1RaT1lqVmpDOXNuZVJNb3NGVmdoNmw4dlY4UnBrSWdQZGpHaHN4cnJ1cmdvTFN0emlsMTZFaE5OaDhEd0VvOWZfbkNFTTZ4WTFuczZ3aU1OMmd0SVBZelE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791097200
+    },
+    {
+      "title": "Rams 24-20 Eagles (Oct 4, 2026) Game Recap - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTjB1aEVkRFdFeW1VUHVVc1F5aHhCN01mMUIxZzFvc0plVU1fZGFPRVllRV9JS2NURW9XbU9KV0Mzd3d1OGlMM1FyREhyTHNVbnlEaEh4YXZRREU?oc=5",
       "source": "Google News — Eagles",
       "published": 1791097200
     },
@@ -469,14 +487,14 @@
       "published": 1791097200
     },
     {
-      "title": "Roob's Observations as Rams take advantage of injury-riddled Eagles - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEVlT1M2QkQ0c0ExVnVabi1VVDU5M0drOWJNTUl6R2lqV3p3MWxNUDg4U1k3VHA3azhYS3FyTjRYckFmVGVrcDFlV0Y3c294Tml6anlXYzVPNkF3YVdYc0V2QW9zd2lSaFBnUTBQRlFLM2lhTU9yOUdBTWlKVE1sNFFHY0VSLThnSDVlNTZKZVNKOGIyMXNQUDdJMmIxc1hweWtoNTJ1dmlNQ21PUEw1NEtlTDVFX1kxb2lMM25QcWhfT3preWRkMll0T1NNaDl3SkHSAdoBQVVfeXFMUG9mY0pTY21OYTVMcU9fc3Z5MV9LZS1TUVV1a3JJRF92TUJ6UEhIQUhDa0JoUjlkeVQ2Ti1sY0J0a25xUUdZd1lSNHpRbUthRHlXUVhJQWVUN1RiX05NNHZUNnNSMEk1X2ZhcnhCZGxtX0NMSVl0WFBKYkwyMmdENEFZYTBmN2JjS3pOR3FKM2QxT1FUZVl6NEJtMEt0VDFBOWF0N3ZSQnhpTUpTMVdtaTVmM3lPTjFsZXVVaHRSa2pTQnNyemVJNFQwczdzX2x1Rlc0bDFzS0dMMUE?oc=5",
+      "title": "Handing out 10 awards from the Eagles-Rams game - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbUJ3c2xkRldVbnVVUXZPemRTRjRvNWU5ZGM0cmtTdmRsTzJfQl9SZlNRQ2VfMTN3Z1hYYXgwa0xXVWJGTG5qQ0dwS214Mk1EbFVYTFZaalNscWRoVjNRVVNBV2k4blkwUkhFMWNLZEd5clNadlhUVDJ3YzM?oc=5",
       "source": "Google News — Eagles",
       "published": 1791097200
     },
     {
-      "title": "Handing out 10 awards from the Eagles-Rams game - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbUJ3c2xkRldVbnVVUXZPemRTRjRvNWU5ZGM0cmtTdmRsTzJfQl9SZlNRQ2VfMTN3Z1hYYXgwa0xXVWJGTG5qQ0dwS214Mk1EbFVYTFZaalNscWRoVjNRVVNBV2k4blkwUkhFMWNLZEd5clNadlhUVDJ3YzM?oc=5",
+      "title": "Eagles RB Saquon Barkley leaves loss with hamstring injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN19pSVdPcHBDZmFTWEZ4a2xRV1NzYjh0X3o0SXNDSzdaWjhObHVSTEh4M2FvVEtuX0sxUVJqWjhBRHEydGNlWElQVkZtdTd5Q195UFZqQ3ozSVlkTkxzbXp0WUdTVm1fa1NzYU9WWDd5TTJDUWFTaGUwSGxZdHlVdGVMaWZYbDh3QmFKVXNjN19Hblp3clUwc2k4R0ZURGs?oc=5",
       "source": "Google News — Eagles",
       "published": 1791097200
     },
@@ -509,24 +527,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkd5NUZhVGdySjJ2LUtYVy00QlVEWjJfMTlRLVBJOHE1R09kemk3NHFJZ3hRWUtxYUJPUGVqUEpzTW9vV2xrdkgzUTRFNWRSMU1uVXdlcHU3R2xXQjdQS192elBVMWttUnUyNXQ1Ymt2a3NTeURsb2FwQ0tmRzRPZ254SW5ab3ZsU2hfdm4wbGlZeW1q?oc=5",
       "source": "Google News — Eagles",
       "published": 1790924400
-    },
-    {
-      "title": "Game Recap: Bears 27, Eagles 7 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2gwalluaUtNSDhrWGE5dURISzItOXZHR0RzRW9ZS3N3d3IxcFI0TDU1YnZ2RmZjQk1YNDR5ZHBuZ01xUHpMMW9TN2VLUGhhSDM3a19ORHQ4UVhGMjJVdFRRa0N5N2VmWXVRQndDTFRUdERIZ3BPLXl6Rl8wY1h1WDZjRmtUVkhmeEx2QjBSMk51MVZ3azhrWE82ZGFjNzVwYlJ3NTEwZGMzakdnNTB5TTZMV3dpS1d2MEo3bjFUZ0ZXNzRUQ2hUTXUwMm4?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790665200
-    },
-    {
-      "title": "Bears call on QB3 Case Keenum in rousing victory over Eagles - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUlQeERDSXMwMGdhYlhYcXBZWWg5UWYzR0NjUklWVE8yZDNLVWVDVWl5WnRwREhFd0phRVZWNmZNNUIwUGh0akZlYnhOR2F2VWNxeVo1emdFV2UtTG5kUDJXXzlTUW5ZNEI2RXgxTGhFYUNwWE1jV3NMMllEZGJ2d28yQndJOEw3ZV9IZ3AzUWl2b2dxVnBBdGRn?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790665200
-    },
-    {
-      "title": "Sirianni regrets reaction to hit on QB Hurts in Eagles' loss - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmhoazF5cC1yY3VhNjB5NWJDbThocnNFTFpNYlhRWExZR1dYNUJRSUI1dmFsR2NiYk94VmNDdzRoTnpaV0JqSVpiVmx1S09TWVVSTExQaU5nWFZMejZoSFRkSzJIN0dRelpPU25oUXNjUFMzVllFMUlSQ0JCOEt1bXlUTVJaSDBVaVNqalF4T0pxYmNXSGFQLTZnSQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1790665200
     }
   ]
 }
