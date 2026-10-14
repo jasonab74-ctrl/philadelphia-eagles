@@ -1,11 +1,23 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-13T21:25:26.141694+00:00",
+  "updated_at": "2026-10-14T00:29:38.293754+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles host familiar running back on free agent visit [UPDATE]",
+      "link": "https://www.bleedinggreennation.com/news/186808/eagles-host-familiar-running-back-on-free-agent-visit",
+      "source": "Bleeding Green Nation",
+      "published": 1791928821
+    },
+    {
+      "title": "Eagles host familiar running back on free agent visit - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbkhjX2h5VEI0QzNUN0FOUHRZb3RYN3paZTlqUzJRT2ozN29tNWVucVhTQ1Z0ZUxJWnFCMW43ejg1dExMcnBaX3BLcTJCMHp6WUxLVDJFOGhHY0RGd3lGR1pmUDRCOXdqUlYtWXpaREtJQk9JSW1reE9NMm81dV9fMEozMlZEMGVqQzdlcHBkV2dSNGdWdHR6cGpRbzdpMmw2SjBj?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791928821
+    },
     {
       "title": "Eagles practice squad news: 2 players signed, 2 players cut",
       "link": "https://www.bleedinggreennation.com/news/186795/eagles-practice-squad-news-2-players-signed-2-players-cut",
@@ -28,12 +40,6 @@
       "title": "Jalyx Hunt injury update: Eagles pass rusher not expected to play in Week 6",
       "link": "https://www.bleedinggreennation.com/news/186756/jalyx-hunt-injury-update-eagles-pass-rusher-not-expected-to-play-in-week-6",
       "source": "Bleeding Green Nation",
-      "published": 1791908733
-    },
-    {
-      "title": "Jalyx Hunt injury update: Eagles pass rusher not expected to play in Week 6 - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkE1Tlp6UUpYeHl6ekdvcnhnZ2l0RDVtcGFTaDlqNFV6Y05rby10RlpzYzRFak9aSGpuWEFxbUtFMGN1Zl84enM1VU5sdFJEZG5lbGtYcFZYNGNqMmgwUU1mLVpydTV2aTdCR0x5Y0FMR1hReEh1bU03RHRlSEZlNkk2ZjFjNGswaVZya2dDQjRwa3ZONVJZSlg4UmJyb2MwUHlfdi1oOTUzY2FjZjBlejE5eG1GczRhR1BiVG9Naw?oc=5",
-      "source": "Google News — Eagles",
       "published": 1791908733
     },
     {
@@ -61,12 +67,6 @@
       "published": 1791901314
     },
     {
-      "title": "NFL considering flexing Eagles off NBC’s ‘Sunday Night Football’ - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkdfcXRub1dlSkMzdWMwRkRPZFc5VC1Fa1ZOLVRIcWlua0dtYmJkNEY5dkhxNkpmUEZid1RHRVZ4OTFnS1JtbjFQQnEza0FRQUhjN1BDLVVwY2VfN3YyUU5zOVhSMXZ2NjIyYXk1WE1zMF91N0x1LW1WRnBUSXo0V0NTQmM2TEh0MVdUWnc2ckRTUGZiNWV3SzV0ZTdPLWNQWmxfVw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791897709
-    },
-    {
       "title": "Philadelphia Eagles RB Depth Chart After Will Shipley Injury - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0YtMnZ3a2IxbmVnWmI3ZzhPR1hfSlF1NS0xaHpYSXNPajYwN2lYMGpjV2dxQUtGR183cHhWMFkzcVRMWGJsN19OTHB6RWVId0lvT2ZtMGJHMTBuczFONHJqWGtjVHZTUm1hMThlOU5qSDVvZ2hHcHRtYmt2ZXd6Ty1mNDM0MEJoYXNJ?oc=5",
       "source": "Google News — Eagles",
@@ -85,28 +85,10 @@
       "published": 1791839673
     },
     {
-      "title": "Eagles Injury News: DeVonta Smith and Saquon Barkley have a shot to return against the Panthers",
-      "link": "https://www.bleedinggreennation.com/news/186701/eagles-injury-news-devonta-smith-and-saquon-barkley-have-a-shot-to-return-against-the-panthers",
-      "source": "Bleeding Green Nation",
-      "published": 1791837680
-    },
-    {
-      "title": "NFC East coaching catastrophes",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/186612/nfc-east-coaching-catastrophes",
-      "source": "Bleeding Green Nation",
-      "published": 1791836181
-    },
-    {
       "title": "Liam Coen Talks Day After Week 5 Win Over Eagles: \"No Flinch…\" - Jacksonville Jaguars",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHUwTHFoVmZYRFh5dl9xVHVSZzczdXZqR0YwOG00cWtFVGtpTm0tQy15UU5VY1pMMl9OSnFETUM1cTRtVXdXM2JRaUVHdExuUjZFWXlBNmFWZFRZYmNDYVhqLWRMTW9aQWN6MVlKcmROSmR4Tk4yMFJnOE9nZUFzUGdrWmNyQjdnTTk3MzNoR2M?oc=5",
       "source": "Google News — Eagles",
       "published": 1791830159
-    },
-    {
-      "title": "Ex-Eagles Champion Sends Warning To Roster After Loss vs Jaguars - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHBrd2JWOGlKQTF3SnA5VlhvcnJXNTNJaFVBTldPRTVFckk1TUFka3ZydVRNNngweEFJY0RWajBwMzV3UTlYNnd5ZGZNOEtudGJsNXpqYWJvRkt6M2treEp4d0szTlRjcm5ONFBIeUhaUjFkVVpoOVBweFRQOFF3LXNZNGU5d1dV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791822092
     },
     {
       "title": "Source - Eagles RB Will Shipley has partial tear of plantar fascia - ESPN",
@@ -115,22 +97,10 @@
       "published": 1791818820
     },
     {
-      "title": "Eagles-Jaguars Takeaway: Nick Sirianni isn’t helping - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUkVaR00tZFBTczNPN3VpVVBKcm9RTmRXX2lKWFpGTVEtTXBVOWtveEd0clpZcVZ3b2ZCY2FaaGR3blZMWEFISGI5eXk2b0NSeHE4bUNqdWM2dG85NmFobGhPbm1tQjF4X0RyYlRlcklZWFlvSm5Tck13UkJkazdCNV94RU9qR1JJSGlZd2RCX0cza1RqN2RrUTdoVG5veHFxaVlrX2Q3cGlneW1GcnNJQkVMcmEwdERhMFp2bU9nNA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791815630
-    },
-    {
       "title": "Eagles’ Jalen Hurts reaches new low after Week 5 performance - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblpyeXAyMmY3Q3RpajVhVEJwMWcta2tsVHZxQTZpMElCdVNreFBveXl0dmxmbFRZaW1tU0hobE9HX29GMG5iZ1E1Ml9tVWpnYjI3ZjBuSW5HTk85TXNDaHphUXFIaV9BQ1ljdzhTNk9BQzQ5bzM2Y2Y0b2hwWEdWdTd0SHhRdw?oc=5",
       "source": "Google News — Eagles",
       "published": 1791813575
-    },
-    {
-      "title": "Philadelphia Eagles Rumors: Team Could Deal Another Top Starter at 2026 NFL Trade Deadline - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjZxejJ3T19mSFJFWVpScVhfNVhqdkpKLS05amlnOUQ5VE9sVDRtUlpKSXhjQ29CT2hUTW1xYlg4enJkWFluWlpZLVpQTmxyOWliOEpkLUNrMUtWY1hhaTJjUXRVREpGRTJPaFM1UVd0X2M3TFlEZlBDLUxRNTlGcXlFRlluSC1OeG04dzhsNA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791811800
     },
     {
       "title": "Eagles grades by position after crushing loss in London - NBC Sports Philadelphia",
@@ -161,12 +131,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3llLWZPeG9QNkFFVFBZRF9MV21rbEk4YXYtcFRyNXUyalNKSEJHc2FLOWdtcThXRjBMZk1HRFVqRjdpMkc0ejNZdGRkV1JnUHpadWJfM0FKdHFSdEVXcHc0c01YcVB1dTltVzNtMWZnNzRXRXRxNktnUnIyTFgtQmhKcjkwcU12Ym5Cb3AtRVpaazR6ejJtbFRpa1R1bXZlVjBGc0dqRdIBpwFBVV95cUxPS2twRkZ5SjlUVkxqcmNka3plUVJlUXdPcWRLaS0zdF90Y0xCU0tad3pKWGczX3pXRWt5QzU0QTFYWFMybFJ5b3Fkcmd3NGV1ZVd3MVJoMUxEVXUzZWdXdkJqRHZ2YjRWeWh5RVU0NmNaVWpacEhBenQ3Y0c4eXBPbnoxaXlMR01GcGJ3OXVadURmQXlzREMyOUxpaWp2ZHZZR01Gb2p4UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1791772608
-    },
-    {
-      "title": "'This one hurts': Inside the Eagles' locker room after shocking loss to Jaguars - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFdvZGhrUGUzMTZkN2RYS1lzNVdDWExtcmgwTDFaNHFZeXdCTUFfbU1BOGxzQzRTcXB1QnBSeDNrLVhaT296NU15RkRoaFRvRDlQTXI2V2MtRTBTdEVReFJtNEZEY0xnRUdROWZ2bnV2T292M2F1akJjR2prVnhUUXd6cUJfZ1ZtU1A0eEJGTTlQVWlnblkwSkJvUmIwTlhHTGc?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791758768
     },
     {
       "title": "Spadaro: 6 observations from a hard-fought loss to the Jaguars in London - Philadelphia Eagles",
@@ -337,12 +301,6 @@
       "published": 1791577740
     },
     {
-      "title": "Where to watch NFL London Games: Eagles vs. Jaguars - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2k0NjJVTHpnN2hrUEFkeTVSMHBFMklQYTh4dWFtdnVNbWxmdGozLUE4ZlFfMWhiLTRFdjZPOEM0bXpiYW5wX3ZRUVlCeTdKcENZV3ViWFhjN0k1NXNKRjJJd1ExcXQ2dnBxQjhXTUhoUGdmdmRleVByT0FlYVR3TkJNcXRzSHZaRDFOWVpock1reWt2?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791576000
-    },
-    {
       "title": "Eagles release QB Andy Dalton after costly pick, demotion - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHY0TEx2THI0Y0xhczJaUGNJckEzUi1fMHhZaERrSGU5R3J2bXlNeS1UNmFkMmUxSVlGbFRzanY1ZF83VWhwRjluR3RLbVJDSUsxLS1jUW5nR0l2WGNlRWlra0tvbi04djE4NXBhMlNwRVZxc1BkaDBaRld1SEdzam55Vk9PeHdyc3JPYnhqNUJZQVVoaHJCeWNpenRjLWlUd0E?oc=5",
       "source": "Google News — Eagles",
@@ -391,12 +349,6 @@
       "published": 1791410271
     },
     {
-      "title": "Eagles trade C Cam Jurgens to Ravens for second-round pick, further reshaping O-line - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUm00WklFZjdkVkRZMmNZZGx1c1Q5dXIwOHAwS0RkdVB2TXFpdjhuak5ibmRPQlZCMlFLRHdaenNuaXFiYms0VlNveXpmYmEycHV0ckdsWEtEN25Na0pQVFUzZ1VDUklyQlFkLXFtYUpIdC1YYXdnS09aeXpVYS1ubVlSd3VHcVZsY3JaOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791404495
-    },
-    {
       "title": "The Eagles just closed their window - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC01SElxLXVnUFNmbU1RNUJZNjk2UlJsT3luMjJIZjBFTjhubmpRRmJpUEV2aE1Lem4xTTNFNG9WWjYwVW1ISzRZS1Rtc05Cak5oNlFUNC1QOEJUWFJ0S0xkZ2cyWkJXa1d3bFBITTRQTmNrTkFJb2g3aTVRZGhMM0RFdmtYQ0VHcDlNWGpYcE5sdnViZV9tempIMmI4eF9nNlhPVVlzVmt4NzFvRlVzWWFSbmEtUXFpWHZqWDRQVklrTV9p?oc=5",
       "source": "Google News — Eagles",
@@ -425,6 +377,18 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zS011N0lvS09vUllwaGxFTThNTUZNaGt6OE9veFZPak5NQ0I2WUE5aHRGeFNhYXRaOEM5aDc0Y0lna2tyVW02NUlzVDEwaGZjNU5rdlBaRWNEZmtzU0p5Z18wUDFkdkE?oc=5",
       "source": "Google News — Eagles",
       "published": 1791393133
+    },
+    {
+      "title": "Eagles agree to trade Cam Jurgens to the Ravens - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHBBQ0g4LVdZbzEyRk9fWXRkMGlDOWJuSVV2WnNkMEYtOUZMOHQtTDRkMUI4WkJsN2N3MWNXcjVKcERBUjNFeUszdWo3VHN1ZXpWWHd5RDNkcGwwYnVqbk91OUtkQmROM0ZLYzRndnlldkwtdElJenpkbGRqVm1xRWQwa1prSU5vOGRGUl9ia1A?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791392871
+    },
+    {
+      "title": "Philadelphia Eagles great Lane Johnson abruptly retires citing ‘mental health’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDBfQ2xEQVpGOEhQUU1CcFFkUDFtWDdXNU1QTjVINWVhZ010eWhJR2tHV0Z6WFZkZUF4el9qTzA1c05id0t5ZWxmRVJkTG1UTlhtams4VXBxOVFiX3d5ZEJyaURpWkNkRlBkRWlJaGs5QlRCZENfSnBZOWlKXzdlVzI1aFg3RFNfQXg1anA5TTA3UGMyNjhCcFN4alBuNExfS2V2MEV1c2QyR2M?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791319320
     },
     {
       "title": "Lane Johnson announces his retirement - Philadelphia Eagles",
@@ -469,6 +433,12 @@
       "published": 1791183600
     },
     {
+      "title": "How Eagles found out they didn't have Lane Johnson vs. Rams - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMEEtOVBvNUxaZm8tZHphNnVOSUowejU5U01ycWZSN1dUdnRoRmFrTUFFY1RuNTVkeXRvd1pBVFhJWl9QaGl5cXhQTDRZaG40RUdNREhIa3ZnWUdWT1VKUGcxaXJVNG1YcF9wNjluM2t4aTFQa2o2aGdvUWd4QTdsMGw4aEFhOURhOWNYNFpoNDY2dlctNjNDRlREeW5rSV9mMFJ3UHZMM2hKRGo0dnJ0Zk5UR28tZXJ0U1RwRm9JWFBSMkFTM1ZXT0NLVmxQTXhZNWlRdjdLT19zcWhqVlFMUjZrbGh2X1HSAe8BQVVfeXFMTVBPYVFPX1J3TmJERUdybVBJa2MwWXZHWDRyNUdzY2hlQjBJTV9aNE52dWVqREI0X2J4SzFSSTA0MlJFT2tjREhmQ0g5TjB5eDZaMTdRU1ROQmlBdy1uTmJndFU5bkFVYWh0VmxUbXJ5WGNBdG81U2NfWFJlclQ5QjRYVjc4enJHWmFJR3h2TUhsU1p0M1kzNVAxWF84NEk1STM1VC1xV1gxVDd4M3Ayb1VsZ1lSaEQ0NjdENHdzUURBX2toR3l2V0RvUEFpOFpzbU5hNlZ4WDJpdW1LZVFsMGMtNUZoTWRvUUREcExqZFk?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791183600
+    },
+    {
       "title": "Eagles vs. Rams: 9 winners, 9 losers, and 4 IDKs - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjgzNU4yUC15ZFRqQ3RUUjJwaElISk5jZktTYWlTV19vcWM0aWx3bWowSTlZckZYamdEZHBxX1FLSk5Ga3hkQVpreFdWNVNXY1RvNE9qSy1WSnB6VXRUM0h1YjF2bTVrZzg3bXp5NzBER05fSnlqM3I2cHB0ci1VZ0dhSFNiQmpuYl96SF9WQ0NyRUxIeHhORXJuMnZWbnVFa0F3ZjRHWDYwRUJxN1psZ1VESldrWEU?oc=5",
       "source": "Google News — Eagles",
@@ -493,6 +463,12 @@
       "published": 1791097200
     },
     {
+      "title": "Game Recap: Rams rally for 24-20 road win over Eagles in Philadelphia - Rams",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak5OTXFWb3NFSmdaaUxmdW1QakR3bERKbE9lampiT29oMC10Q0VXd3Z2ay1EU1FjeGlwYkNRSHlUQnY1RnBFeC10c183cUNFejRvVzVXSlZoaC0wZ2lvcF9YbFM0eEY0LV81VzlYdXFEdXI1emdCdFBhMTJKMXlTcTV6Y05WYkU2RF9DZUM2MUJNTEZCR0Q1aEV3MTd4Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791097200
+    },
+    {
       "title": "Rams 24-20 Eagles (Oct 4, 2026) Game Recap - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTjB1aEVkRFdFeW1VUHVVc1F5aHhCN01mMUIxZzFvc0plVU1fZGFPRVllRV9JS2NURW9XbU9KV0Mzd3d1OGlMM1FyREhyTHNVbnlEaEh4YXZRREU?oc=5",
       "source": "Google News — Eagles",
@@ -505,16 +481,40 @@
       "published": 1791097200
     },
     {
+      "title": "Handing out 10 awards from the Eagles-Rams game - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbUJ3c2xkRldVbnVVUXZPemRTRjRvNWU5ZGM0cmtTdmRsTzJfQl9SZlNRQ2VfMTN3Z1hYYXgwa0xXVWJGTG5qQ0dwS214Mk1EbFVYTFZaalNscWRoVjNRVVNBV2k4blkwUkhFMWNLZEd5clNadlhUVDJ3YzM?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791097200
+    },
+    {
       "title": "Eagles RB Saquon Barkley leaves loss with hamstring injury - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN19pSVdPcHBDZmFTWEZ4a2xRV1NzYjh0X3o0SXNDSzdaWjhObHVSTEh4M2FvVEtuX0sxUVJqWjhBRHEydGNlWElQVkZtdTd5Q195UFZqQ3ozSVlkTkxzbXp0WUdTVm1fa1NzYU9WWDd5TTJDUWFTaGUwSGxZdHlVdGVMaWZYbDh3QmFKVXNjN19Hblp3clUwc2k4R0ZURGs?oc=5",
       "source": "Google News — Eagles",
       "published": 1791097200
     },
     {
-      "title": "Handing out 10 awards from the Eagles-Rams game - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbUJ3c2xkRldVbnVVUXZPemRTRjRvNWU5ZGM0cmtTdmRsTzJfQl9SZlNRQ2VfMTN3Z1hYYXgwa0xXVWJGTG5qQ0dwS214Mk1EbFVYTFZaalNscWRoVjNRVVNBV2k4blkwUkhFMWNLZEd5clNadlhUVDJ3YzM?oc=5",
+      "title": "Eagles elevate Zach Ertz, Josiah Deguara - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmphcG9SZU52T2lkb1BGTnVMZUxSOEYwa20zRjFZV3FMLVBPeGo2ZXplVFpXTHhtTGRjVVdXNDNhWm5zMFpXYVkyWGxBaFA2VVhoV3phbm9ucHp2bU1GR19BUUVpRjBqeFJnWlJnUHcydXZpMFZ4eGh5eE5Td1RZTHljRTQxeGZrdmpOTTJEa1NLUlNPWUhhTTNOTWdqSFJXU0cw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1791097200
+      "published": 1791010800
+    },
+    {
+      "title": "Rams vs. Eagles Injury Report - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnNTandDWHNiY0VZMDItOTNIeXhmT0duYkdtcnYySmJfWWI4ZVpfckxLOElxbXFKOTRqZ2FOOG9TWEhLUFF3ZWNGUlJRUjRjanp3c1VyZ29xaWZObkxsTEhZU2NxaXNRa04zbjdKbjkxZ3l3ZHRoN2R1Rmg0NnJlVlhYMmRad1R5Skh5VTQwN2pLZ2dZdVZZOWdfdVJTUlUxR3QzXzhrc3IwMmZsbXc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790924400
+    },
+    {
+      "title": "Injury Report, Week 4 at Eagles: Puka Nacua and Kamren Kinchens good to go; Colby Parkinson questionable; Terrance Ferguson, Jaylen Watson and Aaron Donald ruled out - Rams",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQkx4MEhZS0ZVeG5TM0FiYk9GSk9ySDlCZURpYzNnb2ZHNFdPVE4ySnhqOUQ0VE15SUp4YkNuNDNTREZQMFdxc21XQlZubUR0bkQteUZPbnBXQ1ZNWEJ5OFdqU0tVbEJnZXZvaVo3VGJQN2xHTm9VMWg5bWVlSUkybWhHQjJ4cFo1cldPTnhMQzM2OWFJQ1VUZ3RtdjI4VDJPS1JMVTg0aE5YcTZjRmNQbzV2Vi12d2FkZV9sejhsc1o3c3JHa2xCVVV2WERwSGRWMFRRNUhrVUpOYlprVkdCc05LZkFISGlrMHNkTVlrczJSb3E1WE9Vd1cxeE41YW4tQXJ0dm90ZW9XMWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790924400
+    },
+    {
+      "title": "Eagles' DeVonta Smith out vs. Rams with hamstring injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkd5NUZhVGdySjJ2LUtYVy00QlVEWjJfMTlRLVBJOHE1R09kemk3NHFJZ3hRWUtxYUJPUGVqUEpzTW9vV2xrdkgzUTRFNWRSMU1uVXdlcHU3R2xXQjdQS192elBVMWttUnUyNXQ1Ymt2a3NTeURsb2FwQ0tmRzRPZ254SW5ab3ZsU2hfdm4wbGlZeW1q?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1790924400
     }
   ]
 }
