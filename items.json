@@ -1,11 +1,35 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-16T13:48:01.875374+00:00",
+  "updated_at": "2026-10-16T17:50:50.064354+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
+    {
+      "title": "Eagles-Panthers Game Preview: 5 questions and answers with the Week 6 enemy",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/187097/eagles-panthers-game-preview-5-questions-and-answers-with-the-week-6-enemy",
+      "source": "Bleeding Green Nation",
+      "published": 1792166154
+    },
+    {
+      "title": "Eagles sign Cowboys practice squad quarterback",
+      "link": "https://www.bleedinggreennation.com/news/187086/eagles-sign-quarterback-cowboys-practice-squad",
+      "source": "Bleeding Green Nation",
+      "published": 1792163416
+    },
+    {
+      "title": "Eagles News: Zack Baun says Tanner McKee has “got some sort of Tom Brady career arc to him”",
+      "link": "https://www.bleedinggreennation.com/news/187055/eagles-news-zack-baun-says-tanner-mckee-has-got-some-sort-of-tom-brady-career-arc-to-him",
+      "source": "Bleeding Green Nation",
+      "published": 1792159304
+    },
+    {
+      "title": "Tanner McKee 'ready to make the most' of starting chance; Eagles adding Joe Milton to QB room - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZk9YZk5tTXM4ZC1ZNzk1WHg4RWRrQ3RNZC1UVjRqTnZzNlhoODV4UlpLamZqcWlxNkp6ZDBwVWJrd2JRaU1WVHJOUWF4ZjM0ODFUQmRHMElreTh6MWQtR2lRQUhRMWpkT3hkTDZ1WjZEWWlub2djdzVna25aYWM4NlhONFBRRkdEdy1VX2Rtd0I3REQtaTNUWjd3V20yOTNpU1Q5OVpqZmlkSWZS?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1792156640
+    },
     {
       "title": "Tanner McKee faces a big challenge for Eagles, who might soon have to face reality - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjJoR0Q5Z2JRbVQtTWstMlBqWHZ1cDhQemRmanIybmlBVUhRSEg2Y1RHQnhmTHJzYndPcFZIM3cyOTQwb0lhYVgtYUUxcEZqWXFIWks5RmtBVWdUc09lSmh2Qnd1ODFORzlhd2hXZVVUOGtCRE1BQzdNSkdCZTM4WkRucWpmVU5SemgyZUZuTTVXS2NyOE9LMS05dXVhbnVfRU1oSDduTXQwTGtickVUcUJKRFROR005NGRTUVBhTXl5QnpzZmpLRU1oU1RIdw?oc=5",
@@ -29,12 +53,6 @@
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/187011/eagles-injury-report-devonta-smith-upgraded-dontayvion-wicks-downgraded",
       "source": "Bleeding Green Nation",
       "published": 1792101979
-    },
-    {
-      "title": "Spadaro: Tanner McKee will be ready for his moment - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2dkaWUwWU5ZTDY0ZnVvSXd6NG5wMWUtQklQLTQ2dWJYbk4zMmRPQl84Ui1NTGFiQ2M2blZUNW1ick9CYno1Tm9lTDdrbFJZc2pqQ0ZXczIzM0kyaUcyNENURmRja0pwVGxRR3pZZXRlLTlTR3lCNjRpZVpCT0ZIZ21tWE5xQnRiN210dzR5ZVZYa3J0OGMzZk9ydmJleHFXVUxrVk5lejdTcEZ6OHpOcUN2eXNXQQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1792101680
     },
     {
       "title": "Tension is building about Landon Dickerson’s future with the Eagles",
@@ -91,24 +109,6 @@
       "published": 1792084096
     },
     {
-      "title": "Eagles News: Jalen Hurts is running less than ever",
-      "link": "https://www.bleedinggreennation.com/news/186939/eagles-news-jalen-hurts-is-running-less-than-ever",
-      "source": "Bleeding Green Nation",
-      "published": 1792078491
-    },
-    {
-      "title": "Vic Fangio talks “dangerous” Panthers offense",
-      "link": "https://www.bleedinggreennation.com/news/186861/vic-fangio-talks-dangerous-panthers-offense",
-      "source": "Bleeding Green Nation",
-      "published": 1792074810
-    },
-    {
-      "title": "Nick Sirianni’s Eagles career is at a crossroads",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/186926/nick-siriannis-eagles-career-is-at-a-crossroads",
-      "source": "Bleeding Green Nation",
-      "published": 1792072633
-    },
-    {
       "title": "Analyzing trade values of potential Eagles sell candidates - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkVBWGJfdVg0cDFNYUM4QllCdVdWRUpNWXBORk13Y0JFOGJweUFvMDAwcXpyN3U1MTYzc2plbXNyUjVWWWZNdkY3ZUMxeEM3VVhmWEl6REx0Sk9xT2hZRUZYaEM5Mml6ZGpSMnJOQTRqM0xyc29VZVZXalZOMjZsWnVvNkUwNXVLTDRWNnNCS19IR0s2bEpTOGJTc19HY2VjQ0pNRHZtYzV3T0dtZWtJdEthQTM3emxQY1NJTUR0UkdTRllrWnpwNGwwVTBYUG9wQnN3RS11bldxWHc?oc=5",
       "source": "Google News — Eagles",
@@ -143,12 +143,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbEl0V0VQVTJES254RkIzT21Wc09QODViZTI5X2JYNUVMVkZWeW1ENkdXX0tFMnNYVWotV0xheHNpUVZkUFIzZXhFOGVqd212QkhuNGVadHNXTWNBWGRwak5DbXEzREpEQXNXdlRwNzN1dzJmY3h0SHNjMl9KbHhCdy13cGlnaTBzZFFhamlrMDBHNTg?oc=5",
       "source": "Google News — Eagles",
       "published": 1791994980
-    },
-    {
-      "title": "Eagles News: NFL insider senses “the concern is quite high” in Philadelphia - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGNGVVo0RzRLVXVFWXRpbXl2bHRxNS1hRVIxcE55WjdtQ09hTTBudDBJdEg3SHBrYWVBcTlKTTVxaEdoTkNZd2txNVFvTVpUUTBXNTAxOW1PZDg4eUhBNnF1TW9LaDg3OXIweDFYRUtaLVNrOEhXYmdNNFd3cFJjczMwcVF0a20tV29XUmJZangwRURXYVVJOW9qamVZeFVQOTlTbE0xZktHS1VBd1podHk4VlREM2J1dEM3UQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791988041
     },
     {
       "title": "Eagles sign T Xavier Truss and DT Zion Wilson to the practice squad - Philadelphia Eagles",
@@ -227,6 +221,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2lHaVU0TXBVaXRlRlMtTlJjWk1xdHVyTVdJbEJSblgteHVpbHR2TDllRVpaV28wdHlWNmRJeS1IbUN4dmZ4OVdtekh0aXZSWGV5ZU02cnRyakxiZzVYMTRMNkV4VHJjLXhNSDctUm55Y0E1UzFiVmFWcEJDOWRlSTE1ZHNMdlR6MjJLaXBfUFprUzJWX0lBWS12UXBZTUNvaElIYVJmNWl5SVhWZmh5Mw?oc=5",
       "source": "Google News — Eagles",
       "published": 1791757355
+    },
+    {
+      "title": "Jaguars 19-17 Eagles (Oct 11, 2026) Game Recap - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wUDhwTGJpZnl6YXQyMDlTV3NpbE9kUmRENmlmVk5BNFNZUXpKX1NUdlVWQktiSG9IM2JJWnh4bnZkU3k2a2FkSW1mWDBudDVxN20tN2lQUmg3TGc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791750515
     },
     {
       "title": "'Everything's crazy'. 4 takeaways from Eagles last-second loss to Jaguars - Delawareonline.com",
@@ -385,18 +385,6 @@
       "published": 1791559526
     },
     {
-      "title": "The Eagles are doing something scarier than tanking, rebuilding, or going all in. They’ll be better for it. - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXBETGFrV1Rad2ZYcWVSOWFRQURPZDBkbl80VE9Ed1JwM3pmb0JVbFJoNnNEY21sX05uVGZ5Q3NNc3NqZzRVX0ZsTXpMVnd4MV91YmRQeDhBeUJhWWxOV1ZwOHgzVk1XeVlaQkxGZllySHpiOTZ4LUxZRDhfWnFXRUJiMWl1cEZqLVZIM2pzNEFqRzE3Zy00SFVZZnI?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791549785
-    },
-    {
-      "title": "Eagles vs Jaguars betting guide: Odds, props and picks - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTR2dVpJZlpFdWJpeFU0c1pSNDRuRzRnanNfLVNGMzJSTkxJdTZlczk1bGt3dTROaGE0WGZLRGxlMDJNVS1Hbm5peFg4bTVMTHhsM0hZNGVWWEtRdXJKLXdsSnZUWS1fWkl6WTZWR1JwRFc2WTlrZ2oxVmk1RDBENUhDaE9pZDlHRzB4aHpsRnFGWXE2UkYxb1MwOWR5d2FWM3ppZjE3NS1WVnRCSlgtb0dMZGo5ZC05S1B1djI2bmxfTWZuSnhyQkZDWGMxMllnVVl4cdIB3AFBVV95cUxOMnBvMHZXbVFWS01INVpodUhLWjBFUndWYWhvRzZlRWZOSTRsUjlPeC15d1RWQjF1dlQwck9RMURFQTE2LW5TM3l2bFlqLTJ4MEJlXzBaNFZmMTl5dDgzbVY3NFFCRlNfS1BmTkxoc1hJNzZTR25Obk1MZGdmeTd6MXpDN3J0cm84Sk1oNzlZam9NUFZXUldoXzBhb1M1cFp3WTJ6eGZmWkxzWjExRnBoU3lCS0FBWHk0SUFMTkZtSElLTzFsYjFESWUwOG1JYmpZMXpCTXJ6RXNLa3BG?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791543600
-    },
-    {
       "title": "By the Numbers: Eagles at Jaguars - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWIwR1lBc2hGMW52WVkxUU1MZVd3b3dIbDBGODJyQjJrRDgtMXF1N19hSGh0SGhzNzhEcFVjQXNhSTBtRkF2VkMzcnhlTU9aeThlSmUtb2I1bkI3czF0cWpIZE9xcjJ3eWRJTzBvQTREbEIxd0lpS3BGR1J4MHA1STZ0XzNJaDBSRzVXR2gtZF9VRVd6V1NzNW5NOUdPZkZsbGd5bzdpT2pRTlhhdXd3SWVyLXNKSi1DYllGZW1OMXlPRG1yQlZnMmNmUXA0UGhpQVB0aEFzWkRCV1Ru?oc=5",
       "source": "Google News — Eagles",
@@ -421,14 +409,14 @@
       "published": 1791356400
     },
     {
-      "title": "Eagles sign RB Dameon Pierce to the active roster - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dYWEZZR3oxc0U5c0pSNHR5MEY4UGkzOXVRV2k0X1FOSzNBYXRZRUNsakFuMW5iREZIeVFSTDIxNklpSEVYVXhzS2tPcUQ3RjI2VjJJamREQzFhR1ZjYU02UEJadDVJMTF0NmNqc3BQeDB1c0REZnlvQTVDZ2locVI4UVZ0M3Y4OHF2Ql9VRXNsc0J2XzB5d3lSWDlLQk5ldGZhWlc3QlkwdEdGekZTNGkyT2VlM2FHVjJqMzc3Zw?oc=5",
+      "title": "Eagles agree to trade Cam Jurgens to the Ravens - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHBBQ0g4LVdZbzEyRk9fWXRkMGlDOWJuSVV2WnNkMEYtOUZMOHQtTDRkMUI4WkJsN2N3MWNXcjVKcERBUjNFeUszdWo3VHN1ZXpWWHd5RDNkcGwwYnVqbk91OUtkQmROM0ZLYzRndnlldkwtdElJenpkbGRqVm1xRWQwa1prSU5vOGRGUl9ia1A?oc=5",
       "source": "Google News — Eagles",
       "published": 1791356400
     },
     {
-      "title": "Eagles agree to trade Cam Jurgens to the Ravens - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHBBQ0g4LVdZbzEyRk9fWXRkMGlDOWJuSVV2WnNkMEYtOUZMOHQtTDRkMUI4WkJsN2N3MWNXcjVKcERBUjNFeUszdWo3VHN1ZXpWWHd5RDNkcGwwYnVqbk91OUtkQmROM0ZLYzRndnlldkwtdElJenpkbGRqVm1xRWQwa1prSU5vOGRGUl9ia1A?oc=5",
+      "title": "Eagles sign RB Dameon Pierce to the active roster - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dYWEZZR3oxc0U5c0pSNHR5MEY4UGkzOXVRV2k0X1FOSzNBYXRZRUNsakFuMW5iREZIeVFSTDIxNklpSEVYVXhzS2tPcUQ3RjI2VjJJamREQzFhR1ZjYU02UEJadDVJMTF0NmNqc3BQeDB1c0REZnlvQTVDZ2locVI4UVZ0M3Y4OHF2Ql9VRXNsc0J2XzB5d3lSWDlLQk5ldGZhWlc3QlkwdEdGekZTNGkyT2VlM2FHVjJqMzc3Zw?oc=5",
       "source": "Google News — Eagles",
       "published": 1791356400
     },
@@ -493,14 +481,20 @@
       "published": 1791183600
     },
     {
+      "title": "Game Recap: Rams rally for 24-20 road win over Eagles in Philadelphia - Rams",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak5OTXFWb3NFSmdaaUxmdW1QakR3bERKbE9lampiT29oMC10Q0VXd3Z2ay1EU1FjeGlwYkNRSHlUQnY1RnBFeC10c183cUNFejRvVzVXSlZoaC0wZ2lvcF9YbFM0eEY0LV81VzlYdXFEdXI1emdCdFBhMTJKMXlTcTV6Y05WYkU2RF9DZUM2MUJNTEZCR0Q1aEV3MTd4Zw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1791097200
+    },
+    {
       "title": "Game Recap: Rams 24, Eagles 20 - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXNBWmdqMC1UbmhoMDVFSVBVMjNmRHJfX0ZOZjl4TDlWV21PWEI5c3FxUkFFMC1CVTE5LVZqTlBMYWxGaDI5Tnh4SW54NjBqWl9yRG42YW1mLS1vcnZlak9MWU12VVBhOFdsSHBNek1FbGR1ZUV6anpuazZRMGNhbUk2eE1MaHlhMmNrOVZDRXktRWRzNmdTSW9KMnNmRlo5RzNONGJLOG1DV1RhamtvTElxeWFyalFQTjVZZkFnY1p0dkJNSlRONVNCZTJFR1B4?oc=5",
       "source": "Google News — Eagles",
       "published": 1791097200
     },
     {
-      "title": "Game Recap: Rams rally for 24-20 road win over Eagles in Philadelphia - Rams",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak5OTXFWb3NFSmdaaUxmdW1QakR3bERKbE9lampiT29oMC10Q0VXd3Z2ay1EU1FjeGlwYkNRSHlUQnY1RnBFeC10c183cUNFejRvVzVXSlZoaC0wZ2lvcF9YbFM0eEY0LV81VzlYdXFEdXI1emdCdFBhMTJKMXlTcTV6Y05WYkU2RF9DZUM2MUJNTEZCR0Q1aEV3MTd4Zw?oc=5",
+      "title": "Rams 24-20 Eagles (Oct 4, 2026) Game Recap - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTjB1aEVkRFdFeW1VUHVVc1F5aHhCN01mMUIxZzFvc0plVU1fZGFPRVllRV9JS2NURW9XbU9KV0Mzd3d1OGlMM1FyREhyTHNVbnlEaEh4YXZRREU?oc=5",
       "source": "Google News — Eagles",
       "published": 1791097200
     },
