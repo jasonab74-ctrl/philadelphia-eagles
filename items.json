@@ -1,6 +1,6 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-10-20T05:50:32.517214+00:00",
+  "updated_at": "2026-10-20T11:06:59.553063+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
@@ -14,7 +14,7 @@
     },
     {
       "title": "Philadelphia Eagles quarterback Jalen Hurts out for season after blood clots discovered in QB's lungs - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEJ1b29JRm9FZkFXRVZsSWZadnQyYzA3TXY5RFhBb3BaRzBxN2JzZWFvNmNhYkhqd1AyRGdCUDA1bG9TTlF1c3lEVUlKaW1ZVzdvcGU0YXlPLWI0T2JxOXpkQ3c5ZENzVWJpX1lxcHpNNHBWR0xNSmFsb1pjYXloeU1pSzBIMVg2bTc3bFNMUkRuM3paOGx6NHBqU3Q5S2xxcWU2RnRzUGZ0RlF3WUV2cmtMZkdzZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEJ1b29JRm9FZkFXRVZsSWZadnQyYzA3TXY5RFhBb3BaRzBxN2JzZWFvNmNhYkhqd1AyRGdCUDA1bG9TTlF1c3lEVUlKaW1ZVzdvcGU0YXlPLWI0T2JxOXpkQ3c5ZENzVWJpX1lxcHpNNHBWR0xNSmFsb1pjYXloeU1pSzBIMVg2bTc3bFNMUkRuM3paOGx6NHBqU3Q5S2xxcWU2RnRzUGZ0RlF3WUV2cmtMZkdzZ9IBuwFBVV95cUxNV0JZSV9zWUZVUmUxSzFTT25kbVJPNVN1OTlqSVFpRUlVRXJ1Yy0zZFQ0T2RhSmJHdEhxLWFSd1RjYXlJN0wxRmhKSG1oeTJqTnMxQTV3Z3pfek9KX2ppRHF5N1BlTjUxanc4N1p6TjJsMHVraXBJa3N5d2NrVnI4Q0VKRFlFQkhIYkc3dVpFenczN0dnYUsyNlp3a0xtZENuS2k3WnVONG5aczF5U3I4OGZzc1FES190bWtV?oc=5",
       "source": "Google News — Eagles",
       "published": 1792444190
     },
@@ -64,12 +64,6 @@
       "title": "Eagles News: “This offense is such a trainwreck”",
       "link": "https://www.bleedinggreennation.com/news/187542/eagles-news-this-offense-is-such-a-trainwreck",
       "source": "Bleeding Green Nation",
-      "published": 1792425866
-    },
-    {
-      "title": "Eagles News: “This offense is such a trainwreck” - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2pQR0FqcTd2TG5rNWZ0VUxqUjBBX2E0NlhncjcwdDZZenJ2WGZqcUt1Q1VkcmgyVXp6b1FmVUlTc2dfenk0cHdjYUF0UHRkYm5SbTZZaFBjb1BicGk1YXRoVWEtTTVSd1BEaE9EcUs2VlljNUhaY252TTlUQXA3X013bHlPVURQVHVlUkIyem92WVRMSXFLRQ?oc=5",
-      "source": "Google News — Eagles",
       "published": 1792425866
     },
     {
@@ -127,16 +121,16 @@
       "published": 1792362599
     },
     {
+      "title": "Eagles News: “This offense is such a trainwreck” - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2pQR0FqcTd2TG5rNWZ0VUxqUjBBX2E0NlhncjcwdDZZenJ2WGZqcUt1Q1VkcmgyVXp6b1FmVUlTc2dfenk0cHdjYUF0UHRkYm5SbTZZaFBjb1BicGk1YXRoVWEtTTVSd1BEaE9EcUs2VlljNUhaY252TTlUQXA3X013bHlPVURQVHVlUkIyem92WVRMSXFLRQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1792360481
+    },
+    {
       "title": "Eagles-Panthers final score: Philadelphia loses fourth straight game in very boring fashion",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/187379/eagles-vs-panthers-live-score-updates-highlights-injury-news",
       "source": "Bleeding Green Nation",
       "published": 1792357051
-    },
-    {
-      "title": "NFL Week 6 Late Games discussion",
-      "link": "https://www.bleedinggreennation.com/game-day-threads/187221/nfl-week-6-late-games-information-live-chat-discussion",
-      "source": "Bleeding Green Nation",
-      "published": 1792357039
     },
     {
       "title": "Carolina Panthers vs. Philadelphia Eagles: Game Highlights - ESPN",
@@ -151,16 +145,22 @@
       "published": 1792355414
     },
     {
+      "title": "Eagles-Panthers Week 6 inactives, with analysis - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNm5DUGxuOUpodGZDOUZyTjU4QW9XdllMOW1MdF9XTUV0aDVHZjY1MDI3QWdwSUpvSlhrb082WE5HLVVCM3lIaHdnUVp4ZjRIZGZ1SFBVclZ0ZThlU0F2NEk1SXlMTjRndmlPLXJrRlVzR1FfSmIyZFVsTEppV2Y3Q05qaEVzUUhTQ1I0Q3h3VmJNbUhsc2RVRWtLMklnelhLdUpjcA?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1792337695
+    },
+    {
       "title": "Panthers vs. Eagles Inactives - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb29selZWU0FySjVpUmhWSmk4c2tkQjdYTnRkYkhBREFab0tCQ2pwZFg2bzZ1ZXh3Vk43RVhKY1Q4Ti00Tzh3VDBhMGVZbTdLRzZyXzk5YjFlLWl0YVQxV1d6TWRtWEVyNDhiZUI3WVFGWDJheVlhMmFsNmwyanFsaGxWbzBZd3VDMzB3aEsxQkxsVEtvYUhrS1RjVkQyNFRlc2lRM2JJb1pzbU50TjliVTN3cXROVHlfc0NaZEt3ZmZVRVU?oc=5",
       "source": "Google News — Eagles",
       "published": 1792337670
     },
     {
-      "title": "Eagles vs. Panthers Week 6 game information - Bleeding Green Nation",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHF2YzlqRWpLbzF2TWZzNDdUUUkzSXNkOFQ5alhTRl8xcGlCN0JiRUhZTzZfbkJUMFg3X0xRUDNTUXhyWDRYWUJVMlZZOHRJdlljWUZPbkRYbWRvMlU3UmhSbHdUMW1xb29WdzJOUHhWbHRnekJTWjNjTmU2c1c4Z29VRFludVdHM3VYSzZ2RGlKNVV3aEdGNU94MGQ5RE9VOC1hSVAzd2tDUWlUREZHZERKcWxNQ00tTjhOMnFMTQ?oc=5",
+      "title": "How to watch, stream, and listen | Panthers vs. Eagles - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUJGZkFmR2dDLTFiVDVQZTNrVWpqMWFMRml1dmlZSktpb182WndXajlveVhTRzAtZHNlYnpDUmpsZEItTHNQc2ljMVVSTXI4WTB0NHZucmtRcG5pQzkzT2xnRW9ZT2o5STJNbFJ2cXpEY3ZMZXBXX2pfLWhDVWI0UDlSTFgwcFV3aE1TVER4U0JjNlVLLXEwMFN4SmFaZ2Y4dEdBZk9Wak9CMFRqeEdtODkxZWF1N0xGUGZqUk5INEZRc1VZZlpfZw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1792319395
+      "published": 1792306800
     },
     {
       "title": "Eagles place QB Jalen Hurts on Injured Reserve, sign RB Jaydon Blue to the active roster - Philadelphia Eagles",
@@ -193,14 +193,14 @@
       "published": 1792236559
     },
     {
-      "title": "Eagles vs. Panthers predictions for Week 6 of the 2026 NFL season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3BEYzVURmF5dHNvdlYwcWYzY1FwU25IaTZRRVZ2N0oyUDRwN0FacXpiQmUwUWJlRXBxMV9XQW1rbmpfUXY3aFFTQjhQN0o0VkdPdGtWV2JOX0w2SjZUVU1ud1A1ajNkTGF4WVNqVGtXbFhwR0pNeGg3T3VrMGpKNXFOamg2UFBOeW9FY05jcmMtcWJ3endwV21mWTBQblMyMmtIeVlnbGJGRmcyZ0dZczNBT3lrdmtmNEcwb1VGUm5DR0h2UXBneW9OYVpka3fSAdcBQVVfeXFMTVZ1NXUxVmppYVNOTGJUREZFQWEzaUNqR2VTOWxKZ0lKZ3JGU1JkRGdiTlFvM0xyRi1vY2RnekFRZkdSc3VyeUtCb3N1RjRoaDItSjFBTHVSY25ad3FWcWtNMHQyTXM0cHNNc0xWQkpoam5uOXp0VmZwNDAxRERNazdZTEtFTU1YampPYVlhVzE0NUxackV4T3ZrQmcyQ2RLS0pfUmNURkhDLTRKSmY4OFZlc05QUjNET2hhYmhrVkJtM2l6WTNQMVBzVS0yV1JaZ0VheFRyREU?oc=5",
+      "title": "Roob's Eagles Observations: What makes Tanner McKee unique - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2xXb1QyeFU5TzM5X0tJdmF0NHZFTGI1TDdPT0R0eEthVTRXMVhYUzU2S0RUSmJMeWg5NVRocUl0dU83cVlmYzEzWUJRLV9VQndMb1pyeHRCZ0hUUWI5X2JsYnNOamFrUHNmSHpqS0dnTEpmMU1MNkZBM19fLVFmSzlKQU5BM2pYM3ZMMWNLcnE4dmVBRTFCZzlqUFFyVW5NWXI2U05WLXdURzlZNktpMmVsd3BGVkNIXzB6SWx2ZkpZd1VYTnA1cHJXcUpDMERjYVZz0gHbAUFVX3lxTFBwTW1rN1B2ZDRBb2Nrc3doYVN4VUt5bEtyMTZzR0taa0Z2WTlqdHZfelh4cFVwZlRWREFfeThiQ0daNmNtdEtleFNzWmp6VnRXNVdoUWMxYUJUaWxWMWhjSDdOZUJOZUJYdk5SZG4zYjJyUEFDak9UQXRsTkVSaWhtd1BOZ0J3SDFKSF81N253QTNmNDVsdFV2X1JfTUlYdWJiRTc4dE53UFBCcFJuS3E4RndRSVNUdjRPWFdhWE9JWWdNWHliRkxfSGw3SDBRZEJxNEVJSVk2OWxDVQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1792234800
     },
     {
-      "title": "Roob's Eagles Observations: What makes Tanner McKee unique - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2xXb1QyeFU5TzM5X0tJdmF0NHZFTGI1TDdPT0R0eEthVTRXMVhYUzU2S0RUSmJMeWg5NVRocUl0dU83cVlmYzEzWUJRLV9VQndMb1pyeHRCZ0hUUWI5X2JsYnNOamFrUHNmSHpqS0dnTEpmMU1MNkZBM19fLVFmSzlKQU5BM2pYM3ZMMWNLcnE4dmVBRTFCZzlqUFFyVW5NWXI2U05WLXdURzlZNktpMmVsd3BGVkNIXzB6SWx2ZkpZd1VYTnA1cHJXcUpDMERjYVZz0gHbAUFVX3lxTFBwTW1rN1B2ZDRBb2Nrc3doYVN4VUt5bEtyMTZzR0taa0Z2WTlqdHZfelh4cFVwZlRWREFfeThiQ0daNmNtdEtleFNzWmp6VnRXNVdoUWMxYUJUaWxWMWhjSDdOZUJOZUJYdk5SZG4zYjJyUEFDak9UQXRsTkVSaWhtd1BOZ0J3SDFKSF81N253QTNmNDVsdFV2X1JfTUlYdWJiRTc4dE53UFBCcFJuS3E4RndRSVNUdjRPWFdhWE9JWWdNWHliRkxfSGw3SDBRZEJxNEVJSVk2OWxDVQ?oc=5",
+      "title": "Eagles vs. Panthers predictions for Week 6 of the 2026 NFL season - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3BEYzVURmF5dHNvdlYwcWYzY1FwU25IaTZRRVZ2N0oyUDRwN0FacXpiQmUwUWJlRXBxMV9XQW1rbmpfUXY3aFFTQjhQN0o0VkdPdGtWV2JOX0w2SjZUVU1ud1A1ajNkTGF4WVNqVGtXbFhwR0pNeGg3T3VrMGpKNXFOamg2UFBOeW9FY05jcmMtcWJ3endwV21mWTBQblMyMmtIeVlnbGJGRmcyZ0dZczNBT3lrdmtmNEcwb1VGUm5DR0h2UXBneW9OYVpka3fSAdcBQVVfeXFMTVZ1NXUxVmppYVNOTGJUREZFQWEzaUNqR2VTOWxKZ0lKZ3JGU1JkRGdiTlFvM0xyRi1vY2RnekFRZkdSc3VyeUtCb3N1RjRoaDItSjFBTHVSY25ad3FWcWtNMHQyTXM0cHNNc0xWQkpoam5uOXp0VmZwNDAxRERNazdZTEtFTU1YampPYVlhVzE0NUxackV4T3ZrQmcyQ2RLS0pfUmNURkhDLTRKSmY4OFZlc05QUjNET2hhYmhrVkJtM2l6WTNQMVBzVS0yV1JaZ0VheFRyREU?oc=5",
       "source": "Google News — Eagles",
       "published": 1792234800
     },
@@ -295,6 +295,12 @@
       "published": 1792084140
     },
     {
+      "title": "Analyzing trade values of potential Eagles sell candidates - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkVBWGJfdVg0cDFNYUM4QllCdVdWRUpNWXBORk13Y0JFOGJweUFvMDAwcXpyN3U1MTYzc2plbXNyUjVWWWZNdkY3ZUMxeEM3VVhmWEl6REx0Sk9xT2hZRUZYaEM5Mml6ZGpSMnJOQTRqM0xyc29VZVZXalZOMjZsWnVvNkUwNXVLTDRWNnNCS19IR0s2bEpTOGJTc19HY2VjQ0pNRHZtYzV3T0dtZWtJdEthQTM3emxQY1NJTUR0UkdTRllrWnpwNGwwVTBYUG9wQnN3RS11bldxWHc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1792063195
+    },
+    {
       "title": "Eagles sign DB Dean Clark to the practice squad - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXlyUEh3YW94azhCWjktaW9RVlBFVHVnMXRwSTZrenNSN2tLTE9xN25rb3BvUlBka3dXejlpZlNHNVB2bWRJM21KTlhoa0lfSHk4NGlWbm9JaTdPdEh1aGI1QnA0VEhPc2RjVGtoZFJNTms3VmlGRjVVYXlQRms2UjB1dXQwY2VlT2VaUS1wZVF5V0V1cm9GdHFqQTZndlFJ?oc=5",
       "source": "Google News — Eagles",
@@ -364,7 +370,7 @@
       "title": "Eagles News: “It really hasn’t been a good year for Nick Sirianni” - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVW44QkxIQTZ5U3JQVExWc2pzOGdjTmtBRWdDUENGRlV5VDJtSVhlTEJhRzRiU3FtS2dUN2dXc3JXdy1MbE9mUFJyMTIxOUxfSGFtNnZJX0hZVjhUUE5EdVZjNmpneko2LWdsRTR0ckRDMnRpSDR2ZXZFWUlKMmJKRDNyR1c5VFp2UEhsRGs5SF9KdVlXcXFhY3k4RXVYQ2d3cW82bk1yM2I5NDJHMnRv?oc=5",
       "source": "Google News — Eagles",
-      "published": 1791800559
+      "published": 1791788400
     },
     {
       "title": "Spadaro: 6 observations from a hard-fought loss to the Jaguars in London - Philadelphia Eagles",
@@ -409,14 +415,14 @@
       "published": 1791702000
     },
     {
-      "title": "'I lost us that game': The Eagles botched a game they had to win. What happens to Nick Sirianni now? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWZIczVJa3JHVGxMQjJVVmJLT2RHRktod3hKNkN6V0ZDLWlFeUp2dXNZS2pCTUdJZEpVdnFMMkNJMk9hd0Zsb1FUdlBiX0JieWcwTXMyUlpOUUpuYzRzV3ZkR2tyMHRyQjhHLUFKa25VOVdZYXNWS0ZNNDZxY1l0RDNHcktzOTJXTjdtbDFLNGQ2OHFwMDB3Rm13SGJ1ZklSM3VuY0xFZk1hVjFXUWgwUGdDWXo4a2hERXptdXRrYWRPb0F6YUtHUUt6Zi1hNEgtUXBoRG1qMlc0WGZyMDFRZA?oc=5",
+      "title": "Eagles devastated as Jaguars hit 57-yard field goal in final second. What now for Philly? - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUJDbVc2a3pkUXpfOU51QVk2QWpEblNydnV1QzZtcFJXWTVqVmdYMWVlN1VZa09LOTZYSFlwMTBiTVhzOGFGTkxwU3JPdjhtV0dydkhtVXFLTGdXQmtPci1JOGtqNlRsVmw3ejFlM3ZQYVJiWGZyNmpqYUc3UG00TFgwMTdJZHNBTGlNSlo4cExsQkZr?oc=5",
       "source": "Google News — Eagles",
       "published": 1791702000
     },
     {
-      "title": "Eagles devastated as Jaguars hit 57-yard field goal in final second. What now for Philly? - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUJDbVc2a3pkUXpfOU51QVk2QWpEblNydnV1QzZtcFJXWTVqVmdYMWVlN1VZa09LOTZYSFlwMTBiTVhzOGFGTkxwU3JPdjhtV0dydkhtVXFLTGdXQmtPci1JOGtqNlRsVmw3ejFlM3ZQYVJiWGZyNmpqYUc3UG00TFgwMTdJZHNBTGlNSlo4cExsQkZr?oc=5",
+      "title": "'I lost us that game': The Eagles botched a game they had to win. What happens to Nick Sirianni now? - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWZIczVJa3JHVGxMQjJVVmJLT2RHRktod3hKNkN6V0ZDLWlFeUp2dXNZS2pCTUdJZEpVdnFMMkNJMk9hd0Zsb1FUdlBiX0JieWcwTXMyUlpOUUpuYzRzV3ZkR2tyMHRyQjhHLUFKa25VOVdZYXNWS0ZNNDZxY1l0RDNHcktzOTJXTjdtbDFLNGQ2OHFwMDB3Rm13SGJ1ZklSM3VuY0xFZk1hVjFXUWgwUGdDWXo4a2hERXptdXRrYWRPb0F6YUtHUUt6Zi1hNEgtUXBoRG1qMlc0WGZyMDFRZA?oc=5",
       "source": "Google News — Eagles",
       "published": 1791702000
     },
@@ -427,14 +433,14 @@
       "published": 1791702000
     },
     {
-      "title": "Eagles, already depleted at RB, lose Will Shipley to foot injury - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFA1and6SXBxTjctZ1BNNTdpdk4wa2ctWllCWkpPTEdrM0luZFkyN2NkYW9jODNmczdjR1hnQTY5QlFJaVNMalJnSDB5OUJjN1BsdmZoVUxJT3c3OUoxMUt1bzUxX3BXSmlucVNEdVNEa21QS0tBR0YzaEdKU3k4ZkRESmludkJxWUJ3Q25mTi1mSzQtNWoyeW1leVA?oc=5",
+      "title": "NFL Fallout Week 5: The Eagles Aren't Contenders — And Should Start Rebuilding - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3llLWZPeG9QNkFFVFBZRF9MV21rbEk4YXYtcFRyNXUyalNKSEJHc2FLOWdtcThXRjBMZk1HRFVqRjdpMkc0ejNZdGRkV1JnUHpadWJfM0FKdHFSdEVXcHc0c01YcVB1dTltVzNtMWZnNzRXRXRxNktnUnIyTFgtQmhKcjkwcU12Ym5Cb3AtRVpaazR6ejJtbFRpa1R1bXZlVjBGc0dqRdIBpwFBVV95cUxPS2twRkZ5SjlUVkxqcmNka3plUVJlUXdPcWRLaS0zdF90Y0xCU0tad3pKWGczX3pXRWt5QzU0QTFYWFMybFJ5b3Fkcmd3NGV1ZVd3MVJoMUxEVXUzZWdXdkJqRHZ2YjRWeWh5RVU0NmNaVWpacEhBenQ3Y0c4eXBPbnoxaXlMR01GcGJ3OXVadURmQXlzREMyOUxpaWp2ZHZZR01Gb2p4UQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1791702000
     },
     {
-      "title": "NFL Fallout Week 5: The Eagles Aren't Contenders — And Should Start Rebuilding - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3llLWZPeG9QNkFFVFBZRF9MV21rbEk4YXYtcFRyNXUyalNKSEJHc2FLOWdtcThXRjBMZk1HRFVqRjdpMkc0ejNZdGRkV1JnUHpadWJfM0FKdHFSdEVXcHc0c01YcVB1dTltVzNtMWZnNzRXRXRxNktnUnIyTFgtQmhKcjkwcU12Ym5Cb3AtRVpaazR6ejJtbFRpa1R1bXZlVjBGc0dqRdIBpwFBVV95cUxPS2twRkZ5SjlUVkxqcmNka3plUVJlUXdPcWRLaS0zdF90Y0xCU0tad3pKWGczX3pXRWt5QzU0QTFYWFMybFJ5b3Fkcmd3NGV1ZVd3MVJoMUxEVXUzZWdXdkJqRHZ2YjRWeWh5RVU0NmNaVWpacEhBenQ3Y0c4eXBPbnoxaXlMR01GcGJ3OXVadURmQXlzREMyOUxpaWp2ZHZZR01Gb2p4UQ?oc=5",
+      "title": "Eagles, already depleted at RB, lose Will Shipley to foot injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFA1and6SXBxTjctZ1BNNTdpdk4wa2ctWllCWkpPTEdrM0luZFkyN2NkYW9jODNmczdjR1hnQTY5QlFJaVNMalJnSDB5OUJjN1BsdmZoVUxJT3c3OUoxMUt1bzUxX3BXSmlucVNEdVNEa21QS0tBR0YzaEdKU3k4ZkRESmludkJxWUJ3Q25mTi1mSzQtNWoyeW1leVA?oc=5",
       "source": "Google News — Eagles",
       "published": 1791702000
     },
@@ -497,18 +503,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTQyd0RGRm1raDM1T1RsRlkwWnFMS1FhSkJ3MXYtYjZaMTh6TDZ6RXB2VG16eFZ0dENRZklWbDFUT2ZmbXNWX2xvQnFiNWc4N18xYjBqeFFkWUpZcTBZTzVIUGJzeWhQZE15RjJ1ZzZYZFJDU0x6NXRCOWptcDB4NW9MQ3FpRlk5LV9KOG1jd1NkSWpTalE?oc=5",
       "source": "Google News — Eagles",
       "published": 1791356400
-    },
-    {
-      "title": "Lane Johnson announces his retirement - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXk2NWJackNYY1BBcloxbm9LMnJ2U3RlUEJPRUFOUzZwWk1KUWstQnlBNDdZakVUSWpZOVFwWWFZU2JLU2RSaVFIbHE0TnNIZlpObnJtSW83SnNNU2tMNkYwMUd1QTVmb1NKc0M1XzlLbG1oSC1MUGZYWHlzbTRxVF9jbw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791270000
-    },
-    {
-      "title": "Eagles All-Pro Lane Johnson retires, ending 14-season NFL career - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkRPZmZSZUVTbTZGV3h4X2wzRVdtMGdCVnBKWnJoSjI1UFE5dDU3VmgwUUZnamk1cFA5MFpWSW1LQ0pmQjlqV3dTa1lzaWRrc2UtUXlEbzVNMk5IbzBvT01qeDFjSzU1SDJRMkNWbHdiVlF2bW10SlRka0MtV0xNSWZGQlprMzZrYnFIUER0cUVMQjZJM1RGaUs4aU5ieGx3djhnajNTTGR2UjlTRnVF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1791270000
     }
   ]
 }
