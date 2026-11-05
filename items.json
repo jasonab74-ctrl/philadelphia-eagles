@@ -1,16 +1,94 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-11-05T10:29:49.922957+00:00",
+  "updated_at": "2026-11-05T18:13:44.268097+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles name Joe Milton the starter for Week 9 - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlN3RVZNYUFIYk5SQ3ZSVlBDQlBfZGotN2YtS0QtRndMUUtkb0llWDYzSUpuazBJZm50NXJPMjdrUG1KcWprV1VvenlxY1hmN0xiRWdWeTlHb21DSjkzYnJRd3NWSlI1Q0ZWdUwyWVM1V0JEWmRPQWRlZG8xdDdyUXdxTGhPX2NUS0M4TERJcGZ0WWlvZGZUTE5wZHE0T3JEX08tT2V5b3BwUk5FM2p6Vg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793895525
+    },
+    {
+      "title": "Eagles News: Kliff Kingsbury among potential head coach candidates",
+      "link": "https://www.bleedinggreennation.com/news/189470/eagles-news-kliff-kingsbury-among-potential-head-coach-candidates",
+      "source": "Bleeding Green Nation",
+      "published": 1793892620
+    },
+    {
+      "title": "Eagles News: Kliff Kingsbury among potential head coach candidates - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2FreEZWWklLNjlST2ZPUDBhVnl2WVJDTm1TMXFZV0ZPeDVqdFczMVBtQ3BUdGptQy1JU0d6S3J5eVRZVGs5RVJKLXc4M0tFTEJPcjdadWZKaC0xdXBZTmNOcDBIV1IxZ0lfOUVuOGpTTGtwTFlGZUpuLUNtWFNTNVNURW1vdVRhclBlVENhdks1dXRKRUc0TVl0N3M2SUNWS1l2VWV6cWVBVGczMi0tcjlSQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793892620
+    },
+    {
+      "title": "If you stayed up late enough, you saw why the Eagles are so high on Eli Stowers - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnFERmZ4cjUzUi1pSFBPM2cyWVlCUVhlMUF3UE55QUtyWURMOFRKeWlyNUdNTEJpWl80VUFBb1dpTHcySm16SlNhbDNJd1Bqbk00ODJtNmtLZWpUbU53dGtFaEhyMG9DZV8zbkp5c0hLWWYtLTBhUF9Ld1c1c3dsZ1RVNXBBa29vb3F5R3hvOUtWSDIwbV8tM3dDRVROaXFwYkFSeUFDYWQydWFsWVJHTU5QY0RUVG4zRjcxQWJ1UWNPQWpsOE0w0gHPAUFVX3lxTE4ybmM0d3JFbGRqbkluanVHWnptd3NQdVA2SktRMTd3ZzNFRTN5dmVJSEtXRThLUWpSWHNaTmRGb2hIZ0hDekloa0dtOTRCMXdwNjJTR3NpcXhYalF0R1gwbmxHWkhSV2duOXMxTF9MM0xGb0Y5Q3dJaGEtUjI1dF9sVWs5OHhsb1BMS256dFAxQ2NUZUwwZ0laVllkR0Z3RFpURmpqdFdNbHlJYUZXRVpKMHlBNzN3eWpfY1JqVzBHT3R1andXa1dzeHBkbzZCcw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793888889
+    },
+    {
+      "title": "Jalen Hurts provides “morale boost” by showing up to Eagles practice facility",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/189462/jalen-hurts-back-at-eagles-practice-facility-injury-update",
+      "source": "Bleeding Green Nation",
+      "published": 1793888744
+    },
+    {
+      "title": "Vikings' Biggest Defensive Concern Can Be Solved by a Trade Call With Eagles - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa05CdXpaWGVBdFpWUEZoVEtKbm1NRnNtVDV3blhMMnl6SExKNEF6QzFSOG9BSV9PaW83UElNU2h5YllZQTBKM0xybEJhdDVFb1RtMFQwd3lTZ1MtbjI1ODdQY2h4MldDYmlGX2pmV1Q4am9aZzZONXJ0dUNwTVVvSEtfRXNuWHRFMENRaTk1NjVycEdpdmIyYmhSRUdqUjVyUFhNLXg1Ty1jZ1Z6RXgtQ1Bza1V5cVZHM3VoNGdDRVZVQQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793886567
+    },
+    {
+      "title": "10 things you need to know about new Eagles quarterback Joe Milton - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlhYelRBTlZibVdvM3hoYlc0VU1ENTlhOFVsek82cmZvMmZUeDVQa2JEbWIzZHpoWmVXYlc4Wkl3aVdaN3AwNWk4dlplMFdHQUw4eHVrX3IzajV6OW0xLWdCVUVPUTVfRnM0V0RKN0hvMnl6VWNPYXRfUER2b0JGSGNqd05aUTZHMmRPbnlTZlp1V0xKVGoxRl8xZXBRSDRuSy1MYkVzTWJGNjk1a3fSAbYBQVVfeXFMTkw4RWcyNHl1OWxLcVQwTGx4UmYwWHVpUTE1T1dXdUVOYjlpRWV2czE4U0pCV2syWlg3alJyV1lVUk96NlB4eGJhUUVHNXZEalRIaXY0VG1QeFRzWmlwaUI5aUJaMmNzRjA2ZU1mS2ZpQXF6QW1BT1RnV0xBd2VVZDk2c1RtUklXT0sxUVlVeF8wWDEzZTRCUkNua2EtSno3YXQ2MWdmWmpQRnY4SXRvb1RYVGs0NEE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793880000
+    },
+    {
+      "title": "Eagles locker room rallying around rocket-armed QB Joe Milton - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3BnWVlnbVBiTXNvTmhwMi1TSDNPS2VzZkk2VS0wT1lOMFZCNkdXQWhtRTVzRE5qZWFVblBadW5mT0wtS2pzazBrbHRYY1FCeTBRU0lpWWR3U3JRQml3ZmhBT3BpY194WmVGV215a1VZQlV2el9VQW95VTBmdlNXYWh1OWR1STZubWprSW5kUlRPdnh6Umo2YS1nUlBlVkhSTnV3c2duX3dfNjZLNjR5cWoxWWZ1cFNhYm9ldFVTb3N3d3VlQWtEQjVMS1FfTnIwc1c5c1JFYnfSAeABQVVfeXFMTmN0Tzl6NWhZX2dHc3d5UUZqUFNPTWpXVFVUZDVWYjdoV0xYWTQtZTVCRUhpYjRmYUdQT1RCd3BZUXJnS1dTbUJXVE9ENXZENHBmWU1pM3lTX0k1UXBYa0VZZDVqdU9kMXl3QWMzTnJKVmF1ZTA3MWYtX0JYcFIwRFczU1ZxYXVVQ1V0SEUweEYycUlEZFB1dFpUNERTRzMzQndSLXJpY01JVnNhNGFKSGt0aUJnRlZtMURoT2NrampKbnB2Z2ZTdlVRVHRrcTJvWHI0QlFvN1lXMmFnMF9zN3U?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793880000
+    },
+    {
+      "title": "Eagles’ 48-Hour Flip From ‘Tanner’s Our Guy’ to Joe Milton Exposes a Bigger Problem - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlVCbm9qT2loSzZDNDd2VXRvU0dwb01uQkFyQUtqOFUwaUhnOFFtdGRHR2Q5SEN0Z0NaczNSZk1OUUFJdk1EUVdCNW1YckprWWo1dUkwckZZOEZ4R1hCcHJ1YlVYSk1kTXBuckhrd2tWMS1sYjVlZ1FjVDZncVBsWHlveWl0NWs5TERFejJFRUdjZ001dEFSM1dJZ0o4ZkVUcXhnaVRRbHhJeWhVR0ZPRWRQaE5nd0VjdkViNHRwODJQSG5vc0NB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793878200
+    },
+    {
+      "title": "Projected top 10 picks in the 2027 NFL Draft who make sense for the Eagles - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1JNV2xtZFBBeURLMjRFOFo1QVRkQ0JCSjItZ2NCWHlZRVQtdHYtS0tUcVhJZUM1Y1lUQzlmOGlBQ2JfODM3SDNOUVNnVFhuMFA4d09IWGJnSW9UeW5BVG9mTXY1a25RMmtmOUx2UFdMOTVxcjE0cW5FcXFza0xsM2JWWnRuVUs1SnZCWDdLN2cyVm9DMlJyQWNXUXR1UWQ4TTZiUTJGeWthTm1kVlYwNXpYa3NMa3ZYYlFqQTlqem5EQkxaZHJ5d3RiYw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793877304
+    },
+    {
+      "title": "Eagles 'season from hell' tracker - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUhMaGVhWHd3WTJ0UlBuaFlfNGFGdTdhcW9MZkdjMVFvNEI5VTFuOUFqdHlMWlUtak9WX0IzekZRZ0pxOWs1RVNWam9ZajlIbmZlMDJHdkNHdFgwU2dfUU5yNTZNNHFoMzBqVXlPZlR1cDl5MzRiZkpvU29WOTJDaW9Ca1paSHJHMUJpaFA2XzU5QlVvdTFwcHhPRDdyNDJoZ2wtcE5MWWtWRnVWOWJiOVU4OUJXTGxNNGtF?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793874373
+    },
+    {
+      "title": "Boyle's Overtime Goal Sends Eagles to ACC Championship - Boston College Athletics",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3RMa3BfMlZGSkR6RkZ4U1FuMFJDRktuZlUxVzZKc3hPS0lsT3hzZE1Xb1hHTVJjQU5tbmFmSTNkcEZVZ2tUZ1ZWVTBDYkRfSUdIMjVHSmNnR3BLUGw3N25jU3hGRXMxc09ZMmh2c0tZc0RCcDdxWHZrRVpiUXJnbTBNdzlHcTB0TDlYejZqa3Vqd2FEaDlBazh1aDVpeWxlczNrVw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793867161
+    },
+    {
       "title": "Eagles Drop Heartbreaker to Coachella Valley, 2-1 - Colorado Eagles",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXh4UWZCRXdlVExNMVgyVlRtX1dSM25CUk4yZlVTbnBPNEVHX3hma0twdEdDc3Z1TzVyWEVMM3RaMEJDR0ZwVkRiQVhMTU9Cci1ER0NtUXdIZHlleDRTSHdrQVJYNDZQbnRQQ3Q2NDRnTzlyT1g4WER6V1EtYV8xbkFYSlVqR3psbnBYNEtTMmRoU3V1QVE?oc=5",
       "source": "Google News — Eagles",
-      "published": 1793858823
+      "published": 1793858995
+    },
+    {
+      "title": "Eagles should take another chance on young QB to pair with Saquon Barkley - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTIwRlRGVXJSS1ZrQWxGV3RkZnpJX3hPR0lyX1NobDdqbGZIbXFZeGYxMU4yaEM2anhDQ1EtVmlESTY4QVFIRnlUSGFpdjlNSWcyaHAxREJKR1Z6dTRqbld3ckVyNi1YZ0gwN2lrSnFHMjFSN0FoSjFlMzhuamwzTVkzZlQydw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793855520
     },
     {
       "title": "Eagles Trade Pitch Lands Ex-National Champion RB Amid Saquon Barkley Injury - Yahoo Sports",
@@ -25,16 +103,16 @@
       "published": 1793851797
     },
     {
-      "title": "Eagles name Joe Milton the starter for Week 9 - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlN3RVZNYUFIYk5SQ3ZSVlBDQlBfZGotN2YtS0QtRndMUUtkb0llWDYzSUpuazBJZm50NXJPMjdrUG1KcWprV1VvenlxY1hmN0xiRWdWeTlHb21DSjkzYnJRd3NWSlI1Q0ZWdUwyWVM1V0JEWmRPQWRlZG8xdDdyUXdxTGhPX2NUS0M4TERJcGZ0WWlvZGZUTE5wZHE0T3JEX08tT2V5b3BwUk5FM2p6Vg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793851423
-    },
-    {
       "title": "Eagles pull the plug on Tanner McKee, turn to new QB - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHhGcTd1dHA1MFFKdjFTdFRkRXVxQndOTFc1dnl2TmlhMmdjRl8wN0JCWlVZWnV1VFRnVjdmWjZ4VEdWOXR6S1lMclZqckoweE5mUER1cExJVnJrbDVXekRfTUJ2UEJKLVFLT3ZfZm0xOFZIdmhNTnJVcEhPd21QYmpvYzVyT0Nmc0F2Y0QyUWh1SjMw?oc=5",
       "source": "Google News — Eagles",
       "published": 1793849520
+    },
+    {
+      "title": "Eagles Youngster Could be Trade Candidate for Contract Reason - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGktLXpCb01NVzVhandxVWhPTS03eDhRaElFT0YtLUl3TzAyZG1IRTMzejhzN200NGx2MlY1ZlhRQ0w4QTlZc01ZNWlOSDBDdGl4YWc1dHFOVE5qZGJnam95UHNjdGF0bmEtaWJyWnhmcmhuYVRZUVEwY3RZcmlBUkcwVlpZeHlMYkRSVDBwSGE?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793843160
     },
     {
       "title": "Eagles sign CB Christian Braswell to the practice squad - Philadelphia Eagles",
@@ -43,28 +121,10 @@
       "published": 1793839865
     },
     {
-      "title": "Latest on DeVonta Smith's injury and Eagles WR who has grown from absence - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeFdWajVxTm05N0V2emVHckVLelREMjVXQ0N1b0pHUXNvNEE2MkNRSDN0S2RLM3RoWFAwQVBUUktvbXpzVmstUXpVV2l3c2FQb0J4dk9FY0tFWGhrLVNydmVQYkhoRVpyQU8zdS1SZmdOcFA5Q0d2endMNE1GLU00V1Z5RkVvbi15dmo0VGx5cGtvQllGX1VLNGZNMHlDMml2M3I1MEJpaW12TmVLWWh0Yzc5bGd4LUZnb2ZBR0ZfTTg5bkJEVVN3Y0xjbFI2SjVJaThFSEl6MDJMOFpuNGxV?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793838780
-    },
-    {
-      "title": "Boyle's Overtime Goal Sends Eagles to ACC Championship - Boston College Athletics",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3RMa3BfMlZGSkR6RkZ4U1FuMFJDRktuZlUxVzZKc3hPS0lsT3hzZE1Xb1hHTVJjQU5tbmFmSTNkcEZVZ2tUZ1ZWVTBDYkRfSUdIMjVHSmNnR3BLUGw3N25jU3hGRXMxc09ZMmh2c0tZc0RCcDdxWHZrRVpiUXJnbTBNdzlHcTB0TDlYejZqa3Vqd2FEaDlBazh1aDVpeWxlczNrVw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793838597
-    },
-    {
       "title": "Sources: Jalen Hurts makes appearance at Eagles facility - ESPN",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWNQcXkyblRvakpiZk1ILU8wVHJSTndzd3NQRDJLOTl4elhWbmNNcFBaWGtraTMxQ0xJcTV6emF4QkRibHYtRW9nMUhIdFdBYUcwNW1hRGNyYTdUSERuQWJpVndod2RvWVJRMm1fVkRNc2Fic2RjaVZsV1RHWWl2WnlvRUlfMmlzSWcxQ0ZFT00zQlU?oc=5",
       "source": "Google News — Eagles",
       "published": 1793836740
-    },
-    {
-      "title": "Eagles 'season from hell' tracker - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUhMaGVhWHd3WTJ0UlBuaFlfNGFGdTdhcW9MZkdjMVFvNEI5VTFuOUFqdHlMWlUtak9WX0IzekZRZ0pxOWs1RVNWam9ZajlIbmZlMDJHdkNHdFgwU2dfUU5yNTZNNHFoMzBqVXlPZlR1cDl5MzRiZkpvU29WOTJDaW9Ca1paSHJHMUJpaFA2XzU5QlVvdTFwcHhPRDdyNDJoZ2wtcE5MWWtWRnVWOWJiOVU4OUJXTGxNNGtF?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793836657
     },
     {
       "title": "Eagles Injury Report: No practice for DeVonta Smith, Saquon Barkley, Tay Wicks",
@@ -85,22 +145,22 @@
       "published": 1793833354
     },
     {
+      "title": "What to know about new Eagles starting QB Joe Milton, from his viral orange throw to his famous cousin - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDJYZEpqcV8yWTgwTFJQOTJIZWNoMEVBM1VrSVdLOGQ5cTJQeFEybmFNcW0tWl92MzNIOE1vV3VJUnYxZEl6MlNQUWdQR3JXT3drOG14aXBIcF9aZ0xFRDNQWVZpd1gtbHpESTloVDJuNUhiZUdKRUFaZnBnYlFBUVl2bllWTWp4M0FBUVAtZUdUcUF3NTF6UXd0WFo?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793831231
+    },
+    {
       "title": "Eagles bench Tanner McKee for Joe Milton two days after giving him vote of confidence: report - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa004Y25iOXNMb2VxZzNoeGVFZzJqQUh4RFVNWlRBYnBMclhlQlBuTTBFN2tCdFhtenltbzkxQnNDZWgwZFpvcHNxdzB0dHRQOF9CVm1weTFycVNrX2xjUU16cjFuTFR6SnlGQnA4QzNvSTlQWExMajZMRHIyTFJpN05ucXlWTkhFeGlocFVuYTRPbE8xTC1YcXhadnBpY25PUGxNM0x1MnZkWkFJTEVNOW0wY1BYN29yNlRNMUh1ejlyQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1793827425
     },
     {
-      "title": "The SZN: Can Joe Milton provide a spark to the Eagles' offense? - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnBGZ3RMWHByeFpERzE3M1hhdTRqWmdOWC05aXRKM2VVN0VELUlQbXZkSTBTc3ZXZ01IUjFIdHBiNFhCWFVfNVNYLTllUzlFMU9kWjlTb0pXNjl5eWtObzFTWldLLXR0cXNWVmM3MENNZ3d6THptQmE3TTNsVVEtbmVNRzNoNmpOTmRYa0xOdElib29hNGNRV3BadXFydVVTb1NLZTI0Mzloemp4UVl2ZGNickdoa05RMmpVbHJGSzllTjlHbVFNbnFCaDZfdlB0clF30gHbAUFVX3lxTE9RX0J5QmVuQ2JuRDNSWWpybXdiRVR0cWdDNk1KVFdXY2FYTFRUS2NFZjZudXMwSFF0WTk2YzJRenRwbzlpLWRsRUNLQlczNXVQSEhNelpGYzRDTlUya0t6VEtjSERuZ25VWGJ1SUs3bGR0Ym9JMkE4ZThUbkdoYjc3WElJU2Ffak4xWFE2Q29GLVh2UldUdUdwODBPZHJfenV2amZ1U1JsY213U1B3U3dPY3JwREQ0NDg0akFUY1R0aUFUR01HQm10cXZCQVV6OTBYWW5qcUpndW56RQ?oc=5",
+      "title": "Eagles close out fall with Bonita Bay Open - FGCU Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFcxNE80X05tLXB0UzE0WmU5V29UZmNFWXpIR3ljajdOMUp1eVR3ZldtaWg5bWZ4eDZUWWVmYWhXR0g4enRwbEt3d3VSQ1Q4cHFJaXRhVG5KV3JVdWZBemV5eFpkQ1VLcTdUNFVlUkRKVE9pbmtYeEhjdElJVHBqSktQMFB3Sk5jZ0Utb3NkRTgtSk81TWdsVTFjUzdtSTZiVWc?oc=5",
       "source": "Google News — Eagles",
-      "published": 1793827122
-    },
-    {
-      "title": "Eagles name Joe Milton as new starting quarterback - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ29uSE5OcnNncEdqZUUyLU9CU1NWUnJESlBnV19PS0Q3N3pIaThOd25hVzlscllyX3Rpb2pQUmFFeEpoXzRUTEg3SjUwTmhnUWpvT29ZeE1oSV9QclpyYnpXWXZBNWtOaUMxMzF5TjRLTDd5b1B1enlGbkkwNG1Qd3U5RmhGbjA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793826135
+      "published": 1793825225
     },
     {
       "title": "Tanner McKee benched: Joe Milton is the Eagles’ new starting quarterback",
@@ -115,28 +175,10 @@
       "published": 1793823536
     },
     {
-      "title": "VFL Joe Milton named starting QB for the Philadelphia Eagles this Sunday - WBIR",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMDRNU2pyYlEtM2VyMjRTdTNCMExMV1dHY2NCci1MNEhWYTN2OTdRUWhiUFBnS0Y1NlYzQmlJSEdPZFpqQ29sNDYweGRMdmx0czZXa2o3WmtDMjMyZTFWSEhiUWpVYUhUVEY1Q2NqdlROWHpSQWhKYTY4MERIUFY5YktHRl9ldlhkU0lyRkE1ZHZxRG9yNzhMemN5dkJja083TW5QZ0haaHhRMzdOVnUtV1lUaF9JbFg2VUFnelFGTE5FdTllTlR2Z0NOampleEZHMk50NVVUOVp5TlU?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793822040
-    },
-    {
       "title": "Report: Eagles to start Joe Milton at QB this week - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYkhVYWY1MXFFLTF5MTBCTUhXdVNWRGNCSEg1RHJVTTFBdXVOdjViUVlNckRQa3VUU1NCcFZmV1ZHMDBNYkYzdVh3QjFGUUM5Z1FWUmV2YlZRTC16YXdLRWJCYThEZVNrRWZmSEFMOFgtWVRKVG12ZHduV29qak4yTnJZbmdMbjV1aE9JLV9LMkNmVHVRVVlDelZFVXJBSjc2R05DLXg3RGszRWpQeHhVaA?oc=5",
       "source": "Google News — Eagles",
       "published": 1793819568
-    },
-    {
-      "title": "Joe Milton named new starter for the Eagles - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmdsWXBkZ004dGVZU0VjNHZkMHFzN3JUN3ROTXJoMktlT2sxVncwQXBSeVF2TVg2eEkzUEYxQnNDNGtwbW54Z29sUzd5QUlwUF9rNXpJYmo5cXRVeXlPVEMxM2dyb3otY3JDb0pWNHZsUml0clUtUDB1czFvWXFHOUlMN1NvLTg?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793819177
-    },
-    {
-      "title": "What's at Stake for the USA Eagles This November? Numbers, Storylines, Players to Watch and a Trophy on the Line - Major League Rugby",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXdCclVFbHljdTJkZlFKR1MwbnY0akxPN1VKd3djZUdMQ0VwOHdReU95c2lLakx5MGZvMmF2eXdkOFV3MDVuc0VyNUc2TjVkbm9sZW52NDQ1U0dULVpFR2hGRTFCX0stWU96SHM1VE4wR1F3RGQxb1I4aVdQT1ZiWFdPbV9xNzRWRHFzSU9CUm5SQllWWVJxY3dZUnQ4RlBsdENSUXpkN0JqREl1R2ZyQm8yU1RWRDJGdG1EVFZGZkgzVTg1bU5JUUlncFNYcTg3c0RPQXcyRXRZQ2M?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793818774
     },
     {
       "title": "Coach Sirianni feels 'complete support' from Eagles owner Lurie - ESPN",
@@ -157,12 +199,6 @@
       "published": 1793816195
     },
     {
-      "title": "Bills-Eagles Trade Proposal Would Land Buffalo Perfect Deadline Addition - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakgxRXpNSDc0R0JNcktQb3I1d2pkMUVNMW82U2pHQzhxMTNkRG5iLUF1TmRQc0Z3MXZmVWFDR2NwYUR4cmZrX3E1NVhoNUZWM0ZTWUVPaUt0QmVxNEI5aU82VjdTUW1valpzZlRKanlKSkdrbXFZYWRFclhZdDlRRXRLMHhJby0xZGdLRGpkaWdGY3hmWkp1RlZ3WFQxeG5tNmVKd1c0RHB5UQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793814900
-    },
-    {
       "title": "Film Review: Eagles need their best defenders to start playing like their best defenders",
       "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/189334/film-review-eagles-need-their-best-defenders-to-start-playing-like-their-best-defenders",
       "source": "Bleeding Green Nation",
@@ -173,12 +209,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0MtWGx4cWRidjlpX1V4WUdzYVVXTWFLRllXMlJjdW4wVG5ETjJXM0dVXzFZbkdCM3VIRjhvTW1aNkJWTTk3ZTY0M19yQnNmVmhubWVOX3V5VVRRY2NNSnBFNHdSNm9FX1Y0RkJFc1BYeE1weWtaZ2dmdkNSOFlCcUpTcXhPMDZxall3NVNPTWxLWmRqYmVCeFM1SXpIc3dnVXktaktSeHpxOVFMbGYtMFJQVkdSeGtpbFlfMS1ZNHNreG5HR0t4MjlFYnE2NkxaOUhSSHkwMXF6RGJlZ0pSRHNfbkxLZS1MSjVLaHNqNFI?oc=5",
       "source": "Google News — Eagles",
       "published": 1793813640
-    },
-    {
-      "title": "New Eagles Rumors on Potential of Rebuild at NFL Trade Deadline Amid Struggles, Jalen Hurts' Absence - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXJPTURSVFk0ZGlUTXJrWFlmbngtXzZVSmxqMHllRXdWQW93X3VCMGFCVUk4ZEZCWm85RWtEbGo3cEkxdVE1ZDBXTldmdVUxXzZJTUFoQ1VpdFNxbmwtNkJrOEhDTWE2SW9VVlMxTnNfeXpxd2h0SEVhTzNKM1drUXVETVRvQU9DS3VwVHNlMmEwTGJqOFZmeGNTSlhuZTFVeGstY2JzbFpvOGVNMkpTenIzVGc1cldYbXl5MGxjYU82cjkteno0alMyNkUyUXM?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793813083
     },
     {
       "title": "Eagles trade deadline rumor and report tracker - PhillyVoice",
@@ -229,34 +259,16 @@
       "published": 1793744004
     },
     {
-      "title": "C.J. Gardner-Johnson released by Bills",
-      "link": "https://www.bleedinggreennation.com/news/189309/c-j-gardner-johnson-reportedly-released-by-bills",
-      "source": "Bleeding Green Nation",
-      "published": 1793742107
-    },
-    {
       "title": "Eagles News: Moro Ojomo is drawing “real interest” ahead of the NFL trade deadline - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHllOFpyaTFvaU0zdUxVaVVvZ1UxeVBsRjBUa0gyTUcyejNRSV80M2VOZFdkaEltSXYyZUQ4MXI4d0N6aUJRRTY4c2Y0QUtqNmVGcUlDdG0tT1dKSUhPdm43QlhNd1NWRVpiM2Q1ZkVjS0pXdFJGMW9aTXFPMUdEUHdTUnY2RXZNbHJwQTlOVG9oWmlITm1ObVRCTjI5aDQwcFc0SGVFM0JMWnZXamVUZC1VUnRVT1dnU2ZFZDZOTnY2NE12WUE?oc=5",
       "source": "Google News — Eagles",
       "published": 1793742096
     },
     {
-      "title": "Vic Fangio on Jonathan Greenard: ‘Practice is important. He’s had next to none.’",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/189274/vic-fangio-on-jonathan-greenard-practice-is-important-hes-had-next-to-none",
-      "source": "Bleeding Green Nation",
-      "published": 1793728129
-    },
-    {
       "title": "Eagles News: Chris Kuper could be in trouble - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1E1MGpZOV9mWXM0NjU3N3k2MkxOc1lMU056REU0aFhsMWlZb2p6RFprUzdXTWMxS2tTNUVLcnE3YWxXOHZXZl9qMmJrLXVwVVNsN0hYR2k0amFXTGZfN0l0WHpuTm8yYUJfbGJxRGJUMlJVTUY5V0ZXNmJJZVRaMFFobUR2cnVmeGNuRUU3amNwNVVpaXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1793720105
-    },
-    {
-      "title": "13 young Eagles worth watching in what's left of a lost season - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0R0TWF3ZnNDWEV4TVU4NnEtcFVHRDlwSjRFaVNaUUN1Rzk1Z3hMMWVuR0RONkw2aHRFYTItM2l2bEV1ckxFbHotQ2tKT1JMODNZb01VNEgtck1EUGFHeERlUU9TS2FCWGFKSWdoOFRqX0dpSk9UZ2p0M29NQmZJN1M0RjgyMFpiUDlocG9VaEM5VnVidmxKTm4zeVRsUVhla2hYN0dSYlpTSkRTM21HajNocnRjLXAzWWlUS21vcy1zOVZEWU5OblZfSdIB0wFBVV95cUxQcXlWNGxyd1hOVFBoQ0JOa2h5Y0ZZVGE2WVdNSF9SaUp6eVM3bHBndGxESXE5UUUxZzNJSnBHMDBhZ3g1ZTNvN0ctMWE2VWhfd0R3UnFUdm9GclRPSGVJWkJ0SjFkajRPOTd2aG1qXzNvNllRcEFmTzN4WktERWJGZS1kbjRyOVVvSDJVOENYZ2pEMndHLWwzQ0tOWVBkZTQwdkVQNnY5ZkJYZmpLNVp5SFBPUTQwOGFHM0ZZQWlrSmtxczdTZlRqb0NKSW55aEdzZWd3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793694442
     },
     {
       "title": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak - ESPN",
@@ -269,6 +281,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlllSFNfdEhEeExXVkU5RkdIQXdpd0NlUVZkZVFpandGRmVfc21ySGUtcUdheFhaNHI4am1GSXNhLVQxZzlBb1ppUHk1UTc2ZEFISHI3VUQtajY0anhOM0Y4OE8tWkNoaUlmNFVYSS03dlJ3UldxYkFpU3dSLU1SbVBucGpxQTNRSW9J?oc=5",
       "source": "Google News — Eagles",
       "published": 1793607207
+    },
+    {
+      "title": "Eagles 24-20 Titans (Sep 20, 2026) Final Score - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wb3Z2Qy1uUUI0WnJvdG9JTmJWaGxCVDJ4Z19kd1p4WjFvYU8wZDcwSDhlNWs4WlE0NEJsamplTTA5bGJ6TWVsQVd5TUllV2JIaUdGNXE5S3BjalFjbU1QTnM4bURoR21idlFkcTlCdw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1793606400
     },
     {
       "title": "Saquon Barkley has assurances he won't be traded, wants to help Eagles 'fix it' - ESPN",
