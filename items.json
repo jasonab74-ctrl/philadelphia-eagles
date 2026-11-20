@@ -1,16 +1,52 @@
 {
   "team": "Philadelphia Eagles",
-  "updated_at": "2026-11-20T00:48:43.627773+00:00",
+  "updated_at": "2026-11-20T08:11:38.393613+00:00",
   "sources": [
     "Bleeding Green Nation",
     "Google News — Eagles"
   ],
   "items": [
     {
+      "title": "Eagles Injury Report: DeVonta Smith on track to play against Steelers",
+      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-injuries/190736/eagles-injury-report-devonta-smith-on-track-to-play-against-steelers",
+      "source": "Bleeding Green Nation",
+      "published": 1795143105
+    },
+    {
+      "title": "Duel of the Eagles set for Friday night - FGCU Athletics",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjZmVWpUNkJGZ2FHN3MxQUo4YU9MazM5TUR1NWJaWXRHbmNYZHpmQmQtNkpWTXdabG83NEVzZW9JLVBQOTctaGFpeTJqRTk1ZEZDMlM3TUtVS09wd2dJaE1yZVlJTzJNOTBpaDhlaFlhdEY3OHNOYUUzZHlacTg1dFlYeXFtQ1ZDV3JZSUNtZHpKV1N3UHZRcW1tUWJsUVIz?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795143080
+    },
+    {
+      "title": "Eagles Injury Report: DeVonta Smith on track to play against Steelers - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSG81OUF6Q0pPaHYtS3hKSnNQM040TGNmU1hfR0hTYXhPaTRNS19DbXFZcEtPUVlXbWl4QWp2V2RxdGl3MUIxcDk2Sm4tWmtDeUN6V0xsVGpNNGk5NDR5d1NOeXVwRkZiTWxUR195QmZQTldxUXU0N1kyQU1vSDZfTTJIRldTUWl5S1BsRDdMczFkZWVrSk9ySHBac05INS1fRkltS2tPNDRvcDhjSG1sa2xSTzdkWENNUmRVTUNCV3J6T09BWFRBMUU5WnlaNHd2R1Q1OThoUQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795143060
+    },
+    {
+      "title": "Men's Eagles return to Sevens World Series stage in Dubai - Eagles Rugby",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3BRNFVsQ05Uak1mMWVYMHBFSDVNWnRvWHFmemt6aE5ua0kteXhtWTNoa2tSU2Z5OVY5Y25CbW5yNjluMmpwUGJOb0wxS0V1Vk9ZdDUwTV9EczZsTGt0OUZUUFI3SFl6SVZteS01eUQ0ZHh3NWRrc1hlMklPaERQSzJPTHZ2NlF1cW11S0twb0tpVlNtTWFoVFNwNmZUYW5JT3dfRw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795140271
+    },
+    {
+      "title": "Steelers vs. Eagles (Nov 22, 2026) Pregame - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14eEJJZTlWSUlOVjhyYm9fV0hjMTc3MXJTbWM3UTNxUXFSenNFUXNsSkIwUGp0THFzNmdvQlAzY2ZDZm9WUUQ3TXY5a0R4RnFzcndwREpVMkJyQjhrdHBRNQ?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795135161
+    },
+    {
       "title": "Eagles' odds of landing No. 1 pick in 2027 NFL Draft revealed by ESPN - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBybzloOGhMVTNuelRrWXI2UzB6aWJoOXlvdXZxR2JWakNBcmRGSk1XNWxOdWh6TGJKdEdJMUNmdURob2R4dFgzd2ROSkV3eTFNSW8tX1hQRzFYVnhtSXh1SGVZZWN5Y2ZMZk1Edk9JUTNVeFJWQUJjeFNHNjJsQQ?oc=5",
       "source": "Google News — Eagles",
       "published": 1795130808
+    },
+    {
+      "title": "Eagles Players Press Conferences: November 19, 2026 - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVZEUVpYUGNFaFlYNGFLS1BNRmd0eHV3R0FCS1g2RktPYklrUGM4ZkJCQ21vZE50ekNKOHdnb3N5QXUtQW91MV9HZ0xMS3BfUG9OdHBOY0FmcVRFR1VUWUd0TmJqaDVSZm5FTVBFbl9IUWQ0UTdUaHIwZkdMT1dMWmtQN0FjTFhTQXdkY1hidFdPRzJ5?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795129845
     },
     {
       "title": "Zack Baun remains out of Eagles practice - NBC Sports",
@@ -19,16 +55,22 @@
       "published": 1795128326
     },
     {
+      "title": "Eagle Eye: How will the Eagles replace Jordan Davis? Eagles vs. Steelers preview - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdU91bGFxTDJJTUs1NkpuTmpScHJRVE1nUWJENWVia3ZfSWdDQzAtbFByWm15NGhMZHQ3Nlc3NlJ0UHI0ZEJySUxKOXZtT1FzbTBjZ2NSX1BBRm9uVEtzdkJranVMR1RzUllQS0ZVZmlWZENadzJ3Z1RVb3hORDRrcnUzak54M0pXTGY0WmFwbV9vbmJCcjZvTDNJNHVQQmFtUV9WZndHS212ZXlGNWJMYlE3MW9VcGxRU0N2enpOUXZrTG4x0gHMAUFVX3lxTFBiQm1kNERQYjI4ZDJqb3JxeFJfNnhhdlFCN0NNTV83ZGpHQzA2bzA4MDZtMHJIMjhSNF9hNnF6cFBhdnNuTl9pZnd1Sl9RYVczMF9tNXJ0Z1NlZm5ORl9UN0t4TlB5c1JIU1RuUUpWN21tS242dTc2RG1UVHltRVJ2b1BhSnl3ekRqakRNTmNKOG5ZVTF5eWkyVE5EdFJsNDViT3pwWDdkMVZBUW9JZHNCLVZGRFNwNHZ2OWpTYnFSNzR6Z3RCSnJqTDNKTw?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795126901
+    },
+    {
       "title": "Week 11 Injury Report (Eagles) - Steelers.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTHhCSW9kQnhwdXNLMWNGWERLVDhaN3U3Q3dlZkZ2RVlzVEN1MUFUamZxRUlMZ0xxekJ5M0tMdGJDNjdQOXgzbnB4VEhhR1Zxdk5rWExKR1d0SkVjUDVKU2trUDF3MkZzM0E?oc=5",
       "source": "Google News — Eagles",
       "published": 1795125045
     },
     {
-      "title": "Steelers’ Nick Herbig Becoming Growing Concern Before Eagles Game - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTZUclpLTC1Qb0dHaERhdVF3TDFtVG1Nb2Z3NEhMeHFjVDQ4UXQ5anVfc3ZWWFNqdWRFckxHRWJqeVhqcWdibUx1QlY2QnZEMmluSWkzbmNvc0s1X1hOelFEODhWemx4RDJ0aHA0a2VRdHVHLXlhZ28tMllJdUItdEJFXzhDR25oTUtiVlVlVG5UWlFEdFRxaGN4eks?oc=5",
+      "title": "Nick Herbig misses another practice ahead of Steelers-Eagles matchup - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzJ4MmpJajJSVmpNbmFPY2ZFZ1d6TG5QOWd5ZUt4RThWa1JVSW5ib3R5a3U4YXVwbmpJYnRhazlKUFdLY1hicWJsZk5FYVl4U2hzcXEweTdVWGtoM29ObFFLTXJPWkV2cEVmX2thdUUzczlqZ0FJRjFaYlRrck9rckZNUmZwV2k5NXZocg?oc=5",
       "source": "Google News — Eagles",
-      "published": 1795124175
+      "published": 1795124141
     },
     {
       "title": "Eagles-Steelers Game Preview: 5 questions and answers with the Week 11 enemy",
@@ -37,34 +79,40 @@
       "published": 1795119699
     },
     {
-      "title": "Eagles Add Jaydon Blue to 53-Man Roster: How the Signing Impacts the RB Room in Week 11 - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2E4SndjaDlGcFQtS1Iwck01bVZZSzFDM2UtOEMtem9BWUZSTFhUNTZ5aTJwMlZJa3RWR0Jwc0MyemcyMjVwYk9LUmJrNXNJaHFlcVM3aHBaS0FkRUdBa3pSVW14SHRodDBQVE5mMWI0YnAzWVVoTnNvVkxMdEpqMlJwbEUxSGhkME11TkxEbms5TXJBaFBHV0t3UVdlTWltcW4zclNhYkc4UWNkcjZySXlaZXlQcUxIMnZqM3FObS0?oc=5",
+      "title": "Eagles-Steelers Game Preview: 5 questions and answers with the Week 11 enemy - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcndTS0lSRGFPbGZwTHJFWWk4SWlYc21ZM1lxTU5kWkhvNkFjMlp3RUFoVHRiQldSTVZ4TXZfOXZzYU5TZ2I0MWNMcHNWN0FYUWRZTkNIVVhNcHcxR0NxZHFaRkNCRVoyMWN1aWs0OGxtNGxKWmdDMTlMVnJITWRZOWlFWDZtZw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1795118489
+      "published": 1795119699
     },
     {
-      "title": "How to watch, stream, and listen | Steelers vs. Eagles - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejNFVnhSX3J5QjNxUHdpakRvZS1NSldIQko0d0ZLUmtROE9qeDI2VDBOVkdUVTRBVjlFcDVvV3gxRkk4eTFnZUgtUVFnN0pQWk55QUFsZUZDdW41TXU3aW9XLXU3QWR6ZHVvWFZpZE9fNjAtRVZEcFdCSnZqT01aa0ttXzZ5QkEzQmFpd01JaDBMcjdxSVNBYUtlX2x3aDBfZWRFVjZpUEFxaE9EM29laXRib3RuUjB2R0g1aQ?oc=5",
+      "title": "Salute to Service: Honor the Heroes Among Us - Philadelphia Eagles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWpkWjZBank4VnozZnloYWNfYlM2UFVDd055SWRsYzdyYjdSY05mM05LYm01cmZDTVBpT1NMQ3dhd3ljN2lyUFd2QlhNMV9NdW03U28wOGRJcXR0b0hRZl9lMVRNR3FrMU9qN25vc2I3eFhZNXIxcDNqWC1PeU5sU0hNUlNuTU9Malp1S3BCQUxDNEl5VUZXdDE4a3hKRFhRVWR2VXJOZ2FGZDZkWWxPOVhn?oc=5",
       "source": "Google News — Eagles",
       "published": 1795115135
     },
     {
-      "title": "Joe Milton weighs in on “Bazooka Joe” nickname and opens up about opportunity with Eagles - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa2JvOFVKQV9XQ3FZR1J3bk8wUHVzV2s3akRCQkFDQTZFTTFjbzl2TU42MkFDVWYzRGlXOFBJdzgteFVuMUI5a2JmS0t0Yy1rTnludTBfWGQ5bGp0dHB4aXEzWGtIT1JTQW9HRlJWMFp6U0d0N2pMNk56aEpMTW5CdjFZN20zY0M1Z0tycXVablVYUTZxcmNFbG53eTJtZGdEUXdqZlBUdmZJZW9vaU44V1c5UGhxT1NMOUpid1V3VkI1TkNkbWk4SDY3MFN6OUx0NHBkQUJNYWZXM1FSdWhUYjktLUZ5OEZ6TFh3VExfZ0Y1bHluMlYzNXYwYjI5ZDU3R1HSAYoCQVVfeXFMT3BHbGxYMDVWRXJaUlFnai1TMk44MHp1c0F1ZEhKTXRpQlR3Tl9TWDM0VmRfWWo1WWVoNnZtTEVwSXA3aUEwRlQ1emVyZDVnazlvUXF6UU51NC0wSzNLRTVnVTZ3NnlPd2Q5aXVOUXBIT3R4cTBoVnFBOXhxejlYd3RCaWktT1BmTjMwcm85VnRCdFh6d2FZcVlJRHg2V0dxdFV4X2dIYjZ2bm14WTdzMnY0T3lKWjNPbzdlSVdlZFJaSFB6RFNoNk4tZW52cmFOb0FVMWRVeWxwZ2ZaOTJMOUZFbmIxNnRhcTd5aTE5azZ5SDdZMEU2dWdfeDBVNFJqU1VqZjczQmxoZXc?oc=5",
+      "title": "Joe Milton weighs in on “Bazooka Joe” nickname and opens up about opportunity with Eagles - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRHlaeEJRSmF5cVh2U3VNOGhhSW9uSHNtaEYxVWN6cVJZU0Y0ZDBrd3ExVUlIbGxGYk1ITHVkVzBRSVJqbHUweVFNVWs0WDRHRkZya0dQU05FYi1LMFlPX0lMcWdOUnNMT1h4QXF1Q25LVGkxbHJjWjNqN2lWaEx3aDNCMF9wRjY0bGUxOXdiR2dnNlk3Yi1HUVF2b1RVejliOWZDazVwdlltakNfOTJ1Q05vVldYZUxwdjhLTTFvMHAwWjFrNXZaaGd5ZUJzZ0ltRWNJay1jTjR4dmFLSWd4T2JXTEx2MjVFZzJ6WFB6WlFnWHlYbzJPOHFTWVlLUk0xd09HTzl3dE96NVXSAZMCQVVfeXFMTUlXTnl4RDdrbHhxQVJKUUg5ZklxTGNrc0t6cDd6ako1SkJOUzJUTGpLR04xTC12ZXBoV0V6cWNvand6bHpDaV9UQ3BLMWo1Y3YybHpDVGpJMU9GcVU5SW9YcVhtSWtJT3VpVDdGSHF5ZDZYRGdSLUZsQkU4ZVI4YXVnUnp6TFhicHZFOFBxUC1VbXhmRDBOdDY5eUgwME9GU3RLaDlIVnJkV2F4TWhuTlFMaVJQWFRSMEdZbTByWjZiMkJUZTdoNDFHNjFHNXhCeVRDUTVGRG1SM2lLTmgwOGZCT05YQU1aVEgwWHFjcDVnQk00cDZYVko0dUxCckVXQ1NDbVhWVHJwWGpFb3FKaEZVaXc?oc=5",
       "source": "Google News — Eagles",
       "published": 1795112750
     },
     {
-      "title": "Reasons Why the Struggling Eagles Are Still Worth Watching - Philadelphia Sports Nation",
+      "title": "Eagles to Wrap Up Regular Season Against Morgan State - North Carolina Central University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnNQN2E0b2dqYldMa0pkTE5kdm1RT1hkVmJ4aVNsXzctU0NfdW5mVTU1MEF5dlNkMldiek1Yc3F2Mk9wZWJfakxXdkdPRk5zenJOVjFvSlJvTWFSQXJYdTZ1LVIta1FOZlNCSFZXbmRlVlF5UHBqSWY3aURhQ3pUSjVuN0FUUnVWdHhxc1NsNFlTLXFrbXo3RFFnN2FGUm9qNmNzMjlPdG5IVEJGdkVr?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795112554
+    },
+    {
+      "title": "Bowling Places Second At CSU Lady Eagles Invitational - Morgan State University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbl94QVB6MGhBeWJXdGpsbTdqc0hobHN2YUhpNGNKeVdpVFRCMW5KTkNKNURiNkcwcUt2b3JUY3ZZT253ZHMwMElmTXkxV1pETUsxWGRZOUNfREhlT1ZIbU9LQjFSVy1FYXpSTWdkem1aLVcySHllMC1GZ3c2eVQ4UU8wd0NLWnJPNlFDY1RXRE5URTdqdmp2RkhfX241UkNHcGFMbUwyOVNtT2NsazAyMDV2WUhsLTVpYWc?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1795111787
+    },
+    {
+      "title": "Three Reasons Why the Struggling Eagles Are Still Worth Watching - Philadelphia Sports Nation",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlotbGNiT296RnFLdnFmWEM5X2YtVWZmNUZIc2NuRnFkanR0RzF1VjNTOU1ldnRrX0FIRjJ6ZGkydEM5bTFTU3JmMWMtTHdpWkZrUmhFUVdBb3JVeVF0Q2hyYTk3WE5rR2toM2wydGZYaWVRR2pOeUlNbktPVEFzWXVfNWpKd1F0VE1ubzNLdVJ0Nm5CNmJiU1JBOEY4aVE?oc=5",
       "source": "Google News — Eagles",
       "published": 1795109771
-    },
-    {
-      "title": "Can you name the Eagles' defense from the 2024 matchup vs. Steelers? - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXlOZkFSQ2doQlk0RTFMWEdGaWJMcGN3WC11ZS1lQ2FSeEg4Wjd1Q2RacFVIeWg4WVZKb3dHZDV3X2JJSDF0ZFNCUUFJdXFyTU5WSE5MRGVEYmQzZFk3NE5qYnExVVV3ZGhvTC1qZ3RyTUhndE04cnVfQUJpVGkwRWdZc3NXSm9SMWFYLVUwdTVlQmpOQzJqeVIyeEFNUUN5bmp2Z2hhUUV0cWp1d25CSGNWUQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1795108329
     },
     {
       "title": "Captain Damm Eyes Statement Performance as USA Eagles Face Georgia in Nations Cup Showdown - Major League Rugby",
@@ -89,12 +137,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZElKQUtqNnZ4c0Y4WmdqQWtTSWR3dlpwREZycllnSWl4WkxGdlUxUzM2bUJvbzBicXVxeWxCYko1NDc0M21SWXNHNTUyckNQcmVORzNrNnc4LVVoczJsckljQW1yOTVwYTAzYTFhazdUaC1qUm91dVdPTXhWbDQ3WFZFNEJlRm52WTNzY0FVcnFpdXFsX2gwM3dPTERTbHM?oc=5",
       "source": "Google News — Eagles",
       "published": 1795103524
-    },
-    {
-      "title": "Former Tennessee quarterback will make second start with Eagles - Vols Wire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc0RoR3hjb19MdkJ0a0xId2h0TmxONGFJWkZTR3hHTVBOMkNfZDh4TFRoTVAwMDBObjYzZWFqdzZYd1dNRjc5S0ItRUxYek9iamEzT0tfT2M4SmhkUExSeElLWnRnM1VvazBoY3piX3hteVU5Mmcta2p6Y0tET0ZSWExBWmRkQzU1NXJGaHhfbDFnVTdKeVVPZnliNHBPaDFQWjE2cG5VdDdDYnJ6enBQREZrSXh6ZTdSQW43aGt2dWV1SHRFSmpaLWtGYzRGSktCT25UelZmdXJhazhSNVo3SUlSY0tYaDVFMmVqUzB6NWtRQkZ5SmVPRElheGVlZ3c?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1795101000
     },
     {
       "title": "Matt's Stats: Week 11 at Eagles - Steelers.com",
@@ -133,12 +175,6 @@
       "published": 1795068949
     },
     {
-      "title": "Eagles expecting healthy reinforcements - Delco Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0lwQTN1ZXFvd1lZZXVEQkNrZDM2NFpnN0ZPUXVqOE1ERk9xcER2STh0LUlJTnpEX2ZUX3JqZmQwanpjNnRGZEZGb1VlYnZQOHktU3RjWWxkMTVZWDg5VWVXLVhRakRULThCWDhMdUtXRkJQYUxJR1RzLVhnX0NHNFQzY2o?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1795067230
-    },
-    {
       "title": "Eagles Fall to Idaho State in Straight Sets - Eastern Washington University Athletics",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlR1YkZ5dWdDeV9tQWZKdUN5dkZXRWtZVXBZaUVQQ2xZRERaZWdPN3p5SkQ4RDBGWlIwRTBZb3RrNDUya2ZwWmV5bUlYM0xUY1JLVHMtcHp4ckQ2aWRONjlBcDFaMHFrNURBRGNhYnFhRjBRLTV2cUIxRXg5UGQ3c1lUQS15YUYwS1ZmVEo3U25tOWlYOG12M01RZHcwNTJLS3Rz?oc=5",
       "source": "Google News — Eagles",
@@ -151,8 +187,8 @@
       "published": 1795061218
     },
     {
-      "title": "Eagles Injury Report: DeVonta Smith and Dontayvion Wicks return to practice - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDFiYzJRMFNDcVd0RW14VzJGYzNsdFdmVHY1MmRrZFhmWlluZ3Z2UExYbmhicEZmdUhjbXZ4dFZHTUdEWDV1WXBnMHhTOXJYNUdWam15ejcxT3g3YmNOeFBvZGhsQnJadzZtV0wtTzRxRnh0SVBjMUlwTmxQcnJqbFFqZHNMeTk4YzlB?oc=5",
+      "title": "Eagles Injury Report: DeVonta Smith and Dontayvion Wicks return to practice - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzU2dng0M3BGSWZNTmlqdjZETVlScFB0eU9tTHJFTXJnWEZudXh4NEl2WU5UUXVfRnVMZjNnclE4SDA0OWZvdVRXQzM1SDBoVExhNFFxRXhZSmFDWUU4Zi1iM1VHMHdaLXVRQUY4X1lkWTdoR0VjVWR6czNmWHY3OF9hbllEczBRWmNFRVRBSC1idzZsOWFHWV9FWTNCbWRZOHZFaFJUck5tenBDMWlKSU5GSDVvbHhlUzBoOWxwb1AzbkZhSVhPVFFiaG51ZTh4N01sQVBIcGdMNjQxRlJV?oc=5",
       "source": "Google News — Eagles",
       "published": 1795061160
     },
@@ -181,10 +217,10 @@
       "published": 1795052790
     },
     {
-      "title": "Eagles make major QB decision ahead of Week 11 vs. Steelers - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnBaNEJjSUR2Yy03blQ0U1ZCTTBULWVHbThZQjdVMi1QYWpVaktIRUM4dTY2RURjN1NTYkNCTEszRm1yejB5aGhOUUQ2MkpRTTRyTUZ2RGE4X0dMS0VnTEwxenBBM0lRRWRnOW1uLTRUY1BqWmdiTFNQcTB2WFZGUjZ0R3dXUQ?oc=5",
+      "title": "Steelers vs. Eagles Week 11 Preview | NFL Daily - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rcGdvNWlXSjJHRjZfLU5LVy1jYmpRRnotTnlHclFfT2xtdHdRUE5wVEdyMlVxRW10SThsNlNrUnVudFc5dUViNmFDdnBwcGhoM1o5OXR2RVh5OGViRlZsZ1dPNzlNeGNpZHpLNkppRWdTcDZUdlBPVVEwQQ?oc=5",
       "source": "Google News — Eagles",
-      "published": 1795045235
+      "published": 1795046335
     },
     {
       "title": "PHOTOS: Practice - Eagles Week - Day 1 - Steelers.com",
@@ -241,12 +277,6 @@
       "published": 1795023177
     },
     {
-      "title": "Eagles may have hunted early human ancestors, shaping evolution - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnd2WXlQY09VUDhrODBqX2s2QUo0eEd3VW5yXzY2aEFBTDV2RDlsOVdHQTVRdEZfQTl2TXdkSlNSYUh1eF9RTWNWU2hHWnhmNHlCZ0ZJQ3gzaFpuQlZGV2s0b244bFZvV0l6NGM4RWM2TFpJRUMwSjdiLWk0TXVPaVJSQUVEY080UVIyTjNQUnAwclI0NUs0QzhDb0hOSC1xaVljb2ZHY3dYMVFyandyVHU3UFo0WTZZUkgwcHA5UUNqSTFxSnd6TUstdXNrdnR0UXF3?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1795021200
-    },
-    {
       "title": "Eagles News: Zack Baun is a rare bright spot on this team",
       "link": "https://www.bleedinggreennation.com/news/190625/eagles-news-zack-baun-is-a-rare-bright-spot-on-this-team",
       "source": "Bleeding Green Nation",
@@ -289,22 +319,16 @@
       "published": 1794992400
     },
     {
-      "title": "Fred Johnson finds new NFL home after being cut by the Eagles",
-      "link": "https://www.bleedinggreennation.com/news/190621/fred-johnson-finds-new-nfl-home-after-being-cut-by-the-eagles",
-      "source": "Bleeding Green Nation",
-      "published": 1794965694
+      "title": "Eagles fall to No. 1 South Carolina - FGCU Athletics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDlLZVlYNDNfRXdaSGxRMEJ4V1AyWGw4dkwzbzBzWmwza1ZOZFRIZk1aXzU2VWhwYjlUMVdXOUV2blRpS1ZQT2xMVjlnSDJidHdoMkkySzg0NUVkOUpZUXFmQS01RkQyaXA1V3RNcmZwdkFNY2dmRm82eGlFMnpfNHJKbmhSTC02Qjk0VXc0UkRna25qb2lFXzlR?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1794971225
     },
     {
       "title": "Fred Johnson finds new NFL home after being cut by the Eagles - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZW5aXzhiOGY1RnhFdUNITU5HRE02d2Ryc1pMZHBhMFhmWFk5ckhuaGxELU9YVl9DRTNxcjFUYWM2S1JyTHBvZHNBVjYtbS1ob0p3V1hCTmt1clFBTHdlMmdTVDI2ZVh5Uzk4RmNuUjdEWTNGaDhLLWNlVjhlajdBZGJKa3NNSmVJSlotbVBuRGdjby1NVGMtakNYck0tYi1zYmhnV1lIYUpINzhPN3c?oc=5",
       "source": "Google News — Eagles",
       "published": 1794965640
-    },
-    {
-      "title": "Eagles Film Review: What to make of Makai Lemon so far",
-      "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/190596/eagles-film-review-what-to-make-of-makai-lemon-so-far",
-      "source": "Bleeding Green Nation",
-      "published": 1794951529
     },
     {
       "title": "Eagles Film Review: What to make of Makai Lemon so far - Bleeding Green Nation",
@@ -325,6 +349,12 @@
       "published": 1794942442
     },
     {
+      "title": "Eagles host 2026 ASUN Volleyball Championship this week at Alico Arena - FGCU Athletics",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFNoRTVwcmhjZG42RjFFbkRvWXRmUFdhQkJGSDhKV0p3NDVSRHZVMGpoQ0ZJQmdpT25ST0xpXzRJbktOX1VldEJtTjRYUFZTQ19RNENoeXFWd09jaHgtWThLclRwMkMxNjdCSGNyUHptVEhVYUlsdWZDYWg0ZldERDRnRXh6TV93REJWTGtQNjNNZFY0aUszVE9rZ1NfTDZrN1dOR1VoSXZYdks2Vmcyb2xB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1794865544
+    },
+    {
       "title": "Spadaro: Eagles sign Zach Ertz, make several roster moves as team is back from the bye - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN00xbTJxeWVvWlpXSVJJRTZPWVRGaTFpY1U3VUF3MDNWVEFKdFZyOE1GM1FidXdmZGVqenphXzAxRVRldTlVVVpYcVBDOWNZZzBmVUQwV1RjdXVjMlEzbW1mTE02VEYwM3hpaGJ1WkxhY1pXVGhKVndLUWZqU1VPMzVDdjd0R2ZmNFRTRVBTUExHVlFlS09LLXJHRW8yY2F3MWYzZUNrYkU1bXVlRzZTTnlvZk9pVlU?oc=5",
       "source": "Google News — Eagles",
@@ -337,10 +367,22 @@
       "published": 1794852888
     },
     {
+      "title": "How Should We Look at the Rest of the Eagles’ Season? - Crossing Broad",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFVvbGdkY0l5OFduTklpSDRDc0dNMVpnaWhfcDgySHVFNUREUEkybUJwV0tVZ2x0UEZxUW9XMnBPNEY0ZDJJamc1ekJuNEhTQWdHSndFNHlic3pTX0dralpSaXItZk16NU1xaUpwVTBsSHBOQVRiU0RhUU9waXRjY2pBaldQa2JKX3BrZmlXSjZhTzAzd0dMZ2t3?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1794840540
+    },
+    {
       "title": "Questions by position as Eagles return from 2026 bye week - NBC Sports Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXNQY2JOQ3J0cTJ0aW9rVWtIaUZ6V3hreWpoX3FFb2ppU2JvWkM2ZzdHT0RQQnNVQ2Q2cnZLMUMyNGl6V0Vhek9DZzgyV0VkeEptQkpZV0NIZ2h6TE9jZmJqMTJIV2xOSDFKSjFnczdDRXJWa2JFaUpNcGZWT216dUYzQ0FOZGYzbTZOSGtpWFZLOUpoZzM2S2xyM3FkVnVXNkRTM25nX0NkYWRlTUJ3SXlBSXNYNzhrMHhDa0ZjcXQzTDVkRmfSAc4BQVVfeXFMT2laTy0tc0JPNlNVdWduekU0bmYwbjcxdWVrUmFiaDROTGxkZFNtbkR0UXc4cWlsVkZ5NWZ5OXF5aGVjbVR6RU1ETGhGa1BISFpLaGpWMVZoV2I1aml0NE9CSGhjN3gxZ19vVHQwTmZFY2JBMnNZTTdYMUFEZU94LXdYM0d6SktjTkgyaFZyQW5WWXFhYWJPSllOb0UxS0kwQ18zTm8xV0RQUkliRG4zQXRMdTVJcmk2MnFFZ2hGZTJ0aDNuRVQ5clQ1RkJrdnc?oc=5",
       "source": "Google News — Eagles",
       "published": 1794824456
+    },
+    {
+      "title": "Eagles News: Is Philadelphia going to lose out? - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmxQejBQd0hPNXJQaTdoS21yQWxKV1ZfT05YdlRCdVlKX3IzUWpjNDNEVjRtTjhIWXJzWDlDaHQyYmJlQl9QcjVEMUU4V2drdFNaMGxEUjd3eXE1dDZSd05Ua2ZIdXo4azFlc2hHWlhBVFZWYUp1R3ZoX2I1WS11UHU3TktZMmFfbV9DaFNNbE5RYjU4QmdxYg?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1794752697
     },
     {
       "title": "Roob's Eagles Observations: Time to turn to a Stout disciple who's already here? - NBC Sports Philadelphia",
@@ -349,16 +391,10 @@
       "published": 1794744000
     },
     {
-      "title": "Eagles waiving veteran OT Fred Johnson - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVV1Y05lLUxvVVVhekZPTkVjTklCaXZHVWtTMm0wZnhaTzNXZ2RVVmlvSVRXR1R1OVdKX28yaTM1UTBId0NLSlhyU2U1SnVhSHl5U3ljZ2Q0VHh3VUR6bjM1VkdCallpa2x4bk1RLVdjbHZPdjl1SkJhMHgzQmNzMjc1WGM3TW83RW9vRzk5ektDNTJFQmlhZ2FJRFp5MFJFU2d3bnY1SVFqSFJwbElVbWllT0YwV0UyNEVhYW54UEhFYzI4Ry11UWZxUnoyU0QtQmpLU0lXX0tDckx1M2fSAeYBQVVfeXFMT3lueTg5RjdLQWdnODJkQ2tvRzJJaVZwN1JPY1F0UnZMZVphcUx0bkl5NUhfU0RFaF9NUDR6ZGRNeTdrSVFMZ2E5NmZvM0xPZEpPYVdTMTBMZ29XcTBuMUxKckJPRHQzSHBiczM3QVUxQWM3VGVwdUxyMG9JRXpnMXhWRHowZ1p4RmNvTEZTUFZQN2xnRmVHRjFOcUFTMi1HSmFaVXdLSVBONUJfc1FoY2xwenhpM2g5SE9YdXpYSlZtRUJEa2VCTUlPU3gxU3FVaTFUTUdhXzZwTWlYOWlTcFRYa0Q0WUE?oc=5",
+      "title": "Jason Kelce reveals what he hates about Eagles that could make owner Jeffrey Lurie angry - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFk3cGRRZjFreHRreTg5TWhlN3FuelBOVG9jSXlEcG81TFNDX0VGYUkzaGRGbklGX1Z5V3dLVDJHZkVNck4tT0k5SUhGVzdMMEw0OGZhSjhZelM0b3FWQUVpeFlNZ1cySzV6Y2Utb2RrNkNnbUdEbWU3TUtielVJelFqQ09RbHcw?oc=5",
       "source": "Google News — Eagles",
-      "published": 1794606300
-    },
-    {
-      "title": "Eagles release wide receiver Hollywood Brown per request - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnJMTGlMa0NOM0h6cFVmSDBrUm9KaGJNN25ucWE0YXJsNmhCS0NVZ3drX3JNOVRpU2R4UUFPMVlqMGZkNHBwZWpkNWo0R3V2NGVNY2hKYkc3aVFfNnZKdFA2SldGN0FKcjJqcy1BOFRqS2xRVjVXVjBDOTFFdkIwU1lxNVI1SWlpSGtfTDB5TVZxTWdSRU1EU2tBd3JrRjQ?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1794596880
+      "published": 1794742207
     },
     {
       "title": "The Philadelphia Eagles' 2026 trade haul is likely to age well over time - ESPN",
@@ -367,8 +403,8 @@
       "published": 1794384000
     },
     {
-      "title": "Bengals' Zac Taylor apologizes for failed trade with Eagles: 'It was on our end' - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzRvZUFhM2t3NVBfdW5VTXBVODNRdDBPcFBib2syTU5laHplcVVnTHptb19zZDhPNGZLOUNtM3FaZUhOMzZwYXVZcVAySkE2TndTLVQ3aEprR25qYUl6aklBWl83SzllNi1hTlBjd1Q2dTY2bk5XM2NCenZJOGtBdjhFa2VMY19qaDZOdGhmN3Y5UHh3Q3AtSXVR?oc=5",
+      "title": "Eagles aren’t rebuilding. They’re retooling, with the immense draft capital as the backbone. - Bleeding Green Nation",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWXhsMllaeE53eGRXVDZOcW05VVkybVVGMUs0RWVsLWY0X2tFdWVpeTFlMFBVTC04M0R6SUNOMU02c2lvOFpmVm5HdU1uYWQxYmRjSWl1NWticDBRSEZESnl2UnlNN1haMUZvT3JaQnZSOXdqM3NSa0ZsUl93MzB6dzdiSTE1cTBJSDJzM1o3UVZ5LVEybi1Lc283T3d5SGtYT1E4Q09oRGdURjdYZkpoNkw3WXllaE1VZGFJa280VnRhdTVwMUNiTGpMR0UtUDREeV95aDBrWm56NXd0OGx3QUlaSi03WGFjLUNycnB3VEM?oc=5",
       "source": "Google News — Eagles",
       "published": 1794384000
     },
@@ -382,12 +418,6 @@
       "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start? - Philadelphia Eagles",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHpPdTV0a0pRWUpjTXltekZKbEMtd2FDdl9KUlpTbnpqZG1WRWtXb1VmZ2lJRWhYQ1Q3WTN0ckRxb1FYcExfQ2c4eVZDZkktUHVjdDQ4Q1lhZ3lnLXBUMXlPZlV3a1ZhUWJvTFdFOW1TSFQyWElpYmZyT0VObVU0V3A1M2gzbWwxUkl0YUVQWUZmR1VkNlV6OG00LXQzUGRXVERCbHduV29Oakk2Uk0yWm1NZS15VzBpZGlIVXBuNnBMTHpGaWtjQTk1SEMxbnZ5ZF9IU0V1UVdzYUhWWHc?oc=5",
       "source": "Google News — Eagles",
-      "published": 1794305075
-    },
-    {
-      "title": "NFL Network: Bengals call off trade for Eagles' Arnold Ebiketie over compensatory pick formula - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWllBVzNnc3JfcDNqNDlCV2FINnZOdC1PbllIYlhZYXg4MHZkcmZkS0RzQ0xyMEhVT20zTTBndENOWDk2LWlPcklOZVJNMHljdXl4RjZKV1FYTGxKeTJlTGNlcUwwbHRic1NSeEpGcE00bE8tU05RY2FqOUR3dF9TbVBsTEpCdlR3T19kZjdEcGtMQQ?oc=5",
-      "source": "Google News — Eagles",
       "published": 1794297600
     },
     {
@@ -395,6 +425,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnNlSGp5UmFDLXpBVDZhcTMtcVM3TlhuMHV0NTExcXl5OGM0MlRZYjFWVnQxbEx5cXBvR3NtT0JPYVlLcU9VdnZiVHFUc1F3OS1hN2tkOHlJcWkzbm0tclNPVXdNb21TLVptZnhQNTFobTVNNTVQME5xNDZ1RHhOc0N4eTF6TTZwaC1MckdSSzhDQV9VLVVBejBkbU13bmlYXzZPVlc1amNHdWpDMGJjUUhkM2tLU1BnLXNtZ2p0Y0JqR1BiWmtsOC1fc21jYVJkSUVZY1hJbFc?oc=5",
       "source": "Google News — Eagles",
       "published": 1794297600
+    },
+    {
+      "title": "Philadelphia Eagles head coach Nick Sirianni looking for constant growth from his players - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmJ5UFA1dFJnTkZ4VVNkQm0zMDBfT1dpZmxnM1dvSS11OFhFcm56eTFaamNjUTB5cXZ4QWxYNkVuZUFxRWFTZ3RoZFJ0UWMzRl96UU5qUUQ1dkRjbk95XzZ0V0RYX3NTeFl0OFM5c0JMVjhKQ1lkQk81eGZIdEUzLWhDbWtmbDJrazY4QnlB?oc=5",
+      "source": "Google News — Eagles",
+      "published": 1794267104
     },
     {
       "title": "Nick Sirianni not ruling out staff changes during Eagles' bye week following 7th consecutive loss - NFL.com",
@@ -409,14 +445,14 @@
       "published": 1794211200
     },
     {
-      "title": "Jaguars acquire Eagles DT Jordan Davis in blockbuster trade - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUNYelhLeFpDQVU5VGJYSWptZ25fQ2U3aUpFNDBQSmZBazVXQnkycml1REFOdHlsb21DemJCc0Uwcmdpc0xYd1FsRHVjNEY1SnljOElSbWhad1ZJNmc4WXNlVGt4b21rYkNkV00wWll5MWt2c2JFdWRCbndIQXplc3RQeWtfY0dLQkJYald6bTlRY0lNRlBmZGlR?oc=5",
+      "title": "Jaguars acquire Eagles DT Jordan Davis in blockbuster trade - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CR2dDd29uaFhzTVNTWVgxM20xVzdQZGI4dFYyQzhwa3FmUnotbHN0ZzhXM2x3VUFwSEdVc1h4SUhrR3BwY2twY0MwMFNyMEJvRjlTVnQ3UURiSkhMWS0tX0dHWWdzZnp6RUE?oc=5",
       "source": "Google News — Eagles",
       "published": 1794211200
     },
     {
-      "title": "Jaguars acquire Eagles DT Jordan Davis in blockbuster trade - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CR2dDd29uaFhzTVNTWVgxM20xVzdQZGI4dFYyQzhwa3FmUnotbHN0ZzhXM2x3VUFwSEdVc1h4SUhrR3BwY2twY0MwMFNyMEJvRjlTVnQ3UURiSkhMWS0tX0dHWWdzZnp6RUE?oc=5",
+      "title": "Jaguars acquire Eagles DT Jordan Davis in blockbuster trade - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUNYelhLeFpDQVU5VGJYSWptZ25fQ2U3aUpFNDBQSmZBazVXQnkycml1REFOdHlsb21DemJCc0Uwcmdpc0xYd1FsRHVjNEY1SnljOElSbWhad1ZJNmc4WXNlVGt4b21rYkNkV00wWll5MWt2c2JFdWRCbndIQXplc3RQeWtfY0dLQkJYald6bTlRY0lNRlBmZGlR?oc=5",
       "source": "Google News — Eagles",
       "published": 1794211200
     },
@@ -431,24 +467,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMlRQeUF3QXRFQ1I5UnlCVjZzMk84T3F0aEpOalAyNU1jaTNsWjJXeExPZDhlakQ0RlF2bDBiMXVDR0h4allaRUxHM3Z5TnZGYUtVSEJveVFSMm5tX3VyY1hEaFJQSlRoQWg1MS04alFaaTZCbUF2MzR6T1Q5T2xpMVFNLUJhRkdSUHJFT2tkLTFSb0luQlliNExBUl82akU4R1lRX0F6V0QtYzBfM2FjUWN1bTJ6ZzFnMXdYNVF4WHlwa1Z2TE02bzlNRkM0bEpZRl9Sek5sQ18tYzB4MVNTa1pNcjRqOTJpdlpCUElqdTBzTmZkQ084Tw?oc=5",
       "source": "Google News — Eagles",
       "published": 1794211200
-    },
-    {
-      "title": "Eagles QB Joe Milton prepares for first start: NFL is about 'being ready when your name is called' - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tb1U0UUlxZ3gzalc4clFwQmZPN0pmcW9xUjZnVndYY2djVjhtU0lGeVpvZEtFamI1SVZEOGxkSmNFbzFfeDZwQV92VlJqaFhSNkRzMW1yV0V0dExvU1BBWWpSVFRKMHAxR0Z4bVI4TDZXanBxRF9aUmQzTG80Zw?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793952000
-    },
-    {
-      "title": "Meet Jalen Cyrus, the artist behind the viral Go Birds T-shirt - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG04YVZVWm11MkhNNUY3ZXFVQkV2aFl4Q0ZuclpvZ3NLNk5qX3FHanpvdFR4VlQzeHMyMW9DX1MtVEtaM2syRW0wazBFRjY1amVFMF9CQnp1RDhFN3U5Uzh6Z3BvVEQ3MEZkZWxjcE4zSGZxUEtKWHRKT2c5cHlobHBtMUNwVVl0VG9nNzVFZnRGZG4zclJlSnp2ZmhtaEgwTnRfY2RTUGQwclpNOXNQbWhka0hQOGVPMHBRUTVfMm9CZV9j?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793952000
-    },
-    {
-      "title": "Eagles Players Press Conferences: November 6, 2026 - Philadelphia Eagles",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNmNQRHAySXl2aU03V0l6TTJLazlNeFRYcXZES3EwaWhEaTFUdnQxSW9kSFR0SnR3NXhfdDNkVDVPWlpyRU1rVl93VTNCVzFqOXRsTmRqNlN5WWNpX1g0akZmM1NnMWhaSXI0UVVXdUZpeVRadGZ1bVJrSVRuTmRMY2lnYjVpbDJJcUFDa2hwWXJnNTVwVDkwTFRVTnY4MWZ2MTA0YTFxSE5kWWhfWGg2VG0xTHlTdzJQQ0RZSExDb3lqMnY0Mkh4U1FmODlMYWFOZEhOVFpHOA?oc=5",
-      "source": "Google News — Eagles",
-      "published": 1793952000
     }
   ]
 }
